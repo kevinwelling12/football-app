@@ -36,7 +36,7 @@ h1 { font-size: 26px; font-weight: 700; letter-spacing: -.02em; margin: 0; }
 .chip { flex: none; display: inline-flex; align-items: center; gap: 7px; padding: 7px 12px; border-radius: 999px; background: var(--card); color: var(--muted); font-size: 14px; font-weight: 500; }
 .chip .dot { width: 7px; height: 7px; border-radius: 50%; }
 .chip.on { background: var(--fg); color: var(--bg); }
-.seg { display: flex; gap: 22px; max-width: 760px; margin: 0 auto; padding: 0 16px; border-bottom: 1px solid var(--line); overflow-x: auto; scrollbar-width: none; }
+.seg { display: flex; gap: 18px; max-width: 760px; margin: 0 auto; padding: 0 16px; border-bottom: 1px solid var(--line); overflow-x: auto; scrollbar-width: none; }
 .seg a { flex: none; padding: 9px 0 10px; color: var(--muted); font-weight: 500; font-size: 14.5px; border-bottom: 2px solid transparent; margin-bottom: -1px; }
 .seg a.on { color: var(--fg); border-color: var(--accent); }
 

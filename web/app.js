@@ -288,6 +288,7 @@ function viewLeague() {
   if (route.sub === 'matches') return viewMatches(k);
   if (route.sub === 'odds') return viewOdds(k);
   if (route.sub === 'scenarios') return viewScenarios(k);
+  if (route.sub === 'affinity') return viewLeagueAffinity(k);
   return viewTable(k);
 }
 
@@ -414,6 +415,25 @@ function featureCard(title, x) {
 }
 
 const blendLabel = L => `the betting line where there is one (${Math.round(L.P.mktW * 100)}% market)`;
+
+// Every club in the league by Affinity; your clubs first (they aren't scored)
+function viewLeagueAffinity(k) {
+  const L = D[k], fav = favIds(), A = affinity();
+  if (!Object.keys(TRAITS).length) return '<div class="spinner">Loading…</div>';
+  const mine = [], rest = [], none = [];
+  L.teams.forEach((t, i) => { if (!TRAITS[t.id]) none.push([i, t]); else if (fav.has(t.id)) mine.push([i, t, null]); else rest.push([i, t, affOf(t.id)]); });
+  rest.sort((a, b) => b[2] - a[2]);
+  const row = ([i, t, v], n) => {
+    const r = reasonsOf(t.id), why = v == null ? 'your club' : [...r.good.slice(0, 2).map(lc), ...r.bad.slice(0, 1).map(f => 'but ' + lc(f))].join(', ');
+    const grp = LEAGUES[k].groups && t.g ? ` <span class="faint tiny">${esc(t.g.replace(/ern$/, ''))}</span>` : '';
+    return `<tr class="click${v == null ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${v == null ? '★' : n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)}${grp}<br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${v == null ? '' : Math.round(v)}</td></tr>`;
+  };
+  let html = `<div class="section"><h2>Affinity</h2><span class="aside">${A.n ? `learned from ${A.n} of your picks` : 'no picks yet'}</span></div>
+    <div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${mine.map(r => row(r, 0)).join('')}${rest.map(row).join('')}</table></div>`;
+  if (none.length) html += `<p class="note">No research yet for ${esc(none.map(([, t]) => t.n).join(', '))}.</p>`;
+  html += `<p class="note">The chance you'd pick each club over a typical one, from your picks. Tap a club for the evidence; tune it on the Clubs page.</p>`;
+  return html;
+}
 
 function viewScenarios(k) {
   const L = D[k], rules = LEAGUES[k], R = SIM[k]?.sim ? SIM[k] : null; if (!R) return '<div class="spinner">Working out scenarios…</div>';
@@ -688,7 +708,7 @@ function settingsSheet(keep = false) {
 function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'picks', 'clubs'].includes(p[0]) ? p[0] : 'today';
-  if (tab === 'league') { if (LEAGUES[p[1]]) route.lg = p[1]; if (['matches', 'table', 'odds', 'scenarios'].includes(p[2])) route.sub = p[2]; localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'league') { if (LEAGUES[p[1]]) route.lg = p[1]; if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
@@ -701,7 +721,7 @@ function chrome() {
   chips.hidden = seg.hidden = route.tab !== 'league';
   if (route.tab === 'league') {
     morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join(''));
-    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
+    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
   }
   const st = store.status(); $('#sync-dot').className = 'sync-dot' + (st === 'synced' ? ' on' : st === 'error' ? ' err' : '');
 }
