@@ -16,6 +16,10 @@ neutral scores (see "Low information") and say so. Never invent facts. Search th
 sources: Wikipedia, club sites, reputable outlets) for each player; one or two searches per player is usually enough.
 Today is 2026-10-13; use current information.
 
+**Right person:** names repeat. The input's club, nation and age come from ESPN; make sure the page you use is the player
+at that club now. If the age or nation disagrees with every candidate, use the one at the input's club, say so in
+`notes` ("identity: ESPN lists X") and set confidence "low".
+
 ## Output
 Write a JSON array to the file path you are given, one object per player, in the order given:
 
@@ -65,7 +69,7 @@ Write a JSON array to the file path you are given, one object per player, in the
 - `abuse_allegation` 0–2 (0 none, 1 credible allegation: charged, acquitted or dropped, 2 convicted or settled)
 - `racist_abuse` 0–2: racist, homophobic or other discriminatory abuse (1 alleged or apologised, 2 banned or convicted)
 - `match_fixing`, `criminal_other` (other conviction, e.g. drink-driving causing harm), `doping`, `tax_fraud`: 0/1
-- `red_card_violence`: count of violent-conduct incidents off the ball (punch, headbutt, bite, assault)
+- `red_card_violence`: count of violent-conduct incidents off the ball (punch, headbutt, bite, spitting, stamp, assault)
 - `money_league`: 0/1 moved to a Saudi, Qatari, Emirati or Chinese Super League club for money
 - `authoritarian_ambassador`: 0/1 paid ambassador for an authoritarian state
 - `forced_transfer`: 0/1 went on strike or forced a move; `rival_move`: 0/1 moved directly between bitter rivals

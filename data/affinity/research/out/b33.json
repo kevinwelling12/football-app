@@ -1,0 +1,773 @@
+[
+ {
+  "espn_id": "225687",
+  "name": "Sam Staab",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Best XI 2023; 2 USWNT caps (2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "steady centre-back, came back from 2024 Achilles tear",
+   "LO": "five seasons at Spirit, third at Chicago",
+   "AB": "Best XI centre-back, briefly capped",
+   "ST": "defender known for distribution, little flair",
+   "LE": "solid NWSL regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Staab"
+  ]
+ },
+ {
+  "espn_id": "372751",
+  "name": "Nádia Gomes",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1996,
+  "nation": "Portugal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "San Francisco Glens",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained San Francisco Glens (USL W League) 2023",
+  "honours": "USL W League National Player of the Year 2023; 2 Portugal caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "worked her way back via USL W League",
+   "LO": "short pro career; Chicago since 2024",
+   "AB": "bench forward in NWSL, few caps",
+   "ST": "forward, modest output",
+   "LE": "comeback after five years away from the game"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nádia_Gomes"
+  ]
+ },
+ {
+  "espn_id": "253820",
+  "name": "Brianna Pinto",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2022, 2023; U.S. Soccer Young Female Player of the Year 2019",
+  "causes": [
+   "U.S. Soccer Athletes' Council (2020), pushed to diversify federation leadership",
+   "NWSL Players Association rep in 2024 CBA talks"
+  ],
+  "CH": 7.5,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "players' union and Athletes' Council work, diversity advocacy",
+   "WK": "midfielder, team-first leadership roles",
+   "LO": "four years at Courage, free-agent move to Chicago",
+   "AB": "NWSL regular, no senior caps",
+   "ST": "attacking midfielder (No. 10 at Chicago)",
+   "LE": "union role and 2026 World Cup bid speech"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brianna_Pinto"
+  ]
+ },
+ {
+  "espn_id": "296893",
+  "name": "Maitane",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "UD Collerense",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Levante UD",
+    "from": 2015,
+    "to": 2020
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Spain caps; U-17 European champion squad 2011",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "defensive midfielder",
+   "LO": "five years at Levante, then several moves",
+   "AB": "Liga F and NWSL regular, 2 Spain caps",
+   "ST": "holding midfielder",
+   "LE": "solid club career in Spain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maitane_López"
+  ]
+ },
+ {
+  "espn_id": "261984",
+  "name": "Julia Grosso",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2000,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Juventus",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2020 (scored the winning shootout penalty); Serie A 2021-22; Coppa Italia x2; CONCACAF W Championship Golden Boot 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "box-to-box midfielder, also covers left-back",
+   "LO": "three years at Juventus, Chicago since 2024",
+   "AB": "86 Canada caps, Serie A best midfielder 2022-23",
+   "ST": "technical midfielder",
+   "LE": "scored the shootout kick that won Olympic gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julia_Grosso"
+  ]
+ },
+ {
+  "espn_id": "262820",
+  "name": "Jenna Bike",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Boston College",
+  "honours": "No pro honours; NSCAA National High School Player of the Year 2015",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "versatile, plays forward or right-back",
+   "LO": "fourth season at Chicago",
+   "AB": "NWSL squad player",
+   "ST": "utility forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jenna_Bike"
+  ]
+ },
+ {
+  "espn_id": "368730",
+  "name": "Aaliyah Farmer",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2003,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Tigres UANL",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga MX Femenil Apertura 2025 (Tigres); 5 Mexico caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; left Tigres after harassment in Mexico (she was the target)",
+   "WK": "centre-back or holding midfielder",
+   "LO": "one season at Tigres, first year at Chicago",
+   "AB": "young Mexico international",
+   "ST": "defensive player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaliyah_Farmer"
+  ]
+ },
+ {
+  "espn_id": "348792",
+  "name": "Tessa Dellarose",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riveters",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Co-captain of North Carolina 2024-25",
+  "honours": "NCAA champion 2024 (North Carolina); U.S. U-20 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "left-back or defensive midfielder, college captain",
+   "LO": "rookie season",
+   "AB": "NWSL rookie",
+   "ST": "full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tessa_Dellarose"
+  ]
+ },
+ {
+  "espn_id": "225731",
+  "name": "Michelle Alozie",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "BIIK Kazygurt",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "WAFCON 2024 with Nigeria; CAF Team of the Year 2023, 2024; Officer of the Order of the Niger",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no incidents found; known for calm after being stamped on at 2023 World Cup",
+   "WK": "energetic right-back",
+   "LO": "five seasons at Houston, traded to Chicago",
+   "AB": "75 Nigeria caps, CAF Team of the Year",
+   "ST": "attacking right-back",
+   "LE": "African champion, World Cup moments"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michelle_Alozie"
+  ]
+ },
+ {
+  "espn_id": "250051",
+  "name": "Katie Atkinson",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL single-season saves record 2022; Goalkeeper of the Year finalist 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "goalkeeper",
+   "LO": "five seasons at Racing Louisville (as Katie Lund)",
+   "AB": "GOTY finalist, NWSL starter",
+   "ST": "goalkeeper",
+   "LE": "saves record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Formerly Katie Lund.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katie_Atkinson_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "255413",
+  "name": "Jordyn Huitema",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2020; D1 Féminine 2020-21; NWSL Shield 2022; 98 Canada caps, 24 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "target forward",
+   "LO": "three-plus seasons each at PSG and Seattle",
+   "AB": "Canada international since 15, PSG title",
+   "ST": "striker",
+   "LE": "Olympic champion, capped at 15"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Out since July 2026 ACL tear.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordyn_Huitema"
+  ]
+ },
+ {
+  "espn_id": "261670",
+  "name": "Ryan Gareis",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Houston Dash Young Player of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents found",
+   "WK": "converted forward playing full-back",
+   "LO": "four seasons at Houston",
+   "AB": "NWSL squad player",
+   "ST": "attacking full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Now goes by Ryan Connaughton on Wikipedia.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Gareis"
+  ]
+ },
+ {
+  "espn_id": "295596",
+  "name": "Bea Franklin",
+  "club_id": "15360",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Stars FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "SEC Midfielder of the Year 2023",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; one-game suspension for misconduct in 2024",
+   "WK": "midfielder turned centre-back",
+   "LO": "Chicago since draft, re-signed through 2027",
+   "AB": "late draft pick turned regular",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One-game suspension (misconduct, June 2024), nature not specified.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bea_Franklin"
+  ]
+ }
+]

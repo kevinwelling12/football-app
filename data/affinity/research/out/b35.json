@@ -1,0 +1,458 @@
+[
+ {
+  "espn_id": "226777",
+  "name": "Kayla Sharples",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Adelaide United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2025; NWSL Best XI First Team 2025; Defender of the Year finalist 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "reliable centre-back, credited with steadying KC's defence",
+   "LO": "three NWSL clubs plus loans",
+   "AB": "Best XI first team in 2025, uncapped",
+   "ST": "no-frills centre-back",
+   "LE": "key part of 2025 Shield side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kayla_Sharples"
+  ]
+ },
+ {
+  "espn_id": "296207",
+  "name": "Croix Bethune",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained USC in college",
+  "honours": "Olympic gold 2024; NWSL Rookie and Midfielder of the Year 2024; Best XI 2024, 2025; Challenge Cup 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "creative midfielder, nothing notable either way",
+   "LO": "moved after two Spirit seasons",
+   "AB": "NWSL Midfielder of the Year as a rookie, US international",
+   "ST": "playmaker with vision and passing",
+   "LE": "Olympic gold medallist early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Croix_Bethune"
+  ]
+ },
+ {
+  "espn_id": "262418",
+  "name": "Haley Hopkins",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "North Carolina Courage",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2023; NWSL Shield 2025",
+  "causes": [
+   "President of the NWSL Players Association (elected March 2025); negotiated the 2024 CBA update"
+  ],
+  "CH": 7.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "elected NWSL Players Association president",
+   "WK": "squad forward, union leadership for teammates",
+   "LO": "two NWSL clubs so far",
+   "AB": "solid NWSL squad forward",
+   "ST": "direct forward, occasional goals",
+   "LE": "union president role adds some influence"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haley_Hopkins"
+  ]
+ },
+ {
+  "espn_id": "325236",
+  "name": "Michelle Cooper",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2025; Hermann Trophy 2022; CONCACAF U-20 Golden Ball and Golden Boot 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "attacking winger, nothing notable either way",
+   "LO": "one club since being drafted second overall",
+   "AB": "US international, NWSL regular",
+   "ST": "attacking wide player; fastest-from-kickoff NWSL goal",
+   "LE": "young; Shield winner, early caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michelle_Cooper_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "214254",
+  "name": "Elizabeth Ball",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2025; NWSL x Liga MX Summer Cup 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; co-founded a coffee business partnered with KC's stadium",
+   "WK": "dependable squad defender",
+   "LO": "with KC since its first season in 2021",
+   "AB": "NWSL squad defender",
+   "ST": "defender, few frills",
+   "LE": "long-serving original Current player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elizabeth_Ball",
+   "https://en.wikipedia.org/wiki/Elizabeth_Ball_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "310203",
+  "name": "Gabrielle Robinson",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2025; NWSL x Liga MX Summer Cup 2024",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; one ejection for a hard foul in 2025",
+   "WK": "led 2023 rookies in blocks, interceptions, clearances",
+   "LO": "one club, re-signed after a year-long ACL rehab",
+   "AB": "NWSL squad centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2025 ejection was for a hard tackle, not off-ball violence).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabrielle_Robinson"
+  ]
+ },
+ {
+  "espn_id": "328196",
+  "name": "Lorena",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Brazil",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Sport Recife",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Grêmio",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Goalkeeper of the Year 2025; NWSL record 14 clean sheets and 690 shutout minutes; Olympic silver 2024; Copa América 2022, 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "goalkeeper, nothing notable either way",
+   "LO": "six seasons at Grêmio",
+   "AB": "NWSL Goalkeeper of the Year, Brazil international",
+   "ST": "goalkeeper",
+   "LE": "NWSL clean-sheet records, Olympic silver"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lorena_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "307429",
+  "name": "Laney Rouse",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known either way",
+   "LO": "first professional club, extended through 2028",
+   "AB": "rookie NWSL full-back",
+   "ST": "full-back with some attacking output",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laney_Rouse"
+  ]
+ }
+]

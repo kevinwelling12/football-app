@@ -1,0 +1,1947 @@
+[
+ {
+  "espn_id": "271816",
+  "name": "Luca Petrasso",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2020 (Toronto FC); first Canada call-up Oct 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady left-back, no known issues",
+   "LO": "Toronto academy, then trades and short spells",
+   "AB": "MLS regular, recent Canada call-up",
+   "ST": "overlapping left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_Petrasso"
+  ]
+ },
+ {
+  "espn_id": "275798",
+  "name": "Prince Owusu",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "SC Paderborn",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Erzgebirge Aue",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Jahn Regensburg",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note; first Ghana call-up Nov 2025 (Germany youth international)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-forward, nothing notable either way",
+   "LO": "journeyman across German second tier and MLS",
+   "AB": "MLS starting striker",
+   "ST": "target-man striker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prince_Osei_Owusu"
+  ]
+ },
+ {
+  "espn_id": "279758",
+  "name": "Matthew Longstaff",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Newcastle United",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League Goal of the Month Oct 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "box-to-box midfielder",
+   "LO": "boyhood Newcastle fan, academy graduate; released after ACL injury",
+   "AB": "briefly Premier League, now MLS regular",
+   "ST": "known for long-range shooting",
+   "LE": "winner on PL debut vs Manchester United"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matty_Longstaff"
+  ]
+ },
+ {
+  "espn_id": "343641",
+  "name": "Victor Loturi",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Cavalry FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Cavalry FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Ross County",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CPL regular-season titles 2019 (Cavalry); Canada caps from 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "tireless central midfielder",
+   "LO": "few moves, none acrimonious",
+   "AB": "Canada international, MLS regular",
+   "ST": "energetic rather than flashy",
+   "LE": "Gold Cup appearance for Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Loturi"
+  ]
+ },
+ {
+  "espn_id": "270238",
+  "name": "Brayan Vera",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lecce",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Cosenza",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "América de Cali",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie B 2021–22 (Lecce); Central American and Caribbean Games 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, nothing notable",
+   "LO": "several clubs in Italy, Colombia, MLS",
+   "AB": "solid MLS defender",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brayan_Vera"
+  ]
+ },
+ {
+  "espn_id": "364675",
+  "name": "Dawid Bugaj",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Poland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lechia Gdańsk",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "I liga 2023–24 (Lechia Gdańsk, on loan)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young right-back",
+   "LO": "one main senior club so far",
+   "AB": "young MLS squad player",
+   "ST": "attacking full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dawid_Bugaj"
+  ]
+ },
+ {
+  "espn_id": "318238",
+  "name": "Thomas Gillier",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Chile",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Universidad Católica",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Chile senior call-ups 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, no issues known",
+   "LO": "Católica academy from 11; Bologna-owned, on loan",
+   "AB": "young starting MLS keeper, Chile call-ups",
+   "ST": "goalkeeper",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Registered to Bologna, on loan at Montréal.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_Gillier"
+  ]
+ },
+ {
+  "espn_id": "303469",
+  "name": "Jalen Neal",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "LA Galaxy",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2024 (LA Galaxy); CONCACAF U-20 Championship 2022; USMNT caps",
+  "causes": [
+   "LA Galaxy II Humanitarian of the Year for community outreach (2020)"
+  ],
+  "CH": 7.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "community outreach award at LA Galaxy II",
+   "WK": "composed centre-back",
+   "LO": "Galaxy academy graduate, traded 2025",
+   "AB": "USMNT at 19, MLS regular",
+   "ST": "ball-playing centre-back",
+   "LE": "MLS Cup winner, youngest USMNT CB in a knockout match"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jalen_Neal"
+  ]
+ },
+ {
+  "espn_id": "304154",
+  "name": "Efraín Morales",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Bolivia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bolivia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young centre-back",
+   "LO": "Atlanta homegrown from age 12",
+   "AB": "young MLS defender, Bolivia international",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Efrain_Morales"
+  ]
+ },
+ {
+  "espn_id": "362775",
+  "name": "Noah Streit",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Switzerland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Neuchâtel Xamax",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Switzerland youth international (U18–U21)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young forward",
+   "LO": "Basel academy, one move so far",
+   "AB": "young squad forward",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Streit"
+  ]
+ },
+ {
+  "espn_id": "384984",
+  "name": "Hennadii Synchuk",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Ukraine",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Metalist Kharkiv",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ukraine senior debut 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young attacking midfielder",
+   "LO": "hometown-region Metalist, then Montréal",
+   "AB": "promising U22 signing, Ukraine cap",
+   "ST": "creative attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hennadiy_Synchuk"
+  ]
+ },
+ {
+  "espn_id": "87387",
+  "name": "Samuel Piette",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2014,
+    "to": 2014
+   },
+   {
+    "club": "Racing de Ferrol",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Izarra",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2019, 2021 (Montréal); 2022 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 8.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "ball-winning holding midfielder",
+   "LO": "nine years at hometown club, returned by choice",
+   "AB": "Canada World Cup squad, long-time MLS starter",
+   "ST": "destroyer, not a playmaker",
+   "LE": "Montréal mainstay, World Cup and Copa América squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samuel_Piette"
+  ]
+ },
+ {
+  "espn_id": "315924",
+  "name": "Wikelman Carmona",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Venezuela",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FIFA Series runner-up 2026 (Venezuela); Venezuela caps from 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young midfielder, nothing notable",
+   "LO": "five years at Red Bulls after academy move",
+   "AB": "MLS squad player, Venezuela international",
+   "ST": "lively attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wikelman_Carmona"
+  ]
+ },
+ {
+  "espn_id": "351302",
+  "name": "Daniel Ríos",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Guadalajara",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Coras",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Guadalajara",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Vancouver Whitecaps",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa MX Apertura 2015, Supercopa MX 2016 (Guadalajara); USL All-League First Team 2018, 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "striker, nothing notable",
+   "LO": "many clubs and loans",
+   "AB": "prolific in USL, MLS rotation forward",
+   "ST": "goal poacher",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_R%C3%ADos_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "espn_id": "233047",
+  "name": "Fabian Herbers",
+  "club_id": "9720",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No team trophies; Big East Player of the Year 2014, 2015 (Creighton)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile utility attacker",
+   "LO": "six seasons at Chicago Fire",
+   "AB": "long-serving MLS squad player",
+   "ST": "workmanlike",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabian_Herbers"
+  ]
+ },
+ {
+  "espn_id": "221408",
+  "name": "Kristijan Kahlina",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Croatia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "NK Vinogradar",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "NK Lučko",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "FC Koper",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "HNK Gorica",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Ludogorets Razgrad",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained HNK Gorica from 2019",
+  "honours": "Bulgarian First League 2020–21; MLS Goalkeeper of the Year 2024; MLS Best XI 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady goalkeeper",
+   "LO": "five years and captaincy at Gorica; Charlotte since first season",
+   "AB": "MLS Goalkeeper of the Year",
+   "ST": "goalkeeper",
+   "LE": "Charlotte's first-choice keeper since its founding"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristijan_Kahlina"
+  ]
+ },
+ {
+  "espn_id": "268604",
+  "name": "Pep Biel",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "CD Llosetense",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Real Zaragoza",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "FC Copenhagen",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Olympiacos",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2021–22; Superliga Player of the Year 2021–22; Conference League top assister 2021–22; MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "creative, no known issues",
+   "LO": "several moves; loaned on by Olympiacos",
+   "AB": "Superliga Player of the Year, MLS All-Star",
+   "ST": "inventive playmaker and winger",
+   "LE": "Copenhagen title-winning season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. At Charlotte on loan from 2024, permanent after 2025.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep_Biel"
+  ]
+ },
+ {
+  "espn_id": "340698",
+  "name": "Idan Toklomati",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Israel",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Maccabi Petah Tikva",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Israel U19 runner-up at 2022 European U19 Championship",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young forward",
+   "LO": "two clubs so far",
+   "AB": "young MLS starting forward",
+   "ST": "direct forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Idan_Toklomati"
+  ]
+ },
+ {
+  "espn_id": "7567",
+  "name": "Ashley Westwood",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1990,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Crewe Alexandra",
+    "from": 2008,
+    "to": 2012
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Burnley",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Crewe from 2012; Charlotte FC captain",
+  "honours": "League Two play-offs 2012 (Crewe); FA Cup runner-up 2015 (Villa); Burnley Player of the Year 2018–19; MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "hard-working midfield leader",
+   "LO": "long spells at Villa and Burnley; captain at Crewe and Charlotte",
+   "AB": "Premier League regular for years",
+   "ST": "deep-lying passer, set pieces",
+   "LE": "FA Cup final, Burnley's European run era"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One early red card at Crewe for squaring up (not violent conduct).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ashley_Westwood_(footballer,_born_1990)"
+  ]
+ },
+ {
+  "espn_id": "156506",
+  "name": "Nathan Byrne",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1992,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Swindon Town",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Wigan Athletic",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Derby County",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL League One 2017–18 (Wigan); Wigan Player of the Year 2017–18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "no causes; target of racist tweets in 2019",
+   "WK": "energetic wing-back",
+   "LO": "several clubs; ended Derby contract unilaterally in 2022",
+   "AB": "Championship and MLS regular",
+   "ST": "attacking full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Cancelled his Derby contract under TUPE after administration (2022); not coded as a forced transfer.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Byrne"
+  ]
+ },
+ {
+  "espn_id": "146290",
+  "name": "Tim Ream",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1987,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Bolton Wanderers",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Fulham",
+    "from": 2015,
+    "to": 2024
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "USMNT captain (2025 Gold Cup, 2026 World Cup)",
+  "honours": "Championship 2021–22 and play-offs 2018, 2020 (Fulham); CONCACAF Nations League 2019–20, 2023–24; Fulham Player of the Year 2017–18",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "seen as a leader and mentor; no issues",
+   "WK": "dependable, leads by example",
+   "LO": "nine years and 312 games at Fulham",
+   "AB": "Premier League regular, USMNT captain",
+   "ST": "composed ball-playing defender",
+   "LE": "USMNT captain at the home World Cup, two World Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Ream"
+  ]
+ },
+ {
+  "espn_id": "419242",
+  "name": "Morrison Agyemang",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Ghana",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "HNK Šibenik",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young centre-back",
+   "LO": "two senior clubs so far",
+   "AB": "young MLS defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morrison_Agyemang"
+  ]
+ },
+ {
+  "espn_id": "282755",
+  "name": "Djibril Diani",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1998,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Grasshoppers",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Caen",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note; France U16",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "squad midfielder",
+   "LO": "four years at Grasshoppers",
+   "AB": "MLS squad midfielder",
+   "ST": "functional midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Djibril_Diani"
+  ]
+ },
+ {
+  "espn_id": "312976",
+  "name": "Liel Abada",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Israel",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Maccabi Petah Tikva",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Premiership 2021–22, 2022–23; Scottish Cup 2023; League Cup 2021–22, 2022–23; PFA Scotland Young Player 2021–22; Israel caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "thanked supporters when leaving Celtic amid Gaza-war tension",
+   "WK": "winger who works back",
+   "LO": "left Celtic under outside pressure, not by choice",
+   "AB": "title winner at Celtic, Israel international",
+   "ST": "quick goalscoring winger",
+   "LE": "part of Celtic's 2023 treble"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liel_Abada"
+  ]
+ },
+ {
+  "espn_id": "225609",
+  "name": "Luca de la Torre",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fulham",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Heracles Almelo",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Celta Vigo",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF Nations League 2022–23; CONCACAF U-20 Championship 2017; 2022 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "press-resistant link player",
+   "LO": "several moves across Europe and MLS",
+   "AB": "La Liga midfielder, USMNT squad",
+   "ST": "neat, technical midfielder",
+   "LE": "World Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_de_la_Torre"
+  ]
+ },
+ {
+  "espn_id": "271242",
+  "name": "David Schnegg",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Austria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "WSG Wattens",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "LASK",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "WSG Tirol",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Venezia",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Sturm Graz",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "D.C. United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austria cap (1)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back, nothing notable",
+   "LO": "many clubs; claimed off waivers by Charlotte",
+   "AB": "Austrian top-flight and MLS regular",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Schnegg"
+  ]
+ },
+ {
+  "espn_id": "246371",
+  "name": "Brandt Bronico",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chicago Fire",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None; Conference USA Player of the Year 2016 (UNC Charlotte)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic, selfless midfielder",
+   "LO": "Charlotte local college product, with the club since its MLS entry",
+   "AB": "MLS squad midfielder",
+   "ST": "workmanlike",
+   "LE": "original Charlotte FC player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandt_Bronico"
+  ]
+ },
+ {
+  "espn_id": "172833",
+  "name": "Harry Toffolo",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1995,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Swindon Town",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Scunthorpe United",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Doncaster Rovers",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Lincoln City",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Huddersfield Town",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL League Two 2018–19 (Lincoln)",
+  "causes": [
+   "Dementia UK ambassador",
+   "community events and school visits at Swindon"
+  ],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Dementia UK ambassador; FA betting ban (375 breaches)",
+   "WK": "hard-running wing-back",
+   "LO": "journeyman, many loans",
+   "AB": "Premier League squad player at Forest",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Admitted 375 FA betting-rule breaches (2014–17); five-month suspended ban and fine in 2023. Betting, not fixing.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Toffolo"
+  ]
+ },
+ {
+  "espn_id": "294222",
+  "name": "Henry Kessler",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2021 (New England); Gold Cup 2021 (USA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady centre-back",
+   "LO": "five seasons at New England",
+   "AB": "MLS regular, USMNT Gold Cup winner",
+   "ST": "no-frills centre-back",
+   "LE": "Supporters' Shield and Gold Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henry_Kessler_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "314343",
+  "name": "Archie Goodwin",
+  "club_id": "21300",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Australia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Newcastle Jets",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Adelaide United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "A-League Golden Boot 2024–25 (shared); A-League Young Footballer of the Year 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young striker",
+   "LO": "hometown Jets debut at 16, then moves",
+   "AB": "A-League Golden Boot, MLS squad forward",
+   "ST": "goalscoring striker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Archie_Goodwin_(soccer)"
+  ]
+ }
+]

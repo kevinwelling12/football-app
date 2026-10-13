@@ -1,0 +1,2025 @@
+[
+ {
+  "espn_id": "109193",
+  "name": "Lucas Hoyos",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1989,
+  "nation": "Argentina",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Newell's Old Boys",
+    "from": 2010,
+    "to": 2015
+   },
+   {
+    "club": "Gimnasia y Esgrima de Jujuy",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Instituto",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Atlético de Rafaela",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Instituto",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Vélez Sarsfield",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Newell's Old Boys",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Argentina U20 caps (2008-09)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 3.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "steady goalkeeper, no ego issues known",
+   "LO": "many Argentine clubs, two spells at Newell's",
+   "AB": "long-time Primera División keeper, MLS starter at 37",
+   "ST": "no-frills goalkeeper",
+   "LE": "journeyman keeper"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Hoyos"
+  ]
+ },
+ {
+  "espn_id": "255802",
+  "name": "Tristan Muyumba",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Monaco",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Cercle Brugge",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Toulon",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Guingamp",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "France youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "holding midfielder doing the running",
+   "LO": "Atlanta regular since 2023",
+   "AB": "Ligue 2 then MLS regular",
+   "ST": "tidy, functional midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tristan_Muyumba"
+  ]
+ },
+ {
+  "espn_id": "330082",
+  "name": "Tomás Jacob",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Newell's Old Boys",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Necaxa",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "versatile, plays where needed",
+   "LO": "Newell's academy graduate, now on third club at 22",
+   "AB": "young MLS regular",
+   "ST": "utility defensive midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomás_Jacob"
+  ]
+ },
+ {
+  "espn_id": "361498",
+  "name": "Elías Baez",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Lorenzo",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "two clubs so far",
+   "AB": "young left-back, MLS starter",
+   "ST": "full-back, little known of style",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elías_Báez"
+  ]
+ },
+ {
+  "espn_id": "185897",
+  "name": "Alexey Miranchuk",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Russia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lokomotiv Moscow",
+    "from": 2013,
+    "to": 2020
+   },
+   {
+    "club": "Atalanta",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Torino",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Russian Premier League 2017-18; 3 Russian Cups; Europa League 2023-24 (Atalanta); Euro 2020 goal",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "nothing notable either way on record",
+   "WK": "creative player, not known for defensive work",
+   "LO": "Lokomotiv academy, seven senior seasons there",
+   "AB": "Serie A and Europa League level, Russia regular",
+   "ST": "left-footed playmaker with long-range goals",
+   "LE": "cup-final solo goal, league title, Euro goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleksei_Miranchuk"
+  ]
+ },
+ {
+  "espn_id": "402315",
+  "name": "Cooper Sanchez",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2008,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US U17 at 2025 U-17 World Cup; US U20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Atlanta academy since age 12, homegrown",
+   "AB": "teenage MLS regular",
+   "ST": "young central midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cooper_Sanchez"
+  ]
+ },
+ {
+  "espn_id": "48128",
+  "name": "Miguel Almirón",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Paraguay",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Cerro Porteño",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Lanús",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2018; Argentine title 2016; EFL Cup 2024-25 medal; MLS Best XI 2017-18; PL Player of the Month Oct 2022",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 8.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "humble roots, but sent off for diving (2019) and booked for simulation and sent off in a confrontation at the 2026 World Cup",
+   "WK": "known for relentless running and pressing",
+   "LO": "six years at Newcastle, returned to Atlanta",
+   "AB": "Premier League regular, MLS Best XI",
+   "ST": "quick, direct dribbler with spectacular goals",
+   "LE": "MLS Cup, record MLS sale, Newcastle Champions League goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; the diving and World Cup red card (covering mouth in a confrontation) are reflected in CH.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miguel_Almirón"
+  ]
+ },
+ {
+  "espn_id": "243195",
+  "name": "Enea Mihaj",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Albania",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Panetolikos",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "PAOK",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Famalicão",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Greek Cup 2020-21; Albania Euro 2024 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "four clubs, three years each",
+   "AB": "Albania international, top-flight regular",
+   "ST": "no-frills centre-back",
+   "LE": "Euro 2024 squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enea_Mihaj"
+  ]
+ },
+ {
+  "espn_id": "211678",
+  "name": "Fafà Picault",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Haiti",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2012,
+    "to": 2012
+   },
+   {
+    "club": "Fort Lauderdale Strikers",
+    "from": 2014,
+    "to": 2014
+   },
+   {
+    "club": "Sparta Prague",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "FC St. Pauli",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Vancouver Whitecaps",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Inter Miami",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025 (Inter Miami); Canadian Championship 2024; Dynamo MVP 2021",
+  "causes": [
+   "Has spoken about the racism he faced as a youth player in Italy"
+  ],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "spoke about racism he faced; offensive-language ban handled by the code",
+   "WK": "hard-running winger",
+   "LO": "journeyman, eleven clubs",
+   "AB": "long-time MLS regular, US and Haiti caps",
+   "ST": "pacy, skilful winger",
+   "LE": "US and Haiti international, MLS Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 2,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "racist_abuse 2: MLS suspended him three games in 2018 under its offensive/discriminatory language policy (preseason scrimmage); he said the word was taken out of context.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fafà_Picault",
+   "https://mlssoccer.com/news/fafa-picault-pierre-da-silva-suspended-three-games-offensive-language",
+   "https://inquirer.com/philly/sports/soccer/philadelphia-union-fafa-picault-suspension-discriminatory-language-san-jose-earthquakes-borek-dockal-20180404.html"
+  ]
+ },
+ {
+  "espn_id": "138636",
+  "name": "Matt Edwards",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Atlanta academy, college at North Carolina, back since 2024",
+   "AB": "MLS squad player",
+   "ST": "functional midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthew_Edwards_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "181657",
+  "name": "Júnior Alonso",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Paraguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cerro Porteño",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Lille",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Boca Juniors",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Atlético Mineiro",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Krasnodar",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Atlético Mineiro",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Atlético Mineiro in 2021",
+  "honours": "Brasileirão and Copa do Brasil 2021; Argentine title 2019-20; Bola de Prata 2020, 2021; South American Team of the Year 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "nothing notable either way on record",
+   "WK": "defensive leader, captain",
+   "LO": "three spells and captaincy at Atlético Mineiro",
+   "AB": "best centre-back in Brazil 2021, Paraguay regular",
+   "ST": "defender first",
+   "LE": "captained Atlético's 2021 double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Júnior_Alonso"
+  ]
+ },
+ {
+  "espn_id": "304153",
+  "name": "Jay Fortune",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Trinidad and Tobago",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Atlanta United 2 (2022)",
+  "honours": "Trinidad and Tobago international; Gold Cup goal 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "named reserve-team captain young",
+   "LO": "Atlanta academy graduate, at the club since 2020",
+   "AB": "MLS squad player, T&T international",
+   "ST": "attacking midfielder",
+   "LE": "Gold Cup scorer for T&T"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jay_Fortune"
+  ]
+ },
+ {
+  "espn_id": "290024",
+  "name": "Will Reilly",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Decatur native, Atlanta academy, back after Stanford",
+   "AB": "MLS squad player",
+   "ST": "midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Will_Reilly"
+  ]
+ },
+ {
+  "espn_id": "308892",
+  "name": "Luke Brennan",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US U20 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Atlanta academy since 2017, homegrown",
+   "AB": "young MLS squad player",
+   "ST": "midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists England, age 24; the Atlanta United Luke Brennan on Wikipedia is American (Delaware Nation), born 2005. The English Luke Brennan (b. 2001) plays for Scunthorpe.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Brennan_(soccer,_born_2005)",
+   "https://en.wikipedia.org/wiki/Luke_Brennan_(English_footballer)"
+  ]
+ },
+ {
+  "espn_id": "243384",
+  "name": "Steven Alzate",
+  "club_id": "18418",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Colombia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Leyton Orient",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Swindon Town",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Standard Liège",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Hull City",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Colombia caps (2019-22)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "energetic, hard-working midfielder",
+   "LO": "Brighton contract seven years, much of it on loan",
+   "AB": "Premier League squad player, Colombia caps",
+   "ST": "busy box-to-box midfielder",
+   "LE": "scored Brighton's first Premier League win at Anfield"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steven_Alzate"
+  ]
+ },
+ {
+  "espn_id": "67518",
+  "name": "Facundo Torres",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Peñarol",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Austin FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Uruguayan title 2021; U.S. Open Cup 2022; Libertadores runner-up 2025; Uruguay caps",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 5.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "fined by MLS for simulation (2023) that got an opponent booked",
+   "WK": "Bielsa subbed him off a qualifier for weak defensive work",
+   "LO": "Peñarol academy, four clubs by 26",
+   "AB": "Uruguay international, MLS standout",
+   "ST": "skilful attacking midfielder and winger",
+   "LE": "Open Cup win, Uruguay caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; the 2023 simulation fine is reflected in CH.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Facundo_Torres"
+  ]
+ },
+ {
+  "espn_id": "183780",
+  "name": "Brad Stuver",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Columbus Crew",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "New York City FC",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2025",
+  "causes": [
+   "Runs the Laundry Project with his wife: free laundry for low-income families",
+   "Board of trustees, Equality Texas (LGBTQ+ advocacy); Athlete Ally ambassador",
+   "MLS WORKS Humanitarian of the Year finalist 2021; ESPN humanitarian award nominee 2022"
+  ],
+  "CH": 9.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "sustained community work and LGBTQ+ advocacy",
+   "WK": "long-time backup who earned his place",
+   "LO": "Austin FC's keeper since the club's first season",
+   "AB": "All-Star MLS starter",
+   "ST": "no-frills goalkeeper",
+   "LE": "Austin's original No. 1, humanitarian recognition"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brad_Stuver",
+   "https://austinfc.com/news/brad-stuver-nominated-for-2022-espn-sports-humanitarian-of-the-year-award",
+   "https://kvue.com/article/sports/soccer/austin-fc/austin-fc-brad-stuver-mls-works-humanitarian-of-year-finalist-2021/269-595c1635-b6d7-402a-8c56-2a68fa911d08"
+  ]
+ },
+ {
+  "espn_id": "231047",
+  "name": "Jon Gallagher",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Republic of Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Aberdeen",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "converted winger to right-back for the team",
+   "LO": "at Austin since its first season",
+   "AB": "All-Star MLS full-back",
+   "ST": "attacking right-back",
+   "LE": "Austin original, All-Star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jon_Gallagher"
+  ]
+ },
+ {
+  "espn_id": "286669",
+  "name": "Joseph Rosales",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Honduras",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Independiente de La Chorrera",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Austin FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Honduras international",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "apologised for escalating a 2025 clash; ban handled by the code",
+   "WK": "two-way left-sided player",
+   "LO": "five seasons at Minnesota",
+   "AB": "MLS regular, Honduras international",
+   "ST": "left-back and wide midfielder",
+   "LE": "Honduras caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 2,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "racist_abuse 2: MLS banned him three matches in 2025 under its non-discrimination policy after a clash with Vancouver's Emmanuel Sabbi; he denies using discriminatory language but apologised and did not appeal.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Rosales",
+   "https://www.yahoo.com/news/mls-suspends-loons-defender-joseph-233904898.html",
+   "https://mlsmultiplex.com/mls-suspends-mnufc-s-joseph-rosales-3-matches-after-slur-investigation-01jv85fy62gz"
+  ]
+ },
+ {
+  "espn_id": "304696",
+  "name": "Guilherme Biro",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Coritiba",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Mirassol",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Austin FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeonato Paranaense 2022; MLS All-Star 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Austin regular since 2024",
+   "AB": "All-Star MLS full-back",
+   "ST": "attacking left-back with goals",
+   "LE": "club regular, All-Star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guilherme_Biro_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "espn_id": "196666",
+  "name": "Oleksandr Svatok",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Ukraine",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Dnipro",
+    "from": 2011,
+    "to": 2017
+   },
+   {
+    "club": "Zorya Luhansk",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Hajduk Split",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Dnipro-1",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Austin FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2014-15 (Dnipro); Ukraine Euro 2024 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "long first spell at Dnipro, then Dnipro-1",
+   "AB": "Ukraine international",
+   "ST": "no-frills centre-back",
+   "LE": "Europa League final squad, Euro 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oleksandr_Svatok"
+  ]
+ },
+ {
+  "espn_id": "275500",
+  "name": "Myrto Uzuni",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Albania",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tomori",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Apolonia",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Laçi",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Lokomotiva Zagreb",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Ferencváros",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Granada",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Austin FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Hungarian titles, Magyar Kupa 2022; Segunda División 2022-23 and Pichichi; Leagues Cup top scorer 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "seven clubs, climbed steadily",
+   "AB": "La Liga forward, Albania regular",
+   "ST": "goalscoring forward and winger",
+   "LE": "Segunda top scorer, title-clinching goals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Myrto_Uzuni"
+  ]
+ },
+ {
+  "espn_id": "150185",
+  "name": "Ilie Sánchez",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Barcelona B",
+    "from": 2009,
+    "to": 2014
+   },
+   {
+    "club": "1860 Munich",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Elche",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Austin FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup and Supporters' Shield 2022; U.S. Open Cup 2017, 2024; MLS All-Star 2018, 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "selfless holding midfielder",
+   "LO": "five years at Sporting KC",
+   "AB": "long-time MLS regular, All-Star",
+   "ST": "La Masia-style passer",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilie_Sánchez"
+  ]
+ },
+ {
+  "espn_id": "238438",
+  "name": "Brendan Hines-Ike",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Örebro SK",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Kortrijk",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "D.C. United",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Austin FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "College captain at South Florida",
+  "honours": "Austin FC Defender of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "captain at youth and college level",
+   "LO": "four clubs in ten years",
+   "AB": "Belgian top flight and MLS regular",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brendan_Hines-Ike"
+  ]
+ },
+ {
+  "espn_id": "235061",
+  "name": "Christian Ramírez",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Charlotte Eagles",
+    "from": 2013,
+    "to": 2013
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Aberdeen",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Austin FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2023, Leagues Cup 2024 (Columbus); NASL Golden Boot 2014, 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "hard-working striker",
+   "LO": "many clubs; five seasons at Minnesota",
+   "AB": "prolific in NASL, solid in MLS and Scotland",
+   "ST": "penalty-box striker",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Ramirez_(soccer,_born_1991)"
+  ]
+ },
+ {
+  "espn_id": "257193",
+  "name": "Jon Bell",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Seattle Sounders FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Austin FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2021 (New England)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "four MLS clubs in six years",
+   "AB": "MLS squad defender",
+   "ST": "no-frills defender",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jon_Bell"
+  ]
+ },
+ {
+  "espn_id": "225834",
+  "name": "Besard Sabovic",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Sweden",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Djurgårdens IF",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Mjällby",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Kayserispor",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Khimki",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Djurgårdens IF",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Austin FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Allsvenskan 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "two spells at boyhood club Djurgården",
+   "AB": "Allsvenskan and MLS regular",
+   "ST": "central midfielder",
+   "LE": "league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Besard_Šabović"
+  ]
+ },
+ {
+  "espn_id": "213250",
+  "name": "Mikkel Desler",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "OB",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Haugesund",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Toulouse",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Austin FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2021-22; Coupe de France 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "five years at hometown-region OB",
+   "AB": "Ligue 1 regular, cup winner",
+   "ST": "overlapping right-back",
+   "LE": "Coupe de France winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikkel_Desler"
+  ]
+ },
+ {
+  "espn_id": "228620",
+  "name": "Brandon Vázquez",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tijuana",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Monterrey",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Austin FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2018; U.S. Open Cup 2019; Supporters' Shield 2023; MLS Best XI 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "target man who works for others",
+   "LO": "four years at Cincinnati",
+   "AB": "MLS Best XI, US international",
+   "ST": "physical striker, strong in the air",
+   "LE": "USMNT goals, Shield with Cincinnati"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandon_Vázquez"
+  ]
+ },
+ {
+  "espn_id": "381219",
+  "name": "Ervin Torres",
+  "club_id": "20906",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Austin FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "no information beyond regular selection",
+   "LO": "Austin academy product",
+   "AB": "teenage MLS squad player",
+   "ST": "young midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ervin_Torres"
+  ]
+ }
+]

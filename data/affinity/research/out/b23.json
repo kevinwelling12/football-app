@@ -1,0 +1,1771 @@
+[
+ {
+  "espn_id": "285383",
+  "name": "Justin Haak",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York City FC",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeones Cup 2022 (NYCFC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "defensive midfielder, holding role",
+   "LO": "six years at NYCFC from its academy before moving",
+   "AB": "solid MLS squad player",
+   "ST": "no-frills holding midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Haak"
+  ]
+ },
+ {
+  "espn_id": "242928",
+  "name": "JT Marcinkowski",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Georgetown (college)",
+  "honours": "CONCACAF U-20 Championship 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "goalkeeper, no ego issues reported",
+   "LO": "Earthquakes academy product, seven years there",
+   "AB": "MLS starting goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/JT_Marcinkowski"
+  ]
+ },
+ {
+  "espn_id": "234962",
+  "name": "Jakob Glesnes",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fyllingsdalen",
+    "from": 2010,
+    "to": 2015
+   },
+   {
+    "club": "Åsane",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Sarpsborg 08",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Strømsgodset",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Strømsgodset captain from 2017",
+  "honours": "Supporters' Shield 2020, 2025; MLS Defender of the Year 2022; MLS Best XI 2022, 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "dependable centre-back, captained Strømsgodset",
+   "LO": "six seasons at Philadelphia, captain in Norway",
+   "AB": "MLS Defender of the Year, among the league's best centre-backs",
+   "ST": "centre-back known for long-range strikes",
+   "LE": "two Supporters' Shields, Defender of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakob_Glesnes"
+  ]
+ },
+ {
+  "espn_id": "230580",
+  "name": "Lucas Sanabria",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Nacional",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "central midfielder, regular starter",
+   "LO": "young, academy product of Nacional, second season at Galaxy",
+   "AB": "MLS starter, Uruguay call-ups",
+   "ST": "technical midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists Paraguay, age 27 (matches Paraguayan Lucas Sanabria b. 1999, still at Libertad); the LA Galaxy No. 8 is the Uruguayan born 2003.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Sanabria",
+   "https://en.wikipedia.org/wiki/Lucas_Sanabria_(Paraguayan_footballer)",
+   "https://en.wikipedia.org/wiki/Lucas_Sanabria_(Uruguayan_footballer)"
+  ]
+ },
+ {
+  "espn_id": "366047",
+  "name": "Harbor Miller",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "LA Galaxy",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS NEXT Cup MVP 2023 (academy)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "young full-back/forward, used in several roles",
+   "LO": "LA Galaxy academy product since age ten, homegrown",
+   "AB": "teenage MLS rotation player, U.S. youth international",
+   "ST": "attacking full-back prospect",
+   "LE": "youngest Galaxy starter in Champions Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_LA_Galaxy_season",
+   "https://www.lagalaxy.com/news/la-galaxy-sign-la-galaxy-academy-defender-harbor-miller-to-homegrown-player-cont"
+  ]
+ },
+ {
+  "espn_id": "256843",
+  "name": "Joseph Paintsil",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tema Youth",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Ferencváros",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Genk",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian First Division A 2018-19 (Genk); MLS Cup 2024 (LA Galaxy)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "direct winger who works both ways",
+   "LO": "six years at Genk, then Galaxy",
+   "AB": "Ghana international, key in Galaxy's 2024 title",
+   "ST": "quick, direct winger",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Paintsil"
+  ]
+ },
+ {
+  "espn_id": "225615",
+  "name": "John Nelson",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2024 (LA Galaxy)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "squad full-back",
+   "LO": "four MLS clubs in six years",
+   "AB": "MLS squad defender",
+   "ST": "full-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Nelson",
+   "https://en.wikipedia.org/wiki/John_Nelson_(soccer,_born_1998)"
+  ]
+ },
+ {
+  "espn_id": "297050",
+  "name": "Julián Aude",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lanús",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2024 (LA Galaxy); South American U-17 Championship 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "left-back, regular starter",
+   "LO": "Lanús academy, fourth season at Galaxy",
+   "AB": "MLS starting left-back",
+   "ST": "attacking left-back",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julián_Aude"
+  ]
+ },
+ {
+  "espn_id": "105803",
+  "name": "Maya Yoshida",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1988,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Nagoya Grampus",
+    "from": 2007,
+    "to": 2010
+   },
+   {
+    "club": "VVV-Venlo",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "Southampton",
+    "from": 2012,
+    "to": 2020
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Japan captain 2017-2026 (2019 Asian Cup, 2022 World Cup); Olympic captain 2012, 2020; LA Galaxy captain from 2024",
+  "honours": "AFC Asian Cup 2011; MLS Cup 2024 (LA Galaxy captain); 127 Japan caps, three World Cups",
+  "causes": [
+   "Pledged 1% of salary to the Saints Foundation, its ambassador (2019)",
+   "Bought 10,000 masks for Genoa hospitals (2020)",
+   "President of the Japan Pro Footballers Association (2022)"
+  ],
+  "CH": 8.5,
+  "WK": 8.5,
+  "LO": 7.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "charity work and players' union presidency; one heated exchange with Saudi fans",
+   "WK": "long-serving captain, leads by example",
+   "LO": "eight years at Southampton, captain of club and country",
+   "AB": "Premier League and World Cup centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "long-time Japan captain, three World Cups, MLS Cup-winning captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maya_Yoshida"
+  ]
+ },
+ {
+  "espn_id": "287568",
+  "name": "Elijah Wynder",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Louisville City",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Young Player of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "box-to-box midfielder",
+   "LO": "five years at hometown-area Louisville City",
+   "AB": "USL standout, now MLS rotation",
+   "ST": "energetic midfielder",
+   "LE": "record USL domestic sale"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elijah_Wynder"
+  ]
+ },
+ {
+  "espn_id": "199926",
+  "name": "Erik Thommy",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Augsburg",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Jahn Regensburg",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "VfB Stuttgart",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Sporting Kansas City captain 2025",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "attacking midfielder, captained SKC",
+   "LO": "several loans in Germany, four years at SKC",
+   "AB": "Bundesliga squad player, MLS regular",
+   "ST": "creative winger/attacking midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erik_Thommy"
+  ]
+ },
+ {
+  "espn_id": "133963",
+  "name": "Carlos Garcés",
+  "club_id": "187",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Deportivo Pereira",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2024 (LA Galaxy)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "centre-back",
+   "LO": "Pereira then Galaxy",
+   "AB": "MLS rotation centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Also listed as Emiro Garcés (Carlos Emiro Garcés Torres).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Garcés",
+   "https://en.wikipedia.org/wiki/Emiro_Garcés"
+  ]
+ },
+ {
+  "espn_id": "237823",
+  "name": "Robert Taylor",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Finland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "JJK",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "RoPS",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "AIK",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Tromsø",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Brann",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Inter Miami",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Austin FC",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2024, Leagues Cup 2023 (Inter Miami); 34 Finland caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; declined a 2024 Finland play-off call-up to focus on club",
+   "WK": "versatile winger/wing-back",
+   "LO": "journeyman, many clubs",
+   "AB": "Finland international, MLS regular",
+   "ST": "wide attacker",
+   "LE": "Euro 2020 squad member, Inter Miami trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Taylor",
+   "https://en.wikipedia.org/wiki/Robert_Taylor_(footballer,_born_1994)"
+  ]
+ },
+ {
+  "espn_id": "276904",
+  "name": "Kyogo Furuhashi",
+  "club_id": "187",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Gifu",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Vissel Kobe",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Rennes",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham City",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "4 Scottish Premiership titles, 2 Scottish Cups, 3 League Cups (Celtic); PFA Scotland Players' Player and SFWA Footballer of the Year 2022-23",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no issues known, well liked at Celtic; little on causes",
+   "WK": "tireless pressing forward who runs channels",
+   "LO": "three and a half years at Celtic, fan favourite",
+   "AB": "Scottish player of the year, Japan international",
+   "ST": "quick, clever runs and finishing",
+   "LE": "major Celtic figure, nine domestic trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyogo_Furuhashi"
+  ]
+ },
+ {
+  "espn_id": "43372",
+  "name": "Hugo Lloris",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1986,
+  "nation": "France",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Nice",
+    "from": 2005,
+    "to": 2008
+   },
+   {
+    "club": "Lyon",
+    "from": 2008,
+    "to": 2012
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2012,
+    "to": 2024
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "France captain 2010-2022 (lifted 2018 World Cup); Tottenham captain 2015-2023",
+  "honours": "World Cup 2018 (captain), Nations League 2021; Coupe de France 2012; U.S. Open Cup 2024; 145 France caps",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 7.0,
+  "LO": 8.0,
+  "AB": 8.5,
+  "ST": 5.0,
+  "LE": 8.0,
+  "why": {
+   "CH": "declined the OneLove armband in Qatar citing respect for hosts; drink-driving conviction",
+   "WK": "long-serving captain, calm leader",
+   "LO": "eleven years at Tottenham, eight as captain",
+   "AB": "elite goalkeeper for a decade",
+   "ST": "shot-stopper, sweeper-keeper",
+   "LE": "World Cup-winning captain, France's most-capped player at the time"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: pleaded guilty to drink-driving in London in 2018 (over twice the limit; £50,000 fine, 20-month ban).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Lloris"
+  ]
+ },
+ {
+  "espn_id": "199904",
+  "name": "Eddie Segura",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Deportivo Pereira",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Atlético Huila",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2022; Supporters' Shield 2019, 2022; U.S. Open Cup 2024 (LAFC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "dependable defender",
+   "LO": "seven seasons at LAFC through a long injury",
+   "AB": "solid MLS starter",
+   "ST": "no-frills defender",
+   "LE": "MLS Cup and two Shields"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eddie_Segura"
+  ]
+ },
+ {
+  "espn_id": "274296",
+  "name": "Mathieu Choinière",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "CF Montréal",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Grasshopper",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2019, 2021 (Montreal); MLS All-Star 2023, 2024; 27 Canada caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "high-energy, versatile midfielder",
+   "LO": "hometown club Montreal for six years",
+   "AB": "Canada international, MLS All-Star",
+   "ST": "energetic two-way midfielder",
+   "LE": "Canada World Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathieu_Choinière"
+  ]
+ },
+ {
+  "espn_id": "193171",
+  "name": "Mark Delgado",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chivas USA",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2015,
+    "to": 2021
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2017 (Toronto), 2024 (LA Galaxy); Supporters' Shield 2017; 3 Canadian Championships; 6 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "tidy, hard-working central midfielder",
+   "LO": "seven years at Toronto; moved directly from Galaxy to rivals LAFC",
+   "AB": "long-time MLS regular",
+   "ST": "neat passer, no frills",
+   "LE": "two MLS Cups, part of Toronto's treble"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move: went straight from LA Galaxy (MLS Cup 2024) to El Trafico rivals LAFC for 2025.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Delgado"
+  ]
+ },
+ {
+  "espn_id": "239175",
+  "name": "Ryan Porteous",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Scotland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hibernian",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Watford",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "13 Scotland caps; CONCACAF Champions Cup Best XI 2026",
+  "causes": [
+   "Joined Common Goal (2020), salary pledge for gender equality"
+  ],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Common Goal pledge, but a court conviction and a poor disciplinary record",
+   "WK": "committed, aggressive defender",
+   "LO": "Hibernian academy, seven years at Easter Road",
+   "AB": "Scotland international centre-back",
+   "ST": "physical centre-back",
+   "LE": "Euro 2024 opening-match red card"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: pleaded guilty in 2022 to culpable and reckless conduct (hit a woman with a plastic tumbler), fined and paid compensation. red_card_violence: accepted an SFA violent-conduct charge for kicking out at Christian Ramirez off the ball (Dec 2021). Euro 2024 red was a foul, not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Porteous"
+  ]
+ },
+ {
+  "espn_id": "283453",
+  "name": "Nkosi Tafari",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "centre-back",
+   "LO": "five years at Dallas",
+   "AB": "MLS starting centre-back, one USA call-up",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nkosi_Tafari"
+  ]
+ },
+ {
+  "espn_id": "183758",
+  "name": "Ryan Hollingshead",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2014,
+    "to": 2021
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained UCLA",
+  "honours": "MLS Cup and Supporters' Shield 2022 (LAFC); Supporters' Shield and U.S. Open Cup 2016 (Dallas); MLS Humanitarian of the Year 2017",
+  "causes": [
+   "Delayed his pro career to help build his brother's church in Sacramento and work at an orphanage in Haiti",
+   "MLS Humanitarian of the Year 2017"
+  ],
+  "CH": 8.0,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "MLS Humanitarian of the Year; charity work in Haiti; hit by a car while helping a stranded motorist",
+   "WK": "hard-running, versatile full-back",
+   "LO": "eight years at Dallas, five at LAFC",
+   "AB": "solid MLS regular, All-Star 2023",
+   "ST": "attacking full-back",
+   "LE": "MLS Cup winner, Sacramento native"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Hollingshead"
+  ]
+ },
+ {
+  "espn_id": "231192",
+  "name": "Timothy Tillman",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich II",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Greuther Fürth",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2024 (LAFC); DFL-Supercup 2017 (Bayern squad); 3 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "attacking midfielder who presses",
+   "LO": "three years each at Fürth and LAFC",
+   "AB": "Bundesliga squad player, MLS starter",
+   "ST": "creative attacking midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timothy_Tillman"
+  ]
+ },
+ {
+  "espn_id": "179237",
+  "name": "Tyler Boyd",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Wellington Phoenix",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Vitória de Guimarães",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Tondela",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Beşiktaş",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2025 (Nashville); Gold Cup runner-up 2019; 10 USA caps, 5 New Zealand caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "winger",
+   "LO": "journeyman, several loans",
+   "AB": "USA international, Turkish top-flight player",
+   "ST": "pacy winger",
+   "LE": "switched from New Zealand to USA, two Gold Cup goals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Boyd",
+   "https://en.wikipedia.org/wiki/Tyler_Boyd_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "264469",
+  "name": "Yevhen Cheberko",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Ukraine",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Dnipro",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Zorya Luhansk",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "LASK",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Osijek",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Ukraine U-21",
+  "honours": "MLS Cup 2023, Leagues Cup 2024 (Columbus); CONCACAF Champions Cup Best XI 2024; 2 Ukraine caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; refused to play for Osijek in 2023, then apologised",
+   "WK": "defender, captained Ukraine U-21",
+   "LO": "several clubs; refused to play to push a move",
+   "AB": "MLS Cup-winning defender, Ukraine international",
+   "ST": "no-frills defender",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "forced_transfer: April 2023 refused to play or travel for Osijek amid foreign-club interest; fined and suspended, apologised, and joined Columbus that summer.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yevhen_Cheberko"
+  ]
+ },
+ {
+  "espn_id": "201103",
+  "name": "Aaron Long",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Sounders FC 2",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "New York Red Bulls",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "New York Red Bulls captain; captained USA once (2019)",
+  "honours": "Supporters' Shield 2018; U.S. Open Cup 2024; MLS Defender of the Year 2018; 35 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "rose from USL to captain the Red Bulls",
+   "LO": "six years at Red Bulls, captain",
+   "AB": "MLS Defender of the Year, USA starter",
+   "ST": "no-frills centre-back",
+   "LE": "late-blooming USMNT regular, 2019 Gold Cup Best XI"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Briefly a Portland Timbers draftee and on loan at Sacramento Republic in 2014 (no first-team games), omitted from clubs.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Long",
+   "https://en.wikipedia.org/wiki/Aaron_Long_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "218252",
+  "name": "Sergi Palencia",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Barcelona B",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Bordeaux",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Saint-Étienne",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Leganés",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Barcelona B captain from 2016",
+  "honours": "UEFA Youth League 2014 (Barcelona); Coupe de France runner-up 2020",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; cleared by Concacaf of a 2025 discriminatory-language accusation",
+   "WK": "attacking right-back",
+   "LO": "Barcelona academy, then several clubs",
+   "AB": "Ligue 1 and MLS regular",
+   "ST": "overlapping full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Feb 2025 accusation of discriminatory language by Chidozie Awaziem; Concacaf cleared him in March 2025 (found the word not used), so not coded.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Palencia"
+  ]
+ },
+ {
+  "espn_id": "286214",
+  "name": "Jacob Shaffelburg",
+  "club_id": "18966",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2020; U.S. Open Cup 2025; 39 Canada caps, 8 goals, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, nothing negative known",
+   "WK": "hard-running winger",
+   "LO": "Toronto academy, then three years at Nashville",
+   "AB": "Canada international winger",
+   "ST": "'Maritime Messi', fast direct dribbler",
+   "LE": "Copa América quarter-final goal, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Shaffelburg"
+  ]
+ }
+]

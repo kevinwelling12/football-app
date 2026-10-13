@@ -1,0 +1,1919 @@
+[
+ {
+  "espn_id": "250448",
+  "name": "Iván Angulo",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Colombia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Envigado",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Portimonense",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "direct winger, squad rotation role",
+   "LO": "on loan then permanent at Orlando since 2022",
+   "AB": "solid MLS rotation winger",
+   "ST": "pace and dribbling on the flank",
+   "LE": "U.S. Open Cup winner, Colombia youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iván_Angulo"
+  ]
+ },
+ {
+  "espn_id": "159382",
+  "name": "Maxime Crépeau",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Canada",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Montreal Impact",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "club": "Ottawa Fury",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Vancouver Whitecaps",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Portland Timbers",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2022, Supporters' Shield 2022; USL Goalkeeper of the Year 2018; 37 Canada caps, 2026 World Cup starter",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "fined in 2026 for slow exit after a red card; otherwise little public record",
+   "WK": "played through a broken leg in the 2022 MLS Cup Final",
+   "LO": "several MLS clubs, no long stint",
+   "AB": "Canada's World Cup starting goalkeeper",
+   "ST": "goalkeeper, steady rather than flashy",
+   "LE": "MLS Cup winner and 2026 World Cup starter for Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2026 red card was a handball outside the box, not violent conduct).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxime_Crépeau"
+  ]
+ },
+ {
+  "espn_id": "311532",
+  "name": "David Brekalo",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Slovenia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "NK Bravo",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Viking",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovenian Second League 2018-19; Eliteserien Player of the Month Aug 2023; 32 Slovenia caps, Euro 2024 squad",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "sent off in 2021 for pushing a teammate, apologised",
+   "WK": "solid defensive regular",
+   "LO": "four years at Bravo, three at Viking",
+   "AB": "Slovenia international, MLS starter",
+   "ST": "no-frills centre-back",
+   "LE": "Euro 2024 squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off in Nov 2021 for shoving teammate Patrik Gunnarsson; he apologised.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Brekalo"
+  ]
+ },
+ {
+  "espn_id": "147256",
+  "name": "Robin Jansson",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Sweden",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "BK Häcken",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Bengtsfors IF",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "IK Oddevold",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "AIK",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Orlando City captain since 2024",
+  "honours": "Allsvenskan 2018 (AIK); U.S. Open Cup 2022; 1 Sweden cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "rose from lower leagues, leads by example",
+   "LO": "seven seasons at Orlando, captain since 2024",
+   "AB": "dependable MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Orlando captain and long-time cornerstone"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Jansson"
+  ]
+ },
+ {
+  "espn_id": "233401",
+  "name": "Martín Ojeda",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ferro Carril Oeste",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Racing Club",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Huracán",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Godoy Cruz",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None major",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "fined by MLS in 2024 for simulation",
+   "WK": "creative wide playmaker",
+   "LO": "four seasons at Orlando, wears the No. 10",
+   "AB": "productive MLS attacker, 38 goals",
+   "ST": "No. 10 playmaker with set-piece quality",
+   "LE": "Orlando's No. 10 since 2023"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2024 MLS simulation fine reflected in CH).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martín_Ojeda"
+  ]
+ },
+ {
+  "espn_id": "267116",
+  "name": "Griffin Dorsey",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2023 (Houston)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "hard-running wing-back",
+   "LO": "five seasons at Houston",
+   "AB": "solid MLS full-back",
+   "ST": "attacking full-back",
+   "LE": "Open Cup winner with Houston"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Griffin_Dorsey"
+  ]
+ },
+ {
+  "espn_id": "241473",
+  "name": "Eduard Atuesta",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Colombia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Independiente Medellín",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Brasileirão 2022, 2023; Supporters' Shield 2019; U.S. Open Cup 2024; MLS Best XI 2019; 2 Colombia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "tidy deep-lying midfielder",
+   "LO": "LAFC spell then Palmeiras and Orlando",
+   "AB": "MLS Best XI, two Brazilian titles",
+   "ST": "composed passer from deep",
+   "LE": "part of LAFC's 2019 record side and Palmeiras title teams"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduard_Atuesta"
+  ]
+ },
+ {
+  "espn_id": "265977",
+  "name": "Braian Ojeda",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Paraguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Olimpia",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Defensa y Justicia",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Paraguayan Clausura 2018; EFL Championship play-offs 2022; 18 Paraguay caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "ball-winning central midfielder",
+   "LO": "several clubs, three-plus years at RSL",
+   "AB": "Paraguay international, MLS starter",
+   "ST": "industrious rather than flashy",
+   "LE": "Paraguay international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Braian_Ojeda"
+  ]
+ },
+ {
+  "espn_id": "403425",
+  "name": "Justin Ellis",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando City B",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS NEXT U19 MVP 2024-25; 3 USA caps, 2 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young forward, rotation minutes",
+   "LO": "Orlando academy product",
+   "AB": "promising teenager, early MLS minutes",
+   "ST": "young attacker with scoring touch",
+   "LE": "already scored for the USA senior team"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Ellis_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "382896",
+  "name": "Luis Otávio",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Internacional",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeonato Gaúcho 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defensive midfielder, regular starter at 19",
+   "LO": "Internacional academy, Orlando since 2026",
+   "AB": "young MLS regular",
+   "ST": "holding midfielder",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_Otávio_(footballer,_born_2007)"
+  ]
+ },
+ {
+  "espn_id": "387395",
+  "name": "Tiago",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bahia",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeonato Baiano 2025, Copa do Nordeste 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young forward, rotation role",
+   "LO": "Bahia academy, Orlando since 2026",
+   "AB": "young forward, one MLS goal so far",
+   "ST": "young attacker",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tiago_(footballer,_born_2005)"
+  ]
+ },
+ {
+  "espn_id": "210228",
+  "name": "Adrián Marín",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Leganés",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Alavés",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Granada",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Famalicão",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Gil Vicente",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Braga",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Taça da Liga 2023-24 (Braga); Spain U21 cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "steady left-back",
+   "LO": "journeyman across Spain and Portugal",
+   "AB": "La Liga and Primeira Liga experience",
+   "ST": "attacking left-back",
+   "LE": "Portuguese League Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2022 sending-off, cause not stated).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrián_Marín_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "espn_id": "324270",
+  "name": "Marco Pasalic",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Croatia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Borussia Dortmund",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "HNK Rijeka",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2025; 20 Croatia caps, Euro 2024 and 2026 World Cup squads",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "hard-working right winger",
+   "LO": "two seasons each at Rijeka and Orlando",
+   "AB": "Croatia international, MLS All-Star",
+   "ST": "direct winger, 14 MLS goals",
+   "LE": "in Croatia's Euro and World Cup squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Pašalić"
+  ]
+ },
+ {
+  "espn_id": "340588",
+  "name": "Iago Teodoro",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Flamengo",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Brazil U20 at 2025 U-20 World Cup; Flamengo U20 captain",
+  "honours": "Série A 2025, Copa do Brasil 2024 (Flamengo); South American U-20 Championship 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "youth captain, steady defender",
+   "LO": "Flamengo academy, Orlando since 2026",
+   "AB": "young MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Brazil U20 captain, U-20 continental titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iago_Teodoro"
+  ]
+ },
+ {
+  "espn_id": "329273",
+  "name": "Tyrese Spicer",
+  "club_id": "12011",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Trinidad and Tobago",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "12 Trinidad and Tobago caps; ASUN Player of the Year 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "direct winger",
+   "LO": "left Toronto after a public contract standoff in 2025",
+   "AB": "MLS starter, T&T international",
+   "ST": "pace and dribbling on the left",
+   "LE": "Trinidad and Tobago international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (Toronto said his agent sought a much larger contract before the 2025 trade; not coded as a forced transfer).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrese_Spicer"
+  ]
+ },
+ {
+  "espn_id": "286778",
+  "name": "Nathan Harriel",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bethlehem Steel",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; 3 USA caps; Paris 2024 Olympian",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "dependable right-back",
+   "LO": "Union homegrown since 2021",
+   "AB": "MLS starter, U.S. international",
+   "ST": "solid full-back",
+   "LE": "Olympian, Supporters' Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Harriel"
+  ]
+ },
+ {
+  "espn_id": "263585",
+  "name": "Milan Iloski",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Nordsjælland",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; USL Championship Golden Boot 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward with good movement",
+   "LO": "several clubs, settled in Philadelphia 2025",
+   "AB": "productive MLS forward, 19 goals for Union",
+   "ST": "goal scorer, wears the No. 10",
+   "LE": "USL Golden Boot, Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_Iloski"
+  ]
+ },
+ {
+  "espn_id": "322680",
+  "name": "Bruno Damiani",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Uruguay",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Nacional",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Boston River",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; Supercopa Uruguaya 2025",
+  "causes": [
+   "Reportedly gave his share of the transfer fee to Nacional's youth teams"
+  ],
+  "CH": 6.8,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "reported donation to his old club's youth teams",
+   "WK": "hard-working centre-forward",
+   "LO": "Union since 2025",
+   "AB": "MLS starting striker",
+   "ST": "traditional No. 9",
+   "LE": "club-record signing, Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruno_Damiani"
+  ]
+ },
+ {
+  "espn_id": "186943",
+  "name": "Andre Blake",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Jamaica",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2014,
+    "to": null
+   }
+  ],
+  "captaincy": "Jamaica captain",
+  "honours": "Supporters' Shield 2020, 2025; MLS Goalkeeper of the Year 2016, 2020, 2022; 98 Jamaica caps; Caribbean Cup 2014",
+  "causes": [],
+  "CH": 7.0,
+  "WK": 7.5,
+  "LO": 9.0,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "Jamaica captain; no issues on record",
+   "WK": "leader and consistent shot-stopper",
+   "LO": "one-club career at Philadelphia since 2014",
+   "AB": "three-time MLS Goalkeeper of the Year",
+   "ST": "athletic goalkeeper",
+   "LE": "Union icon, Jamaica's long-time captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andre_Blake"
+  ]
+ },
+ {
+  "espn_id": "333939",
+  "name": "Danley Jean Jacques",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Haiti",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Don Bosco FC",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Metz",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; 38 Haiti caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "ball-winning midfielder",
+   "LO": "Union since 2024",
+   "AB": "Haiti international, MLS starter",
+   "ST": "industrious midfielder",
+   "LE": "in Haiti's 2026 World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2022 red card was for a tackle).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danley_Jean_Jacques"
+  ]
+ },
+ {
+  "espn_id": "266026",
+  "name": "Indiana Vassilev",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aston Villa",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Cheltenham Town",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Inter Miami",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; League Two 2020-21 (Cheltenham); 2 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "energetic wide midfielder",
+   "LO": "several moves, Union since 2025",
+   "AB": "MLS starter, U.S. caps",
+   "ST": "energetic winger",
+   "LE": "Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indiana_Vassilev"
+  ]
+ },
+ {
+  "espn_id": "322063",
+  "name": "Jovan Lukic",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Serbia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Čukarički",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "LASK",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Torreense",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Spartak Subotica",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; Serbia U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "central midfielder",
+   "LO": "Union since 2025",
+   "AB": "MLS regular",
+   "ST": "tidy midfielder",
+   "LE": "Serbia youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jovan_Lukić",
+   "https://en.wikipedia.org/wiki/Jovan_Lukić_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "espn_id": "366034",
+  "name": "Frankie Westfield",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Philadelphia Union II",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; 2 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young full-back",
+   "LO": "Philadelphia-born homegrown",
+   "AB": "young MLS regular, U.S. caps",
+   "ST": "young full-back",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frankie_Westfield"
+  ]
+ },
+ {
+  "espn_id": "384397",
+  "name": "Cavan Sullivan",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2009,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025; MLS Player of the Month Sept 2026; youngest U.S. men's national team scorer",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "2026 red card after a scuffle was rescinded; nothing else on record",
+   "WK": "creative attacker, young",
+   "LO": "Union homegrown, deal includes move to Manchester City at 18",
+   "AB": "record-breaking teenager, scoring for the USA",
+   "ST": "left-footed creator, flair",
+   "LE": "youngest-ever records in MLS and USMNT"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (August 2026 red card rescinded).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cavan_Sullivan"
+  ]
+ },
+ {
+  "espn_id": "271536",
+  "name": "Jesús Bueno",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Venezuela",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Deportivo Lara",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Deportivo Lara captain 2021",
+  "honours": "Supporters' Shield 2025; 2 Venezuela caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defensive midfielder, squad role",
+   "LO": "five years at Lara, Union since 2021",
+   "AB": "MLS squad midfielder",
+   "ST": "holding midfielder",
+   "LE": "Venezuela international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jesús_Bueno"
+  ]
+ },
+ {
+  "espn_id": "399426",
+  "name": "Ezekiel Alladoh",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Accra Lions",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "IF Brommapojkarna",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young forward",
+   "LO": "Union since 2026",
+   "AB": "young forward, early in MLS",
+   "ST": "young striker",
+   "LE": "club-record signing"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ezekiel_Alladoh"
+  ]
+ },
+ {
+  "espn_id": "261317",
+  "name": "Kai Wagner",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SSV Ulm",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Würzburger Kickers",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Birmingham City",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2020, 2025; MLS Best XI 2022, 2025; MLS All-Star 2021, 2022, 2025",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "accepted responsibility and did restorative work after 2023 slur",
+   "WK": "hard-running left-back",
+   "LO": "seven seasons at Union, returned in 2026",
+   "AB": "two-time MLS Best XI",
+   "ST": "attacking left-back, crossing threat",
+   "LE": "Union mainstay in two Shield wins"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 2,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "racist_abuse 2: MLS suspended him three matches in 2023 for an anti-Asian slur at Bobby Wood; he admitted it.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Wagner"
+  ]
+ },
+ {
+  "espn_id": "288688",
+  "name": "Japhet Sery",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Midtjylland",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "SK Brann",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "FK Bodø/Glimt",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "SK Brann",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Norwegian Cup (Brann); Denmark U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back",
+   "LO": "three seasons at Brann",
+   "AB": "Eliteserien regular",
+   "ST": "no-frills centre-back",
+   "LE": "Danish youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Japhet_Sery",
+   "https://en.wikipedia.org/wiki/Japhet_Sery_Larsen"
+  ]
+ },
+ {
+  "espn_id": "366558",
+  "name": "Neil Pierre",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Philadelphia Union II",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Lyngby",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "Youth captain (U.S. U16)",
+  "honours": "Supporters' Shield 2025; Danish 1st Division 2025-26 (Lyngby loan); MLS NEXT Pro Defender of the Year 2025; 3 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young centre-back",
+   "LO": "Union homegrown",
+   "AB": "young U.S. international",
+   "ST": "goal-scoring centre-back",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neil_Pierre"
+  ]
+ },
+ {
+  "espn_id": "134066",
+  "name": "Alejandro Bedoya",
+  "club_id": "10739",
+  "gender": "M",
+  "born": 1987,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Örebro SK",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Rangers",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Helsingborgs IF",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Nantes",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2016,
+    "to": null
+   }
+  ],
+  "captaincy": "Philadelphia Union captain since 2017",
+  "honours": "Gold Cup 2013, 2017; Supporters' Shield 2020, 2025; MLS Humanitarian of the Year 2022; 66 USA caps, 2014 World Cup",
+  "causes": [
+   "Gun-violence prevention: on-field call to Congress after El Paso/Dayton 2019; Everytown member",
+   "Philadelphia Equity Alliance anti-poverty work (Audi Impact Award 2023)"
+  ],
+  "CH": 9.0,
+  "WK": 8.5,
+  "LO": 8.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "MLS Humanitarian of the Year; spoke out on gun violence",
+   "WK": "tireless box-to-box captain",
+   "LO": "Union captain for a decade",
+   "AB": "USMNT regular, 2014 World Cup",
+   "ST": "industrious rather than flashy",
+   "LE": "Union's captain through two Shields; famous 2019 speech"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Bedoya"
+  ]
+ }
+]

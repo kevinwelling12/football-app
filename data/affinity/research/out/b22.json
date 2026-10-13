@@ -1,0 +1,1898 @@
+[
+ {
+  "espn_id": "65434",
+  "name": "Jonathan Bond",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1993,
+  "nation": "England",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Watford",
+    "from": 2010,
+    "to": 2015
+   },
+   {
+    "club": "Reading",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Peterborough United",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "West Bromwich Albion",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Watford",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours; Wales then England youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper, no notes on attitude",
+   "LO": "journeyman, longest spell LA Galaxy 3 seasons",
+   "AB": "solid MLS starting keeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Bond"
+  ]
+ },
+ {
+  "espn_id": "323199",
+  "name": "Lawrence Ennali",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Hannover 96",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Rot-Weiss Essen",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Górnik Zabrze",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ekstraklasa Player of the Month (Apr 2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, no notes on attitude",
+   "LO": "young, settled at Houston since 2024",
+   "AB": "MLS regular winger",
+   "ST": "pacy winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lawrence_Ennali"
+  ]
+ },
+ {
+  "espn_id": "233578",
+  "name": "Guilherme Augusto",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Grêmio",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Botafogo",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Sport Recife",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Al-Faisaly",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Al-Dhafra",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Grêmio",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Fortaleza",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Santos",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Reported as Santos captain (headline of a cited source)",
+  "honours": "Copa do Brasil 2016, King's Cup 2020-21, Série B 2024; Série B top scorer 2019, Paulista top scorer 2025, MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, no notes on attitude",
+   "LO": "many clubs and loans; Grêmio academy",
+   "AB": "prolific in Série B and Paulista, MLS All-Star",
+   "ST": "goalscoring winger",
+   "LE": "Santos promotion top scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league: moved from Grêmio to Saudi club Al-Faisaly in 2020, then UAE's Al-Dhafra.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guilherme_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "espn_id": "287841",
+  "name": "Mateusz Bogusz",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ruch Chorzów",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Leeds United",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Ibiza",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Cruz Azul",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Championship 2019-20, U.S. Open Cup 2024, CONCACAF Champions Cup 2025; MLS Player of the Month Jun 2024; 5 Poland caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "no notes on attitude",
+   "LO": "several moves in a short career",
+   "AB": "18 goals for LAFC in 2024, Poland international",
+   "ST": "technical No. 10 with an eye for goal",
+   "LE": "CONCACAF Champions Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mateusz_Bogusz"
+  ]
+ },
+ {
+  "espn_id": "315455",
+  "name": "Felipe Andrade",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fluminense",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2023, Recopa Sudamericana 2024 (Fluminense)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, no notes on attitude",
+   "LO": "young, settled at Houston",
+   "AB": "MLS starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Libertadores squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felipe_Andrade"
+  ]
+ },
+ {
+  "espn_id": "146866",
+  "name": "Héctor Herrera",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Mexico",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pachuca",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Porto",
+    "from": 2013,
+    "to": 2019
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Toluca",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Porto captain; captained Mexico 2018-19 and at 2021 Gold Cup",
+  "honours": "Olympic gold 2012, Gold Cup 2015, Primeira Liga 2017-18, La Liga 2020-21, Liga MX x2 2025, U.S. Open Cup 2023; Gold Cup Golden Ball 2021",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "spat toward a referee in 2024 MLS playoffs",
+   "WK": "tireless box-to-box midfielder",
+   "LO": "six years and captaincy at Porto",
+   "AB": "Porto captain, La Liga winner, long-time Mexico starter",
+   "ST": "powerful, good passer and shooter",
+   "LE": "Olympic gold, Gold Cup, league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: straight red and 3-match MLS ban for spitting at a referee (Nov 2024).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Héctor_Herrera"
+  ]
+ },
+ {
+  "espn_id": "419253",
+  "name": "Agustín Resch",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College: All-America First Team and Big East Defensive Player of the Year 2025 (Seton Hall)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no notes on attitude",
+   "LO": "rookie, one club so far",
+   "AB": "2026 SuperDraft rookie",
+   "ST": "tall centre-back",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.houstondynamofc.com/roster/",
+   "https://www.houstondynamofc.com/players/agustin-resch/"
+  ]
+ },
+ {
+  "espn_id": "236342",
+  "name": "Artur",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Houston Dynamo captain",
+  "honours": "MLS Cup 2020, Campeones Cup 2021, U.S. Open Cup 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "combative ball-winner noted for work ethic and leadership",
+   "LO": "five years at Columbus, now Houston captain",
+   "AB": "MLS Cup-winning starting midfielder",
+   "ST": "defensive midfielder",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Artur_(footballer,_born_1996)"
+  ]
+ },
+ {
+  "espn_id": "233725",
+  "name": "Agustín Bouzat",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Liniers",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Boca Juniors",
+    "from": 2012,
+    "to": 2018
+   },
+   {
+    "club": "Defensa y Justicia",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Vélez Sarsfield",
+    "from": 2018,
+    "to": 2026
+   },
+   {
+    "club": "Colo-Colo",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Vélez Sarsfield captain",
+  "honours": "Argentine Primera 2024, Supercopa Internacional 2024 (Vélez); Chilean Primera 2022, Copa Chile 2023 (Colo-Colo)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "no detailed notes on style",
+   "LO": "eight years and captaincy at Vélez",
+   "AB": "league winner in Argentina and Chile",
+   "ST": "midfielder",
+   "LE": "captained Vélez to 2024 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agustín_Bouzat"
+  ]
+ },
+ {
+  "espn_id": "196842",
+  "name": "Antônio Carlos",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Corinthians",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Avaí",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Ponte Preta",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Fluminense",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sport Recife",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Série A 2018 (Palmeiras), U.S. Open Cup 2022, Recopa Sudamericana 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 3.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back, no notes on attitude",
+   "LO": "many clubs and loans",
+   "AB": "Série A winner, MLS starter",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antônio_Carlos_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "espn_id": "219466",
+  "name": "Diadie Samassekou",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Mali",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Liefering",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Olympiacos",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga x3, Austrian Cup x2; Europa League Squad of the Season 2017-18; U-20 World Cup bronze; ~40 Mali caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "holding midfielder",
+   "LO": "long spells at Salzburg and Hoffenheim",
+   "AB": "Bundesliga squad player, Mali international at three AFCONs",
+   "ST": "defensive midfielder",
+   "LE": "Salzburg titles, AFCON squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diadie_Samassékou"
+  ]
+ },
+ {
+  "espn_id": "266281",
+  "name": "Lucas Halter",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Athletico Paranaense",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Goiás",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Botafogo",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Vitória",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Reported as Vitória captain (headline of a cited source)",
+  "honours": "Copa do Brasil 2019, Copa Libertadores 2024, Série A 2024 (Botafogo squad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back, no notes on attitude",
+   "LO": "several clubs and loans",
+   "AB": "Brazilian top-flight centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "squad member of title teams"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Halter"
+  ]
+ },
+ {
+  "espn_id": "242613",
+  "name": "Franco Negri",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Quilmes",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Independiente Rivadavia",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Belgrano",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Newell's Old Boys",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Godoy Cruz",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Leagues Cup 2023, Supporters' Shield 2024 (Inter Miami)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "left-back, no notes on attitude",
+   "LO": "journeyman",
+   "AB": "MLS squad full-back",
+   "ST": "full-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franco_Negri"
+  ]
+ },
+ {
+  "espn_id": "287444",
+  "name": "Ibrahim Aliyu",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lokomotiva Zagreb",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "winger, no notes on attitude",
+   "LO": "returned to Houston after a year away",
+   "AB": "MLS rotation winger",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ibrahim_Aliyu_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "182070",
+  "name": "Duane Holmes",
+  "club_id": "6077",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Huddersfield Town",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Scunthorpe United",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Derby County",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Huddersfield Town",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Preston North End",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scunthorpe Player of the Year 2018; 2 USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "Rooney questioned his training attitude at Derby (2020)",
+   "LO": "several EFL clubs, two spells at Huddersfield",
+   "AB": "EFL Championship regular, 2 USA caps",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Duane_Holmes"
+  ]
+ },
+ {
+  "espn_id": "174466",
+  "name": "Rodrigo De Paul",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Racing Club",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Valencia",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Udinese",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Udinese captain (from Dec 2020)",
+  "honours": "World Cup 2022, Copa América 2021 and 2024, Finalissima 2022, MLS Cup 2025; Copa América Team of the Tournament 2021, 2024",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 8.5,
+  "LO": 5.5,
+  "AB": 8.0,
+  "ST": 7.0,
+  "LE": 7.0,
+  "why": {
+   "CH": "publicly minimised Argentina's 2024 racist chant about France as a joke",
+   "WK": "tireless engine, known as Messi's minder",
+   "LO": "five years and captaincy at Udinese",
+   "AB": "World Cup winner and Argentina regular",
+   "ST": "box-to-box with range of passing and long shots",
+   "LE": "World Cup winner; assist for 2021 Copa América winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; not shown taking part in the 2024 chant, but defended Enzo Fernández and called it a joke (reported via web search).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_De_Paul"
+  ]
+ },
+ {
+  "espn_id": "315594",
+  "name": "Telasco Segovia",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Venezuela",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Deportivo Lara",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Casa Pia",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025; Maurice Revello Tournament Golden Ball 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no notes on attitude",
+   "LO": "young, settled at Inter Miami",
+   "AB": "MLS Cup winner, Venezuela international",
+   "ST": "attacking midfielder",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telasco_Segovia"
+  ]
+ },
+ {
+  "espn_id": "329025",
+  "name": "Yannick Bright",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Arconatese",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025, Supporters' Shield 2024; MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "holding midfielder",
+   "LO": "one MLS club since college",
+   "AB": "MLS All-Star, MLS Cup winner",
+   "ST": "defensive midfielder",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yannick_Bright"
+  ]
+ },
+ {
+  "espn_id": "228394",
+  "name": "Germán Berterame",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Lorenzo",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Atlético San Luis",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Monterrey",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga MX Golden Boot Apertura 2021 (shared); Liga MX All-Star 2022, 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "striker, no notes on attitude",
+   "LO": "four years at Monterrey",
+   "AB": "prolific Liga MX striker, Mexico international",
+   "ST": "goalscoring striker",
+   "LE": "Liga MX scoring title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Germán_Berterame"
+  ]
+ },
+ {
+  "espn_id": "231059",
+  "name": "Dayne St. Clair",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Canada",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Minnesota United FC",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Goalkeeper of the Year 2025, MLS Best XI 2025, MLS All-Star 2022 (MVP), 2025; Nations League runner-up 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper",
+   "LO": "seven seasons at Minnesota",
+   "AB": "MLS Goalkeeper of the Year, Canada international",
+   "ST": "goalkeeper",
+   "LE": "Canada keeper, MLS award winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dayne_St._Clair"
+  ]
+ },
+ {
+  "espn_id": "316269",
+  "name": "Ian Fray",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Inter Miami CF",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025, Leagues Cup 2023, Supporters' Shield 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "full-back, no notes on attitude",
+   "LO": "Inter Miami since 2020 through three ACL tears",
+   "AB": "MLS squad full-back",
+   "ST": "full-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Fray"
+  ]
+ },
+ {
+  "espn_id": "314952",
+  "name": "Micael",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlético Mineiro",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dynamo FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Série A and Copa do Brasil 2021 (Atlético Mineiro squad), Campeones Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, no notes on attitude",
+   "LO": "several clubs; on loan from Palmeiras",
+   "AB": "MLS starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micael_dos_Santos_Silva"
+  ]
+ },
+ {
+  "espn_id": "310279",
+  "name": "Maximiliano Falcón",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Uruguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rentistas",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Colo-Colo",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Chile 2021, 2023; Supercopa de Chile 2022, 2024; MLS Cup 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back, no notes on attitude",
+   "LO": "four years at Colo-Colo",
+   "AB": "Chilean and MLS starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximiliano_Falcón"
+  ]
+ },
+ {
+  "espn_id": "285473",
+  "name": "Facundo Mura",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Estudiantes",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Racing Club",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Sudamericana 2024, Recopa Sudamericana 2025 (Racing Club)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "full-back, no notes on attitude",
+   "LO": "three seasons at Racing",
+   "AB": "Sudamericana-winning right-back",
+   "ST": "attacking full-back",
+   "LE": "Copa Sudamericana winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Facundo_Mura"
+  ]
+ },
+ {
+  "espn_id": "315617",
+  "name": "Gonzalo Luján",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Lorenzo",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025, Campeones Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, no notes on attitude",
+   "LO": "San Lorenzo academy, then Inter Miami",
+   "AB": "MLS regular, Olympic provisional squad",
+   "ST": "no-frills defender",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gonzalo_Luján"
+  ]
+ },
+ {
+  "espn_id": "231241",
+  "name": "Sergio Reguilón",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Madrid",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Sevilla",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Club World Cup 2018, Europa League 2019-20 (Sevilla); 6 Spain caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "nothing notable known",
+   "WK": "no notes on attitude",
+   "LO": "Real Madrid academy, then several clubs and loans",
+   "AB": "Europa League winner, Spain international",
+   "ST": "attacking left-back",
+   "LE": "Europa League winner with Sevilla"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergio_Reguilón"
+  ]
+ },
+ {
+  "espn_id": "173666",
+  "name": "Casemiro",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "Real Madrid",
+    "from": 2013,
+    "to": 2022
+   },
+   {
+    "club": "Porto",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Manchester United",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "5 Champions Leagues, 3 La Liga, 3 Club World Cups (Real Madrid); Copa América 2019; EFL Cup 2023, FA Cup 2024",
+  "causes": [
+   "Donated items to an auction for a childhood-cancer group in his hometown"
+  ],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 6.5,
+  "AB": 8.5,
+  "ST": 6.0,
+  "LE": 8.0,
+  "why": {
+   "CH": "small charity; at times criticised for aggressive tackles",
+   "WK": "selfless shield in front of the defence",
+   "LO": "seven years at Real Madrid",
+   "AB": "elite holding midfielder of his era",
+   "ST": "ball-winner with long-range shooting",
+   "LE": "five Champions Leagues"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: red card and three-match ban for grabbing Will Hughes's neck vs Crystal Palace (Feb 2023). MLS tampering investigation into his move (July 2026) ongoing, not coded.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casemiro"
+  ]
+ },
+ {
+  "espn_id": "387661",
+  "name": "Mateo Silvetti",
+  "club_id": "20232",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Newell's Old Boys",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2025; U-20 World Cup runner-up 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no notes on attitude",
+   "LO": "young, second club",
+   "AB": "promising teenage winger",
+   "ST": "attacking winger/No. 10",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mateo_Silvetti"
+  ]
+ }
+]

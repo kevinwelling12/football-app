@@ -1,0 +1,1042 @@
+[
+ {
+  "espn_id": "198189",
+  "name": "Timo Baumgartl",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "VfB Stuttgart",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "UEFA U21 Euro runner-up 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "steady centre-back, no ego issues known",
+   "LO": "Stuttgart academy, then several moves",
+   "AB": "long-time Bundesliga centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Germany U21 regular, no major trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timo_Baumgartl"
+  ]
+ },
+ {
+  "espn_id": "296222",
+  "name": "Dante Polvara",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aberdeen",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Cup 2024-25 (Aberdeen); Hermann Trophy 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "central midfielder, no ego issues known",
+   "LO": "four years at Aberdeen, new to St. Louis",
+   "AB": "Scottish Premiership regular, now MLS",
+   "ST": "tidy midfielder",
+   "LE": "Scottish Cup winner, top college player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dante_Polvara"
+  ]
+ },
+ {
+  "espn_id": "175906",
+  "name": "Roman Bürki",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Switzerland",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "BSC Young Boys",
+    "from": 2009,
+    "to": 2013
+   },
+   {
+    "club": "Grasshoppers",
+    "from": 2010,
+    "to": 2014
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "St. Louis City SC's first captain (2023)",
+  "honours": "DFB-Pokal 2017, 2021, DFL-Supercup 2019 (Dortmund); Swiss Cup 2013; MLS Goalkeeper of the Year 2023; 9 Switzerland caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or issues on record, decent pro",
+   "WK": "dependable keeper, captain at a new club",
+   "LO": "seven years at Dortmund, St. Louis captain since its first season",
+   "AB": "Dortmund's No. 1 for years, MLS keeper of the year",
+   "ST": "goalkeeper",
+   "LE": "two DFB-Pokals, first captain of an expansion club"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roman_Bürki"
+  ]
+ },
+ {
+  "espn_id": "304164",
+  "name": "Daniel Edelman",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained the US under-20s",
+  "honours": "CONCACAF U-20 Championship 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "ball-winning midfielder",
+   "LO": "Red Bulls academy and first team, moved at 22",
+   "AB": "MLS regular midfielder",
+   "ST": "defensive midfielder",
+   "LE": "US youth captain and champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Edelman_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "208341",
+  "name": "Simon Becher",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Vancouver Whitecaps FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "AC Horsens",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2023 (Vancouver)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "forward, no ego issues known",
+   "LO": "short spells, settled at St. Louis since 2024",
+   "AB": "MLS forward",
+   "ST": "striker",
+   "LE": "Canadian Championship winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Simon_Becher"
+  ]
+ },
+ {
+  "espn_id": "220478",
+  "name": "Christopher Durkin",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "D.C. United",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Sint-Truiden",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "D.C. United",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained US U-17s",
+  "honours": "None at senior level",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "defensive midfielder",
+   "LO": "two spells at D.C. United, now St. Louis",
+   "AB": "MLS and Belgian top-flight regular",
+   "ST": "holding midfielder",
+   "LE": "club regular, no major trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Durkin"
+  ]
+ },
+ {
+  "espn_id": "312934",
+  "name": "Conrad Wallem",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tønsberg",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Arendal",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Odd",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "midfielder, no ego issues known",
+   "LO": "several clubs, on loan then signed at St. Louis",
+   "AB": "Eliteserien regular, squad player at Slavia",
+   "ST": "attacking midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conrad_Wallem"
+  ]
+ },
+ {
+  "espn_id": "252749",
+  "name": "Tomas Totland",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fana",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Sogndal",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Tromsø",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "BK Häcken",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Allsvenskan 2022 (Häcken)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "hard-working right-back",
+   "LO": "four years at Sogndal, then regular moves",
+   "AB": "Scandinavian top-flight and MLS regular",
+   "ST": "right-back who gets forward",
+   "LE": "Swedish champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomas_Totland"
+  ]
+ },
+ {
+  "espn_id": "308481",
+  "name": "Jaziel Orozco",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Larne",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NIFL Premiership and County Antrim Shield 2023-24 (Larne, loan)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "young defender, no ego issues known",
+   "LO": "young, second MLS club",
+   "AB": "fringe MLS defender",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Ciudad Juárez, raised in El Paso; Wikipedia gives Mexican nationality, ESPN USA.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaziel_Orozco"
+  ]
+ },
+ {
+  "espn_id": "297256",
+  "name": "Jeong Sang-Bin",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2002,
+  "nation": "South Korea",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Suwon Samsung Bluewings",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Grasshopper Club Zürich",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "winger, no ego issues known",
+   "LO": "several clubs young, two MLS clubs",
+   "AB": "MLS regular winger",
+   "ST": "quick winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN gives no nation; Wikipedia: South Korean.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeong_Sang-bin"
+  ]
+ },
+ {
+  "espn_id": "334716",
+  "name": "Lukas MacNaughton",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Toronto Nitros",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Alliance United",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Pacific FC",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "D.C. United",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained University of Toronto",
+  "honours": "Canadian Premier League 2021 (Pacific); Canadian Championship 2020 (Toronto FC); 1 Canada cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 3.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "late-blooming defender who worked up from semi-pro",
+   "LO": "journeyman across Canadian and MLS clubs",
+   "AB": "MLS squad defender, one Canada cap",
+   "ST": "no-frills centre-back",
+   "LE": "CPL champion, path from university soccer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_MacNaughton"
+  ]
+ },
+ {
+  "espn_id": "203974",
+  "name": "Rafael Santos",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Mirassol",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Cruzeiro",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Chapecoense",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Ponte Preta",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Coritiba",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City SC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Série B 2020 (Chapecoense), 2022 (Cruzeiro)",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; fined in 2024 for slow exit after a red card",
+   "WK": "left-back, no ego issues known",
+   "LO": "many loans, three MLS clubs",
+   "AB": "MLS regular left-back",
+   "ST": "full-back",
+   "LE": "Série B titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Fined by MLS in 2024 for not leaving the field promptly after a second yellow (not violent conduct).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Santos_(footballer,_born_5_February_1998)"
+  ]
+ },
+ {
+  "espn_id": "239736",
+  "name": "Alexandru Matan",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Romania",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viitorul Constanța",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Voluntari",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Dibba Al-Hisn",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Panetolikos",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga I 2017, Cupa României 2019 (Viitorul); MLS Cup 2023, Leagues Cup 2024, Campeones Cup 2021 (Columbus)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "creative midfielder, no ego issues known",
+   "LO": "five years at Viitorul, then several moves",
+   "AB": "MLS and Liga I squad player",
+   "ST": "attacking midfielder",
+   "LE": "MLS Cup and Romanian title winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league: brief 2025 spell (3 apps) at UAE club Dibba Al-Hisn after leaving Columbus.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexandru_Mățan"
+  ]
+ },
+ {
+  "espn_id": "355253",
+  "name": "Fallou Fall",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Senegal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Grafičar Beograd",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Reims",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Fredrikstad",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Norwegian Cup 2024 (Fredrikstad); Eliteserien Player of the Month April 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "young centre-back, no ego issues known",
+   "LO": "young, several clubs",
+   "AB": "promising centre-back, Eliteserien monthly award",
+   "ST": "centre-back",
+   "LE": "Norwegian Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fallou_Fall"
+  ]
+ },
+ {
+  "espn_id": "255313",
+  "name": "Carlo Holse",
+  "club_id": "21812",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Copenhagen",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Esbjerg fB",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Rosenborg",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Samsunspor",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien top assist provider 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, decent pro",
+   "WK": "winger, no ego issues known",
+   "LO": "three years each at Rosenborg and Samsunspor",
+   "AB": "Eliteserien and Süper Lig regular",
+   "ST": "creative right winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlo_Holse"
+  ]
+ }
+]

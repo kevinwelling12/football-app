@@ -1,0 +1,1839 @@
+[
+ {
+  "espn_id": "400713",
+  "name": "Manu Duah",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Ghana",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No. 1 pick, 2025 MLS SuperDraft; Ghana call-up 2026 (uncapped)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "converted holding midfielder, steady defender",
+   "LO": "one senior club so far, first-ever draft pick",
+   "AB": "young MLS starting centre-back",
+   "ST": "composed defender, no-frills",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manu_Duah"
+  ]
+ },
+ {
+  "espn_id": "250454",
+  "name": "Anders Dreyer",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Denmark",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Esbjerg fB",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Midtjylland",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Rubin Kazan",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Midtjylland",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Anderlecht",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2019-20, Danish Cup 2021-22; Anderlecht Player of the Season 2023-24; MLS Newcomer of the Year and Best XI 2025; MLS All-Star 2025, 2026; 9 Denmark caps, Euro 2024 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "productive winger, creator and scorer",
+   "LO": "several moves, two years each at Anderlecht and San Diego",
+   "AB": "Best XI MLS winger, Denmark international",
+   "ST": "direct, high-scoring right winger",
+   "LE": "San Diego's first star; MLS awards"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anders_Dreyer"
+  ]
+ },
+ {
+  "espn_id": "277212",
+  "name": "Onni Valakari",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Finland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "TPS",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Tromsø",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Pafos",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ykkönen 2017; Cypriot Cup 2023-24",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "fined for late conscription enrolment; praised Andrew Tate and Trump in 2024 interview",
+   "WK": "attacking midfielder, works for the team",
+   "LO": "long Pafos spell, mostly on loans away",
+   "AB": "solid MLS attacking midfielder",
+   "ST": "No. 10 type, creative",
+   "LE": "Cypriot Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2024 Finnish court fine for late conscription enrolment and praise of Andrew Tate/Trump noted in CH, not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Onni_Valakari"
+  ]
+ },
+ {
+  "espn_id": "186324",
+  "name": "Marcus Ingvartsen",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Denmark",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Nordsjælland",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Genk",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Mainz 05",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Nordsjælland",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian title 2018-19; Danish Young Player of the Year 2016; Superliga top scorer 2016-17; Denmark U21 record scorer; 1 Denmark cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "hard-working forward",
+   "LO": "academy graduate who returned to Nordsjælland",
+   "AB": "Bundesliga regular, Superliga top scorer",
+   "ST": "goalscoring forward",
+   "LE": "Danish U21 scoring record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Ingvartsen"
+  ]
+ },
+ {
+  "espn_id": "116825",
+  "name": "Aníbal Godoy",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Panama",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chepo",
+    "from": 2007,
+    "to": 2013
+   },
+   {
+    "club": "Honvéd",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Panama at the 2023 Gold Cup; San Jose vice-captain 2018",
+  "honours": "160 Panama caps, World Cups 2018 and 2026; Gold Cup runner-up 2013, 2023; Nations League runner-up 2024-25",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "respected veteran, no issues on record",
+   "WK": "tireless holding midfielder, leader",
+   "LO": "five years each at San Jose and Nashville, long Panama service",
+   "AB": "Panama mainstay, MLS starter",
+   "ST": "defensive midfielder",
+   "LE": "160 caps, two World Cups for Panama"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/An%C3%ADbal_Godoy"
+  ]
+ },
+ {
+  "espn_id": "365859",
+  "name": "Oscar Verhoeven",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2006,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US U-17 World Cup squad 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young full-back, steady",
+   "LO": "Bay Area academy product, now San Diego",
+   "AB": "young MLS full-back",
+   "ST": "attacking right-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oscar_Verhoeven"
+  ]
+ },
+ {
+  "espn_id": "214371",
+  "name": "Jeppe Tverskov",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "B 1903",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Lyngby",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Randers",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "OB",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Nordsjælland",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Vice-captain at OB (per reference)",
+  "honours": "MLS All-Star 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "holding midfielder, team-first anchor",
+   "LO": "seven seasons and 210 league games at OB",
+   "AB": "solid Superliga and MLS regular",
+   "ST": "no-frills holding midfielder",
+   "LE": "OB stalwart, MLS All-Star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeppe_Tverskov"
+  ]
+ },
+ {
+  "espn_id": "257114",
+  "name": "Christopher McVey",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Sweden",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "IF Elfsborg",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "D.C. United",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Leagues Cup 2023 (Inter Miami)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "steady defender",
+   "LO": "four clubs, longest at Elfsborg",
+   "AB": "solid MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Leagues Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christopher_McVey"
+  ]
+ },
+ {
+  "espn_id": "380677",
+  "name": "Kieran Sargeant",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College All-America second team (Georgetown)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "left-back, steady",
+   "LO": "Houston academy, moved on young",
+   "AB": "new MLS full-back",
+   "ST": "attacking-minded left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kieran_Sargeant"
+  ]
+ },
+ {
+  "espn_id": "336963",
+  "name": "Duran Ferree",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2006,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "San Diego Loyal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US U-17 CONCACAF runner-up 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young goalkeeper",
+   "LO": "hometown San Diego player, club's first signing era",
+   "AB": "young MLS goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Duran_Ferree"
+  ]
+ },
+ {
+  "espn_id": "365854",
+  "name": "David Vazquez",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2006,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Joint top scorer at 2024 CONCACAF U-20 Championship; 2025 U-20 World Cup call-up",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young midfielder",
+   "LO": "early moves, one year at San Diego",
+   "AB": "young MLS midfielder",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Vazquez",
+   "https://en.wikipedia.org/wiki/David_Vazquez_(soccer,_born_2006)"
+  ]
+ },
+ {
+  "espn_id": "207638",
+  "name": "Amahl Pellegrino",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Tanzania",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Drammen",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Bærum",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Lillestrøm",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Mjøndalen",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Strømsgodset",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Kristiansund",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Damac",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2021, 2023 (Bodø/Glimt); Eliteserien top scorer 2022, 2023; Eliteserien Player of the Year 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "late bloomer, worked up from lower leagues",
+   "LO": "journeyman, ten clubs",
+   "AB": "league top scorer and Player of the Year in Norway",
+   "ST": "quick, goalscoring winger",
+   "LE": "key part of Bodø/Glimt's title years"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league: brief 2021 move from Kristiansund to Saudi club Damac. Born in Norway to Tanzanian parents; Tanzania pre-call-up, ESPN lists Tanzania.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amahl_Pellegrino"
+  ]
+ },
+ {
+  "espn_id": "265874",
+  "name": "CJ dos Santos",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Cape Verde",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Benfica B",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2024, Leagues Cup 2023 (Inter Miami); 1 Cape Verde cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "goalkeeper, steady",
+   "LO": "three clubs, backup most of career",
+   "AB": "MLS goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "Cape Verde international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CJ_dos_Santos"
+  ]
+ },
+ {
+  "espn_id": "303619",
+  "name": "Alejandro Alvarado Jr.",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Vizela",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "squad midfielder",
+   "LO": "few appearances, moved after Vizela",
+   "AB": "squad player in MLS",
+   "ST": "midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Alvarado_Jr."
+  ]
+ },
+ {
+  "espn_id": "296216",
+  "name": "Ian Murphy",
+  "club_id": "22529",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023 (FC Cincinnati); USMNT call-up January 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; ACC academic honour roll",
+   "WK": "steady centre-back",
+   "LO": "three MLS clubs in five years",
+   "AB": "MLS squad defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Murphy_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "281494",
+  "name": "Daniel Munie",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big Ten Defensive Player of the Year 2021, 2022; MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; never booked in college",
+   "WK": "steady centre-back",
+   "LO": "one MLS club since being drafted",
+   "AB": "MLS All-Star centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "2026 All-Star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Munie"
+  ]
+ },
+ {
+  "espn_id": "382638",
+  "name": "Beau Leroux",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College all-region honours (San Jose State)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "busy midfielder",
+   "LO": "hometown player, came through the reserve team",
+   "AB": "young MLS midfielder",
+   "ST": "midfielder with some goals",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beau_Leroux"
+  ]
+ },
+ {
+  "espn_id": "300420",
+  "name": "Ousseni Bouda",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Burkina Faso",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Burkina Faso international; Pac-12 Freshman of the Year 2019 (Stanford)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "wide forward",
+   "LO": "with San Jose since 2022, worked up from loans",
+   "AB": "MLS winger, Burkina Faso international",
+   "ST": "quick, direct winger",
+   "LE": "Burkina Faso international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousseni_Bouda"
+  ]
+ },
+ {
+  "espn_id": "398860",
+  "name": "Reid Roberts",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No. 5 pick, 2025 MLS SuperDraft; WCC Defender of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "steady young defender",
+   "LO": "one senior club so far",
+   "AB": "young MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reid_Roberts"
+  ]
+ },
+ {
+  "espn_id": "295339",
+  "name": "Preston Judd",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "LA Galaxy",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Summit League Tournament MVP 2019 (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "hard-running forward",
+   "LO": "third season at San Jose",
+   "AB": "MLS forward",
+   "ST": "target forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_Judd"
+  ]
+ },
+ {
+  "espn_id": "380800",
+  "name": "Jamar Ricketts",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No. 13 pick, 2024 MLS SuperDraft; All-Big West first team 2022, 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "wide player, two-way",
+   "LO": "one MLS club since draft",
+   "AB": "MLS squad regular",
+   "ST": "attacking wide defender, ex-college forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamar_Ricketts"
+  ]
+ },
+ {
+  "espn_id": "235593",
+  "name": "Ronaldo Vieira",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Guinea-Bissau",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Leeds United",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2018,
+    "to": 2025
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "San Jose captain from 2026",
+  "honours": "Toulon Tournament with England U20 2017 and U21 2018; Leeds Young Player of the Year 2016-17; 1 Guinea-Bissau cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "no causes or issues; target of racist taunts in 2019",
+   "WK": "defensive midfielder, made club captain",
+   "LO": "seven years at Sampdoria, now San Jose captain",
+   "AB": "Serie A regular",
+   "ST": "holding midfielder",
+   "LE": "San Jose captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2017 red card at Leeds (he apologised) not violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronaldo_Vieira",
+   "https://en.wikipedia.org/wiki/Ronaldo_Vieira_(footballer,_born_1998)"
+  ]
+ },
+ {
+  "espn_id": "302893",
+  "name": "Benjamin Kikanovic",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Reno 1868",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "converted forward, now full-back",
+   "LO": "San Jose native, sixth season there",
+   "AB": "MLS squad regular",
+   "ST": "attacking full-back, ex-winger",
+   "LE": "local favourite, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_Kikanovic"
+  ]
+ },
+ {
+  "espn_id": "333752",
+  "name": "Niko Tsakiris",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship 2022; Golden Ball 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young playmaker",
+   "LO": "San Jose academy graduate, one club",
+   "AB": "young MLS midfielder, wears No. 10",
+   "ST": "creative No. 10",
+   "LE": "U-20 Golden Ball"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niko_Tsakiris"
+  ]
+ },
+ {
+  "espn_id": "249699",
+  "name": "Ian Harkes",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "D.C. United",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Dundee United",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain at Wake Forest",
+  "honours": "Hermann Trophy 2016; Scottish Championship 2019-20 (Dundee United)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "box-to-box worker",
+   "LO": "four years at Dundee United",
+   "AB": "MLS and Scottish top-flight regular",
+   "ST": "tidy midfielder",
+   "LE": "Hermann Trophy, son of John Harkes"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Harkes"
+  ]
+ },
+ {
+  "espn_id": "222188",
+  "name": "Dave Romney",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "LA Galaxy",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "New England Defender of the Year 2023, 2024; played every minute of 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "durable, played every minute in 2023",
+   "LO": "four MLS clubs",
+   "AB": "solid MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club defender awards"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dave_Romney"
+  ]
+ },
+ {
+  "espn_id": "246337",
+  "name": "Jack Skahan",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "squad midfielder",
+   "LO": "seventh season at San Jose",
+   "AB": "MLS squad player",
+   "ST": "midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Skahan"
+  ]
+ },
+ {
+  "espn_id": "191088",
+  "name": "Timo Werner",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "VfB Stuttgart",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Chelsea",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2020-21, Super Cup and Club World Cup 2021 (Chelsea); DFB-Pokal 2022-23; Europa League 2024-25 (Tottenham, loan); Confederations Cup 2017 and its Golden Boot; 57 Germany caps, 24 goals",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 7.5,
+  "ST": 7.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "2016 dive vs Schalke, later said sorry; otherwise no issues",
+   "WK": "tireless runner and presser",
+   "LO": "Stuttgart academy, two Leipzig spells, several moves",
+   "AB": "prolific Bundesliga scorer, Germany regular",
+   "ST": "pacy forward, many goals",
+   "LE": "Champions League winner, Germany international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2016 dive to win a penalty against Schalke noted in CH.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timo_Werner"
+  ]
+ },
+ {
+  "espn_id": "400722",
+  "name": "Nick Fernandez",
+  "club_id": "191",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "squad midfielder",
+   "LO": "first senior club",
+   "AB": "MLS squad player",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sjearthquakes.com/news/news-earthquakes-sign-nick-fernandez-beau-leroux-francesco-montali-to-first-team"
+  ]
+ },
+ {
+  "espn_id": "229876",
+  "name": "Paul Marie",
+  "club_id": "191",
+  "gender": "M",
+  "born": 1995,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College third-team All-America 2017 (FIU)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "steady full-back",
+   "LO": "ninth season at San Jose",
+   "AB": "MLS squad full-back",
+   "ST": "overlapping right-back",
+   "LE": "long-serving squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Marie"
+  ]
+ }
+]

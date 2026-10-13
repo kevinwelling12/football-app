@@ -1,0 +1,1775 @@
+[
+ {
+  "espn_id": "279180",
+  "name": "Pavel Bucha",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Czechia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Viktoria Plzeň",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2021-22 (Plzeň); Czech league Young Player of the Year 2019-20; 2 Czechia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Box-to-box midfielder, steady starter",
+   "LO": "Five years at Plzeň, third season at Cincinnati; left Slavia at 20 in a contract dispute",
+   "AB": "Czech champion, MLS regular, recent Czechia caps",
+   "ST": "Goal-scoring box-to-box midfielder",
+   "LE": "Czech title and young player award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pavel_Bucha"
+  ]
+ },
+ {
+  "espn_id": "315972",
+  "name": "Roman Celentano",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023; MLS Save of the Year 2023, 2025; USMNT call-up 2023 (uncapped)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Reliable starting goalkeeper",
+   "LO": "Only senior club, five seasons at Cincinnati",
+   "AB": "Established MLS starting goalkeeper",
+   "ST": "Shot-stopper with two Save of the Year awards",
+   "LE": "Supporters' Shield and save awards"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roman_Celentano"
+  ]
+ },
+ {
+  "espn_id": "251694",
+  "name": "Kévin Denkey",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Togo",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Nîmes",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Cercle Brugge",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League top scorer 2023-24; Ebony Shoe 2024; 50 Togo caps, 14 goals",
+  "causes": [
+   "Donated 150 bicycles and helmets to Cincinnati school pupils (2025)",
+   "FC Cincinnati Humanitarian of the Year 2025"
+  ],
+  "CH": 7.5,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "Club humanitarian of the year, bicycle donation to schoolchildren",
+   "WK": "Striker; some suspensions for yellow cards",
+   "LO": "Three clubs, about three years each",
+   "AB": "Prolific scorer in Belgium and MLS, Togo regular",
+   "ST": "Goalscorer with acrobatic finishes",
+   "LE": "Ebony Shoe, top scorer, record MLS signing for Cincinnati"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kévin_Denkey",
+   "https://www.fccincinnati.com/news/kevin-denkey-named-fc-cincinnati-humanitarian-of-the-year-presented-by-procter-gamble"
+  ]
+ },
+ {
+  "espn_id": "363908",
+  "name": "Samuel Gidi",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Slovakia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "MŠK Žilina",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovakia U21 (6 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Defensive midfielder or centre-back, holding role",
+   "LO": "Young, three seasons at Žilina then Cincinnati",
+   "AB": "MLS regular at 22",
+   "ST": "Defensive role",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samuel_Gidi"
+  ]
+ },
+ {
+  "espn_id": "361138",
+  "name": "Ender Echenique",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Venezuela",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Aragua",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Caracas",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Venezuelan Primera División 2023 (Caracas); 4 Venezuela caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Wide forward, no notes on work rate",
+   "LO": "Young; three clubs so far",
+   "AB": "MLS regular, recent Venezuela caps",
+   "ST": "Attacking wide player",
+   "LE": "Venezuelan league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ender_Echenique"
+  ]
+ },
+ {
+  "espn_id": "236049",
+  "name": "Bryan Ramirez",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Ecuador",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cumbayá",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "LDU Quito",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ecuadorian Serie A 2023 and Copa Sudamericana 2023 (LDU Quito)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Winger turned left full-back, two-way role",
+   "LO": "Three-plus years at LDU Quito, first season at Cincinnati",
+   "AB": "Continental cup winner, MLS regular",
+   "ST": "Attacking left full-back",
+   "LE": "Played in the Copa Sudamericana final win"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bryan_Ramírez"
+  ]
+ },
+ {
+  "espn_id": "362895",
+  "name": "Gerardo Valenzuela",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023; 1 US U23 cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Rotation midfielder",
+   "LO": "Academy-era signing, only senior club so far",
+   "AB": "Squad player in MLS",
+   "ST": "Attacking midfielder",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerardo_Valenzuela"
+  ]
+ },
+ {
+  "espn_id": "249768",
+  "name": "Miles Robinson",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2018, US Open Cup 2019 (Atlanta); Gold Cup 2021, Nations League 2023, 2024; MLS Best XI 2019, 2021; 42 US caps, 2026 World Cup squad",
+  "causes": [
+   "Mentors young people in Cincinnati; city's Black History Month honoree 2025"
+  ],
+  "CH": 7.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "Youth mentoring recognised by Cincinnati city council; fined once for slow exit after a red card",
+   "WK": "Composed centre-back, came back from a torn Achilles",
+   "LO": "Seven years at Atlanta as its first draft pick, now Cincinnati",
+   "AB": "USMNT regular, MLS Best XI twice",
+   "ST": "Pace-based no-frills centre-back",
+   "LE": "Gold Cup winner 2021, World Cup squad 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One red card (22 March, vs CF Montréal) and a fine for not leaving the field promptly; not violent conduct as far as reported.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miles_Robinson_(soccer)",
+   "https://www.fccincinnati.com/news/miles-robinson-recognized-by-cincinnati-city-hall-as-black-history-month-honoree"
+  ]
+ },
+ {
+  "espn_id": "388854",
+  "name": "Kenji Mboma Dem",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2002,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Atlantic 10 tournament 2023 (Dayton, college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Rotation forward",
+   "LO": "Only senior club so far, after college",
+   "AB": "Squad forward in MLS",
+   "ST": "Forward off the bench",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenji_Mboma_Dem"
+  ]
+ },
+ {
+  "espn_id": "249926",
+  "name": "Tom Barlow",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New York Red Bulls",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Hard-running forward, often used as a substitute",
+   "LO": "Five seasons at Red Bulls (via their reserve side), then Chicago and Cincinnati",
+   "AB": "MLS squad forward",
+   "ST": "Energetic rather than flashy",
+   "LE": "No major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Barlow",
+   "https://en.wikipedia.org/wiki/Tom_Barlow_(American_soccer)"
+  ]
+ },
+ {
+  "espn_id": "275106",
+  "name": "Obinna Nwobodo",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Nigeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Inter Enugu",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Enugu Rangers",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Újpest",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Göztepe",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023; Nigerian league 2016 (Rangers); African U-20 Championship 2015",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Ball-winning defensive midfielder",
+   "LO": "Several clubs, now five seasons at Cincinnati",
+   "AB": "Solid MLS defensive midfielder",
+   "ST": "Destroyer role",
+   "LE": "Supporters' Shield"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Obinna_Nwobodo"
+  ]
+ },
+ {
+  "espn_id": "236641",
+  "name": "Kyle Smith",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Louisville City",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Orlando City",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup 2017, 2018 (Louisville City); US Open Cup 2022 (Orlando City)",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; fined by MLS for a 2022 Orlando-Austin confrontation",
+   "WK": "Versatile, hard-working defender",
+   "LO": "Seven seasons at Orlando, back home in Cincinnati",
+   "AB": "Long-serving MLS defender",
+   "ST": "No-frills defender",
+   "LE": "Two USL Cups, US Open Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off for violent conduct (stoppage-time shove) v Bethlehem Steel, Aug 2017, three-match ban. Also fined in 2022 for a confrontation with Austin FC players.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyle_Smith_(soccer,_born_1992)",
+   "https://www.uslchampionship.com/news_article/show/826115"
+  ]
+ },
+ {
+  "espn_id": "201354",
+  "name": "Nick Hagglund",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2017, Supporters' Shield 2017, Canadian Championship 2016, 2017 (Toronto); Supporters' Shield 2023 (Cincinnati); MLS Comeback Player of the Year 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Dependable squad defender, comeback award",
+   "LO": "Cincinnati native, eight seasons at his hometown club",
+   "AB": "Solid MLS centre-back",
+   "ST": "No-frills centre-back",
+   "LE": "MLS Cup and treble with Toronto 2017"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nick_Hagglund"
+  ]
+ },
+ {
+  "espn_id": "305664",
+  "name": "Ayoub Jabbari",
+  "club_id": "18267",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Morocco",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Racing Santander",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Paris FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Grenoble",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Forward, no notes on work rate",
+   "LO": "Moved yearly before Cincinnati",
+   "AB": "Squad forward in MLS",
+   "ST": "Forward",
+   "LE": "No honours yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayoub_Jabbari"
+  ]
+ },
+ {
+  "espn_id": "219275",
+  "name": "Shaq Moore",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Levante",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Reus",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Tenerife",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained US U-17s",
+  "honours": "Gold Cup 2021 and Gold Cup Best XI; 21 US caps; 2022 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; left Reus over unpaid wages in 2018",
+   "WK": "Two-way right-back",
+   "LO": "Several clubs, three seasons at Tenerife",
+   "AB": "USMNT squad player, MLS starter",
+   "ST": "Attacking right-back",
+   "LE": "Gold Cup winner, 2022 World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaq_Moore"
+  ]
+ },
+ {
+  "espn_id": "380441",
+  "name": "Kaick",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Grêmio",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Defensive midfielder, starter at 20",
+   "LO": "Young; second senior club",
+   "AB": "MLS starter at 20",
+   "ST": "Defensive midfielder",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaick"
+  ]
+ },
+ {
+  "espn_id": "268731",
+  "name": "Osaze Urhoghide",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sheffield Wednesday",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "KV Oostende",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Amiens",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Centre-back, no notes on work rate",
+   "LO": "Several clubs, about two years each",
+   "AB": "MLS starting centre-back",
+   "ST": "No-frills centre-back",
+   "LE": "No honours yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists England; Wikipedia calls him Dutch-born (raised in England, Nigerian parentage); nation kept as given.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Osaze_Urhoghide"
+  ]
+ },
+ {
+  "espn_id": "233460",
+  "name": "Sebastien Ibeagha",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "AC Horsens",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "New York City FC",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup and Supporters' Shield 2022 (LAFC); USL Defender of the Year 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Steady centre-back who worked up from lower leagues",
+   "LO": "Journeyman; four seasons at NYCFC, fourth at Dallas",
+   "AB": "Solid MLS centre-back",
+   "ST": "No-frills centre-back",
+   "LE": "MLS Cup with LAFC"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastien_Ibeagha"
+  ]
+ },
+ {
+  "espn_id": "359922",
+  "name": "Joaquín Valiente",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Defensor Sporting",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Barcelona SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Uruguay 2023, 2024 (Defensor)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Midfielder/winger, no notes on work rate",
+   "LO": "Five-plus years at Defensor before moving",
+   "AB": "MLS squad player",
+   "ST": "Wide attacking midfielder",
+   "LE": "Two Uruguayan cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joaquín_Valiente"
+  ]
+ },
+ {
+  "espn_id": "283864",
+  "name": "Christian Cappis",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Hobro IK",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Brøndby",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Viking",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Central midfielder, regular starter",
+   "LO": "Three Scandinavian clubs, about three years each",
+   "AB": "MLS regular; earlier Danish top-flight starter",
+   "ST": "Central midfielder",
+   "LE": "No senior honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Cappis"
+  ]
+ },
+ {
+  "espn_id": "312876",
+  "name": "Herman Johansson",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Sweden",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Friska Viljor",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Sandvikens IF",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Mjällby AIF",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Allsvenskan 2025 (Mjällby); 3 Sweden caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Full-back who rose from the lower divisions",
+   "LO": "Five years at Friska Viljor, five at Mjällby",
+   "AB": "Swedish champion, Sweden caps",
+   "ST": "Attacking right-back",
+   "LE": "Mjällby's first league title, World Cup call-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herman_Johansson"
+  ]
+ },
+ {
+  "espn_id": "277128",
+  "name": "Petar Musa",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Croatia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "NK Zagreb",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Benfica",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2019-20, 2020-21 (Slavia); Primeira Liga 2022-23 (Benfica); Czech league top scorer 2019-20; 14 Croatia caps, scored at the 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Little public record; booked for words to an opponent in 2024, otherwise no issues found",
+   "WK": "Striker, central focus of the attack",
+   "LO": "Five years at Slavia (with loans), now Dallas",
+   "AB": "Champion in Czechia and Portugal, Croatia international",
+   "ST": "Goal-scoring striker",
+   "LE": "World Cup goal against England 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Petar_Musa"
+  ]
+ },
+ {
+  "espn_id": "348870",
+  "name": "Logan Farrington",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Pac-12 Player of the Year 2023 (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Forward, no notes on work rate",
+   "LO": "Only senior club so far",
+   "AB": "MLS regular forward",
+   "ST": "Forward",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Logan_Farrington"
+  ]
+ },
+ {
+  "espn_id": "157285",
+  "name": "Ramiro",
+  "club_id": "185",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Juventude",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Grêmio",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "club": "Corinthians",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Al-Wasl",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Cruzeiro",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2017, Copa do Brasil 2016, Recopa 2018 (Grêmio); Campeonato Paulista 2019 (Corinthians)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Defensive midfielder who can cover right-back",
+   "LO": "Six seasons at Grêmio",
+   "AB": "Libertadores winner, solid Brazilian top-flight regular",
+   "ST": "Playmaking role at Dallas",
+   "LE": "Libertadores winner with Grêmio"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One-season loan to Al-Wasl (UAE) in 2021-22 from Corinthians; not coded money_league as it was a club loan.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ramiro_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "espn_id": "356357",
+  "name": "Nolan Norris",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international (U20, U23); 2023 Pan American Games",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Young centre-back",
+   "LO": "FC Dallas academy product, only senior club",
+   "AB": "MLS squad defender",
+   "ST": "No-frills centre-back",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nolan_Norris"
+  ]
+ },
+ {
+  "espn_id": "285201",
+  "name": "Santiago Moreno",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Colombia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "América de Cali",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Portland Timbers",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Fluminense",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 Colombia cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Winger, no notes on work rate",
+   "LO": "Four-plus years at Portland; at Dallas on loan from Fluminense",
+   "AB": "MLS winger, one Colombia cap",
+   "ST": "Dribbling winger",
+   "LE": "Playoff goal sending Portland to the 2021 MLS Cup final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. At FC Dallas on loan from Fluminense in 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Moreno_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "318373",
+  "name": "Bernard Kamungo",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 US cap (2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record of conduct; born in a Tanzanian refugee camp, from open tryout to MLS",
+   "WK": "Winger, no notes on work rate",
+   "LO": "Only senior club, extended to 2027 with options",
+   "AB": "MLS winger, one US cap",
+   "ST": "Direct, pacy winger",
+   "LE": "Refugee-camp-to-MLS story"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bernard_Kamungo"
+  ]
+ },
+ {
+  "espn_id": "362657",
+  "name": "Ran Binyamin",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Israel",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Hapoel Tel Aviv",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro U-19 runner-up 2022; U-20 World Cup bronze 2023 (Israel)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Midfielder, no notes on work rate",
+   "LO": "Four years at Hapoel Tel Aviv",
+   "AB": "MLS squad midfielder",
+   "ST": "Central midfielder",
+   "LE": "Youth tournament medals with Israel"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ran_Binyamin"
+  ]
+ },
+ {
+  "espn_id": "297142",
+  "name": "Patrickson Delgado",
+  "club_id": "185",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Ecuador",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Independiente del Valle",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ecuador U-20; 2019 U-17 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no conduct issues found",
+   "WK": "Midfielder, no notes on work rate",
+   "LO": "Loan then permanent at Dallas",
+   "AB": "MLS squad midfielder",
+   "ST": "Attacking midfielder",
+   "LE": "Early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrickson_Delgado"
+  ]
+ }
+]

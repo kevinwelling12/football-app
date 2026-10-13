@@ -1,0 +1,446 @@
+[
+ {
+  "name": "Hannah Bebar",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Bay FC vice-captain (2026)",
+  "honours": "USL W League 2024 (NC Courage U23); All-American at Harvard and Duke; US youth international, senior call-up 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "defensive midfielder, vice-captain in second season",
+   "LO": "one senior club so far",
+   "AB": "NWSL regular in midfield",
+   "ST": "holding role, functional",
+   "LE": "early career; senior US call-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Bebar"
+  ]
+ },
+ {
+  "name": "Jordan Silkowitz",
+  "born": 2000,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Brisbane Roar (loan)",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Three NWSL Save of the Week awards; US U23 caps, senior call-up 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "steady goalkeeper",
+   "LO": "third senior club, settled at Bay FC",
+   "AB": "NWSL starting goalkeeper",
+   "ST": "goalkeeper, some highlight saves",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Silkowitz"
+  ]
+ },
+ {
+  "name": "Joelle Anderson",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "All-WCC five times at Pepperdine",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "versatile wide player turned defender",
+   "LO": "home-region club since 2024",
+   "AB": "solid NWSL regular",
+   "ST": "wide player with attacking background",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joelle_Anderson"
+  ]
+ },
+ {
+  "name": "Karlie Lema",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "ACC Offensive Player of the Year 2024 (Notre Dame era college honours)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young striker, nothing notable either way",
+   "LO": "local player, one senior club so far",
+   "AB": "young NWSL forward, few goals yet",
+   "ST": "striker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karlie_Lema"
+  ]
+ },
+ {
+  "name": "Taylor Huff",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA champion 2023 (Florida State); first-team All-American 2024; NWSL Rookie of the Month Oct/Nov 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "attacking midfielder, nothing notable either way",
+   "LO": "one senior club so far",
+   "AB": "promising NWSL attacker",
+   "ST": "creative attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taylor_Huff"
+  ]
+ },
+ {
+  "name": "Maddie Moreau",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain at LSU (college)",
+  "honours": "Big 12 Tournament 2022 (West Virginia); Louisiana Gatorade Player of the Year 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "full-back, college captain",
+   "LO": "Bay FC original, one senior club",
+   "AB": "NWSL regular full-back",
+   "ST": "full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maddie_Moreau"
+  ]
+ },
+ {
+  "name": "Alex Pfeiffer",
+  "born": 2007,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2025 and Summer Cup 2024 (Kansas City); CONCACAF U-17 Championship 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "teenage winger, nothing notable either way",
+   "LO": "second club after mutual termination at KC",
+   "AB": "teenage NWSL winger, returning from ACL injury",
+   "ST": "winger",
+   "LE": "very early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Pfeiffer_(soccer)"
+  ]
+ },
+ {
+  "name": "Aldana Cometti",
+  "born": 1996,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "River Plate",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Boca Juniors",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Granada",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Atlético Huila",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Sevilla",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Levante",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Madrid CFF",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Fleury",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Argentina captain (2025 Copa América)",
+  "honours": "Copa Libertadores Femenina 2018 (Atlético Huila); Supercopa Argentina 2015; 106 caps, first Argentina women's player to 100",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "centre-back and national-team captain",
+   "LO": "many clubs; long Argentina service",
+   "AB": "long-serving international centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Argentina caps milestone, Libertadores winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aldana_Cometti"
+  ]
+ }
+]

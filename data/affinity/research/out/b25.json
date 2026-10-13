@@ -1,0 +1,1812 @@
+[
+ {
+  "espn_id": "152168",
+  "name": "Carles Gil",
+  "club_id": "189",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Valencia",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Elche",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Deportivo La Coruña",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "New England Revolution captain",
+  "honours": "Segunda División 2012-13; MLS Supporters' Shield 2021; MLS MVP 2021; MLS Newcomer of the Year 2019; MLS Best XI 2019, 2021; four-time club MVP",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 8.0,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no causes or issues found; long-serving captain respected by supporters",
+   "WK": "creative captain, top assist provider",
+   "LO": "seven seasons and captain at New England, supporters' Man of the Year three times",
+   "AB": "2021 MLS MVP, among MLS's best playmakers",
+   "ST": "classic No. 10 playmaker",
+   "LE": "club icon, MLS MVP and Supporters' Shield"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carles_Gil"
+  ]
+ },
+ {
+  "espn_id": "334227",
+  "name": "William Sands",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Manhattan SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA College Cup 2019 (Georgetown); MLS Cup 2023 (Columbus)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "versatile defender/midfielder",
+   "LO": "short spells so far, settling at New England",
+   "AB": "MLS starter",
+   "ST": "full-back/midfielder",
+   "LE": "MLS Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Will_Sands"
+  ]
+ },
+ {
+  "espn_id": "305755",
+  "name": "Dor Turgeman",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Israel",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Maccabi Tel Aviv",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Beitar Tel Aviv Bat Yam",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Israeli Premier League 2023-24, 2024-25; Israel State Cup 2020-21; U-20 World Cup third place 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, no notes on attitude",
+   "LO": "academy-era years at Maccabi Tel Aviv, now New England",
+   "AB": "Israeli champion, double-figure MLS scorer",
+   "ST": "attacking forward",
+   "LE": "young international with domestic titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dor_Turgeman"
+  ]
+ },
+ {
+  "espn_id": "164551",
+  "name": "Mamadou Fofana",
+  "club_id": "189",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Mali",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Alanyaspor",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Bandırmaspor",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Metz",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Amiens",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Amiens occasionally",
+  "honours": "U-17 World Cup runner-up 2015 (Mali)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "no-frills defender",
+   "LO": "three-year spells at Metz and Amiens",
+   "AB": "solid Ligue 2 / MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists France, age 26; Wikipedia's New England Revolution player is Malian, born 1998.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mamadou_Fofana_(footballer,_born_1998)"
+  ]
+ },
+ {
+  "espn_id": "329364",
+  "name": "Brooklyn Raines",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "El Paso Locomotive",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2023 (Houston); CONCACAF U-20 runner-up 2024",
+  "causes": [
+   "Spoke in support of MD Anderson Cancer Center, where his adoptive mother was treated"
+  ],
+  "CH": 6.3,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; supported a cancer centre",
+   "WK": "midfielder, no notes on attitude",
+   "LO": "young, Houston academy then New England",
+   "AB": "young MLS regular",
+   "ST": "midfielder",
+   "LE": "young player, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brooklyn_Raines"
+  ]
+ },
+ {
+  "espn_id": "360133",
+  "name": "Ethan Kohler",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "SC Verl",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 runner-up 2024 (USA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "young, moved from Werder Bremen",
+   "AB": "young MLS regular, Bundesliga appearances",
+   "ST": "defender/holding midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Kohler"
+  ]
+ },
+ {
+  "espn_id": "276684",
+  "name": "Alhassan Yusuf",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Nigeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "IFK Göteborg",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Royal Antwerp",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Svenska Cupen 2019-20; Belgian Pro League and Cup 2022-23; AFCON runner-up 2023; Member of the Order of the Niger",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "ball-winning midfielder",
+   "LO": "three-year spells at each club",
+   "AB": "Belgian champion, Nigeria international",
+   "ST": "holding midfielder",
+   "LE": "Belgian double, AFCON final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alhassan_Yusuf"
+  ]
+ },
+ {
+  "espn_id": "216609",
+  "name": "Matt Polster",
+  "club_id": "189",
+  "gender": "M",
+  "born": 1993,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chicago Fire",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Rangers",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Supporters' Shield 2021 (New England); Chicago Fire goal of the season 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "hard-working defensive midfielder/right-back",
+   "LO": "six-plus seasons at New England",
+   "AB": "solid MLS regular",
+   "ST": "no-frills holding player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Polster"
+  ]
+ },
+ {
+  "espn_id": "376513",
+  "name": "Peyton Miller",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS 22 Under 22 (2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "young defender, no notes on attitude",
+   "LO": "academy graduate, one club so far",
+   "AB": "teenage MLS regular",
+   "ST": "young left-sided defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peyton_Miller"
+  ]
+ },
+ {
+  "espn_id": "338883",
+  "name": "Luca Langoni",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Argentine Primera División 2022; Supercopa Argentina 2022 (Boca Juniors)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, no notes on attitude",
+   "LO": "Boca academy, then New England",
+   "AB": "Boca title winner, MLS rotation forward",
+   "ST": "attacking forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_Langoni"
+  ]
+ },
+ {
+  "espn_id": "286757",
+  "name": "Griffin Yow",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "D.C. United",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Westerlo",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; said he didn't feel valued at D.C. United",
+   "WK": "winger, no notes on attitude",
+   "LO": "D.C. homegrown, four years at Westerlo",
+   "AB": "Belgian top-flight regular, MLS starter",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Griffin_Yow"
+  ]
+ },
+ {
+  "espn_id": "343191",
+  "name": "Ilay Feingold",
+  "club_id": "189",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Israel",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Maccabi Haifa",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-19 Euro runner-up 2022; U-20 World Cup third place 2023 (Israel)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "young, Maccabi Haifa then New England",
+   "AB": "young MLS regular",
+   "ST": "right-back/centre-back",
+   "LE": "youth tournament medals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilay_Feingold"
+  ]
+ },
+ {
+  "espn_id": "251806",
+  "name": "Jackson Yueill",
+  "club_id": "189",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF Gold Cup 2021; CONCACAF Nations League (USA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "deep-lying passer, steady",
+   "LO": "eight seasons at San Jose",
+   "AB": "USA international, solid MLS midfielder",
+   "ST": "passing midfielder",
+   "LE": "Gold Cup and Nations League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackson_Yueill"
+  ]
+ },
+ {
+  "espn_id": "156187",
+  "name": "Diego Fagundez",
+  "club_id": "189",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2011,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2024 (LA Galaxy); New England Revolution All-Time Team; club MVP 2013",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; left New England after a contract dispute",
+   "WK": "attacking midfielder, criticised once by Austin coach",
+   "LO": "academy product, ten seasons at New England and returned",
+   "AB": "long-time MLS regular",
+   "ST": "creative attacker",
+   "LE": "club All-Time Team, MLS Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Fagúndez"
+  ]
+ },
+ {
+  "espn_id": "337149",
+  "name": "Agustin Ojeda",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Racing Club",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "New York City FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; sent to reserves at Racing for repeated lateness",
+   "WK": "winger, no notes on attitude",
+   "LO": "young, Racing then NYCFC",
+   "AB": "young MLS regular",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agustín_Ojeda",
+   "https://en.wikipedia.org/wiki/Agustín_Ojeda_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "espn_id": "108107",
+  "name": "Nicolás Fernández",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Lorenzo",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Elche",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "New York City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, no notes on attitude",
+   "LO": "San Lorenzo academy, three years at Elche",
+   "AB": "La Liga player, productive MLS scorer",
+   "ST": "attacking forward/winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolás_Fernández_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "espn_id": "252974",
+  "name": "Matt Freese",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "New York City FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2020 (Philadelphia); NYCFC MVP 2024; MLS All-Star 2026; USA 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper, no notes on attitude",
+   "LO": "fourth season as NYCFC starter",
+   "AB": "USA World Cup goalkeeper, MLS All-Star",
+   "ST": "goalkeeper",
+   "LE": "USA starter at home World Cup, error vs Belgium"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Freese"
+  ]
+ },
+ {
+  "espn_id": "185792",
+  "name": "Thiago Martins",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Palmeiras",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Paysandu",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Bahia",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Yokohama F. Marinos",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "New York City FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Brasileirão 2016; J1 League 2019; Campeones Cup 2022; J.League Best XI 2019; MLS All-Star 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "no-frills centre-back",
+   "LO": "four seasons each in Yokohama and New York",
+   "AB": "J.League champion and Best XI",
+   "ST": "no-frills centre-back",
+   "LE": "titles in Brazil and Japan"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thiago_Martins_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "espn_id": "297380",
+  "name": "Tayvon Gray",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York City FC",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2021; Campeones Cup 2022; Nations League bronze 2024 (Jamaica)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "Bronx-born academy graduate, one club",
+   "AB": "MLS regular, Jamaica international",
+   "ST": "right-back",
+   "LE": "MLS Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tayvon_Gray"
+  ]
+ },
+ {
+  "espn_id": "250852",
+  "name": "Hannes Wolf",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Swansea City",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "New York City FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga 2017-18, 2018-19; Austrian Cup 2018-19; UEFA Youth League 2016-17",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "attacking midfielder, no notes on attitude",
+   "LO": "several moves, now NYCFC",
+   "AB": "Bundesliga and Austrian champion, MLS scorer",
+   "ST": "creative attacking midfielder",
+   "LE": "Youth League winner, Salzburg titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannes_Wolf",
+   "https://en.wikipedia.org/wiki/Hannes_Wolf_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "276051",
+  "name": "Raul Gustavo",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Corinthians",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Bahia",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Ferencváros",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "New York City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeonato Baiano 2023; Hungarian league 2024-25",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; apologised for pushing an assistant referee",
+   "WK": "no-frills defender",
+   "LO": "short spells at several clubs",
+   "AB": "solid Brazil/MLS centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off for pushing an assistant referee in the face, Corinthians v Argentinos Juniors, Copa Sudamericana, April 2024; he apologised.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raul_Gustavo",
+   "https://www.lance.com.br/fora-de-campo/raul-gustavo-e-expulso-por-agressao-ao-bandeira-em-jogo-do-corinthians.html"
+  ]
+ },
+ {
+  "espn_id": "400718",
+  "name": "Nico Cavallo",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "first pro club",
+   "AB": "MLS rotation player",
+   "ST": "left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Cavallo"
+  ]
+ },
+ {
+  "espn_id": "259199",
+  "name": "Andrés Perea",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlético Nacional",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Orlando City",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "New York City FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2022 (Orlando City)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defensive midfielder",
+   "LO": "several moves, now NYCFC",
+   "AB": "MLS rotation midfielder",
+   "ST": "holding midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrés_Perea"
+  ]
+ },
+ {
+  "espn_id": "254450",
+  "name": "Kevin O'Toole",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "New York City FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeones Cup 2022; USL Cup 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "fifth season at NYCFC",
+   "AB": "MLS squad player",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_O'Toole",
+   "https://en.wikipedia.org/wiki/Kevin_O'Toole_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "268192",
+  "name": "Keaton Parks",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Varzim",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Benfica",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "New York City FC",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2021; Campeones Cup 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "composed midfielder",
+   "LO": "seven seasons at NYCFC",
+   "AB": "Benfica squad, solid MLS midfielder",
+   "ST": "technical midfielder",
+   "LE": "MLS Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keaton_Parks"
+  ]
+ },
+ {
+  "espn_id": "241031",
+  "name": "Aiden O'Neill",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Australia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Burnley",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Central Coast Mariners",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Brisbane Roar",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Melbourne City",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Standard Liège",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "New York City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Standard Liège",
+  "honours": "A-League Premiership 2020-21, 2021-22, 2022-23; A-League Championship 2020-21; PFA Team of the Season 2022-23; Australia international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "combative holding midfielder, captained Standard",
+   "LO": "three years each at Melbourne City and Standard",
+   "AB": "Australia international, Belgian top flight",
+   "ST": "holding midfielder",
+   "LE": "A-League titles, Asian Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aiden_O'Neill"
+  ]
+ },
+ {
+  "espn_id": "291697",
+  "name": "Kai Trewin",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Australia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brisbane Roar",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Melbourne City",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "New York City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "A-League Men champion 2024-25; PFA Team of the Season 2024-25; Australia 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender, no notes on attitude",
+   "LO": "four years at Brisbane Roar",
+   "AB": "Australia international, A-League champion",
+   "ST": "centre-back",
+   "LE": "World Cup squad, A-League title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Trewin"
+  ]
+ },
+ {
+  "espn_id": "70624",
+  "name": "Maxi Morález",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 1987,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Racing Club",
+    "from": 2005,
+    "to": 2009
+   },
+   {
+    "club": "FC Moscow",
+    "from": 2007,
+    "to": 2009
+   },
+   {
+    "club": "Vélez Sarsfield",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Atalanta",
+    "from": 2011,
+    "to": 2015
+   },
+   {
+    "club": "León",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "New York City FC",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Racing Club",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "New York City FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Argentine Primera (2009, 2011 Clausura); MLS Cup 2021; U-20 World Cup 2007 (Silver Ball); MLS Best XI 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "tireless small playmaker",
+   "LO": "eight-plus seasons at NYCFC, returned after a year away",
+   "AB": "Serie A regular, MLS Best XI",
+   "ST": "classic No. 10 playmaker",
+   "LE": "NYCFC great, MLS Cup and U-20 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxi_Moralez"
+  ]
+ },
+ {
+  "espn_id": "258855",
+  "name": "James Sands",
+  "club_id": "17606",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York City FC",
+    "from": 2017,
+    "to": null
+   },
+   {
+    "club": "Rangers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "St. Pauli",
+    "from": 2024,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2021; Scottish Cup 2021-22; Gold Cup 2021; Europa League runner-up 2021-22; MLS All-Star 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "versatile, selfless defender/midfielder",
+   "LO": "NYCFC academy graduate, loans to Rangers and St. Pauli",
+   "AB": "USA international, Bundesliga regular",
+   "ST": "no-frills defender",
+   "LE": "MLS Cup, Europa League final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Sands"
+  ]
+ }
+]

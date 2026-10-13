@@ -1,0 +1,540 @@
+[
+ {
+  "espn_id": "264922",
+  "name": "Kate Del Fava",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Utah Royals",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scored latest goal in NWSL history (2022 playoff winner); first USWNT call-up October 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "iron woman, played every minute of 2024",
+   "LO": "traded to Utah 2023, regular since",
+   "AB": "NWSL starter, first USWNT call-up 2026",
+   "ST": "versatile defender",
+   "LE": "record-late playoff winner for KC"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kate_Del_Fava"
+  ]
+ },
+ {
+  "espn_id": "317623",
+  "name": "Cloé Lacasse",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1993,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "ÍBV",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Benfica",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Arsenal",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 Portuguese titles (Benfica), Icelandic Cup, FA League Cup 2024; Benfica Player of the Year 2022-23; 48 Canada caps, 2023 WC, 2024 Olympics",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "attacking forward",
+   "LO": "four clubs; four years each at ÍBV and Benfica",
+   "AB": "100+ goals at Benfica, Canada regular",
+   "ST": "direct, goalscoring winger",
+   "LE": "Benfica scorer, Olympic goal for Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cloé_Lacasse"
+  ]
+ },
+ {
+  "espn_id": "290278",
+  "name": "Cece Delzer",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Kolbotn",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2020 (Houston); Ole Miss record scorer",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "utility forward/midfielder",
+   "LO": "journeywoman, seven clubs",
+   "AB": "NWSL squad attacker",
+   "ST": "attacking role",
+   "LE": "college record scorer, Challenge Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cece_Delzer"
+  ]
+ },
+ {
+  "espn_id": "223464",
+  "name": "Mina Tanaka",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1994,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tokyo Verdy Beleza",
+    "from": 2011,
+    "to": 2019
+   },
+   {
+    "club": "INAC Kobe Leonessa",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "5 Nadeshiko League titles, WE League 2021-22; AFC Women's Club Championship 2019; Asian Cup 2018 and 2026, Asian Games 2018; 4x league top scorer, 2x MVP; 101 Japan caps, 43 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 7.0,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "link-up forward/No. 10",
+   "LO": "nine years at Beleza, long spells",
+   "AB": "Japan's centurion forward, league MVP",
+   "ST": "creative attacking midfielder",
+   "LE": "two Asian Cups, 100+ caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mina_Tanaka"
+  ]
+ },
+ {
+  "espn_id": "210325",
+  "name": "Kiana Palacios",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1996,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Real Sociedad",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Club América",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa de la Reina 2019 (Real Sociedad); Liga MX Femenil Clausura 2023 (América); Pan American Games gold 2023; 51 Mexico caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "striker",
+   "LO": "five years at América",
+   "AB": "América's top scorer, Mexico regular",
+   "ST": "goalscoring forward",
+   "LE": "Liga MX title, Pan Am gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiana_Palacios"
+  ]
+ },
+ {
+  "espn_id": "335826",
+  "name": "Ana Tejada",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Logroño",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Logroño as a teenager (2019)",
+  "honours": "U-17 World Cup and Euro 2018, U-20 World Cup 2022 with Spain; 1 senior cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "centre-back / holding midfielder",
+   "LO": "five years at Real Sociedad",
+   "AB": "NWSL squad player, one Spain cap",
+   "ST": "defender, long-range goal",
+   "LE": "youth World Cups with Spain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ana_Tejada"
+  ]
+ },
+ {
+  "espn_id": "276099",
+  "name": "Narumi Miura",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tokyo Verdy Beleza",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "4 Nadeshiko League titles, AFC Club Championship 2019; NWSL Challenge Cup 2023 and 2025; 31+ Japan caps, 2019 WC, 2020 Olympics",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "holding midfielder, defensive work",
+   "LO": "seven years at Beleza, traded twice since",
+   "AB": "Japan international, NWSL starter",
+   "ST": "passer with vision",
+   "LE": "Japan World Cup and Olympic squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Narumi_Miura"
+  ]
+ },
+ {
+  "espn_id": "335813",
+  "name": "Nuria Rábano",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlético Arousana",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Deportivo La Coruña",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Barcelona",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League, Liga F and Supercopa 2022-23 (Barcelona); U-20 World Cup runner-up 2018; 1 Spain cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "left-back",
+   "LO": "six clubs, four years at Depor",
+   "AB": "sporadic at Barça, NWSL starter",
+   "ST": "attacking left-back",
+   "LE": "UWCL winner as squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nuria_Rábano"
+  ]
+ }
+]
