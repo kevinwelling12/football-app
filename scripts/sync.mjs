@@ -16,7 +16,8 @@ const arg = (n, d) => { const i = process.argv.indexOf('--' + n); return i < 0 ?
 const FETCH = !process.argv.includes('--no-fetch'), BACK = +arg('back', 10);
 const today = new Date(), ymd = d => d.toISOString().slice(0, 10).replace(/-/g, '');
 const params = fs.existsSync('model/params.json') ? JSON.parse(fs.readFileSync('model/params.json', 'utf8')) : {};
-const affinity = JSON.parse(fs.readFileSync('data/affinity.json', 'utf8'));
+const traits = JSON.parse(fs.readFileSync('data/affinity/traits.json', 'utf8'));
+const pubTraits = {};
 const report = [];
 
 const fileOf = (k, s) => `history/${k}/${s}.json`;
@@ -87,12 +88,12 @@ async function publish() {
       const games = {}; for (const m of S.matches) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
       const ids = Object.keys(S.teams).filter(id => games[id] >= 4);
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
-      const aff = affinity[k] || {};
       const teams = ids.map(id => {
         const t = S.teams[id], A = fit.A[id] ?? Math.exp(P.gamma * (((elo.R[id] ?? fit.eloMean) - fit.eloMean) / 400) / 2), D = fit.D[id] ?? 1 / A;
-        // data/affinity.json is keyed by ESPN team id ([name, score]); a club with no entry shows no Affinity
-        if (!aff[id]) report.push(`${k}: no Affinity for ${t.n} (${id}), add it to data/affinity.json`);
-        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), aff: aff[id]?.[1] ?? null, espnRank: rank[id] };
+        // Affinity is computed in the page from researched traits (data/affinity/traits.json, keyed by ESPN id)
+        if (traits[id]) { const { src, ...tr } = traits[id]; pubTraits[id] = tr; }
+        else report.push(`${k}: no Affinity traits for ${t.n} (${id}): research it and add it to data/affinity/traits.json`);
+        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
       });
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;
       const base = (fit.base[k] || [1.5, 1.2]).map(x => +x.toFixed(4));
@@ -134,6 +135,7 @@ async function publish() {
     }
   }
   fs.writeFileSync('web/data/index.json', JSON.stringify(index));
+  fs.writeFileSync('web/data/traits.json', JSON.stringify(pubTraits));
 }
 
 // The backtest scores model/market blends on matches with closing odds; take the best weight (default 0.7).

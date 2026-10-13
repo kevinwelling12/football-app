@@ -1,0 +1,4082 @@
+{
+ "306": {
+  "name": "Hull City",
+  "src": "Hull City",
+  "terrace": 4,
+  "city": 6,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   53.75,
+   -0.37
+  ],
+  "why": {
+   "terrace": "Solid crowds, not a noted atmosphere",
+   "city": "City's club but rugby league is big",
+   "voice": "No fan power",
+   "conscience": "Homophobic chanting fine (2026)",
+   "ground": "MKM Stadium (2002), solid",
+   "contender": "Promoted via play-offs 2026",
+   "rituals": "None known",
+   "stewardship": "Owner Ilicali, high churn",
+   "women": "Women's team lower tiers",
+   "intensity": "No lasting identity"
+  }
+ },
+ "331": {
+  "name": "Brighton & Hove Albion",
+  "src": "Brighton",
+  "terrace": 3,
+  "city": 7,
+  "voice": 4,
+  "conscience": 7,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 7,
+  "intensity": 7,
+  "ll": [
+   50.86,
+   -0.08
+  ],
+  "why": {
+   "terrace": "decent, not noted",
+   "city": "fans fought 14 years for a home",
+   "voice": "fan campaign won Falmer",
+   "conscience": "Albion in the Community, LGBTQ+ inclusion",
+   "ground": "Amex sold out",
+   "contender": "European football 2023-24",
+   "rituals": "few rituals",
+   "stewardship": "local fan owner Bloom, minority stakes elsewhere",
+   "women": "WSL, women's stadium planned",
+   "intensity": "Hurzeler's high press"
+  }
+ },
+ "337": {
+  "name": "Brentford",
+  "src": "Brentford",
+  "terrace": 3,
+  "city": 5,
+  "voice": 5,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   51.49,
+   -0.29
+  ],
+  "why": {
+   "terrace": "friendly, fairly loud",
+   "city": "west-London local club",
+   "voice": "Bees United keeps a board seat",
+   "conscience": "Community Sports Trust well regarded",
+   "ground": "compact, full",
+   "contender": "mid-table Premier League",
+   "rituals": "'Hey Jude'",
+   "stewardship": "lifelong-fan owner Benham, sustainable",
+   "women": "affiliate only",
+   "intensity": "aggressive, direct pressing"
+  }
+ },
+ "349": {
+  "name": "AFC Bournemouth",
+  "src": "Bournemouth",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 4,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 8,
+  "ll": [
+   50.74,
+   -1.84
+  ],
+  "why": {
+   "terrace": "small support base",
+   "city": "town's club",
+   "voice": "no fan ownership",
+   "conscience": "Community Sports Trust; MrQ betting sleeve",
+   "ground": "Dean Court compact, full",
+   "contender": "first European qualification 2026",
+   "rituals": "no rituals known beyond the club",
+   "stewardship": "Black Knight multi-club hub",
+   "women": "minor women's team",
+   "intensity": "intense pressing from Iraola; Rose"
+  }
+ },
+ "357": {
+  "name": "Leeds United",
+  "src": "Leeds United",
+  "terrace": 7,
+  "city": 9,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   53.78,
+   -1.57
+  ],
+  "why": {
+   "terrace": "Elland Road loud and intimidating; huge away following",
+   "city": "One-club city",
+   "voice": "Supporters' Trust consulted",
+   "conscience": "Foundation work; homophobic chanting fine (2023)",
+   "ground": "Elland Road (1919) loud, expansion planned",
+   "contender": "Promoted 2025, survival level",
+   "rituals": "'Marching On Together' known in England",
+   "stewardship": "49ers Enterprises, Rangers stake",
+   "women": "Women's team lower tiers",
+   "intensity": "Farke's energetic, ball-controlling side"
+  }
+ },
+ "359": {
+  "name": "Arsenal",
+  "src": "Arsenal",
+  "terrace": 5,
+  "city": 5,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 9,
+  "intensity": 8,
+  "ll": [
+   51.56,
+   -0.11
+  ],
+  "why": {
+   "terrace": "new organised singing sections (Ashburton Army); Emirates long seen as quiet",
+   "city": "big London club among many; strong north-London following",
+   "voice": "Supporters' Trust and fan advisory board, little real power",
+   "conscience": "Arsenal in the Community, big women's investment; most expensive tickets in England",
+   "ground": "Emirates 60,704, improving with safe standing from 2026-27",
+   "contender": "2025-26 Premier League champions, 2026 UCL finalists",
+   "rituals": "'North London Forever', Invincibles lore known worldwide",
+   "stewardship": "Kroenke KSE (also owns Colorado Rapids), Super League signatory 2021",
+   "women": "Arsenal Women won the 2025 UWCL, core to the club",
+   "intensity": "Arteta's high, structured press"
+  }
+ },
+ "360": {
+  "name": "Manchester United",
+  "src": "Manchester United",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 1,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   53.46,
+   -2.29
+  ],
+  "why": {
+   "terrace": "Stretford End, big away following; home atmosphere criticised",
+   "city": "Shares Manchester; global over local",
+   "voice": "Fan protests (The 1958) changed little; no formal power",
+   "conscience": "Foundation work; Antony/Greenwood handling criticised",
+   "ground": "Old Trafford (74,158) full but ageing",
+   "contender": "2024 FA Cup, 2023 League Cup; no title since 2013",
+   "rituals": "Busby Babes/Munich memorials, songs known globally",
+   "stewardship": "Glazer leveraged buyout, ~£1bn debt; INEOS 29%",
+   "women": "Women's team in WSL, 2024 FA Cup",
+   "intensity": "Four coaches in three seasons; mixed"
+  }
+ },
+ "361": {
+  "name": "Newcastle United",
+  "src": "Newcastle United",
+  "terrace": 7,
+  "city": 10,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 9,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 0,
+  "women": 4,
+  "intensity": 7,
+  "ll": [
+   54.98,
+   -1.62
+  ],
+  "why": {
+   "terrace": "Wor Flags displays, Gallowgate end",
+   "city": "Club is the city's soul, working city",
+   "voice": "No fan power",
+   "conscience": "Foundation, sportswashing criticism",
+   "ground": "St James' Park (52,729), city-centre, full",
+   "contender": "2025 League Cup; UCL 2023-24",
+   "rituals": "'Blaydon Races' known",
+   "stewardship": "Saudi PIF 85%",
+   "women": "Women's team in-house, 2nd tier/WSL estimate",
+   "intensity": "Howe-era high-energy press; Jaissle Red Bull"
+  }
+ },
+ "362": {
+  "name": "Aston Villa",
+  "src": "Aston Villa",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   52.51,
+   -1.88
+  ],
+  "why": {
+   "terrace": "Holte End is one of England's great home ends",
+   "city": "Birmingham's biggest club but shares the city with Blues",
+   "voice": "ticket price protests 2024-25 did not change policy",
+   "conscience": "Foundation work; Visit Rwanda sponsor, UEFA fine for anti-Traveller banner",
+   "ground": "Villa Park (since 1897) sold out, historic",
+   "contender": "2025-26 Europa League winners, UCL 2024-25",
+   "rituals": "Holte End songs known in England",
+   "stewardship": "V Sports (Sawiris, Edens) plus US fund Atairos; UEFA squad-cost breaches",
+   "women": "WSL side",
+   "intensity": "Emery's compact, counter-attacking team"
+  }
+ },
+ "363": {
+  "name": "Chelsea",
+  "src": "Chelsea",
+  "terrace": 3,
+  "city": 5,
+  "voice": 4,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 0,
+  "women": 9,
+  "intensity": 6,
+  "ll": [
+   51.48,
+   -0.19
+  ],
+  "why": {
+   "terrace": "quiet home crowd",
+   "city": "one of many London clubs",
+   "voice": "Chelsea Pitch Owners hold the freehold",
+   "conscience": "Foundation, anti-antisemitism; chant charges",
+   "ground": "Stamford Bridge",
+   "contender": "Club World Cup 2025",
+   "rituals": "'Blue is the Colour'",
+   "stewardship": "Clearlake private equity",
+   "women": "WSL dominant",
+   "intensity": "coach churn"
+  }
+ },
+ "364": {
+  "name": "Liverpool",
+  "src": "Liverpool",
+  "terrace": 10,
+  "city": 10,
+  "voice": 6,
+  "conscience": 7,
+  "ground": 10,
+  "contender": 10,
+  "rituals": 10,
+  "stewardship": 5,
+  "women": 5,
+  "intensity": 9,
+  "ll": [
+   53.43,
+   -2.96
+  ],
+  "why": {
+   "terrace": "The Kop, world-famous",
+   "city": "Club is Liverpool's soul (shares city with Everton)",
+   "voice": "Spirit of Shankly and supporters' board reversed a multi-year price rise (2026)",
+   "conscience": "Hillsborough justice campaign, LFC Foundation, Red Equality; some ticket rows",
+   "ground": "Anfield (61,276), elite atmosphere",
+   "contender": "20 titles, 2019 UCL, 2020 and 2025 titles",
+   "rituals": "You'll Never Walk Alone",
+   "stewardship": "Fenway Sports Group (US) plus 1892 Holdings; well run but Super League 2021",
+   "women": "Liverpool Women in the WSL, mid-table, plays away from Anfield",
+   "intensity": "Klopp heavy-metal press; Iraola (2026) an elite presser again"
+  }
+ },
+ "366": {
+  "name": "Sunderland",
+  "src": "Sunderland",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 4,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   54.91,
+   -1.39
+  ],
+  "why": {
+   "terrace": "Red and White Army, known in England",
+   "city": "working city lives through the club",
+   "voice": "none",
+   "conscience": "Foundation of Light",
+   "ground": "Stadium of Light 46k, near full",
+   "contender": "back in the Premier League since 2025",
+   "rituals": "'Can't Help Falling in Love', Prokofiev walkout",
+   "stewardship": "Louis-Dreyfus and Sartori, sale explored 2026",
+   "women": "Women's Championship side",
+   "intensity": "mixed"
+  }
+ },
+ "367": {
+  "name": "Tottenham Hotspur",
+  "src": "Tottenham Hotspur",
+  "terrace": 4,
+  "city": 5,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 5,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   51.6,
+   -0.07
+  ],
+  "why": {
+   "terrace": "N17 singing section, modest",
+   "city": "north London club in a huge city",
+   "voice": "Supporters' Trust campaigns; Super League exit within two days",
+   "conscience": "homophobic chant fine 2025, Nazi salutes fine 2026",
+   "ground": "single-tier South Stand, full",
+   "contender": "Europa League 2025, PL bottom half",
+   "rituals": "'Glory Glory', 'Oh When the Spurs'",
+   "stewardship": "ENIC (Lewis trust), high ticket prices",
+   "women": "WSL side",
+   "intensity": "mixed"
+  }
+ },
+ "368": {
+  "name": "Everton",
+  "src": "Everton",
+  "terrace": 6,
+  "city": 7,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 3,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 4,
+  "ll": [
+   53.42,
+   -3.0
+  ],
+  "why": {
+   "terrace": "Loud, loyal support; no single famous end now Gwladys Street is gone",
+   "city": "'The People's Club', shares Liverpool with Liverpool",
+   "voice": "No formal fan power; supporters' groups protested Moshiri era",
+   "conscience": "Everton in the Community is widely praised",
+   "ground": "New 52.9k Bramley-Moore Dock stadium (2025), full and steep but new",
+   "contender": "Relegation fights, now mid-table",
+   "rituals": "Z-Cars walk-out known in England",
+   "stewardship": "Friedkin Group (also Roma) since 2024; Stake.com sponsor",
+   "women": "Everton Women in WSL, play at Goodison",
+   "intensity": "organised, direct, not pressing"
+  }
+ },
+ "370": {
+  "name": "Fulham",
+  "src": "Fulham",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   51.48,
+   -0.22
+  ],
+  "why": {
+   "terrace": "Generally quiet crowd, includes a neutral section",
+   "city": "One of many London clubs",
+   "voice": "No fan power",
+   "conscience": "Fulham FC Foundation",
+   "ground": "Craven Cottage (1896) characterful riverside ground",
+   "contender": "Mid-table Premier League",
+   "rituals": "None known beyond England",
+   "stewardship": "Shahid Khan, stable, no other clubs",
+   "women": "Women's team not professional",
+   "intensity": "Silva's possession, Arbeloa new (estimate)"
+  }
+ },
+ "373": {
+  "name": "Ipswich Town",
+  "src": "Ipswich Town",
+  "terrace": 5,
+  "city": 8,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   52.05,
+   1.14
+  ],
+  "why": {
+   "terrace": "Loyal, lively, not elite",
+   "city": "Suffolk's club, one-club region",
+   "voice": "No fan board seat found",
+   "conscience": "Community trust; women funded",
+   "ground": "Portman Road (1884) sold out",
+   "contender": "Up-and-down 2024-26",
+   "rituals": "None known beyond England",
+   "stewardship": "US pension/private equity (Gamechanger 20, Bright Path)",
+   "women": "Women funded and professionalised",
+   "intensity": "O'Neil pressing after McKenna"
+  }
+ },
+ "382": {
+  "name": "Manchester City",
+  "src": "Manchester City",
+  "terrace": 3,
+  "city": 6,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 10,
+  "rituals": 4,
+  "stewardship": 0,
+  "women": 7,
+  "intensity": 7,
+  "ll": [
+   53.48,
+   -2.2
+  ],
+  "why": {
+   "terrace": "No defining singing end; Etihad often quiet",
+   "city": "Shares Manchester; historic local base",
+   "voice": "No fan power",
+   "conscience": "City in the Community; club used for state image",
+   "ground": "Etihad (61,038), empty seats in cup games",
+   "contender": "Ten titles, 2023 treble",
+   "rituals": "Poznan known, little else",
+   "stewardship": "Abu Dhabi state via City Football Group, 114 charges",
+   "women": "Man City Women in the WSL, top side",
+   "intensity": "Guardiola possession with counter-press; Maresca control-first"
+  }
+ },
+ "384": {
+  "name": "Crystal Palace",
+  "src": "Crystal Palace",
+  "terrace": 7,
+  "city": 6,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   51.4,
+   -0.09
+  ],
+  "why": {
+   "terrace": "Holmesdale Fanatics (2005) bring drums, flags and tifos; one of England's loudest ends",
+   "city": "South London club, loved locally but one of many London clubs",
+   "voice": "Fan groups campaign on prices; no formal power",
+   "conscience": "Palace for Life Foundation, visible community work",
+   "ground": "Selhurst Park (1924), compact, full, very loud",
+   "contender": "FA Cup 2025 and Conference League 2026",
+   "rituals": "Holmesdale ultra culture, 'Glad All Over' known in England",
+   "stewardship": "US investors (Johnson, Harris/Blitzer) exploring a sale; Parish 10%",
+   "women": "Women's team relegated from WSL in 2025 (estimate)",
+   "intensity": "Glasner's intense 3-4-3, Sage (intense) from 2026"
+  }
+ },
+ "388": {
+  "name": "Coventry City",
+  "src": "Coventry City",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 5,
+  "stewardship": 7,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   52.45,
+   -1.5
+  ],
+  "why": {
+   "terrace": "Loyal, vocal home support but no famous singing end",
+   "city": "Coventry's main club, a working city that stayed loyal through exiles and League Two",
+   "voice": "No fan board seat; fans' long protests against SISU did not give them formal power",
+   "conscience": "Sky Blues in the Community; nothing defining (estimate)",
+   "ground": "CBS Arena is a 2005 out-of-town bowl, ~29k average",
+   "contender": "1987 FA Cup; promoted to the Premier League 2026, newcomers",
+   "rituals": "'Sky Blue Song' anthem known in England",
+   "stewardship": "Local owner Doug King reunited club and stadium (2025)",
+   "women": "Women's team in lower tiers",
+   "intensity": "Lampard's front-foot, high-scoring promotion side"
+  }
+ },
+ "393": {
+  "name": "Nottingham Forest",
+  "src": "Nottingham Forest",
+  "terrace": 6,
+  "city": 7,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   52.94,
+   -1.13
+  ],
+  "why": {
+   "terrace": "Trent End loud, known in England",
+   "city": "Shares city with Notts County",
+   "voice": "No fan power",
+   "conscience": "Community trust; betting sleeve; attacks on referees",
+   "ground": "City Ground (31,212) sold out, riverside",
+   "contender": "Europa League semi-final 2025-26",
+   "rituals": "Mull of Kintyre known",
+   "stewardship": "Marinakis multi-club",
+   "women": "Women's team lower tier",
+   "intensity": "Coach churn; Glasner intensity"
+  }
+ },
+ "122": {
+  "name": "FC Cologne",
+  "src": "1. FC Köln",
+  "terrace": 7,
+  "city": 8,
+  "voice": 9,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 2,
+  "rituals": 7,
+  "stewardship": 9,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   50.93,
+   6.87
+  ],
+  "why": {
+   "terrace": "Südkurve with Wilde Horde ultras, loud and known across Germany",
+   "city": "Cologne's main club and a civic institution (carnival ties), but in a big, varied city",
+   "voice": "member club (150,000+ members) electing the board, no investor",
+   "conscience": "visible anti-racism and diversity work; heavy pyro fines and 2022 Nice clash weigh against (estimate)",
+   "ground": "RheinEnergieStadion full at 49,918 of 50,000, steep English-style stands",
+   "contender": "promoted 2025, survival level; last honours 1978",
+   "rituals": "goat mascot Hennes and Höhner anthem 'Mer stonn zo dir' known nationally",
+   "stewardship": "pro arm fully held by the e.V., no outside investor",
+   "women": "women in the Frauen-Bundesliga",
+   "intensity": "energetic, direct after promotion, no lasting pressing identity; coach churn"
+  }
+ },
+ "124": {
+  "name": "Borussia Dortmund",
+  "src": "Borussia Dortmund",
+  "terrace": 10,
+  "city": 10,
+  "voice": 8,
+  "conscience": 8,
+  "ground": 10,
+  "contender": 7,
+  "rituals": 9,
+  "stewardship": 8,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   51.49,
+   7.45
+  ],
+  "why": {
+   "terrace": "Yellow Wall, Europe's benchmark terrace",
+   "city": "the city's soul; working Ruhr city",
+   "voice": "e.V. controls (50+1); members voted against Rheinmetall (non-binding)",
+   "conscience": "anti-extremism statutes, Holocaust remembrance",
+   "ground": "Signal Iduna Park 81,365, highest attendance in the world",
+   "contender": "2013 and 2024 UCL finals; last league title 2012",
+   "rituals": "Yellow Wall and its songs world-famous",
+   "stewardship": "member-controlled; Rheinmetall deal",
+   "women": "women since 2021, climbing lower leagues",
+   "intensity": "Kovac pragmatic now; Klopp gegenpress is history"
+  }
+ },
+ "125": {
+  "name": "Eintracht Frankfurt",
+  "src": "Eintracht Frankfurt",
+  "terrace": 8,
+  "city": 7,
+  "voice": 8,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 7,
+  "rituals": 7,
+  "stewardship": 9,
+  "women": 7,
+  "intensity": 6,
+  "ll": [
+   50.07,
+   8.65
+  ],
+  "why": {
+   "terrace": "Nordwestkurve choreographies; ~30,000 travelled to Camp Nou (2022)",
+   "city": "The city's main club, though Frankfurt is a finance hub",
+   "voice": "Members' e.V. holds majority under 50+1",
+   "conscience": "Public anti-AfD stance; offset by racist and queerphobic fan incidents and disorder",
+   "ground": "Waldstadion averages 59k, full, very loud",
+   "contender": "Europa League 2022, DFB-Pokal 2018; regular Europe",
+   "rituals": "Eagle mascot Attila, choreos and 'Im Herzen von Europa' known in Europe",
+   "stewardship": "Member-controlled, stable",
+   "women": "Women's side (ex-1. FFC Frankfurt) top-tier and prominent",
+   "intensity": "Transition football, intensity varies with coaches"
+  }
+ },
+ "126": {
+  "name": "SC Freiburg",
+  "src": "SC Freiburg",
+  "terrace": 4,
+  "city": 8,
+  "voice": 9,
+  "conscience": 8,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 3,
+  "stewardship": 10,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   48.02,
+   7.83
+  ],
+  "why": {
+   "terrace": "Nordkurve, organised but not famous",
+   "city": "the city's club and identity, green university city",
+   "voice": "e.V., member-owned, no investor",
+   "conscience": "social and sustainability focus, Streich's anti-racism stance, no betting/arms sponsors",
+   "ground": "new Europa-Park Stadion full, less intimate than old Dreisam",
+   "contender": "Europa League final 2026, DFB-Pokal final 2022",
+   "rituals": "few rituals beyond the club",
+   "stewardship": "member-run, stable, long-term coaches",
+   "women": "established Frauen-Bundesliga side",
+   "intensity": "organised, mixed pressing"
+  }
+ },
+ "127": {
+  "name": "Hamburg SV",
+  "src": "Hamburger SV",
+  "terrace": 7,
+  "city": 6,
+  "voice": 8,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 2,
+  "rituals": 7,
+  "stewardship": 8,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   53.59,
+   9.9
+  ],
+  "why": {
+   "terrace": "Nordtribüne, large and loud",
+   "city": "Shares Hamburg with St. Pauli",
+   "voice": "e.V. holds ~75%",
+   "conscience": "Plan International charity sleeve; solid",
+   "ground": "Volksparkstadion ~57k, near full even in 2. Bundesliga",
+   "contender": "Promoted 2025, survival level",
+   "rituals": "Stadium clock, 'Hamburg meine Perle' known in Germany",
+   "stewardship": "Member-controlled; boardroom instability",
+   "women": "Women's team promoted to Frauen-Bundesliga 2025",
+   "intensity": "Front-foot, not elite press"
+  }
+ },
+ "131": {
+  "name": "Bayer Leverkusen",
+  "src": "Bayer Leverkusen",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   51.04,
+   7.0
+  ],
+  "why": {
+   "terrace": "modest by Bundesliga standards",
+   "city": "Bayer works club in a company town",
+   "voice": "no member control (50+1 exemption)",
+   "conscience": "discriminatory banner fine 2024; little else",
+   "ground": "BayArena full but modest atmosphere",
+   "contender": "2024 unbeaten double",
+   "rituals": "few known rituals",
+   "stewardship": "wholly owned by Bayer AG",
+   "women": "Frauen-Bundesliga side",
+   "intensity": "Alonso's pressing gone, coach churn"
+  }
+ },
+ "132": {
+  "name": "Bayern Munich",
+  "src": "Bayern Munich",
+  "terrace": 6,
+  "city": 6,
+  "voice": 8,
+  "conscience": 7,
+  "ground": 7,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 8,
+  "women": 8,
+  "intensity": 8,
+  "ll": [
+   48.22,
+   11.62
+  ],
+  "why": {
+   "terrace": "Südkurve (Schickeria) organised and active",
+   "city": "Munich's big club, shares the city with 1860",
+   "voice": "e.V. majority; fan protests ended Qatar and Rwanda deals",
+   "conscience": "Schickeria anti-racism, Kurt Landauer heritage, fans stopped the Boateng internship",
+   "ground": "Allianz Arena sold out, less intense",
+   "contender": "perennial champion",
+   "rituals": "'Mia san Mia', 'Stern des Südens'",
+   "stewardship": "member-majority with corporate minorities",
+   "women": "Frauen-Bundesliga champions",
+   "intensity": "Kompany's high press"
+  }
+ },
+ "133": {
+  "name": "Schalke 04",
+  "src": "Schalke 04",
+  "terrace": 9,
+  "city": 10,
+  "voice": 9,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 8,
+  "stewardship": 6,
+  "women": 2,
+  "intensity": 4,
+  "ll": [
+   51.55,
+   7.07
+  ],
+  "why": {
+   "terrace": "Nordkurve, famous across Europe",
+   "city": "Gelsenkirchen mining town lives through it",
+   "voice": "e.V., member-controlled",
+   "conscience": "'Schalker gegen Rassismus', dropped Gazprom 2022",
+   "ground": "Veltins-Arena 62k sold out even in 2. Bundesliga, modern",
+   "contender": "2. Bundesliga champions 2026, newly promoted; no major honour in 15 years bar 2011 Pokal",
+   "rituals": "Steigerlied, Blau und Weiss",
+   "stewardship": "member-owned but EUR 162m debt",
+   "women": "lower-tier women's side",
+   "intensity": "mixed, pragmatic"
+  }
+ },
+ "134": {
+  "name": "VfB Stuttgart",
+  "src": "VfB Stuttgart",
+  "terrace": 7,
+  "city": 8,
+  "voice": 7,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   48.79,
+   9.23
+  ],
+  "why": {
+   "terrace": "Cannstatter Kurve, known across Germany",
+   "city": "Stuttgart's club in an industrial city",
+   "voice": "e.V. majority; fans ended Winamax shirt deal early",
+   "conscience": "made Karazor captain during rape investigation",
+   "ground": "MHPArena 60k, sold out",
+   "contender": "2nd 2024, DFB-Pokal 2025",
+   "rituals": "few known outside Germany",
+   "stewardship": "member majority, Mercedes and Porsche stakes",
+   "women": "women's side outside top tier (estimate)",
+   "intensity": "Hoeness's attacking pressing"
+  }
+ },
+ "137": {
+  "name": "Werder Bremen",
+  "src": "Werder Bremen",
+  "terrace": 7,
+  "city": 8.5,
+  "voice": 8,
+  "conscience": 8.5,
+  "ground": 7.5,
+  "contender": 3.5,
+  "rituals": 6,
+  "stewardship": 8.5,
+  "women": 5.5,
+  "intensity": 5,
+  "ll": [
+   53.07,
+   8.84
+  ],
+  "why": {
+   "terrace": "Ostkurve with anti-racist ultra groups, known across Germany",
+   "city": "the city's identity and main team in Hanseatic Bremen",
+   "voice": "e.V. holds majority under 50+1, members elect board",
+   "conscience": "defining anti-discrimination, anti-fascist record of club and fans",
+   "ground": "Weserstadion 42,100, ~41,000 average, riverside, near full",
+   "contender": "no trophy since 2009 DFB-Pokal, mid-table now",
+   "rituals": "'Lebenslang grün-weiß' and Weser traditions known in Germany",
+   "stewardship": "members' club plus local no-dividend business alliance",
+   "women": "Frauen-Bundesliga team, occasionally at the Weserstadion",
+   "intensity": "mixed, mid-table Bundesliga style"
+  }
+ },
+ "268": {
+  "name": "Borussia Mönchengladbach",
+  "src": "Borussia Mönchengladbach",
+  "terrace": 7,
+  "city": 8,
+  "voice": 8,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 2,
+  "rituals": 6,
+  "stewardship": 9,
+  "women": 2,
+  "intensity": 3,
+  "ll": [
+   51.17,
+   6.39
+  ],
+  "why": {
+   "terrace": "big, loyal Nordkurve",
+   "city": "Gladbach identity, the 'Fohlen'",
+   "voice": "member-run e.V.",
+   "conscience": "visible work (estimate)",
+   "ground": "Borussia-Park 51,100 of 54,057",
+   "contender": "bottom, coach sacked Sep 2026",
+   "rituals": "'Die Elf vom Niederrhein'",
+   "stewardship": "member-run, no investor",
+   "women": "women in the 2. Bundesliga (estimate)",
+   "intensity": "no identity, 0 points from 4"
+  }
+ },
+ "598": {
+  "name": "1. FC Union Berlin",
+  "src": "Union Berlin",
+  "terrace": 8,
+  "city": 7,
+  "voice": 10,
+  "conscience": 6,
+  "ground": 9,
+  "contender": 4,
+  "rituals": 9,
+  "stewardship": 10,
+  "women": 6,
+  "intensity": 4,
+  "ll": [
+   52.46,
+   13.57
+  ],
+  "why": {
+   "terrace": "Waldseite, famous across Germany",
+   "city": "East Berlin/Koepenick identity, shares Berlin with Hertha",
+   "voice": "e.V., fans hold stadium shares, rebuilt it themselves 2008",
+   "conscience": "strong community ethos; antisemitic incident 2021",
+   "ground": "Alte Forsterei, standing, sold out",
+   "contender": "Champions League 2023, now Bundesliga lower-mid",
+   "rituals": "Christmas carol singing, blood donation, Nina Hagen anthem",
+   "stewardship": "member-owned, fan-built",
+   "women": "Frauen-Bundesliga since 2025 with big crowds",
+   "intensity": "direct, counter-attacking"
+  }
+ },
+ "2950": {
+  "name": "Mainz",
+  "src": "Mainz 05",
+  "terrace": 6,
+  "city": 6,
+  "voice": 9,
+  "conscience": 7,
+  "ground": 7,
+  "contender": 4,
+  "rituals": 6,
+  "stewardship": 9,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   49.98,
+   8.22
+  ],
+  "why": {
+   "terrace": "Q-Block led by Ultraszene Mainz, known in Bundesliga",
+   "city": "City's club; carnival identity",
+   "voice": "Member-run e.V., 50+1",
+   "conscience": "Climate-neutral, social and fan-project work",
+   "ground": "MEWA Arena (33,305) ~95% full",
+   "contender": "No major honours; 6th 2024-25, Conference League 2025-26",
+   "rituals": "Carnival club songs and traditions known in Germany",
+   "stewardship": "Member-run, no investor",
+   "women": "Women's side in lower leagues",
+   "intensity": "Klopp/Tuchel/Henriksen pressing lineage; Fischer more compact"
+  }
+ },
+ "3307": {
+  "name": "SC Paderborn 07",
+  "src": "SC Paderborn",
+  "terrace": 2,
+  "city": 6,
+  "voice": 7,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   51.73,
+   8.71
+  ],
+  "why": {
+   "terrace": "small organised section",
+   "city": "the town's club",
+   "voice": "e.V. under 50+1",
+   "conscience": "nothing notable found",
+   "ground": "Home Deluxe Arena (15k), nearly full",
+   "contender": "promoted 2026 via play-off, relegation candidate",
+   "rituals": "none",
+   "stewardship": "member club, past reliance on late president Finke, recent money trouble",
+   "women": "no notable women's side",
+   "intensity": "Kwasniok-legacy attacking style"
+  }
+ },
+ "3841": {
+  "name": "FC Augsburg",
+  "src": "FC Augsburg",
+  "terrace": 4,
+  "city": 6,
+  "voice": 4,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 4,
+  "ll": [
+   48.32,
+   10.89
+  ],
+  "why": {
+   "terrace": "Steady crowds, little distinct atmosphere",
+   "city": "City's only top club",
+   "voice": "50+1 applies, but investor-held pro arm",
+   "conscience": "Nothing notable either way",
+   "ground": "WWK Arena (2009) ~30k, near full",
+   "contender": "Mid-table survival club",
+   "rituals": "None known beyond the club",
+   "stewardship": "Blitzer's Bolt (multi-club) ~45%",
+   "women": "Women's team in lower tiers",
+   "intensity": "Pragmatic, compact football"
+  }
+ },
+ "7911": {
+  "name": "TSG Hoffenheim",
+  "src": "TSG Hoffenheim",
+  "terrace": 2,
+  "city": 2,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 3,
+  "women": 6,
+  "intensity": 7,
+  "ll": [
+   49.24,
+   8.89
+  ],
+  "why": {
+   "terrace": "small organised section",
+   "city": "village club playing in Sinsheim",
+   "voice": "50+1 restored 2024 but 2025-26 Hopp/Wittmann power struggle drew fan protests",
+   "conscience": "Hopp-funded social projects",
+   "ground": "PreZero Arena 27k of 30k",
+   "contender": "5th in 2025-26, Europa League",
+   "rituals": "none",
+   "stewardship": "patron-built, governance turmoil",
+   "women": "strong Frauen-Bundesliga side",
+   "intensity": "Ilzer's intense pressing"
+  }
+ },
+ "10388": {
+  "name": "SV Elversberg",
+  "src": "SV Elversberg",
+  "terrace": 1,
+  "city": 4,
+  "voice": 5,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   49.32,
+   7.13
+  ],
+  "why": {
+   "terrace": "no notable organised section",
+   "city": "village club in Spiesen-Elversberg",
+   "voice": "member club under 50+1, but patron-driven",
+   "conscience": "nothing found either way (estimate)",
+   "ground": "~10k basic ground, lowest Bundesliga crowds",
+   "contender": "promoted 2026 (runners-up), first Bundesliga season",
+   "rituals": "none",
+   "stewardship": "rise funded by the local Holzer family's Ursapharm",
+   "women": "none of note",
+   "intensity": "attacking possession-and-pressing (Steffen, Wagner)"
+  }
+ },
+ "11420": {
+  "name": "RB Leipzig",
+  "src": "RB Leipzig",
+  "terrace": 2,
+  "city": 4,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 5,
+  "intensity": 8,
+  "ll": [
+   51.35,
+   12.35
+  ],
+  "why": {
+   "terrace": "Little ultra culture",
+   "city": "Marketing vehicle",
+   "voice": "Closed membership",
+   "conscience": "Nothing notable",
+   "ground": "Red Bull Arena (47,800) fills",
+   "contender": "DFB-Pokal 2022, 2023",
+   "rituals": "None",
+   "stewardship": "Red Bull GmbH 99%, multi-club",
+   "women": "Women's team in Frauen-Bundesliga",
+   "intensity": "Red Bull pressing"
+  }
+ },
+ "83": {
+  "name": "Barcelona",
+  "src": "Barcelona",
+  "terrace": 4,
+  "city": 8,
+  "voice": 9,
+  "conscience": 6,
+  "ground": 5,
+  "contender": 10,
+  "rituals": 8,
+  "stewardship": 5,
+  "women": 10,
+  "intensity": 8,
+  "ll": [
+   41.38,
+   2.12
+  ],
+  "why": {
+   "terrace": "Grada d'Animació, but Camp Nou crowds touristy",
+   "city": "Catalan identity, 'Més que un club'",
+   "voice": "member-owned, socis elect president",
+   "conscience": "Catalan, UNICEF history, La Masia; Nazi-salute fines",
+   "ground": "Camp Nou partly reopened, often quiet",
+   "contender": "perennial champion",
+   "rituals": "Cant del Barça, Cruyff legacy world-famous",
+   "stewardship": "member-owned but sold future TV rights, heavy debt, Super League to 2026",
+   "women": "Femení among the world's best",
+   "intensity": "Flick's high line and aggressive press"
+  }
+ },
+ "86": {
+  "name": "Real Madrid",
+  "src": "Real Madrid",
+  "terrace": 3,
+  "city": 6,
+  "voice": 6,
+  "conscience": 3,
+  "ground": 6,
+  "contender": 10,
+  "rituals": 7,
+  "stewardship": 6,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   40.45,
+   -3.69
+  ],
+  "why": {
+   "terrace": "Grada Fans animation stand; Bernabeu not known as a singing ground; Ultras Sur banned 2013",
+   "city": "global brand sharing Madrid with Atletico",
+   "voice": "member-owned (socios), but Perez unopposed since 2013, restrictive election rules",
+   "conscience": "three UEFA discrimination sanctions 2025-26 incl. Nazi salutes; foundation work",
+   "ground": "renovated Bernabeu, central and full, big rather than steep",
+   "contender": "36 league titles, 17 European Cups",
+   "rituals": "Hala Madrid, the remontada lore",
+   "stewardship": "members own it, but Super League push and plan to sell part of a subsidiary",
+   "women": "Liga F side since 2020, not part of the identity",
+   "intensity": "star-driven, mixed pressing"
+  }
+ },
+ "102": {
+  "name": "Villarreal",
+  "src": "Villarreal",
+  "terrace": 3,
+  "city": 8,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 6.5,
+  "contender": 7,
+  "rituals": 5,
+  "stewardship": 8,
+  "women": 4.5,
+  "intensity": 6,
+  "ll": [
+   39.94,
+   -0.1
+  ],
+  "why": {
+   "terrace": "loyal but small, no famous singing end",
+   "city": "town of ~50,000 lives through the club",
+   "voice": "owner-president model, no fan governance",
+   "conscience": "no notable inclusion work or record found",
+   "ground": "Cerámica 23,000, compact and near full, not intense",
+   "contender": "2021 Europa League, UCL semis 2006/2022, regular top-five",
+   "rituals": "'Yellow Submarine' identity known across Spain",
+   "stewardship": "Fernando Roig, local industrialist, owner since 1997, long-term",
+   "women": "women's team in Liga F, modest",
+   "intensity": "attacking, possession-and-tempo sides under Marcelino and successors"
+  }
+ },
+ "104": {
+  "name": "AS Roma",
+  "src": "Roma",
+  "terrace": 9,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 8,
+  "stewardship": 3,
+  "women": 7,
+  "intensity": 7,
+  "ll": [
+   41.93,
+   12.45
+  ],
+  "why": {
+   "terrace": "Curva Sud, famous worldwide",
+   "city": "shares Rome with Lazio, the bigger popular club",
+   "voice": "no fan governance",
+   "conscience": "missing-children transfer-video campaign; ultra violence (2023, 2025 derby, 2014 Esposito death)",
+   "ground": "Olimpico, big athletics bowl, ~62k",
+   "contender": "Conference League 2022, Europa final 2023, no league title since 2001",
+   "rituals": "Venditti's 'Roma Roma Roma', 'Grazie Roma'",
+   "stewardship": "Friedkin (US) also owns Everton",
+   "women": "women Serie A champions 2023 and 2024",
+   "intensity": "Gasperini man-marking pressing 2025-"
+  }
+ },
+ "110": {
+  "name": "Internazionale",
+  "src": "Inter Milan",
+  "terrace": 7,
+  "city": 5,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 7,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 1,
+  "women": 5,
+  "intensity": 7,
+  "ll": [
+   45.48,
+   9.12
+  ],
+  "why": {
+   "terrace": "Curva Nord choreographies and constant noise",
+   "city": "Shares Milan with AC Milan",
+   "voice": "No fan power",
+   "conscience": "Curva Nord leaders convicted (mafia links); betting sponsor",
+   "ground": "San Siro ~75k, the biggest crowds in Italy",
+   "contender": "Title contender, two UCL finals in 3 years",
+   "rituals": "'Pazza Inter' known in Italy",
+   "stewardship": "Oaktree Capital (credit fund) owns ~99.6%",
+   "women": "Women's side in Serie A",
+   "intensity": "Chivu's aggressive, front-foot side"
+  }
+ },
+ "114": {
+  "name": "Napoli",
+  "src": "Napoli",
+  "terrace": 9,
+  "city": 10,
+  "voice": 1,
+  "conscience": 5,
+  "ground": 8,
+  "contender": 9,
+  "rituals": 8,
+  "stewardship": 4,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   40.83,
+   14.19
+  ],
+  "why": {
+   "terrace": "Curva A/B among Italy's loudest",
+   "city": "Napoli is Naples' identity, a working city",
+   "voice": "No fan power, owner combative",
+   "conscience": "Neapolitan pride against territorial discrimination; fan violence",
+   "ground": "Stadio Maradona (54,732), loud, ageing bowl",
+   "contender": "Scudetti 2023 and 2025",
+   "rituals": "Maradona mythology and chants known worldwide",
+   "stewardship": "De Laurentiis, local, prudent, also owns Bari",
+   "women": "Women's team in Serie A, low profile",
+   "intensity": "pragmatic"
+  }
+ },
+ "142": {
+  "name": "Feyenoord Rotterdam",
+  "src": "Feyenoord",
+  "terrace": 8,
+  "city": 8,
+  "voice": 6,
+  "conscience": 2,
+  "ground": 9,
+  "contender": 8,
+  "rituals": 7,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 7,
+  "ll": [
+   51.89,
+   4.52
+  ],
+  "why": {
+   "terrace": "Het Legioen, huge travelling support",
+   "city": "Rotterdam's working-class people's club",
+   "voice": "Supporter-investor groups (VAK) in foundation governance",
+   "conscience": "Racism fine (Barcelona 2026), antisemitic chanting prosecuted",
+   "ground": "De Kuip (1937) the Netherlands' most intense stadium",
+   "contender": "2023 champions, regular top-two",
+   "rituals": "'Hand in Hand' anthem known in Europe",
+   "stewardship": "No single owner, foundation-governed",
+   "women": "Women's team in Eredivisie",
+   "intensity": "Slot-era pressing legacy; coach churn since"
+  }
+ },
+ "148": {
+  "name": "PSV Eindhoven",
+  "src": "PSV Eindhoven",
+  "terrace": 5,
+  "city": 8,
+  "voice": 5,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 5,
+  "stewardship": 7,
+  "women": 5,
+  "intensity": 8,
+  "ll": [
+   51.44,
+   5.47
+  ],
+  "why": {
+   "terrace": "Organised home ends, not among the most intense Dutch crowds",
+   "city": "Eindhoven's club, Philips city",
+   "voice": "Foundation and members' club, no private owner",
+   "conscience": "Nothing notable",
+   "ground": "Philips Stadion (35,000) ~33,000, city-centre",
+   "contender": "Three straight titles 2024-26",
+   "rituals": "Known in Netherlands",
+   "stewardship": "Foundation-owned, regional sponsors",
+   "women": "Women's team in Eredivisie",
+   "intensity": "Bosz high press"
+  }
+ },
+ "160": {
+  "name": "Paris Saint-Germain",
+  "src": "Paris Saint-Germain",
+  "terrace": 8,
+  "city": 7,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 9,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 0,
+  "women": 7,
+  "intensity": 9,
+  "ll": [
+   48.84,
+   2.25
+  ],
+  "why": {
+   "terrace": "Collectif Ultras Paris at Auteuil",
+   "city": "Paris's main club, big-city",
+   "voice": "No fan power",
+   "conscience": "Homophobic chant sanctions, Hakimi case",
+   "ground": "Parc des Princes (47,929) full",
+   "contender": "2025 and 2026 UCL",
+   "rituals": "Known in Europe",
+   "stewardship": "Qatar state",
+   "women": "PSG women top tier",
+   "intensity": "Luis Enrique high-intensity press"
+  }
+ },
+ "166": {
+  "name": "Lille",
+  "src": "Lille",
+  "terrace": 5,
+  "city": 6,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   50.61,
+   3.13
+  ],
+  "why": {
+   "terrace": "Dogues Virage Est ultras",
+   "city": "City's club",
+   "voice": "No fan power",
+   "conscience": "Nothing notable",
+   "ground": "Pierre-Mauroy suburban arena",
+   "contender": "2021 champions, regular Europe",
+   "rituals": "None known",
+   "stewardship": "Merlyn Partners investment fund",
+   "women": "Women's side lower",
+   "intensity": "Organised possession"
+  }
+ },
+ "175": {
+  "name": "Lens",
+  "src": "Lens",
+  "terrace": 8,
+  "city": 10,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 9,
+  "contender": 7,
+  "rituals": 9,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 8,
+  "ll": [
+   50.43,
+   2.82
+  ],
+  "why": {
+   "terrace": "Bollaert famed for atmosphere and loyalty",
+   "city": "Town of 30,000 lives through the club",
+   "voice": "No fan power",
+   "conscience": "Mining-basin community identity",
+   "ground": "Bollaert (38k in a 30k town) full",
+   "contender": "2nd in Ligue 1, Coupe de France 2026",
+   "rituals": "'Les Corons' known across France",
+   "stewardship": "Oughourlian multi-club holder",
+   "women": "Women's team rising (estimate)",
+   "intensity": "Intense, organised sides"
+  }
+ },
+ "244": {
+  "name": "Real Betis",
+  "src": "Real Betis",
+  "terrace": 6,
+  "city": 7,
+  "voice": 4,
+  "conscience": 5,
+  "ground": 3,
+  "contender": 6,
+  "rituals": 7,
+  "stewardship": 5,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   37.42,
+   -6.0
+  ],
+  "why": {
+   "terrace": "Gol Sur / Supporters Gol Sur, loud and known in Spain",
+   "city": "huge popular club in Seville, shares city with Sevilla",
+   "voice": "SAD with dispersed small shareholders and active shareholder associations",
+   "conscience": "Forever Green platform, but EUR 242k 2025 fines for intolerant chants and ultra brawls",
+   "ground": "temporary La Cartuja athletics stadium 2025-28 while Villamarin is rebuilt",
+   "contender": "Copa 2022, Conference League final 2025, regular Europe",
+   "rituals": "'Viva er Betis manque pierda' and the anthem known across Spain",
+   "stewardship": "local SAD led by Angel Haro, no major owner issues",
+   "women": "Liga F team",
+   "intensity": "Pellegrini possession-attacking football"
+  }
+ },
+ "432": {
+  "name": "Galatasaray",
+  "src": "Galatasaray",
+  "terrace": 9,
+  "city": 6,
+  "voice": 6,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 10,
+  "rituals": 8,
+  "stewardship": 6,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   41.1,
+   28.99
+  ],
+  "why": {
+   "terrace": "ultrAslan; Guinness crowd-noise record",
+   "city": "One of Istanbul's big three",
+   "voice": "Members elect the president",
+   "conscience": "Nationalist displays, betting shirt sponsor, violence",
+   "ground": "RAMS Park (2011) set a noise record",
+   "contender": "Turkey's most successful club, recent titles",
+   "rituals": "'Welcome to Hell' known worldwide",
+   "stewardship": "Member club, debt-heavy spending",
+   "women": "Women's league champions 2024",
+   "intensity": "Star-driven; no pressing identity"
+  }
+ },
+ "436": {
+  "name": "Fenerbahce",
+  "src": "Fenerbahçe",
+  "terrace": 8,
+  "city": 6,
+  "voice": 6,
+  "conscience": 2,
+  "ground": 9,
+  "contender": 8,
+  "rituals": 7,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 5,
+  "ll": [
+   40.99,
+   29.04
+  ],
+  "why": {
+   "terrace": "Genç Fenerbahçeliler lead one of Europe's loudest supports",
+   "city": "One of Istanbul's big three; Kadıköy identity",
+   "voice": "Members elect the president",
+   "conscience": "Nationalist displays, Greenwood signing, betting-probe captain",
+   "ground": "Şükrü Saracoğlu (Kadıköy, since 1908) famously loud",
+   "contender": "Title contender every year",
+   "rituals": "Chants and tifo known across Europe",
+   "stewardship": "Member club but UEFA fines, transfer ban, churn",
+   "women": "Women's team in Turkish top flight",
+   "intensity": "Star-signing side, no pressing identity"
+  }
+ },
+ "437": {
+  "name": "FC Porto",
+  "src": "Porto",
+  "terrace": 8,
+  "city": 9,
+  "voice": 7,
+  "conscience": 3,
+  "ground": 8,
+  "contender": 9,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 8,
+  "ll": [
+   41.16,
+   -8.58
+  ],
+  "why": {
+   "terrace": "Super Dragões",
+   "city": "Northern identity against Lisbon",
+   "voice": "Members ousted Pinto da Costa 2024",
+   "conscience": "Ultras assault at 2023 assembly",
+   "ground": "Dragão (50,033)",
+   "contender": "European Cup 1987, UCL 2004",
+   "rituals": "Known in Europe",
+   "stewardship": "Member-controlled SAD",
+   "women": "First women's team 2024",
+   "intensity": "Farioli high-intensity press"
+  }
+ },
+ "493": {
+  "name": "Shakhtar Donetsk",
+  "src": "Shakhtar Donetsk",
+  "terrace": 2,
+  "city": 2,
+  "voice": 0,
+  "conscience": 5,
+  "ground": 2,
+  "contender": 9,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   49.78,
+   24.03
+  ],
+  "why": {
+   "terrace": "organised support lost to exile since 2014",
+   "city": "exiled from Donetsk since 2014",
+   "voice": "none",
+   "conscience": "'Heart of Azovstal' USD 25m pledge for Mariupol defenders",
+   "ground": "exile grounds (Lviv, abroad)",
+   "contender": "perennial Ukrainian champion/contender",
+   "rituals": "few",
+   "stewardship": "oligarch Akhmetov since 1996",
+   "women": "women's side, not central",
+   "intensity": "Turan attacking style"
+  }
+ },
+ "494": {
+  "name": "Slavia Prague",
+  "src": "Slavia Prague",
+  "terrace": 6,
+  "city": 5,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 7,
+  "intensity": 8,
+  "ll": [
+   50.07,
+   14.47
+  ],
+  "why": {
+   "terrace": "Tribuna Sever ultras, known in Czechia",
+   "city": "shares Prague with Sparta",
+   "voice": "none",
+   "conscience": "Kudela racist abuse of Kamara 2021, UEFA racism sanction 2025",
+   "ground": "Eden Arena, compact and loud",
+   "contender": "Czech champions recently, perennial contender",
+   "rituals": "red-white halves, little known outside",
+   "stewardship": "local billionaire Tykac since 2023",
+   "women": "dominant Czech women's side",
+   "intensity": "Trpisovsky high-intensity pressing"
+  }
+ },
+ "510": {
+  "name": "Viking FK",
+  "src": "Viking",
+  "terrace": 5,
+  "city": 8,
+  "voice": 8,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 9,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   58.92,
+   5.73
+  ],
+  "why": {
+   "terrace": "Vikinghordene and Bla Brigade 99",
+   "city": "Stavanger's club",
+   "voice": "member-run association",
+   "conscience": "community club, estimate",
+   "ground": "Viking Stadion 15.9k, sold out 2026",
+   "contender": "Norwegian champions 2025",
+   "rituals": "few known beyond Norway",
+   "stewardship": "member-run, local sponsors",
+   "women": "women's section, lower profile",
+   "intensity": "attacking, stable joint coaches"
+  }
+ },
+ "521": {
+  "name": "Slovan Bratislava",
+  "src": "Slovan Bratislava",
+  "terrace": 4,
+  "city": 5,
+  "voice": 0,
+  "conscience": 0,
+  "ground": 4,
+  "contender": 9,
+  "rituals": 2,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   48.16,
+   17.14
+  ],
+  "why": {
+   "terrace": "organised ultras, known locally",
+   "city": "capital's main club",
+   "voice": "none",
+   "conscience": "repeated UEFA racism sanctions, far-right ultra scene",
+   "ground": "Tehelne pole national stadium, rarely full",
+   "contender": "dominant Slovak champion",
+   "rituals": "few",
+   "stewardship": "local businessman Kmotrik",
+   "women": "women's side, minor",
+   "intensity": "mixed"
+  }
+ },
+ "570": {
+  "name": "Club Brugge",
+  "src": "Club Brugge",
+  "terrace": 6,
+  "city": 7,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 9,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 4,
+  "intensity": 7,
+  "ll": [
+   51.19,
+   3.18
+  ],
+  "why": {
+   "terrace": "Blue Army",
+   "city": "Bruges, shares with Cercle",
+   "voice": "none",
+   "conscience": "antisemitic chants, Nazi salutes",
+   "ground": "shared athletics bowl",
+   "contender": "perennial champion",
+   "rituals": "number 12 retired for fans",
+   "stewardship": "Verhaeghe",
+   "women": "Belgian Super League",
+   "intensity": "energetic, attacking"
+  }
+ },
+ "887": {
+  "name": "AEK Athens",
+  "src": "AEK Athens",
+  "terrace": 8,
+  "city": 6,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 8,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   38.04,
+   23.73
+  ],
+  "why": {
+   "terrace": "Original 21 at Gate 21, among Greece's most intense ultras",
+   "city": "refugee (Constantinople) roots and Nea Filadelfeia identity, but Athens is split with Panathinaikos and Olympiacos",
+   "voice": "no fan ownership",
+   "conscience": "Original 21's anti-fascist identity and refugee roots; OPAP betting sponsor, UEFA crowd sanctions",
+   "ground": "new OPAP Arena (32,500, 2022) on the historic site, very loud",
+   "contender": "Greek champions 2023 and 2026",
+   "rituals": "Gate 21 tifo and the double-headed eagle, known in Greece",
+   "stewardship": "Greek shipping owner Iliopoulos rebuilt the club after 2013 and funded the stadium",
+   "women": "women in the Greek top tier, modest profile",
+   "intensity": "energetic champion side, no pressing identity"
+  }
+ },
+ "1068": {
+  "name": "Atlético Madrid",
+  "src": "Atlético Madrid",
+  "terrace": 6,
+  "city": 6,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 1,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   40.44,
+   -3.6
+  ],
+  "why": {
+   "terrace": "Frente Atlético drives the noise but has far-right roots",
+   "city": "Madrid's working-class counterweight to Real",
+   "voice": "no fan voice; contested 1990s SAD conversion",
+   "conscience": "racism fines and Vinícius effigy convictions",
+   "ground": "Metropolitano 70,800, loud but newish and out of centre",
+   "contender": "2021 La Liga, perennial top three",
+   "rituals": "Simeone's 'Cholismo' known worldwide",
+   "stewardship": "Apollo private equity majority since 2026; Riyadh Air (Saudi state) sponsor",
+   "women": "Liga F side",
+   "intensity": "Simeone intensity, but often defensive"
+  }
+ },
+ "2250": {
+  "name": "Sporting CP",
+  "src": "Sporting CP",
+  "terrace": 6,
+  "city": 6,
+  "voice": 7,
+  "conscience": 3,
+  "ground": 6,
+  "contender": 10,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 8,
+  "ll": [
+   38.76,
+   -9.16
+  ],
+  "why": {
+   "terrace": "Juventude Leonina and Directivo, known in Portugal",
+   "city": "shares Lisbon with Benfica",
+   "voice": "members own 88% of the SAD and elect the president",
+   "conscience": "2018 Alcochete ultra attack, pyro bans",
+   "ground": "Alvalade 50k, increasingly full",
+   "contender": "Portuguese champions 2024 and 2025",
+   "rituals": "lion and green traditions",
+   "stewardship": "member-controlled",
+   "women": "top Portuguese women's side",
+   "intensity": "Amorim-style attacking football"
+  }
+ },
+ "2572": {
+  "name": "Como",
+  "src": "Como",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 2,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 8,
+  "ll": [
+   45.81,
+   9.07
+  ],
+  "why": {
+   "terrace": "Small reorganised ultras; crowds now include tourists more than a big terrace",
+   "city": "Well-loved local club in a small lakeside city, but low crowds",
+   "voice": "Hartono-owned since 2019, no fan voice; fan-backed refoundings after 2004/2017 bankruptcies",
+   "conscience": "Nothing notable either way found",
+   "ground": "Sinigaglia (1927, 13.6k) is a historic lakeside ground with character but small crowds",
+   "contender": "4th in Serie A 2025-26, first UCL qualification; no major honours",
+   "rituals": "No rituals known beyond the club",
+   "stewardship": "Billionaire Hartono brothers fund an imported squad; stable but asset-style spending",
+   "women": "Women's side in Serie A (Como Women), low profile",
+   "intensity": "Fabregas's possession-dominant, high-pressing young side"
+  }
+ },
+ "2980": {
+  "name": "Bodo/Glimt",
+  "src": "Bodø/Glimt",
+  "terrace": 6,
+  "city": 9,
+  "voice": 8,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 8,
+  "rituals": 6,
+  "stewardship": 10,
+  "women": 2,
+  "intensity": 9,
+  "ll": [
+   67.28,
+   14.39
+  ],
+  "why": {
+   "terrace": "Den Gule Horde with yellow rattles, known across Europe since UCL runs",
+   "city": "Bodø lives for Glimt; northern Norwegian identity",
+   "voice": "member association",
+   "conscience": "community club; Gaza Red Cross donation",
+   "ground": "Aspmyra (~8,270) sold out, hard away trip",
+   "contender": "four Norwegian titles 2020-24, 2025 EL semi",
+   "rituals": "giant yellow rattles",
+   "stewardship": "member association, no private owner",
+   "women": "women's side relegated from Toppserien",
+   "intensity": "Knutsen's relentless press"
+  }
+ },
+ "4411": {
+  "name": "LASK Linz",
+  "src": "LASK",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   48.29,
+   14.28
+  ],
+  "why": {
+   "terrace": "Organised support, solid crowds",
+   "city": "Linz's main club, shares with Blau-Weiss",
+   "voice": "No fan power",
+   "conscience": "Signed Boateng despite fans' and women's team protests",
+   "ground": "Raiffeisen Arena (2023) new, ~13k",
+   "contender": "2025-26 Austrian double",
+   "rituals": "None known",
+   "stewardship": "Local entrepreneurs consortium",
+   "women": "Women's team top division",
+   "intensity": "Austrian pressing school"
+  }
+ },
+ "21922": {
+  "name": "Sabah FK",
+  "src": "Sabah",
+  "terrace": 0,
+  "city": 1,
+  "voice": 0,
+  "conscience": 1,
+  "ground": 2,
+  "contender": 8,
+  "rituals": 0,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   40.49,
+   49.75
+  ],
+  "why": {
+   "terrace": "no organised support found",
+   "city": "founded 2017 in suburban Baku, little local bond",
+   "voice": "none",
+   "conscience": "nothing found (estimate)",
+   "ground": "8,969 Bank Respublika Arena, attendance unknown",
+   "contender": "Azerbaijan champions 2025-26, cups 2025 and 2026, first UCL league phase",
+   "rituals": "none",
+   "stewardship": "businessman Huseynov's Bridge Group; AZN 5m presidential grant 2026 in an authoritarian state",
+   "women": "no women's team found",
+   "intensity": "unknown, estimate"
+  }
+ },
+ "182": {
+  "name": "Chicago Fire FC",
+  "src": "Chicago Fire FC",
+  "terrace": 6,
+  "city": 3,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 2,
+  "contender": 2,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   41.86,
+   -87.62
+  ],
+  "why": {
+   "terrace": "Section 8 Chicago",
+   "city": "big-city afterthought",
+   "voice": "fan backlash reversed rebrand",
+   "conscience": "Section 8 anti-discrimination; Foundation",
+   "ground": "Soldier Field, modest crowds",
+   "contender": "playoffs 2025",
+   "rituals": "few",
+   "stewardship": "Mansueto building stadium",
+   "women": "none",
+   "intensity": "average"
+  }
+ },
+ "183": {
+  "name": "Columbus Crew",
+  "src": "Columbus Crew",
+  "terrace": 5,
+  "city": 6,
+  "voice": 5,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   39.97,
+   -83.02
+  ],
+  "why": {
+   "terrace": "Nordecke is an organised, loud MLS supporters' end, not famous abroad",
+   "city": "Crew is Columbus's pro soccer identity but shares a college-football city (Ohio State)",
+   "voice": "#SaveTheCrew fan campaign (2017-18) kept the club in Columbus; no formal fan power now",
+   "conscience": "Community work but no defining inclusion identity (estimate)",
+   "ground": "Downtown Lower.com Field (2021, ~20k), well filled, club attendance records 2023",
+   "contender": "MLS Cups 2020 and 2023, 2024 Leagues Cup, 2024 CCC final",
+   "rituals": "Nordecke traditions known in MLS, little beyond",
+   "stewardship": "Local Haslam/Edwards owners bought it to keep it in Columbus and built a stadium",
+   "women": "No women's team; NWSL side planned for 2028",
+   "intensity": "Nancy's possession side ended 2025; mixed tempo since with coach churn"
+  }
+ },
+ "184": {
+  "name": "Colorado Rapids",
+  "src": "Colorado Rapids",
+  "terrace": 3,
+  "city": 2,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 3,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   39.81,
+   -104.89
+  ],
+  "why": {
+   "terrace": "Centennial 38",
+   "city": "suburban",
+   "voice": "none",
+   "conscience": "nothing notable (estimate)",
+   "ground": "suburban soccer park",
+   "contender": "2010 MLS Cup",
+   "rituals": "few",
+   "stewardship": "KSE minor holding",
+   "women": "none",
+   "intensity": "new coach"
+  }
+ },
+ "185": {
+  "name": "FC Dallas",
+  "src": "FC Dallas",
+  "terrace": 2,
+  "city": 3,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 4,
+  "rituals": 2,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   33.15,
+   -96.84
+  ],
+  "why": {
+   "terrace": "Modest atmosphere historically",
+   "city": "Suburban Frisco club in a big multi-sport metro",
+   "voice": "No fan power",
+   "conscience": "Girls' academy; nothing defining",
+   "ground": "Toyota Stadium under renovation, 11k temporary capacity",
+   "contender": "2nd West in Sept 2026; last trophy 2016",
+   "rituals": "None known",
+   "stewardship": "Hunt family, long-term owners investing in academy and stadium",
+   "women": "No women's team (Dallas Trinity separate)",
+   "intensity": "Style not verified (estimate)"
+  }
+ },
+ "186": {
+  "name": "Sporting Kansas City",
+  "src": "Sporting Kansas City",
+  "terrace": 6,
+  "city": 5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   39.12,
+   -94.82
+  ],
+  "why": {
+   "terrace": "The Cauldron, known across MLS",
+   "city": "KC's soccer team behind Chiefs/Royals",
+   "voice": "none",
+   "conscience": "nothing defining",
+   "ground": "Children's Mercy Park, long sellout streak",
+   "contender": "MLS Cup 2013, poor recent seasons",
+   "rituals": "Cauldron traditions known in MLS",
+   "stewardship": "local Mallouk 80% since 2026",
+   "women": "none (KC Current separate)",
+   "intensity": "mixed"
+  }
+ },
+ "187": {
+  "name": "LA Galaxy",
+  "src": "LA Galaxy",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 7,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   33.86,
+   -118.26
+  ],
+  "why": {
+   "terrace": "Galaxians, Angel City Brigade; safe standing",
+   "city": "Big city, suburban Carson",
+   "voice": "No fan power",
+   "conscience": "Club banned fans during ICE protests",
+   "ground": "Dignity Health (Carson) ordinary",
+   "contender": "2024 MLS Cup, collapse 2025",
+   "rituals": "None known",
+   "stewardship": "AEG, ordinary",
+   "women": "No women's team (Angel City separate)",
+   "intensity": "Vanney's possession side"
+  }
+ },
+ "189": {
+  "name": "New England Revolution",
+  "src": "New England Revolution",
+  "terrace": 3,
+  "city": 2,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 1,
+  "contender": 4,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   42.09,
+   -71.26
+  ],
+  "why": {
+   "terrace": "Midnight Riders and The Rebellion",
+   "city": "NFL stadium far from Boston",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "Gillette Stadium (65k) a third full",
+   "contender": "Five lost MLS Cup finals; 2021 Shield",
+   "rituals": "None",
+   "stewardship": "Kraft Group, criticised as neglectful",
+   "women": "No women's team",
+   "intensity": "Moderate intensity"
+  }
+ },
+ "190": {
+  "name": "Red Bull New York",
+  "src": "Red Bull New York",
+  "terrace": 4,
+  "city": 2,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 5,
+  "rituals": 2,
+  "stewardship": 0,
+  "women": 0,
+  "intensity": 9,
+  "ll": [
+   40.74,
+   -74.15
+  ],
+  "why": {
+   "terrace": "South Ward groups (Empire Supporters Club, Viking Army); Garden State Ultras banned 2021",
+   "city": "Harrison NJ, a third club in a huge market named after a drink",
+   "voice": "no fan voice, 2023 supporter walkout",
+   "conscience": "standard MLS community work",
+   "ground": "Red Bull Arena is a fine soccer ground, often not full",
+   "contender": "3 Supporters' Shields, 2024 MLS Cup final",
+   "rituals": "few rituals",
+   "stewardship": "Red Bull GmbH multi-club secondary club",
+   "women": "no women's team (Gotham FC independent)",
+   "intensity": "Red Bull gegenpressing identity"
+  }
+ },
+ "191": {
+  "name": "San Jose Earthquakes",
+  "src": "San Jose Earthquakes",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   37.35,
+   -121.93
+  ],
+  "why": {
+   "terrace": "1906 Ultras and San Jose Ultras, known in MLS",
+   "city": "Bay Area club behind bigger sports",
+   "voice": "none",
+   "conscience": "nothing defining",
+   "ground": "PayPal Park (18k), soccer-specific",
+   "contender": "2 MLS Cups long ago, recent mostly non-contending",
+   "rituals": "'Goonies' tradition known in MLS",
+   "stewardship": "Fisher (A's relocation) owner, club for sale since 2025",
+   "women": "no women's team (Bay FC separate)",
+   "intensity": "mixed"
+  }
+ },
+ "193": {
+  "name": "D.C. United",
+  "src": "D.C. United",
+  "terrace": 6,
+  "city": 4,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 5,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   38.87,
+   -77.01
+  ],
+  "why": {
+   "terrace": "La Barra Brava (1995) and Screaming Eagles, among MLS's oldest supporter groups",
+   "city": "Washington's MLS club, small in a big multi-sport city",
+   "voice": "No fan power found",
+   "conscience": "Nothing notable either way",
+   "ground": "Audi Field (2018, 20k) with safe standing in the north end",
+   "contender": "Long run of poor results; four MLS Cups long ago",
+   "rituals": "Bouncing-stand tradition from RFK, known in MLS",
+   "stewardship": "Levien/Kaplan ordinary private owners",
+   "women": "No women's team (Washington Spirit separate)",
+   "intensity": "Coach churn, no identity"
+  }
+ },
+ "4771": {
+  "name": "Real Salt Lake",
+  "src": "Real Salt Lake",
+  "terrace": 4,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 5,
+  "ll": [
+   40.58,
+   -111.89
+  ],
+  "why": {
+   "terrace": "La Barra Real / Section 26, known locally",
+   "city": "Utah's MLS team, competes with Jazz and college sport",
+   "voice": "no supporter governance",
+   "conscience": "ex-owner Hansen sold after 2020 racist-language allegations; nothing defining since",
+   "ground": "soccer-specific America First Field in suburban Sandy, usually well filled",
+   "contender": "2009 MLS Cup, mostly playoff-level",
+   "rituals": "few rituals known outside MLS",
+   "stewardship": "local Miller family control since 2025",
+   "women": "sister club Utah Royals (NWSL) is a separate brand",
+   "intensity": "mixed style"
+  }
+ },
+ "6077": {
+  "name": "Houston Dynamo FC",
+  "src": "Houston Dynamo FC",
+  "terrace": 3,
+  "city": 3,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   29.75,
+   -95.35
+  ],
+  "why": {
+   "terrace": "El Batallón and Texian Army; no strong atmosphere reports",
+   "city": "Big multi-sport city",
+   "voice": "No fan power",
+   "conscience": "Nothing notable either way",
+   "ground": "Downtown stadium, fluctuating crowds",
+   "contender": "2023 Open Cup",
+   "rituals": "None known",
+   "stewardship": "Ted Segal, ordinary private owner",
+   "women": "Shares owner with Houston Dash (NWSL)",
+   "intensity": "Average intensity"
+  }
+ },
+ "7318": {
+  "name": "Toronto FC",
+  "src": "Toronto FC",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 5,
+  "ground": 4,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   43.63,
+   -79.42
+  ],
+  "why": {
+   "terrace": "Red Patch Boys, known in MLS; Inebriati stripped 2018",
+   "city": "big-city afterthought behind Leafs/Raptors",
+   "voice": "none",
+   "conscience": "MLSE Foundation work",
+   "ground": "BMO Field, often not full lately",
+   "contender": "2017 treble, poor since",
+   "rituals": "few",
+   "stewardship": "Rogers telecom corporate owner",
+   "women": "no women's team",
+   "intensity": "cautious, mixed"
+  }
+ },
+ "9720": {
+  "name": "CF Montréal",
+  "src": "CF Montréal",
+  "terrace": 3,
+  "city": 4,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 3,
+  "ll": [
+   45.56,
+   -73.55
+  ],
+  "why": {
+   "terrace": "fragmented, ultras banned",
+   "city": "hockey city",
+   "voice": "rebrand imposed; badge partly restored",
+   "conscience": "antisemitic abuse 2026",
+   "ground": "Saputo Stadium",
+   "contender": "29th of 30",
+   "rituals": "North Star bell",
+   "stewardship": "Saputo local, also Bologna",
+   "women": "none",
+   "intensity": "no identity"
+  }
+ },
+ "9723": {
+  "name": "Portland Timbers",
+  "src": "Portland Timbers",
+  "terrace": 10,
+  "city": 10,
+  "voice": 6,
+  "conscience": 9,
+  "ground": 10,
+  "contender": 6,
+  "rituals": 9,
+  "stewardship": 4,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   45.52,
+   -122.69
+  ],
+  "why": {
+   "terrace": "Timbers Army, famous beyond MLS",
+   "city": "Portland's soul ('Soccer City USA')",
+   "voice": "Timbers Army forced Iron Front reversal and executive firings",
+   "conscience": "107IST charity, anti-fascism",
+   "ground": "Providence Park downtown, historic",
+   "contender": "2015 MLS Cup, finals 2018, 2021",
+   "rituals": "Log and chainsaw",
+   "stewardship": "Merritt Paulson, criticised over Thorns scandal",
+   "women": "Thorns (separate owner since 2024) share stadium and supporters",
+   "intensity": "Moderate intensity"
+  }
+ },
+ "9726": {
+  "name": "Seattle Sounders FC",
+  "src": "Seattle Sounders FC",
+  "terrace": 7,
+  "city": 6,
+  "voice": 6,
+  "conscience": 7,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   47.6,
+   -122.33
+  ],
+  "why": {
+   "terrace": "Emerald City Supporters, March to the Match, famous in MLS",
+   "city": "loved, shares a sports-mad city with NFL/MLB",
+   "voice": "Alliance Council of season-ticket holders votes on GM",
+   "conscience": "ECS anti-fascist stance, players' activism",
+   "ground": "NFL Lumen Field, upper deck closed, loud",
+   "contender": "MLS Cup 2016/2019, CCL 2022, Leagues Cup 2025",
+   "rituals": "March to the Match, scarf rituals",
+   "stewardship": "local Hanauer-led owners; tribal casino sleeve sponsor",
+   "women": "owns NWSL Seattle Reign, separate brand",
+   "intensity": "mixed"
+  }
+ },
+ "9727": {
+  "name": "Vancouver Whitecaps",
+  "src": "Vancouver Whitecaps FC",
+  "terrace": 5,
+  "city": 5,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   49.28,
+   -123.11
+  ],
+  "why": {
+   "terrace": "Southsiders, known in MLS",
+   "city": "Canucks city",
+   "voice": "2019 walkout, no power",
+   "conscience": "criticised handling of women's coach misconduct",
+   "ground": "shared BC Place dome",
+   "contender": "2025 MLS Cup final, Canadian Championships",
+   "rituals": "1974 NASL heritage",
+   "stewardship": "owners selling, 2026 bid to move to Las Vegas",
+   "women": "Vancouver Rise link unverified",
+   "intensity": "Sorensen's pressing"
+  }
+ },
+ "10739": {
+  "name": "Philadelphia Union",
+  "src": "Philadelphia Union",
+  "terrace": 7,
+  "city": 4,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 8,
+  "ll": [
+   39.83,
+   -75.38
+  ],
+  "why": {
+   "terrace": "Sons of Ben (2007) pre-dated club",
+   "city": "Shares big sports city",
+   "voice": "Sons of Ben founded club, consulted",
+   "conscience": "Anti-discrimination code; Tanner suspension",
+   "ground": "Subaru Park (18,500) riverside",
+   "contender": "2020 and 2025 Shields",
+   "rituals": "Known in MLS",
+   "stewardship": "Jay Sugarman, local",
+   "women": "No women's team",
+   "intensity": "High press identity"
+  }
+ },
+ "12011": {
+  "name": "Orlando City SC",
+  "src": "Orlando City",
+  "terrace": 6,
+  "city": 6,
+  "voice": 1,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 8,
+  "intensity": 5,
+  "ll": [
+   28.54,
+   -81.39
+  ],
+  "why": {
+   "terrace": "The Wall in safe standing",
+   "city": "Shares Orlando; strong local base",
+   "voice": "None",
+   "conscience": "Pulse remembrance and Pride work",
+   "ground": "Inter&Co Stadium (25.5k)",
+   "contender": "2022 Open Cup",
+   "rituals": "Known in MLS",
+   "stewardship": "Wilf family, stable",
+   "women": "Orlando Pride 2024 NWSL champions, same owner",
+   "intensity": "Mixed, high churn"
+  }
+ },
+ "17362": {
+  "name": "Minnesota United FC",
+  "src": "Minnesota United FC",
+  "terrace": 6,
+  "city": 5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 4,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   44.95,
+   -93.17
+  ],
+  "why": {
+   "terrace": "Wonderwall and Thunderwall drumline, known in MLS",
+   "city": "Shares Twin Cities with big US sports",
+   "voice": "Supporters consulted but no power",
+   "conscience": "Nothing documented",
+   "ground": "Allianz Field (19,400) well filled, purpose-built",
+   "contender": "Club-record 58 pts; no trophy",
+   "rituals": "Wonderwall sung after wins",
+   "stewardship": "Local McGuire/Pohlad/Taylor group, private stadium",
+   "women": "No women's team",
+   "intensity": "Hard-running counter-attacking under Ramsay"
+  }
+ },
+ "17606": {
+  "name": "New York City FC",
+  "src": "New York City Football Club",
+  "terrace": 4,
+  "city": 3,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 5,
+  "rituals": 3,
+  "stewardship": 0,
+  "women": 0,
+  "intensity": 7,
+  "ll": [
+   40.83,
+   -73.93
+  ],
+  "why": {
+   "terrace": "The Third Rail",
+   "city": "Shares NYC with Red Bulls; little local bond",
+   "voice": "None",
+   "conscience": "MLS-confirmed slur incident 2024, no action",
+   "ground": "Baseball stadium (Yankee Stadium)",
+   "contender": "2021 MLS Cup",
+   "rituals": "None",
+   "stewardship": "City Football Group (Abu Dhabi state)",
+   "women": "No women's team",
+   "intensity": "CFG positional play with press"
+  }
+ },
+ "18267": {
+  "name": "FC Cincinnati",
+  "src": "FC Cincinnati",
+  "terrace": 6,
+  "city": 6,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 7,
+  "contender": 7,
+  "rituals": 5,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   39.11,
+   -84.52
+  ],
+  "why": {
+   "terrace": "The Bailey and its march through Over-the-Rhine, known in MLS",
+   "city": "Big local following since USL days",
+   "voice": "No fan power",
+   "conscience": "Nothing notable either way",
+   "ground": "TQL Stadium (2021, 26k) full, steep supporters' end",
+   "contender": "2023 Supporters' Shield; regular contender",
+   "rituals": "Pre-match march known in MLS",
+   "stewardship": "Local Lindner family majority",
+   "women": "No women's team",
+   "intensity": "Attacking, moderately intense under Noonan"
+  }
+ },
+ "18418": {
+  "name": "Atlanta United FC",
+  "src": "Atlanta United",
+  "terrace": 6,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 3,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   33.76,
+   -84.4
+  ],
+  "why": {
+   "terrace": "Terminus Legion, Footie Mob; well known in MLS",
+   "city": "loved in a big pro-sports city",
+   "voice": "no fan governance found",
+   "conscience": "nothing notable found (estimate)",
+   "ground": "NFL dome, 44k but falling",
+   "contender": "MLS Cup 2018, weak recent seasons",
+   "rituals": "Golden Spike ritual, known in MLS",
+   "stewardship": "local owner Arthur Blank, invested",
+   "women": "no women's team",
+   "intensity": "star-driven, no pressing identity"
+  }
+ },
+ "18966": {
+  "name": "LAFC",
+  "src": "Los Angeles Football Club",
+  "terrace": 7,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 8,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   34.01,
+   -118.28
+  ],
+  "why": {
+   "terrace": "The 3252 in a safe-standing end, among MLS's loudest",
+   "city": "Big-city club sharing LA with the Galaxy",
+   "voice": "Supporters' groups consulted but no formal power",
+   "conscience": "Community work, nothing defining",
+   "ground": "BMO Stadium (22,000) sold out since 2018, steep north end",
+   "contender": "2022 MLS Cup, 2019/2022 Shields, 2024 Open Cup",
+   "rituals": "Tifo and smoke culture known across MLS",
+   "stewardship": "Large local investor group, conventional",
+   "women": "No women's team (minority stake in Angel City)",
+   "intensity": "Cherundolo-era intensity; coach vacant since Sept 2026"
+  }
+ },
+ "18986": {
+  "name": "Nashville SC",
+  "src": "Nashville SC",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   36.13,
+   -86.77
+  ],
+  "why": {
+   "terrace": "The Roadies (2014), solid",
+   "city": "Shares city with NFL/NHL",
+   "voice": "None formal",
+   "conscience": "Nothing notable",
+   "ground": "Geodis Park (30,000) averages 26,400",
+   "contender": "2025 Open Cup, Shield race 2026",
+   "rituals": "Little known beyond MLS",
+   "stewardship": "Local John Ingram",
+   "women": "No women's team",
+   "intensity": "Hard-working collective"
+  }
+ },
+ "20232": {
+  "name": "Inter Miami CF",
+  "src": "Inter Miami CF",
+  "terrace": 3,
+  "city": 3,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 10,
+  "rituals": 2,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   25.79,
+   -80.26
+  ],
+  "why": {
+   "terrace": "Four groups, but support largely Messi-driven",
+   "city": "Big city, newer franchise",
+   "voice": "No fan power",
+   "conscience": "Suárez spitting ban, Bright racial slur ban",
+   "ground": "New Nu Stadium (2026) sold out",
+   "contender": "2025 MLS Cup, 2024 Shield",
+   "rituals": "None known",
+   "stewardship": "Mas brothers/Beckham, Ares stake, cap fines",
+   "women": "No women's team",
+   "intensity": "Quality high, intensity low"
+  }
+ },
+ "20906": {
+  "name": "Austin FC",
+  "src": "Austin FC",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   30.39,
+   -97.72
+  ],
+  "why": {
+   "terrace": "Los Verdes, Austin Anthem, La Murga band",
+   "city": "Austin's only major-league team, every match sold out",
+   "voice": "no fan governance found",
+   "conscience": "4ATX foundation community work (estimate)",
+   "ground": "Q2 Stadium 20,738, sold out since 2021",
+   "contender": "2022 West final; mid-table since",
+   "rituals": "La Murga drums known in MLS",
+   "stewardship": "Precourt tried to move the Columbus Crew",
+   "women": "no women's team",
+   "intensity": "coach churn, no settled style"
+  }
+ },
+ "21300": {
+  "name": "Charlotte FC",
+  "src": "Charlotte FC",
+  "terrace": 4,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   35.23,
+   -80.85
+  ],
+  "why": {
+   "terrace": "Royal Family",
+   "city": "big NFL city",
+   "voice": "none",
+   "conscience": "nothing notable (estimate)",
+   "ground": "NFL stadium, 30,700",
+   "contender": "best season 2025",
+   "rituals": "Pepas",
+   "stewardship": "Tepper",
+   "women": "none",
+   "intensity": "average"
+  }
+ },
+ "21812": {
+  "name": "St. Louis CITY SC",
+  "src": "St. Louis CITY SC",
+  "terrace": 6,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 8,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   38.63,
+   -90.21
+  ],
+  "why": {
+   "terrace": "St. Louligans and standing section with tifo rigging",
+   "city": "St. Louis soccer city, behind the Cardinals",
+   "voice": "club restricted supporter banners 2026",
+   "conscience": "BLM and trans-rights banners restricted 2026 despite protests; female-majority ownership",
+   "ground": "downtown Energizer Park, steep and full",
+   "contender": "1st West 2023, declined since",
+   "rituals": "tifo culture known in MLS",
+   "stewardship": "local Taylor family and Kindle, privately built stadium",
+   "women": "none (MLS-only)",
+   "intensity": "2023 high press gone"
+  }
+ },
+ "22529": {
+  "name": "San Diego FC",
+  "src": "San Diego FC",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 7,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 0,
+  "intensity": 7,
+  "ll": [
+   32.78,
+   -117.12
+  ],
+  "why": {
+   "terrace": "Frontera SD groups with 3,000 safe-standing seats",
+   "city": "new club the city embraced, no NFL rival",
+   "voice": "none",
+   "conscience": "'Aqui No' campaign after homophobic chant; Right to Dream academy",
+   "ground": "Snapdragon college stadium (35k), 28k crowds",
+   "contender": "1st in the West 2025, conference final",
+   "rituals": "none yet",
+   "stewardship": "Mansour with Sycuan, secondary in Right to Dream multi-club network",
+   "women": "no women's team (Wave separate)",
+   "intensity": "Varas's attacking possession"
+  }
+ },
+ "15360": {
+  "name": "Chicago Stars FC",
+  "src": "Chicago Stars",
+  "terrace": 4,
+  "city": 2.5,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 2,
+  "contender": 2.5,
+  "rituals": 3,
+  "stewardship": 5.5,
+  "women": 5.5,
+  "intensity": 4,
+  "ll": [
+   42.06,
+   -87.67
+  ],
+  "why": {
+   "terrace": "Chicago Local 134, long-running but small",
+   "city": "lowest NWSL crowds (4,517) in a big city",
+   "voice": "no fan power",
+   "conscience": "LGBTQ+-advocate owner Ricketts, but Dames abuse history",
+   "ground": "temporary college venue, thin crowds",
+   "contender": "finalists 2019, 2021; bottom half since",
+   "rituals": "none known beyond the club",
+   "stewardship": "Ricketts group since 2023, investing, no stadium",
+   "women": "founding NWSL club, poorly supported now",
+   "intensity": "mixed, coach churn"
+  }
+ },
+ "15362": {
+  "name": "Portland Thorns FC",
+  "src": "Portland Thorns",
+  "terrace": 9,
+  "city": 9,
+  "voice": 6,
+  "conscience": 8,
+  "ground": 9.5,
+  "contender": 7.5,
+  "rituals": 8,
+  "stewardship": 6,
+  "women": 10,
+  "intensity": 6.5,
+  "ll": [
+   45.52,
+   -122.69
+  ],
+  "why": {
+   "terrace": "Rose City Riveters, famous for tifo beyond the league",
+   "city": "Portland lives through Thorns and Timbers",
+   "voice": "Riveters' campaigns helped force Paulson's sale (2022)",
+   "conscience": "Riveters known for inclusion and activism; Yates-report failures",
+   "ground": "Providence Park, league-leading 19,087 average",
+   "contender": "NWSL champions 2013, 2017, 2022, Shields 2016, 2021",
+   "rituals": "Riveters tifo, rose traditions known across US soccer",
+   "stewardship": "Bhathal family (RAJ Sports) since 2024, stable",
+   "women": "the women's game's reference club (Thorns)",
+   "intensity": "mixed, attacking talent (Wilson, Moultrie)"
+  }
+ },
+ "15363": {
+  "name": "Seattle Reign FC",
+  "src": "Seattle Reign",
+  "terrace": 5,
+  "city": 4,
+  "voice": 2,
+  "conscience": 7,
+  "ground": 4,
+  "contender": 6,
+  "rituals": 4.5,
+  "stewardship": 3,
+  "women": 7,
+  "intensity": 5,
+  "ll": [
+   47.6,
+   -122.33
+  ],
+  "why": {
+   "terrace": "Royal Guard since 2013, known in the NWSL",
+   "city": "Seattle's women's team behind Sounders",
+   "voice": "no fan power",
+   "conscience": "Rapinoe-era activism, Pride; Benstiti abuse 2021",
+   "ground": "NFL stadium capped ~10,000, ~7,300",
+   "contender": "Shields 2014, 2015, 2022, finals; mid now",
+   "rituals": "Cascadia traditions, modest",
+   "stewardship": "Sounders owners plus Carlyle Group private equity",
+   "women": "founding NWSL club, top tier",
+   "intensity": "mixed under Harvey"
+  }
+ },
+ "15364": {
+  "name": "Gotham FC",
+  "src": "Gotham FC",
+  "terrace": 4.5,
+  "city": 3.5,
+  "voice": 2,
+  "conscience": 6.5,
+  "ground": 5,
+  "contender": 9,
+  "rituals": 3.5,
+  "stewardship": 6,
+  "women": 8.5,
+  "intensity": 6,
+  "ll": [
+   40.74,
+   -74.15
+  ],
+  "why": {
+   "terrace": "Cloud 9 supporters, modest",
+   "city": "New Jersey/NY club among many teams",
+   "voice": "no fan power",
+   "conscience": "Pride and community work visible in NY market",
+   "ground": "shared stadium in Harrison, ~10,700",
+   "contender": "NWSL champions 2023 and 2025, CONCACAF W 2025",
+   "rituals": "none known beyond the club",
+   "stewardship": "Murphys, Lloyd, Manning group; turned club round",
+   "women": "women's club, top tier",
+   "intensity": "balanced, possession under Amoros"
+  }
+ },
+ "15365": {
+  "name": "Washington Spirit",
+  "src": "Washington Spirit",
+  "terrace": 6,
+  "city": 6,
+  "voice": 5,
+  "conscience": 6.5,
+  "ground": 7.5,
+  "contender": 9,
+  "rituals": 5,
+  "stewardship": 5,
+  "women": 9,
+  "intensity": 8,
+  "ll": [
+   38.87,
+   -77.01
+  ],
+  "why": {
+   "terrace": "Spirit Squadron and Rose Room Collective, known in the NWSL",
+   "city": "DC's women's team, large following",
+   "voice": "fans and players forced owner Baldwin out (2021)",
+   "conscience": "visible community work; 2021 Burke abuse scandal",
+   "ground": "Audi Field, ~15,800 (3rd)",
+   "contender": "2021 champions, finalists 2024-25, 2025 Challenge Cup",
+   "rituals": "known in the NWSL",
+   "stewardship": "Kang multi-club (Kynisca) flagship, heavy investment",
+   "women": "defining women's club",
+   "intensity": "front-foot, attacking (Rodman)"
+  }
+ },
+ "15366": {
+  "name": "North Carolina Courage",
+  "src": "North Carolina Courage",
+  "terrace": 4.5,
+  "city": 4.5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5.5,
+  "contender": 6,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 7,
+  "intensity": 6,
+  "ll": [
+   35.79,
+   -78.75
+  ],
+  "why": {
+   "terrace": "Uprising supporters, small",
+   "city": "Cary suburb, shares market with MLS hopes",
+   "voice": "no fan power",
+   "conscience": "Riley abuse fallout, 2023 NWSL fine",
+   "ground": "WakeMed 10,000, ~8,000",
+   "contender": "2018-19 champions, Challenge Cups 2022-23",
+   "rituals": "none known beyond the club",
+   "stewardship": "Steve Malik (local), stalled downtown stadium",
+   "women": "women's club, top tier",
+   "intensity": "pressing-era identity, now mixed"
+  }
+ },
+ "17346": {
+  "name": "Houston Dash",
+  "src": "Houston Dash",
+  "terrace": 3,
+  "city": 3,
+  "voice": 2,
+  "conscience": 4.5,
+  "ground": 3.5,
+  "contender": 3,
+  "rituals": 2.5,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 4,
+  "ll": [
+   29.75,
+   -95.35
+  ],
+  "why": {
+   "terrace": "small supporters' section",
+   "city": "Houston's women's team behind Dynamo and big US sports",
+   "voice": "no fan power",
+   "conscience": "coach Clarkson terminated 2022 (misconduct)",
+   "ground": "shared 20,656 stadium, ~6,700 crowds",
+   "contender": "2020 Challenge Cup only",
+   "rituals": "none known beyond the club",
+   "stewardship": "Ted Segal with Dynamo, conventional",
+   "women": "women's club, modest support",
+   "intensity": "mixed, estimate"
+  }
+ },
+ "18206": {
+  "name": "Orlando Pride",
+  "src": "Orlando Pride",
+  "terrace": 4,
+  "city": 4,
+  "voice": 2,
+  "conscience": 5.5,
+  "ground": 4.5,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 7,
+  "intensity": 6,
+  "ll": [
+   28.54,
+   -81.39
+  ],
+  "why": {
+   "terrace": "Ruckus/shared supporters, modest",
+   "city": "Orlando shares with Orlando City and US sports",
+   "voice": "no fan power",
+   "conscience": "Pride name and Pulse remembrance; Cromwell fired 2022",
+   "ground": "25,500 shared stadium, ~8,000",
+   "contender": "2024 Shield and Championship double",
+   "rituals": "none known beyond the club",
+   "stewardship": "Wilf family (Vikings) with Orlando City",
+   "women": "women's club, top tier",
+   "intensity": "attacking with Marta, mixed since"
+  }
+ },
+ "19141": {
+  "name": "Utah Royals",
+  "src": "Utah Royals",
+  "terrace": 3.5,
+  "city": 4,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 2.5,
+  "rituals": 2.5,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 4,
+  "ll": [
+   40.58,
+   -111.89
+  ],
+  "why": {
+   "terrace": "small supporters' groups",
+   "city": "Salt Lake City club shared with RSL",
+   "voice": "no fan power",
+   "conscience": "original club folded after owner Hansen's conduct",
+   "ground": "20,213 shared, ~8,900",
+   "contender": "revived 2024, bottom-half",
+   "rituals": "none known beyond the club",
+   "stewardship": "Miller family (local) since 2025",
+   "women": "women's club, modest support",
+   "intensity": "cautious, estimate"
+  }
+ },
+ "20905": {
+  "name": "Racing Louisville FC",
+  "src": "Racing Louisville",
+  "terrace": 3.5,
+  "city": 4,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 3.5,
+  "contender": 2.5,
+  "rituals": 2.5,
+  "stewardship": 3.5,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   38.26,
+   -85.73
+  ],
+  "why": {
+   "terrace": "Lavender Legion, small",
+   "city": "shares city with Louisville City",
+   "voice": "no fan power",
+   "conscience": "Holly abuse in Yates report",
+   "ground": "15,304 shared, ~5,500 crowds",
+   "contender": "no honours, bottom of 2026 table mid-season",
+   "rituals": "none known beyond the club",
+   "stewardship": "Soccer Holdings exploring sale/relocation to Cincinnati",
+   "women": "women's club, falling support",
+   "intensity": "mixed, estimate"
+  }
+ },
+ "20907": {
+  "name": "Kansas City Current",
+  "src": "Kansas City Current",
+  "terrace": 6,
+  "city": 7.5,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 9,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 8,
+  "women": 9,
+  "intensity": 9,
+  "ll": [
+   39.11,
+   -94.59
+  ],
+  "why": {
+   "terrace": "Blue Crew, Surface Tension, The Undertow, sold out",
+   "city": "the city embraced it, sell-outs every match",
+   "voice": "club consults supporters, no fan power",
+   "conscience": "community work; 2022 Williams complaint failure",
+   "ground": "CPKC Stadium 11,500, built for women, sold out",
+   "contender": "record 2025 Shield, perennial contender",
+   "rituals": "known in the NWSL for stadium-day traditions",
+   "stewardship": "local Longs/Mahomes, privately funded stadium and training centre",
+   "women": "defining women's club of the new era",
+   "intensity": "high-press, high-scoring, defining"
+  }
+ },
+ "21422": {
+  "name": "Angel City FC",
+  "src": "Angel City FC",
+  "terrace": 6,
+  "city": 5,
+  "voice": 3,
+  "conscience": 8,
+  "ground": 7.5,
+  "contender": 4,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 8.5,
+  "intensity": 4,
+  "ll": [
+   34.01,
+   -118.29
+  ],
+  "why": {
+   "terrace": "organised supporters' section among the NWSL's loudest",
+   "city": "loved in LA but one of many teams in a huge city",
+   "voice": "community-founder model, no fan power",
+   "conscience": "founded on equity, 10% sponsorship value to local causes",
+   "ground": "BMO Stadium 22,000, ~15,000-16,000 crowds",
+   "contender": "no trophies, coach churn",
+   "rituals": "pre-match traditions known in the NWSL",
+   "stewardship": "Iger/Bay since 2024, invested; salary-cap fine 2024",
+   "women": "a women's club from birth, big following",
+   "intensity": "no settled identity, mixed"
+  }
+ },
+ "21423": {
+  "name": "San Diego Wave FC",
+  "src": "San Diego Wave",
+  "terrace": 5,
+  "city": 5,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 5.5,
+  "contender": 5.5,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 7.5,
+  "intensity": 5,
+  "ll": [
+   32.78,
+   -117.12
+  ],
+  "why": {
+   "terrace": "Sirens supporters, known in the NWSL",
+   "city": "big early following, now fading",
+   "voice": "no fan power",
+   "conscience": "workplace abuse allegations 2024",
+   "ground": "Snapdragon 35,000 college bowl, ~12,000",
+   "contender": "2023 Shield, 2024 Challenge Cup",
+   "rituals": "none known beyond the club",
+   "stewardship": "Leichtman/Levine (PE founders) since 2024",
+   "women": "women's club, well-supported",
+   "intensity": "mixed under Eidevall"
+  }
+ },
+ "22187": {
+  "name": "Bay FC",
+  "src": "Bay FC",
+  "terrace": 4,
+  "city": 4.5,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 2.5,
+  "women": 7.5,
+  "intensity": 5,
+  "ll": [
+   37.35,
+   -121.93
+  ],
+  "why": {
+   "terrace": "supporters' section still forming",
+   "city": "Bay Area club sharing PayPal Park",
+   "voice": "no fan power",
+   "conscience": "founded by four ex-USWNT players around equity",
+   "ground": "PayPal Park 18,000, ~12,000-15,000",
+   "contender": "young club, playoffs 2024, no honours",
+   "rituals": "none known yet",
+   "stewardship": "Sixth Street investment firm majority, also owns Sunderland Women stake",
+   "women": "women's club, well-supported",
+   "intensity": "counter-attacking, mixed"
+  }
+ },
+ "131562": {
+  "name": "Boston Legacy FC",
+  "src": "Boston Legacy",
+  "terrace": 3,
+  "city": 3.5,
+  "voice": 2,
+  "conscience": 4.5,
+  "ground": 1.5,
+  "contender": 1.5,
+  "rituals": 2,
+  "stewardship": 6,
+  "women": 6.5,
+  "intensity": 4,
+  "ll": [
+   42.09,
+   -71.26
+  ],
+  "why": {
+   "terrace": "new, supporters still organising",
+   "city": "first season; no home in Boston until 2028",
+   "voice": "none; 'BOS Nation' branding withdrawn after backlash",
+   "conscience": "women-led ownership, contested public-park stadium rebuild",
+   "ground": "temporary venues incl. NFL stadium",
+   "contender": "inaugural 2026 season, no success",
+   "rituals": "none yet",
+   "stewardship": "local women-led group, long-term stadium investment",
+   "women": "women's club, ~10,600 average in year one",
+   "intensity": "new side, estimate mixed"
+  }
+ },
+ "131563": {
+  "name": "Denver Summit FC",
+  "src": "Denver Summit",
+  "terrace": 3.5,
+  "city": 5,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 2.5,
+  "contender": 3.5,
+  "rituals": 2,
+  "stewardship": 6,
+  "women": 7.5,
+  "intensity": 5,
+  "ll": [
+   39.57,
+   -104.85
+  ],
+  "why": {
+   "terrace": "new supporters' groups, evidence limited",
+   "city": "strong early buy-in (63,004 opener)",
+   "voice": "no fan power",
+   "conscience": "no record yet (estimate)",
+   "ground": "temporary 12,000 Centennial venue",
+   "contender": "inaugural 2026, Lindsey Heaps signing",
+   "rituals": "none yet",
+   "stewardship": "local Cohen group, record $110m fee, stadium planned",
+   "women": "women's club with big early following",
+   "intensity": "Cushing (ex-Man City) front-foot approach (estimate)"
+  }
+ },
+ "9729": {
+  "name": "Charleston Battery",
+  "src": "Charleston Battery",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 6,
+  "rituals": 2,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 7,
+  "ll": [
+   32.79,
+   -79.9
+  ],
+  "why": {
+   "terrace": "The Regiment",
+   "city": "modest",
+   "voice": "none",
+   "conscience": "nothing notable (estimate)",
+   "ground": "smaller complex",
+   "contender": "2023 final, 2nd East",
+   "rituals": "oldest US pro club",
+   "stewardship": "local owner",
+   "women": "none",
+   "intensity": "attacking, pressing"
+  }
+ },
+ "17360": {
+  "name": "Indy Eleven",
+  "src": "Indy Eleven",
+  "terrace": 5,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   39.78,
+   -86.17
+  ],
+  "why": {
+   "terrace": "Brickyard Battalion (2,000+ members)",
+   "city": "Indianapolis's soccer club",
+   "voice": "No fan power",
+   "conscience": "Nothing notable",
+   "ground": "Carroll Stadium, ~8.5k",
+   "contender": "Mid-table",
+   "rituals": "None known",
+   "stewardship": "Ozdemir; stadium plans stalled",
+   "women": "Women's team won USL W League 2023",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "17361": {
+  "name": "Tampa Bay Rowdies",
+  "src": "Tampa Bay Rowdies",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   27.77,
+   -82.63
+  ],
+  "why": {
+   "terrace": "Ralph's Mob",
+   "city": "St. Petersburg club in a pro-sports market",
+   "voice": "none",
+   "conscience": "nothing notable",
+   "ground": "waterfront Al Lang baseball stadium, ~5k",
+   "contender": "1st East 2026",
+   "rituals": "NASL Rowdies heritage",
+   "stewardship": "Zalupski group since 2025",
+   "women": "none",
+   "intensity": "front-foot, estimate"
+  }
+ },
+ "17827": {
+  "name": "Pittsburgh Riverhounds",
+  "src": "Pittsburgh Riverhounds",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 7,
+  "ll": [
+   40.44,
+   -80.01
+  ],
+  "why": {
+   "terrace": "Steel Army (2007)",
+   "city": "Small Pittsburgh bond",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "F.N.B. Stadium sold out",
+   "contender": "2025 USL title",
+   "rituals": "Known in USL",
+   "stewardship": "Tuffy Shallenberger, local",
+   "women": "None",
+   "intensity": "Lilley hard-working, organised"
+  }
+ },
+ "17828": {
+  "name": "Sacramento Republic FC",
+  "src": "Sacramento Republic FC",
+  "terrace": 6,
+  "city": 7,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 8,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   38.57,
+   -121.43
+  ],
+  "why": {
+   "terrace": "Tower Bridge Battalion (since 2013, a couple thousand behind the goal with capos and drums), known across USL, not beyond",
+   "city": "the city's soccer club, beloved but behind the Kings",
+   "voice": "TBB lobbied city council for the stadium and the MLS bid; no ownership stake or documented formal club consultation",
+   "conscience": "tribal-nation ownership, community work",
+   "ground": "Heart Health Park (11.6k), league-best 10k crowds, modular venue",
+   "contender": "2014 USL Pro title, 2022 US Open Cup final, regular playoffs",
+   "rituals": "TBB chants, drums and tifo known in USL, not beyond",
+   "stewardship": "Wilton Rancheria majority, privately financed Railyards stadium 2028",
+   "women": "no women's team found",
+   "intensity": "Collins side with many draws, mixed"
+  }
+ },
+ "17830": {
+  "name": "Colorado Springs Switchbacks FC",
+  "src": "Colorado Springs Switchbacks FC",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   38.83,
+   -104.83
+  ],
+  "why": {
+   "terrace": "Trailheads",
+   "city": "downtown",
+   "voice": "none",
+   "conscience": "nothing notable (estimate)",
+   "ground": "downtown, 77% full",
+   "contender": "2024 title",
+   "rituals": "none",
+   "stewardship": "local owner built stadium",
+   "women": "none",
+   "intensity": "average"
+  }
+ },
+ "17832": {
+  "name": "Louisville City FC",
+  "src": "Louisville City FC",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 7,
+  "intensity": 7,
+  "ll": [
+   38.26,
+   -85.73
+  ],
+  "why": {
+   "terrace": "The Coopers (2013) predate the club, strongest in USL",
+   "city": "Louisville's main club, strong local pride",
+   "voice": "Supporters' group influential but no formal power",
+   "conscience": "Community work; Racing Louisville abuse-coach case in 2021",
+   "ground": "Lynn Family Stadium (15,304) averages 9,528",
+   "contender": "USL titles 2017, 2018; Players' Shields 2024, 2025",
+   "rituals": "Coopers traditions known in USL",
+   "stewardship": "Local owner Soccer Holdings built the stadium",
+   "women": "Sister NWSL club Racing Louisville shares owner and stadium",
+   "intensity": "Front-foot, intense side under Danny Cruz"
+  }
+ },
+ "17850": {
+  "name": "Phoenix Rising FC",
+  "src": "Phoenix Rising FC",
+  "terrace": 3,
+  "city": 3,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 2,
+  "contender": 4,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   33.45,
+   -111.99
+  ],
+  "why": {
+   "terrace": "Los Bandidos",
+   "city": "Weak bond",
+   "voice": "None",
+   "conscience": "2020 homophobic slur case",
+   "ground": "Small stadium, 5,023",
+   "contender": "2023 USL title",
+   "rituals": "None",
+   "stewardship": "Pablo Prichard",
+   "women": "None",
+   "intensity": "Estimate"
+  }
+ },
+ "18159": {
+  "name": "Miami FC",
+  "src": "Miami FC",
+  "terrace": 1,
+  "city": 0,
+  "voice": 0,
+  "conscience": 1,
+  "ground": 0,
+  "contender": 1,
+  "rituals": 0,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 3,
+  "ll": [
+   25.75,
+   -80.38
+  ],
+  "why": {
+   "terrace": "Dade Brigade, tiny",
+   "city": "No local bond, lowest crowds in USL",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "FIU stadium (20,000) averages 924",
+   "contender": "Bottom of USL 2024",
+   "rituals": "None",
+   "stewardship": "Riccardo Silva, private",
+   "women": "None",
+   "intensity": "Weak, high-churn side"
+  }
+ },
+ "18265": {
+  "name": "San Antonio FC",
+  "src": "San Antonio FC",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 6,
+  "rituals": 2,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   29.59,
+   -98.39
+  ],
+  "why": {
+   "terrace": "Crocketteers and Mission City Firm",
+   "city": "Spurs city, the club a secondary attraction",
+   "voice": "none",
+   "conscience": "nothing found either way",
+   "ground": "Toyota Field (8.3k), ~6.1k",
+   "contender": "2022 USL Championship champions, regular contender",
+   "rituals": "none",
+   "stewardship": "Spurs Sports & Entertainment, stable",
+   "women": "none",
+   "intensity": "mixed"
+  }
+ },
+ "18446": {
+  "name": "FC Tulsa",
+  "src": "FC Tulsa",
+  "terrace": 2,
+  "city": 3,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   36.16,
+   -95.99
+  ],
+  "why": {
+   "terrace": "83UNITED official supporters; small",
+   "city": "Young franchise in a baseball park",
+   "voice": "No fan power",
+   "conscience": "Nothing notable found",
+   "ground": "ONEOK Field (baseball), ~4k",
+   "contender": "2025 Western Conference champions",
+   "rituals": "None known",
+   "stewardship": "Local Craft family",
+   "women": "No women's team",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "18455": {
+  "name": "Orange County SC",
+  "src": "Orange County SC",
+  "terrace": 2,
+  "city": 2,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 3,
+  "contender": 3,
+  "rituals": 1,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   33.67,
+   -117.73
+  ],
+  "why": {
+   "terrace": "County Line Coalition",
+   "city": "Weak local bond",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "Championship Soccer Stadium (5,000) averages 4,143",
+   "contender": "2021 USL title",
+   "rituals": "None",
+   "stewardship": "James Keston, stable",
+   "women": "None",
+   "intensity": "Estimate"
+  }
+ },
+ "18987": {
+  "name": "Las Vegas Lights FC",
+  "src": "Las Vegas Lights FC",
+  "terrace": 1,
+  "city": 2,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 1,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   36.18,
+   -115.14
+  ],
+  "why": {
+   "terrace": "BLVD Locals; small",
+   "city": "Little local bond",
+   "voice": "No fan power",
+   "conscience": "Nothing notable",
+   "ground": "Cashman Field, ~2.8k",
+   "contender": "Bottom-half",
+   "rituals": "Gimmick promotions",
+   "stewardship": "Bautista group; no home ground for 2027",
+   "women": "No women's team",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "19179": {
+  "name": "Detroit City FC",
+  "src": "Detroit City FC",
+  "terrace": 7,
+  "city": 6,
+  "voice": 6,
+  "conscience": 9,
+  "ground": 7,
+  "contender": 5,
+  "rituals": 5,
+  "stewardship": 8,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   42.4,
+   -83.06
+  ],
+  "why": {
+   "terrace": "smoke, chanting, tifo, famous in US lower leagues",
+   "city": "Deeply local (Hamtramck), but Detroit's main teams are the big leagues",
+   "voice": "Fans bought investment units ($1m+ in 2020); supporter-driven culture",
+   "conscience": "Openly anti-racist, anti-fascist; first US pro-LGBTQ+ match kit (2014)",
+   "ground": "Keyworth Stadium (1936, ~8k) packed and atmospheric",
+   "contender": "3rd East in USL Championship 2026",
+   "rituals": "Smoke and chants known in US soccer",
+   "stewardship": "Founded and still controlled by five local residents",
+   "women": "Women's team in the amateur/pre-pro tier since 2020",
+   "intensity": "Front-foot by repute; style not verified (estimate)"
+  }
+ },
+ "19405": {
+  "name": "Birmingham Legion FC",
+  "src": "Birmingham Legion FC",
+  "terrace": 2,
+  "city": 2,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 1,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 3,
+  "ll": [
+   33.52,
+   -86.81
+  ],
+  "why": {
+   "terrace": "Magic City Brigade, small",
+   "city": "low local bond",
+   "voice": "no fan governance",
+   "conscience": "nothing notable (estimate)",
+   "ground": "3,503 in a 47,100 college bowl",
+   "contender": "poor results",
+   "rituals": "no rituals",
+   "stewardship": "local business group",
+   "women": "no women's team",
+   "intensity": "no identity, coach churn"
+  }
+ },
+ "19407": {
+  "name": "El Paso Locomotive FC",
+  "src": "El Paso Locomotive FC",
+  "terrace": 2,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 5,
+  "rituals": 2,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   31.76,
+   -106.49
+  ],
+  "why": {
+   "terrace": "Supporters exist but no noted section",
+   "city": "Well liked locally but a young franchise",
+   "voice": "No fan power",
+   "conscience": "Nothing notable found",
+   "ground": "Shared baseball ground, ~5k of 7.5k",
+   "contender": "1st in USL West 2026",
+   "rituals": "None known",
+   "stewardship": "Local MountainStar group",
+   "women": "No women's team",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "19408": {
+  "name": "New Mexico United",
+  "src": "New Mexico United",
+  "terrace": 6,
+  "city": 8,
+  "voice": 1,
+  "conscience": 6,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   35.07,
+   -106.63
+  ],
+  "why": {
+   "terrace": "The Curse and four other groups, known in USL",
+   "city": "Statewide identity",
+   "voice": "None",
+   "conscience": "Somos Unidos Foundation, community work",
+   "ground": "Isotopes Park (baseball) averages 9,032",
+   "contender": "Consistent West contender, no title",
+   "rituals": "Known in USL",
+   "stewardship": "Local owner Peter Trevisani",
+   "women": "None",
+   "intensity": "Estimate"
+  }
+ },
+ "19410": {
+  "name": "Loudoun United FC",
+  "src": "Loudoun United FC",
+  "terrace": 1,
+  "city": 1,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 1,
+  "contender": 1,
+  "rituals": 0,
+  "stewardship": 4,
+  "women": 2,
+  "intensity": 4,
+  "ll": [
+   39.04,
+   -77.5
+  ],
+  "why": {
+   "terrace": "Loudoun Stampede, tiny",
+   "city": "Exurban reserve-side origin, weak bond",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "Segra Field (5,000) averages 1,625",
+   "contender": "Never won anything",
+   "rituals": "None",
+   "stewardship": "Attain Sports majority, D.C. United minority",
+   "women": "USL W League side from 2026 (amateur)",
+   "intensity": "Unknown; estimate mid"
+  }
+ },
+ "19411": {
+  "name": "Hartford Athletic",
+  "src": "Hartford Athletic",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 4,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   41.76,
+   -72.66
+  ],
+  "why": {
+   "terrace": "The Bonanza and Raza Brava",
+   "city": "City's club, small crowds",
+   "voice": "No fan power",
+   "conscience": "Players walked off over alleged slur (2025)",
+   "ground": "Dillon Stadium (1935) historic, half full",
+   "contender": "2025 USL Cup winners",
+   "rituals": "Whalers' 'Brass Bonanza' chant",
+   "stewardship": "Local Hartford Sports Group",
+   "women": "No women's team",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "20687": {
+  "name": "Oakland Roots",
+  "src": "Oakland Roots SC",
+  "terrace": 5,
+  "city": 7,
+  "voice": 3,
+  "conscience": 9,
+  "ground": 2,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   37.75,
+   -122.2
+  ],
+  "why": {
+   "terrace": "La Union 1852 groups",
+   "city": "Oakland identity and pride",
+   "voice": "Community investor structure",
+   "conscience": "Common Goal pledge, Justice Fund; mission-driven",
+   "ground": "Oakland Coliseum (63,026) averages 5,610",
+   "contender": "11th West",
+   "rituals": "Known in USL",
+   "stewardship": "Founders and community investors",
+   "women": "Sister club Oakland Soul (USL W League)",
+   "intensity": "Estimate"
+  }
+ },
+ "21370": {
+  "name": "Monterey Bay",
+  "src": "Monterey Bay FC",
+  "terrace": 2,
+  "city": 3,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 2,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 4,
+  "ll": [
+   36.65,
+   -121.8
+  ],
+  "why": {
+   "terrace": "Several small supporter groups",
+   "city": "Regional club, modest bond",
+   "voice": "None",
+   "conscience": "Nothing notable",
+   "ground": "Cardinale Stadium (6,000) averages 3,466",
+   "contender": "Bottom of the West",
+   "rituals": "None",
+   "stewardship": "Regional businessman Ray Beshoff",
+   "women": "None",
+   "intensity": "Estimate"
+  }
+ },
+ "21822": {
+  "name": "Lexington",
+  "src": "Lexington SC",
+  "terrace": 2,
+  "city": 3,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 3,
+  "rituals": 2,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   37.99,
+   -84.4
+  ],
+  "why": {
+   "terrace": "Railbirds supporters; small",
+   "city": "Young club",
+   "voice": "No fan power",
+   "conscience": "Pro women's team",
+   "ground": "New stadium (2024), ~4.8k",
+   "contender": "Mid-table",
+   "rituals": "None known",
+   "stewardship": "Local owners built stadium",
+   "women": "Women's team 2nd in USL Super League",
+   "intensity": "No style evidence (estimate)"
+  }
+ },
+ "22164": {
+  "name": "Rhode Island FC",
+  "src": "Rhode Island FC",
+  "terrace": 4,
+  "city": 5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 2,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   41.88,
+   -71.38
+  ],
+  "why": {
+   "terrace": "Rhode Island Defiance 1636 supporters, young group",
+   "city": "the state's pro soccer club, new but popular",
+   "voice": "none documented",
+   "conscience": "nothing found either way (estimate)",
+   "ground": "new 10.5k Centreville Bank Stadium in Pawtucket, about 80% full",
+   "contender": "reached USL Championship final 2024 in first season",
+   "rituals": "none yet",
+   "stewardship": "local owners Brett Johnson and ex-player Michael Parkhurst",
+   "women": "no women's team found",
+   "intensity": "mixed, estimate"
+  }
+ },
+ "131578": {
+  "name": "Sporting JAX",
+  "src": "Sporting JAX",
+  "terrace": 1,
+  "city": 3,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 1,
+  "contender": 1,
+  "rituals": 0,
+  "stewardship": 6,
+  "women": 7,
+  "intensity": 3,
+  "ll": [
+   30.27,
+   -81.51
+  ],
+  "why": {
+   "terrace": "no established group",
+   "city": "new club in an NFL city",
+   "voice": "none",
+   "conscience": "women's team launched before the men",
+   "ground": "UNF college stadium, 1.8k crowds",
+   "contender": "last in the East in debut 2026 season",
+   "rituals": "none",
+   "stewardship": "local owners Caplin, Tebow, Taylor",
+   "women": "women's USL Super League team since 2025 defines the club",
+   "intensity": "new side, estimate"
+  }
+ },
+ "131579": {
+  "name": "Brooklyn FC",
+  "src": "Brooklyn FC",
+  "terrace": 1,
+  "city": 2,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 1,
+  "contender": 1,
+  "rituals": 0,
+  "stewardship": 4,
+  "women": 7,
+  "intensity": 3,
+  "ll": [
+   40.57,
+   -73.98
+  ],
+  "why": {
+   "terrace": "new",
+   "city": "new franchise",
+   "voice": "none",
+   "conscience": "women's team first (estimate)",
+   "ground": "baseball park, 2,142",
+   "contender": "12th of 13",
+   "rituals": "none",
+   "stewardship": "NY family office",
+   "women": "USL Super League side since 2024",
+   "intensity": "no identity"
+  }
+ }
+}

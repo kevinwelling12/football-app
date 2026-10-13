@@ -22,7 +22,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
       logos/             crests (<espnId>-d.png dark, <espnId>.png light), from scripts/logos.py
     history/<k>/<season>.json   ESPN history, 2016 on, 18 leagues (6 shown + 12 that only feed ratings). odds/ = football-data.co.uk CSVs
     model/params.json    tuned parameters + backtest results (scripts/backtest.mjs --tune)
-    data/affinity.json   provisional Affinity scores, keyed by ESPN team id ([name, score]); new clubs get reported by the sync
+    data/affinity/traits.json  researched Affinity traits per club (ESPN id); the score is computed in the page (docs/affinity.md)
     scripts/             backfill.mjs, sync.mjs, backtest.mjs, logos.py, serve.mjs, lib/
 
 ## Run
@@ -37,6 +37,11 @@ Elo over all history (Europe one pool via UEFA matches), plus attack/defence fit
 mix goals with a shots-on-target xG proxy, pulled toward the Elo prior. Draw calibration (rho, drawK) per pool. Match grids
 blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-match predictions are frozen in history/
 once a match starts (`pk`), so the Picks record is honest; picks for matches before the app existed are walk-forward (`pk.wf`).
+
+## Affinity (docs/affinity.md)
+web/affinity.js: shortfall from your clubs' median on ten researched traits + distance from Sacramento, four factor
+shares (culture 35, values 30, near 15, play 20), re-weighted by your "which would you rather support?" picks. Shown on the
+Clubs page and as "Your pull" in neutral match sheets only.
 
 ## Match importance, match of the day/week
 sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.
