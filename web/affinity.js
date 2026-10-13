@@ -1,26 +1,23 @@
-// Affinity: how much a club is your kind of club, 0-100.
+// Affinity v2 (2026-10-13): learned from Kevin's "which would you rather support?" picks.
 //
-// 1. Reference: on each trait, your clubs' typical level (median of the five); for nearness, home itself (10).
-// 2. Prior weights: each factor starts at a set share; within it, traits your clubs are strong on AND agree on count
-//    most (mean / 10 x agreement).
-// 3. Score: falling short of the reference costs, by the trait's weight; matching or beating it costs nothing.
-//    Affinity = 100 x (1 - shortfall / the shortfall of a club with nothing at all).
-// 4. Calibration: your "which would you rather support?" picks re-weight the traits (logistic fit, pulled toward
-//    the prior so a handful of answers can't swing it wildly).
-// Traits are researched 0-10 scores (data/affinity/traits.json, with one line of evidence each) plus distance from home.
+// Each club gets a raw score = trait part + its own adjustment:
+//   trait part  = weights x features: ten researched 0-10 traits, nearness (log distance), two dealbreakers (ownership
+//                 below 3: state, fund or similar; inclusion below 3: racism record), US club, rival of one of your clubs.
+//   adjustment  = what your picks say about this club beyond its traits (kept small until a club has several picks).
+// Weights and adjustments are fitted together (regularised logistic regression on the picks: P(pick A over B) =
+// logistic(raw A - raw B)), starting from a neutral prior so a new user isn't empty.
+// Affinity = 100 x logistic(raw - the median club's raw): the chance you'd pick the club over a typical one.
 
-// share = starting weight of each factor (Kevin chose all four, 2026-10-13); within a factor, traits your clubs share
-// count most. Your picks then move both.
-export const GROUPS = [
-  { key: 'culture', label: 'Supporter culture', share: 0.35, traits: ['terrace', 'rituals', 'city', 'ground'] },
-  { key: 'values', label: 'Values and ownership', share: 0.30, traits: ['conscience', 'voice', 'stewardship', 'women'] },
-  { key: 'near', label: 'Near Sacramento', share: 0.15, traits: ['geography'] },
-  { key: 'play', label: 'Winning and style', share: 0.20, traits: ['contender', 'intensity'] },
-];
-export const TRAITS = GROUPS.flatMap(g => g.traits);
+export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity'];
+export const FEATURES = [...TRAITS, 'badOwner', 'badInclusion', 'usClub', 'rival'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
-  geography: 'Near Sacramento', contender: 'Contender', intensity: 'High-energy football' };
+  geography: 'Near Sacramento', contender: 'Contender', intensity: 'High-energy football',
+  badOwner: 'State or fund ownership', badInclusion: 'Racism record', usClub: 'US club', rival: 'Rival of your club' };
+// starting weights (per full 0-10 range of a trait, or per flag) before any picks
+const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
+  geography: 0.3, contender: 0, intensity: 0.3, badOwner: -2, badInclusion: -1.5, usClub: 0, rival: -1 };
+const US = new Set(['mls', 'nwsl', 'usl']);
 
 const HOME = [38.58, -121.49];
 function km(a, b) {
@@ -28,97 +25,86 @@ function km(a, b) {
   const h = Math.sin(dl / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(dn / 2) ** 2;
   return 6371 * 2 * Math.asin(Math.sqrt(h));
 }
-// Log scale (Kevin, 2026-10-13): each tenfold increase in distance costs the same. 10 within 50 km of Sacramento,
-// 0 at 20,000 km (the far side of the world). Bay Area ~8.5, Portland ~5.4, East Coast ~3.5, England/Germany ~1.5.
+// Log scale (Kevin, 2026-10-13): each tenfold increase in distance costs the same. 10 within 50 km, 0 at 20,000 km.
 const D_MIN = 50, D_MAX = 20000;
 export function geography(ll) {
   if (!ll) return 0;
   const d = Math.max(D_MIN, km(HOME, ll));
   return Math.max(0, 10 * Math.log(D_MAX / d) / Math.log(D_MAX / D_MIN));
 }
-
-const median = a => { const s = [...a].sort((x, y) => x - y), m = s.length >> 1; return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; };
-const sd = a => { const m = a.reduce((s, x) => s + x, 0) / a.length; return Math.sqrt(a.reduce((s, x) => s + (x - m) ** 2, 0) / a.length); };
-
-// traits: {espnId: {terrace.., ll}}; favIds: your clubs (any that have traits)
-export function prior(traits, favIds) {
-  const favs = favIds.map(id => traits[id]).filter(Boolean).map(withGeo);
-  const ref = {}, w0 = {};
-  for (const t of TRAITS) {
-    const v = favs.map(f => f[t] ?? 0);
-    // nearness is "the closer the better", not "as close as your clubs": its reference is home itself
-    ref[t] = t === 'geography' ? 10 : v.length ? median(v) : 5;
-    const agree = Math.max(0.2, 1 - (v.length ? sd(v) : 5) / 5);
-    w0[t] = Math.max(0.02, (v.length ? v.reduce((s, x) => s + x, 0) / v.length : 5) / 10 * agree);
-  }
-  for (const g of GROUPS) { const tot = g.traits.reduce((s, t) => s + w0[t], 0); for (const t of g.traits) w0[t] = g.share * w0[t] / tot; }
-  return { ref, w0 };
-}
 export const withGeo = c => (c.geography != null ? c : { ...c, geography: geography(c.ll) });
 
-export function score(c, ref, w) {
+// ctx: {league: {id: key}, rivals: Set of ids}
+export function features(id, c, ctx) {
   c = withGeo(c);
-  let short = 0, max = 0;
-  for (const t of TRAITS) { short += w[t] * Math.max(0, ref[t] - (c[t] ?? 0)) / 10; max += w[t] * ref[t] / 10; }
-  return max ? 100 * (1 - short / max) : 50;
+  return [...TRAITS.map(t => (c[t] ?? 0) / 10), Math.max(0, 3 - (c.stewardship ?? 5)) / 3, Math.max(0, 3 - (c.conscience ?? 5)) / 3,
+    US.has(ctx.league[id]) ? 1 : 0, ctx.rivals.has(id) ? 1 : 0];
 }
 
-// What lifts a club and what holds it back, by weighted effect.
-export function reasons(c, ref, w) {
-  c = withGeo(c);
-  const pos = [], neg = [];
-  for (const t of TRAITS) {
-    const gap = ((c[t] ?? 0) - ref[t]) / 10;
-    if ((c[t] ?? 0) >= Math.max(7, ref[t])) pos.push([t, w[t] * (c[t] ?? 0)]);
-    if (gap < -0.15) neg.push([t, w[t] * -gap]);
-  }
-  return { good: pos.sort((a, b) => b[1] - a[1]).slice(0, 3).map(x => x[0]), short: neg.sort((a, b) => b[1] - a[1]).slice(0, 2).map(x => x[0]) };
-}
+const sig = z => 1 / (1 + Math.exp(-z));
+const GEO = FEATURES.indexOf('geography'), FLAGS = new Set(['badOwner', 'badInclusion', 'rival', 'usClub']);
 
-// Fit weights to picks [{a, b, win}] (ids; win = a or b). w = w0 x exp(theta), L2 pull on theta.
-export function calibrate(traits, ref, w0, picks, { lambda = 1.5, k = 6, iters = 400, lr = 0.05 } = {}) {
-  const used = picks.filter(p => traits[p.a] && traits[p.b] && (p.win === p.a || p.win === p.b));
-  const theta = Object.fromEntries(TRAITS.map(t => [t, 0]));
-  if (!used.length) return { w: { ...w0 }, n: 0 };
-  const C = id => withGeo(traits[id]);
-  const wOf = th => Object.fromEntries(TRAITS.map(t => [t, w0[t] * Math.exp(th[t])]));
-  const loss = th => {
-    const w = wOf(th); let L = 0;
+// traits: {id: {...}}; picks: [{a, b, win}] (win null = can't say). Returns the fitted model.
+export function fit(traits, ctx, picks, { lambda = 1, lambdaClub = 2, iters = 1200 } = {}) {
+  const ids = Object.keys(traits), X = Object.fromEntries(ids.map(id => [id, features(id, traits[id], ctx)]));
+  const b0 = FEATURES.map(f => PRIOR[f]), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0]));
+  const used = picks.filter(p => X[p.a] && X[p.b] && (p.win === p.a || p.win === p.b)).map(p => ({ w: p.win, l: p.win === p.a ? p.b : p.a }));
+  const n = Math.max(1, Math.sqrt(used.length));
+  for (let it = 0; it < (used.length ? iters : 0); it++) {
+    const g = beta.map((b, j) => lambda * (b - b0[j])), gu = {};
     for (const p of used) {
-      const d = (score(C(p.win), ref, w) - score(C(p.win === p.a ? p.b : p.a), ref, w)) / 100;
-      L += Math.log1p(Math.exp(-k * d));
+      const xw = X[p.w], xl = X[p.l]; let z = u[p.w] - u[p.l];
+      for (let j = 0; j < beta.length; j++) z += beta[j] * (xw[j] - xl[j]);
+      const e = 1 - sig(z);
+      for (let j = 0; j < beta.length; j++) g[j] -= e * (xw[j] - xl[j]);
+      gu[p.w] = (gu[p.w] || 0) - e; gu[p.l] = (gu[p.l] || 0) + e;
     }
-    for (const t of TRAITS) L += lambda * theta2(th[t]);
-    return L;
-  };
-  const theta2 = x => x * x;
-  for (let it = 0; it < iters; it++) {
-    const base = loss(theta), g = {};
-    for (const t of TRAITS) { const h = 1e-3; theta[t] += h; g[t] = (loss(theta) - base) / h; theta[t] -= h; }
-    for (const t of TRAITS) theta[t] = Math.max(-2.5, Math.min(2.5, theta[t] - lr * g[t]));
+    for (let j = 0; j < beta.length; j++) beta[j] -= 0.3 * g[j] / n;
+    beta[GEO] = Math.max(0, beta[GEO]); // nearness can only help (Kevin, 2026-10-13); dislikes nearby go through rivals
+    for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaClub * u[id]) / n;
   }
-  return { w: wOf(theta), n: used.length };
+  const traitPart = id => X[id].reduce((s, v, j) => s + v * beta[j], 0);
+  const raw = Object.fromEntries(ids.map(id => [id, traitPart(id) + u[id]]));
+  const sorted = Object.values(raw).sort((a, b) => a - b), mid = sorted[sorted.length >> 1] ?? 0;
+  const mean = FEATURES.map((_, j) => ids.reduce((s, id) => s + X[id][j], 0) / ids.length);
+  return {
+    beta: Object.fromEntries(FEATURES.map((f, j) => [f, beta[j]])), u, raw, n: used.length,
+    affinity: id => (raw[id] == null ? null : 100 * sig(raw[id] - mid)),
+    // P(you'd pull for a over b)
+    prefer: (a, b) => sig(raw[a] - raw[b]),
+    // biggest reasons above and below a typical club
+    reasons(id) {
+      if (!X[id]) return { good: [], bad: [], picks: 0 };
+      const parts = FEATURES.map((f, j) => [f, beta[j] * (X[id][j] - mean[j])]).filter(([, v]) => Math.abs(v) > 0.08);
+      // the absence of a red flag isn't a reason to like a club, so flags only appear as minuses
+      return { good: parts.filter(p => p[1] > 0 && !FLAGS.has(p[0])).sort((a, b) => b[1] - a[1]).slice(0, 3).map(p => p[0]),
+        bad: parts.filter(p => p[1] < 0).sort((a, b) => a[1] - b[1]).slice(0, 2).map(p => p[0]), picks: u[id] };
+    },
+  };
 }
 
-// Group weights as shares, for display.
-export function groupShares(w) {
-  const tot = TRAITS.reduce((s, t) => s + w[t], 0);
-  return GROUPS.map(g => ({ ...g, share: g.traits.reduce((s, t) => s + w[t], 0) / tot }));
-}
-
-// Next pair to ask about: two clubs close in current Affinity but with different trait profiles; never your own
-// clubs, never a pair already asked.
-export function nextPair(traits, ids, aff, picks, favs, rnd = Math.random) {
+// Next pair to ask about. Prefers clubs you're likely to know (top divisions, Champions League regulars), clubs with
+// few answers so far, and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
+const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.6, usl: 0.5 };
+export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
-  const pool = ids.filter(id => traits[id] && !favs.has(id));
+  const seen = {}, skips = {};
+  for (const p of picks) for (const id of [p.a, p.b]) { seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1; }
+  const pool = ids.filter(id => !favs.has(id) && (skips[id] || 0) < 2);
+  const weight = id => (KNOWN[ctx.league[id]] ?? 0.5) / (1 + (seen[id] || 0) / 3);
   let best = null, bestS = -1;
-  for (let n = 0; n < 400; n++) {
+  for (let n = 0; n < 500; n++) {
     const a = pool[(rnd() * pool.length) | 0], b = pool[(rnd() * pool.length) | 0];
-    if (a === b || asked.has([a, b].sort().join('|'))) continue;
-    const A = withGeo(traits[a]), B = withGeo(traits[b]);
-    const diff = TRAITS.reduce((s, t) => s + Math.abs((A[t] ?? 0) - (B[t] ?? 0)), 0);
-    const s = diff / (1 + Math.abs(aff[a] - aff[b]) / 6);
+    if (!a || a === b || asked.has([a, b].sort().join('|'))) continue;
+    const close = 1 - Math.abs(model.prefer(a, b) - 0.5) * 2; // 1 = a coin flip for the model
+    const s = weight(a) * weight(b) * (0.4 + close) * (0.7 + 0.3 * rnd());
     if (s > bestS) { bestS = s; best = [a, b]; }
   }
   return best;
+}
+
+// Three short facts for the quiz card, from the research notes.
+export function facts(c) {
+  const cut = s => (s && s.length > 90 ? s.slice(0, 88).replace(/[ ,;:]+\S*$/, '') + '…' : s || '');
+  return [['Owners', cut(c.why?.stewardship)], ['Fans', cut(c.why?.terrace)], ['Style', cut(c.why?.intensity)]].filter(f => f[1]);
 }

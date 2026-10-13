@@ -136,6 +136,7 @@ async function publish() {
   }
   fs.writeFileSync('web/data/index.json', JSON.stringify(index));
   fs.writeFileSync('web/data/traits.json', JSON.stringify(pubTraits));
+  fs.copyFileSync('data/affinity/rivals.json', 'web/data/rivals.json');
 }
 
 // The backtest scores model/market blends on matches with closing odds; take the best weight (default 0.7).

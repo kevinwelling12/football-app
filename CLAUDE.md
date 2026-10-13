@@ -39,9 +39,10 @@ blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-
 once a match starts (`pk`), so the Picks record is honest; picks for matches before the app existed are walk-forward (`pk.wf`).
 
 ## Affinity (docs/affinity.md)
-web/affinity.js: shortfall from your clubs' median on ten researched traits + distance from Sacramento, four factor
-shares (culture 35, values 30, near 15, play 20), re-weighted by your "which would you rather support?" picks. Shown on the
-Clubs page and as "Your pull" in neutral match sheets only.
+web/affinity.js v2: logistic model fitted in the page to Kevin's "which would you rather support?" picks (state.affPicks):
+researched traits + dealbreakers (state/fund ownership, racism record) + rivals (data/affinity/rivals.json) + small per-club
+adjustments. 79% of held-out picks predicted (v1 trait similarity: 53%). His clubs aren't scored. Analyse new picks with
+scripts/affinity/analyze.mjs (Settings > Copy my Affinity picks).
 
 ## Match importance, match of the day/week
 sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.
