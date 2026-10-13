@@ -551,7 +551,7 @@ function openSheet(html, { keep = false } = {}) {
   if (open && keep) { morph($('#sheet-body'), html); return; }
   $('#sheet-body').innerHTML = html; $('#sheet').hidden = false; $('#scrim').hidden = false; $('#sheet').scrollTop = 0; document.body.style.overflow = 'hidden';
 }
-function closeSheet() { $('#sheet').hidden = true; $('#scrim').hidden = true; document.body.style.overflow = ''; sheetCtx = null; }
+function closeSheet() { $('#sheet').classList.remove('qopen'); $('#sheet').hidden = true; $('#scrim').hidden = true; document.body.style.overflow = ''; sheetCtx = null; }
 let sheetCtx = null;
 
 function matchSheet(k, id) {
@@ -653,10 +653,11 @@ function quizSheet() {
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair;
   const side = id => { const [k, t] = team(id); return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
-    <span style="display:grid;gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
+    <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
   openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
-    <div class="btns"><button class="btn quiet" data-quiz="skip">Can't say</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
+    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-quiz="skip">Can't say</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
+  $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
 function settingsSheet(keep = false) {
@@ -727,7 +728,7 @@ document.addEventListener('click', e => {
     if (q === 'done') { closeSheet(); render(); return; }
     const [a, b] = sheetCtx.pair;
     store.set(s => { (s.affPicks || (s.affPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
-    quizSheet(); return;
+    ui.qinfo = false; quizSheet(); return;
   }
   if (t.dataset.match) { const [k, id] = t.dataset.match.split(':'); matchSheet(k, id); return; }
   if (t.dataset.club) { const [k, i] = t.dataset.club.split(':'); clubSheet(k, +i); return; }
@@ -750,7 +751,8 @@ document.addEventListener('click', e => {
     store.set(s => { s.favs = cur.has(id) ? [...cur].filter(x => x !== id) : [...cur, id]; });
     render(); if (sheetCtx?.type === 'club') clubSheet(sheetCtx.k, sheetCtx.i); return;
   }
-  if (t.dataset.act === 'quiz') { quizSheet(); return; }
+  if (t.dataset.act === 'quiz') { ui.qinfo = false; quizSheet(); return; }
+  if (t.dataset.act === 'qinfo') { ui.qinfo = !ui.qinfo; $('#sheet').classList.toggle('qopen', ui.qinfo); t.textContent = ui.qinfo ? 'Hide details' : 'Details'; return; }
   if (t.dataset.act === 'copypicks') {
     const name = id => TRAITS[id]?.name || id;
     const rows = (store.get().affPicks || []).map(p => ({ a: name(p.a), b: name(p.b), pick: p.win ? name(p.win) : "can't say", ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));

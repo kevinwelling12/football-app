@@ -23,8 +23,11 @@ adjustments are kept small (ridge 2) so a club needs several picks before its ad
 - California clubs went 15–50 (Oakland Roots 1–13): explained by rivalry with the Republic plus per-club adjustments.
 - Per-club adjustments: above their traits Leeds, Phoenix, Aston Villa, Man United; below Gladbach, Slavia, Barcelona,
   Galatasaray, Oakland, Everton, LAFC.
-- "Can't say" means "don't know the club" (Kevin). The quiz now shows a fact card per club (owners, fans, style) and
-  prefers clubs from leagues he follows closely and clubs with few answers.
+- "Can't say" means "don't know the club" (Kevin). The quiz shows crests and names (gut picks); Details opens a fact
+  card per club (owners, fans, style) for close or unfamiliar pairs. It prefers clubs from leagues he follows closely,
+  clubs with few answers, and pairs the model finds close.
+- 2026-10-13 rerun with 259 answers: 78% held out; same order of factors (ownership −3.0, racism −2.3, high-energy
+  football +1.7, rivals −0.8); the city's club fell to +0.25, contender −0.23.
 
 ## Get the picks for analysis
 Settings > Copy my Affinity picks, paste into a file, run the script above.
