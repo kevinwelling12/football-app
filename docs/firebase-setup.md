@@ -1,16 +1,17 @@
-# Cloud sync setup (about 10 minutes, free)
+# Cloud sync setup
 
-Without this the app works fully but saves your entered scores, followed clubs and picks on each device separately.
-With it, iPhone and iPad stay in sync through your Google account.
+Project: **football-app-2627** (created 2026-10-13; config in `web/firebase-config.js`). Data lives at
+`users/{uid}/app/state`, readable and writable only by that signed-in user (`firestore.rules`).
 
-1. https://console.firebase.google.com > **Create a project** (e.g. "football-app"). Google Analytics: off.
-2. **Build > Authentication > Get started > Sign-in method > Google > Enable**, choose your support email, Save.
-3. **Authentication > Settings > Authorized domains > Add domain**: `kevinwelling12.github.io`
-4. **Build > Firestore Database > Create database**, location `us-west2 (Los Angeles)`, **production mode**.
-5. Firestore > **Rules**: replace everything with the contents of `firestore.rules` in this repo, **Publish**.
-6. **Project settings (gear) > General > Your apps > Web (</>)**, nickname "web", no Hosting, Register.
-   Copy the `firebaseConfig` object it shows and send it to Claude (or paste it into `web/firebase-config.js` as
-   `window.FIREBASE_CONFIG = { ... };`). These values are not secret; the rules protect the data.
+The console was redesigned in 2026: the product list sits behind the icons on the left; the search icon is the
+quickest way to any product. To set up (or redo) a project:
 
-Then open the site, Settings (gear) > **Sign in with Google**. Do the same on the other device.
-Anything already saved on a device is merged into the cloud copy at first sign-in.
+1. Create the project. Spark (free) plan; Analytics off.
+2. **Authentication** (search for it) > Get started > Sign-in method > **Google** > Enable.
+3. Authentication > **Settings** > Authorized domains > add `kevinwelling12.github.io`.
+4. **Firestore** > Create database, location `us-west2`, production mode.
+5. Firestore > **Rules**: paste `firestore.rules`, Publish.
+6. Gear > Project settings > Your apps > the web app: copy `firebaseConfig` into `web/firebase-config.js`.
+
+Then on each device: Settings (gear) in the app > **Sign in with Google**. A device's saved entries merge into the
+cloud copy at first sign-in.
