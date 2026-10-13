@@ -315,9 +315,16 @@ function zoneColor(rules, pos, scope) {
 }
 
 function viewTable(k) {
-  const L = D[k], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules), S = SIM[k]?.sim, fav = favIds();
-  const scope = rules.groups ? 'group' : 'all', proj = ui.tableMode === 'proj' && S;
-  let html = `<div class="section"><h2>${proj ? 'Projected finish' : 'Standings'}</h2><span class="toggle"><button data-tmode="now" class="${!proj ? 'on' : ''}">Now</button><button data-tmode="proj" class="${proj ? 'on' : ''}">Projected</button></span></div>`;
+  const L = D[k], rules = LEAGUES[k], ms = matchesOf(k), S = SIM[k]?.sim, fav = favIds();
+  // Live: matches in progress counted at their current score ("as it stands"); only offered while one is on
+  const liveNow = regular(ms).filter(m => m.st === 'live' && m.hs != null);
+  const mode = ui.tableMode === 'live' && !liveNow.length ? 'now' : ui.tableMode, live = mode === 'live';
+  const before = standings(L, ms, rules);
+  const st = live ? standings(L, ms.map(m => (m.st === 'live' && m.hs != null ? { ...m, st: 'ft' } : m)), rules) : before;
+  const playing = new Map(liveNow.flatMap(m => [[m.h, m], [m.a, m]]));
+  const scope = rules.groups ? 'group' : 'all', proj = mode === 'proj' && S;
+  const tbtn = (m, label) => `<button data-tmode="${m}" class="${(m === 'proj' ? proj : m === mode && !proj) ? 'on' : ''}">${label}</button>`;
+  let html = `<div class="section"><h2>${proj ? 'Projected finish' : live ? 'As it stands' : 'Standings'}</h2><span class="toggle">${tbtn('now', 'Now')}${liveNow.length ? tbtn('live', '<span class="live-dot"></span>Live') : ''}${tbtn('proj', 'Projected')}</span></div>`;
   for (const g of st.groups) {
     let rows = g.idx.map(i => st.rows[i]);
     if (proj) rows = rows.slice().sort((a, b) => S.teams[a.i].avgPos - S.teams[b.i].avgPos);
@@ -329,7 +336,13 @@ function viewTable(k) {
     const body = rows.map((r, n) => {
       const pos = n + 1, t = L.teams[r.i], T = S?.teams[r.i];
       const cls = `click${cuts.has(n) && n ? ' cut' : ''}${fav.has(t.id) ? ' me' : ''}`;
-      const name = `<td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${fav.has(t.id) ? '<span class="faint">★</span>' : ''}</div></td>`;
+      let extra = '';
+      if (live) {
+        const m = playing.get(r.i), move = before.rows[r.i].pos - r.pos;
+        if (move) extra += `<span class="move ${move > 0 ? 'up' : 'down'}">${move > 0 ? '▲' : '▼'}${Math.abs(move)}</span>`;
+        if (m) extra += `<span class="live-pill">${m.h === r.i ? m.hs : m.as}–${m.h === r.i ? m.as : m.hs} ${esc(m.clock || (m.min ? m.min + "'" : ''))}</span>`;
+      }
+      const name = `<td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${fav.has(t.id) ? '<span class="faint">★</span>' : ''}${extra}</div></td>`;
       const z = `style="--z:${zoneColor(rules, pos, scope)}"`;
       if (proj) return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td class="pts">${Math.round(T.pts)}</td><td class="wide muted">${T.ptsRange[0]}–${T.ptsRange[1]}</td><td class="muted">${T.avgPos.toFixed(1)}</td></tr>`;
       return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td>${r.p}</td><td class="wide">${r.w}</td><td class="wide">${r.d}</td><td class="wide">${r.l}</td><td class="wide">${r.gf}</td><td class="wide">${r.ga}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
@@ -338,6 +351,7 @@ function viewTable(k) {
   }
   html += `<div class="legend">${rules.zones.filter(z => z.key !== 'title' && z.key !== 'shield').map(z => `<span style="--z:${toneVar(z.tone)}">${esc(z.label)}</span>`).join('')}</div>`;
   if (proj) html += `<p class="note">Average points and the likely range (80% of ${SIMS.toLocaleString()} simulated seasons), ordered by average finish.</p>`;
+  else if (live) html += `<p class="note">${liveNow.length} match${liveNow.length > 1 ? 'es' : ''} in progress counted at the current score. Arrows: places moved since kickoff.</p>`;
   else if (!S) html += '<p class="note">Running simulations…</p>';
   if (rules.note) html += `<p class="note">${esc(rules.note)}</p>`;
   return html;
