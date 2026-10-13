@@ -69,7 +69,64 @@ export const LEAGUES = {
     playoffs: { type: 'usl' },
     columns: ['po', 'home', 'shield', 'champ'],
   },
+  esp: {
+    name: 'La Liga', short: 'La Liga', tag: 'LL', region: 'Europe', season: '2026–27', color: '#E9C46A',
+    // official order: points, head-to-head points, head-to-head goal difference (once the clubs have played each other
+    // twice), goal difference, goals scored
+    tiebreak: ['pts', 'h2h', 'gd', 'gf'], h2hComplete: true,
+    zones: [
+      { key: 'title', label: 'Champions', short: 'Title', from: 1, to: 1, tone: 'gold' },
+      { key: 'ucl', label: 'Champions League', short: 'Top 4', from: 1, to: 4, tone: 'good' },
+      { key: 'eur', label: 'Europa / Conference', short: 'Europe', from: 5, to: 6, tone: 'ok' },
+      { key: 'rel', label: 'Relegation', short: 'Down', from: 18, to: 20, tone: 'bad' },
+    ],
+    columns: ['title', 'ucl', 'rel'],
+    note: 'Level on points: head-to-head record first (once both matches are played), then goal difference. A fifth Champions League place goes to Spain if its clubs top UEFA\'s season ranking.',
+  },
+  ita: {
+    name: 'Serie A', short: 'Serie A', tag: 'SA', region: 'Europe', season: '2026–27', color: '#7FB069',
+    // official order: points, head-to-head points, head-to-head goal difference, goal difference, goals scored
+    // (a one-off play-off decides a tie for first place or for the last relegation place; not simulated)
+    tiebreak: ['pts', 'h2h', 'gd', 'gf'], h2hComplete: true,
+    zones: [
+      { key: 'title', label: 'Champions', short: 'Title', from: 1, to: 1, tone: 'gold' },
+      { key: 'ucl', label: 'Champions League', short: 'Top 4', from: 1, to: 4, tone: 'good' },
+      { key: 'eur', label: 'Europa / Conference', short: 'Europe', from: 5, to: 6, tone: 'ok' },
+      { key: 'rel', label: 'Relegation', short: 'Down', from: 18, to: 20, tone: 'bad' },
+    ],
+    columns: ['title', 'ucl', 'rel'],
+    note: 'Level on points: head-to-head record first, then goal difference. A tie for first place or for 17th is settled by a one-off play-off, which the simulations don\'t model.',
+  },
+  fra: {
+    name: 'Ligue 1', short: 'Ligue 1', tag: 'L1', region: 'Europe', season: '2026–27', color: '#94A3B8',
+    // official order: points, goal difference, head-to-head points and goal difference, goals scored
+    tiebreak: ['pts', 'gd', 'h2h', 'gf'], h2hComplete: true,
+    zones: [
+      { key: 'title', label: 'Champions', short: 'Title', from: 1, to: 1, tone: 'gold' },
+      { key: 'ucl', label: 'Champions League', short: 'Top 3', from: 1, to: 3, tone: 'good' },
+      { key: 'ucq', label: 'Champions League qualifying', short: '4th', from: 4, to: 4, tone: 'good' },
+      { key: 'eur', label: 'Europa / Conference', short: 'Europe', from: 5, to: 6, tone: 'ok' },
+      { key: 'po', label: 'Relegation play-off', short: '16th', from: 16, to: 16, tone: 'warn' },
+      { key: 'rel', label: 'Relegation', short: 'Down', from: 17, to: 18, tone: 'bad' },
+    ],
+    columns: ['title', 'ucl', 'rel'],
+    note: '4th goes into Champions League qualifying (third round). 16th plays the Ligue 2 play-off winner over two legs.',
+  },
+  eng2: {
+    name: 'Championship', short: 'Championship', tag: 'EFL', region: 'Europe', season: '2026–27', color: '#A47148',
+    tiebreak: ['pts', 'gd', 'gf'],
+    zones: [
+      { key: 'auto', label: 'Automatic promotion', short: 'Top 2', from: 1, to: 2, tone: 'gold' },
+      { key: 'po', label: 'Play-offs or better', short: 'Top 6', from: 1, to: 6, tone: 'good' },
+      { key: 'rel', label: 'Relegation', short: 'Down', from: 22, to: 24, tone: 'bad' },
+    ],
+    playoffs: { type: 'efl', outcome: 'up' },
+    columns: ['auto', 'po', 'up', 'rel'],
+    note: 'Play-offs: 3rd v 6th and 4th v 5th over two legs (the higher place at home second), then a final at Wembley. Three clubs go up.',
+  },
 };
-export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
+export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2'];
+// Kevin's own competitions (the rest are shown more quietly on Today)
+export const MAIN = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
 export const FAVORITES = ['Liverpool', 'Borussia Dortmund', 'Sacramento Republic FC', 'Portland Timbers', 'Portland Thorns FC'];
 export const zoneScope = z => z.scope || 'all';

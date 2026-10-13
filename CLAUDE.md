@@ -4,23 +4,24 @@ Kevin's football tracker, rebuilt 2026-10-13 (the previous app, kevinwelling12/f
 is the reference for anything "we did before": its docs/preferences.md holds the long Affinity ledger).
 
 ## What it is
-A static web app (GitHub Pages) for six competitions: Premier League, Bundesliga, Champions League, MLS, NWSL,
-USL Championship. Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns.
+A static web app (GitHub Pages) for ten competitions: Kevin's six (Premier League, Bundesliga, Champions League, MLS,
+NWSL, USL Championship) and, since 2026-10-13, La Liga, Serie A, Ligue 1 and the EFL Championship (no club of his there;
+on Today they fold into one "N more" line per day unless he follows a club in them). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns.
 Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide, dark scheme, no horizontal overflow.
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
       app.js             shell, routing (#/today, #/league/<k>/<matches|table|odds|scenarios|affinity>, #/picks, #/clubs), views, sheets
       engine.js          scoreline grids (Dixon-Coles), market blend, FotMob pick, live grids, RNG; shared with Node
-      sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl, mls, nwsl, usl)
+      sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl, mls, nwsl, usl, efl = Championship promotion)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios
-      leagues.js         zones, tiebreakers, playoff formats, colours, Kevin's default favourites
+      leagues.js         zones, tiebreakers, playoff formats, colours, ORDER (all ten) and MAIN (Kevin's six), default favourites
       espn.js            ESPN event -> match record (sync scripts and live polling share it)
       store.js           localStorage + optional Firestore sync (users/{uid}/app/state)
       worker.js          runs sim + proofs + scenarios off the main thread
       data/<k>.json      published per league by scripts/sync.mjs (teams with ratings, matches with model rates, odds, frozen picks)
       logos/             crests (<espnId>-d.png dark, <espnId>.png light), from scripts/logos.py
-    history/<k>/<season>.json   ESPN history, 2016 on, 18 leagues (6 shown + 12 that only feed ratings). odds/ = football-data.co.uk CSVs
+    history/<k>/<season>.json   ESPN history, 2016 on, 18 leagues (10 shown + 8 that only feed ratings; scripts/lib/leagues.mjs `track`). odds/ = football-data.co.uk CSVs
     model/params.json    tuned parameters + backtest results (scripts/backtest.mjs --tune)
     data/affinity/traits.json  researched Affinity traits per club (ESPN id); the score is computed in the page (docs/affinity.md)
     scripts/             backfill.mjs, sync.mjs, backtest.mjs, logos.py, serve.mjs, lib/
@@ -41,7 +42,7 @@ once a match starts (`pk`), so the Picks record is honest; picks for matches bef
 ## Affinity (docs/affinity.md)
 web/affinity.js v3: logistic model fitted in the page to Kevin's "which would you rather support?" picks (state.affPicks):
 traits can only pull, only state ownership / racism or fan-culture record / rivals (data/affinity/rivals.json) push,
-league familiarity fitted but excluded from Affinity, small per-club adjustments. 73% of 1,056 held-out picks (2026-10-13; v1: 53%). His clubs aren't scored. Analyse new picks with
+league familiarity (by domestic league; UCL only for leagues not shown) fitted but excluded from Affinity, small per-club adjustments. 73% of 1,056 held-out picks (2026-10-13; v1: 53%). His clubs aren't scored. Analyse new picks with
 scripts/affinity/analyze.mjs (Settings > Copy my club picks).
 Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
 club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),

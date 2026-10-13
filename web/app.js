@@ -1,5 +1,5 @@
 // Football: page shell, data, live scores, views. Views are plain template strings rendered into #view.
-import { LEAGUES, ORDER, FAVORITES } from './leagues.js';
+import { LEAGUES, ORDER, MAIN, FAVORITES } from './leagues.js';
 import { prepare, standings, isPlayed, regular, simulate } from './sim.js';
 import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, W } from './engine.js';
 import { statuses, scenarios as scenFor, describe } from './clinch.js';
@@ -13,7 +13,9 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg') || 'mls', sub: localGet('sub') || 'table' };
-const ui = { tableMode: 'now', ratingsLg: 'eur', week: {} };
+const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {} };
+// domestic leagues before the Champions League: a club belongs to its own league (Real Madrid is La Liga)
+const HOME_ORDER = [...ORDER.filter(k => k !== 'ucl'), 'ucl'];
 
 function localGet(k) { try { return localStorage.getItem('fa-' + k); } catch { return null; } }
 function localSet(k, v) { try { localStorage.setItem('fa-' + k, v); } catch { /* ignore */ } }
@@ -146,7 +148,7 @@ function runSim(k) {
 }
 
 // ------------------------------------------------------------------ live scores from ESPN
-const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1' };
+const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2' };
 async function pollLive() {
   const now = Date.now();
   for (const k of ORDER) {
@@ -178,11 +180,11 @@ function affinity() {
   const picks = store.get().affPicks || [], favs = favIds();
   const key = JSON.stringify([picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
-  const league = {}; for (const k of ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
+  const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
   const rivals = new Set(Object.entries(RIVALS).filter(([k]) => k !== '_note').flatMap(([, v]) => Object.keys(v.rivals || {})));
   // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
   const standing = {};
-  for (const k of ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
+  for (const k of HOME_ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
   const ctx = { league, rivals, standing }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
@@ -221,7 +223,7 @@ function pWhyLine(id) {
 // a club in a player's career, with its crest when it's one of ours
 // the club a player is most associated with: most seasons among clubs we have
 function mainClub(p) { let best = null, bs = 0; for (const c of p.clubs) { if (!c[1]) continue; const ct = clubTeam(c[1]), n = (c[3] ?? 2026) - (c[2] ?? 2026); if (ct && n >= bs) { bs = n; best = ct; } } return best; }
-function clubTeam(espnId) { for (const k of ORDER) { const i = D[k]?.teams.findIndex(t => t.id === espnId); if (i >= 0) return [k, i, D[k].teams[i]]; } return null; }
+function clubTeam(espnId) { for (const k of HOME_ORDER) { const i = D[k]?.teams.findIndex(t => t.id === espnId); if (i >= 0) return [k, i, D[k].teams[i]]; } return null; }
 
 // "Pull for" on a neutral match: the club with clearly more Affinity, and why
 function pullFor(k, m) {
@@ -264,7 +266,7 @@ function viewToday() {
   const now = Date.now(), fav = favIds(), out = [];
   // your clubs
   const cards = [], seen = new Set();
-  for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'ucl']) {
+  for (const k of HOME_ORDER) {
     const L = D[k]; if (!L) continue;
     L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   }
@@ -273,24 +275,32 @@ function viewToday() {
   if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap">${cards.join('')}</div>`);
   // live
   const live = [];
-  for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) if (m.st === 'live') live.push([k, m]);
+  for (const k of ORDER) if (D[k] && !quiet(k)) for (const m of matchesOf(k)) if (m.st === 'live') live.push([k, m]);
   if (live.length) out.push(`<div class="section"><h2>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
   // the next three match days (today included, with its results)
   const byDay = new Map();
   for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) {
     const t = Date.parse(m.t); if (t < now - 18 * 36e5 && dayKey(t) !== dayKey(now)) continue;
-    if (m.st === 'live') continue;
+    if (m.st === 'live' && !quiet(k)) continue;
     const dk = dayKey(t); (byDay.get(dk) || byDay.set(dk, []).get(dk)).push([k, m]);
   }
   const days = [...byDay.keys()].sort().filter(d => d >= dayKey(now)).slice(0, 3);
   for (const dk of days) {
     const list = byDay.get(dk);
-    const parts = ORDER.map(k => { const ms = list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t)); return ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : ''; }).join('');
-    out.push(`<div class="section"><h2>${dayLabel(dk)}</h2><span class="aside">${list.length} matches</span></div><div class="card">${parts}</div>`);
+    const of = k => list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t));
+    const block = k => { const ms = of(k); return ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : ''; };
+    // leagues without one of your clubs fold into one line until opened
+    const extra = ORDER.filter(k => quiet(k) && of(k).length), open = ui.more[dk];
+    const more = extra.length ? (open ? extra.map(block).join('') : '')
+      + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + of(k).length, 0)} more: ${extra.map(k => LEAGUES[k].name).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
+    out.push(`<div class="section"><h2>${dayLabel(dk)}</h2><span class="aside">${list.length} matches</span></div><div class="card">${ORDER.filter(k => !quiet(k)).map(block).join('')}${more}</div>`);
   }
   if (!days.length) out.push('<div class="empty">No matches in the next few days.</div>');
   return out.join('');
 }
+
+// a league shown quietly on Today: not one of Kevin's six and none of your clubs in it
+function quiet(k) { if (MAIN.includes(k)) return false; const fav = favIds(); return !(D[k]?.teams || []).some(t => fav.has(t.id)); }
 
 // headline zone for a club: the first one still in doubt (else the post-season title)
 function headline(k, i) {
@@ -302,6 +312,7 @@ function headline(k, i) {
     if (!best || Math.abs(p - 0.5) < Math.abs(best.p - 0.5)) best = { p, label: z.tone === 'bad' ? 'Relegation' : z.short };
   }
   if (best) return best;
+  if (t.rounds.up != null) return { p: t.rounds.up, label: 'Promotion' };
   const champ = t.rounds.champ; if (champ != null) return { p: champ, label: rules.playoffs?.type === 'ucl' ? 'Win it' : 'Champion' };
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
 }
@@ -395,7 +406,10 @@ function viewTable(k) {
   return html;
 }
 
-const colLabel = (rules, key) => rules.zones.find(z => z.key === key)?.short || { champ: 'Win' }[key] || key;
+const colLabel = (rules, key) => rules.zones.find(z => z.key === key)?.short || { champ: 'Win', up: 'Up' }[key] || key;
+// post-season outcomes in words
+const roundName = (rules, key) => ({ up: 'Promotion', final: rules.playoffs?.type === 'efl' ? 'Reach the play-off final' : 'Reach the final',
+  champ: rules.playoffs?.type === 'ucl' ? 'Win the competition' : rules.playoffs?.type === 'efl' ? 'Win the play-offs' : 'Win the title' }[key] || key);
 
 function viewOdds(k) {
   const L = D[k], rules = LEAGUES[k], R = SIM[k]?.sim ? SIM[k] : null; if (!R) return '<div class="spinner">Simulating…</div>';
@@ -424,7 +438,7 @@ function viewOdds(k) {
 }
 // ---- match importance / match of the week
 const fixInfo = (k, id) => SIM[k]?.sim?.fixtures.find(f => f.id === id);
-const zoneName = (k, key) => (key === 'champ' ? (LEAGUES[k].playoffs?.type === 'ucl' ? 'Win the competition' : 'Win the title') : LEAGUES[k].zones.find(z => z.key === key)?.label || key);
+const zoneName = (k, key) => LEAGUES[k].zones.find(z => z.key === key)?.label || roundName(LEAGUES[k], key);
 function stakeLine(k, m, s) {
   const t = D[k].teams[s.side ? m.a : m.h], win = s.side ? s.A : s.H, loss = s.side ? s.H : s.A;
   return { team: t, zone: zoneName(k, s.key), win, draw: s.D, loss };
@@ -467,7 +481,7 @@ function viewLeagueAffinity(k) {
   };
   let html = `<div class="section"><h2>Affinity</h2><span class="aside">${A.n ? `learned from ${A.n} of your picks` : 'no picks yet'}</span></div>
     <div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${mine.map(r => row(r, 0)).join('')}${rest.map(row).join('')}</table></div>`;
-  if (none.length) html += `<p class="note">No research yet for ${esc(none.map(([, t]) => t.n).join(', '))}.</p>`;
+  if (none.length) html += `<p class="note">No research yet for ${none.length > 4 ? `${none.length} clubs` : esc(none.map(([, t]) => t.n).join(', '))}${none.length === L.teams.length ? ': Affinity shows up here once it\'s in' : ''}.</p>`;
   html += `<p class="note">The chance you'd pick each club over a typical one, from your picks. Tap a club for the evidence; tune it on the Clubs page.</p>`;
   return html;
 }
@@ -566,10 +580,11 @@ function viewClubs() {
   let html = `<div class="section" style="margin-top:6px"><span class="toggle"><button data-ctab="clubs" class="${ui.ctab !== 'players' ? 'on' : ''}">Clubs</button><button data-ctab="players" class="${ui.ctab === 'players' ? 'on' : ''}">Players</button></span></div>`;
   if (ui.ctab === 'players') return html + viewPlayers();
   const cards = [], seen = new Set();
-  for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'ucl']) if (D[k]) D[k].teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
+  for (const k of HOME_ORDER) if (D[k]) D[k].teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   html += `<div class="section"><h2>Your clubs</h2><span class="aside">tap ☆ on any club to follow</span></div><div class="card row-gap">${cards.join('') || '<div class="empty">None yet.</div>'}</div>`;
   // ratings: Europe is one Elo scale (linked through UEFA matches); each US league is its own
-  const POOLS = { eur: ['epl', 'bl', 'ucl'], mls: ['mls'], nwsl: ['nwsl'], usl: ['usl'] }, PN = { eur: 'Europe', mls: 'MLS', nwsl: 'NWSL', usl: 'USL' };
+  const POOLS = { eur: HOME_ORDER.filter(k => LEAGUES[k].region === 'Europe') }, PN = { eur: 'Europe' };
+  for (const k of ORDER) if (LEAGUES[k].region !== 'Europe') { POOLS[k] = [k]; PN[k] = LEAGUES[k].tag; }
   const sel = POOLS[ui.ratingsLg] ? ui.ratingsLg : 'eur';
   html += `<div class="section"><h2>Power ratings</h2></div><nav class="chips" style="padding:0 0 10px">${Object.keys(POOLS).map(k => `<button class="chip ${sel === k ? 'on' : ''}" data-rlg="${k}">${PN[k]}</button>`).join('')}</nav>`;
   const rows = [], seen2 = new Set();
@@ -578,7 +593,7 @@ function viewClubs() {
   const strength = (k, t) => { const b = D[k].base, avg = (b[0] + b[1]) / 2; return avg * t.A - avg * t.D; };
   rows.sort((a, b) => b[2].elo - a[2].elo);
   html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>${sel === 'eur' ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td><td class="muted">${sel === 'eur' ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
-    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches (with the Championship and 2. Bundesliga for promoted clubs); MLS, NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
+    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and seven other leagues feed it too); MLS, NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
   const pull = AF.TRAITS.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = AF.FLAGS.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
@@ -592,7 +607,7 @@ function viewClubs() {
       ${fam.length ? `<p class="tiny faint" style="margin:12px 0 0">Kept out of Affinity: you pick clubs you know more often (Premier League most; ${esc(fam.join(', '))} less). That's familiarity, not liking, so it doesn't count.</p>` : ''}</div>
       <div class="btns" style="padding:0 16px 14px"><button class="btn primary" data-act="quiz">${AFn.n ? 'Answer more' : 'Tune it to you'} · which would you rather support?</button></div></div>`;
   const aff = [], seen3 = new Set(), mine = [];
-  for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'ucl']) D[k]?.teams.forEach((t, i) => {
+  for (const k of HOME_ORDER) D[k]?.teams.forEach((t, i) => {
     if (seen3.has(t.id) || !TRAITS[t.id]) return; seen3.add(t.id);
     if (fav.has(t.id)) mine.push([k, i, t]); else aff.push([k, i, t, affOf(t.id)]);
   });
@@ -744,7 +759,7 @@ function clubSheet(k, i, keep = false) {
   if (R) {
     const T = R.sim.teams[i];
     const zs = rules.zones.map(z => `<div>${esc(z.label)}</div><div>${pct(T.zone[z.key], R.status[z.key]?.[i])}${R.status[z.key]?.[i] ? '' : '%'}</div><div></div><div></div>`).join('');
-    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final').map(([r, p]) => `<div>${r === 'champ' ? (rules.playoffs?.type === 'ucl' ? 'Win the competition' : 'Win the title') : 'Reach the final'}</div><div>${pct(p)}%</div><div></div><div></div>`).join('');
+    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => `<div>${roundName(rules, r)}</div><div>${pct(p)}%</div><div></div><div></div>`).join('');
     const dist = T.pos.slice(1), mx = Math.max(...dist);
     html += `<div class="block"><h4>Chances</h4><div class="kv">${zs}${rs}<div>Projected points</div><div>${Math.round(T.pts)}</div><div></div><div class="muted small">${T.ptsRange[0]}–${T.ptsRange[1]}</div></div></div>
       <div class="block"><h4>Finishing position</h4><div class="dist">${dist.map(p => `<i style="height:${mx ? p / mx * 100 : 0}%"></i>`).join('')}</div><div class="dist-axis">${dist.map((_, n) => `<span>${(n + 1) % (dist.length > 20 ? 5 : 1) === 0 || n === 0 ? n + 1 : ''}</span>`).join('')}</div></div>`;
@@ -770,7 +785,7 @@ function quizSheet() {
   const ids = [...new Set(ORDER.flatMap(k => (D[k]?.teams || []).map(t => t.id)))].filter(id => TRAITS[id]);
   const A = affinity(), picks = store.get().affPicks || [];
   const pair = AF.nextPair(A.model, ids, A.ctx, picks, favIds());
-  const team = id => { for (const k of ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
+  const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair;
   const side = id => { const [k, t] = team(id); return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
@@ -822,6 +837,13 @@ function chrome() {
   chips.hidden = seg.hidden = route.tab !== 'league';
   if (route.tab === 'league') {
     morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join(''));
+    // keep the selected league's chip in view (the row scrolls sideways on a phone)
+    const on = chips.querySelector('.chip.on');
+    if (on && chips.dataset.lg !== route.lg) {
+      chips.dataset.lg = route.lg;
+      const a = on.getBoundingClientRect(), c = chips.getBoundingClientRect();
+      if (a.left < c.left || a.right > c.right) chips.scrollLeft += a.left - c.left - 16;
+    }
     morph(seg, [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
   }
   const st = store.status(); $('#sync-dot').className = 'sync-dot' + (st === 'synced' ? ' on' : st === 'error' ? ' err' : '');
@@ -844,7 +866,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -860,6 +882,7 @@ document.addEventListener('click', e => {
     store.set(s => { (s.playerPicks || (s.playerPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
     ui.qinfo = false; playerQuizSheet(); return;
   }
+  if (t.dataset.more) { ui.more[t.dataset.more] = !ui.more[t.dataset.more]; render(); return; }
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }

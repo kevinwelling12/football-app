@@ -1,0 +1,52 @@
+[
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp"
+ },
+ {
+  "espn_id": "94",
+  "name": "Valencia",
+  "league": "esp"
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp"
+ },
+ {
+  "espn_id": "97",
+  "name": "Osasuna",
+  "league": "esp"
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp"
+ },
+ {
+  "espn_id": "103",
+  "name": "AC Milan",
+  "league": "ita"
+ },
+ {
+  "espn_id": "105",
+  "name": "Atalanta",
+  "league": "ita"
+ },
+ {
+  "espn_id": "107",
+  "name": "Bologna",
+  "league": "ita"
+ },
+ {
+  "espn_id": "109",
+  "name": "Fiorentina",
+  "league": "ita"
+ },
+ {
+  "espn_id": "111",
+  "name": "Juventus",
+  "league": "ita"
+ }
+]

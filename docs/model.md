@@ -3,9 +3,10 @@
 ## Data
 - ESPN scoreboard API, one request per match day, seasons 2016 on (`history/`). Per match: score, status, stage
   (post-season rounds), shots, shots on target, possession, odds when ESPN has them, TV.
-- 18 leagues: the 6 shown plus LaLiga, Serie A, Ligue 1, Primeira Liga, Eredivisie, Belgian Pro League, Scottish
-  Premiership, Süper Lig, Championship, 2. Bundesliga, Europa League and Conference League. The extra ones only feed
-  ratings: they put every Champions League club on one scale and give promoted clubs a real history.
+- 18 leagues: the 10 shown (Kevin's six plus La Liga, Serie A, Ligue 1 and the Championship, added 2026-10-13) plus
+  Primeira Liga, Eredivisie, Belgian Pro League, Scottish Premiership, Süper Lig, 2. Bundesliga, Europa League and
+  Conference League. The extra ones only feed ratings: they put every Champions League club on one scale and give
+  promoted clubs a real history.
 - Bookmaker odds: ESPN shows DraftKings (or bet365) before kickoff and drops them after; the sync keeps the last
   pre-match line. For backtests, closing odds come from football-data.co.uk (EPL, Bundesliga, MLS; no NWSL/USL source).
 - Not used: ClubElo (API unreachable on 2026-10-13; we compute our own Elo), Opta and FotMob (no free feed, no scraping).
@@ -46,10 +47,12 @@ fixtures (season odds), where no line exists yet.
 
 ## Simulations
 10,000 seasons in a Web Worker. Remaining matches are sampled from their grids; live matches from the current score plus
-a remaining-time grid (red cards: own rate ×0.67, opponent ×1.25 each). Tiebreakers per league (USL uses head-to-head in
-the table; the simulation approximates it with the later criteria). Post-season brackets: UCL (league phase, play-off
-pairings, two-legged ties with extra time and penalties, neutral final), MLS (wild card, best-of-three Round One, single
-matches after), NWSL (top 8), USL (top 8 per conference). Real post-season results are used once played.
+a remaining-time grid (red cards: own rate ×0.67, opponent ×1.25 each). Tiebreakers per league (USL, La Liga, Serie A and
+Ligue 1 use head-to-head in the table, La Liga/Serie A/Ligue 1 only once the tied clubs have played each other twice; the
+simulation approximates it with the later criteria; Serie A's one-off play-off for first or 17th isn't modelled).
+Post-season brackets: UCL (league phase, play-off pairings, two-legged ties with extra time and penalties, neutral
+final), MLS (wild card, best-of-three Round One, single matches after), NWSL (top 8), USL (top 8 per conference),
+Championship ('efl': 3 v 6 and 4 v 5 over two legs, neutral final; 'up' = top two plus the play-off winner). Real post-season results are used once played.
 
 ## Clinching
 Proven, never simulated. A quick bound first (rivals' maximum points), then an exact check over rival sets with a

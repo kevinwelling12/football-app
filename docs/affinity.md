@@ -12,7 +12,8 @@ the chance you'd pick the club over a typical one. "Your pull" = logistic(raw A 
 - Pushes (weights can't go above zero): state ownership (from the ownership note), a racism or fan-culture record
   (inclusion below 3 where the research found something; "nothing notable" doesn't count), rival of one of your clubs
   (data/affinity/rivals.json).
-- League familiarity (Bundesliga, other Champions League, MLS, NWSL, USL relative to the Premier League) is fitted so it
+- League familiarity (Bundesliga, La Liga, Serie A, Ligue 1, Championship, other Champions League, MLS, NWSL, USL
+  relative to the Premier League; a club counts for its domestic league, 'ucl' only for leagues the app doesn't show) is fitted so it
   doesn't leak into the traits, then left out of Affinity and the rooting guide.
 - Fit: regularised logistic regression on the picks; per-club adjustments kept small (ridge 2).
 

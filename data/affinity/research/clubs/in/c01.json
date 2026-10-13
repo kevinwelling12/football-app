@@ -1,0 +1,52 @@
+[
+ {
+  "espn_id": "101",
+  "name": "Rayo Vallecano",
+  "league": "esp"
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp"
+ },
+ {
+  "espn_id": "243",
+  "name": "Sevilla",
+  "league": "esp"
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp"
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp"
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp"
+ },
+ {
+  "espn_id": "87",
+  "name": "Racing Santander",
+  "league": "esp"
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp"
+ },
+ {
+  "espn_id": "89",
+  "name": "Real Sociedad",
+  "league": "esp"
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp"
+ }
+]

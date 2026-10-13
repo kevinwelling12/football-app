@@ -77,7 +77,10 @@ def main():
     for f in sorted(os.listdir(os.path.join(ROOT, 'web', 'data'))):
         if f == 'index.json' or not f.endswith('.json'):
             continue
-        for t in json.load(open(os.path.join(ROOT, 'web', 'data', f)))['teams']:
+        d = json.load(open(os.path.join(ROOT, 'web', 'data', f)))
+        if not isinstance(d, dict) or not isinstance(d.get('teams'), list):
+            continue  # traits, rivals, players: not league files
+        for t in d['teams']:
             ids[t['id']] = t['n']
     cleared, missing = [], []
     for tid, name in sorted(ids.items()):

@@ -1,0 +1,355 @@
+[
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp",
+  "terrace": 6,
+  "city": 10,
+  "voice": 10,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 8,
+  "stewardship": 10,
+  "women": 6,
+  "intensity": 6,
+  "why": {
+   "terrace": "San Mamés is loud and committed; ultras group Herri Norte known in Spain, not a world-famous end",
+   "city": "Bilbao and Basque identity are bound to the club",
+   "voice": "Member-owned, members elect the president; not a sports corporation",
+   "conscience": "Nothing notable found at San Mamés; Basque-only cantera and community foundation, players targeted away (Williams, Sannadi)",
+   "ground": "New San Mamés (2013), 53,289, the 'cathedral', usually near full",
+   "contender": "Copa del Rey 2024, Supercopas 2015 and 2021, Europa League final 2012; 12th in 2025-26",
+   "rituals": "Basque-only player policy, gabarra river celebration, 'Lehoiak'; known well beyond Spain",
+   "stewardship": "Members (president Jon Uriarte); president cannot invest own money",
+   "women": "Athletic Club Femenino: five league titles, Liga F, 4th in 2024-25",
+   "intensity": "Valverde-era high press and wing speed (Williams brothers); Edin Terzić now coach"
+  },
+  "ll": [
+   43.26,
+   -2.95
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Athletic_Bilbao",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ {
+  "espn_id": "94",
+  "name": "Valencia",
+  "league": "esp",
+  "terrace": 5,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 4,
+  "why": {
+   "terrace": "Organised Curva Nord at Mestalla, known in Spain",
+   "city": "The main club of Spain's third city, shared with Levante",
+   "voice": "Fan movement Libertad VCF and boycotts against the owner, no real power",
+   "conscience": "May 2023 racist abuse of Vinícius Jr at Mestalla: Mario Kempes stand closed, club fined (reduced on appeal)",
+   "ground": "Mestalla, 49,430, steep terracing, one of Europe's most intimidating; move to Nou Mestalla planned 2027",
+   "contender": "Copa del Rey 2019, final 2022; mid-table since (9th in 2025-26)",
+   "rituals": "Valencian-language pasodoble anthem, bat crest; known mostly in Spain",
+   "stewardship": "Peter Lim (Meriton Holdings) since 2014; heavy losses, long fan protests, son Kiat Lim president",
+   "women": "Valencia Femenino relegated from Liga F in 2025, promoted back for 2026-27",
+   "intensity": "Estimate: pragmatic, low-possession sides under recent coaches (Javier Aguirre now)"
+  },
+  "ll": [
+   39.47,
+   -0.36
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valencia_CF",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp",
+  "terrace": 4,
+  "city": 7,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 4,
+  "why": {
+   "terrace": "Ultras group Iraultza 1921 (left-wing), loud but small",
+   "city": "Vitoria-Gasteiz's football club, 'El Glorioso'; city also lives through Baskonia basketball",
+   "voice": "Private SAD; no documented fan influence found",
+   "conscience": "Estimate: no racism sanction found; Antiviolencia proposed a fine and closure over club support for the Iraultza 1921 ultras (murals), not for abuse",
+   "ground": "Mendizorrotza, 19,840, compact and central, opened 1924",
+   "contender": "Promoted 2023, 10th/15th/14th since; UEFA Cup final 2001 is the peak",
+   "rituals": "2001 UEFA Cup final run is the club's lore; little known beyond Spain",
+   "stewardship": "Baskonia-Alavés Group of José Antonio Querejeta, local owner who rebuilt the club",
+   "women": "Las Gloriosas won Primera Federación, back in Liga F for 2026-27",
+   "intensity": "Estimate: Quique Sánchez Flores, compact and defensive"
+  },
+  "ll": [
+   42.84,
+   -2.69
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Alav%C3%A9s",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ {
+  "espn_id": "97",
+  "name": "Osasuna",
+  "league": "esp",
+  "terrace": 6,
+  "city": 8,
+  "voice": 9,
+  "conscience": 5,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 9,
+  "women": 2,
+  "intensity": 5,
+  "why": {
+   "terrace": "Indar Gorri behind the goal, one of Spain's loudest groups",
+   "city": "Pamplona's and Navarre's club, Basque name ('health')",
+   "voice": "Member-owned, members elect the president; one of four non-SAD clubs",
+   "conscience": "No recent racism sanction found (club denied 2024 Vinícius claim; antisemitic-chant fine is a decade old); Indar Gorri left-leaning",
+   "ground": "El Sadar, 23,516, rebuilt 2021, steep and close, famously loud",
+   "contender": "Copa del Rey final 2023, 7th that season; 17th in 2025-26, never won a major trophy",
+   "rituals": "'Rojillos', Navarre identity, El Sadar noise known in Spain",
+   "stewardship": "Members; past 2013 match-fixing case (CAS restored 2023 Conference League place)",
+   "women": "Estimate: Osasuna Femenino outside the top tier",
+   "intensity": "Estimate: direct, physical, aggressive pressing under Arrasate; mixed since"
+  },
+  "ll": [
+   42.8,
+   -1.64
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CA_Osasuna"
+  ]
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 1,
+  "women": 2,
+  "intensity": 5,
+  "why": {
+   "terrace": "Estimate: organised ultras section, known locally",
+   "city": "Málaga's main club, strong local following through lower divisions",
+   "voice": "Estimate: fan protests against Al Thani; club run by a court administrator, not fans",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "La Rosaleda, 30,044, well filled even in third tier",
+   "contender": "Promoted to La Liga 2026 via play-offs; CL quarter-final 2013 is the peak",
+   "rituals": "Little known beyond Spain",
+   "stewardship": "Sheikh Abdullah Al Thani (private investor) barred by a judge since 2020; court administrator José María Muñoz; 2026 arrest warrant over club funds",
+   "women": "Estimate: women's side below the top tier",
+   "intensity": "Estimate: Juan Francisco Funes, mixed"
+  },
+  "ll": [
+   36.73,
+   -4.43
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/M%C3%A1laga_CF"
+  ]
+ },
+ {
+  "espn_id": "103",
+  "name": "AC Milan",
+  "league": "ita",
+  "terrace": 8,
+  "city": 6,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 7,
+  "rituals": 7,
+  "stewardship": 1,
+  "women": 5,
+  "intensity": 5,
+  "why": {
+   "terrace": "Curva Sud Milano, big choreographies, famous beyond Italy; Fossa dei Leoni was Italy's first ultras group",
+   "city": "Shares Milan with Inter; big-city club",
+   "voice": "Curva and fan protests against the owners, no formal power",
+   "conscience": "Curva Sud leaders (Luca Lucci and others) convicted in 2025 'Doppia Curva' case: criminal association, attempted murder",
+   "ground": "San Siro, ~75,800, iconic and usually busy; shared, replacement planned",
+   "contender": "Scudetto 2022, Supercoppa 2025; 8th 2024-25, 5th 2025-26",
+   "rituals": "Curva Sud tifos, 'Milan Milan', red and black; known worldwide",
+   "stewardship": "RedBird Capital Partners (private equity), 99.93%",
+   "women": "Milan Women in Serie A Femminile",
+   "intensity": "Mixed: Allegri cautious; Ruben Amorim coach from June 2026"
+  },
+  "ll": [
+   45.48,
+   9.12
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Milan"
+  ]
+ },
+ {
+  "espn_id": "105",
+  "name": "Atalanta",
+  "league": "ita",
+  "terrace": 8,
+  "city": 9,
+  "voice": 3,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 1,
+  "intensity": 8,
+  "why": {
+   "terrace": "Curva Nord 1907 (Curva Pisani), one of Italy's best-known ultras ends",
+   "city": "Bergamo lives through La Dea; every newborn gets a shirt",
+   "voice": "Club close to its supporters (Festa della Dea), no formal fan power",
+   "conscience": "May 2023: Curva Nord closed for racist chants at Vlahovic; club and ultras punished several times for violence or racism",
+   "ground": "Gewiss Stadium / New Balance Arena, ~25,000, club-owned, rebuilt and close to the pitch",
+   "contender": "Europa League 2024, regular Champions League; 7th in 2025-26",
+   "rituals": "Neonati Atalantini, Christmas Match charity kits, Festa della Dea; known in Italy",
+   "stewardship": "La Dea: Stephen Pagliuca-led US consortium 55%, Percassi family (local, president) 45%",
+   "women": "Estimate: no top-tier women's team",
+   "intensity": "Gasperini's man-to-man pressing defined 2016-25; Sarri now"
+  },
+  "ll": [
+   45.71,
+   9.68
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atalanta_BC"
+  ]
+ },
+ {
+  "espn_id": "107",
+  "name": "Bologna",
+  "league": "ita",
+  "terrace": 6,
+  "city": 8,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 7,
+  "why": {
+   "terrace": "Curva Bulgarelli, organised and loud, known in Italy",
+   "city": "Bologna's only big club, strong local identity",
+   "voice": "No documented fan influence on decisions",
+   "conscience": "Nothing notable found recently (ultras cleared in Kean case); stand dedicated to Árpád Weisz, Jewish coach killed at Auschwitz",
+   "ground": "Stadio Renato Dall'Ara (1927), ~36,500, historic, well filled lately",
+   "contender": "Coppa Italia 2025, Champions League 2024-25; 8th in 2025-26",
+   "rituals": "Rossoblù tradition, little known beyond Italy",
+   "stewardship": "Joey Saputo (BFC 1909 Lux), president since 2014; also owns CF Montréal",
+   "women": "Estimate: women's team below Serie A",
+   "intensity": "Front-foot, pressing teams under Thiago Motta and Italiano; Palladino now"
+  },
+  "ll": [
+   44.49,
+   11.31
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bologna_FC_1909"
+  ]
+ },
+ {
+  "espn_id": "109",
+  "name": "Fiorentina",
+  "league": "ita",
+  "terrace": 7,
+  "city": 9,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 4,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 6,
+  "intensity": 5,
+  "why": {
+   "terrace": "Curva Fiesole, famous in Italy for choreographies",
+   "city": "Florence's club, viola identity across the city",
+   "voice": "No documented fan influence on decisions",
+   "conscience": "Nov 2023: Curva Fiesole closure (suspended) for racist chants at Kean and McKennie and chants at Vlahovic",
+   "ground": "Stadio Artemio Franchi, 43,147, under long renovation with reduced capacity",
+   "contender": "Conference League finals 2023 and 2024; 15th in 2025-26",
+   "rituals": "Viola colours, links to Calcio Fiorentino; known in Italy",
+   "stewardship": "Commisso family (Mediacom); Rocco died Jan 2026, son Giuseppe president; built Viola Park",
+   "women": "Fiorentina Women: Serie A title 2017, regular top-tier side",
+   "intensity": "Estimate: Italiano's pressing up to 2024, mixed since (Vanoli now)"
+  },
+  "ll": [
+   43.78,
+   11.28
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ACF_Fiorentina"
+  ]
+ },
+ {
+  "espn_id": "111",
+  "name": "Juventus",
+  "league": "ita",
+  "terrace": 5,
+  "city": 4,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 7,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 7,
+  "intensity": 5,
+  "why": {
+   "terrace": "Curva Sud organised but not a defining end",
+   "city": "Support is national (Italy's most supported club); Turin also has Torino",
+   "voice": "Listed company controlled by Exor; no fan influence",
+   "conscience": "April 2023 racist abuse of Lukaku: 171 fans banned (DASPO); stand closure annulled on appeal",
+   "ground": "Allianz Stadium (2011), 41,507, steep and close, usually full",
+   "contender": "Nine straight titles 2012-20, Coppa Italia 2024; 6th in 2025-26",
+   "rituals": "Bianconeri, 'Storia di un grande amore'; widely known",
+   "stewardship": "Agnelli family through Exor since 1923; Calciopoli and 2023 accounts case (UEFA settlement)",
+   "women": "Juventus Women: several Serie A titles, top-tier force",
+   "intensity": "Mostly cautious under Allegri; Motta, Tudor, now Spalletti"
+  },
+  "ll": [
+   45.11,
+   7.64
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juventus_FC"
+  ]
+ }
+]

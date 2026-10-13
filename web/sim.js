@@ -29,15 +29,20 @@ export function addResult(T, m, hs = m.hs, as = m.as) {
 }
 export const sortKey = (r, tb) => tb.reduce((k, c) => k * 1024 + (c === 'gd' ? r.gd + 512 : c === 'h2h' ? (r.h2h || 0) : r[c]), 0);
 
-// Head-to-head points and goal difference among clubs level on points (for leagues that list 'h2h').
-function h2hKeys(rows, matches) {
-  const byPts = new Map(); for (const r of rows) (byPts.get(r.pts) || byPts.set(r.pts, []).get(r.pts)).push(r);
+// Head-to-head points and goal difference among clubs level on everything before 'h2h' in the tiebreak order
+// (points, or points and goal difference). complete: only once every match between the tied clubs is played
+// (La Liga, Serie A, Ligue 1); until then it is skipped and the next criterion decides.
+function h2hKeys(rows, matches, tb, complete = false) {
+  const before = tb.slice(0, tb.indexOf('h2h')), tieKey = r => before.map(c => r[c]).join('|');
+  const ties = new Map(); for (const r of rows) { const k = tieKey(r); (ties.get(k) || ties.set(k, []).get(k)).push(r); }
   for (const r of rows) r.h2h = 0;
-  for (const tied of byPts.values()) {
+  for (const tied of ties.values()) {
     if (tied.length < 2) continue;
     const set = new Set(tied.map(r => r.i)), mini = new Map(tied.map(r => [r.i, { p: 0, gd: 0 }]));
-    for (const m of matches) {
-      if (!isPlayed(m) || !set.has(m.h) || !set.has(m.a)) continue;
+    const mutual = matches.filter(m => m.st !== 'canc' && set.has(m.h) && set.has(m.a));
+    if (complete && mutual.some(m => !isPlayed(m))) continue;
+    for (const m of mutual) {
+      if (!isPlayed(m)) continue;
       const H = mini.get(m.h), A = mini.get(m.a); H.gd += m.hs - m.as; A.gd += m.as - m.hs;
       if (m.hs > m.as) H.p += 3; else if (m.hs < m.as) A.p += 3; else { H.p++; A.p++; }
     }
@@ -50,7 +55,7 @@ export function standings(L, matches, rules) {
   for (const m of regular(matches)) if (isPlayed(m)) addResult(T, m);
   for (const a of L.adjust || []) { T[a.i].pts += a.pts; T[a.i].adj = (T[a.i].adj || 0) + a.pts; }
   const groups = groupsOf(L, rules);
-  if (rules.tiebreak.includes('h2h')) for (const g of groups) h2hKeys(g.idx.map(i => T[i]), regular(matches));
+  if (rules.tiebreak.includes('h2h')) for (const g of groups) h2hKeys(g.idx.map(i => T[i]), regular(matches), rules.tiebreak, rules.h2hComplete);
   const key = r => sortKey(r, rules.tiebreak);
   for (const g of groups) {
     const rows = g.idx.map(i => T[i]).sort((x, y) => key(y) - key(x) || L.teams[x.i].n.localeCompare(L.teams[y.i].n));
@@ -183,6 +188,14 @@ function bracket(type, L, r, seeds, pts, matches) {
     const sf = [0, 2].map(j => { const [x, y] = pick2(qf[j], qf[j + 1]); return play(x, y, () => twoLegs(L, r, x, y, base)); });
     mark('final', sf);
     mark('champ', [play(sf[0], sf[1], () => koMatch(L, r, sf[0], sf[1], true, base))]);
+  } else if (type === 'efl') {
+    // EFL Championship: top two go up; 3rd v 6th and 4th v 5th over two legs (higher place at home second), then a
+    // final at Wembley. 'champ' = play-off winner, 'up' = the three promoted clubs.
+    const s = seeds[0];
+    const sf = [play(s[5], s[2], () => twoLegs(L, r, s[5], s[2], L.base)), play(s[4], s[3], () => twoLegs(L, r, s[4], s[3], L.base))];
+    mark('sf', s.slice(2, 6)); mark('final', sf);
+    const w = play(sf[0], sf[1], () => koMatch(L, r, sf[0], sf[1], true));
+    mark('champ', [w]); mark('up', [s[0], s[1], w]);
   }
   return out;
 }
@@ -210,7 +223,9 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
   const key = new Float64Array(N);
   // match importance: for each remaining match, how often each side lands in each zone (and wins the title/cup)
   // given home win / draw / away win. Stakes = how far a result moves those chances.
-  const ZK = [...rules.zones.map(z => z.key), ...(rules.playoffs ? ['champ'] : [])], Z = ZK.length;
+  // the post-season outcome that matters most: winning it ('champ'), or promotion in the Championship ('up')
+  const OUT = rules.playoffs?.outcome || 'champ';
+  const ZK = [...rules.zones.map(z => z.key), ...(rules.playoffs ? [OUT] : [])], Z = ZK.length;
   const inZ = new Uint8Array(Z * N), res = new Int8Array(rem.length);
   const cond = rem.map(() => new Float64Array(3 * 2 * Z));
   for (let s = 0; s < sims; s++) {
@@ -241,7 +256,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
     if (rules.playoffs) {
       const b = bracket(rules.playoffs.type, L, r, rules.groups ? seeds : [all], pts, matches);
       for (const k in b) { const a = rounds[k] || (rounds[k] = new Float64Array(N)); for (const t of b[k]) a[t]++; }
-      for (const t of b.champ || []) inZ[(Z - 1) * N + t] = 1;
+      for (const t of b[OUT] || []) inZ[(Z - 1) * N + t] = 1;
     }
     for (let j = 0; j < rem.length; j++) {
       const c = cond[j], o = res[j] * 2 * Z, h = rem[j].h, a = rem[j].a;
@@ -257,7 +272,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
   }));
   for (const t of teams) t.avgPos = t.pos.reduce((s, p, k) => s + p * k, 0);
   const W8 = { gold: 1, good: 0.8, ok: 0.6, warn: 0.5, bad: 0.8 };
-  const weight = k => (k === 'champ' ? 1 : W8[rules.zones.find(z => z.key === k).tone] ?? 0.6);
+  const weight = k => (k === OUT ? 1 : W8[rules.zones.find(z => z.key === k).tone] ?? 0.6);
   const fixtures = rem.map((m, j) => {
     const rc = resultCount[j], c = cond[j], swings = [];
     let imp = 0;

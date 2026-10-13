@@ -1,0 +1,356 @@
+[
+ {
+  "espn_id": "112",
+  "name": "Lazio",
+  "league": "ita",
+  "terrace": 6,
+  "city": 5,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 5,
+  "why": {
+   "terrace": "Curva Nord, long led by the Irriducibili (disbanded 2019); loud and organised, known across Italy",
+   "city": "Shares Rome with Roma, the larger local following",
+   "voice": "No formal fan ownership or trust; Curva holds informal sway only",
+   "conscience": "UEFA fine for racism and fascist salutes (2020), antisemitic derby chants (2023), Curva Nord closed for racist chants at Lukaku (2024), Munich fascist salutes (2024), ultras attack on Real Sociedad fans (2025)",
+   "ground": "Stadio Olimpico, 70,634-seat athletics bowl shared with Roma; Flaminio renovation planned for 2029",
+   "contender": "Coppa Italia 2013 and 2019, Supercoppa 2017 and 2019, Serie A runners-up 2023; 9th in 2025-26",
+   "rituals": "Eagle symbol and flight before matches, retired number 12 for the Curva Nord",
+   "stewardship": "Claudio Lotito (Lazio Events, 66.7%), long-term private owner, frequent fan protests",
+   "women": "Lazio Women in top-tier Serie A Women 2025-26",
+   "intensity": "Gattuso since 2025; mixed, estimate"
+  },
+  "ll": [
+   41.93,
+   12.45
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SS_Lazio",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ {
+  "espn_id": "113",
+  "name": "Lecce",
+  "league": "ita",
+  "terrace": 5,
+  "city": 8,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 5,
+  "why": {
+   "terrace": "Ultras in the Curva Nord, the core of the support, often sold out; known in Serie A",
+   "city": "Only big club of Lecce and the Salento; record 21,726 season tickets in 2024-25",
+   "voice": "Ultras protests (ticket prices) but no formal fan power",
+   "conscience": "Nothing notable found since 2019; no documented inclusion work found, estimate",
+   "ground": "Via del Mare, 31,533, averaging about 26,000 (routinely near full)",
+   "contender": "Serie B champions 2022; 17th in Serie A in 2024-25 and 2025-26",
+   "rituals": "Anthem 'Giallorossi per Sempre', Derby di Puglia with Bari",
+   "stewardship": "Saverio Sticchi Damiani, local majority owner and president; Alvin Sariaatmadja minority",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Di Francesco, front-foot but limited; estimate"
+  },
+  "ll": [
+   40.37,
+   18.21
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Lecce"
+  ]
+ },
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 4.5,
+  "intensity": 5,
+  "why": {
+   "terrace": "Boys Parma (1977) in the Curva Nord; fans described as placid",
+   "city": "The city's only major club, tied to its ducal identity",
+   "voice": "Fan-funded refoundation in 2015 (Parma Partecipazioni Calcistiche), since sold to Krause; organised fan clubs",
+   "conscience": "Nothing notable found since 2019; Curva named after a fan killed in 2008, estimate",
+   "ground": "Stadio Ennio Tardini, 27,906, central, home since 1923",
+   "contender": "Promoted 2024; 16th in 2024-25, 13th in 2025-26; European honours are from the 1990s",
+   "rituals": "Crusader white shirt with black cross, anthem 'Il grido di battaglia', number 12 for the fans",
+   "stewardship": "Krause Group (Kyle Krause, Iowa family business, owner since 2020), long-term investment, no major issues",
+   "women": "Parma women promoted to Serie A Women 2025-26",
+   "intensity": "Mixed, mid-table; estimate"
+  },
+  "ll": [
+   44.79,
+   10.34
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parma_Calcio_1913",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita",
+  "terrace": 4,
+  "city": 7,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 5,
+  "why": {
+   "terrace": "Curva Nord ultras, organised but not prominent beyond Serie A; estimate",
+   "city": "Main club of Udine and Friuli, Friulian identity",
+   "voice": "Fan campaigns on the Friulian eagle on the badge; no formal power",
+   "conscience": "Racist abuse of Maignan (Jan 2024) led to a stadium closure, cut to partial closures on appeal; ultras attacked a train of Venezia fans (Feb 2025)",
+   "ground": "Stadio Friuli (Bluenergy Stadium), 25,132, rebuilt 2016 as a modern compact ground",
+   "contender": "Long run in Serie A, mid- to lower-table; 10th in 2025-26",
+   "rituals": "Anthem 'Vinci per noi', former anthem chorus sung by fans",
+   "stewardship": "Pozzo family (Gesapar) since 1986, also owned Watford (multi-club); repeated sale talks with US funds in 2025",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Runjaic, physical and mixed; estimate"
+  },
+  "ll": [
+   46.08,
+   13.2
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Udinese_Calcio"
+  ]
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita",
+  "terrace": 4,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 1.5,
+  "intensity": 6,
+  "why": {
+   "terrace": "Curva Sud ultras of Venice and Mestre (the 'Unione'); scarf mosaic before matches",
+   "city": "The city's club but Venice's identity is not football; merged with Mestre in 1987",
+   "voice": "No formal fan power; ownership is a US investor group",
+   "conscience": "Nothing notable found since 2019; older far-right banner (2013) by a fringe group; club-led community work, estimate",
+   "ground": "Stadio Penzo, Italy's second-oldest ground, on Sant'Elena island, reached by boat; small (listed 12,048); move to Tessera planned after 2026-27",
+   "contender": "Relegated 2025, Serie B champions 2025-26",
+   "rituals": "Boat arrivals and gondola promotion parades on the Grand Canal; much-noted kits",
+   "stewardship": "VFC Newco 2023 LLC, US investors (Leiweke, Bodie, McDonald), raised EUR 100m in 2026",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Stroppa's attacking side won Serie B; estimate"
+  },
+  "ll": [
+   45.43,
+   12.36
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venezia_FC"
+  ]
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita",
+  "terrace": 6,
+  "city": 6,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 8,
+  "stewardship": 3,
+  "women": 1.5,
+  "intensity": 4.5,
+  "why": {
+   "terrace": "Curva Maratona, organised and well known in Italy; repeated protest boycotts",
+   "city": "Shares Turin with Juventus but claims the city's working-class, local identity",
+   "voice": "Sustained Curva campaigns against Cairo, no formal power; DASPO bans after protests",
+   "conscience": "Nothing notable found for racism since 2019; protest-related DASPO bans only, estimate",
+   "ground": "Stadio Olimpico Grande Torino, 27,958, athletics track removed; estimate",
+   "contender": "Last title 1976, last cup 1993; 11th in 2024-25, 12th in 2025-26",
+   "rituals": "Grande Torino and the Superga disaster (4 May 1949) remembered every year, recognised worldwide",
+   "stewardship": "Urbano Cairo (UT Communication) since 2005; long fan opposition over lack of ambition",
+   "women": "Women's side not part of the club (Torino Women ASD is separate), estimate",
+   "intensity": "Mixed, frequent coach changes (D'Aversa, Abate); estimate"
+  },
+  "ll": [
+   45.04,
+   7.65
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torino_FC"
+  ]
+ },
+ {
+  "espn_id": "2925",
+  "name": "Cagliari",
+  "league": "ita",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 1,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 4.5,
+  "why": {
+   "terrace": "Curva Nord ultras (Sconvolts), organised and loud; estimate",
+   "city": "Sardinia's club; badge carries the Sardinian flag, nickname Isolani",
+   "voice": "No formal fan power; estimate",
+   "conscience": "No sanctions since 2019; racist chants at Lukaku, Kean and Matuidi (2017-19) went unpunished",
+   "ground": "Unipol Domus, 16,416 temporary venue next to the demolished Sant'Elia; new stadium pending",
+   "contender": "Relegated 2022, back 2023; 14th-16th since; 1970 title is far back",
+   "rituals": "Riva and the 1970 title, Sardinian identity; well known in Italy",
+   "stewardship": "Tommaso Giulini (Fluorsid) since 2014, Sardinian industrialist, no major issues",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Pisacane, cautious survival football; estimate"
+  },
+  "ll": [
+   39.2,
+   9.14
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cagliari_Calcio"
+  ]
+ },
+ {
+  "espn_id": "3263",
+  "name": "Genoa",
+  "league": "ita",
+  "terrace": 8,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 1,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 5.5,
+  "why": {
+   "terrace": "Gradinata Nord, among Italy's most renowned singing ends; number 12 retired for it",
+   "city": "Shares Genoa with Sampdoria; Italy's oldest club and a deep local bond",
+   "voice": "No formal fan power; estimate",
+   "conscience": "Derby violence with Sampdoria (Sept 2024, 50+ injured) led to a closed-doors match and away bans; objects thrown vs Como fined (2024)",
+   "ground": "Luigi Ferraris (Marassi), 33,205, English-style, steep, tight to the pitch, home since 1911",
+   "contender": "Relegated 2022, back 2023; 16th in 2025-26; last title 1924",
+   "rituals": "Founded 1893 by Englishmen, Derby della Lanterna, Gradinata Nord choreographies",
+   "stewardship": "Dan Sucu (Romanian businessman, also owns Rapid Bucharest) since 2024 after 777 Partners",
+   "women": "Genoa women promoted to Serie A Women 2025-26, relegated last",
+   "intensity": "De Rossi, energetic; estimate"
+  },
+  "ll": [
+   44.42,
+   8.95
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Genoa_CFC",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 2,
+  "contender": 2,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 5,
+  "intensity": 6,
+  "why": {
+   "terrace": "Small following, no notable singing end; estimate",
+   "city": "Town club of 40,000 playing in Reggio Emilia, little local bond beyond Sassuolo",
+   "voice": "Company-run, no fan role",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "Mapei Stadium in Reggio Emilia, 21,584, shared with Reggiana, often sparse",
+   "contender": "Relegated 2024, Serie B champions 2025, 11th in 2025-26",
+   "rituals": "Black and green; little tradition",
+   "stewardship": "Mapei S.p.A. (Squinzi family company), corporate patron, stable",
+   "women": "Sassuolo women in top-tier Serie A Women",
+   "intensity": "Attack-minded possession identity since De Zerbi; estimate"
+  },
+  "ll": [
+   44.71,
+   10.65
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Sassuolo_Calcio",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ {
+  "espn_id": "4007",
+  "name": "Monza",
+  "league": "ita",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 1,
+  "intensity": 6,
+  "why": {
+   "terrace": "Curva Sud (Gioventu Brianzola, S.A.B.), organised but small",
+   "city": "Monza's club, in Milan's shadow",
+   "voice": "Fan clubs united since 2022; no formal power",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "Stadio Brianteo (U-Power), 17,102, modest crowds; estimate",
+   "contender": "Relegated 2025, promoted via play-offs 2026",
+   "rituals": "Iron Crown badge, anthem 'Monza Ale'",
+   "stewardship": "Beckett Layne Ventures, US investment firm (bought from Fininvest 2025-26)",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Juric, man-marking high press; estimate"
+  },
+  "ll": [
+   45.58,
+   9.31
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Monza"
+  ]
+ }
+]

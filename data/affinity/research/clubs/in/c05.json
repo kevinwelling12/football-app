@@ -1,0 +1,52 @@
+[
+ {
+  "espn_id": "2697",
+  "name": "Le Mans",
+  "league": "fra"
+ },
+ {
+  "espn_id": "273",
+  "name": "Lorient",
+  "league": "fra"
+ },
+ {
+  "espn_id": "3236",
+  "name": "Le Havre AC",
+  "league": "fra"
+ },
+ {
+  "espn_id": "6851",
+  "name": "Paris FC",
+  "league": "fra"
+ },
+ {
+  "espn_id": "6997",
+  "name": "Brest",
+  "league": "fra"
+ },
+ {
+  "espn_id": "7868",
+  "name": "Angers",
+  "league": "fra"
+ },
+ {
+  "espn_id": "314",
+  "name": "Lincoln City",
+  "league": "eng2"
+ },
+ {
+  "espn_id": "318",
+  "name": "Swansea City",
+  "league": "eng2"
+ },
+ {
+  "espn_id": "333",
+  "name": "Bristol City",
+  "league": "eng2"
+ },
+ {
+  "espn_id": "334",
+  "name": "Queens Park Rangers",
+  "league": "eng2"
+ }
+]

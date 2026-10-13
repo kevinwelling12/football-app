@@ -1,0 +1,52 @@
+[
+ {
+  "espn_id": "112",
+  "name": "Lazio",
+  "league": "ita"
+ },
+ {
+  "espn_id": "113",
+  "name": "Lecce",
+  "league": "ita"
+ },
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita"
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita"
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita"
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita"
+ },
+ {
+  "espn_id": "2925",
+  "name": "Cagliari",
+  "league": "ita"
+ },
+ {
+  "espn_id": "3263",
+  "name": "Genoa",
+  "league": "ita"
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita"
+ },
+ {
+  "espn_id": "4007",
+  "name": "Monza",
+  "league": "ita"
+ }
+]

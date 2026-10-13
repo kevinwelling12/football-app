@@ -1,0 +1,358 @@
+[
+ {
+  "espn_id": "101",
+  "name": "Rayo Vallecano",
+  "league": "esp",
+  "terrace": 7,
+  "city": 7,
+  "voice": 3,
+  "conscience": 8,
+  "ground": 7,
+  "contender": 4.5,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 7,
+  "why": {
+   "terrace": "Bukaneros: organised anti-fascist ultras end, known well beyond La Liga",
+   "city": "The club of Vallecas, a working-class Madrid barrio that identifies with it; shares Madrid with two giants",
+   "voice": "No ownership; fan campaigns (Zozulya 2017, protests against owner and stadium neglect) have pressured the club",
+   "conscience": "Fans campaign against racism, fascism and homophobia; 2019 'Nazi' chant sanction and 2026 UEFA fireworks fines, nothing racist found",
+   "ground": "Vallecas (14,708): tight, old, in the barrio, loud; run-down, briefly shut over safety in 2025",
+   "contender": "8th and 8th in La Liga 2024-26; 2026 Conference League runners-up",
+   "rituals": "Diagonal red stripe, Bukaneros songs and political banners, 'No pasarán' known in Spain",
+   "stewardship": "Raúl Martín Presa, private owner in long open conflict with fans over neglect of stadium and club",
+   "women": "Rayo Femenino were Spanish champions 2009-11 but neglected and out of the top tier (estimate)",
+   "intensity": "Iraola and Íñigo Pérez built a pressing, high-tempo side; Beñat San José now coach"
+  },
+  "ll": [
+   40.39,
+   -3.66
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayo_Vallecano"
+  ]
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp",
+  "terrace": 4,
+  "city": 5,
+  "voice": 6,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 5,
+  "why": {
+   "terrace": "Organised home end known locally, not beyond Spain (estimate)",
+   "city": "Valencia's second club, rooted in Orriols/Camins al Grau; lives in Valencia CF's shadow",
+   "voice": "S.A.D. with shares largely held by the club foundation and small shareholders after 2010s rescue (estimate)",
+   "conscience": "Nothing notable found; ordinary community work (estimate)",
+   "ground": "Ciutat de València (26,354): compact, decent atmosphere, not always full",
+   "contender": "16th in La Liga 2025-26 after promotion as Segunda champions 2025",
+   "rituals": "'Granotes' identity; little known beyond Spain",
+   "stewardship": "President Pablo Sánchez; foundation/small-shareholder model, no outside investor found (estimate)",
+   "women": "Levante Femenino: four league titles and six cups, relegated from Liga F in 2026",
+   "intensity": "Luís Castro coach; mixed, survival-first style (estimate)"
+  },
+  "ll": [
+   39.49,
+   -0.36
+  ],
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levante_UD",
+   "https://en.wikipedia.org/wiki/Levante_UD_Femenino"
+  ]
+ },
+ {
+  "espn_id": "243",
+  "name": "Sevilla",
+  "league": "esp",
+  "terrace": 7,
+  "city": 6,
+  "voice": 3,
+  "conscience": 2.5,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 7,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 4,
+  "why": {
+   "terrace": "Biris Norte: large, loud ultras end, well known across Spain",
+   "city": "Huge local passion, but shares Seville equally with Real Betis",
+   "voice": "Accionistas Unidos minor-shareholder group active in boardroom fights; little real power",
+   "conscience": "UEFA fined Sevilla in Dec 2022 for fans' racist abuse of Man City's Rico Lewis (suspended partial closure)",
+   "ground": "Ramón Sánchez-Pizjuán (~43,000): steep, intimidating, in Nervión",
+   "contender": "Record seven Europa Leagues (latest 2023), but 13th in 2025-26 and recent relegation fights",
+   "rituals": "El Arrebato's centenary anthem sung a cappella, famous across Europe",
+   "stewardship": "Fragmented shareholders (del Nido, Carrión, A-CAP after 777 Partners); sale of ~80% to Five Eleven Capital/Sergio Ramos agreed May 2026",
+   "women": "Sevilla women in Liga F, mid-table (estimate)",
+   "intensity": "Luis García Plaza coach; struggling, reactive recent seasons (estimate)"
+  },
+  "ll": [
+   37.38,
+   -5.97
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sevilla_FC"
+  ]
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp",
+  "terrace": 2,
+  "city": 4,
+  "voice": 1,
+  "conscience": 1.5,
+  "ground": 3,
+  "contender": 3,
+  "rituals": 1,
+  "stewardship": 5.5,
+  "women": 1,
+  "intensity": 5,
+  "why": {
+   "terrace": "Small ultras group (Comandos Azules); quiet home ends",
+   "city": "Suburban town club (founded 1983) south of Madrid; many locals follow Real or Atlético",
+   "voice": "Owner-run; 18 peñas and 12,000 socios with no real say",
+   "conscience": "RFEF ordered a three-match partial stand closure (April 2024) for racist abuse of Sevilla's Acuña and Sánchez Flores",
+   "ground": "Coliseum (16,500): small, often far from full except big matches",
+   "contender": "7th in 2025-26 (Conference League); otherwise mid-to-low table; 2007 and 2008 Copa finalists",
+   "rituals": "Gathering at the Cibelina statue; little known beyond the town",
+   "stewardship": "Ángel Torres, local businessman, owner and president since 2002",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "Bordalás: aggressive, physical and direct, but low-possession and stoppage-heavy"
+  },
+  "ll": [
+   40.33,
+   -3.71
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Getafe_CF",
+   "https://www.espn.com/soccer/story/_/id/39865322/getafe-get-3-game-partial-stadium-ban-racist-insults"
+  ]
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp",
+  "terrace": 3,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 1,
+  "intensity": 7,
+  "why": {
+   "terrace": "Organised home end known locally (estimate)",
+   "city": "Elche's only professional club; a mid-sized working city (estimate)",
+   "voice": "Private owner; no documented fan power (estimate)",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Martínez Valero (33,732): large bowl, moderately filled",
+   "contender": "15th in 2025-26 after promotion; relegated 2023",
+   "rituals": "Few traditions known outside the region (estimate)",
+   "stewardship": "Christian Bragarnik, Argentine football agent; agent-owner conflict of interest",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "Martín Anselmi: front-foot back three, high press; Sarabia before him was also attacking"
+  },
+  "ll": [
+   38.27,
+   -0.66
+  ],
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elche_CF"
+  ]
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 1.5,
+  "intensity": 8,
+  "why": {
+   "terrace": "Celtarras (left-wing Galician ultras) plus wider Marea Celeste support; known in Spain",
+   "city": "Vigo's only big club, an industrial port city with strong Galician identity",
+   "voice": "Mouriño family holds 67.9%; fans have little formal say",
+   "conscience": "Celtarras left-wing; first woman president (Marián Mouriño); nothing notable found on sanctions",
+   "ground": "Balaídos (24,870): rebuilt, steep stands, well filled in recent seasons",
+   "contender": "7th then 6th; Europa League quarter-final 2026",
+   "rituals": "Galician songs and sky-blue identity; known within Spain (estimate)",
+   "stewardship": "Carlos Mouriño (Spanish-Mexican businessman) since 2006; long-term, academy-first under Giráldez",
+   "women": "Celta women outside Liga F (estimate)",
+   "intensity": "Claudio Giráldez: high pressing, attacking, young homegrown side"
+  },
+  "ll": [
+   42.21,
+   -8.74
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
+  ]
+ },
+ {
+  "espn_id": "87",
+  "name": "Racing Santander",
+  "league": "esp",
+  "terrace": 4,
+  "city": 8,
+  "voice": 3,
+  "conscience": 3.5,
+  "ground": 6.5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 7,
+  "why": {
+   "terrace": "Organised home support known in Spain's lower tiers (estimate)",
+   "city": "Santander and Cantabria's only big club; strong regional identity",
+   "voice": "Fan pressure during the 2013-14 crisis (president ousted); no formal power since (estimate)",
+   "conscience": "2026 anti-violence commission proposed a ground closure (details unconfirmed); nothing racist found",
+   "ground": "El Sardinero (22,222): near the beach, full in the 2025-26 promotion season (estimate)",
+   "contender": "Promoted as Segunda champions 2026; third tier in 2021-22",
+   "rituals": "Few traditions known outside Spain (estimate)",
+   "stewardship": "Sebastián Ceria, Santander-born businessman; no major issues found",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "José Alberto López: possession and attacking football, top scorers in Segunda (estimate)"
+  },
+  "ll": [
+   43.48,
+   -3.79
+  ],
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racing_de_Santander"
+  ]
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp",
+  "terrace": 4,
+  "city": 3,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 4,
+  "why": {
+   "terrace": "Curva end; historic far-right Brigadas Blanquiazules; known locally",
+   "city": "Barcelona's second club, moved to suburban Cornellà-El Prat in 2009",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Feb 2025 match halted for racist abuse of Sannadi; Espanyol fan convicted in 2025 for abusing Williams (2020)",
+   "ground": "RCDE Stadium (40,000): modern, steep, out of town, often not full",
+   "contender": "11th in 2025-26; relegated 2020 and 2023",
+   "rituals": "Anthem and Sarrià nostalgia; little known abroad",
+   "stewardship": "Velocity Sports Partners (Alan Pace, US investment, Burnley owner) since Oct 2025; multi-club link",
+   "women": "Espanyol women: former league and six-time cup winners, in and around Liga F (estimate)",
+   "intensity": "Manolo González: compact, pragmatic, counter-attacking"
+  },
+  "ll": [
+   41.35,
+   2.08
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RCD_Espanyol",
+   "https://www.si.com/soccer/2020/01/28/inaki-williams-racism-espanyol-fans-athletic-bilbao",
+   "https://global.espn.com/football/story/_/id/43874206/espanyol-vs-athletic-club-marred-maroan-sannadi-racist-abuse"
+  ]
+ },
+ {
+  "espn_id": "89",
+  "name": "Real Sociedad",
+  "league": "esp",
+  "terrace": 5,
+  "city": 8,
+  "voice": 4,
+  "conscience": 6,
+  "ground": 7.5,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 7,
+  "why": {
+   "terrace": "Organised animation stand at Anoeta; known within Spain",
+   "city": "San Sebastián's club and a pillar of Basque identity; a small, wealthy city",
+   "voice": "S.A.D. with shares widely held by small local shareholders; limited formal fan power",
+   "conscience": "Anti-violence stance since Aitor Zabaleta's killing in 1998; nothing notable found recently",
+   "ground": "Anoeta/Reale Arena (40,000): track removed, steep, well filled",
+   "contender": "Copa del Rey 2020 and 2026; Champions League 2023-24; 10th in 2025-26",
+   "rituals": "Basque traditions, txuri-urdin; known in Spain",
+   "stewardship": "President Jokin Aperribay; locally held, academy-led long-term model",
+   "women": "Liga F 3rd in 2025-26, 2019 Copa winners, 21,234 at Anoeta for a Basque derby",
+   "intensity": "Imanol Alguacil's pressing era; Pellegrino Matarazzo continues a high-energy approach"
+  },
+  "ll": [
+   43.3,
+   -1.97
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Sociedad",
+   "https://en.wikipedia.org/wiki/Real_Sociedad_(women)"
+  ]
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp",
+  "terrace": 7,
+  "city": 9,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 8,
+  "contender": 1.5,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 4,
+  "intensity": 5,
+  "why": {
+   "terrace": "Riazor Blues: big, loud, left-wing ultras group, famous across Spain",
+   "city": "A Coruña's soul; 25,000 season tickets even in the third tier",
+   "voice": "Bank owns 99%; fans organised in ~200 peñas with no real power",
+   "conscience": "2026: police seized weapons from Riazor Blues, anti-violence commission classed them violent and proposed closing Riazor; 2014 death of a fan in a brawl",
+   "ground": "Riazor (32,490): seafront, near-full, 31,833 record even in the third tier",
+   "contender": "Promoted to La Liga 2026 after seasons in the third tier; 2000 league title is historic",
+   "rituals": "Super Dépor history, Teresa Herrera trophy; known in Spain",
+   "stewardship": "Abanca (bank controlled by Juan Carlos Escotet) owns 99%; rescued and funds the club",
+   "women": "Liga F side, 12th in 2025-26",
+   "intensity": "Antonio Hidalgo: possession-based, mixed (estimate)"
+  },
+  "ll": [
+   43.37,
+   -8.42
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña",
+   "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña_(women)"
+  ]
+ }
+]

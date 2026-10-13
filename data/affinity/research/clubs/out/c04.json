@@ -1,0 +1,355 @@
+[
+ {
+  "espn_id": "4057",
+  "name": "Frosinone",
+  "league": "ita",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 2,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 6,
+  "why": {
+   "terrace": "Ultras in the Curva Nord (Frusinati and others); lively but known only locally.",
+   "city": "The provincial town's only professional club and focus of Ciociaria identity.",
+   "voice": "No supporter ownership or documented influence found.",
+   "conscience": "Nothing notable found, either sanctions or inclusion work; estimate.",
+   "ground": "Stadio Benito Stirpe, modern 16,227-seat ground, compact; atmosphere decent.",
+   "contender": "Promoted as Serie B runners-up 2025-26; relegated from Serie A after one season in 2024.",
+   "rituals": "Lion chants and the 'Canarini' nickname; little known beyond Italy.",
+   "stewardship": "Local industrialist family Stirpe (Maurizio Stirpe, president since 2003, built the stadium).",
+   "women": "No notable top-tier women's team found; estimate.",
+   "intensity": "Promoted with an attacking side; Serie A spells under Di Francesco were front-foot; estimate."
+  },
+  "ll": [
+   41.63,
+   13.32
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frosinone_Calcio"
+  ]
+ },
+ {
+  "espn_id": "167",
+  "name": "Lyon",
+  "league": "fra",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 9,
+  "intensity": 6,
+  "why": {
+   "terrace": "Bad Gones (1987) in the Virage Nord, described as France's largest supporters group.",
+   "city": "Main club of France's third city, but a big city that shares attention with other sports.",
+   "voice": "No formal supporter power; shareholder pressure, not fans, forced Textor out in 2025.",
+   "conscience": "Fans' Nazi gestures and monkey chants (Marseille 2023), racist abuse reported after the 2025 Bourgoin cup loss, UEFA charge 2018 for Nazi symbols.",
+   "ground": "Groupama Stadium, 59,186, modern out-of-town bowl in Décines; record crowd 58,257 in 2025.",
+   "contender": "Seven straight titles to 2008, Coupe de France 2012, UCL semi 2020; 4th in 2025-26.",
+   "rituals": "Bad Gones tifos known in France; no world-famous song.",
+   "stewardship": "Michele Kang bought 87.8% of Eagle Football Group in June 2026 after Textor's debt-laden era and a 2025 DNCG relegation (overturned).",
+   "women": "OL Lyonnes: eight-time European champions, 2025-26 Première Ligue champions; now also Kang's.",
+   "intensity": "Attacking sides under Sage and Fonseca, mixed defensively; estimate."
+  },
+  "ll": [
+   45.77,
+   4.98
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_Lyonnais",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ {
+  "espn_id": "169",
+  "name": "Stade Rennais",
+  "league": "fra",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 2,
+  "intensity": 6,
+  "why": {
+   "terrace": "Roazhon Celtic Kop (1991) in the Tribune Mordelles, at every match including in Europe.",
+   "city": "The main club of Rennes and a carrier of Breton identity (Stad Roazhon).",
+   "voice": "No documented supporter role in club decisions found.",
+   "conscience": "RCK takes anti-fascist and anti-racist positions, FARE network member; homophobic chants vs PSG investigated (outcome not found).",
+   "ground": "Roazhon Park, 29,778, city-owned, in town, well filled.",
+   "contender": "Coupe de France 2019, 3rd in 2020, regular in Europe; 6th in 2025-26.",
+   "rituals": "Breton flags (record 270 m² Gwenn-ha-du) and Celtic imagery; known in France.",
+   "stewardship": "Pinault family's Artémis since 1998, Breton owners investing long-term; academy focus.",
+   "women": "Women's side not in the top tier; estimate.",
+   "intensity": "Youth-heavy, fairly front-foot sides in recent seasons; estimate."
+  },
+  "ll": [
+   48.11,
+   -1.71
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Rennais_FC"
+  ]
+ },
+ {
+  "espn_id": "170",
+  "name": "Troyes",
+  "league": "fra",
+  "terrace": 2,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 5,
+  "why": {
+   "terrace": "No notable organised end found; estimate.",
+   "city": "The only professional club of a small Champagne city.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stade de l'Aube, 20,400 (1956), often not full; estimate.",
+   "contender": "Yo-yo club: double relegation to 2024, Ligue 2 champions 2025-26, back in Ligue 1.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "City Football Group since 2020, majority Abu Dhabi United Group: state; multi-club feeder.",
+   "women": "Troyes AC Féminine, lower divisions.",
+   "intensity": "Won Ligue 2 in 2025-26; style not documented; estimate."
+  },
+  "ll": [
+   48.31,
+   4.1
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ES_Troyes_AC"
+  ]
+ },
+ {
+  "espn_id": "172",
+  "name": "AJ Auxerre",
+  "league": "fra",
+  "terrace": 3,
+  "city": 7,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 4,
+  "why": {
+   "terrace": "Ultras in the OAH stand, partly closed in 2026 for pyrotechnics; known locally.",
+   "city": "A small Burgundy town where the club, built by Guy Roux, is the town's identity.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found on racism or inclusion; 2026 stand closure was for pyrotechnics; estimate.",
+   "ground": "Stade de l'Abbé-Deschamps, 18,541, beside the Yonne; traditional and compact.",
+   "contender": "Last honours 2005 (Coupe de France); 15th in Ligue 1 2025-26.",
+   "rituals": "Guy Roux era (1961-2005) folklore known in France.",
+   "stewardship": "Chinese businessman James Zhou, owner since 2016; conventional, stable.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Pragmatic survival side under Pélissier; estimate."
+  },
+  "ll": [
+   47.79,
+   3.59
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AJ_Auxerre"
+  ]
+ },
+ {
+  "espn_id": "174",
+  "name": "AS Monaco",
+  "league": "fra",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 2,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 7,
+  "why": {
+   "terrace": "Small ultras group; low crowds; estimate.",
+   "city": "Club of a tiny principality with a thin local fan base.",
+   "voice": "No supporter influence.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stade Louis II, about 16,000-18,500, frequently far from full.",
+   "contender": "Ligue 1 champions 2017, 2nd in 2024, 3rd in 2021, UCL regulars; 7th in 2025-26.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "Russian billionaire Dmitry Rybolovlev (66.67%) since 2011 (oligarch); House of Grimaldi/Principality 33.33%; sale explored since 2024.",
+   "women": "No top-tier women's team.",
+   "intensity": "Hütter-era high-pressing, young attacking sides; estimate."
+  },
+  "ll": [
+   43.73,
+   7.42
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AS_Monaco_FC"
+  ]
+ },
+ {
+  "espn_id": "176",
+  "name": "Marseille",
+  "league": "fra",
+  "terrace": 9,
+  "city": 9,
+  "voice": 4,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 4,
+  "intensity": 7,
+  "why": {
+   "terrace": "Commando Ultra '84 (France's first ultra group) and South Winners in the Virage Sud; famous across Europe.",
+   "city": "OM is the identity of a working port city; highest attendances in France.",
+   "voice": "Supporter groups historically manage virage season tickets; 2021 protests preceded the president's exit.",
+   "conscience": "Nothing sanctioned for racism found; fans stoned Lyon's bus in 2023 (LFP declined to sanction) and rioted at the training ground in 2021; ultras long anti-racist.",
+   "ground": "Stade Vélodrome, 67,394, regularly France's best-attended, intense ends.",
+   "contender": "Ligue 1 2010, three Coupes de la Ligue, Europa League final 2018, 2nd in 2022; 5th in 2025-26.",
+   "rituals": "'Jump' before kick-off, large tifos; known well beyond France.",
+   "stewardship": "Frank McCourt (95%) since 2016; conventional private owner with heavy losses.",
+   "women": "Première Ligue side, 9th in 2025-26.",
+   "intensity": "De Zerbi's high-tempo, front-foot side 2024-26; now Génésio; estimate."
+  },
+  "ll": [
+   43.27,
+   5.4
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_de_Marseille",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ {
+  "espn_id": "179",
+  "name": "Toulouse",
+  "league": "fra",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 3.5,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 6,
+  "why": {
+   "terrace": "Indians Tolosa ultras, organised but modest; estimate.",
+   "city": "Big city where rugby's Stade Toulousain comes first.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stadium de Toulouse, 33,150, on an island in the Garonne; reasonably filled.",
+   "contender": "Coupe de France 2023 (first major trophy), Europa League 2023-24; 9th in 2025-26.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "RedBird Capital Partners (85%) since 2020: private equity with a stake in AC Milan.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Possession, fairly front-foot sides under Carles Martínez; estimate."
+  },
+  "ll": [
+   43.58,
+   1.43
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toulouse_FC"
+  ]
+ },
+ {
+  "espn_id": "180",
+  "name": "Strasbourg",
+  "league": "fra",
+  "terrace": 6,
+  "city": 8,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 4.5,
+  "rituals": 4,
+  "stewardship": 1,
+  "women": 4,
+  "intensity": 7,
+  "why": {
+   "terrace": "Ultra Boys 90 and Kop Ciel et Blanc in the north-west Kop; known in France.",
+   "city": "Strong Alsatian regional identity built around the club.",
+   "voice": "Supporter groups campaign against BlueCo ('BlueCo Out', joint march with Chelsea fans 2026); no power.",
+   "conscience": "Nothing notable found; fan protests against feeder-club treatment.",
+   "ground": "Stade de la Meinau, about 32,000, home since 1914, loud and well filled.",
+   "contender": "Coupe de la Ligue 2019, 7th in 2025, Conference League semi-final 2026.",
+   "rituals": "Kop tifos and Alsatian identity, known in France.",
+   "stewardship": "BlueCo (Boehly/Clearlake, Chelsea's owners) since 2023; fans call it a Chelsea feeder.",
+   "women": "Première Ligue side, 7th in 2025-26.",
+   "intensity": "Young, front-foot pressing side under Rosenior; estimate."
+  },
+  "ll": [
+   48.56,
+   7.76
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ {
+  "espn_id": "2502",
+  "name": "Nice",
+  "league": "fra",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 5,
+  "why": {
+   "terrace": "Populaire Sud ultras, loud and organised; known in France.",
+   "city": "Only professional club in Nice, with Niçois identity; a tourist city.",
+   "voice": "Ultras protest against INEOS but have no formal power.",
+   "conscience": "Racist banners vs Marseille (Jan 2025, LFP case); ultras assaulted players Dec 2025; 2026 crowd trouble closed the stadium to fans for the playoff.",
+   "ground": "Allianz Riviera, 36,178, modern ground outside the centre (since 2013).",
+   "contender": "5th in 2024, cup finals 2022 and 2026; 16th in 2025-26, survived playoff 4-1 vs Saint-Étienne.",
+   "rituals": "'Nissa la Bella' anthem known in France.",
+   "stewardship": "INEOS (Jim Ratcliffe) since 2019, multi-club with a Man United stake; club for sale since 2025.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Mixed under several coaches; estimate."
+  },
+  "ll": [
+   43.71,
+   7.19
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OGC_Nice"
+  ]
+ }
+]

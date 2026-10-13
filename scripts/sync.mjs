@@ -88,13 +88,15 @@ async function publish() {
       const games = {}; for (const m of S.matches) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
       const ids = Object.keys(S.teams).filter(id => games[id] >= 4);
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
+      const noTraits = [];
       const teams = ids.map(id => {
         const t = S.teams[id], A = fit.A[id] ?? Math.exp(P.gamma * (((elo.R[id] ?? fit.eloMean) - fit.eloMean) / 400) / 2), D = fit.D[id] ?? 1 / A;
         // Affinity is computed in the page from researched traits (data/affinity/traits.json, keyed by ESPN id)
         if (traits[id]) { const { src, ...tr } = traits[id]; pubTraits[id] = tr; }
-        else report.push(`${k}: no Affinity traits for ${t.n} (${id}): research it and add it to data/affinity/traits.json`);
+        else noTraits.push(`${t.n} (${id})`);
         return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
       });
+      if (noTraits.length) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;
       const base = (fit.base[k] || [1.5, 1.2]).map(x => +x.toFixed(4));
       const Pm = { rho, drawK, mktW };

@@ -4078,5 +4078,2482 @@
    "women": "USL Super League side since 2024",
    "intensity": "no identity"
   }
+ },
+ "101": {
+  "name": "Rayo Vallecano",
+  "src": "Rayo Vallecano",
+  "terrace": 7,
+  "city": 7,
+  "voice": 3,
+  "conscience": 8,
+  "ground": 7,
+  "contender": 4.5,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   40.39,
+   -3.66
+  ],
+  "why": {
+   "terrace": "Bukaneros: organised anti-fascist ultras end, known well beyond La Liga",
+   "city": "The club of Vallecas, a working-class Madrid barrio that identifies with it; shares Madrid with two giants",
+   "voice": "No ownership; fan campaigns (Zozulya 2017, protests against owner and stadium neglect) have pressured the club",
+   "conscience": "Fans campaign against racism, fascism and homophobia; 2019 'Nazi' chant sanction and 2026 UEFA fireworks fines, nothing racist found",
+   "ground": "Vallecas (14,708): tight, old, in the barrio, loud; run-down, briefly shut over safety in 2025",
+   "contender": "8th and 8th in La Liga 2024-26; 2026 Conference League runners-up",
+   "rituals": "Diagonal red stripe, Bukaneros songs and political banners, 'No pasarán' known in Spain",
+   "stewardship": "Raúl Martín Presa, private owner in long open conflict with fans over neglect of stadium and club",
+   "women": "Rayo Femenino were Spanish champions 2009-11 but neglected and out of the top tier (estimate)",
+   "intensity": "Iraola and Íñigo Pérez built a pressing, high-tempo side; Beñat San José now coach"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayo_Vallecano"
+  ]
+ },
+ "1538": {
+  "name": "Levante",
+  "src": "Levante",
+  "terrace": 4,
+  "city": 5,
+  "voice": 6,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   39.49,
+   -0.36
+  ],
+  "why": {
+   "terrace": "Organised home end known locally, not beyond Spain (estimate)",
+   "city": "Valencia's second club, rooted in Orriols/Camins al Grau; lives in Valencia CF's shadow",
+   "voice": "S.A.D. with shares largely held by the club foundation and small shareholders after 2010s rescue (estimate)",
+   "conscience": "Nothing notable found; ordinary community work (estimate)",
+   "ground": "Ciutat de València (26,354): compact, decent atmosphere, not always full",
+   "contender": "16th in La Liga 2025-26 after promotion as Segunda champions 2025",
+   "rituals": "'Granotes' identity; little known beyond Spain",
+   "stewardship": "President Pablo Sánchez; foundation/small-shareholder model, no outside investor found (estimate)",
+   "women": "Levante Femenino: four league titles and six cups, relegated from Liga F in 2026",
+   "intensity": "Luís Castro coach; mixed, survival-first style (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levante_UD",
+   "https://en.wikipedia.org/wiki/Levante_UD_Femenino"
+  ]
+ },
+ "243": {
+  "name": "Sevilla",
+  "src": "Sevilla",
+  "terrace": 7,
+  "city": 6,
+  "voice": 3,
+  "conscience": 2.5,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 7,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 4,
+  "ll": [
+   37.38,
+   -5.97
+  ],
+  "why": {
+   "terrace": "Biris Norte: large, loud ultras end, well known across Spain",
+   "city": "Huge local passion, but shares Seville equally with Real Betis",
+   "voice": "Accionistas Unidos minor-shareholder group active in boardroom fights; little real power",
+   "conscience": "UEFA fined Sevilla in Dec 2022 for fans' racist abuse of Man City's Rico Lewis (suspended partial closure)",
+   "ground": "Ramón Sánchez-Pizjuán (~43,000): steep, intimidating, in Nervión",
+   "contender": "Record seven Europa Leagues (latest 2023), but 13th in 2025-26 and recent relegation fights",
+   "rituals": "El Arrebato's centenary anthem sung a cappella, famous across Europe",
+   "stewardship": "Fragmented shareholders (del Nido, Carrión, A-CAP after 777 Partners); sale of ~80% to Five Eleven Capital/Sergio Ramos agreed May 2026",
+   "women": "Sevilla women in Liga F, mid-table (estimate)",
+   "intensity": "Luis García Plaza coach; struggling, reactive recent seasons (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sevilla_FC"
+  ]
+ },
+ "2922": {
+  "name": "Getafe",
+  "src": "Getafe",
+  "terrace": 2,
+  "city": 4,
+  "voice": 1,
+  "conscience": 1.5,
+  "ground": 3,
+  "contender": 3,
+  "rituals": 1,
+  "stewardship": 5.5,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   40.33,
+   -3.71
+  ],
+  "why": {
+   "terrace": "Small ultras group (Comandos Azules); quiet home ends",
+   "city": "Suburban town club (founded 1983) south of Madrid; many locals follow Real or Atlético",
+   "voice": "Owner-run; 18 peñas and 12,000 socios with no real say",
+   "conscience": "RFEF ordered a three-match partial stand closure (April 2024) for racist abuse of Sevilla's Acuña and Sánchez Flores",
+   "ground": "Coliseum (16,500): small, often far from full except big matches",
+   "contender": "7th in 2025-26 (Conference League); otherwise mid-to-low table; 2007 and 2008 Copa finalists",
+   "rituals": "Gathering at the Cibelina statue; little known beyond the town",
+   "stewardship": "Ángel Torres, local businessman, owner and president since 2002",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "Bordalás: aggressive, physical and direct, but low-possession and stoppage-heavy"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Getafe_CF",
+   "https://www.espn.com/soccer/story/_/id/39865322/getafe-get-3-game-partial-stadium-ban-racist-insults"
+  ]
+ },
+ "3751": {
+  "name": "Elche",
+  "src": "Elche",
+  "terrace": 3,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   38.27,
+   -0.66
+  ],
+  "why": {
+   "terrace": "Organised home end known locally (estimate)",
+   "city": "Elche's only professional club; a mid-sized working city (estimate)",
+   "voice": "Private owner; no documented fan power (estimate)",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Martínez Valero (33,732): large bowl, moderately filled",
+   "contender": "15th in 2025-26 after promotion; relegated 2023",
+   "rituals": "Few traditions known outside the region (estimate)",
+   "stewardship": "Christian Bragarnik, Argentine football agent; agent-owner conflict of interest",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "Martín Anselmi: front-foot back three, high press; Sarabia before him was also attacking"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elche_CF"
+  ]
+ },
+ "85": {
+  "name": "Celta Vigo",
+  "src": "Celta Vigo",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 1.5,
+  "intensity": 8,
+  "ll": [
+   42.21,
+   -8.74
+  ],
+  "why": {
+   "terrace": "Celtarras (left-wing Galician ultras) plus wider Marea Celeste support; known in Spain",
+   "city": "Vigo's only big club, an industrial port city with strong Galician identity",
+   "voice": "Mouriño family holds 67.9%; fans have little formal say",
+   "conscience": "Celtarras left-wing; first woman president (Marián Mouriño); nothing notable found on sanctions",
+   "ground": "Balaídos (24,870): rebuilt, steep stands, well filled in recent seasons",
+   "contender": "7th then 6th; Europa League quarter-final 2026",
+   "rituals": "Galician songs and sky-blue identity; known within Spain (estimate)",
+   "stewardship": "Carlos Mouriño (Spanish-Mexican businessman) since 2006; long-term, academy-first under Giráldez",
+   "women": "Celta women outside Liga F (estimate)",
+   "intensity": "Claudio Giráldez: high pressing, attacking, young homegrown side"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
+  ]
+ },
+ "87": {
+  "name": "Racing Santander",
+  "src": "Racing Santander",
+  "terrace": 4,
+  "city": 8,
+  "voice": 3,
+  "conscience": 3.5,
+  "ground": 6.5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   43.48,
+   -3.79
+  ],
+  "why": {
+   "terrace": "Organised home support known in Spain's lower tiers (estimate)",
+   "city": "Santander and Cantabria's only big club; strong regional identity",
+   "voice": "Fan pressure during the 2013-14 crisis (president ousted); no formal power since (estimate)",
+   "conscience": "2026 anti-violence commission proposed a ground closure (details unconfirmed); nothing racist found",
+   "ground": "El Sardinero (22,222): near the beach, full in the 2025-26 promotion season (estimate)",
+   "contender": "Promoted as Segunda champions 2026; third tier in 2021-22",
+   "rituals": "Few traditions known outside Spain (estimate)",
+   "stewardship": "Sebastián Ceria, Santander-born businessman; no major issues found",
+   "women": "No top-tier women's team found (estimate)",
+   "intensity": "José Alberto López: possession and attacking football, top scorers in Segunda (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racing_de_Santander"
+  ]
+ },
+ "88": {
+  "name": "Espanyol",
+  "src": "Espanyol",
+  "terrace": 4,
+  "city": 3,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   41.35,
+   2.08
+  ],
+  "why": {
+   "terrace": "Curva end; historic far-right Brigadas Blanquiazules; known locally",
+   "city": "Barcelona's second club, moved to suburban Cornellà-El Prat in 2009",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Feb 2025 match halted for racist abuse of Sannadi; Espanyol fan convicted in 2025 for abusing Williams (2020)",
+   "ground": "RCDE Stadium (40,000): modern, steep, out of town, often not full",
+   "contender": "11th in 2025-26; relegated 2020 and 2023",
+   "rituals": "Anthem and Sarrià nostalgia; little known abroad",
+   "stewardship": "Velocity Sports Partners (Alan Pace, US investment, Burnley owner) since Oct 2025; multi-club link",
+   "women": "Espanyol women: former league and six-time cup winners, in and around Liga F (estimate)",
+   "intensity": "Manolo González: compact, pragmatic, counter-attacking"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RCD_Espanyol",
+   "https://www.si.com/soccer/2020/01/28/inaki-williams-racism-espanyol-fans-athletic-bilbao",
+   "https://global.espn.com/football/story/_/id/43874206/espanyol-vs-athletic-club-marred-maroan-sannadi-racist-abuse"
+  ]
+ },
+ "89": {
+  "name": "Real Sociedad",
+  "src": "Real Sociedad",
+  "terrace": 5,
+  "city": 8,
+  "voice": 4,
+  "conscience": 6,
+  "ground": 7.5,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 7,
+  "ll": [
+   43.3,
+   -1.97
+  ],
+  "why": {
+   "terrace": "Organised animation stand at Anoeta; known within Spain",
+   "city": "San Sebastián's club and a pillar of Basque identity; a small, wealthy city",
+   "voice": "S.A.D. with shares widely held by small local shareholders; limited formal fan power",
+   "conscience": "Anti-violence stance since Aitor Zabaleta's killing in 1998; nothing notable found recently",
+   "ground": "Anoeta/Reale Arena (40,000): track removed, steep, well filled",
+   "contender": "Copa del Rey 2020 and 2026; Champions League 2023-24; 10th in 2025-26",
+   "rituals": "Basque traditions, txuri-urdin; known in Spain",
+   "stewardship": "President Jokin Aperribay; locally held, academy-led long-term model",
+   "women": "Liga F 3rd in 2025-26, 2019 Copa winners, 21,234 at Anoeta for a Basque derby",
+   "intensity": "Imanol Alguacil's pressing era; Pellegrino Matarazzo continues a high-energy approach"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Sociedad",
+   "https://en.wikipedia.org/wiki/Real_Sociedad_(women)"
+  ]
+ },
+ "90": {
+  "name": "Deportivo",
+  "src": "Deportivo",
+  "terrace": 7,
+  "city": 9,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 8,
+  "contender": 1.5,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 4,
+  "intensity": 5,
+  "ll": [
+   43.37,
+   -8.42
+  ],
+  "why": {
+   "terrace": "Riazor Blues: big, loud, left-wing ultras group, famous across Spain",
+   "city": "A Coruña's soul; 25,000 season tickets even in the third tier",
+   "voice": "Bank owns 99%; fans organised in ~200 peñas with no real power",
+   "conscience": "2026: police seized weapons from Riazor Blues, anti-violence commission classed them violent and proposed closing Riazor; 2014 death of a fan in a brawl",
+   "ground": "Riazor (32,490): seafront, near-full, 31,833 record even in the third tier",
+   "contender": "Promoted to La Liga 2026 after seasons in the third tier; 2000 league title is historic",
+   "rituals": "Super Dépor history, Teresa Herrera trophy; known in Spain",
+   "stewardship": "Abanca (bank controlled by Juan Carlos Escotet) owns 99%; rescued and funds the club",
+   "women": "Liga F side, 12th in 2025-26",
+   "intensity": "Antonio Hidalgo: possession-based, mixed (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña",
+   "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña_(women)"
+  ]
+ },
+ "93": {
+  "name": "Athletic Club",
+  "src": "Athletic Club",
+  "terrace": 6,
+  "city": 10,
+  "voice": 10,
+  "conscience": 6,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 8,
+  "stewardship": 10,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   43.26,
+   -2.95
+  ],
+  "why": {
+   "terrace": "San Mamés is loud and committed; ultras group Herri Norte known in Spain, not a world-famous end",
+   "city": "Bilbao and Basque identity are bound to the club",
+   "voice": "Member-owned, members elect the president; not a sports corporation",
+   "conscience": "Nothing notable found at San Mamés; Basque-only cantera and community foundation, players targeted away (Williams, Sannadi)",
+   "ground": "New San Mamés (2013), 53,289, the 'cathedral', usually near full",
+   "contender": "Copa del Rey 2024, Supercopas 2015 and 2021, Europa League final 2012; 12th in 2025-26",
+   "rituals": "Basque-only player policy, gabarra river celebration, 'Lehoiak'; known well beyond Spain",
+   "stewardship": "Members (president Jon Uriarte); president cannot invest own money",
+   "women": "Athletic Club Femenino: five league titles, Liga F, 4th in 2024-25",
+   "intensity": "Valverde-era high press and wing speed (Williams brothers); Edin Terzić now coach"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Athletic_Bilbao",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ "94": {
+  "name": "Valencia",
+  "src": "Valencia",
+  "terrace": 5,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   39.47,
+   -0.36
+  ],
+  "why": {
+   "terrace": "Organised Curva Nord at Mestalla, known in Spain",
+   "city": "The main club of Spain's third city, shared with Levante",
+   "voice": "Fan movement Libertad VCF and boycotts against the owner, no real power",
+   "conscience": "May 2023 racist abuse of Vinícius Jr at Mestalla: Mario Kempes stand closed, club fined (reduced on appeal)",
+   "ground": "Mestalla, 49,430, steep terracing, one of Europe's most intimidating; move to Nou Mestalla planned 2027",
+   "contender": "Copa del Rey 2019, final 2022; mid-table since (9th in 2025-26)",
+   "rituals": "Valencian-language pasodoble anthem, bat crest; known mostly in Spain",
+   "stewardship": "Peter Lim (Meriton Holdings) since 2014; heavy losses, long fan protests, son Kiat Lim president",
+   "women": "Valencia Femenino relegated from Liga F in 2025, promoted back for 2026-27",
+   "intensity": "Estimate: pragmatic, low-possession sides under recent coaches (Javier Aguirre now)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valencia_CF",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ "96": {
+  "name": "Alavés",
+  "src": "Alavés",
+  "terrace": 4,
+  "city": 7,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 4,
+  "ll": [
+   42.84,
+   -2.69
+  ],
+  "why": {
+   "terrace": "Ultras group Iraultza 1921 (left-wing), loud but small",
+   "city": "Vitoria-Gasteiz's football club, 'El Glorioso'; city also lives through Baskonia basketball",
+   "voice": "Private SAD; no documented fan influence found",
+   "conscience": "Estimate: no racism sanction found; Antiviolencia proposed a fine and closure over club support for the Iraultza 1921 ultras (murals), not for abuse",
+   "ground": "Mendizorrotza, 19,840, compact and central, opened 1924",
+   "contender": "Promoted 2023, 10th/15th/14th since; UEFA Cup final 2001 is the peak",
+   "rituals": "2001 UEFA Cup final run is the club's lore; little known beyond Spain",
+   "stewardship": "Baskonia-Alavés Group of José Antonio Querejeta, local owner who rebuilt the club",
+   "women": "Las Gloriosas won Primera Federación, back in Liga F for 2026-27",
+   "intensity": "Estimate: Quique Sánchez Flores, compact and defensive"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Alav%C3%A9s",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
+  ]
+ },
+ "97": {
+  "name": "Osasuna",
+  "src": "Osasuna",
+  "terrace": 6,
+  "city": 8,
+  "voice": 9,
+  "conscience": 5,
+  "ground": 8,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 9,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   42.8,
+   -1.64
+  ],
+  "why": {
+   "terrace": "Indar Gorri behind the goal, one of Spain's loudest groups",
+   "city": "Pamplona's and Navarre's club, Basque name ('health')",
+   "voice": "Member-owned, members elect the president; one of four non-SAD clubs",
+   "conscience": "No recent racism sanction found (club denied 2024 Vinícius claim; antisemitic-chant fine is a decade old); Indar Gorri left-leaning",
+   "ground": "El Sadar, 23,516, rebuilt 2021, steep and close, famously loud",
+   "contender": "Copa del Rey final 2023, 7th that season; 17th in 2025-26, never won a major trophy",
+   "rituals": "'Rojillos', Navarre identity, El Sadar noise known in Spain",
+   "stewardship": "Members; past 2013 match-fixing case (CAS restored 2023 Conference League place)",
+   "women": "Estimate: Osasuna Femenino outside the top tier",
+   "intensity": "Estimate: direct, physical, aggressive pressing under Arrasate; mixed since"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CA_Osasuna"
+  ]
+ },
+ "99": {
+  "name": "Málaga",
+  "src": "Málaga",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 1,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   36.73,
+   -4.43
+  ],
+  "why": {
+   "terrace": "Estimate: organised ultras section, known locally",
+   "city": "Málaga's main club, strong local following through lower divisions",
+   "voice": "Estimate: fan protests against Al Thani; club run by a court administrator, not fans",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "La Rosaleda, 30,044, well filled even in third tier",
+   "contender": "Promoted to La Liga 2026 via play-offs; CL quarter-final 2013 is the peak",
+   "rituals": "Little known beyond Spain",
+   "stewardship": "Sheikh Abdullah Al Thani (private investor) barred by a judge since 2020; court administrator José María Muñoz; 2026 arrest warrant over club funds",
+   "women": "Estimate: women's side below the top tier",
+   "intensity": "Estimate: Juan Francisco Funes, mixed"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/M%C3%A1laga_CF"
+  ]
+ },
+ "103": {
+  "name": "AC Milan",
+  "src": "AC Milan",
+  "terrace": 8,
+  "city": 6,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 7,
+  "rituals": 7,
+  "stewardship": 1,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   45.48,
+   9.12
+  ],
+  "why": {
+   "terrace": "Curva Sud Milano, big choreographies, famous beyond Italy; Fossa dei Leoni was Italy's first ultras group",
+   "city": "Shares Milan with Inter; big-city club",
+   "voice": "Curva and fan protests against the owners, no formal power",
+   "conscience": "Curva Sud leaders (Luca Lucci and others) convicted in 2025 'Doppia Curva' case: criminal association, attempted murder",
+   "ground": "San Siro, ~75,800, iconic and usually busy; shared, replacement planned",
+   "contender": "Scudetto 2022, Supercoppa 2025; 8th 2024-25, 5th 2025-26",
+   "rituals": "Curva Sud tifos, 'Milan Milan', red and black; known worldwide",
+   "stewardship": "RedBird Capital Partners (private equity), 99.93%",
+   "women": "Milan Women in Serie A Femminile",
+   "intensity": "Mixed: Allegri cautious; Ruben Amorim coach from June 2026"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Milan"
+  ]
+ },
+ "105": {
+  "name": "Atalanta",
+  "src": "Atalanta",
+  "terrace": 8,
+  "city": 9,
+  "voice": 3,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 1,
+  "intensity": 8,
+  "ll": [
+   45.71,
+   9.68
+  ],
+  "why": {
+   "terrace": "Curva Nord 1907 (Curva Pisani), one of Italy's best-known ultras ends",
+   "city": "Bergamo lives through La Dea; every newborn gets a shirt",
+   "voice": "Club close to its supporters (Festa della Dea), no formal fan power",
+   "conscience": "May 2023: Curva Nord closed for racist chants at Vlahovic; club and ultras punished several times for violence or racism",
+   "ground": "Gewiss Stadium / New Balance Arena, ~25,000, club-owned, rebuilt and close to the pitch",
+   "contender": "Europa League 2024, regular Champions League; 7th in 2025-26",
+   "rituals": "Neonati Atalantini, Christmas Match charity kits, Festa della Dea; known in Italy",
+   "stewardship": "La Dea: Stephen Pagliuca-led US consortium 55%, Percassi family (local, president) 45%",
+   "women": "Estimate: no top-tier women's team",
+   "intensity": "Gasperini's man-to-man pressing defined 2016-25; Sarri now"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atalanta_BC"
+  ]
+ },
+ "107": {
+  "name": "Bologna",
+  "src": "Bologna",
+  "terrace": 6,
+  "city": 8,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   44.49,
+   11.31
+  ],
+  "why": {
+   "terrace": "Curva Bulgarelli, organised and loud, known in Italy",
+   "city": "Bologna's only big club, strong local identity",
+   "voice": "No documented fan influence on decisions",
+   "conscience": "Nothing notable found recently (ultras cleared in Kean case); stand dedicated to Árpád Weisz, Jewish coach killed at Auschwitz",
+   "ground": "Stadio Renato Dall'Ara (1927), ~36,500, historic, well filled lately",
+   "contender": "Coppa Italia 2025, Champions League 2024-25; 8th in 2025-26",
+   "rituals": "Rossoblù tradition, little known beyond Italy",
+   "stewardship": "Joey Saputo (BFC 1909 Lux), president since 2014; also owns CF Montréal",
+   "women": "Estimate: women's team below Serie A",
+   "intensity": "Front-foot, pressing teams under Thiago Motta and Italiano; Palladino now"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bologna_FC_1909"
+  ]
+ },
+ "109": {
+  "name": "Fiorentina",
+  "src": "Fiorentina",
+  "terrace": 7,
+  "city": 9,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 4,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   43.78,
+   11.28
+  ],
+  "why": {
+   "terrace": "Curva Fiesole, famous in Italy for choreographies",
+   "city": "Florence's club, viola identity across the city",
+   "voice": "No documented fan influence on decisions",
+   "conscience": "Nov 2023: Curva Fiesole closure (suspended) for racist chants at Kean and McKennie and chants at Vlahovic",
+   "ground": "Stadio Artemio Franchi, 43,147, under long renovation with reduced capacity",
+   "contender": "Conference League finals 2023 and 2024; 15th in 2025-26",
+   "rituals": "Viola colours, links to Calcio Fiorentino; known in Italy",
+   "stewardship": "Commisso family (Mediacom); Rocco died Jan 2026, son Giuseppe president; built Viola Park",
+   "women": "Fiorentina Women: Serie A title 2017, regular top-tier side",
+   "intensity": "Estimate: Italiano's pressing up to 2024, mixed since (Vanoli now)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ACF_Fiorentina"
+  ]
+ },
+ "111": {
+  "name": "Juventus",
+  "src": "Juventus",
+  "terrace": 5,
+  "city": 4,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 7,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 7,
+  "intensity": 5,
+  "ll": [
+   45.11,
+   7.64
+  ],
+  "why": {
+   "terrace": "Curva Sud organised but not a defining end",
+   "city": "Support is national (Italy's most supported club); Turin also has Torino",
+   "voice": "Listed company controlled by Exor; no fan influence",
+   "conscience": "April 2023 racist abuse of Lukaku: 171 fans banned (DASPO); stand closure annulled on appeal",
+   "ground": "Allianz Stadium (2011), 41,507, steep and close, usually full",
+   "contender": "Nine straight titles 2012-20, Coppa Italia 2024; 6th in 2025-26",
+   "rituals": "Bianconeri, 'Storia di un grande amore'; widely known",
+   "stewardship": "Agnelli family through Exor since 1923; Calciopoli and 2023 accounts case (UEFA settlement)",
+   "women": "Juventus Women: several Serie A titles, top-tier force",
+   "intensity": "Mostly cautious under Allegri; Motta, Tudor, now Spalletti"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juventus_FC"
+  ]
+ },
+ "112": {
+  "name": "Lazio",
+  "src": "Lazio",
+  "terrace": 6,
+  "city": 5,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   41.93,
+   12.45
+  ],
+  "why": {
+   "terrace": "Curva Nord, long led by the Irriducibili (disbanded 2019); loud and organised, known across Italy",
+   "city": "Shares Rome with Roma, the larger local following",
+   "voice": "No formal fan ownership or trust; Curva holds informal sway only",
+   "conscience": "UEFA fine for racism and fascist salutes (2020), antisemitic derby chants (2023), Curva Nord closed for racist chants at Lukaku (2024), Munich fascist salutes (2024), ultras attack on Real Sociedad fans (2025)",
+   "ground": "Stadio Olimpico, 70,634-seat athletics bowl shared with Roma; Flaminio renovation planned for 2029",
+   "contender": "Coppa Italia 2013 and 2019, Supercoppa 2017 and 2019, Serie A runners-up 2023; 9th in 2025-26",
+   "rituals": "Eagle symbol and flight before matches, retired number 12 for the Curva Nord",
+   "stewardship": "Claudio Lotito (Lazio Events, 66.7%), long-term private owner, frequent fan protests",
+   "women": "Lazio Women in top-tier Serie A Women 2025-26",
+   "intensity": "Gattuso since 2025; mixed, estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SS_Lazio",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ "113": {
+  "name": "Lecce",
+  "src": "Lecce",
+  "terrace": 5,
+  "city": 8,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   40.37,
+   18.21
+  ],
+  "why": {
+   "terrace": "Ultras in the Curva Nord, the core of the support, often sold out; known in Serie A",
+   "city": "Only big club of Lecce and the Salento; record 21,726 season tickets in 2024-25",
+   "voice": "Ultras protests (ticket prices) but no formal fan power",
+   "conscience": "Nothing notable found since 2019; no documented inclusion work found, estimate",
+   "ground": "Via del Mare, 31,533, averaging about 26,000 (routinely near full)",
+   "contender": "Serie B champions 2022; 17th in Serie A in 2024-25 and 2025-26",
+   "rituals": "Anthem 'Giallorossi per Sempre', Derby di Puglia with Bari",
+   "stewardship": "Saverio Sticchi Damiani, local majority owner and president; Alvin Sariaatmadja minority",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Di Francesco, front-foot but limited; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Lecce"
+  ]
+ },
+ "115": {
+  "name": "Parma",
+  "src": "Parma",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 4.5,
+  "intensity": 5,
+  "ll": [
+   44.79,
+   10.34
+  ],
+  "why": {
+   "terrace": "Boys Parma (1977) in the Curva Nord; fans described as placid",
+   "city": "The city's only major club, tied to its ducal identity",
+   "voice": "Fan-funded refoundation in 2015 (Parma Partecipazioni Calcistiche), since sold to Krause; organised fan clubs",
+   "conscience": "Nothing notable found since 2019; Curva named after a fan killed in 2008, estimate",
+   "ground": "Stadio Ennio Tardini, 27,906, central, home since 1923",
+   "contender": "Promoted 2024; 16th in 2024-25, 13th in 2025-26; European honours are from the 1990s",
+   "rituals": "Crusader white shirt with black cross, anthem 'Il grido di battaglia', number 12 for the fans",
+   "stewardship": "Krause Group (Kyle Krause, Iowa family business, owner since 2020), long-term investment, no major issues",
+   "women": "Parma women promoted to Serie A Women 2025-26",
+   "intensity": "Mixed, mid-table; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parma_Calcio_1913",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ "118": {
+  "name": "Udinese",
+  "src": "Udinese",
+  "terrace": 4,
+  "city": 7,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   46.08,
+   13.2
+  ],
+  "why": {
+   "terrace": "Curva Nord ultras, organised but not prominent beyond Serie A; estimate",
+   "city": "Main club of Udine and Friuli, Friulian identity",
+   "voice": "Fan campaigns on the Friulian eagle on the badge; no formal power",
+   "conscience": "Racist abuse of Maignan (Jan 2024) led to a stadium closure, cut to partial closures on appeal; ultras attacked a train of Venezia fans (Feb 2025)",
+   "ground": "Stadio Friuli (Bluenergy Stadium), 25,132, rebuilt 2016 as a modern compact ground",
+   "contender": "Long run in Serie A, mid- to lower-table; 10th in 2025-26",
+   "rituals": "Anthem 'Vinci per noi', former anthem chorus sung by fans",
+   "stewardship": "Pozzo family (Gesapar) since 1986, also owned Watford (multi-club); repeated sale talks with US funds in 2025",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Runjaic, physical and mixed; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Udinese_Calcio"
+  ]
+ },
+ "17530": {
+  "name": "Venezia",
+  "src": "Venezia",
+  "terrace": 4,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 1.5,
+  "intensity": 6,
+  "ll": [
+   45.43,
+   12.36
+  ],
+  "why": {
+   "terrace": "Curva Sud ultras of Venice and Mestre (the 'Unione'); scarf mosaic before matches",
+   "city": "The city's club but Venice's identity is not football; merged with Mestre in 1987",
+   "voice": "No formal fan power; ownership is a US investor group",
+   "conscience": "Nothing notable found since 2019; older far-right banner (2013) by a fringe group; club-led community work, estimate",
+   "ground": "Stadio Penzo, Italy's second-oldest ground, on Sant'Elena island, reached by boat; small (listed 12,048); move to Tessera planned after 2026-27",
+   "contender": "Relegated 2025, Serie B champions 2025-26",
+   "rituals": "Boat arrivals and gondola promotion parades on the Grand Canal; much-noted kits",
+   "stewardship": "VFC Newco 2023 LLC, US investors (Leiweke, Bodie, McDonald), raised EUR 100m in 2026",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Stroppa's attacking side won Serie B; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venezia_FC"
+  ]
+ },
+ "239": {
+  "name": "Torino",
+  "src": "Torino",
+  "terrace": 6,
+  "city": 6,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 8,
+  "stewardship": 3,
+  "women": 1.5,
+  "intensity": 4.5,
+  "ll": [
+   45.04,
+   7.65
+  ],
+  "why": {
+   "terrace": "Curva Maratona, organised and well known in Italy; repeated protest boycotts",
+   "city": "Shares Turin with Juventus but claims the city's working-class, local identity",
+   "voice": "Sustained Curva campaigns against Cairo, no formal power; DASPO bans after protests",
+   "conscience": "Nothing notable found for racism since 2019; protest-related DASPO bans only, estimate",
+   "ground": "Stadio Olimpico Grande Torino, 27,958, athletics track removed; estimate",
+   "contender": "Last title 1976, last cup 1993; 11th in 2024-25, 12th in 2025-26",
+   "rituals": "Grande Torino and the Superga disaster (4 May 1949) remembered every year, recognised worldwide",
+   "stewardship": "Urbano Cairo (UT Communication) since 2005; long fan opposition over lack of ambition",
+   "women": "Women's side not part of the club (Torino Women ASD is separate), estimate",
+   "intensity": "Mixed, frequent coach changes (D'Aversa, Abate); estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torino_FC"
+  ]
+ },
+ "2925": {
+  "name": "Cagliari",
+  "src": "Cagliari",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 1,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 4.5,
+  "ll": [
+   39.2,
+   9.14
+  ],
+  "why": {
+   "terrace": "Curva Nord ultras (Sconvolts), organised and loud; estimate",
+   "city": "Sardinia's club; badge carries the Sardinian flag, nickname Isolani",
+   "voice": "No formal fan power; estimate",
+   "conscience": "No sanctions since 2019; racist chants at Lukaku, Kean and Matuidi (2017-19) went unpunished",
+   "ground": "Unipol Domus, 16,416 temporary venue next to the demolished Sant'Elia; new stadium pending",
+   "contender": "Relegated 2022, back 2023; 14th-16th since; 1970 title is far back",
+   "rituals": "Riva and the 1970 title, Sardinian identity; well known in Italy",
+   "stewardship": "Tommaso Giulini (Fluorsid) since 2014, Sardinian industrialist, no major issues",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Pisacane, cautious survival football; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cagliari_Calcio"
+  ]
+ },
+ "3263": {
+  "name": "Genoa",
+  "src": "Genoa",
+  "terrace": 8,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 1,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 5.5,
+  "ll": [
+   44.42,
+   8.95
+  ],
+  "why": {
+   "terrace": "Gradinata Nord, among Italy's most renowned singing ends; number 12 retired for it",
+   "city": "Shares Genoa with Sampdoria; Italy's oldest club and a deep local bond",
+   "voice": "No formal fan power; estimate",
+   "conscience": "Derby violence with Sampdoria (Sept 2024, 50+ injured) led to a closed-doors match and away bans; objects thrown vs Como fined (2024)",
+   "ground": "Luigi Ferraris (Marassi), 33,205, English-style, steep, tight to the pitch, home since 1911",
+   "contender": "Relegated 2022, back 2023; 16th in 2025-26; last title 1924",
+   "rituals": "Founded 1893 by Englishmen, Derby della Lanterna, Gradinata Nord choreographies",
+   "stewardship": "Dan Sucu (Romanian businessman, also owns Rapid Bucharest) since 2024 after 777 Partners",
+   "women": "Genoa women promoted to Serie A Women 2025-26, relegated last",
+   "intensity": "De Rossi, energetic; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Genoa_CFC",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ "3997": {
+  "name": "Sassuolo",
+  "src": "Sassuolo",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 2,
+  "contender": 2,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   44.71,
+   10.65
+  ],
+  "why": {
+   "terrace": "Small following, no notable singing end; estimate",
+   "city": "Town club of 40,000 playing in Reggio Emilia, little local bond beyond Sassuolo",
+   "voice": "Company-run, no fan role",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "Mapei Stadium in Reggio Emilia, 21,584, shared with Reggiana, often sparse",
+   "contender": "Relegated 2024, Serie B champions 2025, 11th in 2025-26",
+   "rituals": "Black and green; little tradition",
+   "stewardship": "Mapei S.p.A. (Squinzi family company), corporate patron, stable",
+   "women": "Sassuolo women in top-tier Serie A Women",
+   "intensity": "Attack-minded possession identity since De Zerbi; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Sassuolo_Calcio",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
+  ]
+ },
+ "4007": {
+  "name": "Monza",
+  "src": "Monza",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   45.58,
+   9.31
+  ],
+  "why": {
+   "terrace": "Curva Sud (Gioventu Brianzola, S.A.B.), organised but small",
+   "city": "Monza's club, in Milan's shadow",
+   "voice": "Fan clubs united since 2022; no formal power",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "Stadio Brianteo (U-Power), 17,102, modest crowds; estimate",
+   "contender": "Relegated 2025, promoted via play-offs 2026",
+   "rituals": "Iron Crown badge, anthem 'Monza Ale'",
+   "stewardship": "Beckett Layne Ventures, US investment firm (bought from Fininvest 2025-26)",
+   "women": "No top-tier women's team found, estimate",
+   "intensity": "Juric, man-marking high press; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Monza"
+  ]
+ },
+ "4057": {
+  "name": "Frosinone",
+  "src": "Frosinone",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 2,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   41.63,
+   13.32
+  ],
+  "why": {
+   "terrace": "Ultras in the Curva Nord (Frusinati and others); lively but known only locally.",
+   "city": "The provincial town's only professional club and focus of Ciociaria identity.",
+   "voice": "No supporter ownership or documented influence found.",
+   "conscience": "Nothing notable found, either sanctions or inclusion work; estimate.",
+   "ground": "Stadio Benito Stirpe, modern 16,227-seat ground, compact; atmosphere decent.",
+   "contender": "Promoted as Serie B runners-up 2025-26; relegated from Serie A after one season in 2024.",
+   "rituals": "Lion chants and the 'Canarini' nickname; little known beyond Italy.",
+   "stewardship": "Local industrialist family Stirpe (Maurizio Stirpe, president since 2003, built the stadium).",
+   "women": "No notable top-tier women's team found; estimate.",
+   "intensity": "Promoted with an attacking side; Serie A spells under Di Francesco were front-foot; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frosinone_Calcio"
+  ]
+ },
+ "167": {
+  "name": "Lyon",
+  "src": "Lyon",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 9,
+  "intensity": 6,
+  "ll": [
+   45.77,
+   4.98
+  ],
+  "why": {
+   "terrace": "Bad Gones (1987) in the Virage Nord, described as France's largest supporters group.",
+   "city": "Main club of France's third city, but a big city that shares attention with other sports.",
+   "voice": "No formal supporter power; shareholder pressure, not fans, forced Textor out in 2025.",
+   "conscience": "Fans' Nazi gestures and monkey chants (Marseille 2023), racist abuse reported after the 2025 Bourgoin cup loss, UEFA charge 2018 for Nazi symbols.",
+   "ground": "Groupama Stadium, 59,186, modern out-of-town bowl in Décines; record crowd 58,257 in 2025.",
+   "contender": "Seven straight titles to 2008, Coupe de France 2012, UCL semi 2020; 4th in 2025-26.",
+   "rituals": "Bad Gones tifos known in France; no world-famous song.",
+   "stewardship": "Michele Kang bought 87.8% of Eagle Football Group in June 2026 after Textor's debt-laden era and a 2025 DNCG relegation (overturned).",
+   "women": "OL Lyonnes: eight-time European champions, 2025-26 Première Ligue champions; now also Kang's.",
+   "intensity": "Attacking sides under Sage and Fonseca, mixed defensively; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_Lyonnais",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ "169": {
+  "name": "Stade Rennais",
+  "src": "Stade Rennais",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   48.11,
+   -1.71
+  ],
+  "why": {
+   "terrace": "Roazhon Celtic Kop (1991) in the Tribune Mordelles, at every match including in Europe.",
+   "city": "The main club of Rennes and a carrier of Breton identity (Stad Roazhon).",
+   "voice": "No documented supporter role in club decisions found.",
+   "conscience": "RCK takes anti-fascist and anti-racist positions, FARE network member; homophobic chants vs PSG investigated (outcome not found).",
+   "ground": "Roazhon Park, 29,778, city-owned, in town, well filled.",
+   "contender": "Coupe de France 2019, 3rd in 2020, regular in Europe; 6th in 2025-26.",
+   "rituals": "Breton flags (record 270 m² Gwenn-ha-du) and Celtic imagery; known in France.",
+   "stewardship": "Pinault family's Artémis since 1998, Breton owners investing long-term; academy focus.",
+   "women": "Women's side not in the top tier; estimate.",
+   "intensity": "Youth-heavy, fairly front-foot sides in recent seasons; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Rennais_FC"
+  ]
+ },
+ "170": {
+  "name": "Troyes",
+  "src": "Troyes",
+  "terrace": 2,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   48.31,
+   4.1
+  ],
+  "why": {
+   "terrace": "No notable organised end found; estimate.",
+   "city": "The only professional club of a small Champagne city.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stade de l'Aube, 20,400 (1956), often not full; estimate.",
+   "contender": "Yo-yo club: double relegation to 2024, Ligue 2 champions 2025-26, back in Ligue 1.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "City Football Group since 2020, majority Abu Dhabi United Group: state; multi-club feeder.",
+   "women": "Troyes AC Féminine, lower divisions.",
+   "intensity": "Won Ligue 2 in 2025-26; style not documented; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ES_Troyes_AC"
+  ]
+ },
+ "172": {
+  "name": "AJ Auxerre",
+  "src": "AJ Auxerre",
+  "terrace": 3,
+  "city": 7,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 1.5,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 4,
+  "ll": [
+   47.79,
+   3.59
+  ],
+  "why": {
+   "terrace": "Ultras in the OAH stand, partly closed in 2026 for pyrotechnics; known locally.",
+   "city": "A small Burgundy town where the club, built by Guy Roux, is the town's identity.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found on racism or inclusion; 2026 stand closure was for pyrotechnics; estimate.",
+   "ground": "Stade de l'Abbé-Deschamps, 18,541, beside the Yonne; traditional and compact.",
+   "contender": "Last honours 2005 (Coupe de France); 15th in Ligue 1 2025-26.",
+   "rituals": "Guy Roux era (1961-2005) folklore known in France.",
+   "stewardship": "Chinese businessman James Zhou, owner since 2016; conventional, stable.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Pragmatic survival side under Pélissier; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AJ_Auxerre"
+  ]
+ },
+ "174": {
+  "name": "AS Monaco",
+  "src": "AS Monaco",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 2,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   43.73,
+   7.42
+  ],
+  "why": {
+   "terrace": "Small ultras group; low crowds; estimate.",
+   "city": "Club of a tiny principality with a thin local fan base.",
+   "voice": "No supporter influence.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stade Louis II, about 16,000-18,500, frequently far from full.",
+   "contender": "Ligue 1 champions 2017, 2nd in 2024, 3rd in 2021, UCL regulars; 7th in 2025-26.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "Russian billionaire Dmitry Rybolovlev (66.67%) since 2011 (oligarch); House of Grimaldi/Principality 33.33%; sale explored since 2024.",
+   "women": "No top-tier women's team.",
+   "intensity": "Hütter-era high-pressing, young attacking sides; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AS_Monaco_FC"
+  ]
+ },
+ "176": {
+  "name": "Marseille",
+  "src": "Marseille",
+  "terrace": 9,
+  "city": 9,
+  "voice": 4,
+  "conscience": 4,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 4,
+  "intensity": 7,
+  "ll": [
+   43.27,
+   5.4
+  ],
+  "why": {
+   "terrace": "Commando Ultra '84 (France's first ultra group) and South Winners in the Virage Sud; famous across Europe.",
+   "city": "OM is the identity of a working port city; highest attendances in France.",
+   "voice": "Supporter groups historically manage virage season tickets; 2021 protests preceded the president's exit.",
+   "conscience": "Nothing sanctioned for racism found; fans stoned Lyon's bus in 2023 (LFP declined to sanction) and rioted at the training ground in 2021; ultras long anti-racist.",
+   "ground": "Stade Vélodrome, 67,394, regularly France's best-attended, intense ends.",
+   "contender": "Ligue 1 2010, three Coupes de la Ligue, Europa League final 2018, 2nd in 2022; 5th in 2025-26.",
+   "rituals": "'Jump' before kick-off, large tifos; known well beyond France.",
+   "stewardship": "Frank McCourt (95%) since 2016; conventional private owner with heavy losses.",
+   "women": "Première Ligue side, 9th in 2025-26.",
+   "intensity": "De Zerbi's high-tempo, front-foot side 2024-26; now Génésio; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_de_Marseille",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ "179": {
+  "name": "Toulouse",
+  "src": "Toulouse",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 3.5,
+  "rituals": 2,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   43.58,
+   1.43
+  ],
+  "why": {
+   "terrace": "Indians Tolosa ultras, organised but modest; estimate.",
+   "city": "Big city where rugby's Stade Toulousain comes first.",
+   "voice": "No supporter influence found.",
+   "conscience": "Nothing notable found; estimate.",
+   "ground": "Stadium de Toulouse, 33,150, on an island in the Garonne; reasonably filled.",
+   "contender": "Coupe de France 2023 (first major trophy), Europa League 2023-24; 9th in 2025-26.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "RedBird Capital Partners (85%) since 2020: private equity with a stake in AC Milan.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Possession, fairly front-foot sides under Carles Martínez; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toulouse_FC"
+  ]
+ },
+ "180": {
+  "name": "Strasbourg",
+  "src": "Strasbourg",
+  "terrace": 6,
+  "city": 8,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 4.5,
+  "rituals": 4,
+  "stewardship": 1,
+  "women": 4,
+  "intensity": 7,
+  "ll": [
+   48.56,
+   7.76
+  ],
+  "why": {
+   "terrace": "Ultra Boys 90 and Kop Ciel et Blanc in the north-west Kop; known in France.",
+   "city": "Strong Alsatian regional identity built around the club.",
+   "voice": "Supporter groups campaign against BlueCo ('BlueCo Out', joint march with Chelsea fans 2026); no power.",
+   "conscience": "Nothing notable found; fan protests against feeder-club treatment.",
+   "ground": "Stade de la Meinau, about 32,000, home since 1914, loud and well filled.",
+   "contender": "Coupe de la Ligue 2019, 7th in 2025, Conference League semi-final 2026.",
+   "rituals": "Kop tifos and Alsatian identity, known in France.",
+   "stewardship": "BlueCo (Boehly/Clearlake, Chelsea's owners) since 2023; fans call it a Chelsea feeder.",
+   "women": "Première Ligue side, 7th in 2025-26.",
+   "intensity": "Young, front-foot pressing side under Rosenior; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace",
+   "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
+  ]
+ },
+ "2502": {
+  "name": "Nice",
+  "src": "Nice",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   43.71,
+   7.19
+  ],
+  "why": {
+   "terrace": "Populaire Sud ultras, loud and organised; known in France.",
+   "city": "Only professional club in Nice, with Niçois identity; a tourist city.",
+   "voice": "Ultras protest against INEOS but have no formal power.",
+   "conscience": "Racist banners vs Marseille (Jan 2025, LFP case); ultras assaulted players Dec 2025; 2026 crowd trouble closed the stadium to fans for the playoff.",
+   "ground": "Allianz Riviera, 36,178, modern ground outside the centre (since 2013).",
+   "contender": "5th in 2024, cup finals 2022 and 2026; 16th in 2025-26, survived playoff 4-1 vs Saint-Étienne.",
+   "rituals": "'Nissa la Bella' anthem known in France.",
+   "stewardship": "INEOS (Jim Ratcliffe) since 2019, multi-club with a Man United stake; club for sale since 2025.",
+   "women": "Women's side outside the top tier; estimate.",
+   "intensity": "Mixed under several coaches; estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OGC_Nice"
+  ]
+ },
+ "2697": {
+  "name": "Le Mans",
+  "src": "Le Mans",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 3,
+  "contender": 2,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   47.96,
+   0.22
+  ],
+  "why": {
+   "terrace": "Small ultras presence, not widely known (estimate).",
+   "city": "Re-founded after 2013 liquidation; city identity tied mostly to the 24 Hours race.",
+   "voice": "No supporter ownership or documented influence found.",
+   "conscience": "Nothing notable found; no visible flagship inclusion work (estimate).",
+   "ground": "Stade Marie-Marvingt (25,064) sits inside the Circuit de la Sarthe, out of town; rarely full in recent years.",
+   "contender": "Promoted to Ligue 1 in May 2026 after 17 years away; no major honours.",
+   "rituals": "No widely known traditions.",
+   "stewardship": "Brazilian investment consortium OutField (Pedro Oliveira), with Djokovic, Massa, Courtois among co-investors.",
+   "women": "No top-tier women's side found (estimate).",
+   "intensity": "Promotion side; style not documented (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Mans_FC"
+  ]
+ },
+ "273": {
+  "name": "Lorient",
+  "src": "Lorient",
+  "terrace": 4,
+  "city": 6,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 1,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   47.75,
+   -3.37
+  ],
+  "why": {
+   "terrace": "Merlus Ultras lead an organised home end.",
+   "city": "Main club of a small Breton port town; strong local following.",
+   "voice": "No supporter ownership or documented influence.",
+   "conscience": "Merlus Ultras capo and a member convicted (2024 season) for attacking Ajaccio fans in town and damaging beIN Sports trucks; stadium bans.",
+   "ground": "Stade du Moustoir (18,110), compact and central.",
+   "contender": "10th in Ligue 1 2025-26 after Ligue 2 title; Coupe de France 2002.",
+   "rituals": "Breton identity and flags; little known beyond France.",
+   "stewardship": "Black Knight Football Club (Bill Foley) sole shareholder since Jan 2026; multi-club group with Bournemouth.",
+   "women": "Women's side outside the top tier (estimate).",
+   "intensity": "Mixed, possession-leaning promoted side (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Lorient",
+   "https://fr.soccerway.com/actualites/football-ligue-2-deux-supporters-du-fc-lorient-condamnes-pour-violences/Y5bvE9Kc"
+  ]
+ },
+ "3236": {
+  "name": "Le Havre AC",
+  "src": "Le Havre AC",
+  "terrace": 4,
+  "city": 6,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 5,
+  "intensity": 4,
+  "ll": [
+   49.5,
+   0.17
+  ],
+  "why": {
+   "terrace": "Barbarians Havrais (1993) and KCM 84 groups; known in France.",
+   "city": "Main club of a working port city; France's oldest professional club.",
+   "voice": "No supporter ownership or documented influence.",
+   "conscience": "Nothing notable found; no prominent inclusion work found (estimate).",
+   "ground": "Stade Océane (25,178), modern bowl outside the centre.",
+   "contender": "14th in Ligue 1 2025-26; last major honour Coupe de France 1959.",
+   "rituals": "'Le Doyen' heritage and sky-blue/navy colours; little known abroad.",
+   "stewardship": "Blue Crow Sports Group (Jeff Luhnow), a multi-club investor.",
+   "women": "Women's team plays in the top-tier Première Ligue.",
+   "intensity": "Cautious, survival-focused side (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Havre_AC"
+  ]
+ },
+ "6851": {
+  "name": "Paris FC",
+  "src": "Paris FC",
+  "terrace": 3,
+  "city": 2,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 1,
+  "stewardship": 2,
+  "women": 8,
+  "intensity": 5,
+  "ll": [
+   48.84,
+   2.25
+  ],
+  "why": {
+   "terrace": "Ultras Lutetia (2014) is the main group; small.",
+   "city": "Second club in a city dominated by PSG; small, growing base.",
+   "voice": "No supporter ownership or documented influence.",
+   "conscience": "Nothing notable sanctioned found; past supporter clashes (2010, 2014) only (estimate).",
+   "ground": "Stade Jean-Bouin (20,000) since 2025-26, compact rugby ground; season tickets up to ~7,000.",
+   "contender": "11th in 2025-26, first top-flight season since 1979; no major honours.",
+   "rituals": "No established traditions.",
+   "stewardship": "Arnault family (Agache Sport 52.4%), Red Bull 10.6% minority; billionaire- and multi-club-linked.",
+   "women": "Première Ligue side (ex-Juvisy), won the 2025 Coupe de France Féminine against PSG.",
+   "intensity": "Red Bull involvement; style not well documented (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_FC"
+  ]
+ },
+ "6997": {
+  "name": "Brest",
+  "src": "Brest",
+  "terrace": 4,
+  "city": 7,
+  "voice": 1,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 7,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   48.4,
+   -4.46
+  ],
+  "why": {
+   "terrace": "Organised home end at Francis-Le Blé; not famous beyond France (estimate).",
+   "city": "The only pro club of a working naval port at the tip of Brittany.",
+   "voice": "No supporter ownership or documented influence.",
+   "conscience": "Nothing notable found; scored on community roots (estimate).",
+   "ground": "Stade Francis-Le Blé (15,220), old and compact, ~14,500 average in 2023-24; too small for UEFA.",
+   "contender": "3rd in 2023-24 and Champions League 2024-25, then 9th and 12th.",
+   "rituals": "Breton identity; known mainly in France.",
+   "stewardship": "Local owners Denis and Gérard Le Saint (Breton businessmen); president since 2016.",
+   "women": "No notable women's side found (estimate).",
+   "intensity": "Direct, energetic team under Eric Roy (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Brestois_29"
+  ]
+ },
+ "7868": {
+  "name": "Angers",
+  "src": "Angers",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 1,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 3,
+  "ll": [
+   47.46,
+   -0.53
+  ],
+  "why": {
+   "terrace": "Small organised kop, little known (estimate).",
+   "city": "Main club of a mid-sized city; modest bond.",
+   "voice": "No supporter ownership or documented influence.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "Stade Raymond Kopa (18,752), central.",
+   "contender": "13th in 2025-26; relegated 2023, no major honours (Coupe de France finalist 2017).",
+   "rituals": "No widely known traditions.",
+   "stewardship": "Chabane family (president Romain Chabane); FIFA transfer bans in 2021 and 2023.",
+   "women": "No top-tier women's side found (estimate).",
+   "intensity": "Cautious, low-scoring side (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angers_SCO"
+  ]
+ },
+ "314": {
+  "name": "Lincoln City",
+  "src": "Lincoln City",
+  "terrace": 4,
+  "city": 7,
+  "voice": 4,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 3,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 2,
+  "intensity": 6,
+  "ll": [
+   53.22,
+   -0.54
+  ],
+  "why": {
+   "terrace": "Loud home support at Sincil Bank; known in the EFL (estimate).",
+   "city": "The city's only league club; the Imps.",
+   "voice": "Supporter-elected director (Phil Scrafton) on the board.",
+   "conscience": "FA fines in 2025: sectarian chanting at James McClean (£8,500, action plan) and homophobic chanting vs Chelsea fans (£16,000).",
+   "ground": "Sincil Bank (11,400), traditional ground since 1895, expanded 2026.",
+   "contender": "League One champions 2025-26 (103 pts); first Championship season in 65 years.",
+   "rituals": "Red-and-white stripes, Imp emblem; known locally.",
+   "stewardship": "Lincoln City Holdings (93.7%), chairman Ron Fowler; local, long-term investors.",
+   "women": "Lincoln City Women in the lower tiers.",
+   "intensity": "Data-driven, set-piece heavy, high-energy promoted side."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
+  ]
+ },
+ "318": {
+  "name": "Swansea City",
+  "src": "Swansea City",
+  "terrace": 5,
+  "city": 8,
+  "voice": 5,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 4,
+  "ll": [
+   51.64,
+   -3.93
+  ],
+  "why": {
+   "terrace": "The Jack Army; loud, known across the league.",
+   "city": "Swansea's club and Welsh identity; the city lives through the Jacks.",
+   "voice": "Supporters' Trust (2001) helped save the club; holds ~7% shares and a voice on the board.",
+   "conscience": "Club anti-racism campaigns and 2021 social-media boycott; nothing notable sanctioned found.",
+   "ground": "Swansea.com Stadium (21,000), modern bowl, not always full.",
+   "contender": "11th in 2025-26; League Cup 2013, Premier League until 2018.",
+   "rituals": "South Wales derby with Cardiff; known in Britain.",
+   "stewardship": "US owners Brett Cravatt and Jason Cohen (Swansea Football LLC, 71%), celebrity minority investors.",
+   "women": "Swansea City Women play in the top Welsh league (estimate).",
+   "intensity": "Possession-based tradition."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
+  ]
+ },
+ "333": {
+  "name": "Bristol City",
+  "src": "Bristol City",
+  "terrace": 4,
+  "city": 5,
+  "voice": 2,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   51.44,
+   -2.62
+  ],
+  "why": {
+   "terrace": "Eastend (Wedlock Stand) ultras with flags; known in the league.",
+   "city": "Shares Bristol with Rovers; big-city club.",
+   "voice": "No supporter ownership or documented influence found.",
+   "conscience": "FA fine and action plan (Aug 2025) for fans' abuse referencing race/nationality vs Cardiff in Oct 2024.",
+   "ground": "Ashton Gate (27,000), redeveloped, well filled.",
+   "contender": "12th in 2025-26; play-offs 2024-25; no major honours.",
+   "rituals": "'Cider Army' chants; known in England.",
+   "stewardship": "Steve Lansdown (Bristol-born), long-term owner; son Jon is chairman.",
+   "women": "Bristol City Women, recent WSL side (estimate).",
+   "intensity": "Mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bristol_City_F.C.",
+   "https://www.thefa.com/news/2025/aug/26/bristol-city-sanctioned-260825"
+  ]
+ },
+ "334": {
+  "name": "Queens Park Rangers",
+  "src": "Queens Park Rangers",
+  "terrace": 4,
+  "city": 4,
+  "voice": 2,
+  "conscience": 6,
+  "ground": 7,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   51.51,
+   -0.23
+  ],
+  "why": {
+   "terrace": "The Loft; vocal, known in England.",
+   "city": "Shepherd's Bush club in a London crowded with clubs.",
+   "voice": "No supporter ownership; long-running fanzine only.",
+   "conscience": "Ground renamed for the Kiyan Prince Foundation (2019-22); nothing notable sanctioned found.",
+   "ground": "Loftus Road (18,439), tight, steep, in a residential street.",
+   "contender": "15th in 2025-26; last promoted to the Premier League in 2014.",
+   "rituals": "Hoops and the Loft; known in England.",
+   "stewardship": "Ruben Gnanalingam, Lakshmi Mittal, Richard Reilly; long-term but heavy losses and a past FFP penalty.",
+   "women": "QPR Women in the lower tiers (estimate).",
+   "intensity": "Mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
+  ]
+ },
+ "336": {
+  "name": "Stoke City",
+  "src": "Stoke City",
+  "terrace": 5,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 5,
+  "stewardship": 8,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   52.99,
+   -2.18
+  ],
+  "why": {
+   "terrace": "Boothen End, loud and known in England; no famous organised group.",
+   "city": "Main club of the Potteries working city; Port Vale share the area.",
+   "voice": "Family-owned; no documented supporter influence.",
+   "conscience": "Nothing notable found; community trust work (estimate).",
+   "ground": "bet365 Stadium, 30,089-seat out-of-town bowl, not usually full.",
+   "contender": "17th of 24 in 2025-26; FA Cup final 2011.",
+   "rituals": "Delilah adopted as anthem since the 1970s, well known in England.",
+   "stewardship": "John Coates (Coates family, local, owners since 2006); debts cleared, club owns stadium and training ground.",
+   "women": "Stoke City Women in the third tier (4th in 2025-26).",
+   "intensity": "Estimate: Mark Robins sides pragmatic and direct."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stoke_City_F.C."
+  ]
+ },
+ "347": {
+  "name": "Cardiff City",
+  "src": "Cardiff City",
+  "terrace": 5,
+  "city": 6,
+  "voice": 4,
+  "conscience": 2.5,
+  "ground": 5,
+  "contender": 2.5,
+  "rituals": 6,
+  "stewardship": 3,
+  "women": 5,
+  "intensity": 5,
+  "ll": [
+   51.47,
+   -3.2
+  ],
+  "why": {
+   "terrace": "Loud Welsh support, known in the EFL; no famous organised group.",
+   "city": "Capital's football club and Welsh identity, but the city shares itself with rugby.",
+   "voice": "Fan marches reversed the 2012 red rebrand (blue restored 2015).",
+   "conscience": "FA fined the club £15,000 and imposed an action plan over homophobic chanting at Chelsea, Dec 2025.",
+   "ground": "Cardiff City Stadium, 33,316, often far from full.",
+   "contender": "Promoted from League One 2026; Premier League seasons 2013-14 and 2018-19.",
+   "rituals": "The Ayatollah and Men of Harlech, recognised beyond the club.",
+   "stewardship": "Vincent Tan (~82%); long-term funder but imposed a rebrand against fans' wishes.",
+   "women": "Cardiff City Women: Welsh top tier, champions three seasons to 2025, runners-up 2025-26.",
+   "intensity": "Estimate: Barry-Murphy, possession-based, mixed tempo."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cardiff_City_F.C."
+  ]
+ },
+ "352": {
+  "name": "Wrexham",
+  "src": "Wrexham",
+  "terrace": 5,
+  "city": 8,
+  "voice": 4,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   53.05,
+   -3.0
+  ],
+  "why": {
+   "terrace": "Loud Kop end at the Racecourse, widely seen through Welcome to Wrexham.",
+   "city": "The club is the identity of the north Wales working town (city since 2022).",
+   "voice": "Supporters' trust owned the club 2011-21; 98.6% of members approved the takeover; less power now.",
+   "conscience": "Nothing notable found; UN Football for the Goals (2025), Gresford disaster remembrance on the kit.",
+   "ground": "Racecourse Ground, 10,771, compact, historic (oldest international stadium in use), sold out.",
+   "contender": "Three straight promotions; 7th in the Championship 2025-26.",
+   "rituals": "Global fame comes from the documentary rather than matchday traditions.",
+   "stewardship": "Ryan Reynolds and Rob McElhenney; Allyn family ~15%, Apollo Sports Capital (private equity) minority stake since Dec 2025.",
+   "women": "Wrexham AFC Women won the Welsh top tier (Adran Premier) 2025-26, 2,918 at the decider.",
+   "intensity": "Estimate: Parkinson sides physical and direct, mixed."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wrexham_A.F.C."
+  ]
+ },
+ "358": {
+  "name": "Bolton Wanderers",
+  "src": "Bolton Wanderers",
+  "terrace": 4,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   53.58,
+   -2.54
+  ],
+  "why": {
+   "terrace": "Organised supporters' association, no famous singing end.",
+   "city": "Bolton's one club in a working Lancashire town; ground is in Horwich.",
+   "voice": "Supporters' association exists; no documented decision-making role.",
+   "conscience": "Nothing notable found (crowd trouble v Wigan 2021, no sanction found); community programmes.",
+   "ground": "Toughsheet Community Stadium, 28,723, out-of-town bowl.",
+   "contender": "Promoted via League One play-off final 2026; EFL Trophy 2023.",
+   "rituals": "Nothing widely known.",
+   "stewardship": "Football Ventures (Whites) Ltd 92% (chair Sharon Brittan), British Business Bank 8%; rescued from administration 2019.",
+   "women": "Estimate: women's side in the lower national divisions.",
+   "intensity": "Estimate: Evatt/Schumacher sides possession-attacking in League One."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolton_Wanderers_F.C."
+  ]
+ },
+ "365": {
+  "name": "Blackburn Rovers",
+  "src": "Blackburn Rovers",
+  "terrace": 4,
+  "city": 6.5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 4.5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 1,
+  "intensity": 4,
+  "ll": [
+   53.73,
+   -2.49
+  ],
+  "why": {
+   "terrace": "Blackburn End, organised but not famous; boycotts thin crowds.",
+   "city": "The working Lancashire town's club; Burnley rivalry.",
+   "voice": "Supporters Coalition boycotts and protests (2026) without effect on owners.",
+   "conscience": "Nothing notable found; community trust exists.",
+   "ground": "Ewood Park, historic (since 1890), 31,367, often far from full.",
+   "contender": "Mid-to-lower Championship; Premier League title 1995 is long ago.",
+   "rituals": "Nothing widely known.",
+   "stewardship": "Venky's (V H Group, 99.9%) since 2010; fans cite 15 years of neglect, Venky's Out protests.",
+   "women": "Women's side withdrew from WSL2 in 2025 and was relegated again in 2025-26.",
+   "intensity": "Estimate: mixed, frequent coaching changes."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C."
+  ]
+ },
+ "369": {
+  "name": "Middlesbrough",
+  "src": "Middlesbrough",
+  "terrace": 4,
+  "city": 8,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 3.5,
+  "rituals": 3,
+  "stewardship": 9,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   54.58,
+   -1.22
+  ],
+  "why": {
+   "terrace": "Several supporters' groups; no famous singing end.",
+   "city": "Teesside's club in a working steel town that lives through it.",
+   "voice": "No documented supporter control.",
+   "conscience": "Nothing notable found; MFC Foundation inclusion and health work across Teesside.",
+   "ground": "Riverside Stadium, 33,746, modern bowl.",
+   "contender": "5th in 2025-26 and lost the play-off final; regular play-off side.",
+   "rituals": "Nothing widely known.",
+   "stewardship": "Steve Gibson, local owner since saving the club in 1986.",
+   "women": "Affiliated since 2023; third tier (5th in 2025-26).",
+   "intensity": "Estimate: Hellberg (ex-Hammarby) attacking, front-foot."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Middlesbrough_F.C."
+  ]
+ },
+ "371": {
+  "name": "West Ham United",
+  "src": "West Ham United",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2.5,
+  "conscience": 2,
+  "ground": 3,
+  "contender": 4.5,
+  "rituals": 7,
+  "stewardship": 3.5,
+  "women": 5.5,
+  "intensity": 3.5,
+  "ll": [
+   51.54,
+   -0.02
+  ],
+  "why": {
+   "terrace": "Large, loud East London support, dispersed since the move to a 62,500 stadium.",
+   "city": "East London's club, sharing London with many others.",
+   "voice": "Hammers United and 11 groups campaign against the board (2025); little effect.",
+   "conscience": "FA fined the club £120,000 with a warning and action plan over homophobic chanting at Chelsea, Feb 2025.",
+   "ground": "London Stadium, former Olympic athletics bowl, fans far from the pitch.",
+   "contender": "Conference League winners 2023; relegated from the Premier League 2026.",
+   "rituals": "I'm Forever Blowing Bubbles, known well beyond the club.",
+   "stewardship": "Daniel Kretinsky 43%, David Sullivan 38.8%, Vanessa Gold, Tripp Smith; fan protests against the owners.",
+   "women": "West Ham Women in the top-tier WSL.",
+   "intensity": "Nuno Espirito Santo, cautious and compact."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Ham_United_F.C."
+  ]
+ },
+ "372": {
+  "name": "Charlton Athletic",
+  "src": "Charlton Athletic",
+  "terrace": 4,
+  "city": 5,
+  "voice": 6,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 2,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 6,
+  "intensity": 4,
+  "ll": [
+   51.49,
+   0.04
+  ],
+  "why": {
+   "terrace": "Covered End, organised but not famous beyond the EFL.",
+   "city": "South-east London club, much-loved locally, shares London.",
+   "voice": "Fans' Valley Party (11% of the 1990 council vote) and Valley Gold won the return to The Valley; protests against Duchatelet.",
+   "conscience": "Estimate: community trust and inclusion work well regarded; nothing notable found in sanctions search.",
+   "ground": "The Valley, 27,111, traditional and close-built; safe standing added 2024.",
+   "contender": "19th in the 2025-26 Championship after promotion in 2025.",
+   "rituals": "Return-to-The-Valley story known in England; few other traditions.",
+   "stewardship": "SE7 Partners / Global Football Partners (Methven, Warrick, chair Gavin Carter) since 2023; reported for sale Aug 2026.",
+   "women": "Charlton Women promoted to the WSL for 2026-27 via play-off.",
+   "intensity": "Estimate: Nathan Jones sides direct and physical."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlton_Athletic_F.C."
+  ]
+ },
+ "374": {
+  "name": "Derby County",
+  "src": "Derby County",
+  "terrace": 5,
+  "city": 8,
+  "voice": 3,
+  "conscience": 4.5,
+  "ground": 5.5,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 7.5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   52.92,
+   -1.45
+  ],
+  "why": {
+   "terrace": "Loud, loyal support; no famous organised end.",
+   "city": "Derby's one club; averaged 27,278 even in League One.",
+   "voice": "Estimate: fan groups vocal during the 2021-22 administration, no formal power.",
+   "conscience": "Nothing notable found; community trust and literacy work.",
+   "ground": "Pride Park, 33,597, modern bowl, well filled (never below 23,000 average).",
+   "contender": "8th in 2025-26, five points off the play-offs.",
+   "rituals": "Steve Bloomer's Watchin' and the Derby Ram tradition, known in England.",
+   "stewardship": "David Clowes, local businessman who bought the club out of administration in 2022; took it off the market after the Lion Sport takeover collapsed (Aug 2026).",
+   "women": "Derby County Women in the third tier, lower half.",
+   "intensity": "Estimate: Eustace sides organised, mixed."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derby_County_F.C."
+  ]
+ },
+ "376": {
+  "name": "Southampton",
+  "src": "Southampton",
+  "terrace": 4,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5.5,
+  "contender": 3.5,
+  "rituals": 5,
+  "stewardship": 2,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   50.91,
+   -1.39
+  ],
+  "why": {
+   "terrace": "Northam End, organised but not famous.",
+   "city": "The port city's only big club; Portsmouth rivalry.",
+   "voice": "No documented supporter influence.",
+   "conscience": "Nothing notable found; Saints Foundation community work.",
+   "ground": "St Mary's, ~32,400, compact rectangle near the centre.",
+   "contender": "4th in 2025-26 but expelled from the play-off final (espionage) and -4 points for 2026-27.",
+   "rituals": "When the Saints Go Marching In, original lyric, known in England.",
+   "stewardship": "Sport Republic (Dragan Solak), multi-club group also owning Goztepe and Valenciennes.",
+   "women": "Southampton Women in WSL2, the second tier.",
+   "intensity": "Estimate: Still and Eckert sides front-foot pressing."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southampton_F.C.",
+   "https://en.wikipedia.org/wiki/Sport_Republic"
+  ]
+ },
+ "379": {
+  "name": "Burnley",
+  "src": "Burnley",
+  "terrace": 5,
+  "city": 9,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 4,
+  "ll": [
+   53.79,
+   -2.23
+  ],
+  "why": {
+   "terrace": "Loud home ends at Turf Moor, known in England, not a famous organised end",
+   "city": "Small East Lancashire mill town; among the best-supported clubs per capita",
+   "voice": "No supporter ownership; local businessmen and fans ran it until the 2020 takeover",
+   "conscience": "Fan given three-year ban for racist abuse of a Blackburn player (2025); club reported it; 2019 report had Burnley fans highest for hate-crime reports; EqualGame award to a fan (2019)",
+   "ground": "Turf Moor, home since 1883, ~22,000, compact and usually full",
+   "contender": "Yo-yo club: Championship titles 2016 and 2023, 100 points in 2024-25; relegated from the PL in 2026",
+   "rituals": "No Nay Never; Bene and Hot served since WWI; known in England",
+   "stewardship": "ALK Capital (Alan Pace), 84% leveraged buyout in 2020, loans secured on the club",
+   "women": "Burnley Women in the second tier (estimate)",
+   "intensity": "Parker's sides built on defence; current approach under Nicky Hayen unclear (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burnley_F.C.",
+   "https://lancashire.police.uk/news/2025/january/burnley-fan-banned-after-racially-abusing-blackburn-rovers-player"
+  ]
+ },
+ "380": {
+  "name": "Wolverhampton Wanderers",
+  "src": "Wolverhampton Wanderers",
+  "terrace": 5,
+  "city": 8,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 4,
+  "rituals": 5,
+  "stewardship": 3,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   52.59,
+   -2.13
+  ],
+  "why": {
+   "terrace": "South Bank is loud and known in England (estimate)",
+   "city": "Wolverhampton's only big club, an industrial Black Country city",
+   "voice": "No supporter ownership or documented fan power",
+   "conscience": "Nothing notable found; Wolves Foundation community work (estimate)",
+   "ground": "Molineux, ~31,700, central, steep South Bank, usually full",
+   "contender": "Seventh in PL and Europa League QF 2020, FA Cup semi 2019; relegated in 2026",
+   "rituals": "Old gold, 1950s floodlit friendlies that helped inspire the European Cup",
+   "stewardship": "Fosun International (Chinese conglomerate) since 2016; seeking outside investment",
+   "women": "Wolves Women in the third tier (estimate)",
+   "intensity": "Mostly cautious, counter-attacking sides in recent seasons (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.",
+   "https://www.sportcal.com/news/textor-launches-wolves-acquisition-bid-amid-efg-turmoil/"
+  ]
+ },
+ "381": {
+  "name": "Norwich City",
+  "src": "Norwich City",
+  "terrace": 4,
+  "city": 8,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   52.62,
+   1.31
+  ],
+  "why": {
+   "terrace": "Barclay End is the home end; no famous organised group (estimate)",
+   "city": "The only big club in Norfolk; the city and county identify with it",
+   "voice": "Canaries Bond (2018) raised 5m from fans; no formal supporter power",
+   "conscience": "Nothing notable found; well-regarded community trust (estimate)",
+   "ground": "Carrow Road, ~27,000, regularly well filled",
+   "contender": "Championship titles 2019 and 2021; play-off semi 2024; mid-table since",
+   "rituals": "On the Ball, City, one of the oldest football songs still sung",
+   "stewardship": "Mark Attanasio (Milwaukee Brewers) 85%; Delia Smith and Michael Wynn-Jones keep 10%",
+   "women": "Norwich City Women in the lower tiers (estimate)",
+   "intensity": "Possession-based sides under several coaches, mixed (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Norwich_City_F.C."
+  ]
+ },
+ "383": {
+  "name": "West Bromwich Albion",
+  "src": "West Bromwich Albion",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 6,
+  "contender": 3,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   52.51,
+   -1.96
+  ],
+  "why": {
+   "terrace": "Birmingham Road End and the Boing Boing; fans voted best in the PL 2002-03",
+   "city": "West Bromwich's club, sharing the Black Country with Wolves",
+   "voice": "No supporter ownership or documented fan power",
+   "conscience": "Fined 30,000 by FA after crowd violence stopped the Jan 2024 FA Cup derby with Wolves for 38 minutes; 40+ banning orders. Has LGBT and Punjabi supporter groups",
+   "ground": "The Hawthorns, ~26,700, home since 1900",
+   "contender": "Play-off semi 2024; nearly relegated in 2025-26 with a 2-point PSR deduction",
+   "rituals": "Boing Boing, Psalm 23 anthem, The Liquidator; known in England",
+   "stewardship": "Shilen Patel (Bilkul Football WBA), private US owner since 2024; PSR breach",
+   "women": "West Brom Women in the lower tiers (estimate)",
+   "intensity": "Mixed under frequent coaching changes (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C.",
+   "https://www.expressandstar.com/sport/football/2024/07/23/west-brom-handed-fine-for-black-country-derby-trouble/"
+  ]
+ },
+ "385": {
+  "name": "Portsmouth",
+  "src": "Portsmouth",
+  "terrace": 6,
+  "city": 9,
+  "voice": 5,
+  "conscience": 5,
+  "ground": 8,
+  "contender": 2,
+  "rituals": 7,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   50.8,
+   -1.06
+  ],
+  "why": {
+   "terrace": "Fratton End, loud and known nationally (estimate)",
+   "city": "The city's only club; 'Pompey' is the city, the club and the naval base",
+   "voice": "Fan-owned by the Pompey Supporters' Trust 2013-2017; the trust backed the sale to Eisner",
+   "conscience": "Nothing notable found; community trust work (estimate)",
+   "ground": "Fratton Park, ~20,900, old, compact, usually full",
+   "contender": "FA Cup 2008; League One champions 2024; lower half of the Championship",
+   "rituals": "The Pompey Chimes, one of the oldest chants; red socks from Montgomery",
+   "stewardship": "Michael Eisner (Tornante), private owner since 2017, invested in the ground",
+   "women": "Portsmouth Women in the third tier (estimate)",
+   "intensity": "Mousinho's sides front-foot in League One, mixed since (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portsmouth_F.C."
+  ]
+ },
+ "391": {
+  "name": "Millwall",
+  "src": "Millwall",
+  "terrace": 6,
+  "city": 6,
+  "voice": 3,
+  "conscience": 1.5,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   51.49,
+   -0.05
+  ],
+  "why": {
+   "terrace": "The Den's hostile atmosphere is known well beyond the league",
+   "city": "Docker roots in South-east London; a tight local identity in a city of many clubs",
+   "voice": "No supporter ownership; fan campaigns over Den land redevelopment (estimate)",
+   "conscience": "FA fined the club 15,000 for anti-gay chants (2025) and 45,000 for disability-discriminatory chanting (2026), third breach in three years, action plan to 2027",
+   "ground": "The Den, ~20,100, opened 1993, compact and loud; 2025-26 average highest since 1953",
+   "contender": "Third in 2025-26, lost play-off semi; FA Cup final 2004",
+   "rituals": "'No one likes us' chant known worldwide; Dockers' Days",
+   "stewardship": "Berylson family since 2007, long-term funders; James Berylson chairman",
+   "women": "Millwall Lionesses, one of England's oldest women's clubs, now lower tier (estimate)",
+   "intensity": "Alex Neil's sides direct, physical, high-tempo (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Millwall_F.C.",
+   "https://www.beinsports.com/en-au/football/carabao-cup/articles-video/millwall-fined-over-offensive-chanting-in-carabao-cup-tie-2026-03-10",
+   "https://www.thepinknews.com/2025/07/01/millwall-fined-for-anti-gay-chant-ben-chilwell"
+  ]
+ },
+ "392": {
+  "name": "Birmingham City",
+  "src": "Birmingham City",
+  "terrace": 6,
+  "city": 5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 6,
+  "stewardship": 3,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   52.48,
+   -1.87
+  ],
+  "why": {
+   "terrace": "Tilton Road End, loud and known in England (estimate)",
+   "city": "Shares Birmingham with Aston Villa; strong in east Birmingham",
+   "voice": "No supporter ownership or documented fan power",
+   "conscience": "Nothing notable found recently; foundation runs schools programmes (estimate)",
+   "ground": "St Andrew's @ Knighthead Park, ~29,400, home since 1906; new stadium planned",
+   "contender": "League One champions 2025 with record points; League Cup 2011",
+   "rituals": "Keep Right On to the End of the Road, sung since 1956",
+   "stewardship": "Knighthead Capital (investment firm, Tom Wagner) ~97%; Tom Brady minority; heavy investment",
+   "women": "Birmingham City Women, ex-WSL, second tier, new investor group incl. Karen Carney (2026)",
+   "intensity": "Chris Davies' sides dominate the ball and attack (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Birmingham_City_F.C."
+  ]
+ },
+ "394": {
+  "name": "Preston North End",
+  "src": "Preston North End",
+  "terrace": 3,
+  "city": 7,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 4,
+  "ll": [
+   53.77,
+   -2.69
+  ],
+  "why": {
+   "terrace": "No notable organised singing section (estimate)",
+   "city": "Preston's only club, a founder member and the original Invincibles",
+   "voice": "No supporter ownership or documented fan power",
+   "conscience": "Striker Osmajic banned nine matches for racially abusing Hannibal Mejbri (2025); club disputed it; no fan sanction found",
+   "ground": "Deepdale, ~23,400, home since 1875, often part-full",
+   "contender": "Mid-table Championship since 2015; best finish 7th",
+   "rituals": "Invincibles history; little known beyond the club",
+   "stewardship": "Wordon Ltd, the late Trevor Hemmings' family holding; long-term local owners",
+   "women": "No women's team; it became Fylde Ladies in 2016",
+   "intensity": "Mixed, pragmatic sides (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_North_End_F.C.",
+   "https://www.espn.com/soccer/story/_/id/46883459/preston-slam-fa-ban-milutin-osmajic-alleged-racist-comments-hannibal-mejbri"
+  ]
+ },
+ "395": {
+  "name": "Watford",
+  "src": "Watford",
+  "terrace": 3,
+  "city": 6,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 4,
+  "stewardship": 2,
+  "women": 3,
+  "intensity": 4,
+  "ll": [
+   51.65,
+   -0.4
+  ],
+  "why": {
+   "terrace": "No notable organised singing section (estimate)",
+   "city": "The town's only club, a commuter town near London",
+   "voice": "Fan pressure restored Z-Cars walk-out music (2019); 10% stake offered to fans (2024)",
+   "conscience": "Nothing notable found; Jewish Hornets group, community trust",
+   "ground": "Vicarage Road, ~22,000",
+   "contender": "FA Cup final 2019; lower half of the Championship since 2022",
+   "rituals": "Z-Cars walk-out; Elton John link",
+   "stewardship": "Gino Pozzo, multi-club with Udinese (sale under way); constant coach churn",
+   "women": "Watford Women in the second or third tier (estimate)",
+   "intensity": "Mixed under many short-lived coaches (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Watford_F.C.",
+   "https://www.calcioefinanza.it/2025/05/25/udinese-ceduta-fondo-usa-si-chiude-era-pozzo/"
+  ]
+ },
+ "398": {
+  "name": "Sheffield United",
+  "src": "Sheffield United",
+  "terrace": 6,
+  "city": 7,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 4,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   53.37,
+   -1.47
+  ],
+  "why": {
+   "terrace": "Kop at Bramall Lane, loud and known in England (estimate)",
+   "city": "Shares Sheffield, a working steel city, with Wednesday; nickname from the cutlery trade",
+   "voice": "No supporter ownership or documented fan power",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Bramall Lane, ~32,000, oldest major football ground still in use",
+   "contender": "PL 2023-24; play-off final 2025; 13th in 2025-26",
+   "rituals": "Greasy Chip Butty song, known in England",
+   "stewardship": "COH Sports (Steven Rosen, Helmy Eltoukhy); parent company wound up 2026 over money owed to Prince Abdullah; points deduction possible",
+   "women": "Sheffield United Women in the second tier (estimate)",
+   "intensity": "Chris Wilder's front-foot, overlapping centre-back style (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheffield_United_F.C.",
+   "https://www.lbc.co.uk/news/sport/sheffield-united-in-crisis-owners-company-wound-up-high-court/"
+  ]
  }
 }
