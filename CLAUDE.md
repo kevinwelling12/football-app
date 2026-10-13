@@ -22,7 +22,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
       logos/             crests (<espnId>-d.png dark, <espnId>.png light), from scripts/logos.py
     history/<k>/<season>.json   ESPN history, 2016 on, 18 leagues (6 shown + 12 that only feed ratings). odds/ = football-data.co.uk CSVs
     model/params.json    tuned parameters + backtest results (scripts/backtest.mjs --tune)
-    data/affinity.json   provisional Affinity scores
+    data/affinity.json   provisional Affinity scores, keyed by ESPN team id ([name, score]); new clubs get reported by the sync
     scripts/             backfill.mjs, sync.mjs, backtest.mjs, logos.py, serve.mjs, lib/
 
 ## Run

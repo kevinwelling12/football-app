@@ -68,7 +68,6 @@ async function groupsFor(k) {
   return { g, rank };
 }
 
-const normName = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '');
 
 async function publish() {
   const index = { updated: new Date().toISOString(), leagues: {} };
@@ -91,8 +90,9 @@ async function publish() {
       const aff = affinity[k] || {};
       const teams = ids.map(id => {
         const t = S.teams[id], A = fit.A[id] ?? Math.exp(P.gamma * (((elo.R[id] ?? fit.eloMean) - fit.eloMean) / 400) / 2), D = fit.D[id] ?? 1 / A;
-        const a = Object.entries(aff).find(([n]) => normName(n) === normName(t.n) || normName(n) === normName(t.s));
-        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), aff: a ? a[1] : null, espnRank: rank[id] };
+        // data/affinity.json is keyed by ESPN team id ([name, score]); a club with no entry shows no Affinity
+        if (!aff[id]) report.push(`${k}: no Affinity for ${t.n} (${id}), add it to data/affinity.json`);
+        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), aff: aff[id]?.[1] ?? null, espnRank: rank[id] };
       });
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;
       const base = (fit.base[k] || [1.5, 1.2]).map(x => +x.toFixed(4));
