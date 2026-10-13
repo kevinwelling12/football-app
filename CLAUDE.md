@@ -43,8 +43,10 @@ web/affinity.js v3: logistic model fitted in the page to Kevin's "which would yo
 traits can only pull, only state ownership / racism or fan-culture record / rivals (data/affinity/rivals.json) push,
 league familiarity fitted but excluded from Affinity, small per-club adjustments. 77% of 454 held-out picks (v1: 53%). His clubs aren't scored. Analyse new picks with
 scripts/affinity/analyze.mjs (Settings > Copy my club picks).
-Players: web/players.js, same engine, 463 researched players (data/affinity/players.json), "who would you rather your son
-look up to?" picks (state.playerPicks); Clubs page > Players. scripts/affinity/analyze_players.mjs.
+Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
+club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),
+"who would you rather your son look up to?" picks (state.playerPicks); Clubs page > Players. scripts/affinity/analyze_players.mjs.
+Serious wrongdoing = harm to people; uncharged allegations aren't coded; minor offences are lesser (docs/affinity.md).
 
 ## Match importance, match of the day/week
 sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.

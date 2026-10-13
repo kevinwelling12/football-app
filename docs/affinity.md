@@ -53,18 +53,32 @@ Kevin's goal: lists topped by players he'd like his son to look up to — humble
 time for fans, speak out for what's right, stay out of trouble, and deliver performances worthy of the highlight reels.
 
 Same framework as clubs (web/players.js on the shared engine `fitPairs` in web/affinity.js):
-- Data: data/affinity/players.json, 463 players (399 men, 64 women; 286 active) imported from the old app's research by
-  scripts/affinity/build_players.py: career (clubs and years, mapped to ESPN ids where the club has traits; women's
-  careers link only to NWSL clubs), six audited 0–10 traits (old SCORING_BRIEF.md anchors), incident codes.
+- Data: data/affinity/players.json, 2,340 players (2,055 men, 285 women; 2,163 active):
+  - 463 imported from the old app's research by scripts/affinity/build_players.py (old SCORING_BRIEF.md anchors);
+  - 1,879 current regulars of all 136 clubs (data/affinity/squads.json from scripts/affinity/squads.mjs: the 15 most
+    used per club from this season's ESPN lineups), researched in 63 batches against data/affinity/research/BRIEF.md
+    (in/bNN.json -> out/bNN.json; Wikipedia first, sources = pages actually opened, confidence high/medium/low), then
+    upserted by scripts/affinity/merge_research.py. Full rebuild: `build_players.main(<old repo>)`, then
+    merge_research.py, then copy to web/data/players.json.
+  - Careers map to ESPN ids where the club has traits; women's careers link only to NWSL clubs; reserve and B teams
+    ("Portland Timbers 2") never link to the first team.
+  - ESPN's nation/age is sometimes wrong for USL/MLS squad players; researchers use the player at the ESPN club and say
+    "identity: ESPN lists X" in notes (about 30 cases).
 - Pulls: Character, Team player, Loyalty, Greatness, Joy to watch, Legacy; share of seasons at your clubs (never shown as
   a minus); the seasons-weighted Affinity of the other clubs he played for (can be negative: state-owned clubs).
-- Pushes: serious wrongdoing (abuse, racist abuse, match-fixing, other conviction), lesser offences (doping, tax fraud,
-  violent conduct), money or sportswashing move (Saudi/Qatar/UAE/China, authoritarian ambassador), forced a move or joined
+- Pushes: serious wrongdoing (harm to people: abuse allegations once charged, racist/homophobic abuse, match-fixing,
+  convictions where someone was hurt or put at risk such as assault or drink-driving), lesser offences (doping, tax
+  fraud, off-the-ball violent conduct incl. spitting, stamps, hair-pulling; minor offences with no one harmed such as
+  licence or careless-driving cases), money or sportswashing move (Saudi/Qatar/UAE/China, authoritarian ambassador), forced a move or joined
   a bitter rival.
 - Familiarity, fitted then left out: still playing, women's game.
 - Quiz: "Who would you rather your son look up to?" Same game only (men with men, women with women); Details shows
   career, character note and record. Picks sync as state.playerPicks.
 - UI: Clubs page > Players (Men active / Men all-time / Women), player sheet (traits with evidence, career, honours,
   causes, record), "Players who played here" on club sheets.
+- Kevin's rules (2026-10-13): an allegation under investigation but never charged is not coded (Bastoni, Mbappé, Sano);
+  driving without a licence and the like are lesser, not serious (Reus); a club trade isn't joining a rival.
+- 711 picks (355 answered): 66% of held-out picks. Character +1.9, serious wrongdoing −1.25 (−0.67 before minor
+  offences moved out), legacy +0.9, money move −0.8, team player +0.6; greatness and loyalty ~0.
 - Analysis: Settings > Copy my player picks (and club picks), then
   `node scripts/affinity/analyze_players.mjs player_picks.json club_picks.json`.
