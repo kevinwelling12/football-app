@@ -185,6 +185,16 @@ function affinity() {
 const affOf = id => (TRAITS[id] && !favIds().has(id) ? affinity().model.affinity(id) : null);
 const reasonsOf = id => (TRAITS[id] ? affinity().model.reasons(id) : { good: [], bad: [] });
 const lc = t => AF.LABEL[t][0].toLowerCase() + AF.LABEL[t].slice(1);
+// whose rival a club is ("Liverpool's rival")
+const rivalOf = id => Object.entries(RIVALS).filter(([k, v]) => k !== '_note' && v.rivals?.[id]).map(([, v]) => v.club.replace(/ FC$/, ''));
+const shortText = (id, f) => (f === 'rival' ? `${rivalOf(id).join(' and ') || 'your club'}'s rival` : AF.SHORT[f]);
+// One line of reasons: strengths, what your picks say beyond the traits, then the biggest thing against it
+function whyLine(id) {
+  const r = reasonsOf(id), adj = affinity().model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(lc);
+  if (adj > 0.3) parts.push('you often pick them'); else if (adj < -0.3) parts.push('you rarely pick them');
+  const bad = r.bad[0];
+  return [parts.join(', '), bad ? `but ${shortText(id, bad)}` : ''].filter(Boolean).join(', ');
+}
 
 // "Pull for" on a neutral match: the club with clearly more Affinity, and why
 function pullFor(k, m) {
@@ -424,7 +434,7 @@ function viewLeagueAffinity(k) {
   L.teams.forEach((t, i) => { if (!TRAITS[t.id]) none.push([i, t]); else if (fav.has(t.id)) mine.push([i, t, null]); else rest.push([i, t, affOf(t.id)]); });
   rest.sort((a, b) => b[2] - a[2]);
   const row = ([i, t, v], n) => {
-    const r = reasonsOf(t.id), why = v == null ? 'your club' : [...r.good.slice(0, 2).map(lc), ...r.bad.slice(0, 1).map(f => 'but ' + lc(f))].join(', ');
+    const why = v == null ? 'your club' : whyLine(t.id);
     const grp = LEAGUES[k].groups && t.g ? ` <span class="faint tiny">${esc(t.g.replace(/ern$/, ''))}</span>` : '';
     return `<tr class="click${v == null ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${v == null ? '★' : n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)}${grp}<br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${v == null ? '' : Math.round(v)}</td></tr>`;
   };
@@ -559,7 +569,7 @@ function viewClubs() {
     if (fav.has(t.id)) mine.push([k, i, t]); else aff.push([k, i, t, affOf(t.id)]);
   });
   aff.sort((a, b) => b[3] - a[3]);
-  const row = ([k, i, t, v], n) => { const r = reasonsOf(t.id), why = v == null ? 'your club' : [...r.good.slice(0, 2).map(lc), ...r.bad.slice(0, 1).map(f => 'but ' + lc(f))].join(', ');
+  const row = ([k, i, t, v], n) => { const why = v == null ? 'your club' : whyLine(t.id);
     return `<tr class="click${v == null ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${v == null ? '★' : n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)} <span class="faint tiny">${LEAGUES[k].tag}</span><br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${v == null ? '' : Math.round(v)}</td></tr>`; };
   html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${mine.map(r => row([...r, null], 0)).join('')}${aff.slice(0, 30).map(row).join('')}</table></div>
     <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks: researched traits that can only pull a club toward you, three things that can only push it away (state ownership, a racism or fan-culture record, rivalry with your clubs), plus a small adjustment per club from your own answers. Your clubs aren't scored. Rivals: ${esc(rivalNames.join('; '))}.</p>`;
@@ -656,7 +666,7 @@ function clubSheet(k, i, keep = false) {
   }
   if (TRAITS[t.id]) {
     const tr = AF.withGeo(TRAITS[t.id]), r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
-    html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(lc).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
+    html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(f => shortText(t.id, f)).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
       <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${A.model.beta[k] > 0.15 ? 'counts' : 'little'}</div>`).join('')}</div></div>`;
   }
   const mine = ms.filter(m => m.h === i || m.a === i);

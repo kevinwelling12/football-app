@@ -19,6 +19,11 @@ export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo
   geography: 'Near Sacramento', contender: 'Contender', intensity: 'High-energy football',
   stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL' };
+// how to say a shortfall (a trait below the typical club's, costing Affinity) or a flag that applies
+export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
+  conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
+  geography: 'far away', contender: 'rarely contends', intensity: 'a cautious style',
+  stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival' };
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
   geography: 0.3, contender: 0, intensity: 0.3, stateOwner: -2, incidents: -1, rival: -1, lg_bl: 0, lg_ucl: 0, lg_mls: 0, lg_nwsl: 0, lg_usl: 0 };
