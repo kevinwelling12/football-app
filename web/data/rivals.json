@@ -1,5 +1,5 @@
 {
-  "_note": "Rivals of Kevin's clubs (ESPN team ids). Rivalry counts against a club in Affinity; its weight is fitted from his picks. Starting list 2026-10-13, for Kevin to correct. 2026-10-13: Vancouver and Seattle Reign removed (Kevin; his picks: 8-0 and 7-1).",
+  "_note": "Rivals of Kevin's clubs (ESPN team ids). Rivalry counts against a club in Affinity; its weight is fitted from his picks. Starting list 2026-10-13, for Kevin to correct. 2026-10-13: Vancouver and Seattle Reign removed (Kevin; his picks: 8-0 and 7-1). Monterey Bay removed (Kevin: too new to be a rival yet).",
   "364": {
     "club": "Liverpool",
     "rivals": {
@@ -24,8 +24,7 @@
   "17828": {
     "club": "Sacramento Republic FC",
     "rivals": {
-      "20687": "Oakland Roots",
-      "21370": "Monterey Bay"
+      "20687": "Oakland Roots"
     }
   }
 }
