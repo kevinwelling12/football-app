@@ -1,0 +1,2014 @@
+[
+ {
+  "espn_id": "402879",
+  "name": "Emil Jääskeläinen",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Finland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big East Offensive Player of the Year 2024; NEC Player of the Year 2022, 2023; Finland U18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "First USL season after college and a reserve-team year",
+   "AB": "Prolific college scorer (Hermann Trophy finalist), first USL Championship season",
+   "ST": "Goal-scoring forward",
+   "LE": "Son of Jussi Jääskeläinen; Finland youth caps only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. St. Louis City 2 (reserve side, 2025) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emil_J%C3%A4%C3%A4skel%C3%A4inen"
+  ]
+ },
+ {
+  "espn_id": "196352",
+  "name": "Jordan Rossiter",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Liverpool",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Rangers",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Fleetwood Town",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Bristol Rovers",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Shrewsbury Town",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Waterford",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Fleetwood Town club captain 2021-22; captained England U16",
+  "honours": "Victory Shield 2012 (England U16); League Two promotion with Bury 2019 (loan); National League play-offs 2025 with Oldham (loan); Liverpool Academy Player of the Season 2013-14",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record beyond football; helped coach at Bristol Rovers while injured",
+   "WK": "Holding midfielder; made Fleetwood club captain",
+   "LO": "Liverpool academy graduate, then many clubs, much of it lost to injury",
+   "AB": "Liverpool debut at 17 and League One regular; career cut by injuries",
+   "ST": "Passing midfielder, not a flair player",
+   "LE": "Liverpool's second-youngest scorer; otherwise a lower-league career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: three-match ban in August 2022 (Bristol Rovers) after admitting an FA violent-conduct charge for an incident the referee missed.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Rossiter"
+  ]
+ },
+ {
+  "espn_id": "307210",
+  "name": "Harvey Neville",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Inter Miami",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Leagues Cup 2023 (Inter Miami squad); Republic of Ireland U19",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Several clubs in a short career, often where his father coached",
+   "AB": "Fringe MLS player, now a USL Championship right-back",
+   "ST": "Right-back, no particular flair noted",
+   "LE": "Son of Phil Neville; Republic of Ireland U19"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Fort Lauderdale CF and Portland Timbers 2 (reserve sides) and a 2025 loan to San Antonio left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvey_Neville"
+  ]
+ },
+ {
+  "espn_id": "216857",
+  "name": "Kieran Sadlier",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Republic of Ireland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "West Ham United",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "St Mirren",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Peterborough United",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Sligo Rovers",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Cork City",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Doncaster Rovers",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Rotherham United",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Bolton Wanderers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Wycombe Wanderers",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League of Ireland Premier Division and FAI Cup 2017 (Cork City); EFL Trophy 2021-22 (Rotherham), 2022-23 (Bolton); League Two 2022-23 (Leyton Orient, loan); PFAI Team of the Year 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Journeyman: ten clubs, none for more than two years",
+   "AB": "League of Ireland title winner and Championship/League One regular",
+   "ST": "Wide attacker, Sporting JAX's No. 10 with 10 goals this season",
+   "LE": "Irish double 2017 and two EFL Trophies; Ireland youth caps only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kieran_Sadlier"
+  ]
+ },
+ {
+  "espn_id": "182349",
+  "name": "Ryan Edwards",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1993,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Blackburn Rovers",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Morecambe",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Plymouth Argyle",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Blackpool",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Dundee United",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Chennaiyin",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Falkirk",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Blackburn's 2011-12 FA Youth Cup final side",
+  "honours": "Morecambe Player of the Year 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against. Survived testicular cancer.",
+   "WK": "Centre-back; Morecambe Player of the Year 2017",
+   "LO": "Journeyman, longest spells three years at Morecambe and Dundee United",
+   "AB": "Scottish Premiership and Indian Super League regular",
+   "ST": "No-frills centre-back",
+   "LE": "Club regular; no major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Indian Super League move is not a money_league case.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Edwards_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "espn_id": "254069",
+  "name": "Wan Kuzain",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Rio Grande Valley FC Toros",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Goal of the Year 2018; Malaysia 4 caps, 1 goal; US youth caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Four seasons at St. Louis City 2 before Sporting JAX",
+   "AB": "Long-time MLS Next Pro regular, now USL Championship and Malaysia international",
+   "ST": "Midfielder; USL Goal of the Year 2018",
+   "LE": "Malaysia caps and a goal in 2026; otherwise a lower-league career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. US-born, ESPN lists USA; plays senior football for Malaysia. Reserve sides (Swope Park Rangers 2017-20, St. Louis City 2 2022-25) left out of clubs.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wan_Kuzain"
+  ]
+ },
+ {
+  "espn_id": "240749",
+  "name": "Edgardo Rito",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Venezuela",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlético El Vigía",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "ACD Lara",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Estudiantes de Caracas",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Yaracuyanos",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Patriotas Boyacá",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League First Team 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "Right-back/right midfielder; 6.0 default",
+   "LO": "Journeyman across Venezuela, Colombia and the USL",
+   "AB": "USL Championship All-League First Team 2022",
+   "ST": "Attacking right-back",
+   "LE": "Club regular; Venezuela youth only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Loans (Mineros, Patriotas, Metropolitanos, NY Red Bulls II, Caracas) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edgardo_Rito"
+  ]
+ },
+ {
+  "espn_id": "293448",
+  "name": "Tyshawn Rose",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "First USL Championship club after MLS Next Pro reserve sides",
+   "AB": "Boston College, then North Texas SC and Huntsville City FC",
+   "ST": "Left-back",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club announcement only (age 25, birth year estimated). North Texas SC and Huntsville City FC are MLS reserve sides, left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sportingjax.com/news/2026/01/08/sporting-jax-bolsters-back-line-with-latest-usl-championship-signings/"
+  ]
+ },
+ {
+  "espn_id": "326235",
+  "name": "Rafferty Pedder",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Tottenham and QPR academies, Tacoma Defiance, then Sporting JAX",
+   "AB": "Squad midfielder in his first USL Championship season",
+   "ST": "Creative midfielder per club bio",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club bio only (born 2002, Maidstone). QPR years not confirmed, Oxford City and Tacoma Defiance (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sportingjax.com/roster/rafferty-pedder/"
+  ]
+ },
+ {
+  "espn_id": "192547",
+  "name": "Antonio Gomez",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "All-WAC Second Team 2021 (California Baptist)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "Started all 71 college matches; 6.0 default",
+   "LO": "On loan from Austin FC II for 2026",
+   "AB": "MLS Next Pro regular, loan to USL Championship",
+   "ST": "Centre-back",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club releases only (age 24, from Las Vegas). On loan from Austin FC II (reserve side, 2024-25, left out of clubs).",
+  "confidence": "low",
+  "sources": [
+   "https://www.austinfc.com/austinfcii/news/austin-fc-ii-loans-antonio-gomez-to-sporting-club-jacksonville",
+   "https://www.sportingjax.com/news/2026/01/27/sporting-jax-usl-championship-mens-team-makes-three-new-roster-additions/"
+  ]
+ },
+ {
+  "espn_id": "271517",
+  "name": "Wahab Ackwei",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Ghana",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Inter Allies",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Richmond Kickers",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC Toros",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League Second Team 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Journeyman across USL clubs",
+   "AB": "USL Championship All-League Second Team 2022",
+   "ST": "No-frills centre-back",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. New York Red Bulls II (reserve side, 2018) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wahab_Ackwei"
+  ]
+ },
+ {
+  "espn_id": "400665",
+  "name": "Ahmad Al-Qaq",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Palestine",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "North Carolina FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Palestine 8 caps, 1 goal",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Second professional club",
+   "AB": "USL Championship regular and Palestine international",
+   "ST": "Attacking wide player",
+   "LE": "Palestine caps (8, 1 goal)"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. US-born to Palestinian parents. Amateur USL League Two sides left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ahmad_Al-Qaq"
+  ]
+ },
+ {
+  "espn_id": "220528",
+  "name": "Jake McGuire",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Gefle IF",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Örebro SK",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Miami FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read; 6.0 default",
+   "LO": "Journeyman goalkeeper, two spells at North Carolina FC",
+   "AB": "USL Championship and Swedish second-tier starter",
+   "ST": "Goalkeeper",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Bethlehem Steel (Union reserve side, loan) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_McGuire"
+  ]
+ },
+ {
+  "espn_id": "167806",
+  "name": "Thomas Roberts",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Austria Klagenfurt",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Stabæk",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth caps (U16, U18, U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "FC Dallas academy product, then several clubs",
+   "AB": "Brief MLS and Austrian Bundesliga minutes; USL Championship now",
+   "ST": "Midfielder",
+   "LE": "US youth international only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Klagenfurt was a season loan from FC Dallas; reserve sides (North Texas SC, Columbus Crew 2) left out.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_Roberts_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "305953",
+  "name": "Raheem Somersall",
+  "club_id": "131578",
+  "gender": "M",
+  "born": 1997,
+  "nation": "St Kitts and Nevis",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Tucson",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Tormenta FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Sporting JAX",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "St Kitts and Nevis 26 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "Defensive midfielder; 6.0 baseline",
+   "LO": "Four seasons at North Carolina FC",
+   "AB": "USL regular and St Kitts and Nevis international",
+   "ST": "Holding midfielder",
+   "LE": "26 caps for St Kitts and Nevis"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Amateur sides (Ocean City, IMG Academy) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raheem_Somersall"
+  ]
+ },
+ {
+  "espn_id": "316453",
+  "name": "Nathan Dossantos",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Woodbridge Strikers",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Sigma FC",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Pittsburgh Riverhounds SC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA championship 2020 (Marshall); Conference USA Defensive Player of the Year 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read; 6.0 default",
+   "LO": "Two-season spells at each USL club",
+   "AB": "Long-time USL Championship starting centre-back",
+   "ST": "No-frills centre-back",
+   "LE": "College national champion; little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Dossantos"
+  ]
+ },
+ {
+  "espn_id": "316480",
+  "name": "Max Schneider",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One regular season and playoffs 2024 (Union Omaha); USL League One All-League First Team 2025; NCAA championship 2020 (Marshall)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Leverkusen youth, then several US clubs",
+   "AB": "USL League One title winner, now USL Championship regular",
+   "ST": "Midfielder",
+   "LE": "League One double 2024; little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. St. Louis City 2 (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Max_Schneider_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "319042",
+  "name": "Charlie Ostrem",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Western Suburbs",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One Golden Playmaker 2025; Pac-12 Defensive Player of the Year 2020-21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Short spells so far",
+   "AB": "USL League One standout, now USL Championship starter",
+   "ST": "Attacking left-back (League One Golden Playmaker 2025)",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Chicago Fire II (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlie_Ostrem"
+  ]
+ },
+ {
+  "espn_id": "380211",
+  "name": "Matt Myers",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Charleston Battery",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Golden Boot 2023 (NYCFC II); Big Ten Player of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Two seasons at Charleston",
+   "AB": "Prolific USL Championship striker (30 in 60 at Charleston, 12 this season)",
+   "ST": "Goal-scoring striker",
+   "LE": "MLS Next Pro Golden Boot 2023"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: ESPN's Matt Myers is Wikipedia's MD Myers (Matthew Dylan Myers), Tampa No. 9, born 2001. NYCFC II (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Myers",
+   "https://en.wikipedia.org/wiki/MD_Myers"
+  ]
+ },
+ {
+  "espn_id": "255294",
+  "name": "Jahmali Waite",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Jamaica",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds SC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF Nations League bronze 2024 (Jamaica); 17 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read; 6.0 default",
+   "LO": "Two seasons at each club",
+   "AB": "USL Championship starter and Jamaica international",
+   "ST": "Goalkeeper",
+   "LE": "17 Jamaica caps; Nations League bronze 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Bethlehem Steel (reserve side) and amateur sides left out of clubs.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jahmali_Waite"
+  ]
+ },
+ {
+  "espn_id": "230600",
+  "name": "Russell Cicerone",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Saint Louis FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Pittsburgh Riverhounds SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MAC Player of the Year 2015 (Buffalo); PDL title 2016 (Michigan Bucks)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Three seasons at Sacramento Republic, otherwise two-year spells",
+   "AB": "Reliable USL Championship scorer (30 in 66 at Pittsburgh, 28 for Sacramento)",
+   "ST": "Attacking winger/forward",
+   "LE": "Club regular; little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Portland Timbers 2 (reserve side) and amateur sides left out of clubs.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Russell_Cicerone"
+  ]
+ },
+ {
+  "espn_id": "271891",
+  "name": "Sebastian Cruz",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "AV Alta FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Sporting KC academy, then short spells",
+   "AB": "USL Championship squad midfielder",
+   "ST": "Attacking midfielder",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sporting KC II (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Cruz"
+  ]
+ },
+ {
+  "espn_id": "316468",
+  "name": "Pedro Dolabella",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rochester New York FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA championship 2020 (Marshall); Conference USA Player of the Year 2021; MLS Next Pro Best XI 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Short spells at four clubs",
+   "AB": "USL League One and Championship regular",
+   "ST": "Attacking midfielder/forward",
+   "LE": "College national champion; little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Dolabella"
+  ]
+ },
+ {
+  "espn_id": "258021",
+  "name": "Dion Acoff",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Þróttur",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Valur",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "SJK",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Þróttur",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Grindavík",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Úrvalsdeild 2017, 2018; Icelandic League Cup 2018; Icelandic Super Cup 2017, 2018 (Valur)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read; 6.0 default",
+   "LO": "Four seasons at Union Omaha",
+   "AB": "Two Icelandic titles with Valur; USL regular",
+   "ST": "Forward turned attacking right-back",
+   "LE": "Icelandic champion twice"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dion_Acoff"
+  ]
+ },
+ {
+  "espn_id": "318907",
+  "name": "Louis Pérez",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "FC Tucson",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AAC Midfielder of the Year 2018 (UCF)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Three seasons at North Carolina FC",
+   "AB": "PSG and Troyes youth; USL Championship regular",
+   "ST": "Central midfielder",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Troyes II (reserve side) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louis_Perez"
+  ]
+ },
+ {
+  "espn_id": "256234",
+  "name": "Marco Micaletto",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tormenta FC",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Columbus Crew 2's first captain (2022-23)",
+  "honours": "MLS Next Pro Cup 2022 and Cup MVP (Columbus Crew 2)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "Named Columbus Crew 2's first captain",
+   "LO": "Five seasons at Tormenta",
+   "AB": "USL Championship regular",
+   "ST": "Attacking midfielder, a playmaker",
+   "LE": "MLS Next Pro Cup 2022 and its MVP"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Columbus Crew 2 (reserve side, 2022-23) and amateur sides left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Micaletto"
+  ]
+ },
+ {
+  "espn_id": "236647",
+  "name": "Lewis Hilton",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1993,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Charlotte Independence",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Saint Louis FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NSCAA All-American twice (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "Long-serving midfielder; 6.0 baseline plus durability",
+   "LO": "Seventh season and 160+ appearances at Tampa Bay",
+   "AB": "USL Championship regular",
+   "ST": "Central midfielder",
+   "LE": "Club stalwart; little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Ocala Stampede (amateur) left out of clubs.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Hilton"
+  ]
+ },
+ {
+  "espn_id": "373950",
+  "name": "Brian Schaefer",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read; 6.0 default",
+   "LO": "On loan from FC Cincinnati 2; Jacksonville-area local",
+   "AB": "Young USL Championship centre-back",
+   "ST": "No-frills centre-back",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from FC Cincinnati 2 (reserve side); short 2025 loan to Indy Eleven skipped.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Schaefer"
+  ]
+ },
+ {
+  "espn_id": "302900",
+  "name": "Evan Conway",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Union Omaha",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Two-season spells at each club",
+   "AB": "USL Championship forward (21 in 50 at North Carolina FC)",
+   "ST": "Forward",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Ventura County Fusion (amateur) left out of clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evan_Conway"
+  ]
+ },
+ {
+  "espn_id": "295522",
+  "name": "Karsen Henderlong",
+  "club_id": "17361",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Naples",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "All-USL League One First Team 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known for or against.",
+   "WK": "No public read on work rate; 6.0 default",
+   "LO": "Short spells so far",
+   "AB": "USL League One standout, squad forward in the Championship",
+   "ST": "Forward",
+   "LE": "Little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karsen_Henderlong"
+  ]
+ }
+]

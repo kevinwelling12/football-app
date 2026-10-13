@@ -454,5 +454,1076 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Laney_Rouse"
   ]
+ },
+ {
+  "espn_id": "225383",
+  "name": "Bayley Feist",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2021; NWSL Shield 2025; Spirit Player of the Year 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "nothing known either way",
+   "LO": "five seasons at the Spirit, now at KC",
+   "AB": "NWSL squad midfielder",
+   "ST": "wide midfielder",
+   "LE": "title winner with Spirit and KC"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bayley_Feist"
+  ]
+ },
+ {
+  "espn_id": "347793",
+  "name": "Amelia White",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big Ten tournament 2022 (Penn State); national high school player of the year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known either way",
+   "LO": "first professional club",
+   "AB": "rookie NWSL forward",
+   "ST": "forward with some goals off the bench",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amelia_White_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "290266",
+  "name": "Vanessa DiBernardo",
+  "club_id": "20907",
+  "gender": "W",
+  "born": 1992,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2014,
+    "to": 2022
+   },
+   {
+    "club": "Perth Glory",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Chicago Red Stars captain 2022",
+  "honours": "NWSL Shield 2025; NWSL Second XI 2016, 2024; Perth Glory Player of the Year 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "steady veteran midfielder",
+   "LO": "nine seasons and captaincy at Chicago",
+   "AB": "long-time NWSL regular, two Second XIs",
+   "ST": "attacking midfielder by background",
+   "LE": "long, respected NWSL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vanessa_DiBernardo"
+  ]
+ },
+ {
+  "espn_id": "209278",
+  "name": "Kailen Sheridan",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1995,
+  "nation": "Canada",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Wave",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "North Carolina Courage co-captain 2026",
+  "honours": "Olympic gold 2021; NWSL Goalkeeper of the Year 2022; NWSL Shield 2023; Challenge Cup 2024; Best XI 2021, 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "goalkeeper, now co-captain",
+   "LO": "five seasons at Gotham, four at San Diego",
+   "AB": "NWSL Goalkeeper of the Year, 71 Canada caps",
+   "ST": "goalkeeper",
+   "LE": "Olympic gold medallist with Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kailen_Sheridan"
+  ]
+ },
+ {
+  "espn_id": "279297",
+  "name": "Ashley Sanchez",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1999,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained the US at the 2016 U-17 World Cup",
+  "honours": "NWSL Championship 2021; CONCACAF W Championship 2022; SheBelieves Cup 2022, 2023; NWSL Player of the Month Apr and Aug 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "creator, nothing notable either way",
+   "LO": "traded from the Spirit after four seasons",
+   "AB": "US international, NWSL Player of the Month twice in 2026",
+   "ST": "playmaker known for vision and chance creation",
+   "LE": "title winner, 29 US caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ashley_Sanchez"
+  ]
+ },
+ {
+  "espn_id": "290275",
+  "name": "Ryan Williams",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina Courage",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "North Carolina Courage co-captain 2026",
+  "honours": "NWSL Championship 2018, 2019; NWSL Shield 2018, 2019; Challenge Cup 2022, 2023; Best XI Second Team 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 8.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "league-leading tackles and interceptions, converted midfielder",
+   "LO": "one club since the 2018 draft, now co-captain",
+   "AB": "NWSL Best XI second team 2024, uncapped",
+   "ST": "ball-playing right-back who joins attacks",
+   "LE": "two-time champion with the Courage"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (2024 sending-off was two yellows).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Williams_(soccer)",
+   "https://en.wikipedia.org/wiki/Ryan_Williams_(women's_soccer)"
+  ]
+ },
+ {
+  "espn_id": "351354",
+  "name": "Shinomi Koyama",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Cerezo Osaka Yanmar Ladies",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Djurgårdens IF",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Japan at the 2024 U-20 World Cup",
+  "honours": "U-20 World Cup runner-up 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known either way",
+   "LO": "three clubs by 21",
+   "AB": "young NWSL regular, one Japan cap",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shinomi_Koyama"
+  ]
+ },
+ {
+  "espn_id": "311199",
+  "name": "Evelyn Ijeh",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Sweden",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kopparbergs/Göteborg FC (BK Häcken)",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Lidköpings FK",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Växjö DFF",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Tigres UANL",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "AC Milan",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "9 Sweden caps; first NWSL hat-trick in 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "versatile, has filled in at full-back and centre-back",
+   "LO": "journeyman career across four countries",
+   "AB": "Sweden international, scoring in NWSL",
+   "ST": "goalscoring striker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evelyn_Ijeh"
+  ]
+ },
+ {
+  "espn_id": "344358",
+  "name": "Riley Jackson",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2005,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "North Carolina Courage",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Co-captained US U-17s to 2022 CONCACAF title",
+  "honours": "NWSL Challenge Cup 2023; U-20 World Cup bronze 2024; SheBelieves Cup 2026; Gatorade National Player of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "central midfielder, youth captain",
+   "LO": "one club since turning pro at 17, extended to 2028",
+   "AB": "young NWSL regular, one US cap",
+   "ST": "midfielder with occasional long-range goals",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riley_Jackson"
+  ]
+ },
+ {
+  "espn_id": "351718",
+  "name": "Uno Shiragaki",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cerezo Osaka Yanmar Ladies",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-20 World Cup runner-up 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known either way",
+   "LO": "five seasons at Cerezo Osaka before moving",
+   "AB": "young defender, two Japan caps",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uno_Shiragaki"
+  ]
+ },
+ {
+  "espn_id": "231205",
+  "name": "Feli Rauch",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Turbine Potsdam",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Frauen-Bundesliga 2020; DFB-Pokal 2020, 2021; Olympic bronze 2024; Euro runner-up 2022; 50 Germany caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known (came out publicly in 2023)",
+   "WK": "versatile left-sided defender/midfielder",
+   "LO": "five seasons each at Potsdam and Wolfsburg",
+   "AB": "50-cap Germany international, Bundesliga champion",
+   "ST": "attack-minded left-back/wing-back",
+   "LE": "Olympic bronze, Euro final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felicitas_Rauch"
+  ]
+ },
+ {
+  "espn_id": "381595",
+  "name": "Natalia Staude",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Tampa Bay Sun",
+    "from": 2024,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Super League 2024–25 (Tampa Bay Sun, loan)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile across the back line",
+   "LO": "one parent club so far",
+   "AB": "NWSL squad defender",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists her as Talia Staude.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Natalia_Staude"
+  ]
+ },
+ {
+  "espn_id": "292713",
+  "name": "Maycee Bell",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Co-captain at North Carolina in college",
+  "honours": "none at senior level",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defending-first centre-back",
+   "LO": "traded early from Gotham, settled at the Courage",
+   "AB": "NWSL squad centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maycee_Bell"
+  ]
+ },
+ {
+  "espn_id": "230877",
+  "name": "Dani Weatherholt",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1994,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Melbourne Victory",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "OL Reign",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Angel City FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "W-League Premiership 2018–19 (Melbourne Victory)",
+  "causes": [
+   "Represented the NWSL Players Association in the 2024 CBA negotiations"
+  ],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "represented players in 2024 CBA talks",
+   "WK": "utility player, coach calls her a Swiss Army knife",
+   "LO": "four NWSL clubs",
+   "AB": "NWSL squad regular",
+   "ST": "utility defender/holding midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dani_Weatherholt"
+  ]
+ },
+ {
+  "espn_id": "225706",
+  "name": "Carly Wickenheiser",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Morön BK",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "KIF Örebro",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Kristianstads DFF",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "BK Häcken",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain at Kristianstads DFF",
+  "honours": "Damallsvenskan 2025; Pinatar Cup 2025; 8 Canada caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "midfielder trusted with captaincy in Sweden",
+   "LO": "journeyman career in Sweden",
+   "AB": "Canada international, Swedish champion",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in the US, plays for Canada.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carly_Wickenheiser"
+  ]
+ },
+ {
+  "espn_id": "386642",
+  "name": "Erica Parkinson",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2008,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Valadares Gaia",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Portuguese league best young player 2024–25; England debut October 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known either way",
+   "LO": "first moves of a young career",
+   "AB": "18-year-old with an England cap",
+   "ST": "young midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erica_Parkinson"
+  ]
+ },
+ {
+  "espn_id": "360894",
+  "name": "Ally Schlegel",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain at Penn State 2021, 2022",
+  "honours": "none at senior level",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "nothing known either way",
+   "LO": "three seasons at Chicago, left as a free agent",
+   "AB": "NWSL squad forward",
+   "ST": "goalscoring forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ally_Schlegel"
+  ]
+ },
+ {
+  "espn_id": "261813",
+  "name": "Hannah Betfort",
+  "club_id": "15366",
+  "gender": "W",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2022; NWSL Shield 2021 (Portland Thorns)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "nothing known either way",
+   "LO": "three NWSL clubs",
+   "AB": "NWSL squad forward",
+   "ST": "forward",
+   "LE": "won a title with the Thorns"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Betfort"
+  ]
  }
 ]

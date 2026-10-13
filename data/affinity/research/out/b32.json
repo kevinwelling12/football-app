@@ -1,6 +1,9 @@
 [
  {
+  "espn_id": "400034",
   "name": "Hannah Bebar",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2001,
   "nation": "USA",
   "position": "MF",
@@ -48,7 +51,10 @@
   ]
  },
  {
+  "espn_id": "277796",
   "name": "Jordan Silkowitz",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2000,
   "nation": "USA",
   "position": "GK",
@@ -106,7 +112,10 @@
   ]
  },
  {
+  "espn_id": "261840",
   "name": "Joelle Anderson",
+  "club_id": "22187",
+  "gender": "W",
   "born": 1998,
   "nation": "USA",
   "position": "DF",
@@ -159,7 +168,10 @@
   ]
  },
  {
+  "espn_id": "389058",
   "name": "Karlie Lema",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2003,
   "nation": "USA",
   "position": "FW",
@@ -171,7 +183,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "ACC Offensive Player of the Year 2024 (Notre Dame era college honours)",
+  "honours": "ACC Offensive Player of the Year 2024 (college)",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
@@ -207,7 +219,10 @@
   ]
  },
  {
+  "espn_id": "327090",
   "name": "Taylor Huff",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2002,
   "nation": "USA",
   "position": "MF",
@@ -255,7 +270,10 @@
   ]
  },
  {
+  "espn_id": "382426",
   "name": "Maddie Moreau",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2000,
   "nation": "USA",
   "position": "DF",
@@ -303,7 +321,10 @@
   ]
  },
  {
+  "espn_id": "379822",
   "name": "Alex Pfeiffer",
+  "club_id": "22187",
+  "gender": "W",
   "born": 2007,
   "nation": "USA",
   "position": "FW",
@@ -356,7 +377,10 @@
   ]
  },
  {
+  "espn_id": "284172",
   "name": "Aldana Cometti",
+  "club_id": "22187",
+  "gender": "W",
   "born": 1996,
   "nation": "Argentina",
   "position": "DF",
@@ -441,6 +465,1204 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Aldana_Cometti"
+  ]
+ },
+ {
+  "espn_id": "255464",
+  "name": "Cristiana Girelli",
+  "club_id": "22187",
+  "gender": "W",
+  "born": 1990,
+  "nation": "Italy",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bardolino",
+    "from": 2005,
+    "to": 2013
+   },
+   {
+    "club": "Brescia",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "club": "Juventus",
+    "from": 2018,
+    "to": null
+   },
+   {
+    "club": "Bay FC (loan from Juventus)",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Italy captain (2023 World Cup squad)",
+  "honours": "10 Serie A titles (Bardolino, Brescia, Juventus); many Coppa Italia; Serie A MVP 2024-25; Serie A top scorer three times; Italian Football Hall of Fame 2022; 132 caps, 62 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "little public record on conduct; nothing negative",
+   "WK": "prolific striker, Italy captain",
+   "LO": "long spells at Brescia and Juventus",
+   "AB": "Serie A MVP and repeat top scorer",
+   "ST": "goalscorer, World Cup hat-trick",
+   "LE": "Italy great, Hall of Fame, many titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristiana_Girelli"
+  ]
+ },
+ {
+  "espn_id": "230901",
+  "name": "Dorian Bailey",
+  "club_id": "22187",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2021 (Washington Spirit); US youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "midfield squad player",
+   "LO": "five years at Washington, Bay FC original",
+   "AB": "NWSL midfielder",
+   "ST": "midfielder",
+   "LE": "NWSL champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dorian_Bailey"
+  ]
+ },
+ {
+  "espn_id": "292607",
+  "name": "Caroline Conti",
+  "club_id": "22187",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bay FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL W League second team 2022; South Carolina Gatorade Player of the Year twice",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "bench attacker, nothing notable either way",
+   "LO": "Bay FC original, one senior club",
+   "AB": "NWSL squad player",
+   "ST": "attacking midfielder/forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caroline_Conti"
+  ]
+ },
+ {
+  "espn_id": "337076",
+  "name": "Keira Barry",
+  "club_id": "22187",
+  "gender": "W",
+  "born": 2005,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Derby County",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Sunderland (loan)",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England youth international; senior call-up April 2026 (uncapped)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "young forward, nothing notable either way",
+   "LO": "academy player who left for regular football",
+   "AB": "young forward, first senior regular season",
+   "ST": "forward",
+   "LE": "very early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keira_Barry"
+  ]
+ },
+ {
+  "espn_id": "348546",
+  "name": "Annie Karich",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Club América (loan)",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "WCC title 2022 and WCC Defender of the Year 2023 (Santa Clara)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "holding midfielder/centre-back, ever-present",
+   "LO": "went abroad young, expansion signing",
+   "AB": "regular in Bundesliga and NWSL",
+   "ST": "defensive role",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Annie_Karich"
+  ]
+ },
+ {
+  "espn_id": "351070",
+  "name": "Alba Caño",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Spain U-19 international; Barcelona academy graduate",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "Barcelona academy graduate; loaned back after signing",
+   "AB": "NWSL starting midfielder",
+   "ST": "technical Barcelona-school midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alba_Caño"
+  ]
+ },
+ {
+  "espn_id": "209771",
+  "name": "Casey Murphy",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Montpellier",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "OL Reign",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2024 (squad); CONCACAF W Championship 2022; W Gold Cup 2024; 4 SheBelieves Cups; NWSL Challenge Cup 2022, 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record on conduct; nothing negative",
+   "WK": "dependable keeper, played every minute in 2024",
+   "LO": "five seasons at the Courage",
+   "AB": "USWNT goalkeeper, NWSL starter",
+   "ST": "goalkeeper",
+   "LE": "USWNT keeper, Olympic gold squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casey_Murphy"
+  ]
+ },
+ {
+  "espn_id": "225339",
+  "name": "Nichelle Prince",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1995,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2021 and bronze 2016 (Canada); NWSL Challenge Cup 2020; NWSL Shield 2025; 119 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record on conduct; nothing negative",
+   "WK": "winger, long-serving international",
+   "LO": "seven seasons at Houston",
+   "AB": "Canada regular, 100+ caps",
+   "ST": "quick wide attacker",
+   "LE": "Olympic champion with Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nichelle_Prince"
+  ]
+ },
+ {
+  "espn_id": "308484",
+  "name": "Bárbara Olivieri",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2002,
+  "nation": "Venezuela",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Monterrey",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Tigres UANL (loan)",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga MX Femenil Apertura 2025 (Tigres); Venezuela international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "attacker, nothing notable either way",
+   "LO": "several clubs early on",
+   "AB": "NWSL attacker, Venezuela international",
+   "ST": "attacking midfielder/forward with flair",
+   "LE": "Venezuela international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bárbara_Olivieri"
+  ]
+ },
+ {
+  "espn_id": "325886",
+  "name": "Jorelyn Carabalí",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orsomarso",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Atlético Huila",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Deportivo Cali",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Atlético Mineiro",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Colombia U-20 on debut",
+  "honours": "Colombian league 2021 (Deportivo Cali); Copa América runner-up 2022, 2025; 2023 World Cup and 2024 Olympics",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "centre-back; came back from a 2.5-year femur injury",
+   "LO": "several clubs",
+   "AB": "Colombia starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "World Cup and Olympics with Colombia"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorelyn_Carabalí"
+  ]
+ },
+ {
+  "espn_id": "347112",
+  "name": "Aïssata Traoré",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Mali",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Beşiktaş (loan)",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Guingamp",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Fleury",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkish league 2018-19 (Beşiktaş); Mali international, 2018 AFCON semi-finalist",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "forward, nothing notable either way",
+   "LO": "five seasons at Guingamp",
+   "AB": "D1 Arkema and NWSL forward",
+   "ST": "forward",
+   "LE": "Mali international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aïssata_Traoré"
+  ]
+ },
+ {
+  "espn_id": "303707",
+  "name": "Bianca St-Georges",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canada international (15 caps); Big 12 Defensive Player of the Year 2018",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "red card and extra ban for gesturing at a referee (2022)",
+   "WK": "full-back/winger",
+   "LO": "five years Chicago, then a club a year",
+   "AB": "NWSL regular, Canada caps",
+   "ST": "attacking full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sent off and given an extra NWSL ban and fine for an obscene gesture at the referee (2022); dissent, not violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bianca_St-Georges"
+  ]
+ },
+ {
+  "espn_id": "351693",
+  "name": "Sammy Smith",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FHL",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Breiðablik",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Icelandic champion 2024, 2025 and Cup 2025 (Breiðablik); Icelandic second tier 2024 (FHL)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "forward, nothing notable either way",
+   "LO": "came up via Iceland",
+   "AB": "prolific in Iceland, NWSL regular in 2026",
+   "ST": "goalscoring forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sammy_Smith_(soccer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "327196",
+  "name": "Emerson Elgin",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2024 (North Carolina); USL W League 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "defender, nothing notable either way",
+   "LO": "first real senior club",
+   "AB": "young NWSL defender",
+   "ST": "defender",
+   "LE": "very early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emerson_Elgin"
+  ]
+ },
+ {
+  "espn_id": "344300",
+  "name": "Amanda Gutierres",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Embu das Artes",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Foz Cataratas",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Santos",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Bordeaux",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa América 2025 (Brazil); Copa do Brasil 2025, Paulista 2024, 2025 (Palmeiras); Brasileirão top scorer 2023-25; Bola de Prata 2024, 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "striker, nothing notable either way",
+   "LO": "three years at Palmeiras",
+   "AB": "three-time Brazilian top scorer, Brazil international",
+   "ST": "prolific striker",
+   "LE": "Copa América winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amanda_Gutierres"
+  ]
+ },
+ {
+  "espn_id": "314818",
+  "name": "Josefine Hasbo",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "BSF",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Brøndby",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish league 2019 (Brøndby); NWSL Championship 2025 (Gotham); 40 Denmark caps",
+  "causes": [
+   "Board member, Sport Creates Memories (grassroots football for children in Africa)",
+   "Co-founder of a football academy in Ghana",
+   "Board member of the Danish players' association"
+  ],
+  "CH": 7.5,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "charity board work and Ghana academy; players' union",
+   "WK": "midfielder",
+   "LO": "traded after one season at Gotham",
+   "AB": "Denmark regular",
+   "ST": "midfielder",
+   "LE": "NWSL champion, Denmark international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josefine_Hasbo"
+  ]
+ },
+ {
+  "espn_id": "331323",
+  "name": "Nicki Hernández",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Club América",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga MX Femenil Clausura 2023 (América); Pan American Games gold 2023 (Mexico)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "full-back, 130+ games for América",
+   "LO": "four seasons at América",
+   "AB": "Mexico international left-back",
+   "ST": "attacking left-back",
+   "LE": "Pan American gold with Mexico"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sent off after VAR review in the 2024 W Gold Cup semi-final; the source gives no detail of violent conduct.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicki_Hernández"
+  ]
+ },
+ {
+  "espn_id": "292711",
+  "name": "Aleigh Gambone",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fortuna Hjørring",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Glasgow City",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Nürnberg (loan)",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "PFA Scotland Team of the Year 2024-25; Glasgow City Player of the Year 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "midfielder, club player of the year",
+   "LO": "several clubs abroad",
+   "AB": "NWSL squad player after Scotland",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleigh_Gambone"
+  ]
+ },
+ {
+  "espn_id": "349350",
+  "name": "Lilly Reale",
+  "club_id": "131562",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Boston Legacy FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Rookie of the Year 2025; NWSL Championship 2025 and CONCACAF W Champions Cup (Gotham); NCAA title 2022 (UCLA); U.S. Young Female Player of the Year 2025; 9 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "left-back/centre-back",
+   "LO": "traded mid-2026 to hometown club",
+   "AB": "USWNT left-back, NWSL Best XI second team",
+   "ST": "modern full-back",
+   "LE": "Rookie of the Year, NWSL champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilly_Reale"
   ]
  }
 ]

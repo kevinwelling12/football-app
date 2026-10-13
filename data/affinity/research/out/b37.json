@@ -1,0 +1,1768 @@
+[
+ {
+  "espn_id": "211051",
+  "name": "Kristen McNabb",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1994,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2023, NWSL Challenge Cup 2024 (San Diego)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues found",
+   "WK": "versatile, has played LB, DM and CB as needed",
+   "LO": "original Wave player since 2022, five years at Reign before",
+   "AB": "steady NWSL regular",
+   "ST": "defender; occasional set-piece goals",
+   "LE": "part of Wave's first Shield"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristen_McNabb"
+  ]
+ },
+ {
+  "espn_id": "326356",
+  "name": "Kennedy Wesley",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Stanford captain in college",
+  "honours": "NWSL Challenge Cup 2024; SheBelieves Cup 2026 with USA; NCAA title 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues found",
+   "WK": "college captain, reliable defender",
+   "LO": "one pro club so far",
+   "AB": "starting NWSL centre-back, now a USWNT call-up",
+   "ST": "composed passer from the back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kennedy_Wesley"
+  ]
+ },
+ {
+  "espn_id": "264724",
+  "name": "Perle Morroni",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1997,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2014,
+    "to": 2021
+   },
+   {
+    "club": "Lyon",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "UWCL 2022; four French titles (PSG 2021, Lyon 2022-24); Coupe de France x2",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or issues found; spoke out on France camp conditions under Diacre (neutral)",
+   "WK": "two-way full-back, tackles and blocks",
+   "LO": "seven years at PSG, then straight to rivals Lyon",
+   "AB": "French international, UWCL winner",
+   "ST": "attacking full-back, led NWSL in dribbles",
+   "LE": "decorated club career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "Moved directly from PSG to rivals Lyon in 2021 (free transfer); coded rival_move.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perle_Morroni"
+  ]
+ },
+ {
+  "espn_id": "375059",
+  "name": "Mimi Van Zanten",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA titles 2023 and 2025 with Florida State",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "rookie, first pro club",
+   "AB": "rookie NWSL full-back, Jamaica international",
+   "ST": "full-back; little detail",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mimi_Van_Zanten"
+  ]
+ },
+ {
+  "espn_id": "258819",
+  "name": "Ludmila",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1994,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "São José",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Chicago Stars FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic silver 2024 with Brazil; Liga F titles with Atlético Madrid",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes found; 2024 sending-off for a fight with an opponent",
+   "WK": "direct runner, presses",
+   "LO": "seven years at Atlético Madrid",
+   "AB": "Brazil international, prolific in Spain and NWSL",
+   "ST": "\"Road Runner\" pace; record 10-minute NWSL hat-trick",
+   "LE": "Olympic silver, NWSL hat-trick record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "Red card for violent conduct (striking/hair pulling) with Rosemonde Kouassi, Oct 2024; three-match ban upheld on appeal.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ludmila_(footballer)",
+   "https://nwslsoccer.com/news/nwsl-disciplinary-committee-issues-discipline-to-chicago-red-stars-forward-ludmila-washington-spirit-forward-rosemonde-kouassi",
+   "https://www.si.com/soccer/ludmila-rosemonde-kouassi-serve-suspensions-in-nwsl-playoffs"
+  ]
+ },
+ {
+  "espn_id": "382797",
+  "name": "Kimmi Ascanio",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2008,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-17 title 2024; U-17 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "coach noted defensive improvement",
+   "LO": "teenager, first pro club",
+   "AB": "teenage NWSL regular, high potential",
+   "ST": "free-flowing creative midfielder, compared to Tobin Heath",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kimmi_Ascanio"
+  ]
+ },
+ {
+  "espn_id": "219119",
+  "name": "Kenza Dali",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1991,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Rodez",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2011,
+    "to": 2016
+   },
+   {
+    "club": "Lyon",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Dijon",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "West Ham United",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Everton",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Second XI 2025; Nations League runner-up 2024 with France",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues found; open about family hardships",
+   "WK": "ever-present, started every 2025 match",
+   "LO": "many clubs",
+   "AB": "France international, NWSL Midfielder of the Year finalist",
+   "ST": "creative No. 10, set pieces, league lead in chances created",
+   "LE": "long, solid career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenza_Dali"
+  ]
+ },
+ {
+  "espn_id": "307433",
+  "name": "Lia Godfrey",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "ACC Midfielder of the Year 2025; NWSL Rookie of the Month March 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "rookie, first pro club",
+   "AB": "productive rookie midfielder",
+   "ST": "goal-scoring, assist-making midfielder",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lia_Godfrey"
+  ]
+ },
+ {
+  "espn_id": "360902",
+  "name": "Melanie Barcenas",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2007,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2023, Challenge Cup 2024; U-17 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "hometown San Diego player, one club since age 15",
+   "AB": "teenage forward, mostly off the bench",
+   "ST": "two Goal of the Week long-range strikes",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melanie_Barcenas"
+  ]
+ },
+ {
+  "espn_id": "306037",
+  "name": "Gia Corley",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Germany to the 2017 U-17 European title",
+  "honours": "Frauen-Bundesliga title with Bayern; U-17 Euro 2017; Fritz Walter Medal silver 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "re-signed with San Diego through 2027",
+   "AB": "NWSL starter, ex-Germany youth captain",
+   "ST": "attacking midfielder, scored in first two NWSL games",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Tacoma, raised in Germany, Germany youth international; called up by USA U-23 in 2025, so ESPN's USA fits.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gia_Corley"
+  ]
+ },
+ {
+  "espn_id": "306044",
+  "name": "Laurina Fazer",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2003,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained France at the 2022 U-20 World Cup",
+  "honours": "French title 2021, Coupe de France 2022 and 2024 (PSG); UNFP Young Player of the Year x2",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "youth captain, central midfielder",
+   "LO": "PSG academy product, five senior years there",
+   "AB": "France international midfielder",
+   "ST": "midfielder; little style detail",
+   "LE": "two young player awards in France"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laurina_Fazer"
+  ]
+ },
+ {
+  "espn_id": "327571",
+  "name": "Trinity Byars",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Diego Wave FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 title 2022; first-team All-American 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "first pro club",
+   "AB": "prolific college scorer, NWSL Player of the Week 2026",
+   "ST": "goal-scoring forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trinity_Byars"
+  ]
+ },
+ {
+  "espn_id": "351900",
+  "name": "Dudinha",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa América Femenina 2025 with Brazil; Supercopa do Brasil 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "São Paulo academy product, early career",
+   "AB": "Brazil international, among NWSL goal+assist leaders 2026",
+   "ST": "skilful forward, chipped finishes",
+   "LE": "Copa América winner; early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ACL injury June 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dudinha"
+  ]
+ },
+ {
+  "espn_id": "339855",
+  "name": "Gabi Portilho",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1995,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "São José",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Madrid CFF",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "São José",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Audax",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "3B da Amazônia",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Corinthians",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FIFA Best Women's XI 2024; Olympic silver 2024; Copa América x2; NWSL Championship 2025; Libertadores and Brazilian titles with Corinthians",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 7.5,
+  "ST": 7.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "no style information; default",
+   "LO": "five years at Corinthians, otherwise many clubs",
+   "AB": "FIFA Best XI 2024, Brazil starter",
+   "ST": "attacking wide player",
+   "LE": "Olympic silver, NWSL title, Libertadores titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabi_Portilho"
+  ]
+ },
+ {
+  "espn_id": "219988",
+  "name": "Sandra Paños",
+  "club_id": "21423",
+  "gender": "W",
+  "born": 1992,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Levante",
+    "from": 2010,
+    "to": 2015
+   },
+   {
+    "club": "Barcelona",
+    "from": 2015,
+    "to": 2024
+   },
+   {
+    "club": "Club América",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "San Diego Wave FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Barcelona third captain; captained Spain once at Euro 2017",
+  "honours": "Three UWCL, five Liga F titles with Barcelona; record four Zamora Trophies; UEFA best goalkeeper 2020-21; Liga MX Femenil Clausura 2026",
+  "causes": [
+   "One of 'Las 15' who stood down from Spain in 2022 over conditions under the federation"
+  ],
+  "CH": 6.5,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 8.0,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "no issues; part of Las 15 protest for better national-team conditions",
+   "WK": "long-serving squad leader",
+   "LO": "nine years at Barcelona, captaincy group",
+   "AB": "elite goalkeeper, UEFA keeper of the season 2021",
+   "ST": "goalkeeper",
+   "LE": "key part of Barcelona's dominant era"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandra_Pa%C3%B1os"
+  ]
+ },
+ {
+  "espn_id": "246593",
+  "name": "Phoebe McClernon",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Växjö DFF",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield and The Women's Cup 2022 (OL Reign)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady, ever-present centre-back",
+   "LO": "five seasons at the Reign",
+   "AB": "NWSL starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoebe_McClernon"
+  ]
+ },
+ {
+  "espn_id": "264964",
+  "name": "Sofia Huerta",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Sydney FC",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2022; NWSL Best XI 2022; W-League title 2019 (Sydney); CONCACAF Championship 2022 with USA",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or issues found",
+   "WK": "converted forward who took on full-back duty",
+   "LO": "six-plus seasons at the Reign",
+   "AB": "USWNT full-back, NWSL Best XI",
+   "ST": "attacking full-back, crossing and set pieces",
+   "LE": "long NWSL career, USWNT caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Huerta"
+  ]
+ },
+ {
+  "espn_id": "292574",
+  "name": "Maddie Mercado",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Carolina Ascent FC",
+    "from": 2025,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-15 title 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "Reign player since 2024, one loan",
+   "AB": "squad forward",
+   "ST": "goal-scoring attacker, fastest USL Super League goal",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maddie_Mercado"
+  ]
+ },
+ {
+  "espn_id": "399727",
+  "name": "Maddie Dahlien",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2024 (North Carolina); U-20 World Cup bronze 2024; SheBelieves Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "plays winger or wingback as needed",
+   "LO": "first pro club",
+   "AB": "NWSL starter, now a USWNT call-up",
+   "ST": "sprinter's pace on the wing, draws penalties",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maddie_Dahlien"
+  ]
+ },
+ {
+  "espn_id": "283705",
+  "name": "Claudia Dickey",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2022; SheBelieves Cup 2026; Reign MVP 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper; default",
+   "LO": "one club, five seasons",
+   "AB": "led NWSL in saves 2025, USWNT call-up",
+   "ST": "shot-stopping goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Claudia_Dickey"
+  ]
+ },
+ {
+  "espn_id": "380041",
+  "name": "Sam Meza",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Dallas Trinity FC",
+    "from": 2024,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Super League Player of the Month Nov 2024; CONCACAF youth titles",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder, 'Mighty Mouse' work rate",
+   "LO": "Reign player since 2024, one loan",
+   "AB": "NWSL regular midfielder",
+   "ST": "defensive-minded midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Meza"
+  ]
+ },
+ {
+  "espn_id": "293176",
+  "name": "Mia Fishel",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tigres UANL",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Two WSL titles with Chelsea; Liga MX Femenil Apertura 2022 and Golden Boot; U-20 Golden Ball 2020",
+  "causes": [
+   "Wrote a children's book, Big Fish (2024)"
+  ],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no issues found; published a children's book",
+   "WK": "no style information; default",
+   "LO": "three clubs in four years",
+   "AB": "38 goals in 48 for Tigres; ACL slowed her",
+   "ST": "centre-forward, goalscorer",
+   "LE": "Liga MX scoring record run; trophies at Chelsea"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mia_Fishel"
+  ]
+ },
+ {
+  "espn_id": "386620",
+  "name": "Ainsley McCammon",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2007,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained USA U-17 to the 2024 CONCACAF title and World Cup bronze",
+  "honours": "CONCACAF U-17 title 2024; U-17 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "coach praises her leadership; youth captain",
+   "LO": "teenager, one club so far",
+   "AB": "teenage NWSL starter",
+   "ST": "range of passing from midfield",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ainsley_McCammon"
+  ]
+ },
+ {
+  "espn_id": "318888",
+  "name": "Sally Menti",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2020 (Santa Clara); CONCACAF U-20 title 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "first pro club",
+   "AB": "squad midfielder",
+   "ST": "creative passer, long-range goal",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sally_Menti"
+  ]
+ },
+ {
+  "espn_id": "351697",
+  "name": "Jordyn Bugg",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2006,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Best XI Second Team 2025; U-20 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile across the back line",
+   "LO": "teenager, one club so far",
+   "AB": "NWSL Second XI at 19",
+   "ST": "technically clean defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordyn_Bugg"
+  ]
+ },
+ {
+  "espn_id": "381979",
+  "name": "Madison Curry",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Angel City FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Princeton co-captain in college",
+  "honours": "NWSL Team of the Month July 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "late draft pick, led Angel City in duels and tackles",
+   "LO": "two clubs in three seasons",
+   "AB": "NWSL regular defender",
+   "ST": "defensive full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Madison_Curry"
+  ]
+ },
+ {
+  "espn_id": "259307",
+  "name": "Angharad James-Turner",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 1994,
+  "nation": "Wales",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bristol Academy",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Notts County",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Yeovil Town",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Everton",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Reading",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Wales captain since October 2024, including Euro 2025",
+  "honours": "130+ Wales caps; Wales Players' Player of the Year 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no causes or issues found",
+   "WK": "'great engine', led WSL in tackles, Wales captain",
+   "LO": "many clubs",
+   "AB": "long-time Wales international, NWSL starter",
+   "ST": "range of passing from midfield",
+   "LE": "captained Wales at their first Euro, 130+ caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angharad_James_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "227354",
+  "name": "Nérilia Mondésir",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Haiti",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Montpellier",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Seattle Reign FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-17 Golden Boot 2016; 37 goals in 37 for Haiti",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "seven years at Montpellier",
+   "AB": "Haiti's leading scorer, solid NWSL forward",
+   "ST": "attacking forward",
+   "LE": "Haiti's prolific scorer, 37 in 37"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/N%C3%A9rilia_Mond%C3%A9sir"
+  ]
+ },
+ {
+  "espn_id": "261816",
+  "name": "Ryanne Brown",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "has played defence, midfield and attack as needed",
+   "LO": "one club since 2022, came back from an ACL tear",
+   "AB": "squad full-back",
+   "ST": "full-back; little detail",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryanne_Brown"
+  ]
+ },
+ {
+  "espn_id": "329958",
+  "name": "Emily Mason",
+  "club_id": "15363",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Reign FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 title 2022; Gatorade National Player of the Year 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no style information; default",
+   "LO": "first pro club",
+   "AB": "squad defender",
+   "ST": "defender; little detail",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emily_Mason_(soccer)"
+  ]
+ }
+]

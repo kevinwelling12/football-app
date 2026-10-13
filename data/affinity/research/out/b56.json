@@ -1,0 +1,1900 @@
+[
+ {
+  "espn_id": "346190",
+  "name": "Christian Pinzon",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tapatío",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "attacking midfielder, no known issues",
+   "LO": "third season at Las Vegas after short spells",
+   "AB": "USL Championship regular",
+   "ST": "attacking midfielder/scorer",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists Mexico; Wikipedia calls him American (played in Mexico with Tapatío); same player at the club.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Pinz%C3%B3n"
+  ]
+ },
+ {
+  "espn_id": "296273",
+  "name": "Johnny Rodriguez",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ventura County Fusion",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Oakland Roots SC",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes; cites his parents as heroes",
+   "WK": "striker, no known issues",
+   "LO": "five seasons at Oakland Roots",
+   "AB": "USL Championship forward, 20 goals in first 49 Lights apps",
+   "ST": "goal-scoring striker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johnny_Rodriguez_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "233038",
+  "name": "Aaron Guillen",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Austin Aztex",
+    "from": 2013,
+    "to": 2013
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship regular-season title 2021, Eastern Conference 2020; All-League First Team 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "steady defender",
+   "LO": "six seasons at Tampa Bay Rowdies",
+   "AB": "All-League First Team centre-back in USL Championship",
+   "ST": "no-frills centre-back",
+   "LE": "long-serving Rowdies defender"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aar%C3%B3n_Guill%C3%A9n"
+  ]
+ },
+ {
+  "espn_id": "317468",
+  "name": "Themi Antonoglou",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Valour FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Championship 2020 (Toronto FC); CPL Best XI 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "left-back, no known issues",
+   "LO": "Toronto FC academy, then moves every two years",
+   "AB": "CPL Best XI full-back, now USL Championship",
+   "ST": "attacking full-back, led CPL in assists 2024",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Themi_Antonoglou"
+  ]
+ },
+ {
+  "espn_id": "297537",
+  "name": "Marc Ybarra",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League Two 2019 (Flint City Bucks, amateur)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes; four-time Academic All-Big Ten",
+   "WK": "midfielder, Michigan record for games played",
+   "LO": "two seasons each at Pittsburgh and Rhode Island",
+   "AB": "USL Championship regular",
+   "ST": "midfielder, creator (24 college assists)",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Ybarra"
+  ]
+ },
+ {
+  "espn_id": "355393",
+  "name": "Giorgio Probo",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Virtus Bergamo",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Borgosesia",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "HFX Wanderers",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big East Co-Midfielder of the Year 2023; NJCAA national title 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "midfielder, no known issues",
+   "LO": "several moves; contract at Halifax ended by mutual consent",
+   "AB": "USL Championship regular",
+   "ST": "creative midfielder, praised as top college playmaker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Virtus Bergamo years approximate (Wikipedia gives no dates).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giorgio_Probo"
+  ]
+ },
+ {
+  "espn_id": "401363",
+  "name": "Carson Locker",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "young winger, no known issues",
+   "LO": "teenager at his first senior club",
+   "AB": "teenage USL Championship regular",
+   "ST": "young wide player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; only the club roster (born 8 Oct 2007). Join year not found; 2026 used.",
+  "confidence": "low",
+  "sources": [
+   "https://www.lasvegaslightsfc.com/roster/carson-locker/"
+  ]
+ },
+ {
+  "espn_id": "217997",
+  "name": "Oalex Anderson",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1995,
+  "nation": "St Vincent and Grenadines",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "System 3",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Grenades FC",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Seattle Sounders FC",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Richmond Kickers",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained St Vincent U23",
+  "honours": "MLS Cup 2016 (Seattle); USL League One 2023 (North Carolina FC); SVG league Golden Boot 2013-14",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes; came back from a four-year injury gap",
+   "WK": "forward, no known issues",
+   "LO": "four seasons and all-time top scorer at North Carolina FC",
+   "AB": "prolific lower-league striker, national-team regular",
+   "ST": "goalscorer nicknamed Bounty",
+   "LE": "North Carolina FC record scorer, SVG international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oalex_Anderson"
+  ]
+ },
+ {
+  "espn_id": "361320",
+  "name": "Nathaniel Jones",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "All-Pac-12 First Team (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "centre-back, no known issues",
+   "LO": "second season at Las Vegas (loan, then signed)",
+   "AB": "USL Championship centre-back, former first-round MLS draft pick",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Colorado Rapids 2024 skipped (played for the reserve side).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathaniel_Jones_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "178264",
+  "name": "Manuel Arteaga",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Venezuela",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Zulia",
+    "from": 2010,
+    "to": 2016
+   },
+   {
+    "club": "Deportivo Anzoátegui",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Palermo",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "The Strongest",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Seraing United",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Deportivo La Guaira",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Arouca",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Zamora",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 caps for Venezuela",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "forward, no known issues",
+   "LO": "journeyman across five countries",
+   "AB": "Venezuela international, steady USL scorer",
+   "ST": "goalscoring forward",
+   "LE": "youth-level promise, three senior caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. His 2016 Hajduk loan ended without explanation on Wikipedia; a search found nothing adverse.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manuel_Arteaga"
+  ]
+ },
+ {
+  "espn_id": "259654",
+  "name": "Nykolas Sessock",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "defender, no known issues",
+   "LO": "previously Inter Miami CF II (reserve side, 2023-24)",
+   "AB": "USL Championship squad defender",
+   "ST": "defender",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club roster gives born 17 Jun 2000, Philadelphia; Inter Miami II 2023-24 from the club's Wikipedia stats table. Join year at Las Vegas not found; 2026 used.",
+  "confidence": "low",
+  "sources": [
+   "https://www.lasvegaslightsfc.com/roster/nyk-sessock/",
+   "https://en.wikipedia.org/wiki/Inter_Miami_CF_II"
+  ]
+ },
+ {
+  "espn_id": "318510",
+  "name": "Blake Pope",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Charlotte Independence",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "right-back, no known issues",
+   "LO": "three seasons with Portland Timbers 2 (reserve side) before Las Vegas",
+   "AB": "USL Championship squad full-back",
+   "ST": "full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. North Texas SC (2022) and Portland Timbers 2 (2023-25) skipped as reserve sides.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blake_Pope"
+  ]
+ },
+ {
+  "espn_id": "271860",
+  "name": "Benjamin Ofeimu",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Birmingham Legion",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Miami FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "defender, no known issues",
+   "LO": "two to three seasons per club",
+   "AB": "USL Championship defender",
+   "ST": "no-frills defender",
+   "LE": "part of Indy's 2024 Open Cup semi-final run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Philadelphia Union II (2018-20) skipped as a reserve side; Las Vegas move not yet on Wikipedia, ESPN lists him there.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Ofeimu"
+  ]
+ },
+ {
+  "espn_id": "320953",
+  "name": "Abraham Okyere",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "International Allies",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Al-Hilal United",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Beerschot",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "TRAU FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "KPV",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Haka",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ykkönen Midfielder of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "midfielder, no known issues",
+   "LO": "journeyman across six countries",
+   "AB": "USL Championship midfielder, Finnish top-flight experience",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Teenage spell at UAE club Al-Hilal United not coded money_league (small club, early career).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abraham_Okyere"
+  ]
+ },
+ {
+  "espn_id": "327127",
+  "name": "Charlie Lanphier",
+  "club_id": "18987",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "goalkeeper, no known issues",
+   "LO": "young keeper at his first listed senior club",
+   "AB": "USL Championship goalkeeper (11 apps)",
+   "ST": "goalkeeper",
+   "LE": "early career; listed in 2026 season awards tables"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club roster gives born 7 Jul 2003, Sammamish WA. Join year not found; 2026 used.",
+  "confidence": "low",
+  "sources": [
+   "https://www.lasvegaslightsfc.com/roster/charlie-lanphier/",
+   "https://en.wikipedia.org/wiki/2026_USL_Championship_season"
+  ]
+ },
+ {
+  "espn_id": "242993",
+  "name": "Marcus Epps",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "New York Red Bulls",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "hard-working winger; led San Antonio in games and minutes 2021",
+   "LO": "journeyman, one or two seasons per club",
+   "AB": "MLS experience, USL Championship regular",
+   "ST": "winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Portland Timbers 2 (2020) skipped as a reserve side.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Epps_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "316463",
+  "name": "Oliver Semmle",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Louisville City FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025 (Philadelphia); NCAA title 2020 (Marshall)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "goalkeeper, no known issues",
+   "LO": "one to two seasons per club",
+   "AB": "USL Championship goalkeeper, joint-most shutouts 2023",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Semmle"
+  ]
+ },
+ {
+  "espn_id": "266029",
+  "name": "Blaine Ferri",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fort Lauderdale CF",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "North Texas SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "midfielder, no known issues",
+   "LO": "second season at Lexington after short spells",
+   "AB": "USL Championship midfielder",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Fort Lauderdale CF and North Texas SC were MLS reserve sides in USL League One; kept as his early senior clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blaine_Ferri"
+  ]
+ },
+ {
+  "espn_id": "246409",
+  "name": "Phillip Goodrum",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Memphis 901",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Louisville City FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Memphis single-season record 23 goals (2022)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "striker, no known issues",
+   "LO": "several moves, two for transfer fees",
+   "AB": "one of the USL Championship's top strikers; league-record fee 2024",
+   "ST": "prolific goalscorer",
+   "LE": "Memphis scoring record, record USL transfer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Atlanta United 2 (2020-21) skipped as a reserve side. Search found no discipline issues.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phillip_Goodrum"
+  ]
+ },
+ {
+  "espn_id": "319024",
+  "name": "Kendall Burks",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Fire FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "centre-back, no known issues",
+   "LO": "second season at Lexington",
+   "AB": "USL Championship centre-back, former 11th MLS draft pick",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kendall_Burks"
+  ]
+ },
+ {
+  "espn_id": "284636",
+  "name": "Nicolas Firmino",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Union Omaha",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "forward, no known issues",
+   "LO": "second season at Lexington",
+   "AB": "USL Championship forward; scored late MLS equaliser for Atlanta 2023",
+   "ST": "attacking player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. New England Revolution II (2020) and Atlanta United 2 (2022-24) skipped as reserve sides.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Firmino"
+  ]
+ },
+ {
+  "espn_id": "257202",
+  "name": "Aaron Molloy",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Republic of Ireland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Drogheda United",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Forward Madison FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "College captain at Penn State",
+  "honours": "PDL Young Player of the Year 2017; Big Ten Midfielder of the Year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "midfielder, captained his college side",
+   "LO": "two seasons per club",
+   "AB": "USL Championship midfielder",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Portland Timbers 2 (2020) skipped as a reserve side; Lexington move not on Wikipedia yet, ESPN lists him there.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Molloy"
+  ]
+ },
+ {
+  "espn_id": "398193",
+  "name": "Xavier Zengue",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "defender, no known issues",
+   "LO": "at Lexington; earlier career not found",
+   "AB": "USL Championship regular (26 apps)",
+   "ST": "defender",
+   "LE": "listed in 2026 season weekly honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; born year estimated from ESPN age 25. Join year not found; 2026 used.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lexington_SC",
+   "https://en.wikipedia.org/wiki/2026_USL_Championship_season"
+  ]
+ },
+ {
+  "espn_id": "257622",
+  "name": "Javain Brown",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vancouver Whitecaps FC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Kingston College (school)",
+  "honours": "Canadian Championship 2022, 2023 (Vancouver)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "right-back, no known issues",
+   "LO": "three and a half seasons at Vancouver",
+   "AB": "Jamaica international, MLS full-back",
+   "ST": "attacking right-back",
+   "LE": "Jamaica international, two domestic cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Search found no discipline issues.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Javain_Brown"
+  ]
+ },
+ {
+  "espn_id": "289449",
+  "name": "Jacob Greene",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "D.C. United",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 cap for Trinidad and Tobago",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "defender/midfielder, no known issues",
+   "LO": "D.C. United homegrown, second season at Lexington",
+   "AB": "USL Championship full-back, new T&T international",
+   "ST": "full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists age 21; the only Jacob Greene at Lexington (Wikipedia) was born March 2003 (23) and plays for Trinidad and Tobago. Loudoun United and Columbus Crew 2 skipped as reserve sides.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Greene"
+  ]
+ },
+ {
+  "espn_id": "379548",
+  "name": "Braudílio Rodrigues",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Guinea-Bissau",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "forward, no known issues",
+   "LO": "at Lexington; earlier career not found",
+   "AB": "USL Championship squad forward",
+   "ST": "forward",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; born year estimated from ESPN age 26. Join year not found; 2026 used.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lexington_SC"
+  ]
+ },
+ {
+  "espn_id": "319388",
+  "name": "Tarik Scott",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes; came back from torn ACL",
+   "WK": "winger, no known issues",
+   "LO": "FC Dallas academy from age 5, homegrown",
+   "AB": "young USL Championship winger",
+   "ST": "left winger",
+   "LE": "early career; Jamaica youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists Jamaica; he is US-born, Jamaica youth international.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tarik_Scott"
+  ]
+ },
+ {
+  "espn_id": "317571",
+  "name": "Malcolm Fry",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Cup 2022 (Revolution U19)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "forward, no known issues",
+   "LO": "homegrown at the club he grew up supporting; on loan at Lexington",
+   "AB": "young forward, few senior apps",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. At Lexington on loan from New England (Revolution contract runs through 2026).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malcolm_Fry"
+  ]
+ },
+ {
+  "espn_id": "265448",
+  "name": "Noble Okello",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "HB Køge",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 cap for Canada; Uganda international from 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "midfielder, no known issues",
+   "LO": "Toronto FC academy and first team four seasons, then several moves",
+   "AB": "former Canada international, now USL Championship",
+   "ST": "attacking midfielder, long-range scorer",
+   "LE": "former Canada and now Uganda international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. New England Revolution II and Atlanta United 2 (2023-24) skipped as reserve sides. ESPN nation Canada; he switched to Uganda in 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noble_Okello"
+  ]
+ },
+ {
+  "espn_id": "316454",
+  "name": "Milo Yosef",
+  "club_id": "21822",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Tulsa",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2020 (Marshall); All-American 2019, 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no known incidents or causes",
+   "WK": "forward, no known issues",
+   "LO": "second season at Lexington",
+   "AB": "USL Championship forward",
+   "ST": "technical, quick forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milo_Yosef"
+  ]
+ }
+]

@@ -1,0 +1,2029 @@
+[
+ {
+  "espn_id": "278774",
+  "name": "Alessandro Milesi",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Peru",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brescia",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Miami FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Sliema Wanderers",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Universidad San Martín",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Grau",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Alianza Atlético",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Cusco FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2014 Youth Olympic gold with Peru U15",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left wing-back, two-way role",
+   "LO": "many short spells in four countries",
+   "AB": "USL Championship regular",
+   "ST": "attacking left wing-back",
+   "LE": "Youth Olympic gold as a teenager"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Milesi_(footballer)",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "288188",
+  "name": "Daltyn Knutson",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "South Georgia Tormenta",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "South Georgia Tormenta",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Miami FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable defender",
+   "LO": "three seasons each at Omaha and Miami",
+   "AB": "USL Championship regular",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daltyn_Knutson",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "360319",
+  "name": "Bachir Ndiaye",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Senegal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Asheville City",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Charlotte Independence",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College all-conference honours (UNC Wilmington)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "holding midfielder",
+   "LO": "three seasons at Charlotte Independence",
+   "AB": "USL Championship regular",
+   "ST": "functional midfielder",
+   "LE": "2023 MLS SuperDraft pick"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bachir_Ndiaye",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "276282",
+  "name": "Matías Romero",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Argentinos Juniors",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Banfield",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Instituto",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Miami FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2013 South American U-17 Championship (Argentina)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "right-sided wide player",
+   "LO": "four seasons at Argentinos Juniors",
+   "AB": "former Argentine top-flight regular",
+   "ST": "right winger turned right-back",
+   "LE": "youth continental title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matías_Romero_(footballer)",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "361240",
+  "name": "Angelo Calfo",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Flower City Union",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Weston Bears",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Texoma FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Ballard FC in its first season",
+  "honours": "2023 NISA Championship (Flower City Union)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "captaincy at lower levels",
+   "LO": "one season each at several clubs",
+   "AB": "USL Championship starter after lower-league climb",
+   "ST": "centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angelo_Calfo",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "348717",
+  "name": "Mason Tunbridge",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "South Georgia Tormenta",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One Team of the Week six times",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goals and assists from midfield",
+   "LO": "two seasons at Tormenta, now Miami",
+   "AB": "USL Championship regular, prolific in League One",
+   "ST": "attacking midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year estimated from ESPN age 25.",
+  "confidence": "low",
+  "sources": [
+   "https://www.tormentafc.com/news/2025/12/15/mason-tunbridge-transferred-to-miami-fc/",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "420161",
+  "name": "Arney Rocha",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Colombia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Real Cundinamarca",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Reached Colombian second-tier fall final 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.8,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking role",
+   "LO": "four seasons at Real Cundinamarca",
+   "AB": "USL Championship regular",
+   "ST": "attacking midfielder/forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year estimated from ESPN age 23.",
+  "confidence": "low",
+  "sources": [
+   "https://www.uslchampionship.com/news_article/show/1352875",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "403119",
+  "name": "Riyon Tori",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, little known of style",
+   "LO": "career record unclear",
+   "AB": "USL Championship squad player",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Earlier clubs not confirmed; born year estimated from ESPN age 25.",
+  "confidence": "low",
+  "sources": [
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "286805",
+  "name": "Rodrigo da Costa",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Tulsa",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "creative midfielder",
+   "LO": "five seasons and 124 matches at Tulsa",
+   "AB": "productive USL Championship attacker",
+   "ST": "attacking midfielder, regular goals",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_da_Costa_(footballer,_born_1993)",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "127444",
+  "name": "Eloy Room",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1989,
+  "nation": "Curaçao",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Vitesse",
+    "from": 2008,
+    "to": 2017
+   },
+   {
+    "club": "Go Ahead Eagles",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "PSV",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Vitesse",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Cercle Brugge",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Curaçao captain (2025 Gold Cup)",
+  "honours": "KNVB Cup 2017, Eredivisie 2018, MLS Cup 2020, Caribbean Cup 2017; 79 caps",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "captain, nothing negative on record",
+   "WK": "national-team leader",
+   "LO": "nine years at Vitesse, returned later",
+   "AB": "Eredivisie and MLS starter",
+   "ST": "shot-stopper",
+   "LE": "kept Curaçao's World Cup-clinching clean sheet; 15-save WC record vs Ecuador"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eloy_Room"
+  ]
+ },
+ {
+  "espn_id": "219272",
+  "name": "Joel Soñora",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "VfB Stuttgart II",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Talleres",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Arsenal de Sarandí",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Banfield",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Vélez Sarsfield",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Marítimo",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Juárez",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Huracán",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Independiente Rivadavia",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Colón",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international (U17, U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 2.5,
+  "AB": 4.8,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder",
+   "LO": "eleven clubs in ten years",
+   "AB": "former Argentine top-flight player",
+   "ST": "left-sided playmaker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joel_Soñora",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "257519",
+  "name": "Gerald Díaz",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Puerto Rico",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayamón FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Vilamarxant",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Bayamón FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Buñol",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Academia Quintana",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "43 caps, 12 goals for Puerto Rico",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "wide midfielder",
+   "LO": "many short spells",
+   "AB": "USL Championship regular",
+   "ST": "right-sided midfielder",
+   "LE": "established Puerto Rico international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerald_Díaz",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "380872",
+  "name": "Thomas Musto",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, style unknown",
+   "LO": "young, early in career",
+   "AB": "USL Championship squad player",
+   "ST": "wide midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Earlier career not confirmed; born year estimated from ESPN age 22.",
+  "confidence": "low",
+  "sources": [
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "302884",
+  "name": "Arthur Rogers",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 1996,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Corpus Christi FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Northern Colorado Hailstorm",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One Defender of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable defender",
+   "LO": "two-year stints at several clubs",
+   "AB": "USL Championship squad player",
+   "ST": "no-frills defender",
+   "LE": "League One award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_Rogers_(footballer)",
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "383221",
+  "name": "Felipe Rodriguez",
+  "club_id": "18159",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Uruguay",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Miami FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.3,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "backup goalkeeper",
+   "LO": "young, early in career",
+   "AB": "USL Championship back-up",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page found; earlier career not confirmed; born year estimated from ESPN age 22.",
+  "confidence": "low",
+  "sources": [
+   "https://www.miamifc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "286797",
+  "name": "Paul Gindiri",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Real Monarchs",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Larne",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Ventura County FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NIFL Premiership 2023-24 (Larne, loan); Pac-12 Offensive Player of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, often off the bench",
+   "LO": "second season at Monterey Bay",
+   "AB": "USL Championship forward",
+   "ST": "direct forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia page is under his full name, Ilijah Paul.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilijah_Paul",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "303472",
+  "name": "Zackery Farnsworth",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Monarchs",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable defender",
+   "LO": "RSL academy product, six seasons with Monarchs",
+   "AB": "USL Championship regular",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zackery_Farnsworth",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "137458",
+  "name": "Nick Ross",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Inverness Caledonian Thistle",
+    "from": 2010,
+    "to": 2015
+   },
+   {
+    "club": "Dundee",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Sepsi OSK",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Brora Rangers",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Sacramento Republic",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Cup 2015 (Inverness)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "experienced, steady midfielder",
+   "LO": "five years at Inverness, four at Sacramento Republic",
+   "AB": "former Scottish Premiership regular",
+   "ST": "attacking midfielder turned playmaker",
+   "LE": "Scottish Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Played for Kevin's Sacramento Republic 2022-2025.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nick_Ross_(footballer,_born_1991)",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "363895",
+  "name": "Ryuga Nakamura",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "SK Super Nova",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder",
+   "LO": "five seasons in Latvia, now Monterey Bay",
+   "AB": "USL Championship regular",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Earlier club FK Tukums 2000 (Latvia) omitted from clubs because years weren't given; born year estimated from ESPN age 25.",
+  "confidence": "low",
+  "sources": [
+   "https://www.uslchampionship.com/news_article/show/1357462"
+  ]
+ },
+ {
+  "espn_id": "180955",
+  "name": "Sebastian Lletget",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "West Ham United",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2015,
+    "to": 2021
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained the USMNT twice at the 2021 Gold Cup",
+  "honours": "2021 Gold Cup, 2019-20 Nations League; 33 caps, 8 goals; 2021 MLS All-Star",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "apologised for 2023 cheating allegations; otherwise quiet",
+   "WK": "hard-running box-to-box midfielder",
+   "LO": "seven seasons at LA Galaxy",
+   "AB": "USMNT regular, MLS All-Star",
+   "ST": "technical, goal-scoring midfielder",
+   "LE": "won two CONCACAF titles with the USMNT"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 2,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "racist_abuse 2: MLS suspended and fined him (April 2021) for a homophobic slur in an Instagram video; he apologised and did inclusion training.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Lletget",
+   "https://www.mlssoccer.com/news/la-galaxy-s-sebastian-lletget-fined-and-suspended-by-mls"
+  ]
+ },
+ {
+  "espn_id": "317343",
+  "name": "Omari Glasgow",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Guyana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Western Tigers",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Chicago Fire II",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Guyana's all-time top scorer (26 in 41); 2023-24 Nations League top scorer",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "Chicago Fire player on loan",
+   "AB": "USL Championship forward, prolific for Guyana",
+   "ST": "goal-scoring forward",
+   "LE": "national record scorer at 22"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from Chicago Fire.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omari_Glasgow",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "400662",
+  "name": "Joel Garcia Jr.",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "The Town FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "local Salinas player, second season at the club",
+   "AB": "USL Championship squad player",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.montereybayfc.com/roster/joel-garcia-jr/"
+  ]
+ },
+ {
+  "espn_id": "419860",
+  "name": "Kelsey Egwu",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Edmonton",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "FC London",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "JK Narva Trans",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Valour FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "full-back",
+   "LO": "several short spells",
+   "AB": "USL Championship regular",
+   "ST": "full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kelsey_Egwu",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "360088",
+  "name": "Wesley Leggett",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.8,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "three seasons at Loudoun",
+   "AB": "USL Championship regular",
+   "ST": "forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wesley_Leggett",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "303895",
+  "name": "Nico Gordon",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Montserrat",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Birmingham City",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "North Texas SC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain of North Texas SC",
+  "honours": "MLS Next Pro Cup 2024; 2024 MLS Next Pro Best XI; Montserrat international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "captained North Texas",
+   "LO": "second season at Monterey Bay",
+   "AB": "USL Championship regular, ex-Championship (England)",
+   "ST": "no-frills centre-back",
+   "LE": "league title with North Texas"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Gordon",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "248963",
+  "name": "Stuart Ritchie",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Richmond Kickers",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Columbus Crew 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "One Knoxville",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international (U18, U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back",
+   "LO": "short spells, two seasons at Knoxville",
+   "AB": "USL Championship regular",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists him as LM; Wikipedia as left-back.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stuart_Ritchie_(soccer)",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "273249",
+  "name": "Jacob Jackson",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Diego FC",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "WCC Goalkeeper of the Year 2020, 2021 (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper",
+   "LO": "several MLS rosters, on loan from San Diego FC",
+   "AB": "MLS back-up, USL Championship starter",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from San Diego FC.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Jackson_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "93084",
+  "name": "Fernando Delgado",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Mexico",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Real Monarchs",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2023 CONCACAF U-17 Championship (Mexico); 2023 U-17 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper",
+   "LO": "young, early in career",
+   "AB": "USL Championship starter at 19",
+   "ST": "goalkeeper",
+   "LE": "youngest goalkeeper in USL Championship history"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.montereybayfc.com/news/2026/01/09/delgado-signed/"
+  ]
+ },
+ {
+  "espn_id": "384673",
+  "name": "Belmar Joseph",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Haiti",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Sion",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Haiti international (5 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder",
+   "LO": "Sion player on loan",
+   "AB": "USL Championship squad player",
+   "ST": "midfielder",
+   "LE": "young Haiti international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from FC Sion; born in the US.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Belmar_Joseph",
+   "https://www.montereybayfc.com/roster"
+  ]
+ },
+ {
+  "espn_id": "238185",
+  "name": "Luka Malesevic",
+  "club_id": "21370",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Montenegro",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Mornar",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Iskra Danilovgrad",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Radnik Surdulica",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Petrovac",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Dečić",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Otrant-Olympic",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Mornar",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Montenegro youth international (U17-U21)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.8,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "many clubs, three years at Iskra",
+   "AB": "USL Championship squad player",
+   "ST": "defender used on the right",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists him as RM; Wikipedia as defender.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Malešević",
+   "https://www.montereybayfc.com/roster"
+  ]
+ }
+]

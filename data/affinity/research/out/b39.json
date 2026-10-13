@@ -1,0 +1,2041 @@
+[
+ {
+  "espn_id": "175264",
+  "name": "Alberto Brignoli",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Italy",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Montichiari",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Lumezzane",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Ternana",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Juventus",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Benevento",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Palermo",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Empoli",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie B 2020-21 (Empoli), Greek Cup 2021-22 (Panathinaikos), Super League Greece 2025-26 (AEK); Greek league goalkeeper of the season 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Steady keeper, no ego reported",
+   "LO": "Journeyman, many loans from Juventus",
+   "AB": "Solid keeper, Serie B best goalkeeper, Greek GK of season",
+   "ST": "Goalkeeper; famous headed goal vs Milan",
+   "LE": "Scored Benevento's first-ever Serie A point with a 95th-minute header"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alberto_Brignoli"
+  ]
+ },
+ {
+  "espn_id": "218951",
+  "name": "Harold Moukoudi",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Cameroon",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Le Havre",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Saint-Étienne",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2022-23, 2025-26 and Greek Cup 2022-23 (AEK); AFCON third place 2021 (Cameroon)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Reliable centre-back",
+   "LO": "Four seasons at AEK, reportedly turned down a Lens offer",
+   "AB": "Solid centre-back, Cameroon international",
+   "ST": "No-frills centre-back",
+   "LE": "Scored in 2023 Greek Cup final to complete AEK double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harold_Moukoudi"
+  ]
+ },
+ {
+  "espn_id": "221332",
+  "name": "Luka Jovic",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Serbia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Red Star Belgrade",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Benfica",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Real Madrid",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Fiorentina",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "AC Milan",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2021-22, La Liga x2 (Real Madrid); Primeira Liga x2 (Benfica); DFB-Pokal 2018 (Frankfurt); Super League Greece 2025-26 (AEK); Bundesliga best striker 2018-19",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 5.5,
+  "LO": 3.5,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "Broke COVID self-isolation in 2020, charged, apologised",
+   "WK": "Penalty-box striker, mixed commitment reports",
+   "LO": "Many moves, unsettled after Real Madrid",
+   "AB": "Peak 2018-19 Frankfurt, earned Real Madrid move",
+   "ST": "Clinical finisher, five-goal Bundesliga game",
+   "LE": "Five goals in a Bundesliga game; four in an Athens derby; Euro 2024 late equaliser"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Charged in Serbia in 2020 for breaking COVID self-isolation; apologised; outcome reportedly a fine, not confirmed, so not coded (reflected in CH).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Jović",
+   "https://africa.espn.com/football/story/_/id/37582957/real-madrid-luka-jovic-called-testify-coronavirus-quarantine-breach"
+  ]
+ },
+ {
+  "espn_id": "237549",
+  "name": "Lovro Majer",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Croatia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lokomotiva Zagreb",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Rennes",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Prva HNL x3, Croatian Cup (Dinamo Zagreb); World Cup third place 2022 (Croatia)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "No known issues; little on causes",
+   "WK": "Creative midfielder, works for the team",
+   "LO": "Moves every two to three years",
+   "AB": "Croatia regular, Ligue 1 team of the season 2021-22",
+   "ST": "Elegant playmaker and set-piece taker",
+   "LE": "Scored at 2022 World Cup; penalty in shootout win over Brazil"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lovro_Majer"
+  ]
+ },
+ {
+  "espn_id": "239738",
+  "name": "Razvan Marin",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Romania",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viitorul Constanța",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Standard Liège",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Ajax",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Cagliari",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Empoli",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Liga I 2016-17 (Viitorul); Belgian Cup 2018 (Standard); Super League Greece 2025-26 (AEK); Romanian Footballer of the Year 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Box-to-box worker",
+   "LO": "Several clubs and loans",
+   "AB": "Romania regular, Footballer of the Year 2018",
+   "ST": "Tidy, penalty taker",
+   "LE": "Scored at Euro 2024 as Romania topped its group"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Răzvan_Marin"
+  ]
+ },
+ {
+  "espn_id": "246666",
+  "name": "Barnabás Varga",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Hungary",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SV Eberau",
+    "from": 2010,
+    "to": 2016
+   },
+   {
+    "club": "SV Mattersburg",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "SV Lafnitz",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Gyirmót",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Paks",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Ferencváros",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NB I x2 (Ferencváros), Super League Greece 2025-26 (AEK); NB I top scorer 2022-23, 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Hard-working target man, late bloomer from lower leagues",
+   "LO": "Many clubs on the way up",
+   "AB": "Prolific in Hungary, Hungary international",
+   "ST": "Physical centre-forward",
+   "LE": "Euro 2024 goal; stretchered off after collision vs Scotland"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barnabás_Varga"
+  ]
+ },
+ {
+  "espn_id": "260026",
+  "name": "Aboubakary Koita",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Mauritania",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "ASV Geel",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Gent",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Kortrijk",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Waasland-Beveren",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Sint-Truiden",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2025-26 (AEK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Winger, no notes on attitude",
+   "LO": "Three seasons at Sint-Truiden, two at AEK",
+   "AB": "Solid Belgian league winger, Mauritania international",
+   "ST": "Winger known for long-range goals",
+   "LE": "Club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aboubakary_Koïta"
+  ]
+ },
+ {
+  "espn_id": "285427",
+  "name": "Stavros Pilios",
+  "club_id": "887",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Albania",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "PAS Giannina",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Iraklis",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2 2019-20 (PAS Giannina), Super League Greece 2025-26 (AEK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Hard-running left-back",
+   "LO": "Academy product of PAS Giannina, now three seasons at AEK",
+   "AB": "Greek league regular, new Albania international",
+   "ST": "Attacking left-back",
+   "LE": "Club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stavros_Pilios"
+  ]
+ },
+ {
+  "espn_id": "302487",
+  "name": "Lazaros Rota",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Greece",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Slavoj Trebišov",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Zemplín Michalovce",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Fortuna Sittard",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2022-23, 2025-26 and Greek Cup 2022-23 (AEK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Energetic right-back",
+   "LO": "Five seasons at AEK",
+   "AB": "Greek league regular, Greece caps",
+   "ST": "Overlapping full-back with occasional fine goals",
+   "LE": "Club regular, two titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lazaros_Rota"
+  ]
+ },
+ {
+  "espn_id": "324593",
+  "name": "Filipe Relvas",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gondomar",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Pedras Rubras",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Portimonense",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Vitória de Guimarães",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2025-26 (AEK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Steady defender",
+   "LO": "Five years at Portimonense",
+   "AB": "Portuguese top-flight regular",
+   "ST": "No-frills centre-back",
+   "LE": "Club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Filipe_Relvas"
+  ]
+ },
+ {
+  "espn_id": "364626",
+  "name": "Milán Vitális",
+  "club_id": "887",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Hungary",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Győr",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Dunajská Streda",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Győr",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NB I 2025-26 (Győr)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Midfielder, nothing noted on style",
+   "LO": "Long spells with hometown-area club Győr",
+   "AB": "Hungary international, new at AEK",
+   "ST": "Midfielder with a goal-of-the-month strike",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milán_Vitális"
+  ]
+ },
+ {
+  "espn_id": "192943",
+  "name": "Mijat Gacinovic",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Serbia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Vojvodina",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2015,
+    "to": 2020
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Vojvodina captain as a teenager (2015)",
+  "honours": "DFB-Pokal 2018 (Frankfurt); Super League Greece x2, Greek Cup (AEK); U-20 World Cup 2015 (Serbia)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "No known issues; little on causes",
+   "WK": "Industrious winger-midfielder",
+   "LO": "Five years at Frankfurt, four at AEK",
+   "AB": "Bundesliga regular, Serbia international",
+   "ST": "Lively wide midfielder",
+   "LE": "DFB-Pokal 2018; U-20 world champion; winner at Brighton 2023"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Moved Panathinaikos (loan) to AEK, rivals, but via Hoffenheim not directly; not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mijat_Gaćinović"
+  ]
+ },
+ {
+  "espn_id": "260554",
+  "name": "Kervin Arriaga",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Honduras",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Platense",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Marathón",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Partizan",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Real Zaragoza",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Levante",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Honduran Cup 2018 (Platense)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Defensive midfielder, ball-winner",
+   "LO": "Many clubs in recent years",
+   "AB": "MLS regular, Honduras international",
+   "ST": "Holding midfielder",
+   "LE": "Club regular; Gold Cup 2025 semi-finalist"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kervin_Arriaga"
+  ]
+ },
+ {
+  "espn_id": "297754",
+  "name": "Zini",
+  "club_id": "887",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Angola",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "1º de Agosto",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Levadiakos",
+    "from": 2024,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece 2022-23, 2025-26 and Greek Cup (AEK); COSAFA Cup 2025 (Angola); Girabola top scorer 2021-22",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Forward, nothing noted on attitude",
+   "LO": "Three seasons with AEK incl. loan",
+   "AB": "Angola international, squad player at AEK",
+   "ST": "Forward",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zini_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "148110",
+  "name": "Domagoj Vida",
+  "club_id": "887",
+  "gender": "M",
+  "born": 1989,
+  "nation": "Croatia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Osijek",
+    "from": 2006,
+    "to": 2010
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Dynamo Kyiv",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "club": "Beşiktaş",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Croatia occasionally (2018, 2020)",
+  "honours": "World Cup runner-up 2018, third 2022; league titles in Croatia, Ukraine, Turkey and Greece; 100+ Croatia caps",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "Political 'Glory to Ukraine' video at 2018 World Cup (apologised); 2012 beer-on-bus fine",
+   "WK": "Committed, physical defender",
+   "LO": "Long spells at Kyiv and Beşiktaş but many clubs",
+   "AB": "Top international centre-back at peak",
+   "ST": "No-frills centre-back",
+   "LE": "2018 World Cup quarter-final header vs Russia; 100 caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2011 media match-fixing claims after Lyon 7-1 Dinamo: UEFA took no action, not coded.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Domagoj_Vida"
+  ]
+ },
+ {
+  "espn_id": "164839",
+  "name": "Paulo Dybala",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Instituto",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Palermo",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Juventus",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "AS Roma",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Juventus vice-captain 2021-22",
+  "honours": "World Cup 2022, Finalissima 2022 (Argentina); 5 Serie A, 4 Coppa Italia (Juventus); Conference League 2022 (Roma); Serie A MVP 2019-20",
+  "causes": [
+   "Common Goal member, pledged 1% of salary",
+   "Funded hospital equipment in Córdoba during COVID-19 (2020)",
+   "Sonrisa foundation for disadvantaged children in Argentina"
+  ],
+  "CH": 8.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 8.5,
+  "ST": 9.0,
+  "LE": 7.0,
+  "why": {
+   "CH": "Common Goal pledge and quiet charity, clean record",
+   "WK": "Creative forward, works when fit, not a presser",
+   "LO": "Seven years at Juventus, beloved at Roma since 2022",
+   "AB": "Serie A MVP, elite at peak, injury-prone",
+   "ST": "Elegant left-footed 10, dribbling and free kicks",
+   "LE": "World Cup winner, scored in final shootout; 'La Joya' mask celebration"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paulo_Dybala",
+   "https://www.goal.com/en/news/mata-hails-inspirational-dybala-as-juventus-star-joins/1syjt00yx1nvx17j4gr5rdhy7o"
+  ]
+ },
+ {
+  "espn_id": "212597",
+  "name": "Gianluca Mancini",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Perugia",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Atalanta",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "AS Roma",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2021-22 (Roma); Europa League runner-up 2023",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "Waved a 'rat' flag at Lazio fans after 2024 derby; fined EUR 5,000, apologised",
+   "WK": "Combative, committed defender",
+   "LO": "Seven seasons at Roma, fan favourite",
+   "AB": "Serie A regular, Italy caps",
+   "ST": "Physical centre-back, strong in the air",
+   "LE": "Derby winner; Conference League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2024 'rat' flag mocking Lazio fans: fined EUR 5,000, apologised; fan mockery, not discriminatory abuse (reflected in CH).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianluca_Mancini",
+   "https://insideworldfootball.com/2024/04/10/romas-mancini-escapes-fine-rat-flag-incident"
+  ]
+ },
+ {
+  "espn_id": "222529",
+  "name": "Mario Hermoso",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Valladolid",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Espanyol",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "AS Roma",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2025,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2020-21 (Atlético Madrid)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Steady defender",
+   "LO": "Five years at Atlético, otherwise short stays",
+   "AB": "La Liga winner, five Spain caps",
+   "ST": "Ball-playing left-sided defender",
+   "LE": "Late winner vs Porto in Champions League 2022"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mario_Hermoso"
+  ]
+ },
+ {
+  "espn_id": "259481",
+  "name": "Donyell Malen",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "PSV Eindhoven",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "AS Roma",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2017-18 (PSV); Europa League 2025-26 (Aston Villa); Champions League runner-up 2024 (Dortmund); Serie A Team of the Year 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 7.0,
+  "ST": 7.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "No known issues; little on causes",
+   "WK": "Direct forward, low passing involvement",
+   "LO": "Three and a half years at Dortmund, then quick moves",
+   "AB": "Netherlands international, strong Serie A season",
+   "ST": "Quick dribbler and finisher",
+   "LE": "Euro 2024 brace; five goals in a PSV game; 2024 UCL final with Dortmund"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Donyell_Malen"
+  ]
+ },
+ {
+  "espn_id": "285226",
+  "name": "Manu Koné",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2001,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Toulouse",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "AS Roma",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic silver 2024 (France U23); Nations League third 2024-25 (France)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "No known issues; little on causes",
+   "WK": "Tireless box-to-box midfielder",
+   "LO": "Three-plus years at Gladbach, settled at Roma",
+   "AB": "France international, 2026 World Cup squad",
+   "ST": "Powerful ball-carrier",
+   "LE": "Olympic silver; World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manu_Koné"
+  ]
+ },
+ {
+  "espn_id": "169213",
+  "name": "Bryan Cristante",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AC Milan",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "Benfica",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Pescara",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Atalanta",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "AS Roma",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "Roma captain",
+  "honours": "Euro 2020 (Italy); Primeira Liga x2 (Benfica); Conference League 2021-22 (Roma); Cavaliere of the Order of Merit",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 7.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "Captain, no known issues",
+   "WK": "Versatile, plays wherever needed",
+   "LO": "Eight seasons and 350+ games at Roma, captain",
+   "AB": "Italy international, solid Serie A regular",
+   "ST": "Tidy deep playmaker",
+   "LE": "Euro 2020 winner; Conference League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bryan_Cristante"
+  ]
+ },
+ {
+  "espn_id": "238798",
+  "name": "Mile Svilar",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Serbia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Benfica",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "AS Roma",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2018-19 (Benfica); Serie A best goalkeeper 2024-25, 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "No known issues; declined Serbia call-up in 2024 (neutral)",
+   "WK": "Steady goalkeeper",
+   "LO": "Four years at Roma, contract to 2030",
+   "AB": "Serie A best goalkeeper twice",
+   "ST": "Goalkeeper",
+   "LE": "Youngest goalkeeper in Champions League history (2017)"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mile_Svilar"
+  ]
+ },
+ {
+  "espn_id": "332354",
+  "name": "Wesley",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Flamengo",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "AS Roma",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2022, Copa do Brasil 2024 (Flamengo)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Hard-running full-back",
+   "LO": "Four years at Flamengo, now Roma",
+   "AB": "Brazil international",
+   "ST": "Attacking full-back on either flank",
+   "LE": "Libertadores winner; 2026 World Cup call-up (withdrew injured)"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wesley_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "323974",
+  "name": "Matìas Soulè",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Juventus",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Frosinone",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "AS Roma",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Winger, nothing noted on attitude",
+   "LO": "Third season at Roma",
+   "AB": "Serie A regular, new Argentina cap",
+   "ST": "Left-footed dribbler and set-piece taker, Di María comparisons",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matías_Soulé"
+  ]
+ },
+ {
+  "espn_id": "242593",
+  "name": "Evan Ndicka",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Ivory Coast",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Auxerre",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "AS Roma",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2021-22 (Frankfurt); Africa Cup of Nations 2023 (Ivory Coast)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Reliable, played every league minute in 2024-25",
+   "LO": "Five years at Frankfurt, three at Roma",
+   "AB": "Top-flight regular, Bundesliga team of the season",
+   "ST": "Composed centre-back",
+   "LE": "Europa League and AFCON winner; returned after on-pitch collapse in 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evan_Ndicka"
+  ]
+ },
+ {
+  "espn_id": "409371",
+  "name": "Emanuele Lulli",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "AS Roma",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Youth titles with Roma",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Young full-back, nothing noted",
+   "LO": "Roma academy since 2021",
+   "AB": "Just broken into Serie A",
+   "ST": "Technical, explosive full-back",
+   "LE": "Debut season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emanuele_Lulli"
+  ]
+ },
+ {
+  "espn_id": "164826",
+  "name": "Nahuel Molina",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Defensa y Justicia",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Rosario Central",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Udinese",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "AS Roma",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2022, Copa América 2021 and 2024, Finalissima 2022 (Argentina); World Cup runner-up 2026",
+  "causes": [],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "Post-match confrontation after 2026 World Cup final; FIFA assault charges, reported 7-match ban",
+   "WK": "Energetic right-back",
+   "LO": "Four years at Atlético, otherwise short stays",
+   "AB": "World Cup-winning starter",
+   "ST": "Attacking right-back",
+   "LE": "Scored in 2022 World Cup quarter-final; World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: FIFA assault charges (completed and attempted) over post-final confrontation with Spain players, 2026; reported 7-match national-team ban and $90,000 fine.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nahuel_Molina",
+   "https://inside.fifa.com/news/world-cup-2026-disciplinary-update",
+   "https://english.bhaskardigital.com/fifa-bans-players-after-world-cup-final-brawl-paredes-suspended-for-10-games-molina-for-7/"
+  ]
+ },
+ {
+  "espn_id": "271555",
+  "name": "Leonardo Balerdi",
+  "club_id": "104",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Marseille",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "AS Roma",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Marseille captain from 2024",
+  "honours": "Copa Libertadores runner-up 2018 (Boca)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Committed defender",
+   "LO": "Six years at Marseille, captain",
+   "AB": "Ligue 1 regular, Argentina caps",
+   "ST": "No-frills centre-back",
+   "LE": "Club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonardo_Balerdi"
+  ]
+ },
+ {
+  "espn_id": "387204",
+  "name": "Rodrigo Mora",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Portugal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Porto",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "AS Roma",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26 (Porto); Porto Player of the Year 2025; Youth League top scorer 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 8.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Playmaker, not physical",
+   "LO": "Porto academy product, sold at 19",
+   "AB": "Prodigy, Porto's best player in 2025",
+   "ST": "Gifted 10: close control, through balls",
+   "LE": "Youngest player at 2025 Club World Cup (scored)"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. A 2025 move to Al-Ittihad collapsed over Porto's demands; never moved, not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Mora_(footballer,_born_2007)"
+  ]
+ },
+ {
+  "espn_id": "360235",
+  "name": "Niccolò Pisilli",
+  "club_id": "104",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AS Roma",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-19 Euro 2023 (Italy U19); U-20 World Cup runner-up 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; no known issues",
+   "WK": "Two-way midfielder, works hard",
+   "LO": "Roma academy since age eight, one club",
+   "AB": "Serie A regular, Italy caps",
+   "ST": "Box-to-box midfielder",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niccolò_Pisilli"
+  ]
+ }
+]

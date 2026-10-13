@@ -1,0 +1,2026 @@
+[
+ {
+  "espn_id": "189045",
+  "name": "Stas Pokatilov",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Kazakhstan",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Akzhayik",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Shakhter Karagandy",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Aktobe",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Kairat",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Aktobe",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Tobol",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Kazakhstan Premier League 2020, 2 Kazakhstan Cups (Kairat); Azerbaijan Premier League 2025-26, 2 Azerbaijan Cups (Sabah); 31 Kazakhstan caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 3.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Goalkeeper; no notes on attitude.",
+   "LO": "Six years at Kairat, otherwise several clubs.",
+   "AB": "Kazakhstan international keeper, title winner in two countries.",
+   "ST": "Goalkeeper.",
+   "LE": "Long-serving national-team keeper, domestic titles."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stas_Pokatilov"
+  ]
+ },
+ {
+  "espn_id": "193291",
+  "name": "Veljko Simic",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Serbia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Domžale",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Schaffhausen",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Chiasso",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Winterthur",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Zemun",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Red Star Belgrade",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Vojvodina",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Omonia",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sivasspor",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serbian SuperLiga 2018-19, 2019-20 (Red Star); Azerbaijan Premier League and Cup 2025-26 (Sabah)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "Many clubs; longest spell three years at Red Star.",
+   "AB": "Solid winger in Serbian, Cypriot and Azerbaijani top flights.",
+   "ST": "Attacking winger.",
+   "LE": "Domestic titles, no wider profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Veljko_Simić"
+  ]
+ },
+ {
+  "espn_id": "204778",
+  "name": "Akim Zedadka",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Algeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Istres",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Lens",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "AS Saint Rémoise",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Marignane Gignac",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Clermont",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Lille",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Auxerre",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Real Zaragoza",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Piast Gliwice",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 Team of the Year 2020-21; Azerbaijan Premier League and Cup 2025-26 (Sabah); 1 Algeria cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Full-back; no notes on attitude.",
+   "LO": "Journeyman; three seasons at Clermont the longest spell.",
+   "AB": "Ligue 1 full-back at his peak with Clermont.",
+   "ST": "Right-back.",
+   "LE": "Clermont's promotion side, one Algeria cap."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Akim_Zedadka"
+  ]
+ },
+ {
+  "espn_id": "258421",
+  "name": "Tymoteusz Puchacz",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Poland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lech Poznań",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Zagłębie Sosnowiec",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "GKS Katowice",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Trabzonspor",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "1. FC Kaiserslautern",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Holstein Kiel",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Plymouth Argyle",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Süper Lig 2021-22 (Trabzonspor); Azerbaijan Premier League and Cup 2025-26 (Sabah); 16 Poland caps, Euro 2020 and Euro 2024 squads",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "No causes known; pulled out of an agreed loan to GKS Katowice on deadline day 2025.",
+   "WK": "Energetic left-back; no notes on attitude.",
+   "LO": "Lech academy, then many loans and clubs since 2021.",
+   "AB": "Poland international at two Euros, but a fringe player at Union and Kiel.",
+   "ST": "Attacking left-back.",
+   "LE": "Two Euro squads, Turkish title."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tymoteusz_Puchacz"
+  ]
+ },
+ {
+  "espn_id": "260848",
+  "name": "Ivan Lepinjica",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Croatia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Zadar",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Rijeka",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Slaven Belupo",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Sabah",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Croatian Cup 2018-19, 2019-20 (Rijeka); Azerbaijan Premier League 2025-26, 2 Azerbaijan Cups (Sabah)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Holding midfielder; no notes on attitude.",
+   "LO": "Five years at Rijeka, settled at Sabah since 2024.",
+   "AB": "Solid top-flight midfielder in Croatia and Azerbaijan.",
+   "ST": "Defensive midfield role.",
+   "LE": "Domestic cups and title."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Lepinjica"
+  ]
+ },
+ {
+  "espn_id": "268529",
+  "name": "Kaheem Parris",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Cavalier",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Krka",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Koper",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Dynamo Kyiv",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Sabah",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovenian Second League top scorer 2020-21; Azerbaijan Premier League 2025-26, 2 Azerbaijan Cups (Sabah)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "At Sabah since 2023 (loan, then permanent).",
+   "AB": "Regular winger in the Azerbaijani top flight; did not break through at Dynamo Kyiv.",
+   "ST": "Pacy attacking winger.",
+   "LE": "Domestic titles, no wider profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaheem_Parris"
+  ]
+ },
+ {
+  "espn_id": "290642",
+  "name": "Rahman Dashdamirov",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Azerbaijan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Shamakhi",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Sabah",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Azerbaijan Premier League 2025-26, 2 Azerbaijan Cups (Sabah); 11 Azerbaijan caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Centre-back; no notes on attitude.",
+   "LO": "Two domestic clubs; at Sabah since 2023.",
+   "AB": "Azerbaijan international centre-back.",
+   "ST": "Centre-back.",
+   "LE": "Recent national-team regular, domestic titles."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rahman_Dashdamirov"
+  ]
+ },
+ {
+  "espn_id": "291791",
+  "name": "Joy-Lance Mickels",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Rwanda",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Alemannia Aachen",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Wacker Nordhausen",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Carl Zeiss Jena",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "MVV Maastricht",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Sabah",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Al-Faisaly",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Sabah",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Azerbaijan Premier League 2025-26 (top scorer), 2 Azerbaijan Cups (Sabah); Thuringian Cup 2019; FIFA Series 2026 with Rwanda",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Forward; no notes on attitude.",
+   "LO": "Journeyman in Germany, then two spells at Sabah.",
+   "AB": "Azerbaijani league top scorer; earlier career in German lower leagues.",
+   "ST": "Goalscoring winger/forward.",
+   "LE": "League top scorer, Rwanda international."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league: left Sabah in 2023 for Saudi First Division club Al-Faisaly for one season, then returned.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joy-Lance_Mickels"
+  ]
+ },
+ {
+  "espn_id": "332563",
+  "name": "Aden Mccarthy",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2003,
+  "nation": "South Africa",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Kaizer Chiefs",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sabah",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 South Africa cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Centre-back; described as a standout at Kaizer Chiefs.",
+   "LO": "Young; two clubs so far.",
+   "AB": "Young South Africa international centre-back.",
+   "ST": "Centre-back.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aden_McCarthy"
+  ]
+ },
+ {
+  "espn_id": "362336",
+  "name": "Umarali Rakhmonaliev",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Uzbekistan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bunyodkor",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Rubin Kazan",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Russian First League 2022-23 (Rubin); Azerbaijan Premier League 2025-26, 2 Azerbaijan Cups (Sabah); AFC U-20 Asian Cup 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Defensive midfielder; no notes on attitude.",
+   "LO": "Young; three clubs so far.",
+   "AB": "Uzbekistan youth star, one senior cap.",
+   "ST": "Midfielder who chips in with goals.",
+   "LE": "U-20 Asian champion."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Umarali_Rakhmonaliev"
+  ]
+ },
+ {
+  "espn_id": "385377",
+  "name": "Christian Nwachukwu",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Botev Plovdiv",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Serikspor",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Sabah",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None at senior level (unused in Botev's 2024 Bulgarian Cup win)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "Young; four clubs in two years.",
+   "AB": "Young winger, limited senior record.",
+   "ST": "Winger.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Nwachukwu"
+  ]
+ },
+ {
+  "espn_id": "274878",
+  "name": "Aleksey Isayev",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Azerbaijan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Yenisey Krasnoyarsk",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Zenit St. Petersburg",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Yenisey Krasnoyarsk",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Sumgayit",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Sabah",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Qarabağ",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Azerbaijan Premier League and Cup 2025-26 (Sabah); about 36 Azerbaijan caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Midfielder; no notes on attitude.",
+   "LO": "Two spells at Sabah, five-plus years in all.",
+   "AB": "Azerbaijan international midfielder.",
+   "ST": "Wears the No. 10.",
+   "LE": "National-team regular, domestic titles."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleksey_Isayev"
+  ]
+ },
+ {
+  "espn_id": "304354",
+  "name": "Júnior Almeida",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Novorizontino",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Catanduva",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Votuporanguense",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Estrela da Amadora",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Marítimo",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sabah",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Centre-back; no notes on attitude.",
+   "LO": "Several clubs; two seasons at Marítimo.",
+   "AB": "Lower-division and Portuguese second-tier centre-back.",
+   "ST": "Centre-back.",
+   "LE": "Little profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: Wikipedia lists him as Erivaldo Almeida (full name Erivaldo Almeida Santos Junior), Sabah No. 33; age and nation match ESPN.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erivaldo_Almeida",
+   "https://en.wikipedia.org/wiki/Sabah_FC_(Azerbaijan)"
+  ]
+ },
+ {
+  "espn_id": "308907",
+  "name": "Patrick Orphe M'Bina",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Gabon",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Stade Mandji",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Béziers",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Grenoble",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Beauvais",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Chamalières",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Nîmes",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Maribor",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "União de Leiria",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sabah",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Azerbaijan Premier League and Cup 2025-26 (Sabah); 6 Gabon caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Forward; no notes on attitude.",
+   "LO": "Journeyman through French lower leagues and beyond.",
+   "AB": "Gabon international forward, worked up from French amateur level.",
+   "ST": "Forward.",
+   "LE": "Little profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orphé_Mbina"
+  ]
+ },
+ {
+  "espn_id": "321356",
+  "name": "Du Queiroz",
+  "club_id": "21922",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Corinthians",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Zenit St. Petersburg",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Grêmio",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Sport Recife",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Orenburg",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Sabah",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Russian Super Cup 2023 (Zenit); Campeonato Gaúcho 2024 (Grêmio); Bola de Prata best newcomer 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Ball-winning midfielder; no notes on attitude.",
+   "LO": "Corinthians academy, then a string of loans from Zenit.",
+   "AB": "Brasileirão best newcomer 2022, has not kept that level.",
+   "ST": "Midfielder.",
+   "LE": "Little profile beyond 2022."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan at Sabah from Zenit (Zenit listed with to: null).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Du_Queiroz"
+  ]
+ },
+ {
+  "espn_id": "226181",
+  "name": "Mykola Matviyenko",
+  "club_id": "493",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Ukraine",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2015,
+    "to": null
+   },
+   {
+    "club": "Karpaty Lviv",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Vorskla Poltava",
+    "from": 2017,
+    "to": 2017
+   }
+  ],
+  "captaincy": "Shakhtar Donetsk captain",
+  "honours": "5 Ukrainian Premier League titles, 6 Ukrainian Cups (Shakhtar); 86 Ukraine caps, Euro 2020 and Euro 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 9.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "No causes on record; nothing negative known.",
+   "WK": "Club captain and defensive leader.",
+   "LO": "Shakhtar academy, one club since 2015, stayed through the war; Shakhtar turned down a 2023 bid.",
+   "AB": "Long-time Ukraine starter at centre-back/left-back.",
+   "ST": "Composed left-footed defender.",
+   "LE": "86 caps, two Euros, many domestic titles."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mykola_Matviyenko",
+   "https://en.wikipedia.org/wiki/Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "276070",
+  "name": "Valeriy Bondar",
+  "club_id": "493",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Ukraine",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Shakhtar vice-captain; captained Ukraine to the 2019 U-20 World Cup",
+  "honours": "FIFA U-20 World Cup 2019 (captain); 4 Ukrainian Premier League titles, 3 Ukrainian Cups (Shakhtar); 11 Ukraine caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Vice-captain; led the U-20 world champions.",
+   "LO": "One senior club since 2019, contract to 2031.",
+   "AB": "Regular Champions League centre-back, occasional Ukraine cap.",
+   "ST": "Centre-back.",
+   "LE": "Captained Ukraine's U-20 world title."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valeriy_Bondar",
+   "https://en.wikipedia.org/wiki/Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "276081",
+  "name": "Dmytro Riznyk",
+  "club_id": "493",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Ukraine",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Vorskla Poltava",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 Ukrainian Premier League titles, 2 Ukrainian Cups (Shakhtar); 2019 U-20 World Cup squad; 6 Ukraine caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Goalkeeper; no notes on attitude.",
+   "LO": "Seven years at Vorskla, now Shakhtar.",
+   "AB": "Shakhtar's first-choice keeper; 15 saves against PSV in 2024.",
+   "ST": "Goalkeeper.",
+   "LE": "Record-setting Champions League save count."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dmytro_Riznyk"
+  ]
+ },
+ {
+  "espn_id": "307928",
+  "name": "Vinicius Augusto",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2022,
+    "to": null
+   },
+   {
+    "club": "Real Madrid Castilla",
+    "from": 2022,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2023-24 and Supercopa 2024 squad member (Real Madrid, loan); Ukrainian Cup 2024-25 (Shakhtar)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Full-back; no notes on attitude.",
+   "LO": "Shakhtar player since 2022, two years on loan in Madrid.",
+   "AB": "Young right-back; mostly Castilla while at Real Madrid.",
+   "ST": "Attacking right-back.",
+   "LE": "Squad medals, little playing role in them."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: Wikipedia title Vinicius Tobias (full name Vinícius Augusto Tobías da Silva); age, nation and club match.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vinicius_Tobias"
+  ]
+ },
+ {
+  "espn_id": "313078",
+  "name": "Pedrinho",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vitória",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Athletico Paranaense",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Sudamericana 2021, Campeonato Paranaense 2023 (Athletico); Ukrainian Cup 2024-25 (Shakhtar); Conference League Team of the Season 2025-26",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Dismissed by Athletico in 2023 after being named in a betting-scheme probe; acquitted by the STJD.",
+   "WK": "Full-back; no notes on attitude.",
+   "LO": "At Shakhtar since 2023.",
+   "AB": "Regular left-back for Shakhtar in Europe.",
+   "ST": "Attacking left-back.",
+   "LE": "Copa Sudamericana winner."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes: named in Brazil's 2023 Operação Penalidade Máxima (alleged paid yellow card, 2022), dismissed by Athletico, reportedly acquitted by the STJD; not coded. Wikipedia lists him as Pedro Henrique, No. 13.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedrinho_(footballer,_born_2002)",
+   "https://en.wikipedia.org/wiki/Pedrinho",
+   "https://en.wikipedia.org/wiki/Shakhtar_Donetsk",
+   "https://en.wikipedia.org/wiki/https://www.bandab.com.br/esporte/times/athletico/athletico-jogador-demitido-europa/"
+  ]
+ },
+ {
+  "espn_id": "314851",
+  "name": "Marlon Gomes",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Vasco da Gama",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ukrainian Cup 2024-25 (Shakhtar); South American U-20 Championship 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Midfielder; no notes on attitude.",
+   "LO": "Two clubs; at Shakhtar since 2024.",
+   "AB": "Shakhtar midfield regular, Brazil youth international.",
+   "ST": "Creative central midfielder.",
+   "LE": "Youth title, little wider profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marlon_Gomes"
+  ]
+ },
+ {
+  "espn_id": "338311",
+  "name": "Oleh Ocheretko",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Ukraine",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2020,
+    "to": null
+   },
+   {
+    "club": "Mariupol",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Dnipro-1",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Karpaty Lviv",
+    "from": 2024,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Ukrainian Premier League titles, Ukrainian Cup 2023-24 (Shakhtar); Euro U-21 bronze 2023; 12 Ukraine caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Midfielder; no notes on attitude.",
+   "LO": "Shakhtar academy, back after loans.",
+   "AB": "Young Ukraine international midfielder.",
+   "ST": "Midfielder.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oleh_Ocheretko"
+  ]
+ },
+ {
+  "espn_id": "359420",
+  "name": "Alisson Santana",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Atlético Mineiro",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Campeonato Mineiro 2024 (Atlético); Ukrainian Cup 2024-25 (Shakhtar); South American U-20 Championship 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "Two clubs; young.",
+   "AB": "Promising winger, Brazil U-20 champion.",
+   "ST": "Skilful winger/attacking midfielder.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alisson_Santana"
+  ]
+ },
+ {
+  "espn_id": "361432",
+  "name": "Kauã Elias",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Fluminense",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2023 (Fluminense); Ukrainian Premier League 2025-26, Ukrainian Cup 2024-25 (Shakhtar)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Centre-forward; no notes on attitude.",
+   "LO": "Two clubs; young.",
+   "AB": "Young striker scoring regularly for Shakhtar.",
+   "ST": "Striker.",
+   "LE": "Libertadores winner as a teenager."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kauã_Elias"
+  ]
+ },
+ {
+  "espn_id": "382379",
+  "name": "Gleiker Mendoza",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Venezuela",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Angostura",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Deportivo Táchira",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Kryvbas Kryvyi Rih",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Venezuelan Primera División 2024 (Táchira); Ukrainian Premier League Player of the Season 2025-26; 11 Venezuela caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "Several moves in three years.",
+   "AB": "Ukrainian league player of the season at Kryvbas.",
+   "ST": "Direct, high-scoring winger.",
+   "LE": "Recent breakthrough."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gleiker_Mendoza"
+  ]
+ },
+ {
+  "espn_id": "382970",
+  "name": "Isaque",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fluminense",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed; Brazil U-20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Attacking midfielder; no notes on attitude.",
+   "LO": "Two clubs; teenager.",
+   "AB": "Teenage No. 10 getting regular minutes.",
+   "ST": "Attacking midfielder.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isaque_(footballer,_born_2007)",
+   "https://en.wikipedia.org/wiki/Isaque_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "268019",
+  "name": "Lassina Traoré",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Burkina Faso",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Eredivisie titles, 2 KNVB Cups (Ajax); 3 Ukrainian Premier League titles, 2 Ukrainian Cups (Shakhtar); 36 Burkina Faso caps, 16 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Striker; no notes on attitude.",
+   "LO": "At Shakhtar since 2021 through the war, contract to 2031.",
+   "AB": "Burkina Faso's striker, titles with Ajax and Shakhtar.",
+   "ST": "Powerful forward.",
+   "LE": "Regular international scorer, titles in two countries."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: ESPN lists age 19; the only Lassina Traoré at Shakhtar (No. 2) was born 12 January 2001 (25); nation and club match.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lassina_Traoré",
+   "https://en.wikipedia.org/wiki/Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "326670",
+  "name": "Dmytro Kryskiv",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Ukraine",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2019,
+    "to": null
+   },
+   {
+    "club": "Metalist 1925 Kharkiv",
+    "from": 2020,
+    "to": 2022
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ukrainian Cup 2024-25 (Shakhtar); Euro U-21 bronze 2023; 3 Ukraine caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Central midfielder; no notes on attitude.",
+   "LO": "Shakhtar academy, contract to 2030.",
+   "AB": "Squad midfielder, occasional Ukraine cap.",
+   "ST": "Central midfielder.",
+   "LE": "Little profile."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dmytro_Kryskiv"
+  ]
+ },
+ {
+  "espn_id": "361629",
+  "name": "Newertton",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ukrainian Cup 2024-25 (Shakhtar)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Winger; no notes on attitude.",
+   "LO": "Only senior club so far.",
+   "AB": "Young winger with regular minutes.",
+   "ST": "Left winger.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia spells the name Newerton (Shakhtar No. 11).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newerton",
+   "https://en.wikipedia.org/wiki/Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "383068",
+  "name": "Lucas Ferreira",
+  "club_id": "493",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Shakhtar Donetsk",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa São Paulo de Futebol Jr. 2025 (São Paulo youth)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing negative known.",
+   "WK": "Attacking midfielder; no notes on attitude.",
+   "LO": "Two clubs; young.",
+   "AB": "Young attacker, cost a reported 10 million euros.",
+   "ST": "Winger/attacking midfielder.",
+   "LE": "Early in career."
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Ferreira_(Brazilian_footballer)"
+  ]
+ }
+]

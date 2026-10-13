@@ -1,0 +1,2107 @@
+[
+ {
+  "espn_id": "254298",
+  "name": "Jordan Scarlett",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lehigh Valley United",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Louisville City",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "steady centre-back, no known issues",
+   "LO": "3rd season at Hartford after 3 at Tampa Bay",
+   "AB": "solid USL Championship centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Scarlett_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "318487",
+  "name": "Antony Siaha",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Cameroon",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "San Diego 1904",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2025 USL Cup winner with Hartford (clean sheet in the final); Monterey Bay Golden Glove 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "goalkeeper, no known issues",
+   "LO": "several short stints; second season at Hartford",
+   "AB": "starting USL Championship goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "kept a clean sheet in Hartford's first-ever trophy final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia has him Cameroonian (born Yaoundé); same Hartford goalkeeper, age matches.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antony_Siaha"
+  ]
+ },
+ {
+  "espn_id": "318912",
+  "name": "Britton Fischer",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Minnesota United FC 2",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "young centre-back, no known issues",
+   "LO": "in Minnesota United's system since 2023; on loan at Hartford",
+   "AB": "young USL Championship regular",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan at Hartford from Minnesota United in 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Britton_Fischer"
+  ]
+ },
+ {
+  "espn_id": "401317",
+  "name": "Junior Moreira",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Guinea-Bissau",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Cancún FC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Part of Cancún FC's 2023-24 Campeón de Campeones-winning squad (per club reports)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; warm farewell from Cancún",
+   "WK": "coach calls him a strong team player",
+   "LO": "foreign player with most minutes in Cancún history; called the club home",
+   "AB": "USL Championship midfield regular",
+   "ST": "two-way central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.cancunfc.mx/en/blogs/news/cancun-fc-rinde-emotiva-despedida-a-junior-moreira"
+  ]
+ },
+ {
+  "espn_id": "220237",
+  "name": "Adrián Diz Pe",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Cuba",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Las Tunas",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Ciudad de La Habana",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Portland Timbers 2",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "13 caps for Cuba, several Gold Cups; 2014 Central American and Caribbean Games bronze; 2025 USL Cup with Hartford",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "centre-back, no known issues",
+   "LO": "journeyman across USL clubs",
+   "AB": "Cuba international, USL Championship regular",
+   "ST": "no-frills centre-back",
+   "LE": "Cuba caps and Gold Cup appearances"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adri%C3%A1n_Diz"
+  ]
+ },
+ {
+  "espn_id": "271177",
+  "name": "Barry Coffey",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Cliftonville",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Cork City",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Cobh Ramblers",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League of Ireland First Division Player of the Year 2025 (Cobh); Ireland youth caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "goalscoring midfielder, no known issues",
+   "LO": "three-plus seasons at Cork City, first season at Hartford",
+   "AB": "USL Championship midfielder, scoring regularly",
+   "ST": "goal threat from midfield",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barry_Coffey_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "252890",
+  "name": "Augustine Williams",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Sierra Leone",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "LA Galaxy II",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2025 USL Championship winner (Pittsburgh); USL All-League First Team 2020, Second Team 2022; Sierra Leone caps incl. AFCON 2021 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.3,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "striker, no known issues",
+   "LO": "journeyman, one season per club lately",
+   "AB": "proven USL Championship scorer, brief MLS spell",
+   "ST": "direct centre-forward",
+   "LE": "USL champion and AFCON squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Augustine_Williams_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "280510",
+  "name": "Sebastian Anderson",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Colorado Rapids",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Colorado Rapids 2",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. U17 World Cup squad 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.9,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "full-back, no known issues",
+   "LO": "Rapids homegrown 2019-24; extended at Hartford",
+   "AB": "USL Championship regular with brief MLS time",
+   "ST": "modern right-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Straight red card in an MLS match in 2019 (not violent conduct per sources).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Anderson"
+  ]
+ },
+ {
+  "espn_id": "303091",
+  "name": "Beverly Makangila",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Congo DR",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Saint-Éloi Lupopo",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2025 USL Cup with Hartford",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.7,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "central midfielder, no known issues",
+   "LO": "fourth season at Hartford",
+   "AB": "USL Championship midfielder",
+   "ST": "holding midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beverly_Makangila"
+  ]
+ },
+ {
+  "espn_id": "272853",
+  "name": "Michee Ngalina",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Congo DR",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bethlehem Steel",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Göztepe",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Young Player of the Year 2022; 2025 USL Cup with Hartford",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.3,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "winger, no known issues",
+   "LO": "third season at Hartford",
+   "AB": "USL Championship standout, spell in Turkey's top flight",
+   "ST": "pacy, direct winger",
+   "LE": "club regular, young player award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michee_Ngalina"
+  ]
+ },
+ {
+  "espn_id": "333611",
+  "name": "Sadat Anaku",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Uganda",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "KCCA",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Dundee United",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "KCCA",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Kagame Interclub Cup 2019 (KCCA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward, no known issues",
+   "LO": "two spells at KCCA; first season at Hartford",
+   "AB": "forward with Scottish Premiership experience",
+   "ST": "forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sadat_Anaku"
+  ]
+ },
+ {
+  "espn_id": "229432",
+  "name": "Thomas Presthus",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Yale (2024)",
+  "honours": "2025 USL Cup with Hartford; First Team All-Ivy 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 3.6,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; scholar All-American",
+   "WK": "reliable, started every Yale match",
+   "LO": "one pro club, extended through 2028",
+   "AB": "young USL Championship defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Goes by TJ Presthus.",
+  "confidence": "low",
+  "sources": [
+   "https://www.hartfordathletic.com/news/2025/02/12/from-new-haven-to-hartford-tj-presthus-joins-the-green-and-blue/"
+  ]
+ },
+ {
+  "espn_id": "333144",
+  "name": "Emmanuel Samadia",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Sierra Leone",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Kallon",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Hapoel Umm al-Fahm",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Hapoel Rishon LeZion",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "28 caps for Sierra Leone; 2025 USL Cup with Hartford",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "midfielder, no known issues",
+   "LO": "third season at Hartford, extended to 2028",
+   "AB": "regular Sierra Leone international",
+   "ST": "midfielder",
+   "LE": "national team regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emmanuel_Samadia"
+  ]
+ },
+ {
+  "espn_id": "302983",
+  "name": "Baboucarr Njie",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Gambia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United 2",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Phoenix Rising",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 caps for Gambia",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.7,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "versatile defender/midfielder",
+   "LO": "journeyman across USL clubs",
+   "AB": "USL Championship regular, Gambia caps",
+   "ST": "defender/midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baboucarr_Njie"
+  ]
+ },
+ {
+  "espn_id": "252812",
+  "name": "Matthew Real",
+  "club_id": "19411",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bethlehem Steel",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Philadelphia Union",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2020 (Philadelphia Union); CONCACAF U-20 Championship 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "full-back, no known issues",
+   "LO": "Union system for eight years",
+   "AB": "MLS squad player, now USL Championship",
+   "ST": "attacking left-back",
+   "LE": "Supporters' Shield squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthew_Real"
+  ]
+ },
+ {
+  "espn_id": "256401",
+  "name": "Eric Dick",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Swope Park Rangers",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Phoenix Rising",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2025 USL Championship winner and Final MVP (Pittsburgh); USL Championship Goalkeeper of the Year and Golden Glove 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "goalkeeper, no known issues",
+   "LO": "journeyman, second spell at Indy",
+   "AB": "league's best goalkeeper in 2024",
+   "ST": "goalkeeper",
+   "LE": "USL Championship final MVP"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Dick"
+  ]
+ },
+ {
+  "espn_id": "346266",
+  "name": "Josh O'Brien",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Republic of Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Watford",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Salford City",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Hamilton Academical",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.6,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "young defender/midfielder, no known issues",
+   "LO": "third season at Indy",
+   "AB": "young USL Championship regular",
+   "ST": "defender/midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists England; Wikipedia has him born in Dublin, Ireland; same Indy Eleven player, age matches.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_O%27Brien"
+  ]
+ },
+ {
+  "espn_id": "246322",
+  "name": "Cam Lindley",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Wilmington Hammerheads",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Orlando City",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League Second Team 2022, 2023; U.S. youth caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.2,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "central midfielder, no known issues",
+   "LO": "two spells at Indy, fourth straight season",
+   "AB": "All-League level USL Championship midfielder",
+   "ST": "tidy central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cam_Lindley"
+  ]
+ },
+ {
+  "espn_id": "201508",
+  "name": "Aodhan Quinn",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1992,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orlando City",
+    "from": 2014,
+    "to": 2014
+   },
+   {
+    "club": "Louisville City",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Phoenix Rising",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Reportedly captained Louisville City",
+  "honours": "USL Pro 2014 (Orlando City); USL Championship Golden Playmaker 2025; All-League First Team 2018, 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "creator, no known issues",
+   "LO": "fourth season at Indy; journeyman before",
+   "AB": "one of the league's top playmakers",
+   "ST": "set-piece and passing playmaker",
+   "LE": "Golden Playmaker, long USL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aodhan_Quinn"
+  ]
+ },
+ {
+  "espn_id": "339082",
+  "name": "Bruno Rendón",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Cuba",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Syracuse Pulse",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Northern Colorado Hailstorm",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup 2024 (Northern Colorado); USL League One Defender of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "versatile, no known issues",
+   "LO": "second season at Indy",
+   "AB": "USL Championship regular, League One award winner",
+   "ST": "versatile defender/forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Stayed in the U.S. after Cuba's 2018 U-20 exit (not an incident).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruno_Rend%C3%B3n"
+  ]
+ },
+ {
+  "espn_id": "236643",
+  "name": "Paco Craig",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1992,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bishop's Stortford",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Louisville City",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Wycombe Wanderers",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Miami FC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup 2017, 2018 (Louisville City); USL All-League First Team 2017, 2018, 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.2,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against; a few suspensions",
+   "WK": "centre-back, no known issues",
+   "LO": "four seasons at Louisville, three at Miami",
+   "AB": "three-time All-League centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "two USL titles with Louisville"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sent off in the 2016 Eastern Conference final (extra time); not described as violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paco_Craig_(English_footballer)"
+  ]
+ },
+ {
+  "espn_id": "181725",
+  "name": "Jack Blake",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Mansfield Town",
+    "from": 2013,
+    "to": 2013
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Jacksonville Armada",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Real Monarchs",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Real Monarchs (2019)",
+  "honours": "NASL Young Player of the Year 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.3,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "attacking midfielder, no known issues",
+   "LO": "fourth season at Indy; journeyman before",
+   "AB": "strong USL Championship playmaker",
+   "ST": "attacking midfielder, creator",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Nottingham; plays for Scotland via grandfather per Wikipedia.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Blake"
+  ]
+ },
+ {
+  "espn_id": "337928",
+  "name": "Loïc Mesanvi",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Togo",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Minneapolis City",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Minnesota United FC 2",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.7,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "striker, no known issues",
+   "LO": "Minnesota system 2022-25; first season at Indy",
+   "AB": "young USL Championship forward",
+   "ST": "fast striker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lo%C3%AFc_Mesanvi"
+  ]
+ },
+ {
+  "espn_id": "299501",
+  "name": "Anthony Herbert",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Trinidad and Tobago",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Haka",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 cap for Trinidad and Tobago",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.7,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "centre-back, no known issues",
+   "LO": "first season at Indy, several clubs",
+   "AB": "USL Championship centre-back, T&T cap",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Herbert_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "293807",
+  "name": "Edward Kizza",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Uganda",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution II",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2021 (New England, squad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward, no known issues",
+   "LO": "three seasons at Pittsburgh, second at Indy",
+   "AB": "USL Championship forward, brief MLS time",
+   "ST": "forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edward_Kizza"
+  ]
+ },
+ {
+  "espn_id": "405593",
+  "name": "Makel Rasheed",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Huntsville City",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Tormenta FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Two-time GLVC Defensive Player of the Year (UIndy)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "centre-back, no known issues",
+   "LO": "first season at Indy, played college in Indianapolis",
+   "AB": "USL Championship newcomer from League One",
+   "ST": "aerial centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year estimated from ESPN age; years at Huntsville approximate.",
+  "confidence": "low",
+  "sources": [
+   "https://athletics.uindy.edu/news/2025/12/11/former-uindy-mens-soccer-player-signs-with-indy-eleven.aspx"
+  ]
+ },
+ {
+  "espn_id": "336216",
+  "name": "Alejandro Mitrano",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Venezuela",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Slavia Prague B",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Zemplín Michalovce",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Deportivo Petare",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Monagas",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Miami FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.7,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "full-back, no known issues",
+   "LO": "journeyman, many clubs",
+   "AB": "USL Championship regular",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia has him Venezuelan; same Indy Eleven left-back, age matches.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Mitrano"
+  ]
+ },
+ {
+  "espn_id": "317737",
+  "name": "Nabilai Kibunguchy",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Kenya",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Minnesota United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Sacramento Republic",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Minnesota United 2",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Orlando City B",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Hougang United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 cap for Kenya",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.7,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "versatile defender, no known issues",
+   "LO": "several clubs; joined Indy mid-2026",
+   "AB": "USL Championship defender, Kenya cap",
+   "ST": "versatile centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Elk Grove, California; on loan at Sacramento Republic in 2021.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nabilai_Kibunguchy"
+  ]
+ },
+ {
+  "espn_id": "254438",
+  "name": "Joe Hafferty",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Sounders FC 2",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Austin FC II",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Cup 2023 (Austin FC II); MLS Next Pro Best XI 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 3.6,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "defender, no known issues",
+   "LO": "several clubs; on loan at Indy from Lexington",
+   "AB": "USL Championship defender",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan at Indy Eleven from Lexington SC since August 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Hafferty"
+  ]
+ },
+ {
+  "espn_id": "92410",
+  "name": "Mohamed Omar",
+  "club_id": "17360",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Somalia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Toronto FC III",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "HFX Wanderers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Assistant captain at HFX Wanderers (2023); Notre Dame captain (2021)",
+  "honours": "7 caps for Somalia",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.7,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "leadership roles, no known issues",
+   "LO": "two seasons each at HFX and San Antonio",
+   "AB": "USL Championship regular, Somalia international",
+   "ST": "midfielder/centre-back",
+   "LE": "Somalia international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Toronto; plays for Somalia.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohamed_Omar_(footballer,_born_1999)"
+  ]
+ }
+]

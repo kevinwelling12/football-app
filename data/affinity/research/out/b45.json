@@ -1,0 +1,1995 @@
+[
+ {
+  "espn_id": "156898",
+  "name": "Florian Thauvin",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1993,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Grenoble",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Bastia",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Marseille",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Marseille",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Tigres UANL",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Udinese",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Lens captain",
+  "honours": "2018 World Cup (squad), 2013 U-20 World Cup, Coupe de France 2026 with Lens, Ligue 2 2012, Liga MX Clausura 2023",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.5,
+  "LO": 4.5,
+  "AB": 7.0,
+  "ST": 8.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no causes known; Tigres ended his contract early, reason unstated",
+   "WK": "winger, captain at Lens",
+   "LO": "forced 2013 move from Lille, many clubs; Marseille favourite over two spells",
+   "AB": "22 Ligue 1 goals in 2017-18, World Cup winner squad",
+   "ST": "left-footed winger, close control, bicycle-kick goal for France",
+   "LE": "World Cup squad winner, 100 Ligue 1 goals, Lens cup captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "forced_transfer: skipped training in a 2013 contract dispute to force his move from Lille to Marseille.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Florian_Thauvin"
+  ]
+ },
+ {
+  "espn_id": "233199",
+  "name": "Matthieu Udol",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1996,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Metz",
+    "from": 2015,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026, Trophée des Champions 2026 (Lens); Ligue 2 Team of the Year 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "left-sided defender/wing-back",
+   "LO": "ten years at hometown club Metz, academy graduate",
+   "AB": "solid Ligue 1/Ligue 2 regular",
+   "ST": "attacking left-sided role, style not documented",
+   "LE": "cup winner with Lens, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthieu_Udol"
+  ]
+ },
+ {
+  "espn_id": "344517",
+  "name": "Robin Risser",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2004,
+  "nation": "France",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Dijon",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Red Star",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026, Trophée des Champions 2026; UNFP Ligue 1 Goalkeeper of the Year 2025-26; France 2026 World Cup call-up",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper",
+   "LO": "young; Strasbourg academy, Lens since 2025",
+   "AB": "Ligue 1 goalkeeper of the year at 21",
+   "ST": "goalkeeper",
+   "LE": "early career, cup and award with Lens"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Risser"
+  ]
+ },
+ {
+  "espn_id": "308246",
+  "name": "Abdallah Sima",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Senegal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Stoke City",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Angers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rangers",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Brest",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League and Cup 2021, Scottish League Cup 2024, Coupe de France 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, style not documented",
+   "LO": "owned by Brighton but loaned out four seasons; settled at Lens 2025",
+   "AB": "goals at Slavia, Rangers and Brest; 12 Senegal caps",
+   "ST": "pacy forward, flashes at Slavia and Rangers",
+   "LE": "Czech Cup final winner, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdallah_Sima"
+  ]
+ },
+ {
+  "espn_id": "258871",
+  "name": "Michaël Cuisance",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Marseille",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Venezia",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "VfL Osnabrück",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Lens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bayern treble squad 2019-20 (mostly unused), Trophée des Champions 2026",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.0,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "work ethic criticised early, later praised for professionalism at Hertha",
+   "WK": "early reputation for poor work rate",
+   "LO": "many clubs and loans since leaving Gladbach",
+   "AB": "creative midfielder, fringe at Bayern, regular at Hertha",
+   "ST": "left-footed playmaker, compared to Özil",
+   "LE": "fringe member of Bayern's 2020 treble squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micha%C3%ABl_Cuisance"
+  ]
+ },
+ {
+  "espn_id": "350577",
+  "name": "Pierre Ganiou",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2005,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Annecy",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026 (Lens)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back",
+   "LO": "Lens academy graduate",
+   "AB": "young starter in a Ligue 1 back three",
+   "ST": "centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: also known as Ismaëlo Ganiou; no Wikipedia page; ESPN lists France and a Burkina Faso spell, nation unconfirmed.",
+  "confidence": "low",
+  "sources": [
+   "https://africa.espn.com/football/player/bio/_/id/350577/pierre-ganiou"
+  ]
+ },
+ {
+  "espn_id": "393432",
+  "name": "Kyllian Antonio",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2008,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026, Trophée des Champions 2026; U-17 Euro runner-up 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back praised by coach for reading of game",
+   "LO": "Clairefontaine product, Lens since 2023",
+   "AB": "teenager breaking into Ligue 1",
+   "ST": "calm on the ball",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyllian_Antonio"
+  ]
+ },
+ {
+  "espn_id": "181946",
+  "name": "Ruben Aguilar",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1993,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Grenoble",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Auxerre",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Montpellier",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Monaco",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Lens",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026, Trophée des Champions 2026; 1 France cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "right-back",
+   "LO": "several clubs, three-plus years each",
+   "AB": "solid Ligue 1 regular, one France cap",
+   "ST": "right-back, style not documented",
+   "LE": "known for odd Bolivia call-up mix-up; cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ruben_Aguilar"
+  ]
+ },
+ {
+  "espn_id": "288481",
+  "name": "Michal Skoras",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bruk-Bet Termalica",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Raków Częstochowa",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Lech Poznań",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Gent",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Lens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ekstraklasa 2022, Belgian Pro League 2024, Belgian Cup 2025, Trophée des Champions 2026; 2022 World Cup and Euro 2024 squads",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "winger/wing-back",
+   "LO": "Lech Poznań academy and five seasons there, then three moves in four years",
+   "AB": "Poland international, title winner in two countries",
+   "ST": "wide attacker",
+   "LE": "World Cup and Euro squads, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micha%C5%82_Sk%C3%B3ra%C5%9B"
+  ]
+ },
+ {
+  "espn_id": "228557",
+  "name": "Amadou Haidara",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Mali",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga 2017, 2018, Austrian Cup 2017, DFB-Pokal 2022, 2023, Coupe de France 2026; 54 Mali caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "central midfielder, style not documented",
+   "LO": "six years at Leipzig",
+   "AB": "Champions League regular with Leipzig, 54 Mali caps",
+   "ST": "midfielder, Champions League goal v Man United",
+   "LE": "two DFB-Pokals, four AFCONs"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amadou_Haidara"
+  ]
+ },
+ {
+  "espn_id": "341720",
+  "name": "Yassine Titraoui",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Algeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Paradou AC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Charleroi",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Lens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FIFA Arab Cup 2021 (Algeria), Trophée des Champions 2026; 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "deep-lying 'metronome' midfielder",
+   "LO": "three clubs in five years, all normal steps up",
+   "AB": "Belgian top-flight regular, new at Lens",
+   "ST": "controlling midfielder",
+   "LE": "Arab Cup winner, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia spells the name Yacine Titraoui.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yassine_Titraoui"
+  ]
+ },
+ {
+  "espn_id": "387061",
+  "name": "Andrija Bulatovic",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Montenegro",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Kom",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rudar Pljevlja",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Budućnost Podgorica",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026, Trophée des Champions 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "central midfielder, positional discipline",
+   "LO": "young, Lens since 2025",
+   "AB": "teenager establishing himself in Ligue 1, Montenegro international",
+   "ST": "sharp passing and ball control",
+   "LE": "scored on Montenegro debut; early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrija_Bulatovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "364180",
+  "name": "Franjo Ivanovic",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Croatia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rijeka",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Union Saint-Gilloise",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Benfica",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Lens",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2025, Trophée des Champions 2026; Croatia international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward, style not documented",
+   "LO": "new club almost every year; on loan from Benfica",
+   "AB": "20-goal title season at Union SG, Croatia caps",
+   "ST": "goalscoring forward",
+   "LE": "title with Union SG, debut win over France for Croatia"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franjo_Ivanovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "222180",
+  "name": "Odsonne Édouard",
+  "club_id": "175",
+  "gender": "M",
+  "born": 1998,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Toulouse",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Celtic",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Leicester City",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "4 Scottish titles, 2 Scottish Cups, 3 League Cups with Celtic; Coupe de France 2026 (scored in final); U-17 Euro 2015 (Golden Player)",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 5.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "2017 airsoft-gun conviction (coded); declined Haiti call-up saying others had earned it",
+   "WK": "striker, movement and finishing",
+   "LO": "four years at Celtic, then Palace and loans",
+   "AB": "Scottish Premiership top scorer twice, club-record fee",
+   "ST": "finisher with good movement",
+   "LE": "Celtic 'treble treble' final goals, Coupe de France final goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: 2017 suspended four-month sentence and fine after an airsoft gun fired from a car injured a passer-by; damages reportedly unpaid in 2021.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Odsonne_%C3%89douard"
+  ]
+ },
+ {
+  "espn_id": "401306",
+  "name": "Souleymane Sagnan",
+  "club_id": "175",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Mali",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Caen",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Lens",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Trophée des Champions 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back",
+   "LO": "Lens academy graduate",
+   "AB": "senior debut August 2026",
+   "ST": "centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. French-born; Mali youth international.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Souleymane_Sagnan"
+  ]
+ },
+ {
+  "espn_id": "179187",
+  "name": "Nabil Bentaleb",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Algeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Angers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Lille",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League Cup runner-up 2015; Bundesliga Goal of the Season 2016-17; 2014 and 2026 World Cups with Algeria",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 5.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Schalke demoted him for disciplinary reasons in 2019; came back from a 2024 cardiac arrest",
+   "WK": "defensive midfielder",
+   "LO": "Lille-born, at Lille since 2023; earlier spells ended poorly",
+   "AB": "Premier League and Bundesliga regular, two World Cups",
+   "ST": "long-range shooting",
+   "LE": "comeback goal after cardiac arrest, two World Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nabil_Bentaleb"
+  ]
+ },
+ {
+  "espn_id": "257267",
+  "name": "Berke Özer",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Türkiye",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Altınordu",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Westerlo",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Portimonense",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Eyüpspor",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Lille",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkey international (debut 2025)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper",
+   "LO": "several clubs and loans",
+   "AB": "Ligue 1 starting keeper, Turkey caps",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berke_%C3%96zer"
+  ]
+ },
+ {
+  "espn_id": "340900",
+  "name": "Alexsandro",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Praiense",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Amora",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Chaves",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Lille",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Brazil international (3 caps); Liga Portugal 2 Team of the Season 2021-22",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back, reliable starter",
+   "LO": "four-plus years and 130 games at Lille, extended to 2028",
+   "AB": "rose from Portuguese third tier to Brazil caps",
+   "ST": "no-frills centre-back",
+   "LE": "first Lille player called up by Brazil"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexsandro_Ribeiro"
+  ]
+ },
+ {
+  "espn_id": "346844",
+  "name": "Tiago Santos",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Estoril",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Lille",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Portugal senior call-up 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "right-back",
+   "LO": "Lille since 2023; Benfica move blocked by a Sporting anti-rival clause, not his doing",
+   "AB": "Ligue 1 regular, Portugal call-up",
+   "ST": "attacking right-back with assists",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tiago_Santos_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "espn_id": "250853",
+  "name": "Romain Perraud",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Nice",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Paris FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Brest",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Southampton",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Real Betis",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lille",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League runner-up 2025 (Betis)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "left-back",
+   "LO": "a new club every two or three years",
+   "AB": "top-flight regular in France, England and Spain",
+   "ST": "attacking left-back, long-range goals",
+   "LE": "Conference League final with Betis"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romain_Perraud"
+  ]
+ },
+ {
+  "espn_id": "318779",
+  "name": "Hákon Haraldsson",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Iceland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Copenhagen",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Lille",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2022, 2023, Danish Cup 2023; Icelandic Footballer of the Year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "attacking midfielder",
+   "LO": "three-plus years at Lille, wears No. 10",
+   "AB": "Lille No. 10, Champions League regular, Iceland's best player",
+   "ST": "No. 10 playmaker",
+   "LE": "two Danish titles, Icelandic Footballer of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/H%C3%A1kon_Arnar_Haraldsson"
+  ]
+ },
+ {
+  "espn_id": "318577",
+  "name": "Nathan Ngoy",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Standard Liège",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Lille",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgium international, 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back",
+   "LO": "five seasons at Standard Liège",
+   "AB": "Ligue 1 starter, Belgium caps at the 2026 World Cup",
+   "ST": "centre-back",
+   "LE": "winner v Anderlecht, World Cup appearances"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Ngoy"
+  ]
+ },
+ {
+  "espn_id": "355971",
+  "name": "Ethan Mbappé",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2006,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Lille",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 1 and Coupe de France 2024 (PSG squad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "praised for mentality and intelligence",
+   "LO": "PSG academy, Lille since 2024",
+   "AB": "young Ligue 1 and Champions League player",
+   "ST": "technical left-footed midfielder, good passer",
+   "LE": "younger brother of Kylian; early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Mbapp%C3%A9"
+  ]
+ },
+ {
+  "espn_id": "88965",
+  "name": "Olivier Giroud",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1986,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Grenoble",
+    "from": 2005,
+    "to": 2008
+   },
+   {
+    "club": "Istres",
+    "from": 2007,
+    "to": 2008
+   },
+   {
+    "club": "Tours",
+    "from": 2008,
+    "to": 2010
+   },
+   {
+    "club": "Montpellier",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "Arsenal",
+    "from": 2012,
+    "to": 2018
+   },
+   {
+    "club": "Chelsea",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "AC Milan",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Lille",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2018, Nations League 2021; Champions League, Europa League, 4 FA Cups, Ligue 1 2012, Serie A 2022; Puskás Award 2017",
+  "causes": [
+   "Auctioned his 2022 World Cup shirt for persecuted Christians in Artsakh",
+   "Heart ambassador for Monaco Humanitarian Collective (children's heart surgery)"
+  ],
+  "CH": 7.0,
+  "WK": 8.0,
+  "LO": 4.0,
+  "AB": 8.0,
+  "ST": 6.5,
+  "LE": 8.0,
+  "why": {
+   "CH": "charity for children's heart surgery and persecuted Christians; 2014 infidelity apology",
+   "WK": "selfless target man and super sub, links play",
+   "LO": "many clubs, six years at Arsenal",
+   "AB": "France's all-time top scorer, won everything",
+   "ST": "hold-up and headers, scorpion-kick Puskás goal",
+   "LE": "France record scorer, World Cup winner, Champions League"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: sent off for a headbutt on Nedum Onuoha in 2014, three-match ban.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivier_Giroud"
+  ]
+ },
+ {
+  "espn_id": "345988",
+  "name": "Ngal'ayel Mukau",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Congo DR",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Mechelen",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Lille",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "DR Congo international, 2025 AFCON and 2026 World Cup squads",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "midfielder",
+   "LO": "Mechelen academy, Lille since 2024",
+   "AB": "Ligue 1 regular, Champions League brace at Bologna",
+   "ST": "midfielder",
+   "LE": "World Cup squad, Champions League brace"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ngal%27ayel_Mukau"
+  ]
+ },
+ {
+  "espn_id": "123683",
+  "name": "Benjamin André",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1990,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ajaccio",
+    "from": 2008,
+    "to": 2014
+   },
+   {
+    "club": "Rennes",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Lille",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Lille captain since 2023; captained Rennes to the 2019 Coupe de France",
+  "honours": "Ligue 1 2021 (Lille), Coupe de France 2019 (Rennes, captain), Trophée des Champions 2021; Ligue 1 Team of the Year 2020-21",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record; long-serving captain, nothing negative known",
+   "WK": "midfield linchpin and captain",
+   "LO": "three clubs, each five-plus years; Ajaccio academy, Lille captain",
+   "AB": "400+ Ligue 1 games, title winner",
+   "ST": "holding midfielder",
+   "LE": "captained Rennes past PSG in a cup final; Lille's 2021 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_Andr%C3%A9"
+  ]
+ },
+ {
+  "espn_id": "274277",
+  "name": "Ayase Ueda",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kashima Antlers",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Cercle Brugge",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Lille",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "KNVB Cup 2024, Eredivisie top scorer 2025-26, J.League top scorer 2022, JPFA Player of the Year 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "complete striker, works the line",
+   "LO": "steady progression, three years at Feyenoord",
+   "AB": "Eredivisie top scorer, Japan's No. 9",
+   "ST": "finisher, strong in the air for his size",
+   "LE": "World Cup goals for Japan, Eredivisie golden boot"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayase_Ueda"
+  ]
+ },
+ {
+  "espn_id": "337855",
+  "name": "Basar Önal",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Türkiye",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "De Graafschap",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "NEC Nijmegen",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Lille",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkey youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "left winger",
+   "LO": "two years at each club so far",
+   "AB": "Eredivisie regular, new at Lille",
+   "ST": "fast dribbler who beats opponents",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ba%C5%9Far_%C3%96nal"
+  ]
+ },
+ {
+  "espn_id": "297157",
+  "name": "Dilane Bakwa",
+  "club_id": "166",
+  "gender": "M",
+  "born": 2002,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bordeaux",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Strasbourg",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Lille",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "France U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "winger",
+   "LO": "Bordeaux academy, then moves; on loan from Forest",
+   "AB": "€35m move to Forest, Ligue 1 regular",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dilane_Bakwa"
+  ]
+ },
+ {
+  "espn_id": "231778",
+  "name": "Gaetan Perrin",
+  "club_id": "166",
+  "gender": "M",
+  "born": 1996,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lyon",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Orléans",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Auxerre",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Krasnodar",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Lille",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2024 (Auxerre); Ligue 2 Team of the Year 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "right midfielder",
+   "LO": "three-plus years at Orléans, four at Auxerre",
+   "AB": "Ligue 1/Ligue 2 regular",
+   "ST": "wide midfielder, style not documented",
+   "LE": "Ligue 2 title with Auxerre"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ga%C3%ABtan_Perrin"
+  ]
+ }
+]

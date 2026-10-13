@@ -1,0 +1,1912 @@
+[
+ {
+  "espn_id": "234906",
+  "name": "Victor Souza",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New England Revolution II",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NYCFC academy national title 2019 (youth); two-time All-ACC Third Team at Boston College",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "centre-back; no notes on style",
+   "LO": "three seasons at Revolution II, first year in Pittsburgh",
+   "AB": "second-tier centre-back; one MLS-side cup appearance",
+   "ST": "no-frills centre-back",
+   "LE": "club regular, no notable moments"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists Brazil, age 34; the Riverhounds' No. 5 Victor Souza is a Queens-born American born 2001 (club bio; Wikipedia squad list shows USA).",
+  "confidence": "low",
+  "sources": [
+   "https://www.riverhounds.com/roster/victor-souza/",
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "361005",
+  "name": "Nicolás Campuzano Jiménez",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Manhattan SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "FC Cincinnati 2",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution II",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None; college All-ACC honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "once played outfield as a forward for his team after injuries left no subs",
+   "LO": "new club nearly every year",
+   "AB": "USL Championship starting goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Campuzano"
+  ]
+ },
+ {
+  "espn_id": "126416",
+  "name": "Daniel Griffin",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Huntsville City FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2025 (Pittsburgh)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "attacking midfielder; nothing beyond style",
+   "LO": "pro career almost all at Pittsburgh, returned after a short Huntsville spell",
+   "AB": "solid USL Championship regular",
+   "ST": "attacking midfielder",
+   "LE": "part of the club's first USL Championship title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danny_Griffin_(soccer)",
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "350538",
+  "name": "Owen Mikoy",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Campbell University as a senior",
+  "honours": "Big South title 2021 and Sun Belt regular-season title with his college teams",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "college captain, started every match as a senior",
+   "LO": "rookie pro, first club",
+   "AB": "first-year USL Championship centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.riverhounds.com/roster/owen-mikoy/",
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "242969",
+  "name": "Robbie Mertz",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Atlanta United 2",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Regular captain of Atlanta United 2 (2021-22)",
+  "honours": "USL Championship 2025 (Pittsburgh)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "captained Atlanta United 2, steady midfielder",
+   "LO": "about six seasons at Pittsburgh over two spells",
+   "AB": "solid USL Championship regular, ~100 league apps for the club",
+   "ST": "midfielder",
+   "LE": "part of the club's first USL Championship title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robbie_Mertz"
+  ]
+ },
+ {
+  "espn_id": "400716",
+  "name": "Charles Ahl",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2025 (Pittsburgh); 2024 Atlantic Sun Player of the Year (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "attacking midfielder; nothing beyond style",
+   "LO": "first pro club, second season",
+   "AB": "young USL Championship attacking midfielder",
+   "ST": "creative No. 10, 18 college assists",
+   "LE": "title winner as a rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.riverhounds.com/roster/charles-ahl/",
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "296261",
+  "name": "Perrin Barnes",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Huntsville City FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2025 (Pittsburgh); Scholar All-American (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "outside back, started the title-winning playoff run",
+   "LO": "second season in Pittsburgh",
+   "AB": "USL Championship starter",
+   "ST": "outside back",
+   "LE": "started the 2025 title run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.riverhounds.com/roster/perrin-barnes/",
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "399258",
+  "name": "Samuel Bassett",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Colorado Rapids",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2024 TopDrawerSoccer National Player of the Year; Summit League Midfielder of the Year 2023, 2024 (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "Rapids academy product, now in Pittsburgh",
+   "AB": "15 MLS apps for Colorado, now USL",
+   "ST": "goal-scoring midfielder in college",
+   "LE": "top college player 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Bassett"
+  ]
+ },
+ {
+  "espn_id": "280669",
+  "name": "Eliot Goldthorp",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bradford City",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Farsley Celtic",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Des Moines Menace",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Whitecaps FC 2",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "many short stays",
+   "AB": "USL Championship squad player",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eliot_Goldthorp"
+  ]
+ },
+ {
+  "espn_id": "293817",
+  "name": "Jackson Walti",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Austin FC II",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Rapids 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2025 (Pittsburgh)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "third season in Pittsburgh",
+   "AB": "USL Championship rotation midfielder",
+   "ST": "midfielder",
+   "LE": "part of the 2025 title squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackson_Walti"
+  ]
+ },
+ {
+  "espn_id": "252987",
+  "name": "Albert Dikwa Lega",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Cameroon",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando City B",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Saint Louis FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2023 USL Championship Golden Boot and MVP",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "striker; nothing beyond style",
+   "LO": "returned to Pittsburgh, where he spent four seasons",
+   "AB": "league MVP and top scorer in 2023",
+   "ST": "prolific striker",
+   "LE": "club great at Pittsburgh, 2023 MVP"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Dikwa"
+  ]
+ },
+ {
+  "espn_id": "273568",
+  "name": "Trevor Amann",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Detroit City FC",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Denton Diablos",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Northern Colorado Hailstorm",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2023 USL League One Golden Boot and Player of the Year; NPSL champion 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "forward; nothing beyond style",
+   "LO": "journeyman, includes a spell at Sacramento Republic",
+   "AB": "League One player of the year, now USL Championship forward",
+   "ST": "goal-scoring forward",
+   "LE": "third-tier awards"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trevor_Amann"
+  ]
+ },
+ {
+  "espn_id": "421244",
+  "name": "Kelp Lasse",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fortuna Köln",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained UMBC (college) in 2024",
+  "honours": "2025 Big Ten Defensive Player of the Year; Hermann Trophy finalist (college)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "college captain",
+   "LO": "rookie pro season",
+   "AB": "first-year USL Championship centre-back",
+   "ST": "centre-back",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN name order reversed: Lasse Kelp.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lasse_Kelp"
+  ]
+ },
+ {
+  "espn_id": "314274",
+  "name": "Maximiliano Viera",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chicago Fire 2",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Two-year captain of the Chicago Fire academy team",
+  "honours": "Two Big East titles with Georgetown; MLS Next U19 title 2021 (youth)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "academy captain",
+   "LO": "rookie pro season",
+   "AB": "first-year USL Championship midfielder",
+   "ST": "attacking midfielder",
+   "LE": "rookie"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Chicago Fire 2 years approximate (club bio gives none); Wikipedia's Maximiliano Viera is a different, Uruguayan player.",
+  "confidence": "low",
+  "sources": [
+   "https://www.riverhounds.com/roster/max-viera/"
+  ]
+ },
+ {
+  "espn_id": "276365",
+  "name": "Brunallergene Etou",
+  "club_id": "17827",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Congo",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Drancy",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Monts d'Or Azergues",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Béziers",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Charlotte Independence",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "journeyman, fourth season in Pittsburgh",
+   "AB": "solid USL Championship regular",
+   "ST": "midfielder, scored a player-of-the-week brace",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brunallergene_Etou"
+  ]
+ },
+ {
+  "espn_id": "202751",
+  "name": "Koke Vegas",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Espanyol B",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Levante B",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Levante",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Alcoyano",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Deportivo La Coruña",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Rhode Island FC's first captain (2024)",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "goalkeeper and club captain",
+   "LO": "first captain of a new club, third season",
+   "AB": "La Liga squad keeper at Levante, now USL starter",
+   "ST": "goalkeeper",
+   "LE": "first captain in club history"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Koke_Vegas"
+  ]
+ },
+ {
+  "espn_id": "316346",
+  "name": "Frank Nodarse",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Cuba",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Storm FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Fort Lauderdale CF",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "centre-back; nothing beyond style",
+   "LO": "with Rhode Island since its first season",
+   "AB": "USL Championship regular centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Nodarse"
+  ]
+ },
+ {
+  "espn_id": "256384",
+  "name": "Grant D. Stoneman",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lansing Ignite",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "centre-back; nothing beyond style",
+   "LO": "four years at San Diego Loyal, then Rhode Island from its start",
+   "AB": "USL Championship regular",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grant_Stoneman"
+  ]
+ },
+ {
+  "espn_id": "286759",
+  "name": "Nicholas Scardina",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "versatile full-back/forward",
+   "LO": "Portland-born, came through Timbers 2; first season in Rhode Island",
+   "AB": "USL Championship regular",
+   "ST": "attacking full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nick_Scardina"
+  ]
+ },
+ {
+  "espn_id": "292951",
+  "name": "Aldair Sanchez",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "left-sided defender; nothing beyond style",
+   "LO": "Timbers academy, two seasons at Sacramento Republic, now second at Rhode Island",
+   "AB": "USL Championship regular, 68 apps for Sacramento",
+   "ST": "left-sided wide defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.rhodeislandfc.com/roster/aldair-sanchez/"
+  ]
+ },
+ {
+  "espn_id": "311088",
+  "name": "Leo Afonso",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Inter Miami",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2024 (Inter Miami)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "forward; nothing beyond style",
+   "LO": "three clubs in three years",
+   "AB": "MLS squad forward, now USL starter",
+   "ST": "forward",
+   "LE": "bit-part in Miami's Shield season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leo_Afonso"
+  ]
+ },
+ {
+  "espn_id": "292944",
+  "name": "Jojea Kwizera",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Rwanda",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ogden City",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2026 FIFA Series with Rwanda; 16 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "with Rhode Island since its first season",
+   "AB": "Rwanda international, USL Championship regular",
+   "ST": "winger",
+   "LE": "regular Rwanda international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jojea_Kwizera"
+  ]
+ },
+ {
+  "espn_id": "377079",
+  "name": "Hugo Bacharach",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Flint City Bucks",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Minnesota United FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2023 USL League Two Defender of the Year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "defender/midfielder; nothing beyond style",
+   "LO": "second season in Rhode Island",
+   "AB": "USL Championship squad player",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Bacharach"
+  ]
+ },
+ {
+  "espn_id": "297831",
+  "name": "Amos Shapiro-Thompson",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Legia Warsaw II",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Western Mass Pioneers",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Regional Polish Cup with Legia Warsaw II",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "with Rhode Island since its first season",
+   "AB": "USL Championship squad player",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amos_Shapiro-Thompson"
+  ]
+ },
+ {
+  "espn_id": "288980",
+  "name": "Karifa Yao",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "CF Montréal",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Cavalry FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Vancouver Whitecaps FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Cavalry fans' Player of the Year 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "centre-back; nothing beyond style",
+   "LO": "with Rhode Island since its first season",
+   "AB": "USL Championship regular, CPL starter before",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karifa_Yao"
+  ]
+ },
+ {
+  "espn_id": "207355",
+  "name": "Agustín Rodríguez",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lanús",
+    "from": 2021,
+    "to": null
+   },
+   {
+    "club": "Anorthosis Famagusta",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "None; Argentina U20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "Lanús academy product, out on loan",
+   "AB": "Argentine top-flight squad player, Argentina U20",
+   "ST": "No. 10 playmaker",
+   "LE": "young loanee"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from Lanús for 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "espn_id": "316340",
+  "name": "Noah Fuson",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Forward Madison FC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Columbus Crew 2",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro champion 2022; 2024 USL Championship Golden Playmaker",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "creator: led the league in assists in 2024",
+   "LO": "with Rhode Island since its first season",
+   "AB": "USL Championship regular",
+   "ST": "assist-maker",
+   "LE": "league assist leader"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Fuson"
+  ]
+ },
+ {
+  "espn_id": "354154",
+  "name": "Yutaro Tsukada",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando City B",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Orlando City",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Player of the Month May 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "winger; nothing beyond style",
+   "LO": "Orlando player, on loan; came back from an ACL tear",
+   "AB": "USL Championship loanee",
+   "ST": "winger",
+   "LE": "young loanee"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from Orlando City for 2026.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yutaro_Tsukada"
+  ]
+ },
+ {
+  "espn_id": "218846",
+  "name": "Zachary Herivaux",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Haiti",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "19 Haiti caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfielder; nothing beyond style",
+   "LO": "five clubs, Revolution academy graduate",
+   "AB": "Haiti international, USL regular",
+   "ST": "midfielder",
+   "LE": "Haiti international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zachary_Herivaux"
+  ]
+ },
+ {
+  "espn_id": "334117",
+  "name": "Dwayne Atkinson",
+  "club_id": "22164",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Cavalier",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "ÍBV",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Cavalier",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Jamaica Premier League 2021, 2023-24, 2024-25; CONCACAF Caribbean Cup 2024 (best player); 9 Jamaica caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "forward; nothing beyond style",
+   "LO": "grew up at Cavalier, returned there; first full season in Rhode Island",
+   "AB": "Jamaica international, Caribbean Cup best player",
+   "ST": "forward",
+   "LE": "Caribbean Cup winner and best player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dwayne_Atkinson"
+  ]
+ }
+]

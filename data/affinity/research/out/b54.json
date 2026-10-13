@@ -1,0 +1,2173 @@
+[
+ {
+  "espn_id": "225610",
+  "name": "Eric Calvillo",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1998,
+  "nation": "El Salvador",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York Cosmos",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Reno 1868",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained US U-19 side at 2016 Copa del Atlántico",
+  "honours": "USL Championship 2021 (Orange County); Soccer Bowl 2016 (Cosmos); El Salvador caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "central midfield worker",
+   "LO": "fifth season at El Paso",
+   "AB": "USL regular, El Salvador international",
+   "ST": "tidy central midfielder",
+   "LE": "USL title, a few caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Calvillo"
+  ]
+ },
+ {
+  "espn_id": "255719",
+  "name": "Alex Méndez",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Jong Ajax",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Vizela",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "FC Juárez",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2018 CONCACAF U-20 champion, Golden Ball; US Soccer Young Male Player of the Year 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "creative midfielder",
+   "LO": "many moves (Freiburg, Ajax, Vizela, Juárez)",
+   "AB": "Primeira Liga experience, strong USL season",
+   "ST": "technical attacking midfielder, 9 goals this season",
+   "LE": "youth honours, early promise"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Mendez"
+  ]
+ },
+ {
+  "espn_id": "234879",
+  "name": "Tony Alfaro",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Sounders FC",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Guadalajara",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Zacatepec",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Reno 1868",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "D.C. United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "New York City FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2016 (Seattle)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "steady defender",
+   "LO": "journeyman, eight clubs",
+   "AB": "MLS squad player, USL regular",
+   "ST": "no-frills defender",
+   "LE": "MLS Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tony_Alfaro"
+  ]
+ },
+ {
+  "espn_id": "286746",
+  "name": "Robert Coronado",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "OKC Energy",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Central Valley Fuego",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defensive midfielder, holding role",
+   "LO": "lower-league journeyman, two spells at RGV",
+   "AB": "USL Championship regular",
+   "ST": "holding player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Coronado"
+  ]
+ },
+ {
+  "espn_id": "205657",
+  "name": "Rubio Rubín",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Guatemala",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Utrecht",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Silkeborg",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Stabæk",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Tijuana",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Dorados",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Querétaro",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Goal of the Year 2021; USL Player of the Month Aug 2026; US and Guatemala caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward",
+   "LO": "journeyman, many clubs",
+   "AB": "MLS regular, US then Guatemala international",
+   "ST": "forward with spectacular goals",
+   "LE": "MLS Goal of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rubio_Rubín"
+  ]
+ },
+ {
+  "espn_id": "102091",
+  "name": "Gabriel Torres",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "The Villages SC",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Chattanooga FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Phoenix Rising",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2023 (Phoenix Rising)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defensive midfielder/defender",
+   "LO": "several USL clubs",
+   "AB": "USL Championship regular",
+   "ST": "defensive role",
+   "LE": "part of Phoenix's 2023 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia gives conflicting birth dates (both 1996).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Torres_(Brazilian_footballer)"
+  ]
+ },
+ {
+  "espn_id": "183750",
+  "name": "Amando Moreno",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1995,
+  "nation": "El Salvador",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New York Red Bulls",
+    "from": 2013,
+    "to": 2013
+   },
+   {
+    "club": "Tijuana",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Dorados",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2013 (Red Bulls); New Mexico United Offensive Player of the Year 2020; El Salvador caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "winger",
+   "LO": "four years at New Mexico United, now El Paso",
+   "AB": "USL standout, El Salvador international",
+   "ST": "attacking winger, No. 10",
+   "LE": "club-level standout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amando_Moreno"
+  ]
+ },
+ {
+  "espn_id": "177149",
+  "name": "Arturo Ortiz",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Deportivo Tepic",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "León",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Mineros de Zacatecas",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Leones Negros",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Correcaminos",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Leones Negros",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Pumas UNAM",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "FC Juárez",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF Champions League Best XI 2022; one Mexico cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back",
+   "LO": "journeyman, on loan from Juárez",
+   "AB": "Liga MX regular at Pumas, Mexico cap",
+   "ST": "no-frills centre-back",
+   "LE": "CCL Best XI 2022"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arturo_Ortiz_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "267350",
+  "name": "Kofi Twumasi",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Ghana",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Viitorul Constanța",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Universitatea Cluj",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Rot-Weiß Oberhausen",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "VfB Homberg",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atlanta United 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "listed as midfielder, plays defence",
+   "LO": "journeyman across Romania, Germany, US",
+   "AB": "USL Championship regular",
+   "ST": "defensive player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia says born in Kumasi, Ghana (Ghanaian, US diaspora); same player at El Paso.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kofi_Twumasi"
+  ]
+ },
+ {
+  "espn_id": "273871",
+  "name": "Ricky Ruiz",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Los Angeles Force",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Chattanooga Red Wolves",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Chattanooga Red Wolves",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "full-back/winger",
+   "LO": "lower-league journeyman",
+   "AB": "USL Championship regular",
+   "ST": "attacking full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ricky_Ruiz"
+  ]
+ },
+ {
+  "espn_id": "228348",
+  "name": "Abraham Romero",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Mexico",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Pachuca",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "LA Galaxy II",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "LAFC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2021 (Orange County); Leagues Cup 2024 (Columbus); CONCACAF U-17 2015 (Mexico)",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "chose Mexico over US, later called it immaturity; three red cards (handball/fouls)",
+   "WK": "goalkeeper",
+   "LO": "many clubs, mostly backup",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "backup on trophy-winning squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Red cards were for professional fouls/handling, not violent conduct.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abraham_Romero"
+  ]
+ },
+ {
+  "espn_id": "318369",
+  "name": "Álvaro Quezada",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Los Angeles FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "versatile right-back/midfielder",
+   "LO": "a few USL clubs",
+   "AB": "USL Championship rotation player",
+   "ST": "utility player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Álvaro_Quezada"
+  ]
+ },
+ {
+  "espn_id": "287792",
+  "name": "Roberto Avila",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Austin Bold",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "FC Edmonton",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Sporting Kansas City II",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward/attacking midfielder",
+   "LO": "several clubs",
+   "AB": "brief MLS spell, USL regular",
+   "ST": "attacking player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roberto_Avila",
+   "https://en.wikipedia.org/wiki/Beto_Avila_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "362151",
+  "name": "Noah Dollenmayer",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Dominican Republic",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Los Angeles FC 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2025,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "Dominican Republic international (16 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender",
+   "LO": "mostly at El Paso since 2023",
+   "AB": "USL regular, Dominican Republic international",
+   "ST": "defender",
+   "LE": "regular international for a small nation"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Dollenmayer"
+  ]
+ },
+ {
+  "espn_id": "283130",
+  "name": "Nicolás Cardona",
+  "club_id": "19407",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Puerto Rico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Almenara Atlètic",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "UB Conquense",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Chattanooga Red Wolves",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Miami FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Has captained Puerto Rico",
+  "honours": "FIFA Series 2026 with Puerto Rico",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender",
+   "LO": "several clubs",
+   "AB": "USL regular, Puerto Rico international",
+   "ST": "defender",
+   "LE": "Puerto Rico captain once"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolás_Cardona"
+  ]
+ },
+ {
+  "espn_id": "269292",
+  "name": "Jamie Webber",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1998,
+  "nation": "South Africa",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Vasco da Gama (SA)",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Stellenbosch",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "SuperSport United",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Sekhukhune United",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "South Africa international (10 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "central midfielder",
+   "LO": "five years at SuperSport United",
+   "AB": "PSL regular, South Africa international",
+   "ST": "midfielder",
+   "LE": "a few caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Webber"
+  ]
+ },
+ {
+  "espn_id": "309258",
+  "name": "Jeorgio Kocevski",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orlando City",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Ventura County FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Syracuse (college)",
+  "honours": "NCAA College Cup 2022 (Syracuse)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "holding midfielder, college captain",
+   "LO": "young, few senior clubs",
+   "AB": "new USL Championship starter",
+   "ST": "defensive midfielder",
+   "LE": "college champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeorgio_Kocevski"
+  ]
+ },
+ {
+  "espn_id": "317668",
+  "name": "Ian Carlo",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back",
+   "LO": "Brazilian lower divisions (Internacional, Ponte Preta, Guarani, ABC), years not found",
+   "AB": "Série B/C experience, USL starter",
+   "ST": "ball-playing centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; full name Ian Carlos Souza Daniel; earlier Brazilian clubs (Internacional, Ponte Preta, Guarani, ABC) listed by FC Tulsa without years, so omitted from clubs.",
+  "confidence": "low",
+  "sources": [
+   "https://www.fctulsa.com/news/2025/10/03/fc-tulsa-signs-brazilian-center-back-ian-carlos-souza-daniel/"
+  ]
+ },
+ {
+  "espn_id": "253252",
+  "name": "Lucas Stauffer",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Wacker Nordhausen",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Carl Zeiss Jena",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "full-back",
+   "LO": "journeyman, US and German lower leagues",
+   "AB": "USL Championship regular",
+   "ST": "full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Stauffer"
+  ]
+ },
+ {
+  "espn_id": "245793",
+  "name": "Lamar Batista",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "North Texas SC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Rochester New York FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "centre-back",
+   "LO": "journeyman, a new club most years",
+   "AB": "USL Championship regular",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lamar_Batista"
+  ]
+ },
+ {
+  "espn_id": "141815",
+  "name": "Abdoulaye Cissoko",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Les Ulis",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "San Diego 1904",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Seattle Sounders FC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender",
+   "LO": "Seattle system 2019-23, then USL",
+   "AB": "brief MLS spell, USL regular",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdoulaye_Cissoko"
+  ]
+ },
+ {
+  "espn_id": "280514",
+  "name": "Delentz Pierre",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Haiti",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Monarchs",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2024 (Colorado Springs)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender",
+   "LO": "RSL system then Tulsa",
+   "AB": "USL Championship regular, Haiti youth international",
+   "ST": "defender",
+   "LE": "part of Switchbacks' 2024 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia gives born November 2000 (25 now; ESPN lists 26).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Delentz_Pierre"
+  ]
+ },
+ {
+  "espn_id": "336973",
+  "name": "Dane Jacomen",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Charlotte Independence",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Westchester SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League Two Golden Glove 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "goalkeeper",
+   "LO": "four years with Loudoun",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dane_Jacomen"
+  ]
+ },
+ {
+  "espn_id": "299182",
+  "name": "Bailey Sparks",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City II",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Inter Miami CF II",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College: First Team All-ACC, Hermann Trophy semifinalist (SMU)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "versatile midfielder who covers ground",
+   "LO": "young, few senior clubs",
+   "AB": "first USL Championship season",
+   "ST": "technical midfielder",
+   "LE": "stoppage-time winner on debut at 16"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; birth year inferred from ages given by FC Tulsa (22 in Jan 2026, 16 in Sep 2020).",
+  "confidence": "low",
+  "sources": [
+   "https://www.fctulsa.com/news/2026/01/28/fc-tulsa-sign-midfielder-bailey-sparks-to-its-2026-usl-championship-roster/"
+  ]
+ },
+ {
+  "espn_id": "264411",
+  "name": "Kalil ElMedkhar",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "North Texas SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "winger",
+   "LO": "brief MLS spell, then USL",
+   "AB": "USL Championship regular",
+   "ST": "attacking winger, No. 10 shirt",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kalil_ElMedkhar"
+  ]
+ },
+ {
+  "espn_id": "288425",
+  "name": "Logan Dorsey",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Minnesota United FC 2",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward",
+   "LO": "on loan from Minnesota United",
+   "AB": "MLS Next Pro scorer, USL loan",
+   "ST": "forward, scored winner at Pittsburgh",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; birth year from ESPN age (24); earlier career not found.",
+  "confidence": "low",
+  "sources": [
+   "https://www.mnufc.com/mnufc2/news/mnufc2-recalls-logan-dorsey-loans-forward-to-fc-tulsa"
+  ]
+ },
+ {
+  "espn_id": "319548",
+  "name": "Rémi Cabral",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Colorado Rapids 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Golden Boot 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "attacking midfielder/forward",
+   "LO": "several clubs",
+   "AB": "USL Championship regular",
+   "ST": "attacking midfielder and scorer",
+   "LE": "MLS Next Pro Golden Boot"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rémi_Cabral"
+  ]
+ },
+ {
+  "espn_id": "420372",
+  "name": "Joel Sangwa",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Huntsville City FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NJCAA national champion 2021 (Iowa Western)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "defender",
+   "LO": "short-term contracts",
+   "AB": "new to USL Championship",
+   "ST": "defender",
+   "LE": "college title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; birth year from age 27 given by FC Tulsa.",
+  "confidence": "low",
+  "sources": [
+   "https://www.fctulsa.com/news/2026/07/17/fc-tulsa-sign-defender-joel-sangwa-to-25-day-contract/"
+  ]
+ },
+ {
+  "espn_id": "310557",
+  "name": "Giordano Colli",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Australia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayswater City",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Perth Glory",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "A-League Men Goal of the Year 2023; NPL WA Player of the Year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "midfielder",
+   "LO": "four years at hometown Perth Glory",
+   "AB": "A-League and USL regular",
+   "ST": "midfielder with long-range goals",
+   "LE": "A-League goal of the season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giordano_Colli"
+  ]
+ },
+ {
+  "espn_id": "320956",
+  "name": "Arquímides Ordóñez",
+  "club_id": "18446",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Guatemala",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Östersund",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Zimbru Chișinău",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023 (Cincinnati); CONCACAF U-20 Best XI 2022; Guatemala international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative known",
+   "WK": "forward",
+   "LO": "several moves after Cincinnati",
+   "AB": "USL forward, Guatemala international",
+   "ST": "forward",
+   "LE": "youth tournament standout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arquímides_Ordóñez"
+  ]
+ }
+]

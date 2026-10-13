@@ -42,7 +42,13 @@ for i, c in TRAITS.items():
 NOMAP = {'chestercity', 'sandiegoloyal'}
 
 
+RESERVE = re.compile(r'\s(2|II|B|III|U-?\d\d|reserves?|academy)\s*$|\bII\b|\bB team\b', re.I)
+
+
 def club_id(name, women):
+    # reserve and B teams aren't the club ("Portland Timbers 2" must not count as the Timbers)
+    if RESERVE.search(name or ''):
+        return None
     k = norm(name)
     k = ALIAS.get(k, k)
     if k in NOMAP:

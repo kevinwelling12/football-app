@@ -1,0 +1,1903 @@
+[
+ {
+  "espn_id": "253497",
+  "name": "Kwame Awuah",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sigma FC",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "New York City FC",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Forge FC",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "St. Louis City SC 2",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Premier League 2019, 2020 (Forge)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "versatile left-back/midfielder",
+   "LO": "fourth season at Loudoun after several moves",
+   "AB": "USL Championship regular, brief MLS spell",
+   "ST": "two-way left-sided player",
+   "LE": "two CPL titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kwame_Awuah"
+  ]
+ },
+ {
+  "espn_id": "222778",
+  "name": "Boluwatife Akinyode",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Bethlehem Steel FC",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Miami FC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Miami FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "centre-back / holding midfielder",
+   "LO": "journeyman, nine USL clubs; longest stint three years at Miami",
+   "AB": "long-serving USL Championship regular",
+   "ST": "no-frills defender",
+   "LE": "career second-tier regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolu_Akinyode"
+  ]
+ },
+ {
+  "espn_id": "222806",
+  "name": "James Murphy",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Arbroath",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none at senior level",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "central midfielder, no notes either way",
+   "LO": "journeyman, a new club most seasons",
+   "AB": "USL Championship regular",
+   "ST": "central midfielder",
+   "LE": "career second-tier regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Murphy_(soccer,_born_1997)"
+  ]
+ },
+ {
+  "espn_id": "361319",
+  "name": "Richard Aman",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no information on playing style",
+   "LO": "young, at Loudoun (earlier career not found)",
+   "AB": "young USL Championship squad player",
+   "ST": "listed as forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia article; listed as Richie Aman in the Loudoun squad. Born year from ESPN age.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loudoun_United_FC"
+  ]
+ },
+ {
+  "espn_id": "318955",
+  "name": "Noah Adnan",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no information on playing style",
+   "LO": "young, at Loudoun (earlier career not found)",
+   "AB": "USL Championship regular at right-back",
+   "ST": "full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loudoun_United_FC"
+  ]
+ },
+ {
+  "espn_id": "269577",
+  "name": "Pacifique Niyongabire",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Burundi",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Adelaide United",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Perth Glory",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Valour FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger, no notes either way",
+   "LO": "fifth senior club, moved most seasons",
+   "AB": "A-League and USL Championship squad player",
+   "ST": "pacy winger",
+   "LE": "early-career squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pacifique_Niyongabire"
+  ]
+ },
+ {
+  "espn_id": "318549",
+  "name": "Abdellatif Aboukoura",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Egypt",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Young Player of the Year 2025; All-League Second Team 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "forward, no notes either way",
+   "LO": "Loudoun since debut at 16, re-signed through 2026",
+   "AB": "USL Championship Young Player of the Year",
+   "ST": "goalscoring forward",
+   "LE": "young-player award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Virginia to Egyptian parents; ESPN lists Egypt, has Egypt youth call-ups.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdellatif_Aboukoura"
+  ]
+ },
+ {
+  "espn_id": "381176",
+  "name": "Salvatore Mazzaferro",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Austin FC II",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Atlanta United 2",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro 2023 (Austin FC II)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defender, no notes either way",
+   "LO": "third club, multi-year deal at Loudoun",
+   "AB": "MLS Next Pro to USL Championship defender",
+   "ST": "centre-back",
+   "LE": "MLS Next Pro title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salvatore_Mazzaferro"
+  ]
+ },
+ {
+  "espn_id": "283327",
+  "name": "Ethan Bandré",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City II",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Rapids 2",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League Two 2021 (Des Moines Menace)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "goalkeeper, no notes either way",
+   "LO": "fourth pro club, two-year deal at Loudoun",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "early pro career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Bandr%C3%A9"
+  ]
+ },
+ {
+  "espn_id": "315178",
+  "name": "Jacob Erlandson",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Columbus Crew 2",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro regular season 2022 (Columbus Crew 2)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defender, no notes either way",
+   "LO": "third season at Loudoun, re-signed",
+   "AB": "USL Championship squad defender",
+   "ST": "defender",
+   "LE": "modest record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Erlandson"
+  ]
+ },
+ {
+  "espn_id": "177694",
+  "name": "Pedro Santos",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 1988,
+  "nation": "Portugal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Casa Pia",
+    "from": 2007,
+    "to": 2010
+   },
+   {
+    "club": "Leixões",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "Vitória de Setúbal",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Braga",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "D.C. United",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2020, Campeones Cup 2021 (Columbus); Taça de Portugal 2016 (Braga); Cupa României 2014",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "fined by MLS for simulation in 2021",
+   "WK": "versatile winger/full-back",
+   "LO": "six seasons at Columbus, career winding down at Loudoun",
+   "AB": "MLS Cup winner, Primeira Liga regular",
+   "ST": "creative left-footed winger",
+   "LE": "key part of Columbus's 2020 MLS Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2018 red card at Seattle was a high follow-through on a challenge (serious foul play, not off the ball); 2021 MLS simulation fine noted in CH.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Santos_(footballer,_born_1988)"
+  ]
+ },
+ {
+  "espn_id": "304170",
+  "name": "Christian Torres",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Los Angeles FC",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "LAFC 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Tapatío",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Revelations Cup 2021, 2022 (Mexico U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger, no notes either way",
+   "LO": "LAFC academy product, now loaned out from Tapatío",
+   "AB": "former MLS youngster, Mexico youth international",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. US-born, Mexico youth international; at Loudoun on loan from Tapatío.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Torres_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "espn_id": "338175",
+  "name": "Edward Davis",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2006,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no information on playing style",
+   "LO": "young, on loan from Philadelphia Union",
+   "AB": "young forward, USL Championship loan",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia article; listed as Eddy Davis III, on loan from Philadelphia Union. Born year from ESPN age.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loudoun_United_FC"
+  ]
+ },
+ {
+  "espn_id": "342166",
+  "name": "Sean Young",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pacific FC",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Premier League 2021 (Pacific FC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "midfielder/centre-back, adaptable",
+   "LO": "six seasons, 180+ games at Pacific",
+   "AB": "CPL regular and title winner, now USL Championship",
+   "ST": "utility midfielder",
+   "LE": "CPL champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Young_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "326775",
+  "name": "Jack Panayotou",
+  "club_id": "19410",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "youth only (MLS NEXT Cup 2022)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger, no notes either way",
+   "LO": "Revolution academy product, series of loans",
+   "AB": "MLS squad player on USL loans",
+   "ST": "attacking winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Panayotou"
+  ]
+ },
+ {
+  "espn_id": "271881",
+  "name": "Taylor Davila",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League First Team 2023, 2024; Players' Shield 2024, 2025 (Louisville)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "box-to-box midfielder, extended through multi-year deal",
+   "LO": "third season at Louisville",
+   "AB": "two-time All-League First Team, Player of the Year finalist",
+   "ST": "all-round central midfielder",
+   "LE": "among the league's best midfielders"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taylor_Davila"
+  ]
+ },
+ {
+  "espn_id": "246738",
+  "name": "Kyle Adams",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1996,
+  "nation": "New Zealand",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Real Monarchs",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Rio Grande Valley FC in 2019",
+  "honours": "USL Championship Defender of the Year 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "centre-back, captained RGV",
+   "LO": "settled at Louisville since 2023 after several moves",
+   "AB": "USL Championship Defender of the Year",
+   "ST": "no-frills centre-back",
+   "LE": "league's top defender 2025"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyle_Adams_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "333746",
+  "name": "Chris Donovan",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Philadelphia Union",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Louisville City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2025 (Philadelphia Union)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "forward, no notes either way",
+   "LO": "four years in Philadelphia system, now Louisville",
+   "AB": "MLS squad forward, prolific in MLS Next Pro",
+   "ST": "centre-forward",
+   "LE": "Supporters' Shield squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Donovan_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "220387",
+  "name": "Sean Totsch",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rochester Rhinos",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Louisville City",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "Long-time Louisville City captain",
+  "honours": "USL Cup 2017, 2018 (Louisville); USL 2015 (Rochester); All-League First Team 2020-22",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 8.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "club stalwart, captain; nothing negative known",
+   "WK": "leads by example, defender who scores",
+   "LO": "ten seasons, Louisville's all-time appearance leader and captain",
+   "AB": "five-time All-League team centre-back",
+   "ST": "goalscoring centre-back",
+   "LE": "Louisville icon, two titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Totsch"
+  ]
+ },
+ {
+  "espn_id": "293735",
+  "name": "Jansen Wilson",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Kentucky Gatorade Player of the Year 2018 (youth)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "midfielder/defender, versatile",
+   "LO": "Kentucky local, only pro club Louisville",
+   "AB": "USL Championship regular, 15 goals in two seasons",
+   "ST": "attacking wide player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jansen_Wilson"
+  ]
+ },
+ {
+  "espn_id": "271808",
+  "name": "Ray Serrano Lopez",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tacoma Defiance",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Louisville City",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Young Player of the Year finalist 2024; US U17 international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "attacking midfielder, no notes either way",
+   "LO": "fifth season at Louisville, 130+ games",
+   "AB": "USL Championship regular, former US youth international",
+   "ST": "small attacking midfielder",
+   "LE": "young-player finalist"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ray_Serrano"
+  ]
+ },
+ {
+  "espn_id": "267206",
+  "name": "Aiden Mcfadden",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "full-back/winger, no notes either way",
+   "LO": "third season at Louisville after Atlanta system",
+   "AB": "USL Championship regular, brief MLS spell",
+   "ST": "attacking full-back",
+   "LE": "modest record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aiden_McFadden"
+  ]
+ },
+ {
+  "espn_id": "254299",
+  "name": "Jake Morris",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Columbus Crew",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro 2022 (Columbus Crew 2); Players' Shield 2024, 2025 (Louisville)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defender, no notes either way",
+   "LO": "third season at Louisville",
+   "AB": "USL Championship defender, US youth international",
+   "ST": "full-back/defender",
+   "LE": "two Players' Shields"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists England, age 19; the Jake Morris in Louisville's squad is American, born 1999.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_Morris_(soccer)",
+   "https://en.wikipedia.org/wiki/Louisville_City_FC"
+  ]
+ },
+ {
+  "espn_id": "286958",
+  "name": "Zach Duncan",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Australia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Brisbane Roar",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "AGF",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Perth Glory",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Memphis 901",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Louisville City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFC U-23 Asian Cup bronze 2020 (Australia U23)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "central midfielder, no notes either way",
+   "LO": "several moves, second season at Louisville",
+   "AB": "Danish Superliga squad player, USL Championship regular",
+   "ST": "central midfielder",
+   "LE": "Australia U23 bronze"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zach_Duncan"
+  ]
+ },
+ {
+  "espn_id": "279101",
+  "name": "Manny Perez",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Louisville City",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "AC Horsens",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship 2018 (USA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "right-back, no notes either way",
+   "LO": "returned to Louisville after spell in Denmark",
+   "AB": "USL Championship regular, ex-Celtic and US U20",
+   "ST": "attacking right-back",
+   "LE": "youth title with US U20"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manny_Perez_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "388293",
+  "name": "Brandon Dayes",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2009,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Louisville City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no information on playing style",
+   "LO": "teenager at Louisville",
+   "AB": "young defender breaking into the side",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louisville_City_FC"
+  ]
+ },
+ {
+  "espn_id": "217145",
+  "name": "Amadou Dia",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sporting Kansas City",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Montreal Impact",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Louisville City",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "left-back, no notes either way",
+   "LO": "fifth season at Louisville, 100+ games",
+   "AB": "MLS and USL Championship left-back",
+   "ST": "attacking left-back",
+   "LE": "long USL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amadou_Dia"
+  ]
+ },
+ {
+  "espn_id": "340591",
+  "name": "Mukwelle Akale",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Villarreal C",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Villarreal B",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Pafos",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "South Georgia Tormenta",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Louisville City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international (U17-U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger, no notes either way",
+   "LO": "several clubs, new at Louisville",
+   "AB": "Villarreal reserve, USL Championship winger",
+   "ST": "dribbling winger",
+   "LE": "US youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mukwelle_Akale"
+  ]
+ },
+ {
+  "espn_id": "381586",
+  "name": "Evan Davila",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Louisville City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no information on playing style",
+   "LO": "at Louisville (earlier career not found)",
+   "AB": "USL Championship squad player",
+   "ST": "midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louisville_City_FC"
+  ]
+ },
+ {
+  "espn_id": "329017",
+  "name": "Tola Showunmi",
+  "club_id": "17832",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Crawley Town",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Louisville City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Players' Shield 2023 (Pittsburgh)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "forward, no notes either way",
+   "LO": "returned to Louisville after League One spell",
+   "AB": "USL Championship and EFL League One forward",
+   "ST": "centre-forward",
+   "LE": "modest record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tola_Showunmi"
+  ]
+ }
+]

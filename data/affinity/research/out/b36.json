@@ -1,0 +1,2252 @@
+[
+ {
+  "espn_id": "381596",
+  "name": "Cori Dyke",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield and Championship 2024; Big Ten Defender of the Year 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile defender, centre or full-back",
+   "LO": "one club, third season",
+   "AB": "NWSL starter",
+   "ST": "defensive role",
+   "LE": "2024 double-winning squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cori_Dyke"
+  ]
+ },
+ {
+  "espn_id": "227076",
+  "name": "Haley McCutcheon",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2020; NWSL Shield and Championship 2024; 1 USWNT cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "utility player, midfield and full-back",
+   "LO": "two clubs, five seasons at Orlando",
+   "AB": "solid NWSL regular, 1 cap",
+   "ST": "workmanlike holding role",
+   "LE": "2024 double winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haley_McCutcheon"
+  ]
+ },
+ {
+  "espn_id": "349344",
+  "name": "Ally Lemos",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield and Championship 2024; U-20 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "holding No. 6",
+   "LO": "one club so far",
+   "AB": "young NWSL regular",
+   "ST": "tidy defensive midfielder",
+   "LE": "2024 double-winning squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ally_Lemos"
+  ]
+ },
+ {
+  "espn_id": "333486",
+  "name": "Oihane Hernández",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2000,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Athletic Club",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Real Madrid",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2023 and Nations League 2024 with Spain (27 caps); U-19 Euro 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working right-back",
+   "LO": "Athletic academy, four seasons there",
+   "AB": "World Cup-winning Spain international",
+   "ST": "attacking right-back",
+   "LE": "World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oihane_Hern%C3%A1ndez"
+  ]
+ },
+ {
+  "espn_id": "243017",
+  "name": "Hailie Mace",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Rosengård",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Kansas City Current",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Damallsvenskan 2019; NWSL Shield 2025; NWSL Best XI second team 2022, 2025; 9 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward turned defender, plays where needed",
+   "LO": "four-plus seasons at KC, now Orlando",
+   "AB": "Best XI-level NWSL defender",
+   "ST": "two-way full-back",
+   "LE": "Shield winner, 9 caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hailie_Mace"
+  ]
+ },
+ {
+  "espn_id": "316035",
+  "name": "Angelina",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2000,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Santos",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "OL Reign",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic silver 2024; NWSL Shield 2022, 2024; NWSL Championship 2024; Brazil international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "busy central midfielder",
+   "LO": "four clubs, three seasons at each NWSL stop",
+   "AB": "Brazil regular, World Cup and Olympics",
+   "ST": "neat Brazilian midfielder",
+   "LE": "Olympic silver, 2024 double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angelina_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "279197",
+  "name": "Lizbeth Ovalle",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tigres UANL",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "6 Liga MX Femenil titles with Tigres; FIFA Marta Award 2025; Gold Cup Best XI 2024; 65 Mexico caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 7.5,
+  "AB": 7.0,
+  "ST": 8.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "traded insults with an abusive fan online (2024), otherwise little public record",
+   "WK": "winger, attacking focus",
+   "LO": "eight seasons at Tigres",
+   "AB": "Mexico star, 133 Tigres goals",
+   "ST": "scorpion-kick Marta Award, flair winger",
+   "LE": "record transfer, Marta Award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; in October 2024 she answered a fan's online insult by calling her 'naca' (Excelsior).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lizbeth_Ovalle",
+   "https://www.excelsior.com.mx/adrenalina/jugadora-de-tigres-se-engancha-llama-naca-a-aficionada/1677918"
+  ]
+ },
+ {
+  "espn_id": "158720",
+  "name": "Rafaelle",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1991,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2014,
+    "to": 2014
+   },
+   {
+    "club": "Changchun Zhuoyue",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Palmeiras",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Arsenal",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Brazil captain (2022 Copa América, 2023 World Cup)",
+  "honours": "Copa América 2018, 2022; Olympic silver 2024; League Cup 2023 (Arsenal); NWSL Shield and Championship 2024; 84 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 5.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "captained Brazil, leads the back line",
+   "LO": "well travelled, five years in China",
+   "AB": "Brazil captain, PFA Team of the Year 2023",
+   "ST": "ball-playing centre-back",
+   "LE": "Copa titles, Brazil captaincy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league 1: played for Changchun Zhuoyue (China) 2016-21, following precedent for women's Chinese league moves.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafaelle_Souza"
+  ]
+ },
+ {
+  "espn_id": "359235",
+  "name": "Solai Washington",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2025 (Florida State); 9 Jamaica caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young forward",
+   "LO": "rookie season",
+   "AB": "rookie, Jamaica international",
+   "ST": "attacking forward/No. 10",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Solai_Washington"
+  ]
+ },
+ {
+  "espn_id": "277937",
+  "name": "Summer Yates",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield and Championship 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "squad midfielder",
+   "LO": "one club, four seasons",
+   "AB": "NWSL rotation player",
+   "ST": "attacking midfielder",
+   "LE": "2024 double-winning squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Summer_Yates"
+  ]
+ },
+ {
+  "espn_id": "299426",
+  "name": "Hannah Anderson",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Stars",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Texas Tech (2023)",
+  "honours": "First-team All-American 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, no ego noted",
+   "LO": "traded after two seasons",
+   "AB": "NWSL squad defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Anderson_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "279438",
+  "name": "Julie Doyle",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Santa Clara (college)",
+  "honours": "NWSL Shield and Championship 2024; NCAA title 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile squad player",
+   "LO": "five seasons at one club",
+   "AB": "NWSL squad forward",
+   "ST": "forward/winger",
+   "LE": "2024 double-winning squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julie_Doyle_(soccer,_born_1998)"
+  ]
+ },
+ {
+  "espn_id": "258821",
+  "name": "Luana",
+  "club_id": "18206",
+  "gender": "W",
+  "born": 1993,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Centro Olímpico",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "Avaldsnes",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Hwacheon KSPO",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Corinthians",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Division 1 Féminine 2020-21 (PSG); Copa América 2022; NWSL Shield and Championship 2024; 38 Brazil caps",
+  "causes": [
+   "Spoke publicly about her Hodgkin lymphoma treatment (2024) before returning to play in 2025"
+  ],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "came back from Hodgkin lymphoma, otherwise little public record",
+   "WK": "combative central midfielder",
+   "LO": "six clubs in four countries",
+   "AB": "Brazil international, PSG title",
+   "ST": "composed midfielder",
+   "LE": "two World Cups, comeback from cancer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luana_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "396456",
+  "name": "Pietra Tordin",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-20 World Cup bronze 2024; NWSL Rookie of the Month twice 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young forward",
+   "LO": "one club so far",
+   "AB": "promising, called to USWNT camp",
+   "ST": "goalscoring forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pietra_Tordin"
+  ]
+ },
+ {
+  "espn_id": "242457",
+  "name": "M.A. Vignola",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Þróttur",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Valur",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Angel City",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Icelandic title 2021 (Valur); NWSL Best XI second team 2023; 1 USWNT cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "two-way full-back",
+   "LO": "four clubs, four seasons at Angel City",
+   "AB": "Best XI-level full-back, 1 cap",
+   "ST": "attacking left-back",
+   "LE": "Best XI 2023"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mary_Alice_Vignola"
+  ]
+ },
+ {
+  "espn_id": "219821",
+  "name": "Mackenzie Arnold",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 1994,
+  "nation": "Australia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Perth Glory",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Canberra United",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Western Sydney Wanderers",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Perth Glory",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Brisbane Roar",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "West Ham United",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "West Ham captain from 2023",
+  "honours": "W-League Premiership 2014, 2018; 3x W-League Goalkeeper of the Year; West Ham Player of the Year 2023-24; 70 Australia caps",
+  "causes": [
+   "Partnered with Audika (2023) to fight the stigma around hearing loss; wears hearing aids herself"
+  ],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 7.0,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "open about hearing loss to reduce stigma",
+   "WK": "captain, leads from goal",
+   "LO": "many clubs, four years at West Ham",
+   "AB": "Matildas No. 1",
+   "ST": "goalkeeper",
+   "LE": "three saves in 2023 World Cup quarter-final shootout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mackenzie_Arnold"
+  ]
+ },
+ {
+  "espn_id": "380040",
+  "name": "Marie Müller",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-17 Euro 2016; 2 Germany caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "full-back/midfielder, versatile",
+   "LO": "six seasons at Freiburg",
+   "AB": "Bundesliga regular, new Germany cap",
+   "ST": "two-way full-back",
+   "LE": "early international career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marie_M%C3%BCller_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "292699",
+  "name": "Reyna Reyes",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "16 Mexico caps; SEC Defender of the Year 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady full-back",
+   "LO": "one club, four seasons",
+   "AB": "NWSL starter, Mexico international",
+   "ST": "full-back who joins attacks",
+   "LE": "Mexico regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reyna_Reyes"
+  ]
+ },
+ {
+  "espn_id": "349349",
+  "name": "Jayden Perry",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2022 (UCLA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back",
+   "LO": "one club, signed through 2028",
+   "AB": "young NWSL starter",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jayden_Perry"
+  ]
+ },
+ {
+  "espn_id": "417043",
+  "name": "Cassandra Bogere",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2005,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Røa",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Brann",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Toppserien 2025 (Brann)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; fastest double-yellow in NWSL history (2026)",
+   "WK": "central midfielder",
+   "LO": "three clubs by 21",
+   "AB": "young NWSL midfielder",
+   "ST": "central midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; 9th-minute sending-off for two bookings (March 2026), not violent conduct. Wikipedia says she switched to Sweden in 2026 (ESPN lists Norway).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cassandra_Bogere"
+  ]
+ },
+ {
+  "espn_id": "318869",
+  "name": "Reilyn Turner",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2022 (UCLA); 1 USWNT cap (1 goal)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "traded after one season",
+   "AB": "NWSL forward, scored on USWNT debut",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reilyn_Turner"
+  ]
+ },
+ {
+  "espn_id": "347670",
+  "name": "Carolyn Calzada",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Co-captain at Texas A&M",
+  "honours": "First-team All-SEC 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "rookie season",
+   "AB": "rookie defender",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carolyn_Calzada"
+  ]
+ },
+ {
+  "espn_id": "316075",
+  "name": "Nina Nijstad",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2003,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Heerenveen",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "PSV",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Vrouwen Eredivisie 2025-26 (PSV); 4 Netherlands caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "box-to-box midfielder",
+   "LO": "three seasons at PSV, now Portland",
+   "AB": "Dutch international",
+   "ST": "goal-scoring midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nina_Nijstad"
+  ]
+ },
+ {
+  "espn_id": "328084",
+  "name": "Isabella Obaze",
+  "club_id": "15362",
+  "gender": "W",
+  "born": 2002,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "KoldingQ",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "HB Køge",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "FC Rosengård",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "15 Denmark caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back",
+   "LO": "four clubs, third season at Portland",
+   "AB": "Denmark international",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isabella_Obaze"
+  ]
+ },
+ {
+  "espn_id": "280127",
+  "name": "Lauren Milliet",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina Courage",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Ironwoman 2022, 2023; first NWSL player with 100 straight matches for one club (2025)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "ironwoman, never misses a match",
+   "LO": "original Louisville player, six seasons",
+   "AB": "solid NWSL regular",
+   "ST": "full-back/midfielder",
+   "LE": "100 straight matches record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lauren_Milliet"
+  ]
+ },
+ {
+  "espn_id": "243919",
+  "name": "Jordyn Bloomer",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College All-American 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, came back from back injury",
+   "LO": "one club, five seasons",
+   "AB": "NWSL starting keeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordyn_Bloomer"
+  ]
+ },
+ {
+  "espn_id": "277805",
+  "name": "Kayla Fischer",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Team of the Month August 2024",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "record 10 yellow cards in 2024; hair-pull red, apologised",
+   "WK": "combative, high work rate",
+   "LO": "one club, four seasons",
+   "AB": "NWSL regular",
+   "ST": "physical midfielder/forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off May 2025 for pulling Madison Hammond's hair and dragging her down at a corner; 3-match ban, apologised.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kayla_Fischer",
+   "https://africa.espn.com/football/story/_/id/45374908/louisville-kayla-fischer-serve-3-game-ban-hair-pull-sources"
+  ]
+ },
+ {
+  "espn_id": "318853",
+  "name": "Katie O'Kane",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Goal of the Week May 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward converted to midfield",
+   "LO": "one club, second season",
+   "AB": "young NWSL regular",
+   "ST": "midfielder with goals",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katie_O'Kane"
+  ]
+ },
+ {
+  "espn_id": "293305",
+  "name": "Emma Sears",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "SheBelieves Cup 2026; NWSL Second XI 2025; 21 USWNT caps, 6 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward who presses",
+   "LO": "one club, three seasons",
+   "AB": "USWNT international",
+   "ST": "direct, goalscoring forward",
+   "LE": "USWNT regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emma_Sears"
+  ]
+ },
+ {
+  "espn_id": "209538",
+  "name": "Arin Wright",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1992,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2015,
+    "to": 2023
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Best XI 2016; Second XI 2015; NWSL final 2021 (runner-up)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "veteran defender",
+   "LO": "nine seasons at Chicago",
+   "AB": "Best XI 2016",
+   "ST": "defender",
+   "LE": "long NWSL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arin_Wright"
+  ]
+ },
+ {
+  "espn_id": "226085",
+  "name": "Ellie Jean",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Nordsjælland",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "PSV",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2023 (Gotham); KNVB Cup 2021 (PSV)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "four clubs in three countries",
+   "AB": "NWSL regular",
+   "ST": "no-frills defender",
+   "LE": "2023 NWSL champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ellie_Jean"
+  ]
+ },
+ {
+  "espn_id": "349347",
+  "name": "Quincy McMahon",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Diego Wave",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2022 (UCLA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back",
+   "LO": "traded after one season",
+   "AB": "young NWSL full-back",
+   "ST": "creative full-back (26 college assists)",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quincy_McMahon"
+  ]
+ },
+ {
+  "espn_id": "243230",
+  "name": "Taylor Flint",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Wave",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained US U-18 (2016)",
+  "honours": "NWSL Shield 2023; CONCACAF W Championship 2022; SheBelieves Cup 2023; NWSL Second XI 2025; 12 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder, ball-winner",
+   "LO": "three NWSL clubs",
+   "AB": "USWNT international",
+   "ST": "holding midfielder",
+   "LE": "Shield winner, 12 caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; straight red for serious foul play on loan at Duisburg (2020), a tackle rather than violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taylor_Flint"
+  ]
+ },
+ {
+  "espn_id": "327278",
+  "name": "Sarah Weber",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3x first-team All-Big Ten; US U-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "one club, second season",
+   "AB": "young NWSL forward",
+   "ST": "goalscorer (43 college goals)",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarah_Weber"
+  ]
+ },
+ {
+  "espn_id": "347840",
+  "name": "Ella Hase",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Second-team All-ACC 2024; US U-23 camp",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back or winger",
+   "LO": "traded after two seasons",
+   "AB": "young NWSL regular",
+   "ST": "attacking left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Traded to North Carolina Courage on 8 Oct 2026 (ESPN still lists Racing Louisville).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ella_Hase"
+  ]
+ },
+ {
+  "espn_id": "246596",
+  "name": "Courtney Petersen",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orlando Pride",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-20 World Cup 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "three NWSL clubs",
+   "AB": "NWSL regular",
+   "ST": "left-back/centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Courtney_Petersen"
+  ]
+ },
+ {
+  "espn_id": "307452",
+  "name": "Makenna Morris",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2025 (Spirit)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "plays full-back, midfield or forward",
+   "LO": "traded mid-2025",
+   "AB": "NWSL squad player",
+   "ST": "versatile wide player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Makenna_Morris"
+  ]
+ },
+ {
+  "espn_id": "307834",
+  "name": "Macey Hodge",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Angel City",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Mississippi State captain",
+  "honours": "First-team All-American 2024; SEC Midfielder of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder, college captain",
+   "LO": "traded after one season",
+   "AB": "NWSL squad midfielder",
+   "ST": "holding midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Macey_Hodge"
+  ]
+ },
+ {
+  "espn_id": "349793",
+  "name": "Mirann Gacioch",
+  "club_id": "20905",
+  "gender": "W",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Co-captain at Ohio State",
+  "honours": "Fourth-team All-American 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, captain at every level",
+   "LO": "rookie season",
+   "AB": "rookie defender",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mirann_Gacioch"
+  ]
+ }
+]

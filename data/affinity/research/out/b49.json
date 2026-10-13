@@ -1,0 +1,2046 @@
+[
+ {
+  "espn_id": "249525",
+  "name": "Michal Sadílek",
+  "club_id": "494",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Czechia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "PSV Eindhoven",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Slovan Liberec",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "FC Twente",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2025-26; 42 Czech caps, scored at the 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "energetic box-to-box midfielder",
+   "LO": "four seasons at Twente, now Slavia",
+   "AB": "Eredivisie regular and Czech international",
+   "ST": "tidy, hard-running midfielder",
+   "LE": "World Cup goal for Czechia"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michal_Sad%C3%ADlek"
+  ]
+ },
+ {
+  "espn_id": "283008",
+  "name": "Tomás Vlcek",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Czechia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2019,
+    "to": null
+   },
+   {
+    "club": "Ústí nad Labem",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Vysočina Jihlava",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Pardubice",
+    "from": 2022,
+    "to": 2023
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2024-25, 2025-26; Czech Cup 2018-19; 2 Czech caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no-frills centre-back",
+   "LO": "Slavia product, loans then back",
+   "AB": "rotation defender at Czech champions",
+   "ST": "no-frills centre-back",
+   "LE": "two league titles, minor role"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Vl%C4%8Dek"
+  ]
+ },
+ {
+  "espn_id": "290116",
+  "name": "David Zima",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Czechia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sigma Olomouc",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Torino",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League x4, Czech Cup 2020-21; 26 Czech caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "steady defender",
+   "LO": "returned to Slavia after Serie A spell",
+   "AB": "Serie A squad player, Czech international",
+   "ST": "no-frills centre-back",
+   "LE": "four Czech titles, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Zima"
+  ]
+ },
+ {
+  "espn_id": "291407",
+  "name": "Jakub Markovic",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Czechia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Mladá Boleslav",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Vlašim",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Pardubice",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Baník Ostrava",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League x3 (Slavia); uncapped senior call-up 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, nothing notable either way",
+   "LO": "Slavia product, returned 2025",
+   "AB": "Czech top-flight starting keeper",
+   "ST": "goalkeeper; penalty-saving shootout 2024",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakub_Markovi%C4%8D"
+  ]
+ },
+ {
+  "espn_id": "322169",
+  "name": "Danijel Sturm",
+  "club_id": "494",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Slovenia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tolmin",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Chiasso",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Bilje",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Maribor",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Domžale",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Celje",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sigma Olomouc",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours; 14 Slovenia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, nothing notable either way",
+   "LO": "many clubs, short spells",
+   "AB": "Slovenian international winger",
+   "ST": "left winger with goals",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danijel_%C5%A0turm"
+  ]
+ },
+ {
+  "espn_id": "343733",
+  "name": "Mojmír Chytil",
+  "club_id": "494",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Czechia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sigma Olomouc",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Pardubice",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2024-25, 2025-26; 23 Czech caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "hard-working centre-forward",
+   "LO": "five years at Sigma, three at Slavia",
+   "AB": "prolific Czech league striker",
+   "ST": "goalscoring forward",
+   "LE": "two titles, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mojm%C3%ADr_Chytil"
+  ]
+ },
+ {
+  "espn_id": "370744",
+  "name": "Stepán Chaloupek",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Czechia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Teplice",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Teplice U19",
+  "honours": "Czech First League 2024-25, 2025-26; 9 Czech caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "solid defender or holding midfielder",
+   "LO": "two clubs so far",
+   "AB": "Czech champion regular, international",
+   "ST": "goalscoring centre-back",
+   "LE": "young World Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C5%A0t%C4%9Bp%C3%A1n_Chaloupek"
+  ]
+ },
+ {
+  "espn_id": "410093",
+  "name": "Wiktor Nowak",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Znicz Pruszków",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Górnik Zabrze",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Wisła Płock",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Promotion with Znicz Pruszków; 4 Poland caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "young, few clubs so far",
+   "AB": "new Polish international",
+   "ST": "goalscoring midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wiktor_Nowak"
+  ]
+ },
+ {
+  "espn_id": "417931",
+  "name": "Samuel Isife",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vlašim",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Dukla Prague",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "right-back or wing-back, nothing notable either way",
+   "LO": "young, early career",
+   "AB": "Czech top-flight squad player",
+   "ST": "attacking right-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year from ESPN age 22 and club years approximate; no Wikipedia page.",
+  "confidence": "low",
+  "sources": [
+   "https://panafricafootball.com/article/slavia-prague-announce-signing-of-defender-samuel-isife"
+  ]
+ },
+ {
+  "espn_id": "3098601",
+  "name": "Emmanuel Dennis Ayaosi",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Karviná",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No major honours",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable either way",
+   "LO": "young, early career",
+   "AB": "promising Czech league forward",
+   "ST": "winger/forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: not the ex-Watford Emmanuel Dennis (now at Brondby); this is Emmanuel Ayaosi, ~21, signed from Karvina 2026 (earlier Dakkada, Nigeria). ESPN gives no nation/age; born year estimated.",
+  "confidence": "low",
+  "sources": [
+   "https://leadership.ng/slavia-prague-sign-nigerian-starlet-ayaosi/",
+   "https://en.wikipedia.org/wiki/Emmanuel_Dennis"
+  ]
+ },
+ {
+  "espn_id": "3099524",
+  "name": "Oskar Kubiak",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Poland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Wda Świecie",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Arka Gdynia",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Sokół Kleczew",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "IV liga Kuyavia-Pomerania 2023-24; Poland U20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, nothing notable either way",
+   "LO": "teenager, early career",
+   "AB": "newly arrived, few top-flight games",
+   "ST": "winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oskar_Kubiak"
+  ]
+ },
+ {
+  "espn_id": "175766",
+  "name": "Ivan Schranz",
+  "club_id": "494",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Slovakia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Petržalka",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Spartak Trnava",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Dukla Prague",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "AEL Limassol",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Dynamo České Budějovice",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Jablonec",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League x2, Czech Cup 2022-23, Cypriot Cup; joint top scorer Euro 2024; 39 Slovakia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "hard-working wide forward",
+   "LO": "five years at Slavia after journeyman start",
+   "AB": "Czech league regular, Slovak international",
+   "ST": "direct winger with goals",
+   "LE": "joint Euro 2024 top scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Schranz"
+  ]
+ },
+ {
+  "espn_id": "257336",
+  "name": "Tomás Chorý",
+  "club_id": "494",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Czechia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sigma Olomouc",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Viktoria Plzeň",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Zulte Waregem",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League x4 (Plzeň, Slavia); 24 Czech caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 4.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "repeated suspensions; club chairman criticised his behaviour",
+   "WK": "physical target man",
+   "LO": "six years at Plzeň, now Slavia",
+   "AB": "prolific Czech league striker",
+   "ST": "aerial target man",
+   "LE": "titles with two clubs, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 2,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 2: six-match ban for hitting Slovácko keeper Heča in the groin (Aug 2025); six-match ban for elbowing Sparta's Sørensen (May 2026). Spitting accusation (Apr 2026) not upheld.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Chor%C3%BD"
+  ]
+ },
+ {
+  "espn_id": "335996",
+  "name": "David Jurásek",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Czechia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Zbrojovka Brno",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Prostějov",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Mladá Boleslav",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Benfica",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Beşiktaş",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2025-26; Portuguese Super Cup 2023; 18 Czech caps, Euro 2024 and 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "energetic left-back",
+   "LO": "several moves and loans since 2023",
+   "AB": "Bundesliga loan regular, Czech international",
+   "ST": "attacking left-back",
+   "LE": "Euro and World Cup squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Jur%C3%A1sek"
+  ]
+ },
+ {
+  "espn_id": "352303",
+  "name": "Mikulás Konecny",
+  "club_id": "494",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Czechia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No senior honours; Czech youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young centre-back",
+   "LO": "Slavia academy since 2018",
+   "AB": "fringe first-team defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. A search snippet mentioned a league red card for stepping on an opponent, but reports conflicted and the page could not be opened; not coded. Born year estimated from ESPN age 20.",
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "espn_id": "176145",
+  "name": "Cristian Martínez",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Panama",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chorrillo",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Cádiz",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Plaza Amador",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Ironi Kiryat Shmona",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Gold Cup and Nations League runner-up with Panama; 71 caps, 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "midfield workhorse for Panama",
+   "LO": "journeyman, many clubs and loans",
+   "AB": "established Panama international",
+   "ST": "combative central midfielder",
+   "LE": "long-serving international, World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Short loans (Al-Jandal, Najran, Recreativo, Monagas) omitted; Cádiz spell was with the B team.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Mart%C3%ADnez_(Panamanian_footballer)"
+  ]
+ },
+ {
+  "espn_id": "189717",
+  "name": "Andraz Sporar",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Slovenia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Interblock",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Olimpija Ljubljana",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Basel",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Braga",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Middlesbrough",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Alanyaspor",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Olimpija Ljubljana 2015-16",
+  "honours": "Primeira Liga 2020-21, Swiss Super League x2, Slovak league x2, Greek Cup, Taça de Portugal; Slovak league top scorer x2; 69 Slovenia caps, Euro 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no known issues",
+   "WK": "willing centre-forward",
+   "LO": "many clubs; returned to Slovan",
+   "AB": "Portuguese champion, long-time Slovenia striker",
+   "ST": "goalscoring forward",
+   "LE": "titles in four countries, Euro 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andra%C5%BE_%C5%A0porar"
+  ]
+ },
+ {
+  "espn_id": "235045",
+  "name": "Tigran Barseghyan",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Armenia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Mika",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Gandzasar Kapan",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Vardar",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Kaisar",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Astana",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovak league x5, Macedonian league, Kazakhstan Cup; Slovak top scorer 2023-24; 64 Armenia caps",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "headbutt red card for Armenia, otherwise little record",
+   "WK": "goalscoring winger",
+   "LO": "five seasons at Slovan",
+   "AB": "Slovan's star winger, Armenia regular",
+   "ST": "skilful winger, goal of the month",
+   "LE": "five Slovak titles, Armenia stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off for headbutting Ireland's Finn Azaz in a World Cup qualifier (Oct 2025).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tigran_Barseghyan"
+  ]
+ },
+ {
+  "espn_id": "238958",
+  "name": "Kenan Bajric",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Slovenia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Olimpija Ljubljana",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2018,
+    "to": null
+   },
+   {
+    "club": "Pafos",
+    "from": 2021,
+    "to": 2023
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovenian league 2015-16, Slovak league x5, Slovak Cup x3; 5 Slovenia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady centre-back",
+   "LO": "long Slovan service since 2018",
+   "AB": "Slovak league regular",
+   "ST": "no-frills centre-back",
+   "LE": "many domestic titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenan_Bajri%C4%87"
+  ]
+ },
+ {
+  "espn_id": "260346",
+  "name": "César Blackman",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Panama",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chorrillo",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "DAC Dunajská Streda",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Gold Cup and Nations League runner-up with Panama; 45 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running right-back",
+   "LO": "six years at DAC, now Slovan",
+   "AB": "Panama international right-back",
+   "ST": "attacking full-back",
+   "LE": "Panama regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C%C3%A9sar_Blackman"
+  ]
+ },
+ {
+  "espn_id": "260751",
+  "name": "Svetozar Markovic",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Serbia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Partizan",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Olympiacos",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "AEL",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Partizan",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Viktoria Plzeň",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serbian Cup x2 with Partizan",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, nothing notable either way",
+   "LO": "long spells at Partizan",
+   "AB": "Partizan and Plzeň defender",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Svetozar_Markovi%C4%87_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "275486",
+  "name": "Dominik Takac",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Slovakia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Spartak Trnava",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovak league 2017-18, Slovak Cup x3; Slovak league best goalkeeper x2; 1 Slovakia cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, nothing notable either way",
+   "LO": "seven years at Trnava",
+   "AB": "twice Slovak league best keeper",
+   "ST": "goalkeeper",
+   "LE": "domestic titles and awards"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominik_Tak%C3%A1%C4%8D"
+  ]
+ },
+ {
+  "espn_id": "307484",
+  "name": "Peter Pokorny",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Slovakia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Liefering",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "SKN St. Pölten",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Fehérvár",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Śląsk Wrocław",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No senior honours listed; 2 Slovakia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder, screening role",
+   "LO": "several loans and moves",
+   "AB": "Ekstraklasa and Slovak league regular",
+   "ST": "holding midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Pokorn%C3%BD_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "310419",
+  "name": "Suleiman Camara",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Gambia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Girona",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "UD Ibiza",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Racing Santander",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Segunda División 2025-26 (Racing Santander); 2 Gambia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, nothing notable either way",
+   "LO": "few clubs, short spells",
+   "AB": "Segunda División regular",
+   "ST": "winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Suleiman_Camara"
+  ]
+ },
+ {
+  "espn_id": "340556",
+  "name": "Sandro Cruz",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Angola",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Benfica",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Chaves",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Gil Vicente",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "COSAFA Cup 2024 with Angola; 7+ Angola caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back, nothing notable either way",
+   "LO": "few clubs so far",
+   "AB": "Primeira Liga squad player",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandro_Cruz"
+  ]
+ },
+ {
+  "espn_id": "386509",
+  "name": "Rahim Ibrahim",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AS Trenčín",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "five years at Trenčín",
+   "AB": "Slovak league regular",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rahim_Ibrahim"
+  ]
+ },
+ {
+  "espn_id": "275601",
+  "name": "Alen Mustafic",
+  "club_id": "521",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Bosnia and Herzegovina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sarajevo",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Nitra",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Odense Boldklub",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Śląsk Wrocław",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bosnian league and cup 2018-19; Slovak league x2, Slovak Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "two spells at Slovan",
+   "AB": "Slovak league squad player",
+   "ST": "central midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN gives no nation; Wikipedia: Bosnian.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alen_Mustafi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "340723",
+  "name": "Artur Gajdos",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Slovakia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AS Trenčín",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovak league Young Player of the Season 2022-23; 2 Slovakia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "Trenčín product, now Slovan",
+   "AB": "young Slovak international",
+   "ST": "goal-scoring midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Artur_Gajdo%C5%A1"
+  ]
+ },
+ {
+  "espn_id": "356479",
+  "name": "Sahmkou Camara",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Guinea",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Grasse",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Stade Lausanne Ouchy",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Karviná",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Slovan Bratislava",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech Cup 2025-26 (Karviná); 2 Guinea caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, nothing notable either way",
+   "LO": "loans so far",
+   "AB": "Czech league regular on loan",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On a season loan at Slovan from Slavia Prague.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sahmkou_Camara"
+  ]
+ },
+ {
+  "espn_id": "360153",
+  "name": "Nino Marcelli",
+  "club_id": "521",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Slovakia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Slovan Bratislava",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Slovak league titles with Slovan; 24 Slovakia U21 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, nothing notable either way",
+   "LO": "Slovan academy graduate, one club",
+   "AB": "Slovak league regular, U21 international",
+   "ST": "goalscoring left winger, No. 10",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nino_Marcelli_(footballer)"
+  ]
+ }
+]

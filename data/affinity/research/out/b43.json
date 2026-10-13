@@ -1,0 +1,1818 @@
+[
+ {
+  "espn_id": "319296",
+  "name": "Luciano Valente",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Groningen",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Feyenoord captain from 2026-27",
+  "honours": "Eredivisie Team of the Month (Aug 2026); Netherlands senior caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "creative midfielder who works centrally",
+   "LO": "Groningen academy through relegation and promotion; now Feyenoord captain",
+   "AB": "Eredivisie playmaker, Netherlands international",
+   "ST": "No. 10 chance creator",
+   "LE": "young; captaincy at Feyenoord is the highlight"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One red card (vs Ajax, May 2025), not violent conduct on record.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luciano_Valente"
+  ]
+ },
+ {
+  "espn_id": "332573",
+  "name": "Mika Mármol",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Andorra",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Las Palmas",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Catalonia selection; Spain youth caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no-frills defender, nothing notable either way",
+   "LO": "several clubs; three seasons at Las Palmas",
+   "AB": "La Liga regular at Las Palmas",
+   "ST": "centre-back/left-back, ball-playing",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mika_Mármol"
+  ]
+ },
+ {
+  "espn_id": "335870",
+  "name": "Tjark Ernst",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Hertha BSC",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Germany U21 runner-up, Euro U21 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, nothing notable",
+   "LO": "four seasons at Hertha before Feyenoord",
+   "AB": "Bundesliga 2 starter, Germany U21",
+   "ST": "goalkeeper",
+   "LE": "Euro U21 final run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tjark_Ernst"
+  ]
+ },
+ {
+  "espn_id": "337084",
+  "name": "Givairo Read",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Volendam",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Feyenoord third captain 2025-26; captained Netherlands U19 and U21",
+  "honours": "KNVB Cup 2023-24, Johan Cruyff Shield 2024; UEFA U19 Euro winner 2025 (captain)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; described as calm",
+   "WK": "hard-running attacking right-back",
+   "LO": "Feyenoord since 2023; stayed despite Forest and Roma bids in 2026",
+   "AB": "Eredivisie regular, UCL team of the week",
+   "ST": "attacking full-back",
+   "LE": "U19 European champion as captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. One red card (vs AC Milan, Feb 2025), no violent conduct on record.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Givairo_Read"
+  ]
+ },
+ {
+  "espn_id": "365021",
+  "name": "Gjivai Zechiël",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Feyenoord",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Sparta Rotterdam",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Utrecht",
+    "from": 2025,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "Johan Cruyff Shield 2024; Eredivisie Player of the Month Aug 2026; Netherlands debut Oct 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable either way",
+   "LO": "Feyenoord-owned since 2023 with loans",
+   "AB": "new Netherlands international",
+   "ST": "goal-scoring midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gjivai_Zechiël"
+  ]
+ },
+ {
+  "espn_id": "276260",
+  "name": "Charles Vanhoutte",
+  "club_id": "142",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Belgium",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Cercle Brugge",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Union Saint-Gilloise",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Nice",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2024-25, Belgian Cup 2023-24, Super Cup 2024 (Union SG); one Belgium cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "holding midfielder",
+   "LO": "Cercle academy and four seasons there; then three moves",
+   "AB": "title-winning Belgian midfielder, Belgium cap",
+   "ST": "defensive midfielder",
+   "LE": "part of Union SG's first title in 90 years"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charles_Vanhoutte"
+  ]
+ },
+ {
+  "espn_id": "215524",
+  "name": "Jerry St. Juste",
+  "club_id": "142",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Heerenveen",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Mainz 05",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2023-24, 2024-25; Taça de Portugal 2024-25; KNVB Cup 2017-18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; frozen out at Sporting in 2025 after refusing moves",
+   "WK": "quick centre-back",
+   "LO": "returned to Feyenoord; four seasons at Sporting",
+   "AB": "Netherlands international, two Portuguese titles",
+   "ST": "fast, ball-carrying centre-back",
+   "LE": "club regular with trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sent off in the 2024 Taça de Portugal final; not recorded as violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerry_St._Juste"
+  ]
+ },
+ {
+  "espn_id": "341711",
+  "name": "Anis Hadj Moussa",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Algeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Charleroi",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Patro Eisden",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Feyenoord vice-captain 2025-26",
+  "honours": "Johan Cruyff Shield 2024; Eredivisie Player of the Month May 2026; Algeria 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "direct winger",
+   "LO": "Feyenoord since 2024, vice-captain",
+   "AB": "Eredivisie star winger, Algeria international",
+   "ST": "dribbling winger",
+   "LE": "World Cup with Algeria"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anis_Hadj_Moussa"
+  ]
+ },
+ {
+  "espn_id": "276279",
+  "name": "Tsuyoshi Watanabe",
+  "club_id": "142",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Tokyo",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Kortrijk",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Gent",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "J.League Cup 2020; Japan 2023 Asian Cup and 2026 World Cup squads",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady centre-back",
+   "LO": "university, then three moves in Belgium and the Netherlands",
+   "AB": "Japan international centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Japan World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tsuyoshi_Watanabe"
+  ]
+ },
+ {
+  "espn_id": "313354",
+  "name": "Oussama Targhaline",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Morocco",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Marseille",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Le Havre",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Africa Cup of Nations 2025 (Morocco); Olympic bronze 2024; U23 AFCON 2023; Ligue 2 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "central midfielder",
+   "LO": "Marseille youth, Le Havre, now Feyenoord",
+   "AB": "Eredivisie midfielder, Morocco international",
+   "ST": "tidy central midfielder",
+   "LE": "AFCON winner, Olympic bronze"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia spells the name Targhalline.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oussama_Targhalline"
+  ]
+ },
+ {
+  "espn_id": "364582",
+  "name": "Nacho Ferri",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Kortrijk",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Westerlo",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "striker, nothing notable either way",
+   "LO": "several short spells so far",
+   "AB": "prolific in reserves, Belgian league regular",
+   "ST": "goal-scoring striker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nacho_Ferri"
+  ]
+ },
+ {
+  "espn_id": "402344",
+  "name": "Gaoussou Diarra",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Mali",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "İstanbulspor",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Mali international (AFCON 2025 squad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; rose from a university team in Istanbul",
+   "WK": "winger",
+   "LO": "second senior club",
+   "AB": "new Mali international",
+   "ST": "fast one-on-one winger",
+   "LE": "late rise from university football"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gaoussou_Diarra"
+  ]
+ },
+ {
+  "espn_id": "297354",
+  "name": "Javi López",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Alavés",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Real Oviedo",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back, nothing notable either way",
+   "LO": "four seasons at Alavés; now on loan from Real Sociedad",
+   "AB": "La Liga squad regular",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists AM-L; Wikipedia lists left-back (on loan from Real Sociedad).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Javi_López_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "espn_id": "415052",
+  "name": "Shaqueel Van Persie",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young forward",
+   "LO": "Feyenoord academy since 2017",
+   "AB": "teenage first-team forward",
+   "ST": "forward",
+   "LE": "son of Robin van Persie; early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaqueel_van_Persie"
+  ]
+ },
+ {
+  "espn_id": "343202",
+  "name": "Thijs Kraaijeveld",
+  "club_id": "142",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Feyenoord",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "none listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young squad player",
+   "LO": "Feyenoord academy since 2016",
+   "AB": "teenage first-team player",
+   "ST": "defensive player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists CD-L; Wikipedia lists midfielder.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thijs_Kraaijeveld"
+  ]
+ },
+ {
+  "espn_id": "197105",
+  "name": "Davinson Sánchez",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlético Nacional",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Ajax",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Colombia captain from Sept 2026; occasional Tottenham captain",
+  "honours": "Copa Libertadores 2016; three Süper Lig titles; UCL finalist 2019; Copa América runner-up 2024",
+  "causes": [
+   "Fundación Dávinson Sánchez (2016) for children in his home region of Cauca"
+  ],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "foundation for children at home; no issues known",
+   "WK": "physical, committed defender",
+   "LO": "six years at Spurs, three at Galatasaray",
+   "AB": "Premier League and Colombia centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Libertadores winner, UCL finalist, Colombia captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Davinson_Sánchez"
+  ]
+ },
+ {
+  "espn_id": "212973",
+  "name": "Lucas Torreira",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Pescara",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Arsenal",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Fiorentina",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2020-21; FA Cup 2019-20; four Süper Lig titles; Turkish Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no issues known; nothing notable beyond the pitch",
+   "WK": "tireless, disciplined ball-winner praised for work rate",
+   "LO": "four-plus seasons at Galatasaray after loans away from Arsenal",
+   "AB": "Uruguay World Cup starter, title winner in Spain and Turkey",
+   "ST": "defensive midfielder",
+   "LE": "2018 World Cup starter, La Liga title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Red card for a late tackle on Danny Rose (2019), a challenge, not off-the-ball violence.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Torreira"
+  ]
+ },
+ {
+  "espn_id": "266575",
+  "name": "Yunus Akgün",
+  "club_id": "432",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Türkiye",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Galatasaray",
+    "from": 2018,
+    "to": null
+   },
+   {
+    "club": "Adana Demirspor",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Leicester City",
+    "from": 2023,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "four Süper Lig titles, two Turkish Cups; Championship 2023-24 (Leicester, loan); Turkey Euro 2024 and 2026 World Cup squads",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder",
+   "LO": "Galatasaray academy graduate, back after loans",
+   "AB": "Turkey international",
+   "ST": "creative attacker",
+   "LE": "international tournaments with Turkey"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yunus_Akgün"
+  ]
+ },
+ {
+  "espn_id": "268478",
+  "name": "Gabriel Sara",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Norwich City",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Süper Lig 2024-25, 2025-26; Turkish Cup 2024-25; Norwich Player of the Season 2022-23; one Brazil cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "box-to-box midfielder",
+   "LO": "five years at São Paulo, two at Norwich",
+   "AB": "Brazil cap, Championship team of the season",
+   "ST": "creative midfielder and set-piece taker",
+   "LE": "club regular with titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Sara"
+  ]
+ },
+ {
+  "espn_id": "268796",
+  "name": "Ismail Jakobs",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Senegal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "1. FC Köln",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Monaco",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 European champion 2021 (Germany); Süper Lig 2024-25, 2025-26; Turkish Cup 2024-25; 2022 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic left-back",
+   "LO": "Köln academy, four years Monaco, now Galatasaray",
+   "AB": "Senegal World Cup left-back",
+   "ST": "attacking left-back",
+   "LE": "World Cup 2022 starter for Senegal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ismail_Jakobs"
+  ]
+ },
+ {
+  "espn_id": "219444",
+  "name": "Roland Sallai",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Hungary",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Puskás Akadémia",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "APOEL",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Cypriot league 2017-18; Süper Lig 2024-25, 2025-26; Turkish Cup 2024-25",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "turned down a big Saudi offer in 2023 to stay at Freiburg",
+   "WK": "hard-working wide player",
+   "LO": "six years at Freiburg",
+   "AB": "Hungary and Bundesliga regular",
+   "ST": "versatile winger and right-back",
+   "LE": "Hungary at Euro 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Sent off vs Ireland (Sept 2025) for reasons not given on Wikipedia; not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roland_Sallai"
+  ]
+ },
+ {
+  "espn_id": "222922",
+  "name": "Ugurcan Çakir",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Türkiye",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Trabzonspor",
+    "from": 2014,
+    "to": 2025
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Trabzonspor captain 2020-2025",
+  "honours": "Süper Lig 2021-22 (Trabzonspor), 2025-26 (Galatasaray); Turkish Cup 2019-20; Süper Lig best goalkeeper 2019-20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 7.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no issues known; Trabzonspor thanked him warmly on leaving",
+   "WK": "goalkeeper and captain",
+   "LO": "11 years and captaincy at Trabzonspor before a record move",
+   "AB": "Turkey's number one",
+   "ST": "goalkeeper",
+   "LE": "captained Trabzonspor's 2022 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Trabzonspor to Galatasaray is a strong rivalry but not treated as a bitter-rival move; the exit was amicable.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uğurcan_Çakır"
+  ]
+ },
+ {
+  "espn_id": "322538",
+  "name": "Baris Alper Yilmaz",
+  "club_id": "432",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Türkiye",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ankara Demirspor",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Ankara Keçiörengücü",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "four Süper Lig titles; Turkish Cup 2024-25; Süper Lig Team of the Season x3",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "powerful, hard-running winger",
+   "LO": "five seasons at Galatasaray after lower-league start",
+   "AB": "Turkey international, league team of the season",
+   "ST": "direct, physical winger",
+   "LE": "Turkey at Euro 2024 and 2026 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barış_Alper_Yılmaz"
+  ]
+ },
+ {
+  "espn_id": "193149",
+  "name": "Abdülkerim Bardakçi",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Türkiye",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Konyaspor",
+    "from": 2011,
+    "to": 2022
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Galatasaray captain",
+  "honours": "four Süper Lig titles; Turkish Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "leads by example as captain",
+   "LO": "long Konyaspor spell (many loans), now Galatasaray captain",
+   "AB": "Turkey international centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "captain of a title-winning side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdülkerim_Bardakcı"
+  ]
+ },
+ {
+  "espn_id": "202641",
+  "name": "Leroy Sané",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Schalke 04",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Manchester City",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League x2, Bundesliga x4, FA Cup, Süper Lig 2025-26, Confederations Cup 2017; PFA Young Player of the Year 2017-18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 3.5,
+  "AB": 8.0,
+  "ST": 8.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "no issues on record; declined to celebrate against Schalke out of respect",
+   "WK": "talented but inconsistent winger",
+   "LO": "left City by refusing a new deal; five years at Bayern",
+   "AB": "elite winger at his peak",
+   "ST": "fast, dribbling winger",
+   "LE": "PFA Young Player, title winner in two leagues"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leroy_Sané"
+  ]
+ },
+ {
+  "espn_id": "287678",
+  "name": "Eren Elmali",
+  "club_id": "432",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Türkiye",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Kasımpaşa",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Trabzonspor",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Süper Lig 2024-25, 2025-26; Turkish Cup 2024-25; Turkish Super Cup 2022",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "45-day ban (Nov 2025) for betting on a football match",
+   "WK": "left-back",
+   "LO": "three clubs, three years at Trabzonspor",
+   "AB": "Turkey international",
+   "ST": "attacking left-back",
+   "LE": "club regular, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Banned 45 days in the 2025 Turkish betting probe for betting on a match not involving his team (betting breach, not fixing).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eren_Elmalı"
+  ]
+ },
+ {
+  "espn_id": "355113",
+  "name": "Alexey Batrakov",
+  "club_id": "432",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Russia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lokomotiv Moscow",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Russian Premier League Young Player of the Season 2024-25, 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder",
+   "LO": "Lokomotiv academy from age six",
+   "AB": "prolific young Russian international",
+   "ST": "goal-scoring No. 10",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexey_Batrakov"
+  ]
+ },
+ {
+  "espn_id": "181729",
+  "name": "Mario Lemina",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Gabon",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lorient",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Marseille",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Juventus",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Southampton",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Fulham",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Nice",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Wolves captain 2024-25, stripped Dec 2024",
+  "honours": "Serie A x2, Coppa Italia x2; Süper Lig x2; Turkish Cup 2024-25; U20 World Cup 2013 (France)",
+  "causes": [],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 3.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "reputation for temper; post-match scuffle with Bowen and teammates (Dec 2024), fell out with Wolves manager",
+   "WK": "tenacious, versatile midfielder",
+   "LO": "many clubs; pushed to leave Wolves in 2025",
+   "AB": "Juventus squad player, Premier League regular",
+   "ST": "tenacious midfielder",
+   "LE": "Wolves player of the year 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off for punching Ola Toivonen (Marseille vs Rennes, 2015). Dec 2024 on-pitch altercation at West Ham cost him the Wolves captaincy (accounts differ; not separately coded).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mario_Lemina"
+  ]
+ },
+ {
+  "espn_id": "258917",
+  "name": "Rafael Leão",
+  "club_id": "432",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Portugal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Lille",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "AC Milan",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "occasional Milan captain",
+  "honours": "Serie A 2021-22 (MVP); Supercoppa 2024-25; Nations League 2024-25",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 4.0,
+  "LO": 4.5,
+  "AB": 8.0,
+  "ST": 9.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "simulation bookings at Euro 2024, frustration when substituted",
+   "WK": "criticised by coaches for off-ball work rate",
+   "LO": "seven years at Milan, then asked for a new challenge",
+   "AB": "Serie A MVP, Portugal international",
+   "ST": "explosive dribbling winger",
+   "LE": "Milan's 2022 Scudetto MVP"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Ended his Sporting contract after the 2018 Alcochete attack (CAS ruled it a breach; not coded as forced transfer given the attack). 2022 red for kicking Ferrari's head in a bicycle-kick attempt treated as reckless play, not off-ball violence.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Leão"
+  ]
+ }
+]

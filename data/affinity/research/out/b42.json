@@ -1,0 +1,1979 @@
+[
+ {
+  "espn_id": "238903",
+  "name": "Diogo Costa",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Portugal",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Porto",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Porto captain since 2024",
+  "honours": "Primeira Liga x3 (incl. 2025-26 as captain), 4 Taças de Portugal, Nations League 2024-25, Primeira Liga GK of the Year x4",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 8.5,
+  "AB": 7.5,
+  "ST": 5.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no incidents found; captain with clean record",
+   "WK": "dependable, captain's example",
+   "LO": "Porto academy, one-club, captain",
+   "AB": "one of Europe's best keepers; Portugal No. 1",
+   "ST": "goalkeeper, famed penalty saver",
+   "LE": "Euro 2024 three-penalty shootout saves; Porto captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diogo_Costa"
+  ]
+ },
+ {
+  "espn_id": "256909",
+  "name": "Pepê",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Foz do Iguaçu",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Grêmio",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Porto",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga x2, 3 Taças de Portugal, Campeonato Gaúcho x4, Porto Player of the Year 2023",
+  "causes": [],
+  "CH": 5.6,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "sent off in 2020 Gre-Nal brawl after trading insults (1-match ban); otherwise clean",
+   "WK": "hard-working, also covers right-back",
+   "LO": "five years at Porto",
+   "AB": "good Primeira Liga winger, Brazil caps",
+   "ST": "direct, skilful winger",
+   "LE": "Porto regular, club player of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; one-match ban for the 2020 Gre-Nal mass brawl (insults/provocation, not violent conduct per reports).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep%C3%AA_(footballer,_born_1997)",
+   "https://dol.com.br/esporte/589568/conmebol-suspende-jogadores-envolvidos-em-briga-em-classico"
+  ]
+ },
+ {
+  "espn_id": "304965",
+  "name": "Jakub Kiwior",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Poland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Železiarne Podbrezová",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Žilina",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Spezia",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Arsenal",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26, Community Shield 2023, Primeira Liga Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; no incidents",
+   "WK": "steady, versatile defender",
+   "LO": "several moves, settling at Porto",
+   "AB": "Arsenal squad player, Poland regular",
+   "ST": "composed left-footed centre-back",
+   "LE": "Poland international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakub_Kiwior"
+  ]
+ },
+ {
+  "espn_id": "376664",
+  "name": "William Gomes",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "São Paulo",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26, Primeira Liga Goal of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "young, second senior club",
+   "AB": "promising young winger",
+   "ST": "skilful winger, goal-of-the-season scorer",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/William_Gomes"
+  ]
+ },
+ {
+  "espn_id": "3368",
+  "name": "André Silva",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Portugal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Porto",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "AC Milan",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Sevilla",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Elche",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Porto",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "DFB-Pokal x2 (Leipzig), Nations League 2018-19, Bundesliga Player of the Month Jan 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no incidents found",
+   "WK": "penalty-box striker, standard work rate",
+   "LO": "journeyman, now back at boyhood club",
+   "AB": "28-goal Bundesliga season at Frankfurt; Portugal caps",
+   "ST": "clinical finisher",
+   "LE": "Nations League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andr%C3%A9_Silva_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "espn_id": "307381",
+  "name": "Gabri Veiga",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Celta Vigo",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Al-Ahli",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFC Champions League Elite 2024-25, Primeira Liga 2025-26, La Liga Team of the Season 2022-23",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no incidents; Saudi move criticised as unambitious",
+   "WK": "box-to-box runner",
+   "LO": "left Celta early for Saudi money",
+   "AB": "standout La Liga season at 20",
+   "ST": "creative, goalscoring No. 10",
+   "LE": "young; Asian title, Porto No. 10"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 1,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "money_league: joined Saudi Al-Ahli in 2023 at 21 (widely criticised).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabri_Veiga"
+  ]
+ },
+ {
+  "espn_id": "221788",
+  "name": "Jan Bednarek",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Poland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lech Poznań",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Southampton",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ekstraklasa 2014-15, Primeira Liga 2025-26, Championship play-offs 2024",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.8,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "spoke openly about mental-health struggles; no incidents",
+   "WK": "committed, physical defender",
+   "LO": "eight years at Southampton incl. relegations",
+   "AB": "solid Premier League/Poland centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "long-time Poland regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Bednarek"
+  ]
+ },
+ {
+  "espn_id": "223776",
+  "name": "Pablo Rosario",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Dominican Republic",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Almere City",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "PSV",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Nice",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2017-18, Primeira Liga 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "defensive midfielder, workmanlike",
+   "LO": "four-plus years each at PSV and Nice",
+   "AB": "solid top-flight regular",
+   "ST": "functional holding midfielder",
+   "LE": "switched to Dominican Republic in 2025"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Amsterdam; switched from Netherlands to Dominican Republic internationally (2025).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pablo_Rosario"
+  ]
+ },
+ {
+  "espn_id": "346111",
+  "name": "Alberto Costa",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vitória de Guimarães",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Juventus",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26, Primeira Liga Team of the Season 2025-26",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "accused of spitting by an opponent in 2026, denied; case closed for lack of evidence",
+   "WK": "modern full-back",
+   "LO": "Vitória academy; quick moves via Juventus",
+   "AB": "promising right-back",
+   "ST": "attacking full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; 2026 spitting accusation by Famalicão's Sorriso denied and closed by the federation (no evidence), so not coded.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alberto_Costa_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "373520",
+  "name": "Victor Froholdt",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Copenhagen",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Porto",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga and Cup 2024-25, Primeira Liga 2025-26, Danish Player of the Year 2025, Primeira Liga Player of the Year 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "energetic box-to-box midfielder",
+   "LO": "young, second senior club",
+   "AB": "league player of the year at 20",
+   "ST": "driving, goalscoring midfielder",
+   "LE": "early career; Danish Player of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Froholdt"
+  ]
+ },
+ {
+  "espn_id": "280061",
+  "name": "Hwang In-Beom",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1996,
+  "nation": "South Korea",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Daejeon Citizen",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Asan Mugunghwa",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Vancouver Whitecaps",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Rubin Kazan",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Olympiacos",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Red Star Belgrade",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Porto",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Asian Games gold 2018, EAFF Championship 2019 (MVP), Serbian double 2023-24, Serbian SuperLiga Player of the Season",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 3.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no incidents; 2023 contract dispute with Olympiacos",
+   "WK": "tidy, hard-running midfielder",
+   "LO": "many clubs, short stays",
+   "AB": "South Korea regular, strong in Eredivisie",
+   "ST": "neat passer and playmaker",
+   "LE": "long-time South Korea midfielder"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; left Olympiacos after a 2023 contract-length dispute (not a strike).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hwang_In-beom"
+  ]
+ },
+ {
+  "espn_id": "364657",
+  "name": "Martim Fernandes",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Porto",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26, Taça de Portugal 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "Porto academy graduate",
+   "AB": "young top-flight full-back",
+   "ST": "full-back, some attacking play",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN lists LB; Wikipedia lists right-back.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martim_Fernandes"
+  ]
+ },
+ {
+  "espn_id": "289513",
+  "name": "Zaidu Sanusi",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Mirandela",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Santa Clara",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Porto",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga x2, 2 Taças de Portugal, AFCON runner-up 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "hard-working left-back",
+   "LO": "six years at Porto through long ACL layoff",
+   "AB": "solid Primeira Liga/Nigeria left-back",
+   "ST": "energetic full-back",
+   "LE": "AFCON finalist with Nigeria"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zaidu_Sanusi"
+  ]
+ },
+ {
+  "espn_id": "274289",
+  "name": "Moura",
+  "club_id": "437",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Braga",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Famalicão",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Porto",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2025-26, UEFA U19 Euro 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "Braga academy; settled at Porto",
+   "AB": "solid top-flight left-back",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: ESPN 'Moura' is Francisco Moura (b. 1999, left-back), matched by age and club; ESPN's SUB position.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Francisco_Moura",
+   "https://www.espn.com/soccer/player/_/id/274289/moura"
+  ]
+ },
+ {
+  "espn_id": "307601",
+  "name": "Alan Varela",
+  "club_id": "437",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Porto",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Argentine Primera 2022 and cups with Boca, Primeira Liga 2025-26, Taça de Portugal 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "combative defensive midfielder",
+   "LO": "Boca academy, three-plus years at Porto",
+   "AB": "solid top-flight holding midfielder",
+   "ST": "holding midfielder, tidy passer",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alan_Varela"
+  ]
+ },
+ {
+  "espn_id": "159248",
+  "name": "Nathan Aké",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Watford",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Bournemouth",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Manchester City",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Bournemouth and occasionally Man City",
+  "honours": "Champions League 2022-23, 4 Premier League titles, 2 FA Cups, Club World Cup 2023, Euro 2024 semi-finalist",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no incidents; quiet, professional",
+   "WK": "selfless squad player, versatile",
+   "LO": "long spells at Bournemouth and City",
+   "AB": "reliable Man City/Netherlands defender",
+   "ST": "no-frills defender",
+   "LE": "treble winner with City"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9"
+  ]
+ },
+ {
+  "espn_id": "175195",
+  "name": "Milan Skriniar",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Slovakia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Žilina",
+    "from": 2012,
+    "to": 2016
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Slovakia captain; Fenerbahçe captain; Inter captain until stripped in 2023",
+  "honours": "Serie A 2020-21, 2 Coppa Italia, 2 Ligue 1, Champions League runner-up 2023, Slovak Footballer of the Year x4",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 7.5,
+  "ST": 4.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no incidents; lost Inter armband after agreeing PSG pre-contract",
+   "WK": "committed leader",
+   "LO": "six years at Inter; left on a free",
+   "AB": "top Serie A centre-back at his peak",
+   "ST": "no-frills centre-back",
+   "LE": "Slovakia captain, four-time national player of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; left Inter as a free agent in 2023 (pre-contract with PSG), not a forced move.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_%C5%A0kriniar"
+  ]
+ },
+ {
+  "espn_id": "276221",
+  "name": "Mason Greenwood",
+  "club_id": "436",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Getafe",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Marseille",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Joint Ligue 1 top scorer 2024-25, Marseille Player of the Season 2025-26",
+  "causes": [],
+  "CH": 2.5,
+  "WK": 5.5,
+  "LO": 3.0,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "charged in 2022 with attempted rape, assault and coercive control; charges dropped 2023",
+   "WK": "finisher more than worker",
+   "LO": "Man United academy; exit forced by the case",
+   "AB": "prolific two-footed forward",
+   "ST": "two-footed shooter, highlight goals",
+   "LE": "talent overshadowed by the case"
+  },
+  "codes": {
+   "abuse_allegation": 1,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "abuse_allegation 1: charged in 2022 (attempted rape, ABH, coercive control); CPS dropped all charges in Feb 2023 after key witnesses withdrew. Also 2020 England COVID breach; 2024 red for swearing at referee.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mason_Greenwood"
+  ]
+ },
+ {
+  "espn_id": "176948",
+  "name": "Ederson",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Brazil",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Ribeirão",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Rio Ave",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Benfica",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Manchester City",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2022-23, 6 Premier League titles, Club World Cup 2023, Copa América 2019, The Best FIFA Goalkeeper 2023",
+  "causes": [],
+  "CH": 4.8,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 8.5,
+  "ST": 7.0,
+  "LE": 6.5,
+  "why": {
+   "CH": "2026 derby red, insulted referee and struck VAR monitor (3-match ban), apologised",
+   "WK": "sweeper-keeper serving the system",
+   "LO": "eight years at Man City",
+   "AB": "elite keeper of his era",
+   "ST": "revolutionary passing goalkeeper",
+   "LE": "defined the ball-playing keeper; treble winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; April 2026 second yellow vs Galatasaray then insulted referee and struck VAR monitor (equipment, not a person), banned 3 matches.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)",
+   "https://www.fanatik.com.tr/en/ederson-and-mert-hakan-yandass-sentences-announced-tff-officially-announced-2621884"
+  ]
+ },
+ {
+  "espn_id": "248676",
+  "name": "Matteo Guendouzi",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lorient",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Arsenal",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Marseille",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Lazio",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2019-20, Nations League 2020-21, World Cup runner-up 2022",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "fiery; frozen out at Arsenal over conduct; shielded Payet from pitch invaders",
+   "WK": "tireless runner",
+   "LO": "several clubs, short stays",
+   "AB": "France international midfielder",
+   "ST": "energetic, flamboyant midfielder",
+   "LE": "World Cup finalist squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: grabbed Neal Maupay by the throat after Brighton v Arsenal (June 2020); no FA action.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matteo_Guendouzi",
+   "https://www.goal.com/en-gb/news/arsenal-midfielder-guendouzi-escapes-punishment-grabbing/7pxhw2l2rbxs1pzkrs6izpk2h"
+  ]
+ },
+ {
+  "espn_id": "320982",
+  "name": "Archie Brown",
+  "club_id": "436",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lausanne-Sport",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Gent",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkish Super Cup 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "Derby academy; moves abroad",
+   "AB": "solid top-flight left-back",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Archie_Brown_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "240209",
+  "name": "Vedat Muriqi",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Kosovo",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Liria Prizren",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "Teuta Durrës",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Giresunspor",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Gençlerbirliği",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Çaykur Rizespor",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Lazio",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Mallorca",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga Team of the Season 2025-26, TFF 1. Lig 2017-18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record beyond football; no incidents",
+   "WK": "physical target man, works for the team",
+   "LO": "four years at Mallorca",
+   "AB": "effective La Liga striker",
+   "ST": "aerial, physical striker",
+   "LE": "Kosovo's leading striker"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vedat_Muriqi"
+  ]
+ },
+ {
+  "espn_id": "222670",
+  "name": "Nélson Semedo",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sintrense",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Benfica",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Barcelona",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Wolves club captain 2024-25",
+  "honours": "2 La Liga titles, 2 Primeira Liga titles, 2 Nations Leagues",
+  "causes": [],
+  "CH": 6.2,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no incidents found",
+   "WK": "hard-running full-back",
+   "LO": "five years at Wolves, made captain",
+   "AB": "Barcelona and Portugal right-back",
+   "ST": "quick attacking full-back",
+   "LE": "Nations League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; left Wolves on a free after declining a new contract.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/N%C3%A9lson_Semedo"
+  ]
+ },
+ {
+  "espn_id": "306789",
+  "name": "Kerem Aktürkoglu",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Türkiye",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Karacabey Belediyespor",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "24 Erzincanspor",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Benfica",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Galatasaray vice-captain 2023-24",
+  "honours": "2 Süper Lig titles (Galatasaray), Süper Lig Player of the Season 2021-22",
+  "causes": [
+   "Raised funds and support for 2023 earthquake victims"
+  ],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 3.5,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "earthquake relief work; one red card for dissent",
+   "WK": "energetic winger",
+   "LO": "Galatasaray vice-captain, then joined Fenerbahçe a year later",
+   "AB": "Turkey's key winger",
+   "ST": "direct, creative winger",
+   "LE": "rose from lower leagues to Turkey star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; moved Galatasaray -> Benfica (2024) -> Fenerbahçe (2025), not a direct rival move, but reflected in LO.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kerem_Akt%C3%BCrko%C4%9Flu"
+  ]
+ },
+ {
+  "espn_id": "305629",
+  "name": "Ismail Yüksek",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Türkiye",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Gölcükspor",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Adana Demirspor",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Bursaspor",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkish Cup 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "box-to-box worker",
+   "LO": "six years at Fenerbahçe",
+   "AB": "solid top-flight midfielder, Turkey caps",
+   "ST": "functional ball-winner",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C4%B0smail_Y%C3%BCksek"
+  ]
+ },
+ {
+  "espn_id": "322813",
+  "name": "Oguz Aydin",
+  "club_id": "436",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Türkiye",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bucaspor",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Alanyaspor",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkish Super Cup 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "three years each at Alanyaspor and Fenerbahçe",
+   "AB": "solid top-flight winger",
+   "ST": "pacy winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/O%C4%9Fuz_Ayd%C4%B1n"
+  ]
+ },
+ {
+  "espn_id": "211923",
+  "name": "Irfan Can Kahveci",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Türkiye",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Gençlerbirliği",
+    "from": 2012,
+    "to": 2016
+   },
+   {
+    "club": "İstanbul Başakşehir",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Süper Lig 2019-20, Turkish Cup 2022-23, Turkish Footballer of the Year 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "no standout notes either way",
+   "LO": "five years at Fenerbahçe",
+   "AB": "Turkey international playmaker",
+   "ST": "creative, long-range shooter",
+   "LE": "Turkish Footballer of the Year 2020"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci"
+  ]
+ },
+ {
+  "espn_id": "139437",
+  "name": "Romelu Lukaku",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Belgium",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Chelsea",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "West Bromwich Albion",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Everton",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Manchester United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Chelsea",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Roma",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Napoli",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2020-21 and 2024-25, Coppa Italia 2022-23, World Cup bronze 2018, Belgium record goalscorer",
+  "causes": [
+   "Outspoken against racism in Italian football; supported Black Lives Matter"
+  ],
+  "CH": 7.2,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 8.0,
+  "ST": 6.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "anti-racism voice; 2021 interview undermining Chelsea, apologised",
+   "WK": "physical focal point, not a presser",
+   "LO": "many moves; souring exits at Chelsea and Inter",
+   "AB": "prolific; Belgium's record scorer",
+   "ST": "powerful striker",
+   "LE": "Belgium's all-time top scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; 2017 Beverly Hills noise citation (reduced infraction) not coded.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romelu_Lukaku"
+  ]
+ },
+ {
+  "espn_id": "195821",
+  "name": "Marco Asensio",
+  "club_id": "436",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Mallorca",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Real Madrid",
+    "from": 2014,
+    "to": 2023
+   },
+   {
+    "club": "Espanyol",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Fenerbahçe",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 Champions Leagues and 3 La Liga titles (Real Madrid), Champions League 2024-25 (PSG), Nations League 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no incidents found",
+   "WK": "inconsistent off the ball",
+   "LO": "seven seasons at Real Madrid",
+   "AB": "Real Madrid and Spain regular",
+   "ST": "left-footed flair, spectacular goals",
+   "LE": "Champions League final goal in 2017"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Asensio"
+  ]
+ }
+]

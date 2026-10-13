@@ -1,0 +1,1900 @@
+[
+ {
+  "espn_id": "240533",
+  "name": "Josep Martínez",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Las Palmas",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Genoa",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Internazionale",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "DFB-Pokal 2022 (Leipzig); Serie A and Coppa Italia 2025-26 (Inter)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "no known conduct issues; stopped to help after a fatal road collision",
+   "WK": "steady back-up and cup keeper",
+   "LO": "several moves, two years at Inter",
+   "AB": "solid top-flight keeper",
+   "ST": "no-frills goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Oct 2025 his car hit and killed an 81-year-old man in an electric wheelchair near Como; police report said the wheelchair moved into his lane, a routine manslaughter inquiry was opened, no charges found.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josep_Martínez",
+   "https://africa.espn.com/football/story/_/id/46756396/inter-keeper-josep-martinez-involved-crash-which-kills-81-year-old"
+  ]
+ },
+ {
+  "espn_id": "204441",
+  "name": "Nicolò Barella",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Cagliari",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Internazionale",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Cagliari's youngest captain at 20; captained Italy (2024 friendly)",
+  "honours": "Euro 2020; Serie A 2021, 2024, 2026; Coppa Italia x3; Supercoppa x3; Serie A Best Midfielder x2",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 8.5,
+  "LO": 7.0,
+  "AB": 8.0,
+  "ST": 7.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "often criticised for protesting to officials; no causes listed",
+   "WK": "box-to-box engine, high work rate",
+   "LO": "Cagliari academy and captain, seven years at Inter",
+   "AB": "one of Europe's best midfielders",
+   "ST": "technical, late runs, long shots",
+   "LE": "Euro winner and key man in Inter's title sides"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolò_Barella"
+  ]
+ },
+ {
+  "espn_id": "249280",
+  "name": "Alessandro Bastoni",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atalanta",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Parma",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Internazionale",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2020; Serie A 2021, 2024, 2026; Coppa Italia x3; Supercoppa x3; Serie A Best Defender 2024, 2025",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 8.0,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "Feb 2026 theatrical fall got Kalulu sent off, mimed a card and celebrated; later apologised for his behaviour",
+   "WK": "reliable, overlapping centre-back",
+   "LO": "Inter player since 2017, regular since 2019",
+   "AB": "top-class ball-playing defender",
+   "ST": "left-footed centre-back who carries and overlaps",
+   "LE": "Euro winner; red card in the 2026 World Cup play-off final Italy lost"
+  },
+  "codes": {
+   "abuse_allegation": 1,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "abuse_allegation 1: since June 2026 under formal investigation (indagato, not charged) in a Milan child-prostitution probe over a 2020 encounter with a 17-year-old; he denies it and the girl told investigators she took no money.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Bastoni",
+   "https://en.ilsole24ore.com/art/alessandro-bastoni-under-investigation-in-milan-over-child-prostitution-AIX0fAxD",
+   "https://www.beinsports.com/en-au/football/serie-a/articles-video/bastoni-apologises-for-celebrating-kalulu-red-card-2026-02-17"
+  ]
+ },
+ {
+  "espn_id": "319167",
+  "name": "Andy Diouf",
+  "club_id": "110",
+  "gender": "M",
+  "born": 2003,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Rennes",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Basel",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Lens",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Internazionale",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A and Coppa Italia 2025-26; Olympic silver 2024; Conference League Young Player 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic midfielder / wing-back",
+   "LO": "four clubs by 22; left Basel two months after signing permanently",
+   "AB": "solid top-flight regular",
+   "ST": "athletic ball-carrier",
+   "LE": "Olympic silver"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andy_Diouf"
+  ]
+ },
+ {
+  "espn_id": "194748",
+  "name": "Federico Dimarco",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Internazionale",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Empoli",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Sion",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Parma",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Hellas Verona",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Internazionale",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024, 2026; Coppa Italia x3; Supercoppa x3; Serie A MVP 2025-26",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 8.5,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "Milan-born lifelong Inter fan; no issues known",
+   "WK": "tireless running up and down the left",
+   "LO": "Inter academy from age 6, back to become a fixture",
+   "AB": "Serie A MVP 2025-26",
+   "ST": "attacking wing-back: crosses, set pieces, long-range goals",
+   "LE": "fan-favourite in Inter's title sides"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Federico_Dimarco"
+  ]
+ },
+ {
+  "espn_id": "266660",
+  "name": "Yann Bisseck",
+  "club_id": "110",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "1. FC Köln",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Roda JC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "AGF",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Internazionale",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024, 2026; Coppa Italia 2026; Supercoppa 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "rotation centre-back",
+   "LO": "loans then AGF and Inter",
+   "AB": "Germany cap, Inter squad defender",
+   "ST": "physical centre-back",
+   "LE": "squad member in title sides"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yann_Bisseck"
+  ]
+ },
+ {
+  "espn_id": "362674",
+  "name": "Pio Esposito",
+  "club_id": "110",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Italy",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Spezia",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Internazionale",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A and Coppa Italia 2025-26; Serie B Footballer of the Year 2023-24; Best Italian Golden Boy 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "target striker",
+   "LO": "Inter academy since age 9",
+   "AB": "young striker breaking through",
+   "ST": "physical young No. 9",
+   "LE": "promising start"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Francesco_Pio_Esposito"
+  ]
+ },
+ {
+  "espn_id": "214562",
+  "name": "Manuel Akanji",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Switzerland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Winterthur",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Basel",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Manchester City",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Internazionale",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League, Premier League x2, FA Cup (City); DFB-Pokal 2021 (Dortmund); Serie A 2026; Euro 2024 Team of the Tournament",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 7.5,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "no known issues; quiet pro",
+   "WK": "versatile, plays wherever needed",
+   "LO": "four years at Dortmund, steady moves",
+   "AB": "top-level defender in City's treble side",
+   "ST": "cultured passer from the back",
+   "LE": "treble winner with City"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manuel_Akanji"
+  ]
+ },
+ {
+  "espn_id": "177782",
+  "name": "Piotr Zielinski",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Udinese",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Empoli",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Napoli",
+    "from": 2016,
+    "to": 2024
+   },
+   {
+    "club": "Internazionale",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Napoli at times; named Poland captain June 2025 (armband returned to Lewandowski)",
+  "honours": "Serie A 2023 (Napoli), 2026 (Inter); Coppa Italia 2020, 2026; Polish Footballer of the Year 2023; Premio Gentleman Fairplay 2026",
+  "causes": [
+   "Founded and funds two children's homes in Lower Silesia (Father Albert Medal, 2023)"
+  ],
+  "CH": 8.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "funds children's homes; fair-play award",
+   "WK": "versatile, tireless midfielder",
+   "LO": "eight years at Napoli",
+   "AB": "two-footed top midfielder",
+   "ST": "elegant passer and dribbler",
+   "LE": "Napoli's 2023 title side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Piotr_Zieliński"
+  ]
+ },
+ {
+  "espn_id": "217331",
+  "name": "Marcus Thuram",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sochaux",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Guingamp",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Internazionale",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024, 2026; Coppa Italia 2026; Supercoppa 2023; World Cup runner-up 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 8.0,
+  "ST": 7.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "took a knee for George Floyd in 2020; booked for diving in the 2022 World Cup final",
+   "WK": "works the channels, links play",
+   "LO": "four years at Gladbach, settled at Inter",
+   "AB": "prolific striker for Inter and France",
+   "ST": "pace and power, spectacular goals",
+   "LE": "World Cup finalist, Inter title scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: spat at Stefan Posch (Dec 2020), sent off, six-match ban and fine.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Thuram"
+  ]
+ },
+ {
+  "espn_id": "170785",
+  "name": "Hakan Çalhanoglu",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Türkiye",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Karlsruher SC",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "AC Milan",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Internazionale",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Turkey captain since March 2022",
+  "honours": "Serie A 2024, 2026; Coppa Italia x3; Supercoppa x3; Serie A Best Midfielder 2023-24; Turkish Footballer of the Year 2021; 108 caps",
+  "causes": [
+   "2025 reforestation project in Kuşadası after 2024 wildfires",
+   "Gave match shirts to fund children's hospital causes"
+  ],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 8.0,
+  "ST": 8.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "publicly backed Turkey's 2019 Syria offensive with a military salute and posted for Erdoğan's 2017 referendum; met Inter ultras against club advice (FIGC ban, 2025); FIFA ban 2017 for Trabzonspor contract breach",
+   "WK": "deep-lying playmaker, not a runner",
+   "LO": "left Hamburg on sick leave to force exit; moved Milan to Inter on a free",
+   "AB": "elite regista and set-piece taker",
+   "ST": "free kicks, long passing, long-range goals",
+   "LE": "Turkey captain, key man in two Inter title sides"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move 1: joined Inter directly from AC Milan on a free in 2021.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hakan_Çalhanoğlu",
+   "https://it.soccerway.com/news/calcio-serie-a-calhanoglu-in-questura-vedevo-gli-ultras-contro-il-volere-societario-ma-senza-pressioni/hpJ5wA6C"
+  ]
+ },
+ {
+  "espn_id": "341494",
+  "name": "Petar Sucic",
+  "club_id": "110",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Croatia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Zrinjski Mostar",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Internazionale",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A and Coppa Italia 2025-26; HNL 2024 (Dinamo); Bosnian league and cup 2023 (Zrinjski)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "record distance covered for Croatia; high work rate",
+   "LO": "Dinamo then Inter, early career",
+   "AB": "Croatia regular, Inter squad midfielder",
+   "ST": "mobile, quick midfielder",
+   "LE": "young, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Petar_Sučić"
+  ]
+ },
+ {
+  "espn_id": "271769",
+  "name": "Carlos Augusto",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Corinthians",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Monza",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Internazionale",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024, 2026; Coppa Italia 2026; Supercoppa 2023; Campeonato Paulista 2018, 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile left-sided utility player",
+   "LO": "three years at Monza, three at Inter",
+   "AB": "solid Serie A regular",
+   "ST": "good crosser, defends well",
+   "LE": "squad member in title sides"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Augusto_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "espn_id": "215378",
+  "name": "Benjamin Pavard",
+  "club_id": "110",
+  "gender": "M",
+  "born": 1996,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lille",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "VfB Stuttgart",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Internazionale",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Marseille",
+    "from": 2025,
+    "to": 2026
+   }
+  ],
+  "captaincy": "Wore France armband once (Oct 2023 friendly)",
+  "honours": "World Cup 2018; Nations League 2021; Champions League and sextuple 2020 (Bayern); Serie A 2024; Legion of Honour",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 7.5,
+  "ST": 6.0,
+  "LE": 7.0,
+  "why": {
+   "CH": "no known issues",
+   "WK": "versatile defender, plays where needed",
+   "LO": "Stuttgart, Bayern, Inter; loaned to Marseille 2025-26",
+   "AB": "World Cup and Champions League winner",
+   "ST": "solid defender; famous volley",
+   "LE": "2018 World Cup Goal of the Tournament vs Argentina"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists a 2025-26 loan to Marseille; ESPN shows him back at Inter.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_Pavard"
+  ]
+ },
+ {
+  "espn_id": "37442",
+  "name": "Christoph Lang",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Austria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sturm Graz",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "SV Ried",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "TSV Hartberg",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Rapid Wien",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "LASK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK); Austria debut goal 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, 6.0 default",
+   "LO": "several moves and loans",
+   "AB": "Austrian league regular, new Austria cap",
+   "ST": "forward",
+   "LE": "league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christoph_Lang"
+  ]
+ },
+ {
+  "espn_id": "189775",
+  "name": "Andrés Andrade",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Panama",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "San Francisco",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "LASK",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "LASK",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK); Gold Cup runner-up 2023; 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, steady",
+   "LO": "two spells and about six years at LASK",
+   "AB": "Panama international, World Cup squad",
+   "ST": "defender",
+   "LE": "Panama World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrés_Andrade_(footballer,_born_1998)"
+  ]
+ },
+ {
+  "espn_id": "193294",
+  "name": "Sascha Horvath",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Austria Wien",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Sturm Graz",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Dynamo Dresden",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "TSV Hartberg",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "LASK",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "central midfielder, steady",
+   "LO": "five years at LASK",
+   "AB": "Austrian league regular",
+   "ST": "midfielder",
+   "LE": "league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sascha_Horvath"
+  ]
+ },
+ {
+  "espn_id": "269948",
+  "name": "George Bello",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "LASK",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2018, US Open Cup 2019 (Atlanta); Gold Cup 2021; Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "full-back, works the flank",
+   "LO": "Atlanta academy, three years at LASK",
+   "AB": "Austrian league regular, 7 USA caps",
+   "ST": "attacking left-back",
+   "LE": "Gold Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Bello"
+  ]
+ },
+ {
+  "espn_id": "273480",
+  "name": "Robert Ljubicic",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Croatia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "St. Pölten",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Rapid Wien",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "AEK Athens",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "LASK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "HNL 2023 (Dinamo); Super League Greece 2026 (AEK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "holding midfielder / left-back",
+   "LO": "several moves; on loan at LASK from AEK",
+   "AB": "solid league regular",
+   "ST": "midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: ESPN lists Austria; born in Vienna, he plays for Croatia (Wikipedia). On loan from AEK Athens.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Ljubičić"
+  ]
+ },
+ {
+  "espn_id": "283026",
+  "name": "Xavier Mbuyamba",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "MVV",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Volendam",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "LASK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back",
+   "LO": "four years at Volendam, captain from 2023",
+   "AB": "league defender",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xavier_Mbuyamba"
+  ]
+ },
+ {
+  "espn_id": "286853",
+  "name": "Kasper Jørgensen",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lyngby",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "AaB",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "LASK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "right-back, works the flank",
+   "LO": "four years at Lyngby",
+   "AB": "league regular",
+   "ST": "attacking right-back with goals",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kasper_Jørgensen_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "290638",
+  "name": "Melayro Bogarde",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Suriname",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "PEC Zwolle",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "LASK",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK); U17 Euro 2019 (Netherlands)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, 6.0 default",
+   "LO": "Hoffenheim then LASK",
+   "AB": "league regular, Suriname international",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melayro_Bogarde"
+  ]
+ },
+ {
+  "espn_id": "338948",
+  "name": "Alemão",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portimonense",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "LASK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "centre-back, 6.0 default",
+   "LO": "early career",
+   "AB": "young league defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identified as João Victor Tornich (b. Nov 2002), centre-back at LASK.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alemão_(footballer,_born_November_2002)"
+  ]
+ },
+ {
+  "espn_id": "340760",
+  "name": "Moses Usor",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Slavia Prague",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "LASK",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK); Nigeria debut goal 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, 6.0 default",
+   "LO": "three-plus years at LASK",
+   "AB": "league regular, new Nigeria cap",
+   "ST": "left-footed winger on the right",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moses_Usor"
+  ]
+ },
+ {
+  "espn_id": "352661",
+  "name": "Lukas Jungwirth",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Austria",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "LASK",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper",
+   "LO": "LASK system since youth",
+   "AB": "young first-choice league keeper",
+   "ST": "goalkeeper",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_Jungwirth"
+  ]
+ },
+ {
+  "espn_id": "203868",
+  "name": "Alessandro Schöpf",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Vancouver Whitecaps",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Wolfsberger AC",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "LASK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Regionalliga Bayern 2014 (Bayern II); scored Austria's only goal at Euro 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder",
+   "LO": "five years at Schalke",
+   "AB": "Bundesliga regular at peak",
+   "ST": "creative midfielder",
+   "LE": "Austria's goal vs Iceland at Euro 2016"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Schöpf"
+  ]
+ },
+ {
+  "espn_id": "258894",
+  "name": "Florian Flecker",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Austria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kapfenberger SV",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Wolfsberger AC",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "TSV Hartberg",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Würzburger Kickers",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "TSV Hartberg",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "LASK",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "right winger",
+   "LO": "five years at LASK",
+   "AB": "Austrian league regular",
+   "ST": "winger",
+   "LE": "league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Florian_Flecker"
+  ]
+ },
+ {
+  "espn_id": "259131",
+  "name": "Sasa Kalajdzic",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Austria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Admira Wacker",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "VfB Stuttgart",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "LASK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga and Austrian Cup 2025-26 (LASK); Wolves Player of the Month Aug 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "tall striker",
+   "LO": "Stuttgart, Wolves, now LASK",
+   "AB": "Bundesliga scorer at Stuttgart, Austria international",
+   "ST": "target striker",
+   "LE": "three ACL tears slowed a strong start"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saša_Kalajdžić"
+  ]
+ },
+ {
+  "espn_id": "224704",
+  "name": "Tobias Schützenauer",
+  "club_id": "4411",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Austria",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Sturm Graz",
+    "from": 2014,
+    "to": 2023
+   },
+   {
+    "club": "SCR Altach",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Dinamo Tbilisi",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "LASK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Cup 2025-26 (LASK)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 3.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "back-up goalkeeper",
+   "LO": "nine years in Sturm Graz system",
+   "AB": "back-up keeper",
+   "ST": "goalkeeper",
+   "LE": "back-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tobias_Schützenauer"
+  ]
+ }
+]

@@ -1,0 +1,1720 @@
+[
+ {
+  "espn_id": "277747",
+  "name": "Jaelin Howell",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1999,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Racing Louisville",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Seattle Reign",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Racing Louisville captain from 2023",
+  "honours": "Two-time Hermann Trophy; NWSL Championship 2025, Challenge Cup 2026, CONCACAF W Champions Cup 2025; SheBelieves Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "holding midfielder, captained Racing young",
+   "LO": "captained Louisville, then traded twice in five months",
+   "AB": "solid NWSL starter, occasional USWNT cap",
+   "ST": "tidy, functional midfielder",
+   "LE": "college star; NWSL title 2025"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaelin_Howell"
+  ]
+ },
+ {
+  "espn_id": "255453",
+  "name": "Jess Carter",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1997,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Birmingham City",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Chelsea",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "5 WSL titles, 3 FA Cups (Chelsea); Euro 2022 and 2025, World Cup runner-up 2023; NWSL Championship 2025; Guardian Footballer of the Year 2025; MBE",
+  "causes": [
+   "Co-founder and ambassador of the all-female Judan Ali Football Academy in London",
+   "PFA Community Champion Award 2022-23",
+   "Spoke out after racist abuse at Euro 2025, leading to a conviction of the abuser"
+  ],
+  "CH": 8.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 7.5,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "community award, academy co-founder, faced down racist abuse with dignity",
+   "WK": "versatile defender who plays wherever needed",
+   "LO": "six years at Chelsea, four at Birmingham",
+   "AB": "two-time European champion and key World Cup starter",
+   "ST": "calm, reading-the-game centre-back",
+   "LE": "two Euros, a World Cup final, 2025 Guardian award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Victim, not perpetrator, of racist abuse in 2025.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jess_Carter"
+  ]
+ },
+ {
+  "espn_id": "312479",
+  "name": "Ann-Katrin Berger",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1990,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "VfL Sindelfingen",
+    "from": 2008,
+    "to": 2011
+   },
+   {
+    "club": "Turbine Potsdam",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Birmingham City",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Chelsea",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2012; 4 WSL titles, 3 FA Cups (Chelsea); NWSL Championship 2025; Olympic bronze 2024; NWSL Goalkeeper of the Year 2024; German Footballer of the Year 2024, 2025",
+  "causes": [
+   "Co-founder and ambassador of the Judan Ali Football Academy (London)",
+   "Twice returned from thyroid cancer"
+  ],
+  "CH": 7.5,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 8.0,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "described as modest, deflects credit; took full blame for a Euro semi-final error",
+   "WK": "calm presence who puts teammates in the spotlight",
+   "LO": "several moves; five years at Chelsea",
+   "AB": "among the world's best goalkeepers, top-3 FIFA GK twice",
+   "ST": "penalty-saving and shootout scoring heroics",
+   "LE": "Olympic bronze shootout and famous Euro 2025 save; cancer comeback"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ann-Katrin_Berger"
+  ]
+ },
+ {
+  "espn_id": "346600",
+  "name": "Jaedyn Shaw",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Diego Wave",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2023, NWSL Championship 2025, Challenge Cup 2024 and 2026; Olympic gold 2024; W Gold Cup 2024 (Golden Ball)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 3.5,
+  "AB": 7.0,
+  "ST": 8.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "creative forward, mixed fit at Courage",
+   "LO": "asked San Diego for a trade, left Courage after one season",
+   "AB": "Olympic gold medallist, Gold Cup Golden Ball at 19",
+   "ST": "creative No. 10/forward with flair",
+   "LE": "first Vietnamese-American USWNT player; Olympic gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Requested a trade from San Diego in 2024 (club statement); not a strike or forced move.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaedyn_Shaw"
+  ]
+ },
+ {
+  "espn_id": "243052",
+  "name": "Tierna Davidson",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Gotham FC captain (voted by teammates, 2025)",
+  "honours": "World Cup 2019, Olympic gold 2024 and bronze 2021; NWSL Championship 2025, Challenge Cup 2026",
+  "causes": [],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "openly lesbian public figure; voted captain by teammates",
+   "WK": "steady centre-back and leader",
+   "LO": "five seasons in Chicago, now Gotham captain",
+   "AB": "USWNT starter at an Olympics",
+   "ST": "composed defender",
+   "LE": "youngest player on 2019 World Cup winners; Olympic gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tierna_Davidson"
+  ]
+ },
+ {
+  "espn_id": "209383",
+  "name": "Savannah McCaskill",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sky Blue FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Chicago Red Stars",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Angel City FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "San Diego Wave",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "W-League 2019 (final MVP); NWSL Challenge Cup 2024, 2026; NWSL Second XI 2023; SheBelieves Cup 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "hard-working midfielder, moved to a deeper role when asked",
+   "LO": "six NWSL clubs, mostly by trade",
+   "AB": "solid NWSL regular, six USWNT caps",
+   "ST": "attacking midfielder, set pieces",
+   "LE": "Second XI season at Angel City"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Savannah_McCaskill"
+  ]
+ },
+ {
+  "espn_id": "226566",
+  "name": "Midge Purce",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Boston Breakers",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2023 (final MVP) and 2025; Challenge Cup 2026; CONCACAF W Champions Cup 2025; NWSL Best XI 2021; 25+ USWNT caps",
+  "causes": [
+   "Co-founder and board member of the Black Women's Players Collective",
+   "Equal-pay advocate (White House appearance, 2021)",
+   "Harvard Board of Overseers, elected with a climate-activism slate"
+  ],
+  "CH": 8.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "co-founded Black Women's Players Collective, equal-pay advocate",
+   "WK": "winger who defends from the front, plays right-back",
+   "LO": "at Gotham since 2020 through injuries",
+   "AB": "Best XI and MVP finalist 2021",
+   "ST": "strong dribbler, attacking full-back/winger",
+   "LE": "2023 NWSL Championship MVP; former Thorns supporters' player of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Midge_Purce"
+  ]
+ },
+ {
+  "espn_id": "368241",
+  "name": "Jordynn Dudley",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Gotham FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA titles 2023, 2025; NWSL Challenge Cup 2026; U-20 World Cup bronze 2024; NWSL Rookie of the Month twice",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "direct winger",
+   "LO": "first pro club, rookie season",
+   "AB": "promising rookie, top college prospect",
+   "ST": "quick winger with solo goals",
+   "LE": "rookie; college champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordynn_Dudley"
+  ]
+ },
+ {
+  "espn_id": "257483",
+  "name": "Guro Reiten",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1994,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sunndal",
+    "from": 2009,
+    "to": 2010
+   },
+   {
+    "club": "Kattem",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Trondheims-Ørn",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "LSK Kvinner",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Chelsea",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Norway U-19 at the 2013 Euro",
+  "honours": "6 WSL titles, 4 FA Cups (Chelsea); 2 Toppserien titles; NWSL Challenge Cup 2026; Norwegian Golden Ball 2022; 100+ Norway caps; Ballon d'Or nominee 2023",
+  "causes": [
+   "Came out publicly after the 2022 Oslo Pride shooting"
+  ],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 7.5,
+  "ST": 7.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "spoke publicly as a lesbian after the Oslo shooting; no issues",
+   "WK": "winger who converted to wing-back when needed",
+   "LO": "seven seasons and 207 matches at Chelsea",
+   "AB": "Norway's best player 2022, Ballon d'Or nominee",
+   "ST": "creative winger, goals and assists",
+   "LE": "six straight WSL titles; 100+ caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guro_Reiten"
+  ]
+ },
+ {
+  "espn_id": "211034",
+  "name": "Emily Sonnett",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Thorns",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Orlando Pride",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "OL Reign",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2019, Olympic gold 2024 and bronze 2021; NWSL Championship 2017, 2021, 2025 (three clubs); 100+ USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "versatile defender/midfielder, rarely subbed off",
+   "LO": "traded often; four seasons in Portland",
+   "AB": "100-cap USWNT utility player",
+   "ST": "no-frills defender",
+   "LE": "World Cup and Olympic gold; first to win NWSL titles with three clubs"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emily_Sonnett"
+  ]
+ },
+ {
+  "espn_id": "328199",
+  "name": "Bruninha",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Internacional",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Santos",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Gotham FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2023, 2025; Challenge Cup 2026; CONCACAF W Champions Cup 2025; Bola de Prata 2021; Brazil World Cup squad 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "right-back strong both ways",
+   "LO": "fifth season at Gotham, re-signed to 2027",
+   "AB": "Brazil international, two-time NWSL champion",
+   "ST": "attacking full-back; stepover assist in 2025 final",
+   "LE": "assist for the 2025 title-winning goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruninha"
+  ]
+ },
+ {
+  "espn_id": "245160",
+  "name": "Mandy Freeman",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gotham FC",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "Gotham FC captain (captained 2025 double)",
+  "honours": "NWSL Championship 2023, 2025; Challenge Cup 2026; CONCACAF W Champions Cup 2025; NCAA title 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 8.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "club captain, steady right-back",
+   "LO": "one-club player since 2017 draft, through an Achilles tear",
+   "AB": "solid NWSL regular",
+   "ST": "no-frills right-back",
+   "LE": "captained Gotham to two trophies in 2025"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mandy_Freeman"
+  ]
+ },
+ {
+  "espn_id": "349338",
+  "name": "Sofia Cook",
+  "club_id": "15364",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Gotham FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2025 (squad), Challenge Cup 2026; NCAA title 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "squad midfielder",
+   "LO": "first pro club, extended to 2028",
+   "AB": "young squad player",
+   "ST": "midfielder, limited minutes",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Cook"
+  ]
+ },
+ {
+  "espn_id": "307781",
+  "name": "Maggie Graham",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "First-team All-American 2024; NWSL Rookie of the Month March 2025; Dash Young Player of the Year 2025",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; college red card for an obscene gesture (2022)",
+   "WK": "box-to-box midfielder",
+   "LO": "first pro club, second season",
+   "AB": "promising NWSL starter",
+   "ST": "goal-scoring midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2022 college straight red for an obscene gesture, reflected in CH only.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggie_Graham"
+  ]
+ },
+ {
+  "espn_id": "348490",
+  "name": "Kat Rader",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "First-team All-American 2025; NWSL Rookie of the Month May 2026; Dash rookie scoring record",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "attacking forward",
+   "LO": "rookie season at first pro club",
+   "AB": "productive rookie forward",
+   "ST": "goals and assists from wide",
+   "LE": "club rookie scoring record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kat_Rader"
+  ]
+ },
+ {
+  "espn_id": "350449",
+  "name": "Leah Klenke",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "First-team All-American 2025; U-20 World Cup bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "played every back-line position as a rookie",
+   "LO": "hometown club, rookie season",
+   "AB": "rookie starter",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leah_Klenke"
+  ]
+ },
+ {
+  "espn_id": "212207",
+  "name": "Jane Campbell",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1995,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2020; NWSL Goalkeeper of the Year and Best XI 2023; Olympic bronze 2021 (squad); W Gold Cup 2024",
+  "causes": [
+   "Volunteer coach with Rice University women's soccer (2025)"
+  ],
+  "CH": 6.5,
+  "WK": 6.5,
+  "LO": 9.0,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; volunteers as a college coach",
+   "WK": "reliable keeper, every minute in 2023",
+   "LO": "one-club player at Houston since 2017, contracted to 2027",
+   "AB": "NWSL Goalkeeper of the Year, USWNT keeper",
+   "ST": "shot-stopper; NWSL saves record match",
+   "LE": "Houston's record keeper; Challenge Cup shootout saves"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jane_Campbell_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "307766",
+  "name": "Avery Patterson",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained North Carolina in college (2023)",
+  "honours": "NWSL Best XI 2025; Dash MVP 2025; SheBelieves Cup 2026; USWNT goal on debut year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "played winger to wing-back as needed; most minutes as a rookie",
+   "LO": "re-signed early with first club",
+   "AB": "NWSL Best XI right-back, USWNT call-ups",
+   "ST": "attacking right-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avery_Patterson"
+  ]
+ },
+ {
+  "espn_id": "211037",
+  "name": "Danielle Colaprico",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1993,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "San Diego Wave",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Rookie of the Year 2015; NWSL Second XI 2015-17; NWSL Shield 2023; Challenge Cup 2024; W-League 2019; 2 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "holding midfielder, started every match in 2025",
+   "LO": "eight seasons at Chicago",
+   "AB": "long-time solid NWSL midfielder",
+   "ST": "tidy passer",
+   "LE": "Rookie of the Year; long NWSL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danielle_Colaprico"
+  ]
+ },
+ {
+  "espn_id": "211496",
+  "name": "Paige Nielsen",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Reign",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Western Sydney Wanderers",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Suwon UDC",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Angel City FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained North Carolina in college",
+  "honours": "NCAA title 2012 (UNC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "dependable defender",
+   "LO": "journeyman across four countries",
+   "AB": "NWSL regular",
+   "ST": "no-frills centre-back",
+   "LE": "early Angel City starter"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paige_Nielsen"
+  ]
+ },
+ {
+  "espn_id": "391215",
+  "name": "Linda Ullmark",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2006,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2024; NWSL Rookie of the Month July 2026; CONCACAF U-20 Best XI 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder",
+   "LO": "rookie season at first pro club",
+   "AB": "promising rookie",
+   "ST": "creative No. 10",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Linda_Ullmark"
+  ]
+ },
+ {
+  "espn_id": "348793",
+  "name": "Kate Faasse",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2004,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Hermann Trophy 2024; NCAA title 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "rookie season at first pro club",
+   "AB": "rookie forward, college player of the year",
+   "ST": "goalscorer with long-range strikes",
+   "LE": "college Hermann Trophy winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kate_Faasse"
+  ]
+ },
+ {
+  "espn_id": "329760",
+  "name": "Kiki Van Zanten",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Jamaica",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF W Championship third place 2022 (Jamaica, scored the winner); NWSL Team of the Month April 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder/forward",
+   "LO": "with Houston since 2024 draft, re-signed while injured",
+   "AB": "NWSL regular, Jamaica international",
+   "ST": "attacker with a knack for goals",
+   "LE": "winner that gave Jamaica third at 2022 W Championship"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiki_Van_Zanten"
+  ]
+ },
+ {
+  "espn_id": "255475",
+  "name": "Lisa Boattin",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Venezia",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Pordenone",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Brescia",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Juventus",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Italy U-17",
+  "honours": "6 Serie A titles and 4 Coppa Italia (Juventus), Serie A 2016 (Brescia); Serie A MVP 2021-22; World Cups 2019, 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "attacking left-back, started every match of a title season",
+   "LO": "eight years at Juventus, fans' player of the season",
+   "AB": "Serie A MVP and best defender 2022",
+   "ST": "attacking left-back, scored direct from a corner",
+   "LE": "long Juventus title run; key Italy qualifier goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lisa_Boattin"
+  ]
+ },
+ {
+  "espn_id": "252344",
+  "name": "Sarah Puntigam",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1992,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "DFC LUV Graz",
+    "from": 2007,
+    "to": 2009
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "SC Kriens",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Montpellier",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austria's most-capped player (100+ caps); Euro 2017 semi-final; DFB-Pokal 2012; Cyprus Cup 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "holding midfielder, reliable",
+   "LO": "several clubs, four years each at Freiburg and Montpellier",
+   "AB": "long-time Austria regular",
+   "ST": "steady midfielder",
+   "LE": "Austria's record cap holder, Euro 2017 semi-final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarah_Puntigam"
+  ]
+ },
+ {
+  "espn_id": "242144",
+  "name": "Malia Berkely",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bordeaux",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "North Carolina Courage",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2018; NWSL Challenge Cup 2022, 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable centre-back",
+   "LO": "four seasons at the Courage",
+   "AB": "solid NWSL starter",
+   "ST": "ball-playing defender, led league in pass accuracy",
+   "LE": "two Challenge Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malia_Berkely"
+  ]
+ },
+ {
+  "espn_id": "219771",
+  "name": "Allysha Chapman",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1989,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dash",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Boston Breakers",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2021 and bronze 2016 (Canada); World Cups 2015, 2019; NWSL Challenge Cup 2020; 100 league games for Houston",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "no causes known; swore at Australia's coach on a live mic at the 2023 World Cup",
+   "WK": "club calls her 'the definition of grit and determination'",
+   "LO": "Houston since 2018, 100+ league games",
+   "AB": "Canada's left-back for a decade",
+   "ST": "no-frills full-back",
+   "LE": "Olympic gold with Canada"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2023 World Cup verbal outburst at an opposing coach, reflected in CH only.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allysha_Chapman"
+  ]
+ },
+ {
+  "espn_id": "349219",
+  "name": "Clarissa Laris­ey",
+  "club_id": "17346",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Valur",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "BK Häcken",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Houston Dash",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Úrvalsdeild 2021 (Valur); Scottish Cup and League Cup 2022 (Celtic); Canada international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "five clubs in five years",
+   "AB": "Canada international, NWSL squad forward",
+   "ST": "very quick forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clarissa_Larisey"
+  ]
+ }
+]

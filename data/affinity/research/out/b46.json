@@ -1,0 +1,1734 @@
+[
+ {
+  "espn_id": "188412",
+  "name": "Stanislav Lobotka",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Slovakia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AS Trenčín",
+    "from": 2011,
+    "to": 2015
+   },
+   {
+    "club": "Nordsjælland",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Celta Vigo",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Napoli",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2022-23, 2024-25; Coppa Italia 2019-20; Supercoppa 2025-26; Slovak league and cup 2014-15; Slovak Footballer of the Year 2023, 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 7.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Tidy deep-lying metronome who keeps the side ticking",
+   "LO": "Six seasons at Napoli through two title wins",
+   "AB": "Serie A title-winning regista, Team of the Year 2022-23",
+   "ST": "Press-resistant, neat passer on the ball",
+   "LE": "Key piece of two Napoli titles, Slovakia's player of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanislav_Lobotka"
+  ]
+ },
+ {
+  "espn_id": "205576",
+  "name": "Amir Rrahmani",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Kosovo",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Drenica",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "Partizani",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "RNK Split",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Hellas Verona",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Napoli",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "Kosovo national team captain until retiring from internationals in September 2026",
+  "honours": "Serie A 2022-23, 2024-25; Supercoppa 2025-26; Croatian league 2017-18, 2018-19; Serie A Team of the Year 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "No incidents; left Kosovo team in 2026 amid a dispute with its federation",
+   "WK": "Reliable organiser at the back",
+   "LO": "Six seasons at Napoli, Kosovo captain",
+   "AB": "Serie A Team of the Year centre-back",
+   "ST": "Steady, aerial, high passing volume rather than flair",
+   "LE": "Two Scudetti; a leading figure for Kosovo"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2026 legal dispute is his complaint against people linked to the Kosovo federation.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amir_Rrahmani"
+  ]
+ },
+ {
+  "espn_id": "297360",
+  "name": "Rafa Marín",
+  "club_id": "114",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Madrid",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Alavés (loan)",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Napoli",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Villarreal (loan)",
+    "from": 2025,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024-25 (squad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Young, moved on and loaned out so far",
+   "AB": "Regular top-flight centre-back on loan in La Liga",
+   "ST": "Centre-back, no-frills profile",
+   "LE": "Early career, squad title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafa_Mar%C3%ADn"
+  ]
+ },
+ {
+  "espn_id": "309273",
+  "name": "Rasmus Højlund",
+  "club_id": "114",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Denmark",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Copenhagen",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Sturm Graz",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Atalanta",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Manchester United",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Napoli",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2021-22; FA Cup 2023-24; Supercoppa 2025-26; Danish Talent of the Year 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Hard-running striker who fights defenders",
+   "LO": "Five senior clubs by 23",
+   "AB": "Premier League and Serie A starter, Denmark striker",
+   "ST": "Direct, physical runner more than creator",
+   "LE": "FA Cup winner, early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rasmus_H%C3%B8jlund"
+  ]
+ },
+ {
+  "espn_id": "188306",
+  "name": "Matteo Politano",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Italy",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Pescara",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Sassuolo",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Napoli",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2022-23, 2024-25; Coppa Italia 2019-20; Supercoppa 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Tireless two-way winger valued by Conte",
+   "LO": "Six seasons at Napoli after several moves",
+   "AB": "Long-time Serie A starter and Italy international",
+   "ST": "Pace, dribbling and long-range shots",
+   "LE": "Two Scudetti with Napoli"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matteo_Politano"
+  ]
+ },
+ {
+  "espn_id": "209746",
+  "name": "Alex Meret",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Italy",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Udinese",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "SPAL (loan)",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Napoli",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2020 (squad); Serie A 2022-23, 2024-25; Coppa Italia 2019-20; Serie B 2016-17",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Quiet, consistent goalkeeper",
+   "LO": "Eight seasons at Napoli",
+   "AB": "Among Serie A's better shot-stoppers",
+   "ST": "Goalkeeper, reflex saves",
+   "LE": "Euro winner squad and two Scudetti"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Meret"
+  ]
+ },
+ {
+  "espn_id": "148974",
+  "name": "Leonardo Spinazzola",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Juventus",
+    "from": 2012,
+    "to": 2019
+   },
+   {
+    "club": "Atalanta (loan)",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Roma",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Napoli",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2020 (Team of the Tournament); Serie A 2018-19, 2024-25; Europa Conference League 2021-22",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 7.0,
+  "ST": 8.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Hard-running wing-back",
+   "LO": "Five years at Roma after many loans",
+   "AB": "Euro 2020 Team of the Tournament at his peak",
+   "ST": "Attacking wing-back, dribbling and crosses",
+   "LE": "Euro 2020 star before his famous Achilles injury"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonardo_Spinazzola"
+  ]
+ },
+ {
+  "espn_id": "234881",
+  "name": "Mathías Olivera",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Uruguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Nacional",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Getafe",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Napoli",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2022-23, 2024-25; Supercoppa 2025-26; Copa América third place 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Solid, dependable full-back",
+   "LO": "Five years at Getafe, four at Napoli",
+   "AB": "Two-time Scudetto regular, Uruguay international",
+   "ST": "Steady rather than flashy full-back",
+   "LE": "Two titles, two World Cup squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera"
+  ]
+ },
+ {
+  "espn_id": "255344",
+  "name": "Noa Lang",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "FC Twente (loan)",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "PSV",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Napoli",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Galatasaray (loan)",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2018-19, 2023-24, 2024-25; Belgian Pro League 2020-21, 2021-22; Süper Lig 2025-26; Supercoppa 2025-26",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 5.5,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Joined an antisemitic fan chant in 2021 and did not apologise",
+   "WK": "Individualist winger, end product varies",
+   "LO": "Five clubs plus a loan by 27",
+   "AB": "Title-winning winger in three leagues, Netherlands international",
+   "ST": "Skilful, tricky dribbler",
+   "LE": "Several domestic titles, no defining moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 1,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "racist_abuse 1: in 2021 at Club Brugge he joined an antisemitic supporters' chant about Anderlecht; Belgian federation prosecutor required a visit to the Kazerne Dossin memorial centre, no ban.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noa_Lang"
+  ]
+ },
+ {
+  "espn_id": "274217",
+  "name": "Billy Gilmour",
+  "club_id": "114",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Norwich City (loan)",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Napoli",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2024-25; Champions League 2020-21 (unused in final)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Composed, unselfish passer in midfield",
+   "LO": "Third main club by 23",
+   "AB": "Serie A title regular and Scotland's key midfielder",
+   "ST": "Neat, press-resistant passing game",
+   "LE": "Scotland regular, Serie A title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Billy_Gilmour"
+  ]
+ },
+ {
+  "espn_id": "215721",
+  "name": "Frank Anguissa",
+  "club_id": "114",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Cameroon",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Marseille",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Fulham",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Villarreal (loan)",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Napoli",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie A 2022-23, 2024-25; CAF Team of the Year 2023; Europa League runner-up 2017-18",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 6.5,
+  "AB": 7.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Box-to-box engine who wins duels for the team",
+   "LO": "Five seasons at Napoli",
+   "AB": "Two-time Scudetto mainstay, CAF Team of the Year",
+   "ST": "Powerful ball-carrier, functional more than flashy",
+   "LE": "Two titles, Cameroon regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andr%C3%A9-Frank_Zambo_Anguissa"
+  ]
+ },
+ {
+  "espn_id": "319697",
+  "name": "Alisson Santos",
+  "club_id": "114",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Vitória",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Figueirense (loan)",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "União de Leiria (loan)",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Napoli",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Several loans and moves so far",
+   "AB": "Breaking through as a top-flight winger",
+   "ST": "Winger, attacking role",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alisson_Santos"
+  ]
+ },
+ {
+  "espn_id": "282564",
+  "name": "Lorenzo Lucca",
+  "club_id": "114",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Italy",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Vicenza",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Torino",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Palermo",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Pisa",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Ajax (loan)",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Udinese",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Napoli",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Nottingham Forest (loan)",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supercoppa 2025-26",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 5.0,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Took a penalty off his captain against teammates' wishes in 2025",
+   "WK": "That penalty grab got him substituted",
+   "LO": "Many clubs and loans",
+   "AB": "Serie A striker, a few Italy caps",
+   "ST": "Tall target striker",
+   "LE": "Few honours so far"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists a 2026 loan to Nottingham Forest; ESPN still lists him at Napoli.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lorenzo_Lucca"
+  ]
+ },
+ {
+  "espn_id": "240965",
+  "name": "Guus Til",
+  "club_id": "148",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AZ",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Spartak Moscow",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "SC Freiburg (loan)",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Feyenoord (loan)",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "PSV",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2023-24, 2024-25, 2025-26; KNVB Cup 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Decent pro, no causes or issues on record",
+   "WK": "Goal-getting midfielder who works both ways",
+   "LO": "Four seasons at PSV after several moves",
+   "AB": "Three-time Eredivisie champion, Netherlands squad",
+   "ST": "Attacking midfielder with late runs",
+   "LE": "Three league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guus_Til"
+  ]
+ },
+ {
+  "espn_id": "245918",
+  "name": "Armando Obispo",
+  "club_id": "148",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Curaçao",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "PSV",
+    "from": 2018,
+    "to": null
+   },
+   {
+    "club": "Vitesse (loan)",
+    "from": 2019,
+    "to": 2020
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2017-18, 2023-24, 2024-25, 2025-26; KNVB Cup 2021-22, 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "Steady defender",
+   "LO": "PSV academy graduate, at the club his whole career",
+   "AB": "Regular Eredivisie centre-back, Curaçao international",
+   "ST": "Centre-back, no-frills",
+   "LE": "Curaçao's 2026 World Cup squad, PSV titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armando_Obispo"
+  ]
+ },
+ {
+  "espn_id": "277313",
+  "name": "Matej Kovár",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Czechia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Swindon Town (loan)",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Sparta Prague (loan)",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "PSV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga and DFB-Pokal 2023-24; Czech league 2022-23; Eredivisie 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Several clubs and loans so far",
+   "AB": "Czech international keeper, Eredivisie starter",
+   "ST": "Goalkeeper",
+   "LE": "Bundesliga and DFB-Pokal winner with Leverkusen"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mat%C4%9Bj_Kov%C3%A1%C5%99"
+  ]
+ },
+ {
+  "espn_id": "340252",
+  "name": "Ruben Van Bommel",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "MVV Maastricht",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "AZ",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "PSV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2025-26; Eerste Divisie Talent of the Season 2022-23",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 7.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Booked for diving as a teenager at MVV",
+   "WK": "Direct winger, no clear evidence on work rate",
+   "LO": "Third club by 21",
+   "AB": "Eredivisie regular winger",
+   "ST": "Quick, skilful runs at defenders",
+   "LE": "Early career, one league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ruben_van_Bommel"
+  ]
+ },
+ {
+  "espn_id": "259136",
+  "name": "Mauro Júnior",
+  "club_id": "148",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Desportivo Brasil",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "PSV",
+    "from": 2017,
+    "to": null
+   },
+   {
+    "club": "Heracles Almelo (loan)",
+    "from": 2019,
+    "to": 2020
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2023-24, 2024-25, 2025-26; KNVB Cup 2021-22",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 8.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "Versatile full-back/winger used across the left",
+   "LO": "Nine years at PSV",
+   "AB": "Long-time Eredivisie regular",
+   "ST": "Attacking full-back who can play winger",
+   "LE": "Three PSV league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mauro_J%C3%BAnior"
+  ]
+ },
+ {
+  "espn_id": "103485",
+  "name": "Ivan Perisic",
+  "club_id": "148",
+  "gender": "M",
+  "born": 1989,
+  "nation": "Croatia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Club Brugge",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "Bayern Munich (loan)",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Hajduk Split (loan)",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "PSV",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Occasional Croatia captain (2019, 2020)",
+  "honours": "Champions League 2019-20; Bundesliga 2011-12; Serie A 2020-21; DFB-Pokal 2015, 2020; Coppa Italia 2021-22; World Cup runner-up 2018, third 2022; Belgian Footballer of the Year 2011",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 8.5,
+  "LO": 5.0,
+  "AB": 8.0,
+  "ST": 7.5,
+  "LE": 7.0,
+  "why": {
+   "CH": "Public spat with Klopp in 2012; 2017 ban for confronting a referee",
+   "WK": "Two-footed winger famed for tracking back",
+   "LO": "Seven years at Inter, otherwise many clubs",
+   "AB": "Elite winger/wing-back at his peak",
+   "ST": "Two-footed, direct, goals in big games",
+   "LE": "Scored in 2018 World Cup semi and final; Croatia's top World Cup scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2017 suspension was for confronting a referee (dissent), not violent conduct.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87"
+  ]
+ },
+ {
+  "espn_id": "341715",
+  "name": "Kodai Sano",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fagiano Okayama",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "NEC Nijmegen",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "PSV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "Midfielder, no clear evidence either way",
+   "LO": "Three seasons at NEC before PSV",
+   "AB": "Eredivisie regular, a few Japan caps",
+   "ST": "Midfielder, style not documented",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kodai_Sano",
+   "https://en.wikipedia.org/wiki/Kodai_Sano_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "304478",
+  "name": "Ryan Flamingo",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sassuolo",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Vitesse (loan)",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Utrecht (loan)",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "PSV",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2024-25, 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "Versatile defender, no clear evidence either way",
+   "LO": "Third season at PSV after loans",
+   "AB": "Eredivisie title-winning centre-back",
+   "ST": "Centre-back, no-frills",
+   "LE": "Early career, two league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Flamingo"
+  ]
+ },
+ {
+  "espn_id": "333399",
+  "name": "Paul Wanner",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "SV Elversberg (loan)",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "1. FC Heidenheim (loan)",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "PSV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2022-23 (squad); Eredivisie 2025-26",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Turned down a Germany call-up, saying he wanted to earn it on merit",
+   "WK": "No clear evidence either way",
+   "LO": "Young, moved on from Bayern",
+   "AB": "Developing Eredivisie No. 10, Austria international",
+   "ST": "Creative attacking midfielder",
+   "LE": "Early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Switched from Germany youth teams to Austria (approved March 2026).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Wanner"
+  ]
+ },
+ {
+  "espn_id": "386885",
+  "name": "Noah Fernandez",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2008,
+  "nation": "Belgium",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "PSV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Academy graduate, first club",
+   "AB": "Teenager breaking into PSV's first team",
+   "ST": "Midfielder, style not documented",
+   "LE": "Just starting out"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Fernandez"
+  ]
+ },
+ {
+  "espn_id": "287279",
+  "name": "Sven Mijnans",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sparta Rotterdam",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "AZ",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "PSV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "KNVB Cup 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Three-year spells at Sparta and AZ",
+   "AB": "Goal-scoring Eredivisie midfielder",
+   "ST": "Attacking midfielder who gets goals",
+   "LE": "One domestic cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sven_Mijnans"
+  ]
+ },
+ {
+  "espn_id": "264828",
+  "name": "Lutsharel Geertruida",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Feyenoord",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Sunderland (loan)",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "PSV (loan)",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2022-23; KNVB Cup 2017-18, 2023-24; Euro 2024 bronze",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "Versatile defender who fills several roles",
+   "LO": "Seven years at boyhood club Feyenoord, then loans",
+   "AB": "Netherlands international, Feyenoord title winner",
+   "ST": "Right-back/centre-back, functional",
+   "LE": "Feyenoord title, Euro 2024 squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Joined PSV, Feyenoord's rival, in 2026 but on loan from RB Leipzig, not directly from Feyenoord.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lutsharel_Geertruida"
+  ]
+ },
+ {
+  "espn_id": "325410",
+  "name": "Esmir Bajraktarevic",
+  "club_id": "148",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Bosnia and Herzegovina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "PSV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2024-25, 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "Little public record; nothing known against him",
+   "WK": "No clear evidence either way",
+   "LO": "Two clubs so far",
+   "AB": "Squad winger at PSV, Bosnia international",
+   "ST": "Winger, attacking role",
+   "LE": "Played at the 2026 World Cup for Bosnia"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. US-born; one senior US cap in a friendly, then switched to Bosnia and Herzegovina in 2024.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Esmir_Bajraktarevi%C4%87"
+  ]
+ }
+]

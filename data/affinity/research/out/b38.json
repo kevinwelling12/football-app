@@ -536,5 +536,1244 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Nuria_Rábano"
   ]
+ },
+ {
+  "espn_id": "226080",
+  "name": "Kaleigh Riehl",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sky Blue FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Paris FC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "San Diego Wave",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Shield 2023 (San Diego); NCAA title 2015 (Penn State); senior USWNT camps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "centre-back",
+   "LO": "several clubs, at Utah since 2024",
+   "AB": "NWSL centre-back",
+   "ST": "no-frills defender",
+   "LE": "NWSL Shield squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaleigh_Riehl"
+  ]
+ },
+ {
+  "espn_id": "303941",
+  "name": "Mandy McGlynn",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Piteå IF",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2023 (Gotham); SheBelieves Cup 2026; 6 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "starting goalkeeper",
+   "LO": "Utah No. 1 since 2024",
+   "AB": "NWSL starter, USWNT caps since 2024",
+   "ST": "goalkeeper",
+   "LE": "2023 NWSL champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mandy_McGlynn"
+  ]
+ },
+ {
+  "espn_id": "359225",
+  "name": "Miyabi Moriya",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1996,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "INAC Kobe Leonessa",
+    "from": 2015,
+    "to": 2025
+   },
+   {
+    "club": "Angel City FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "WE League 2021-22, 2 Empress's Cups (INAC Kobe); Asian Cup 2026, SheBelieves Cup 2025; WE League Best XI; 29 Japan caps, 2023 WC, 2024 Olympics",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "attacking right-back",
+   "LO": "ten years at INAC Kobe",
+   "AB": "Japan's World Cup right-back",
+   "ST": "overlapping full-back",
+   "LE": "Asian Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miyabi_Moriya"
+  ]
+ },
+ {
+  "espn_id": "242259",
+  "name": "Tatumn Milazzo",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chicago Red Stars",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Best XI second team 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defender",
+   "LO": "four years at Chicago",
+   "AB": "NWSL Best XI 2022",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tatumn_Milazzo"
+  ]
+ },
+ {
+  "espn_id": "227520",
+  "name": "Paige Cronin",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1996,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "NJ/NY Gotham FC",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Racing Louisville",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Utah Royals captain since 2024",
+  "honours": "USWNT call-up 2019; All-Big East",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "captain; little public record otherwise",
+   "WK": "captain, work-rate forward",
+   "LO": "captain of the relaunched Royals",
+   "AB": "NWSL forward",
+   "ST": "attacking role",
+   "LE": "first captain of Utah's relaunch"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paige_Cronin"
+  ]
+ },
+ {
+  "espn_id": "261809",
+  "name": "Madison Hammond",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "OL Reign",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Angel City FC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Wake Forest captain (college)",
+  "honours": "First Native American player in the NWSL (2020)",
+  "causes": [
+   "Advocate for Native American and Black communities; Nike N7 Fund",
+   "Black Women's Players Collective; Athlete Ally (LGBTQ+ inclusion)",
+   "Equal pay and access in women's and girls' soccer"
+  ],
+  "CH": 8.5,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "first Native American in NWSL, active advocate",
+   "WK": "versatile, plays any backline role",
+   "LO": "four years at Angel City",
+   "AB": "NWSL squad regular",
+   "ST": "defensive utility player",
+   "LE": "trailblazer for Native players"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Madison_Hammond"
+  ]
+ },
+ {
+  "espn_id": "280975",
+  "name": "Alexa Spaanstra",
+  "club_id": "19141",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kansas City Current",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Portland Thorns",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Utah Royals",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL x Liga MX Summer Cup 2024 (KC); CONCACAF U-17 and U-20 titles",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger turned right-back",
+   "LO": "three clubs in four years",
+   "AB": "NWSL squad player",
+   "ST": "wide attacker",
+   "LE": "early-career player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexa_Spaanstra"
+  ]
+ },
+ {
+  "espn_id": "263690",
+  "name": "Tara Rudd",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Championship 2021, Challenge Cup 2025; NWSL Defender of the Year 2025, Best XI 2024-25; SheBelieves Cup 2026; 12 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "forward converted to centre-back",
+   "LO": "one club since 2021 draft",
+   "AB": "NWSL Defender of the Year 2025",
+   "ST": "ball-playing centre-back",
+   "LE": "NWSL champion, top defender"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tara_Rudd"
+  ]
+ },
+ {
+  "espn_id": "293329",
+  "name": "Sandy MacIver",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1998,
+  "nation": "Scotland",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Everton",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Manchester City",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2025; U-20 World Cup Golden Glove 2018 (England); Arnold Clark Cup 2023; 1 England cap, then Scotland (switched 2023)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "starting goalkeeper",
+   "LO": "Everton, then mostly a back-up at City",
+   "AB": "Spirit starter, Scotland No. 1 contender",
+   "ST": "goalkeeper",
+   "LE": "U-20 Golden Glove"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandy_MacIver"
+  ]
+ },
+ {
+  "espn_id": "292603",
+  "name": "Hal Hershfelt",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2025; NWSL Best XI second team 2024; 2024 Olympic alternate; 5 USWNT caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "box-to-box defensive midfielder",
+   "LO": "one pro club since 2024",
+   "AB": "Best XI as a rookie, USWNT caps",
+   "ST": "ball-winner",
+   "LE": "Olympic alternate"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hal_Hershfelt"
+  ]
+ },
+ {
+  "espn_id": "317685",
+  "name": "Sofia Cantore",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1999,
+  "nation": "Italy",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Fiammamonza",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Juventus",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 Serie A, 3 Coppa Italia, Supercoppa (Juventus); AIC Serie A Player of the Year 2024-25; 49 Italy caps, Euro 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "attacking forward",
+   "LO": "eight years at Juventus (with loans)",
+   "AB": "Serie A player of the year 2024-25",
+   "ST": "skilful forward, Goal of the Week winner",
+   "LE": "Juventus title winner, Italy regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Cantore"
+  ]
+ },
+ {
+  "espn_id": "311198",
+  "name": "Esme Morgan",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2000,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Manchester City (first in 2022)",
+  "honours": "Euro 2025 winner, Finalissima 2023, 2023 World Cup runner-up (England); FA Cup 2020, League Cup 2022 (City); NWSL Challenge Cup 2025; 26 England caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 7.0,
+  "ST": 5.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "composed centre-back",
+   "LO": "seven years at City from the academy",
+   "AB": "England squad, European champion",
+   "ST": "ball-playing defender",
+   "LE": "Euro 2025 winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Esme_Morgan"
+  ]
+ },
+ {
+  "espn_id": "235713",
+  "name": "Gabrielle Carle",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1998,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Kristianstads DFF",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Canada U-20 captain (2018)",
+  "honours": "Olympic gold 2021 (Canada); NWSL Challenge Cup 2025; 2 NCAA titles (Florida State); 64 Canada caps, 2019 and 2023 WC",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "hard-working full-back",
+   "LO": "at Spirit since 2023, extended to 2029",
+   "AB": "Olympic champion, 64 caps",
+   "ST": "full-back",
+   "LE": "Tokyo Olympic gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabrielle_Carle"
+  ]
+ },
+ {
+  "espn_id": "347222",
+  "name": "Rosemonde Kouassi",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2001,
+  "nation": "Ivory Coast",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Hapoel Ra'anana",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Africa Sports",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Fleury",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NWSL Challenge Cup 2025; D1 Arkema Best Young Player 2021-22, Team of the Season twice; W Champions Cup top scorer 2025-26; Ivorian title 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record otherwise; red card coded separately",
+   "WK": "forward",
+   "LO": "Spirit since 2024",
+   "AB": "D1 team of the season, Spirit forward",
+   "ST": "pacy, direct forward",
+   "LE": "continental top scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off Oct 2024 for striking Ludmila (fist to the back) after Ludmila pulled her hair; 2-match ban.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosemonde_Kouassi",
+   "https://www.si.com/soccer/ludmila-rosemonde-kouassi-serve-suspensions-in-nwsl-playoffs"
+  ]
+ },
+ {
+  "espn_id": "219866",
+  "name": "Leicy Santos",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1996,
+  "nation": "Colombia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Santa Fe",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Colombia captain",
+  "honours": "Colombian league 2017 (Santa Fe); Supercopa and Copa de la Reina (Atlético); NWSL Challenge Cup 2025; Pan American gold 2019; CONMEBOL Nations League 2025-26; 58+ Colombia caps",
+  "causes": [
+   "Players' spokesperson in 2019 talks that saved Colombia's women's league after abuse complaints",
+   "Common Goal member since 2021 (pledges part of salary)"
+  ],
+  "CH": 8.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 8.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "spoke for players to save Colombia's league; Common Goal",
+   "WK": "creative No. 10 who works",
+   "LO": "five years at Atlético, Spirit since 2024",
+   "AB": "Colombia's star playmaker",
+   "ST": "classic No. 10 creator",
+   "LE": "Colombia captain, league-saving advocacy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leicy_Santos"
+  ]
+ },
+ {
+  "espn_id": "318592",
+  "name": "Kate Wiesner",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Penn State co-captain (college)",
+  "honours": "NWSL Challenge Cup 2025; 3 USWNT caps (debut 2025)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "fought back from two ACL injuries",
+   "LO": "one pro club since 2024",
+   "AB": "Spirit starter, USWNT debut 2025",
+   "ST": "attacking left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kate_Wiesner"
+  ]
+ },
+ {
+  "espn_id": "317694",
+  "name": "Lucia Di Guglielmo",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1997,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Castelfranco",
+    "from": 2012,
+    "to": 2016
+   },
+   {
+    "club": "Empoli",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Roma",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Empoli",
+  "honours": "Serie A 2022-23 and 2023-24 (Roma); 33 Italy caps, Euro 2022, 2023 WC, Euro 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "two-sided full-back",
+   "LO": "five years at Empoli as captain, four at Roma",
+   "AB": "Italy regular, Serie A champion",
+   "ST": "overlapping full-back",
+   "LE": "two Roma titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucia_Di_Guglielmo"
+  ]
+ },
+ {
+  "espn_id": "212209",
+  "name": "Andi Sullivan",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "Washington Spirit captain since 2019",
+  "honours": "NWSL Championship 2021 (captain), Challenge Cup 2025; CONCACAF Championship 2022; 4 SheBelieves Cups; Hermann Trophy 2017; 52 USWNT caps, every minute at 2023 WC",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.5,
+  "LO": 9.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "long-serving captain; no issues known",
+   "WK": "holding midfielder, leads by example",
+   "LO": "one club since 2018, captain, returned from ACL",
+   "AB": "USWNT starter at 2023 World Cup",
+   "ST": "tidy deep playmaker",
+   "LE": "captained Spirit to 2021 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andi_Sullivan"
+  ]
+ },
+ {
+  "espn_id": "360895",
+  "name": "Paige Metayer",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Spirit in its first continental match (2025)",
+  "honours": "NWSL Challenge Cup 2025; NWSL Rookie of the Month June 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "undrafted invitee who earned her place",
+   "LO": "one club since 2023",
+   "AB": "NWSL squad player",
+   "ST": "right-back / midfielder",
+   "LE": "undrafted to stand-in captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paige_Metayer"
+  ]
+ },
+ {
+  "espn_id": "387216",
+  "name": "Claudia Martínez",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2008,
+  "nation": "Paraguay",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Washington Spirit",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Paraguay senior and U-17 international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; teenage forward",
+   "WK": "forward",
+   "LO": "joined Spirit as a teenager",
+   "AB": "18-year-old NWSL squad forward",
+   "ST": "young attacker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page found; ESPN bio only, prior club history unverified.",
+  "confidence": "low",
+  "sources": [
+   "https://africa.espn.com/football/player/bio/_/id/387216/claudia-martinez"
+  ]
+ },
+ {
+  "espn_id": "365578",
+  "name": "Élisabeth Tsé",
+  "club_id": "15365",
+  "gender": "W",
+  "born": 2002,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "GPSO 92 Issy",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Le Havre",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Washington Spirit",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canada senior debut May 2026; Canada U-17 and U-20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defender",
+   "LO": "three clubs since 2022",
+   "AB": "Spirit squad defender, new Canada cap",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Élisabeth_Tsé"
+  ]
  }
 ]

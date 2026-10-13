@@ -1,0 +1,1931 @@
+[
+ {
+  "espn_id": "337011",
+  "name": "Renato Veiga",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Basel",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Chelsea",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Villarreal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "UEFA Conference League 2024-25 (Chelsea); UEFA Nations League 2024-25 (Portugal)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "versatile defender, covers several roles",
+   "LO": "several moves before 23",
+   "AB": "Portugal international centre-back",
+   "ST": "composed ball-playing defender",
+   "LE": "Nations League winner, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Renato_Veiga"
+  ]
+ },
+ {
+  "espn_id": "255889",
+  "name": "Pape Gueye",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Senegal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Le Havre",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Marseille",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Africa Cup of Nations 2021 (Senegal); scored in the 2025 AFCON final later forfeited by Senegal; La Liga African MVP 2025-26",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "backed out of a signed Watford deal in 2020; part of Senegal's 2025 final walk-off",
+   "WK": "box-to-box defensive midfielder",
+   "LO": "four years at Marseille",
+   "AB": "AFCON winner, regular in La Liga",
+   "ST": "functional midfielder",
+   "LE": "AFCON winner; final goal in 2025"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2020 Watford contract dispute (he blamed agent advice); Senegal walked off in the 2025 AFCON final and forfeited it.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pape_Gueye"
+  ]
+ },
+ {
+  "espn_id": "240623",
+  "name": "Santi Comesaña",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Coruxo",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Rayo Vallecano",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Villarreal",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Segunda División 2017-18 (Rayo Vallecano)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "hard-working central midfielder",
+   "LO": "seven seasons at Rayo",
+   "AB": "solid La Liga regular",
+   "ST": "tidy, energetic midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santi_Comesa%C3%B1a"
+  ]
+ },
+ {
+  "espn_id": "307390",
+  "name": "Alberto Moleiro",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Las Palmas",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Villarreal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga U23 Player of the Month (three times); promoted with Las Palmas 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "creative player, normal work rate",
+   "LO": "home-island academy graduate, four seasons",
+   "AB": "bright young La Liga talent",
+   "ST": "dribbling, creative No. 10/winger",
+   "LE": "young, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alberto_Moleiro"
+  ]
+ },
+ {
+  "espn_id": "192133",
+  "name": "Ayoze Pérez",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tenerife",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Leicester City",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Real Betis",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2024 (Spain); FA Cup 2020-21 and Community Shield 2021 (Leicester); Championship 2016-17 (Newcastle); Zarra Trophy 2024-25",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "dropped by Leicester in 2021 for breaching COVID rules",
+   "WK": "hard-working forward",
+   "LO": "five years at Newcastle, four at Leicester",
+   "AB": "Euro winner, consistent top-flight forward",
+   "ST": "clever, mobile forward",
+   "LE": "Euro 2024 winner, FA Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Dropped by Leicester in April 2021 for breaching COVID-19 protocols.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayoze_P%C3%A9rez"
+  ]
+ },
+ {
+  "espn_id": "300002",
+  "name": "Georges Mikautadze",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Georgia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Metz",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Seraing",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Ajax",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Metz",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lyon",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Villarreal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2024 joint top scorer; Ligue 2 top scorer and Player of the Year 2022-23; Georgia's Order of Honor",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "lively forward, normal work rate",
+   "LO": "several moves",
+   "AB": "prolific forward, Euro 2024 joint top scorer",
+   "ST": "quick, skilful finisher",
+   "LE": "Georgia's hero at their first Euro"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Chose Lyon over an agreed move to Monaco in 2024.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georges_Mikautadze"
+  ]
+ },
+ {
+  "espn_id": "284769",
+  "name": "Tajon Buchanan",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Villarreal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2021-22, 2023-24; Serie A 2023-24; Supporters' Shield 2021; Gold Cup Young Player 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "winger who also fills in at full-back",
+   "LO": "several moves",
+   "AB": "Canada international, title winner in two leagues",
+   "ST": "direct, quick dribbler",
+   "LE": "Canada's World Cup generation"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tajon_Buchanan"
+  ]
+ },
+ {
+  "espn_id": "210397",
+  "name": "Nicolas Pépé",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Ivory Coast",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Angers",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Orléans",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Lille",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Arsenal",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Nice",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Trabzonspor",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Africa Cup of Nations 2023 (Ivory Coast); FA Cup 2019-20 (Arsenal); Ligue 1 Team of the Year 2018-19",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.0,
+  "LO": 4.0,
+  "AB": 7.0,
+  "ST": 7.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "apologised after a 2020 headbutt red card",
+   "WK": "individualist winger",
+   "LO": "many moves",
+   "AB": "excellent Lille season, Arsenal record signing",
+   "ST": "skilful, left-footed dribbler",
+   "LE": "AFCON winner; Arsenal record signing"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: straight red for an off-the-ball headbutt on Ezgjan Alioski (Leeds v Arsenal, Nov 2020), three-match ban; he apologised.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_P%C3%A9p%C3%A9",
+   "https://www.sportinglife.com/football/news/pepe-red-unacceptable-arteta/186733"
+  ]
+ },
+ {
+  "espn_id": "318098",
+  "name": "Santiago Mouriño",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Uruguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Racing Montevideo",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Real Zaragoza",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Deportivo Alavés",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Villarreal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Uruguayan Segunda División 2022 (Racing); La Liga Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "dependable defender",
+   "LO": "several moves",
+   "AB": "La Liga Team of the Season defender",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Mouri%C3%B1o"
+  ]
+ },
+ {
+  "espn_id": "248276",
+  "name": "Alex Freeman",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orlando City",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Villarreal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2022 (Orlando City); MLS Young Player of the Year and Best XI 2025; USMNT at the 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "nothing notable on record; in a Nov 2025 team scuffle v Paraguay, not booked",
+   "WK": "energetic two-way full-back",
+   "LO": "Orlando academy-era club, four years",
+   "AB": "USMNT regular, MLS Best XI",
+   "ST": "attacking right-back",
+   "LE": "home World Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Involved in a Nov 2025 scuffle with Paraguay's Gustavo Gómez; not booked.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Freeman"
+  ]
+ },
+ {
+  "espn_id": "119620",
+  "name": "Péter Gulácsi",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Hungary",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Liverpool",
+    "from": 2008,
+    "to": 2013
+   },
+   {
+    "club": "Hull City",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2015,
+    "to": 2026
+   },
+   {
+    "club": "Villarreal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "RB Leipzig captain 2021-2022",
+  "honours": "DFB-Pokal 2021-22, 2022-23 (Leipzig); Austrian double x2 (Salzburg); Hungarian Footballer of the Year 2018-2020",
+  "causes": [
+   "Publicly backed Hungary's 'Family Is Family' campaign for same-sex families (2021)"
+  ],
+  "CH": 8.0,
+  "WK": 7.5,
+  "LO": 8.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "stood up for LGBTQ+ families in Hungary despite backlash",
+   "WK": "steady, team-first goalkeeper",
+   "LO": "eleven years at Leipzig, captain",
+   "AB": "one of the Bundesliga's best keepers",
+   "ST": "goalkeeper",
+   "LE": "Hungary's No. 1 at three Euros"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Liverpool youth/reserve keeper 2008-2013 (no senior apps).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/P%C3%A9ter_Gul%C3%A1csi"
+  ]
+ },
+ {
+  "espn_id": "156172",
+  "name": "Gerard Moreno",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Mallorca",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Espanyol",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Villarreal",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "Villarreal captain",
+  "honours": "UEFA Europa League 2020-21 (Player of the Season, joint top scorer); Zarra Trophy 2019-20, 2020-21; Euro 2020 bronze",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 8.0,
+  "AB": 7.5,
+  "ST": 7.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "no issues on record; club captain",
+   "WK": "links play, unselfish striker",
+   "LO": "academy graduate who returned, now captain",
+   "AB": "Europa League Player of the Season",
+   "ST": "clever, technical striker",
+   "LE": "led Villarreal's Europa League win"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerard_Moreno"
+  ]
+ },
+ {
+  "espn_id": "289072",
+  "name": "Sergi Cardona",
+  "club_id": "102",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gimnàstic",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Las Palmas",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Promoted to La Liga with Las Palmas 2022-23; The Athletic La Liga Team of the Season 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "hard-working full-back",
+   "LO": "four years at Las Palmas",
+   "AB": "solid La Liga left-back",
+   "ST": "overlapping full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Cardona"
+  ]
+ },
+ {
+  "espn_id": "368878",
+  "name": "Pau Navarro",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Spain U20 at the 2025 U-20 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "versatile young defender",
+   "LO": "local academy graduate",
+   "AB": "young La Liga defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pau_Navarro_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "271904",
+  "name": "Carlos Romero",
+  "club_id": "102",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Espanyol",
+    "from": 2024,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "nothing notable on record",
+   "WK": "energetic full-back",
+   "LO": "Villarreal academy graduate",
+   "AB": "La Liga Team of the Season left-back",
+   "ST": "attacking left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Romero_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "410803",
+  "name": "Seth Antwi",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder",
+   "LO": "first season after St. Louis City 2",
+   "AB": "USL Championship regular",
+   "ST": "holding midfielder",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; born year from a search snippet (consistent with ESPN age), previously St. Louis City 2.",
+  "confidence": "low",
+  "sources": [
+   "https://www.bhmlegion.com/roster/seth-antwi/"
+  ]
+ },
+ {
+  "espn_id": "329018",
+  "name": "Jassem Koleilat",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Czechia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Forge FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CPL Shield 2024 (Forge); CPL Golden Glove 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper",
+   "LO": "several short stints",
+   "AB": "CPL Golden Glove winner",
+   "ST": "goalkeeper",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Czech, Lebanese and Canadian.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jassem_Koleilat"
+  ]
+ },
+ {
+  "espn_id": "403367",
+  "name": "Gevork Diarbian",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "All-Big East four times (Providence)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "coach praises his intensity on both sides of the ball",
+   "LO": "first pro season after Revolution II",
+   "AB": "USL Championship winger",
+   "ST": "direct winger",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year from ESPN age (article says 24).",
+  "confidence": "low",
+  "sources": [
+   "https://www.bhmlegion.com/roster/gevork-diarbian/",
+   "https://www.uslchampionship.com/news_article/show/1355966"
+  ]
+ },
+ {
+  "espn_id": "381970",
+  "name": "Sebastian Tregarthen",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Uruguay",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL2 Team of the Year 2024; Mid-South Conference Player of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "early pro career",
+   "AB": "USL Championship forward",
+   "ST": "attacking player",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Join year inferred (previous club Asheville City SC 2024).",
+  "confidence": "low",
+  "sources": [
+   "https://www.bhmlegion.com/roster/sebastian-tregarthen/"
+  ]
+ },
+ {
+  "espn_id": "256551",
+  "name": "Dawson McCartney",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ivy League Rookie of the Year 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile midfielder/full-back",
+   "LO": "third season at Birmingham",
+   "AB": "USL Championship regular",
+   "ST": "functional",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Played for Portland Timbers 2 in 2022-2023 (B team, left out of clubs).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dawson_McCartney"
+  ]
+ },
+ {
+  "espn_id": "159387",
+  "name": "Tyler Pasher",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Canada",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "PS Kemi",
+    "from": 2013,
+    "to": 2013
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League Second Team 2020; 2 Canada caps (2021 Gold Cup)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running winger",
+   "LO": "several moves; fourth season at Birmingham",
+   "AB": "MLS squad player, strong USL forward",
+   "ST": "quick wide forward",
+   "LE": "brief Canada call-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Pasher"
+  ]
+ },
+ {
+  "espn_id": "252980",
+  "name": "Peter Vassell",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Jamaica",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Harbour View",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Montego Bay United",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Jamaica international (16 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder",
+   "LO": "many short stints",
+   "AB": "Jamaica international, USL regular",
+   "ST": "attacking midfielder",
+   "LE": "Jamaica caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists him as Peter-Lee Vassell; age and club match.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter-Lee_Vassell"
+  ]
+ },
+ {
+  "espn_id": "227776",
+  "name": "Samuel Shashoua",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlético Baleares",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Tenerife",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Albacete",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder",
+   "LO": "several moves; four years at Tenerife",
+   "AB": "Segunda División regular, USL starter",
+   "ST": "creative midfielder",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Tottenham academy graduate (no first-team apps).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samuel_Shashoua"
+  ]
+ },
+ {
+  "espn_id": "159298",
+  "name": "Romario Williams",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Montreal Impact",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Atlanta United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Columbus Crew",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Miami FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Al-Ittihad Alexandria",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Qadsia",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2018 (Atlanta United); Gold Cup runner-up 2017 (Jamaica)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 2.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward",
+   "LO": "journeyman, eleven clubs",
+   "AB": "MLS squad forward, Jamaica international",
+   "ST": "physical forward",
+   "LE": "MLS Cup winner squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Kuwait (Qadsia) is not a coded money league.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romario_Williams"
+  ]
+ },
+ {
+  "espn_id": "245140",
+  "name": "Ronaldo Damus",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Haiti",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Real Hope",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "North Texas SC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "GIF Sundsvall",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup 2021 (Final MVP) and 2024; USL League One Golden Boot 2019; Haiti international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "striker",
+   "LO": "many loans and moves",
+   "AB": "prolific USL striker",
+   "ST": "goalscorer",
+   "LE": "two USL Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronaldo_Damus"
+  ]
+ },
+ {
+  "espn_id": "293814",
+  "name": "Bryce Washington",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender",
+   "LO": "several moves",
+   "AB": "USL Championship defender",
+   "ST": "no-frills centre-back",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bryce_Washington_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "288047",
+  "name": "Nico Brown",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Greenville Triumph",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 Jamaica cap (2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "wide player",
+   "LO": "several moves",
+   "AB": "USL regular, Jamaica cap",
+   "ST": "winger turned full-back",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists him as winger/forward; ESPN as right-back.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Brown"
+  ]
+ },
+ {
+  "espn_id": "259491",
+  "name": "Samuel McIllhatton",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Australia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sydney Olympic",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder",
+   "LO": "four years at Sydney Olympic",
+   "AB": "USL Championship midfielder",
+   "ST": "midfielder",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "identity: ESPN lists age 28; club profile gives born 30 March 2002 (24). Only Sam McIllhatton at Birmingham Legion, used that. No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.bhmlegion.com/roster/sam-mcillhatton/"
+  ]
+ },
+ {
+  "espn_id": "217008",
+  "name": "Phanuel Kavita",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Rwanda",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Puerto Rico FC",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Saint Louis FC",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Birmingham Legion captain",
+  "honours": "ACC Tournament (Clemson)",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; club captain",
+   "WK": "leads the back line",
+   "LO": "six seasons and captain at Birmingham",
+   "AB": "USL Championship regular",
+   "ST": "no-frills centre-back",
+   "LE": "club stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phanuel_Kavita"
+  ]
+ },
+ {
+  "espn_id": "303084",
+  "name": "Amir Daley",
+  "club_id": "19405",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "full-back",
+   "LO": "mostly FC Cincinnati 2 before Birmingham",
+   "AB": "USL Championship full-back",
+   "ST": "full-back",
+   "LE": "little public record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Club profile lists Antigua and Barbuda (hometown Elmont, NY); ESPN lists USA. Age matches.",
+  "confidence": "low",
+  "sources": [
+   "https://www.bhmlegion.com/roster/amir-daley/"
+  ]
+ }
+]

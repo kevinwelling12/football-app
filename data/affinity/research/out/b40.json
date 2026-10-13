@@ -1,0 +1,2333 @@
+[
+ {
+  "espn_id": "206474",
+  "name": "Marcos Llorente",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Real Madrid",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Alavés",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2018 (Real Madrid); La Liga 2021; World Cup 2026 with Spain",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "criticised by doctors for promoting fringe diet and sun-exposure claims",
+   "WK": "tireless, plays anywhere on the right",
+   "LO": "seven seasons at Atlético after leaving Real",
+   "AB": "La Liga title driver 2021, World Cup winner",
+   "ST": "direct, goals and assists from deep",
+   "LE": "2021 title season, 2026 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcos_Llorente"
+  ]
+ },
+ {
+  "espn_id": "229645",
+  "name": "Ademola Lookman",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Charlton Athletic",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Everton",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Fulham",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Leicester City",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atalanta",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2024 (hat-trick in final); African Footballer of the Year 2024; U-20 World Cup 2017",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "skipped training in 2025 to push an Inter move; otherwise no issues",
+   "WK": "willing runner, link player",
+   "LO": "journeyman; strike to leave Atalanta",
+   "AB": "African Footballer of the Year",
+   "ST": "dribbling, inventive finisher",
+   "LE": "Europa League final hat-trick"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "forced_transfer: submitted a transfer request and skipped Atalanta training in 2025 to push a move to Inter (move refused; he returned).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ademola_Lookman",
+   "https://www.goal.com/en-za/lists/ademola-lookman-strike-atalanta-star-refuses-show-training-session-broken-promises-inter-offers/blt22fa5ea0e6640a70"
+  ]
+ },
+ {
+  "espn_id": "257786",
+  "name": "Dávid Hancko",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Slovakia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Žilina",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Fiorentina",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Sparta Prague",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Feyenoord in 2025 Champions League tie vs AC Milan",
+  "honours": "Eredivisie 2023, KNVB Cup 2024 (Feyenoord); Czech League 2023 (Sparta)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no issues known; Al-Nassr deal collapsed 2025",
+   "WK": "steady, versatile defender",
+   "LO": "several moves, three years at Feyenoord",
+   "AB": "Slovakia regular, Atlético starter",
+   "ST": "ball-playing left-sided defender",
+   "LE": "Feyenoord title, Slovak fan award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dávid_Hancko"
+  ]
+ },
+ {
+  "espn_id": "274197",
+  "name": "Lee Kang-In",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2001,
+  "nation": "South Korea",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Valencia",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Mallorca",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2025 and 2026, three Ligue 1 titles (PSG); U-20 World Cup Golden Ball 2019; Asian Games gold 2022",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 7.0,
+  "ST": 8.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "reported clash with senior players incl. Son at 2024 Asian Cup",
+   "WK": "creative but rotation player at PSG",
+   "LO": "Valencia academy, then three clubs",
+   "AB": "Korea's playmaker, PSG squad player",
+   "ST": "left-footed No. 10, dribbling and passing",
+   "LE": "two Champions Leagues, 2019 Golden Ball"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lee_Kang-in"
+  ]
+ },
+ {
+  "espn_id": "323838",
+  "name": "Giuliano Simeone",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Atlético Madrid",
+    "from": 2022,
+    "to": null
+   },
+   {
+    "club": "Real Zaragoza",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Alavés",
+    "from": 2023,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup runner-up 2026 with Argentina; Copa del Rey runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no issues known",
+   "WK": "relentless pressing wide player",
+   "LO": "Atlético academy, contract to 2030",
+   "AB": "Atlético starter, Argentina cap",
+   "ST": "energetic, direct winger",
+   "LE": "2026 World Cup finalist"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giuliano_Simeone"
+  ]
+ },
+ {
+  "espn_id": "166396",
+  "name": "Alejandro Grimaldo",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Benfica",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Four Primeira Ligas (Benfica); unbeaten Bundesliga + Pokal 2024 (Leverkusen); Euro 2024 and World Cup 2026 with Spain",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 7.5,
+  "ST": 8.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "no issues known",
+   "WK": "hard-running wing-back",
+   "LO": "seven years at Benfica",
+   "AB": "key man in Leverkusen's unbeaten title",
+   "ST": "attacking full-back, free kicks and crosses",
+   "LE": "Leverkusen's invincible season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Grimaldo"
+  ]
+ },
+ {
+  "espn_id": "297373",
+  "name": "Álex Baena",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Girona",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2021 (Villarreal); Olympic gold 2024; Euro 2024 and World Cup 2026 with Spain",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 8.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "little on conduct in sources; no issues known",
+   "WK": "creative, works for the side",
+   "LO": "Villarreal academy, five seasons",
+   "AB": "La Liga top assister 2024, Spain regular",
+   "ST": "playmaker, set pieces, Olympic final free kick",
+   "LE": "World Cup winner, winner vs Uruguay"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Álex_Baena"
+  ]
+ },
+ {
+  "espn_id": "140791",
+  "name": "Koke",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlético Madrid",
+    "from": 2009,
+    "to": null
+   }
+  ],
+  "captaincy": "Atlético captain since 2019; has captained Spain",
+  "honours": "La Liga 2014 and 2021, two Europa Leagues, Copa del Rey 2013 (Atlético); record Atlético appearances",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 9.0,
+  "LO": 10.0,
+  "AB": 7.5,
+  "ST": 7.0,
+  "LE": 7.0,
+  "why": {
+   "CH": "club captain, no issues known",
+   "WK": "tireless midfield engine",
+   "LO": "one-club man, Atlético record appearance holder",
+   "AB": "Spain regular in his prime",
+   "ST": "tidy passer, assists",
+   "LE": "Atlético's all-time appearance leader"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Koke_(footballer,_born_1992)"
+  ]
+ },
+ {
+  "espn_id": "332613",
+  "name": "Marc Pubill",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Levante",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Almería",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2024; World Cup 2026 with Spain",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "energetic right-sided defender",
+   "LO": "third club by 22",
+   "AB": "Atlético regular, World Cup squad",
+   "ST": "athletic full-back",
+   "LE": "Olympic gold, World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Pubill"
+  ]
+ },
+ {
+  "espn_id": "274911",
+  "name": "Morten Hjulmand",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Admira Wacker",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Lecce",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Youngest Serie A captain (Lecce, 23); Sporting captain 2024–26",
+  "honours": "Two Primeira Ligas (Sporting); Danish Player of the Year 2024",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.5,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 5.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "captain at two clubs, no issues known",
+   "WK": "holding midfielder, leads by example",
+   "LO": "captained Lecce and Sporting",
+   "AB": "Danish Player of the Year",
+   "ST": "holding midfielder",
+   "LE": "Sporting double winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morten_Hjulmand"
+  ]
+ },
+ {
+  "espn_id": "96970",
+  "name": "Cristian Romero",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Belgrano",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Genoa",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Juventus",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Atalanta",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Tottenham captain 2025–26",
+  "honours": "World Cup 2022, Copa América 2021 and 2024; Europa League 2025 (Tottenham)",
+  "causes": [],
+  "CH": 3.5,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 8.0,
+  "ST": 4.5,
+  "LE": 6.5,
+  "why": {
+   "CH": "repeat dismissals, confronted referee (FA ban), Malvinas banner 2026, public spats with Spurs board",
+   "WK": "combative, leads the line",
+   "LO": "four years at Spurs as captain, then left",
+   "AB": "World Cup winner, Europa League player of the season",
+   "ST": "aggressive stopper",
+   "LE": "World Cup and Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: sent off Dec 2025 for kicking out at Konaté, then banned extra match for confronting the referee.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Romero"
+  ]
+ },
+ {
+  "espn_id": "336634",
+  "name": "Pablo Barrios",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlético Madrid",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic gold 2024 with Spain",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "box-to-box worker",
+   "LO": "Atlético academy graduate",
+   "AB": "Atlético regular",
+   "ST": "neat technical midfielder",
+   "LE": "Olympic gold"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pablo_Barrios_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "214888",
+  "name": "Robin Le Normand",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brest",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2024, Nations League 2023 (Spain); Copa del Rey 2020 (Real Sociedad)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no issues known",
+   "WK": "solid, unfussy defender",
+   "LO": "six seasons at Real Sociedad",
+   "AB": "Euro 2024 starting centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Euro 2024 winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Le_Normand"
+  ]
+ },
+ {
+  "espn_id": "290802",
+  "name": "Johnny Cardoso",
+  "club_id": "1068",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Internacional",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Real Betis",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Two CONCACAF Nations Leagues with USA",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "defensive screener",
+   "LO": "five years at Internacional",
+   "AB": "USMNT and Atlético squad player",
+   "ST": "holding midfielder",
+   "LE": "missed 2026 World Cup injured"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johnny_Cardoso"
+  ]
+ },
+ {
+  "espn_id": "297362",
+  "name": "Joan García",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Espanyol",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Barcelona",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2026 (Barcelona); Zamora Trophy 2025–26; Olympic gold 2024; World Cup 2026 squad (unused)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 7.0,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no conduct issues known",
+   "WK": "dependable keeper",
+   "LO": "Espanyol academy, left for city rival",
+   "AB": "Zamora winner, La Liga champion",
+   "ST": "shot-stopper, save of the season",
+   "LE": "Zamora in first Barça season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move: went directly from Espanyol to Barcelona (release clause, 2025); return to Espanyol needed extra security.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joan_García"
+  ]
+ },
+ {
+  "espn_id": "128714",
+  "name": "Eric García",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Barcelona",
+    "from": 2021,
+    "to": null
+   },
+   {
+    "club": "Girona",
+    "from": 2023,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2021 (City); three La Ligas (Barcelona); World Cup 2026, Olympic gold 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no conduct issues known",
+   "WK": "versatile, plays wherever needed",
+   "LO": "Barça academy, back since 2021",
+   "AB": "Barça and Spain regular",
+   "ST": "composed passer at the back",
+   "LE": "World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_García_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "268782",
+  "name": "Anthony Gordon",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Everton",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Preston North End",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Barcelona",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2025 (Newcastle); U-21 Euro 2023 Player of the Tournament; Euro 2024 runner-up",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.5,
+  "LO": 3.5,
+  "AB": 7.0,
+  "ST": 7.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "scuffles with Trippier and Schär; reported training absence to leave Everton",
+   "WK": "high-energy pressing winger",
+   "LO": "forced Everton exit, left Newcastle after three years",
+   "AB": "England international, Newcastle player of the season",
+   "ST": "fast, direct dribbler",
+   "LE": "Carabao Cup winner, U-21 Euro star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "forced_transfer: handed in a transfer request and reportedly skipped Everton training to force the January 2023 move to Newcastle.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Gordon_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "312015",
+  "name": "Gerard Martín",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cornellà",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Barcelona",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2025 and 2026, Copa del Rey 2025 (Barcelona)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "dependable squad defender",
+   "LO": "Barça B then first team",
+   "AB": "Barça squad defender",
+   "ST": "left-sided defender",
+   "LE": "two La Liga titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerard_Martín_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "354334",
+  "name": "Fermín López",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Linares",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Barcelona",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Two La Ligas, Copa del Rey 2025 (Barcelona); Euro 2024; Olympic gold 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no issues known",
+   "WK": "energetic, presses and arrives in box",
+   "LO": "Barça academy",
+   "AB": "Barça regular, Spain Euro winner",
+   "ST": "goal-scoring attacking midfielder",
+   "LE": "Olympic final goals, Euro 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fermín_López"
+  ]
+ },
+ {
+  "espn_id": "227765",
+  "name": "Dani Olmo",
+  "club_id": "83",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2015,
+    "to": 2020
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Barcelona",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2024 joint top scorer; World Cup 2026; Nations League 2023; five Croatian titles; La Liga 2025, 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 8.0,
+  "ST": 8.5,
+  "LE": 6.5,
+  "why": {
+   "CH": "no conduct issues known; caught in Barça registration saga",
+   "WK": "works between the lines",
+   "LO": "left Barça academy young, returned 2024",
+   "AB": "Euro 2024 Golden Boot, World Cup winner",
+   "ST": "inventive No. 10",
+   "LE": "Euro and World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dani_Olmo"
+  ]
+ },
+ {
+  "espn_id": "368992",
+  "name": "Pau Cubarsí",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2026 (Best Young Player); two La Ligas; Olympic gold 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 8.0,
+  "ST": 7.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "no issues known",
+   "WK": "composed, team-first defender",
+   "LO": "Barça academy",
+   "AB": "World Cup Young Player at 19",
+   "ST": "elite passing centre-back",
+   "LE": "teen World Cup winner, records"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pau_Cubarsí"
+  ]
+ },
+ {
+  "espn_id": "403582",
+  "name": "Xavi Espart",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2026 (Barcelona); U-19 Euro 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "young full-back, unknown",
+   "LO": "Barça academy",
+   "AB": "breakthrough squad player",
+   "ST": "full-back/midfielder",
+   "LE": "U-19 European champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xavi_Espart"
+  ]
+ },
+ {
+  "espn_id": "186430",
+  "name": "Andreas Christensen",
+  "club_id": "83",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2014,
+    "to": 2022
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Barcelona",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2021 (Chelsea); three La Ligas (Barcelona); Danish Player of the Year 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 7.0,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "no conduct issues found in sources",
+   "WK": "calm, adaptable defender",
+   "LO": "Chelsea academy, left on free",
+   "AB": "Champions League winner, Denmark regular",
+   "ST": "composed ball-playing defender",
+   "LE": "Champions League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andreas_Christensen"
+  ]
+ },
+ {
+  "espn_id": "376423",
+  "name": "Marc Bernal",
+  "club_id": "83",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga 2025 and 2026 (Barcelona)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "holding midfielder",
+   "LO": "Barça academy; came back from 383-day ACL",
+   "AB": "Barça squad player",
+   "ST": "composed passer",
+   "LE": "two league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Bernal"
+  ]
+ },
+ {
+  "espn_id": "208353",
+  "name": "Sondre Brunstad Fet",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aalesund",
+    "from": 2014,
+    "to": 2020
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Four Eliteserien titles, Norwegian Cup 2026 (Bodø/Glimt)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "steady midfielder",
+   "LO": "six years at Aalesund, six at Bodø",
+   "AB": "Bodø/Glimt regular",
+   "ST": "tidy midfielder",
+   "LE": "part of Bodø's European run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sondre_Brunstad_Fet"
+  ]
+ },
+ {
+  "espn_id": "217655",
+  "name": "Nikita Haykin",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Russia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Nacional",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Marbella",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Bnei Yehuda",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Hapoel Kfar Saba",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Four Eliteserien titles; Kniksen best goalkeeper 2025",
+  "causes": [
+   "Supports humanitarian aid to Ukraine; outspoken against the war"
+  ],
+  "CH": 7.5,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "spoke out against Putin and the war, backs aid to Ukraine",
+   "WK": "reliable keeper",
+   "LO": "long spell at Bodø/Glimt",
+   "AB": "Eliteserien's best keeper 2025",
+   "ST": "goalkeeper",
+   "LE": "Bodø's European nights"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikita_Haikin"
+  ]
+ },
+ {
+  "espn_id": "218561",
+  "name": "Andreas Helmersen",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rosenborg",
+    "from": 2015,
+    "to": 2020
+   },
+   {
+    "club": "Ranheim",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Raufoss",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Egersund",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2024; Norwegian Cup 2026 (top scorer)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "squad forward",
+   "LO": "journeyman; came back from injuries",
+   "AB": "late bloomer, Bodø squad forward",
+   "ST": "forward",
+   "LE": "cup top scorer 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andreas_Helmersen"
+  ]
+ },
+ {
+  "espn_id": "238088",
+  "name": "Fredrik André Bjørkan",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bodø/Glimt",
+    "from": 2015,
+    "to": 2021
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Four Eliteserien titles; Europa League Team of the Season 2024–25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "hard-working left-back",
+   "LO": "home-town club, returned after Germany",
+   "AB": "Europa League team of the season",
+   "ST": "attacking left-back",
+   "LE": "Bodø's 2025 Europa League semi-final run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fredrik_André_Bjørkan"
+  ]
+ },
+ {
+  "espn_id": "268460",
+  "name": "Joshua Kitolano",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Odd",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Sparta Rotterdam",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "midfielder, role player",
+   "LO": "four years each at Odd and Sparta",
+   "AB": "Eredivisie regular",
+   "ST": "midfielder",
+   "LE": "no major honours yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joshua_Kitolano"
+  ]
+ },
+ {
+  "espn_id": "269732",
+  "name": "Odin Bjørtuft",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Odd",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Norway international; Eliteserien titles with Bodø/Glimt",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "solid defender",
+   "LO": "long spells at Odd and Bodø",
+   "AB": "Norway cap, Bodø starter",
+   "ST": "no-frills centre-back",
+   "LE": "Bodø's European runs"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Odin_Bjørtuft"
+  ]
+ },
+ {
+  "espn_id": "303740",
+  "name": "Sondre Auklend",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viking",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2024; Norwegian Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "young midfielder",
+   "LO": "Viking academy, now Bodø",
+   "AB": "Bodø squad player",
+   "ST": "midfielder",
+   "LE": "league and cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sondre_Auklend"
+  ]
+ },
+ {
+  "espn_id": "307798",
+  "name": "Ole Didrik Blomberg",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Gneist",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Åsane",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Brann",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Norwegian Cup 2022 (Brann) and 2026 (Bodø/Glimt)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "winger, role player",
+   "LO": "four years at Brann",
+   "AB": "Eliteserien winger",
+   "ST": "winger",
+   "LE": "two Norwegian Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ole_Didrik_Blomberg"
+  ]
+ },
+ {
+  "espn_id": "333755",
+  "name": "Fredrik Sjøvold",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Tiller",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2023 and 2024; Norwegian Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "work-rate right-back",
+   "LO": "five seasons at Bodø",
+   "AB": "Bodø regular",
+   "ST": "right-back",
+   "LE": "two league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fredrik_Sjøvold"
+  ]
+ },
+ {
+  "espn_id": "387380",
+  "name": "Villads Nielsen",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bodø/Glimt",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "young centre-back",
+   "LO": "first senior club",
+   "AB": "emerging squad defender",
+   "ST": "centre-back",
+   "LE": "league title 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villads_Nielsen"
+  ]
+ },
+ {
+  "espn_id": "203670",
+  "name": "Ulrik Saltnes",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Brønnøysund",
+    "from": 2009,
+    "to": 2010
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2011,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Four Eliteserien titles, Norwegian Cup 2026; 300+ league apps for Bodø/Glimt",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 9.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "long-serving, selfless midfielder",
+   "LO": "15 seasons at Bodø/Glimt, from second tier to Europe",
+   "AB": "Eliteserien regular, 73 league goals",
+   "ST": "goal-scoring midfielder",
+   "LE": "part of Bodø's rise from second tier"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ulrik_Saltnes"
+  ]
+ },
+ {
+  "espn_id": "227625",
+  "name": "Julian Faye Lund",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Norway",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Rosenborg",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Norwegian Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "back-up keeper",
+   "LO": "several loans, Bodø since 2022",
+   "AB": "back-up goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Faye_Lund"
+  ]
+ },
+ {
+  "espn_id": "235789",
+  "name": "Jens Petter Hauge",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bodø/Glimt",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Aalesund",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "AC Milan",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Gent",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2022 (Frankfurt); Eliteserien 2020 and 2024; Norway World Cup 2026 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "little on conduct in sources; no issues known",
+   "WK": "attacking winger",
+   "LO": "home-town club, came back",
+   "AB": "Norway international, Champions League goals",
+   "ST": "dribbling left winger, No. 10",
+   "LE": "goals vs Spurs and Inter, Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jens_Petter_Hauge"
+  ]
+ },
+ {
+  "espn_id": "255311",
+  "name": "Ola Brynhildsen",
+  "club_id": "2980",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Stabæk",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Molde",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Midtjylland",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2022 (Molde); Danish Superliga 2024 (Midtjylland); Norwegian Cup 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no issues known",
+   "WK": "forward, works the line",
+   "LO": "journeyman with loans",
+   "AB": "Eliteserien forward, title winner",
+   "ST": "forward",
+   "LE": "titles in Norway and Denmark"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ola_Brynhildsen"
+  ]
+ }
+]

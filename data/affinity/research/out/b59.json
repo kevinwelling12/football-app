@@ -1,0 +1,2070 @@
+[
+ {
+  "espn_id": "308788",
+  "name": "Ousman Jabang",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "CF Montréal",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "No senior honours; college All-SoCon honours at Mercer.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "versatile defender/midfielder, regular starter",
+   "LO": "second season at New Mexico after short MLS spell",
+   "AB": "USL Championship regular, brief MLS minutes",
+   "ST": "right-back who chips in goals",
+   "LE": "early career, no notable moments"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousman_Jabang"
+  ]
+ },
+ {
+  "espn_id": "252816",
+  "name": "Chris Gloster",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hannover 96 II",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Jong PSV",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "New York City FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atlanta United 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Cup 2021 (NYCFC squad); CONCACAF U-20 Championship 2018 (Best XI); U-17 World Cup 2017.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "steady left-back",
+   "LO": "journeyman early, now third season at New Mexico",
+   "AB": "former US youth international, USL Championship regular",
+   "ST": "attacking left-back",
+   "LE": "MLS Cup squad member, US youth regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Gloster"
+  ]
+ },
+ {
+  "espn_id": "207021",
+  "name": "Greg Hurst",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Scotland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Stirling Albion",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "St Johnstone",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Stenhousemuir",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Chattanooga Red Wolves",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Union Omaha",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One champion 2021 (Omaha's top scorer); USL League One All-League First Team 2020, 2021.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "striker, regular starter",
+   "LO": "fourth season at New Mexico, its No. 10",
+   "AB": "prolific in League One, USL Championship regular",
+   "ST": "goalscoring striker",
+   "LE": "led Omaha to 2021 League One title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Greg_Hurst"
+  ]
+ },
+ {
+  "espn_id": "223845",
+  "name": "Niko Hamalainen",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Finland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Queens Park Rangers",
+    "from": 2015,
+    "to": 2023
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Kilmarnock",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Botafogo",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "RWDM",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "HJK",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "KuPS",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Haugesund",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Veikkausliiga 2023 (HJK); 12 Finland caps, Euro 2020 squad; Finnish Promising Player of the Year 2015.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "spoke in a 2020 interview about his experiences with US police as a Black man; otherwise little public record",
+   "WK": "left-back, team role",
+   "LO": "many loans and moves, a journeyman career",
+   "AB": "Finland international at Euro 2020",
+   "ST": "attacking left-back",
+   "LE": "Euro 2020 squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niko_H%C3%A4m%C3%A4l%C3%A4inen"
+  ]
+ },
+ {
+  "espn_id": "257380",
+  "name": "Kristopher Shakes",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big Ten Goalkeeper of the Year 2023 (Penn State).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "goalkeeper, no style record",
+   "LO": "with New Mexico since turning pro",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper, no notable flair record",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kris_Shakes"
+  ]
+ },
+ {
+  "espn_id": "255237",
+  "name": "Zico Bailey",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Philippines",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Kalmar FF",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "FC Helsingør",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Goal of the Year 2025; 14 Philippines caps.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "defensive midfielder/right-back, work-rate role",
+   "LO": "third full season at New Mexico after several moves",
+   "AB": "Philippines international, USL Championship regular",
+   "ST": "2025 USL Championship Goal of the Year",
+   "LE": "Philippines international, goal of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zico_Bailey"
+  ]
+ },
+ {
+  "espn_id": "286803",
+  "name": "Kipp Keller",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Austin FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Cup 2023 (Austin FC II); 5th pick, 2022 MLS SuperDraft.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.3,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "centre-back, team role",
+   "LO": "several MLS clubs, now settled at New Mexico",
+   "AB": "MLS squad player, USL Championship starter",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kipp_Keller"
+  ]
+ },
+ {
+  "espn_id": "282124",
+  "name": "Niall Reid-Stephen",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Barbados",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "UWI Blackbirds",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Appalachian FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Asheville City SC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Tormenta FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "25 caps, 14 goals for Barbados; USL League One All-League Team 2025.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "winger, team role",
+   "LO": "first season at New Mexico",
+   "AB": "Barbados international, new to USL Championship",
+   "ST": "attacking winger, goalscorer",
+   "LE": "leading scorer for Barbados"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niall_Reid-Stephen"
+  ]
+ },
+ {
+  "espn_id": "279283",
+  "name": "Valentin Noël",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chamois Niortais",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC II",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Next Pro Cup 2023 and its MVP (Austin FC II); ACC Offensive Player of the Year 2020.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "attacking midfielder",
+   "LO": "second season at New Mexico",
+   "AB": "USL Championship regular",
+   "ST": "creative attacking midfielder",
+   "LE": "MLS Next Pro Cup MVP"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valentin_No%C3%ABl"
+  ]
+ },
+ {
+  "espn_id": "282410",
+  "name": "Maliek Howell",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 senior cap for Jamaica (2022).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "defender, team role",
+   "LO": "first season at New Mexico",
+   "AB": "USL Championship regular, one Jamaica cap",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maliek_Howell"
+  ]
+ },
+ {
+  "espn_id": "144405",
+  "name": "Cristian Nava",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New Mexico United",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; came back from two ACL injuries and a brief retirement",
+   "WK": "forward, team role",
+   "LO": "Albuquerque native, only senior club is his hometown New Mexico United",
+   "AB": "USL Championship squad forward",
+   "ST": "forward",
+   "LE": "hometown player, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Nava"
+  ]
+ },
+ {
+  "espn_id": "303080",
+  "name": "Jake LaCava",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward, team role",
+   "LO": "several clubs in a short career",
+   "AB": "USL Championship forward",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_LaCava"
+  ]
+ },
+ {
+  "espn_id": "283459",
+  "name": "Dayonn Harris",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Vaughan Azzurri",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Real Monarchs",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Comeback Player of the Year 2025; 1 cap for Antigua and Barbuda.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; came back from ACL injury",
+   "WK": "winger, team role",
+   "LO": "third season at New Mexico, three years at Tampa",
+   "AB": "USL Championship regular",
+   "ST": "winger",
+   "LE": "comeback player of the year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Canadian-born, plays internationally for Antigua and Barbuda.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dayonn_Harris"
+  ]
+ },
+ {
+  "espn_id": "328936",
+  "name": "Joseph Quiah",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Liberia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Paynesville FC",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "LISCR FC",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Toronto FC II",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 Liberia cap (debut at 16); Second Team All-American 2024 (Dayton).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "striker, team role",
+   "LO": "first professional season in the US",
+   "AB": "young USL Championship forward",
+   "ST": "striker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Quiah"
+  ]
+ },
+ {
+  "espn_id": "284051",
+  "name": "Luther Archimede",
+  "club_id": "19408",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Guadeloupe",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sochaux",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Sacramento Republic",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "12 Guadeloupe caps; Gold Cup squads 2021 and 2023.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward, team role",
+   "LO": "several USL clubs, two seasons at Sacramento",
+   "AB": "Guadeloupe international, USL Championship forward",
+   "ST": "forward",
+   "LE": "Gold Cup appearances"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luther_Archim%C3%A8de"
+  ]
+ },
+ {
+  "espn_id": "296278",
+  "name": "Wolfgang Prentice",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Diego 1904",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2022,
+    "to": null
+   },
+   {
+    "club": "Northern Colorado Hailstorm",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Forward Madison",
+    "from": 2023,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.8,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward/winger, team role",
+   "LO": "with Oakland since 2022 despite loans",
+   "AB": "USL Championship regular",
+   "ST": "attacking winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolfgang_Prentice"
+  ]
+ },
+ {
+  "espn_id": "66579",
+  "name": "Michael Edwards",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "VfL Wolfsburg II",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "centre-back, team role",
+   "LO": "five years with Colorado, mostly on loan",
+   "AB": "MLS squad player, USL Championship starter",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Edwards_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "225614",
+  "name": "Thomas McCabe",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Cincinnati",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship title 2021 (Orange County SC).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "defensive midfielder, work-rate role",
+   "LO": "journeyman across USL clubs",
+   "AB": "USL Championship regular",
+   "ST": "holding midfielder",
+   "LE": "USL title winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_McCabe_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "313077",
+  "name": "Bobosi Byaruhanga",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Uganda",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Vipers",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "MFK Vyškov",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Austin FC II",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Uganda Premier League 2022 and Uganda Cup 2021 (Vipers); MLS Next Pro 2023 (Austin FC II); 19 Uganda caps; AFCON U-20 runner-up 2021.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.3,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "midfielder, team role",
+   "LO": "second season at Oakland",
+   "AB": "Uganda international, USL Championship regular",
+   "ST": "midfielder",
+   "LE": "Uganda international, U-20 AFCON finalist"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobosi_Byaruhanga"
+  ]
+ },
+ {
+  "espn_id": "419764",
+  "name": "Jesús De Vicente",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.8,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; no Wikipedia page",
+   "WK": "defender, team role",
+   "LO": "current club Oakland Roots; earlier career not documented",
+   "AB": "USL Championship regular",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year estimated from ESPN age; career history not found.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
+  ]
+ },
+ {
+  "espn_id": "80925",
+  "name": "Peter Wilson",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Liberia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "GIF Sundsvall",
+    "from": 2015,
+    "to": 2020
+   },
+   {
+    "club": "Sheriff Tiraspol",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Podbeskidzie",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Olympiakos Nicosia",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Jerv",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Golden Boot 2025; 22 Liberia caps.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.8,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "striker, team role",
+   "LO": "journeyman in Europe, settled at Oakland",
+   "AB": "USL Championship Golden Boot winner, Liberia international",
+   "ST": "prolific goalscorer",
+   "LE": "2025 Golden Boot, Liberia international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Wilson_(footballer,_born_1996)"
+  ]
+ },
+ {
+  "espn_id": "308961",
+  "name": "Bertin Jacquesson",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2001,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SO Châtellerault",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "ACC Freshman of the Year 2020–21.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "forward, team role",
+   "LO": "first season at Oakland",
+   "AB": "USL Championship forward, brief MLS minutes",
+   "ST": "forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bertin_Jacquesson"
+  ]
+ },
+ {
+  "espn_id": "226127",
+  "name": "Neveal Hackshaw",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Trinidad and Tobago",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North East Stars",
+    "from": 2011,
+    "to": 2015
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "28 caps for Trinidad and Tobago.",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.3,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "dependable defender",
+   "LO": "four seasons each at Indy and Oakland, three at Charleston",
+   "AB": "Trinidad and Tobago international, long-time USL Championship regular",
+   "ST": "no-frills defender",
+   "LE": "Trinidad and Tobago international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neveal_Hackshaw"
+  ]
+ },
+ {
+  "espn_id": "331130",
+  "name": "Julian Bravo",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Crown Legacy FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.6,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "left-back, team role",
+   "LO": "second season at Oakland",
+   "AB": "USL Championship regular",
+   "ST": "full-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Bravo"
+  ]
+ },
+ {
+  "espn_id": "159476",
+  "name": "Kendall McIntosh",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Portland Timbers 2",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "New York Red Bulls",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship runner-up 2013; WCC Goalkeeper of the Year 2015.",
+  "causes": [
+   "New York Red Bulls Humanitarian of the Year: responded to racism and social injustice, raised funds for the NAACP Legal Defense Fund, National Black Child Development Institute and Thurgood Marshall College Fund"
+  ],
+  "CH": 8.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "Red Bulls Humanitarian of the Year for anti-racism work and fundraising",
+   "WK": "goalkeeper, team role",
+   "LO": "several MLS clubs, mostly as backup",
+   "AB": "MLS backup, USL Championship starter",
+   "ST": "goalkeeper",
+   "LE": "known for social-justice work"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kendall_McIntosh"
+  ]
+ },
+ {
+  "espn_id": "246776",
+  "name": "Florian Valot",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1993,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Monaco II",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "New York Red Bulls II",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "New York Red Bulls",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Miami FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained New York Red Bulls II at times (2017, 2018).",
+  "honours": "USL Cup 2016 (NY Red Bulls II); MLS Supporters' Shield 2018 (NY Red Bulls).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "midfielder, occasional captain",
+   "LO": "five-plus years in the Red Bulls system",
+   "AB": "MLS squad player, USL veteran",
+   "ST": "creative midfielder, wears No. 10",
+   "LE": "USL Cup and Supporters' Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Florian_Valot"
+  ]
+ },
+ {
+  "espn_id": "361679",
+  "name": "David Garcia",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Oakland Roots",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against; no Wikipedia page",
+   "WK": "centre-back, team role",
+   "LO": "current club Oakland Roots; earlier career not documented",
+   "AB": "USL Championship squad defender",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born year estimated from ESPN age; career history and join date not found (2026 assumed from roster).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
+  ]
+ },
+ {
+  "espn_id": "288146",
+  "name": "Daniel Trejo",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Korona Kielce",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2022 (LAFC); USL Championship 2023 (Phoenix Rising).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "attacking midfielder, team role",
+   "LO": "journeyman, many clubs",
+   "AB": "USL Championship regular, brief MLS and Polish top-flight spells",
+   "ST": "attacking midfielder/winger",
+   "LE": "USL Championship title winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Identity: ESPN lists USA; Wikipedia (as Danny Trejo) calls him Mexican, born in Morelia and raised in California.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danny_Trejo_(soccer)",
+   "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
+  ]
+ },
+ {
+  "espn_id": "235448",
+  "name": "Tyler Gibson",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 1991,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Antonio Scorpions",
+    "from": 2015,
+    "to": 2015
+   },
+   {
+    "club": "Rayo OKC",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "San Francisco Deltas",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Louisville City",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Indy Eleven on occasion (2024).",
+  "honours": "NASL Soccer Bowl 2017 (San Francisco Deltas); USL regular season title 2018 (FC Cincinnati).",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "veteran midfielder, occasional captain",
+   "LO": "journeyman, longest spell three years at Louisville",
+   "AB": "long-time USL Championship regular",
+   "ST": "midfielder",
+   "LE": "Soccer Bowl winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Gibson"
+  ]
+ },
+ {
+  "espn_id": "279142",
+  "name": "Faysal Bettache",
+  "club_id": "20687",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Queens Park Rangers",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "St. Louis City 2",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing known against",
+   "WK": "midfielder, team role",
+   "LO": "several clubs since leaving QPR",
+   "AB": "former Championship squad player, USL Championship regular",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faysal_Bettache"
+  ]
+ }
+]

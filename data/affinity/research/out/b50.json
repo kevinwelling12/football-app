@@ -1,0 +1,1806 @@
+[
+ {
+  "espn_id": "177898",
+  "name": "Rui Silva",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Portugal",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Nacional",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Granada",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Real Betis",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa del Rey 2022 (Betis); Primeira Liga and Taça de Portugal 2025 (Sporting); Nations League 2025; Zamora Trophy (Segunda) 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; no issues",
+   "WK": "steady goalkeeper",
+   "LO": "four clubs, four years each at Nacional and Granada",
+   "AB": "Spain and Portugal top-flight No. 1, Portugal squad",
+   "ST": "goalkeeper",
+   "LE": "Copa del Rey and Nations League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rui_Silva_(footballer,_born_1994)"
+  ]
+ },
+ {
+  "espn_id": "296969",
+  "name": "Geny Catamo",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Mozambique",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Amora",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2024, 2025; Taça de Portugal 2025 (Sporting)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running wide man",
+   "LO": "Sporting since 2019 (B team), loans aside",
+   "AB": "regular for a title-winning side",
+   "ST": "direct, quick winger",
+   "LE": "two league titles; Mozambique's leading export"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Geny_Catamo"
+  ]
+ },
+ {
+  "espn_id": "331426",
+  "name": "Sergi Altimira",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sabadell",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Real Betis",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League runner-up 2025 (Betis)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "defensive midfielder, covers ground",
+   "LO": "three clubs, three years at Betis",
+   "AB": "La Liga regular at Betis",
+   "ST": "holding midfielder",
+   "LE": "Conference League finalist"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Altimira"
+  ]
+ },
+ {
+  "espn_id": "386592",
+  "name": "Issa Doumbia",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AlbinoLeffe",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Venezia",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None major; 4 Italy caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "physical box-to-box midfielder",
+   "LO": "three clubs, steady progression",
+   "AB": "Serie A/B regular, Italy cap",
+   "ST": "energetic runner",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Issa_Doumbia_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "304106",
+  "name": "Gonçalo Inácio",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "Sporting CP captain",
+  "honours": "Primeira Liga 2021, 2024, 2025; Taça de Portugal 2025; Taça da Liga 2021, 2022; Nations League 2025; league Team of the Year 2024, 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 8.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no issues on record",
+   "WK": "composed leader at the back",
+   "LO": "academy graduate, one club, now captain",
+   "AB": "Portugal international, title-winning centre-back",
+   "ST": "ball-playing left-footed centre-back",
+   "LE": "three league titles as a Sporting stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gonçalo_Inácio"
+  ]
+ },
+ {
+  "espn_id": "287494",
+  "name": "Rodrigo Zalazar",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Korona Kielce",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "FC St. Pauli",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Braga",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga 2022 (Schalke); Taça da Liga 2024 (Braga); Primeira Liga Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "works hard as an attacking midfielder",
+   "LO": "five clubs; sought exit after Schalke relegation",
+   "AB": "one of the league's best midfielders at Braga",
+   "ST": "goalscoring No. 10 with long-range shooting",
+   "LE": "Team of the Season, Uruguay international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Zalazar"
+  ]
+ },
+ {
+  "espn_id": "287025",
+  "name": "Maxi Araújo",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Uruguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Montevideo Wanderers",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Puebla",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Toluca",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga and Taça de Portugal 2025 (Sporting); Copa América third 2024; Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "tireless wing-back",
+   "LO": "four clubs in steady steps",
+   "AB": "Uruguay international, Team of the Season",
+   "ST": "attacking left wing-back",
+   "LE": "Copa América bronze, league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxi_Araújo"
+  ]
+ },
+ {
+  "espn_id": "333209",
+  "name": "Iván Fresneda",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Valladolid",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2024, 2025; Taça de Portugal 2025 (Sporting)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic full-back",
+   "LO": "Sporting since 2023",
+   "AB": "rotation right-back for champions",
+   "ST": "attacking right-back",
+   "LE": "two league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iván_Fresneda"
+  ]
+ },
+ {
+  "espn_id": "414123",
+  "name": "Flávio Gonçalves",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Portugal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Maurice Revello Tournament 2026 (Portugal U20)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young attacker, no notes on work rate",
+   "LO": "academy graduate, one club so far",
+   "AB": "breaking into the first team at 19",
+   "ST": "creative winger/playmaker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flávio_Gonçalves"
+  ]
+ },
+ {
+  "espn_id": "314473",
+  "name": "Zeno Debast",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga and Taça de Portugal 2025 (Sporting); Belgium squads for World Cup 2022, 2026 and Euro 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile, plays where needed",
+   "LO": "academy graduate at Anderlecht, then Sporting",
+   "AB": "Belgium regular, 26 caps",
+   "ST": "ball-playing defender who can step into midfield",
+   "LE": "two World Cup squads, league title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeno_Debast"
+  ]
+ },
+ {
+  "espn_id": "266318",
+  "name": "Fotis Ioannidis",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Greece",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Levadiakos",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Greek Cup 2022, 2024 (Panathinaikos); Super League Footballer of the Season 2023, 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working centre-forward",
+   "LO": "five seasons at Panathinaikos",
+   "AB": "Greek league's best player twice, Greece international",
+   "ST": "goalscoring striker",
+   "LE": "two Greek Cups, twice league player of the season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fotis_Ioannidis"
+  ]
+ },
+ {
+  "espn_id": "290590",
+  "name": "Eduardo Quaresma",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2020,
+    "to": null
+   },
+   {
+    "club": "Tondela",
+    "from": 2021,
+    "to": 2022
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2021, 2024, 2025; Taça de Portugal 2025; Taça da Liga 2021 (Sporting)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile defender",
+   "LO": "Sporting academy graduate, back after loans",
+   "AB": "regular for title-winning side",
+   "ST": "quick centre-back",
+   "LE": "three league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduardo_Quaresma"
+  ]
+ },
+ {
+  "espn_id": "300514",
+  "name": "Georgios Vagiannidis",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Greece",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Panathinaikos",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Inter Milan",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Panathinaikos",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Greek Cup 2022, 2024 (Panathinaikos); Super League Team of the Season 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic full-back",
+   "LO": "academy graduate, returned to Panathinaikos for four seasons",
+   "AB": "Greece international, league Team of the Season",
+   "ST": "attacking right-back",
+   "LE": "two Greek Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georgios_Vagiannidis"
+  ]
+ },
+ {
+  "espn_id": "361429",
+  "name": "Luis Guilherme",
+  "club_id": "2250",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Palmeiras",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "West Ham United",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Série A 2023, Campeonato Paulista 2024 (Palmeiras); South American U-20 Championship 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young winger, nothing notable either way",
+   "LO": "three clubs by 20",
+   "AB": "prospect, bit-part at West Ham",
+   "ST": "dribbling winger",
+   "LE": "Brazilian title as a teenager"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_Guilherme"
+  ]
+ },
+ {
+  "espn_id": "9167",
+  "name": "Peter Christiansen",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Denmark",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SønderjyskE",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Viking FK",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Cup 2020 (SønderjyskE); Eliteserien 2025 (Viking, club top scorer); Danish 1st Division Player of the Season 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working striker",
+   "LO": "six years at SønderjyskE",
+   "AB": "prolific in Danish second tier and Eliteserien",
+   "ST": "goalscoring striker",
+   "LE": "top scorer in Viking's 2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peter_Christiansen_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "espn_id": "149479",
+  "name": "Arild Østbø",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Norway",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2008,
+    "to": 2015
+   },
+   {
+    "club": "Sarpsborg 08",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Rosenborg",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Viking FK",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 7.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable squad goalkeeper",
+   "LO": "hometown club, two long spells at Viking",
+   "AB": "Eliteserien goalkeeper, often a backup",
+   "ST": "goalkeeper",
+   "LE": "part of 2025 title squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arild_Østbø"
+  ]
+ },
+ {
+  "espn_id": "164279",
+  "name": "Zlatko Tripic",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Molde",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "Start",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Greuther Fürth",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Sheriff Tiraspol",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Viking FK",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Göztepe",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Viking FK",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Viking captain (2019 cup final, 2025 title)",
+  "honours": "Eliteserien 2011, 2012 (Molde), 2025 (Viking); Norwegian Cup 2013, 2019; Eliteserien Player of the Year 2024",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no issues on record; captain",
+   "WK": "leads by example",
+   "LO": "journeyman early, now Viking's captain over two spells",
+   "AB": "Eliteserien Player of the Year",
+   "ST": "creative wide forward",
+   "LE": "captained Viking to cup and league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zlatko_Tripić"
+  ]
+ },
+ {
+  "espn_id": "173356",
+  "name": "Kristoffer Haugen",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2012,
+    "to": 2018
+   },
+   {
+    "club": "Molde",
+    "from": 2018,
+    "to": 2025
+   },
+   {
+    "club": "Viking FK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2019, 2022 (Molde), 2025 (Viking); Norwegian Cup 2022, 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady full-back",
+   "LO": "seven years at Molde, academy roots at Viking",
+   "AB": "solid Eliteserien regular",
+   "ST": "attacking left-back",
+   "LE": "three league titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristoffer_Haugen"
+  ]
+ },
+ {
+  "espn_id": "186172",
+  "name": "Henrik Rorvik Bjordal",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aalesund",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Zulte Waregem",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Vålerenga",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Viking FK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien Goal of the Month April 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfield workhorse",
+   "LO": "six years at Vålerenga",
+   "AB": "Eliteserien regular",
+   "ST": "midfielder with the odd spectacular goal",
+   "LE": "no major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henrik_Bjørdal"
+  ]
+ },
+ {
+  "espn_id": "228294",
+  "name": "Joe Bell",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1999,
+  "nation": "New Zealand",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Brøndby",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Viking FK",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "New Zealand U20 captain",
+  "honours": "Eliteserien 2025 (Viking); OFC U-19 Championship 2018 (Golden Ball); 2019 college Player of the Year (Virginia)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "tidy, tireless holding midfielder",
+   "LO": "returned to Viking after a year at Brøndby",
+   "AB": "New Zealand international regular",
+   "ST": "neat passer",
+   "LE": "All Whites regular, 2025 champion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Bell_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "280963",
+  "name": "Kristoffer Askildsen",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Stabæk",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Lecce",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Midtjylland",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Viking FK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking); 1 Norway cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "box-to-box midfielder",
+   "LO": "several moves, four years at Sampdoria",
+   "AB": "Serie A squad player, Eliteserien regular",
+   "ST": "midfielder",
+   "LE": "one cap, 2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristoffer_Askildsen"
+  ]
+ },
+ {
+  "espn_id": "286826",
+  "name": "Gianni Stensness",
+  "club_id": "510",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Australia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Wellington Phoenix",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Central Coast Mariners",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Viking FK",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking); 2 Australia caps; 2020 Olympic squad (New Zealand)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile, plays midfield or defence",
+   "LO": "five seasons at Viking",
+   "AB": "Eliteserien regular, Australia caps",
+   "ST": "defensive midfielder/centre-back",
+   "LE": "Olympian, 2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianni_Stensness"
+  ]
+ },
+ {
+  "espn_id": "300089",
+  "name": "Jesper Daland",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Start",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Cercle Brugge",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Cardiff City",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Viking FK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "IK Start Young Player of the Year 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "solid centre-back",
+   "LO": "three years at Cercle Brugge; now on loan from Cardiff",
+   "AB": "Belgian top-flight regular, Championship squad player",
+   "ST": "no-frills centre-back",
+   "LE": "no major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jesper_Daland"
+  ]
+ },
+ {
+  "espn_id": "303977",
+  "name": "Henrik Heggheim",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Brøndby",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Viking FK",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady defender",
+   "LO": "hometown academy graduate, back at Viking",
+   "AB": "Eliteserien regular",
+   "ST": "centre-back",
+   "LE": "2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henrik_Heggheim"
+  ]
+ },
+ {
+  "espn_id": "392602",
+  "name": "Tobias Moi",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien Young Player of the Month May 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young defensive midfielder",
+   "LO": "academy graduate, one club so far",
+   "AB": "breaking into Eliteserien side",
+   "ST": "defensive midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tobias_Moi"
+  ]
+ },
+ {
+  "espn_id": "239925",
+  "name": "Erik Botheim",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lyn",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Rosenborg",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Krasnodar",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Salernitana",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Malmö FF",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Viking FK",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2017, 2018 (Rosenborg), 2021 (Bodø/Glimt); Norwegian Cup 2018; Allsvenskan 2024, Svenska Cupen 2024 (Malmö)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing striker",
+   "LO": "seven clubs in ten years",
+   "AB": "Serie A spell, title winner in two countries",
+   "ST": "forward",
+   "LE": "four league titles, part of Glimt's 2021 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erik_Botheim"
+  ]
+ },
+ {
+  "espn_id": "303105",
+  "name": "Herman Haugen",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2020,
+    "to": null
+   },
+   {
+    "club": "Raufoss",
+    "from": 2021,
+    "to": 2022
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "squad full-back",
+   "LO": "Viking since 2020, loans aside",
+   "AB": "Eliteserien squad player",
+   "ST": "right-back",
+   "LE": "2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Herman_Haugen"
+  ]
+ },
+ {
+  "espn_id": "303281",
+  "name": "Henrik Falchener",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sandefjord",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Ørn Horten",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Egersund",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Viking FK",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking); Eliteserien Player of the Month May 2025; Norway World Cup 2026 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "rose from the lower leagues",
+   "LO": "climbed via lower divisions, second season at Viking",
+   "AB": "Norway international, 2026 World Cup squad",
+   "ST": "goalscoring centre-back",
+   "LE": "title in debut top-flight season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henrik_Falchener"
+  ]
+ },
+ {
+  "espn_id": "320678",
+  "name": "Simen Kvia-Egeskog",
+  "club_id": "510",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Viking FK",
+    "from": 2021,
+    "to": null
+   },
+   {
+    "club": "Skeid",
+    "from": 2022,
+    "to": 2023
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2025 (Viking)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfield regular",
+   "LO": "hometown academy graduate, Viking since 2021",
+   "AB": "Eliteserien regular",
+   "ST": "midfielder who chips in goals",
+   "LE": "2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Simen_Kvia-Egeskog"
+  ]
+ }
+]

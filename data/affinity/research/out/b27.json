@@ -1,0 +1,1942 @@
+[
+ {
+  "espn_id": "134307",
+  "name": "Rafael",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Brazil",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Santos",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "Napoli",
+    "from": 2013,
+    "to": 2018
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Reading",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Cruzeiro",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2011, Copa do Brasil 2010, Coppa Italia 2014, Supercoppa Italiana 2014, Série B 2022; Reading Player of the Season 2019-20; 1 Brazil cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record of conduct or causes",
+   "WK": "steady goalkeeper, no ego issues recorded",
+   "LO": "five clubs; long spells at Santos and Napoli",
+   "AB": "Libertadores winner, Napoli No. 1 at peak, one Brazil cap",
+   "ST": "goalkeeper; shootout saves",
+   "LE": "won the 2011 Libertadores and 2014 Supercoppa shootout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Cabral"
+  ]
+ },
+ {
+  "espn_id": "362114",
+  "name": "Noel Caliskan",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Portland Timbers",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "WCC Player of the Year 2020 (college); Hermann Trophy semifinalist",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "worked up from MLS Next Pro to a regular",
+   "LO": "young pro, third season at RSL",
+   "AB": "MLS regular midfielder",
+   "ST": "creative college midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noel_Caliskan"
+  ]
+ },
+ {
+  "espn_id": "418187",
+  "name": "Sergi Solans",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lane United",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Asheville City SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known; mobile forward",
+   "LO": "first MLS season",
+   "AB": "first-year MLS forward via amateur leagues",
+   "ST": "mobile goal-scoring forward",
+   "LE": "first-season pro"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Solans"
+  ]
+ },
+ {
+  "espn_id": "287497",
+  "name": "Juan Manuel Sanabria",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Atlético Madrid",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Atlético San Luis",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-20 Copa Libertadores 2018 (Nacional); Uruguay international, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile midfielder/left-back",
+   "LO": "long spell at San Luis, new at RSL",
+   "AB": "Uruguay international, World Cup squad 2026",
+   "ST": "attacking wide player",
+   "LE": "World Cup squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Manuel_Sanabria",
+   "https://es.wikipedia.org/wiki/Juan_Manuel_Sanabria"
+  ]
+ },
+ {
+  "espn_id": "294874",
+  "name": "Philip Quinton",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Columbus Crew",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "high school captain",
+  "honours": "MLS Cup 2023; MLS Next Pro 2022; Academic All-American (Notre Dame)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; academic honours",
+   "WK": "squad defender who earned his MLS deal",
+   "LO": "third season at RSL",
+   "AB": "MLS rotation defender",
+   "ST": "no-frills defender",
+   "LE": "MLS Cup winner as squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philip_Quinton"
+  ]
+ },
+ {
+  "espn_id": "183778",
+  "name": "DeAndre Yedlin",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Seattle Sounders FC",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Sunderland",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Galatasaray",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained USA once (2019); Inter Miami vice-captain",
+  "honours": "U.S. Open Cup and Supporters' Shield 2014; EFL Championship 2017; Leagues Cup 2023; CONCACAF Nations League 2020; two World Cups (2014, 2022)",
+  "causes": [
+   "Outspoken on Black Lives Matter and police brutality (2020)",
+   "Part-owner of San Diego Loyal SC (2021)"
+  ],
+  "CH": 7.5,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "spoke out on racism and police brutality",
+   "WK": "called a 'glue guy'; held teammates to account in Qatar",
+   "LO": "many clubs; Seattle homegrown",
+   "AB": "Premier League right-back, long-time USMNT regular",
+   "ST": "fast attacking full-back",
+   "LE": "only US player at 2014 and 2022 World Cups; Messi armband moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/DeAndre_Yedlin"
+  ]
+ },
+ {
+  "espn_id": "305777",
+  "name": "Morgan Guilavogui",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Guinea",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Paris FC",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "RC Lens",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "FC St. Pauli",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Guinea international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "several clubs, first RSL season",
+   "AB": "Ligue 2 / Bundesliga forward, Guinea cap",
+   "ST": "forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_Guilavogui"
+  ]
+ },
+ {
+  "espn_id": "399190",
+  "name": "Aiden Hezarkhani",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2007,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. youth international (U-18, U-19)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "RSL academy product, one club",
+   "AB": "teenager breaking into MLS",
+   "ST": "young attacking player",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aiden_Hezarkhani"
+  ]
+ },
+ {
+  "espn_id": "216288",
+  "name": "Stijn Spierings",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AZ",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Sparta Rotterdam",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "RKC Waalwijk",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Levski Sofia",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Toulouse",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "RC Lens",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Brøndby",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2023 and Ligue 2 2022 (Toulouse); Eerste Divisie 2016 (Sparta)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "central midfielder, nothing against him",
+   "LO": "journeyman, eight senior clubs",
+   "AB": "Ligue 1 regular, Coupe de France winner",
+   "ST": "box-to-box, scored winner on RSL debut",
+   "LE": "cup winner with Toulouse"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stijn_Spierings"
+  ]
+ },
+ {
+  "espn_id": "256489",
+  "name": "Samuel Junqua",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2018 All-Pac-12 third team (Cal)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile left-back/centre-back",
+   "LO": "three MLS clubs",
+   "AB": "MLS regular defender",
+   "ST": "defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move 1: after his Houston contract expired he signed directly with Texas Derby rivals FC Dallas (2023).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Junqua"
+  ]
+ },
+ {
+  "espn_id": "148356",
+  "name": "Diego Luna",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "El Paso Locomotive",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Young Player of the Year 2024; MLS All-Star 2024, 2025; Gold Cup Best XI 2025; CONCACAF U-20 Championship 2022",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no issues; praised for character by Pochettino",
+   "WK": "played on with a broken nose for the US",
+   "LO": "fifth season at RSL",
+   "AB": "USMNT attacker, Gold Cup Best XI",
+   "ST": "dribbling attacking midfielder",
+   "LE": "Gold Cup brace, Young Player of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Luna_(soccer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "311520",
+  "name": "Lukas Engel",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vejle",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Silkeborg",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Middlesbrough",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "several clubs, new at RSL",
+   "AB": "Superliga and Championship full-back",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_Engel"
+  ]
+ },
+ {
+  "espn_id": "203329",
+  "name": "Justen Glad",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Salt Lake",
+    "from": 2015,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "RSL MVP 2022; MLS All-Star 2024; CONCACAF U-20 Championship 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 8.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record of causes or issues",
+   "WK": "dependable centre-back",
+   "LO": "one-club RSL academy product, third in club appearances",
+   "AB": "MLS All-Star centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "RSL stalwart behind Rimando and Beckerman"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justen_Glad"
+  ]
+ },
+ {
+  "espn_id": "243168",
+  "name": "Alexandros Katranis",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Greece",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atromitos",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Saint-Étienne",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Atromitos",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Hatayspor",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Piast Gliwice",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "many loans; third season at RSL",
+   "AB": "MLS regular left-back",
+   "ST": "attacking left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexandros_Katranis"
+  ]
+ },
+ {
+  "espn_id": "364658",
+  "name": "Dominik Marczuk",
+  "club_id": "4771",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Podlasie Biała Podlaska",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Stal Rzeszów",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Jagiellonia Białystok",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2025,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ekstraklasa 2023-24 (Jagiellonia); Ekstraklasa Young Player of the Season 2023-24; Poland international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "ever-present in title season",
+   "LO": "loaned out in 2025, back at RSL",
+   "AB": "Poland international winger",
+   "ST": "winger, assist hat-trick in title run",
+   "LE": "key in Jagiellonia's first title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominik_Marczuk"
+  ]
+ },
+ {
+  "espn_id": "192027",
+  "name": "Ethan Horvath",
+  "club_id": "190",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Molde",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Luton Town",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Cardiff City",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League x3, Eliteserien and Norwegian Cup 2014, Championship play-offs 2022 and 2023, CONCACAF Nations League 2020 and 2024; 2022 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record of causes or issues",
+   "WK": "dependable backup and starter",
+   "LO": "several clubs",
+   "AB": "Champions League keeper with Brugge, USMNT backup",
+   "ST": "goalkeeper; big saves",
+   "LE": "2021 Nations League final penalty save"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; one sending-off for a late challenge (2025), not violent conduct.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Horvath"
+  ]
+ },
+ {
+  "espn_id": "288041",
+  "name": "Julian Hall",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2008,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Red Bull New York",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2026; youngest MLS hat-trick scorer; scored in each of first three USMNT matches (2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; teenager",
+   "WK": "nothing known",
+   "LO": "Red Bulls academy graduate, one club",
+   "AB": "USMNT forward at 18, MLS All-Star",
+   "ST": "goalscoring young striker",
+   "LE": "youngest MLS hat-trick, record USMNT start"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Hall_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "381687",
+  "name": "Adri Mehmeti",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2009,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Red Bull New York",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. national team call-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; 17 years old",
+   "WK": "nothing known",
+   "LO": "Red Bulls academy since 2019",
+   "AB": "17-year-old MLS starter, USMNT call-up",
+   "ST": "young central midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adri_Mehmeti"
+  ]
+ },
+ {
+  "espn_id": "285698",
+  "name": "Cade Cowell",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Guadalajara",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2021; CONCACAF U-20 Championship 2022; Liga MX Player of the Month July 2024; USA caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "San Jose homegrown, now on loan from Chivas",
+   "AB": "USMNT capped forward, Liga MX starter",
+   "ST": "pacy, direct winger/striker",
+   "LE": "rare American at Chivas"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cade_Cowell"
+  ]
+ },
+ {
+  "espn_id": "362442",
+  "name": "Ronald Donkor",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Guidars FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "worked up to starter in 2026",
+   "LO": "fourth season, extended contract",
+   "AB": "MLS starting midfielder",
+   "ST": "creative, three-assist game",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronald_Donkor"
+  ]
+ },
+ {
+  "espn_id": "242942",
+  "name": "Dylan Nealis",
+  "club_id": "190",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Inter Miami CF",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "captained Georgetown to 2019 NCAA title",
+  "honours": "NCAA championship 2019 (Defensive MOP); Hermann Trophy finalist",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "reliable full-back, college captain",
+   "LO": "fifth season at Red Bulls",
+   "AB": "MLS regular defender",
+   "ST": "defensive full-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dylan_Nealis"
+  ]
+ },
+ {
+  "espn_id": "329917",
+  "name": "Jorge Ruvalcaba",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Mexico",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Pumas UNAM",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Standard Liège",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Mexico international (debut 2025)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "four years at Pumas, new at Red Bulls",
+   "AB": "Mexico-capped winger",
+   "ST": "goalscoring winger",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba"
+  ]
+ },
+ {
+  "espn_id": "385287",
+  "name": "Matthew Dos Santos",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2008,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U-15 MLS NEXT Cup 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; 18 years old",
+   "WK": "nothing known",
+   "LO": "Red Bulls academy since 2017",
+   "AB": "teenage MLS starter",
+   "ST": "young attacking left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthew_Dos_Santos"
+  ]
+ },
+ {
+  "espn_id": "148641",
+  "name": "Emil Forsberg",
+  "club_id": "190",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Sweden",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "GIF Sundsvall",
+    "from": 2009,
+    "to": 2012
+   },
+   {
+    "club": "Malmö FF",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2015,
+    "to": 2023
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "captained Leipzig in his final match",
+  "honours": "Allsvenskan 2013, 2014; DFB-Pokal 2022, 2023; Guldbollen 2021; Bundesliga top assister 2016-17; 92 Sweden caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "no causes on record; one violent-conduct red",
+   "WK": "creator who works for the team",
+   "LO": "eight years at Leipzig, fans' farewell banners",
+   "AB": "Bundesliga's top assister, Guldbollen winner",
+   "ST": "creative playmaker, Kevin's type of No. 10",
+   "LE": "World Cup winner vs Switzerland, Euro 2020 record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence 1: sent off and banned three matches in 2018 for striking a Hoffenheim player in the neck while breaking free of a challenge (he disputed it).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emil_Forsberg",
+   "https://morungexpress.com/leipzigs-forsberg-banned-rest-season"
+  ]
+ },
+ {
+  "espn_id": "302060",
+  "name": "Jahkeele Marshall-Rutty",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "CF Montréal",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canada international; youngest Toronto FC player",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "Toronto homegrown, then three clubs in two years",
+   "AB": "Canada-capped MLS full-back",
+   "ST": "attacking right-back",
+   "LE": "youngest TFC debutant and Canada call-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move 1: went directly from Toronto FC to rivals CF Montréal (2024), though by club trade rather than his own choice.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jahkeele_Marshall-Rutty"
+  ]
+ },
+ {
+  "espn_id": "282582",
+  "name": "Justin Che",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Hoffenheim",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Brøndby",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "ADO Den Haag",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Patro Eisden",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One All-League 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "Dallas homegrown, many loans since",
+   "AB": "MLS defender, brief Bundesliga stint",
+   "ST": "right-back / centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Che"
+  ]
+ },
+ {
+  "espn_id": "380923",
+  "name": "Mohammed Sofo",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Guidars FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "third season at Red Bulls",
+   "AB": "young MLS forward",
+   "ST": "attacking forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohammed_Sofo"
+  ]
+ },
+ {
+  "espn_id": "361422",
+  "name": "Julián Bazán",
+  "club_id": "190",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Deportivo Pereira",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2025 FIFA U-20 World Cup third place (Colombia)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "nothing known",
+   "LO": "first MLS season",
+   "AB": "young defender, Colombia U-20",
+   "ST": "defender",
+   "LE": "U-20 World Cup bronze"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julián_Bazán"
+  ]
+ },
+ {
+  "espn_id": "102254",
+  "name": "Eric Maxim Choupo-Moting",
+  "club_id": "190",
+  "gender": "M",
+  "born": 1989,
+  "nation": "Cameroon",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Hamburger SV",
+    "from": 2007,
+    "to": 2011
+   },
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2009,
+    "to": 2010
+   },
+   {
+    "club": "Mainz 05",
+    "from": 2011,
+    "to": 2014
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Stoke City",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga x3, Ligue 1 x2, Club World Cup 2020, Coupe de France 2020; three World Cups with Cameroon",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "willing backup, credited with high work rate",
+   "LO": "journeyman, eight clubs",
+   "AB": "Bundesliga/PSG squad striker, Cameroon international",
+   "ST": "powerful dribbler, composed finisher",
+   "LE": "late winner vs Atalanta, World Cup goal, famous miss"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Maxim_Choupo-Moting"
+  ]
+ },
+ {
+  "espn_id": "217009",
+  "name": "Tim Parker",
+  "club_id": "190",
+  "gender": "M",
+  "born": 1993,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Vancouver Whitecaps FC",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Houston Dynamo",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "St. Louis City SC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Red Bull New York",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Houston Dynamo co-captain 2021; college captain",
+  "honours": "Supporters' Shield 2018; Canadian Championship 2015; MLS Best XI 2023; 1 USA cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record of causes or issues",
+   "WK": "dependable leader, played every minute in 2021",
+   "LO": "five clubs; returned to Red Bulls",
+   "AB": "MLS Best XI centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "scored St. Louis City's first-ever goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Parker_(soccer)"
+  ]
+ }
+]

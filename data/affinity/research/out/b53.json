@@ -1,0 +1,2002 @@
+[
+ {
+  "espn_id": "256235",
+  "name": "Khori Bennett",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Reading United",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Charlotte Independence",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Las Vegas Lights",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Al-Nasr (Kuwait)",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Reading United all-time top scorer; Jamaica senior call-up 2024; youth good-sportsmanship prize (2014)",
+  "causes": [],
+  "CH": 6.2,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found; youth sportsmanship prize",
+   "WK": "goal-focused striker, no notes on work rate",
+   "LO": "journeyman, seven senior clubs",
+   "AB": "prolific USL Championship striker, 14 goals in 2026",
+   "ST": "direct goalscorer",
+   "LE": "Jamaica call-up, no caps; club record fee at Las Vegas"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. 2025 move to Kuwaiti Al-Nasr is outside the money_league list.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Khori_Bennett"
+  ]
+ },
+ {
+  "espn_id": "319390",
+  "name": "Jon-Talen Maples",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brazos Valley Cavalry",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Toronto FC II",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Houston Dynamo 2",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "New Mexico United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captain of Houston Dynamo 2",
+  "honours": "MLS Next Pro Best XI 2022; New Mexico United team MVP 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "captain-type centre-back, team MVP",
+   "LO": "several clubs, two seasons each",
+   "AB": "solid USL Championship centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club-level honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jon-Talen_Maples"
+  ]
+ },
+ {
+  "espn_id": "316843",
+  "name": "Brennan Creek",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Huntsville City FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US Open Cup Team of the Round 2026; USL Championship Team of the Week 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "second pro club, early career",
+   "AB": "USL Championship squad midfielder",
+   "ST": "midfielder with some late goals",
+   "LE": "no notable legacy yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club signing release used.",
+  "confidence": "low",
+  "sources": [
+   "https://www.switchbacksfc.com/?p=25686"
+  ]
+ },
+ {
+  "espn_id": "274109",
+  "name": "Adrien Perez",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Golden State Force",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "D.C. United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "San Diego Loyal",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Louisville City",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed; led MASL in goals with Ontario Fury",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "journeyman, one to two years per club",
+   "AB": "former MLS squad player, USL Championship attacker",
+   "ST": "attacking No. 10/forward, indoor-soccer skills",
+   "LE": "played in MLS with LAFC and D.C. United"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrien_Perez",
+   "https://en.wikipedia.org/wiki/Adrien_Perez_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "236660",
+  "name": "Mathew Mahoney",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bethlehem Steel",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Sacramento Republic",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Temple captain in college",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "long-serving defender, steady",
+   "LO": "sixth season at Colorado Springs, 148+ apps",
+   "AB": "solid USL Championship defender",
+   "ST": "no-frills centre-back",
+   "LE": "club stalwart, no wider profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia title is 'Matt Mahoney (soccer)'; same player (Switchbacks since 2021, born 1995).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Mahoney_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "296230",
+  "name": "Aidan Rocha",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Loudoun United",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Youth captain (Bethesda SC)",
+  "honours": "NCAA champion with Georgetown 2019 (scored winning penalty); Big East Midfielder of the Year",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "converted midfielder playing right-back",
+   "LO": "third season at Colorado Springs",
+   "AB": "USL Championship regular",
+   "ST": "two-way full-back",
+   "LE": "NCAA title-winning penalty, college only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia lists midfielder; ESPN lists right-back.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aidan_Rocha"
+  ]
+ },
+ {
+  "espn_id": "149994",
+  "name": "Samuel Williams",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Chicago Fire FC",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Colorado Springs Switchbacks (loan)",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "young, on loan from Chicago Fire",
+   "AB": "young USL Championship midfielder on loan",
+   "ST": "midfielder, little reported",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia title is 'Sam Williams (soccer)'; on loan from Chicago Fire.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Williams_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "288242",
+  "name": "Jonas Fjellberg",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ull/Kisa",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Rio Grande Valley FC (loan)",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "A-10 Offensive Player of the Year 2019 (Dayton)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "impact substitute, no specific notes",
+   "LO": "fourth season at Colorado Springs",
+   "AB": "USL Championship winger, known as an impact sub",
+   "ST": "winger with long-range goals and late winners",
+   "LE": "club-level role, no wider profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia spells the name Fjeldberg; same player (born 1998, Switchbacks No. 7).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonas_Fjeldberg"
+  ]
+ },
+ {
+  "espn_id": "241016",
+  "name": "Patrick Burner",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Martinique",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Nice",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Nîmes",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed; Martinique international",
+  "causes": [
+   "Visited young players at his first club, Golden Star (2017)"
+  ],
+  "CH": 6.3,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; visited his boyhood club's youth players",
+   "WK": "full-back, no specific notes",
+   "LO": "four years each at Nice and Nîmes",
+   "AB": "former Ligue 1 full-back with Nice",
+   "ST": "attacking full-back",
+   "LE": "Ligue 1 career and Martinique caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Burner"
+  ]
+ },
+ {
+  "espn_id": "318798",
+  "name": "Frank Daroma",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Sierra Leone",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College: CCAA Freshman of the Year, All-American (2019)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "four clubs in six seasons",
+   "AB": "USL Championship/MLS Next Pro midfielder",
+   "ST": "holding midfielder, little reported",
+   "LE": "no notable legacy yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Daroma"
+  ]
+ },
+ {
+  "espn_id": "286750",
+  "name": "Juan Tejada",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Panama",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship regular-season title with Tampa Bay (2021); Panama senior cap (2020)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "fourth season at Colorado Springs",
+   "AB": "USL Championship forward, one Panama cap",
+   "ST": "forward, occasional scorer",
+   "LE": "one senior cap, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Tejada"
+  ]
+ },
+ {
+  "espn_id": "420360",
+  "name": "Sadam Masereka",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Uganda",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US Open Cup Team of the Round 2026 (goal and assist v Sporting KC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found; coach praised how he responded to a poor game",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "first pro club, rookie season",
+   "AB": "rookie USL Championship forward",
+   "ST": "forward with a standout Open Cup night",
+   "LE": "part of the club's first win over an MLS side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; birth year estimated from ESPN age 22.",
+  "confidence": "low",
+  "sources": [
+   "https://gazette.com/?p=2015999"
+  ]
+ },
+ {
+  "espn_id": "320621",
+  "name": "Garven Metusala",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Haiti",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "CS St-Hubert",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "CS Fabrose",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "AS Blainville",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Forge FC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Canadian Premier League champion with Forge (2022, 2023); Haiti international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "four seasons at Forge, now second at Colorado Springs",
+   "AB": "Haiti international centre-back, CPL champion",
+   "ST": "no-frills centre-back",
+   "LE": "two CPL titles, Haiti caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Born in Canada, plays for Haiti.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garven_Metusala"
+  ]
+ },
+ {
+  "espn_id": "249405",
+  "name": "Colin Shutler",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "North Texas SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "College All-America (Virginia, 2019)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "four seasons at Orange County",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper who scored a stoppage-time equaliser (2024)",
+   "LE": "first Orange County keeper to score"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colin_Shutler"
+  ]
+ },
+ {
+  "espn_id": "253175",
+  "name": "Christian Herrera",
+  "club_id": "17830",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Mexico",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Swope Park Rangers",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "Orlando City B",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US Open Cup Team of the Round 2026; Mexico U-20",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "fifth season at Colorado Springs after a journeyman start",
+   "AB": "USL Championship starting goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club-level profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. US-born; played youth internationals for both USA and Mexico.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Herrera_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "336727",
+  "name": "Devon Amoo-Mensah",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FK Älmeboda/Linneryd",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Michigan Stars",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Detroit City Black Arrow Award (players' player of the year) 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "players' player of the year award",
+   "LO": "fifth season at Detroit City",
+   "AB": "solid USL Championship centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "club stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Devon_Amoo-Mensah"
+  ]
+ },
+ {
+  "espn_id": "275079",
+  "name": "Kobe Hernandez-Foster",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "HamKam",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Birmingham Legion",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-17 Championship Best XI 2019; 2019 U-17 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "several moves, including Wolfsburg and Norway",
+   "AB": "former US youth international, USL Championship regular",
+   "ST": "wide midfielder, ex-Wolfsburg prospect",
+   "LE": "US U-17 World Cup player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kobe_Hernandez-Foster"
+  ]
+ },
+ {
+  "espn_id": "384224",
+  "name": "Haruki Yamazaki",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Northern Colorado Hailstorm",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup winner 2024 (Northern Colorado); Detroit City Black Arrow Award (MVP) 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "club MVP, versatile defender/midfielder",
+   "LO": "second season at Detroit City",
+   "AB": "USL Championship regular, club MVP",
+   "ST": "versatile right-back",
+   "LE": "USL Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haruki_Yamazaki"
+  ]
+ },
+ {
+  "espn_id": "246393",
+  "name": "Callum Montgomery",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Canada",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Dallas",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Minnesota United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Cavalry FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Victoria Highlanders captain (2017-18)",
+  "honours": "No. 4 pick, 2019 MLS SuperDraft; college All-American",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "captain at amateur level",
+   "LO": "several clubs, three seasons at Cavalry",
+   "AB": "USL Championship / CPL centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "high draft pick, club-level career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Callum_Montgomery"
+  ]
+ },
+ {
+  "espn_id": "77002",
+  "name": "Carlos Herrera",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Mexico",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Monterey Bay FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "three seasons at Monterey Bay, now at Detroit",
+   "AB": "USL Championship goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club-level profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists Chile, age 26; the only Carlos Herrera at Detroit City is the Mexican goalkeeper born 1997 (age 29).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Herrera_(footballer,_born_1997)",
+   "https://en.wikipedia.org/wiki/Detroit_City_FC"
+  ]
+ },
+ {
+  "espn_id": "269073",
+  "name": "Darren Smith",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1996,
+  "nation": "South Africa",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "AmaZulu",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Santos (South Africa)",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "SuperSport United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Ekenäs IF",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "FC Honka",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "AS FAR",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Inter Turku",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Moroccan Throne Cup; Finnish League Cup 2024; Ykkönen Player of the Year and top scorer 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "journeyman across four countries",
+   "AB": "forward with Finnish top-flight and cup honours",
+   "ST": "goalscoring forward",
+   "LE": "domestic cup honours abroad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Darren_Smith_(footballer,_born_1996)"
+  ]
+ },
+ {
+  "espn_id": "303345",
+  "name": "Abdoulaye Diop",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Senegal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Detroit City FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Atlanta United 2",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfield regular, no specific notes",
+   "LO": "returned to Detroit City, fifth straight season",
+   "AB": "USL Championship midfielder",
+   "ST": "central midfielder",
+   "LE": "club stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdoulaye_Diop_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "303618",
+  "name": "Alasanne Ates Diouf",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Senegal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando City B",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Austin Bold FC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship title with San Antonio 2022; USL League One All-League 2023, 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "several clubs, now settled at Detroit",
+   "AB": "USL Championship forward",
+   "ST": "striker, prolific in League One",
+   "LE": "league title squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. No Wikipedia page; club release used; birth year estimated from ESPN age 26.",
+  "confidence": "low",
+  "sources": [
+   "https://www.detcityfc.com/news/2025/12/05/diouf-signed-through-2027/"
+  ]
+ },
+ {
+  "espn_id": "111864",
+  "name": "Maxi Rodriguez",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Antonio FC",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Richmond Kickers",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship All-League First Team 2024; Detroit City's second-highest scorer (36)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "midfield engine, no specific notes",
+   "LO": "club legend who returned to Detroit",
+   "AB": "USL Championship All-League midfielder",
+   "ST": "attacking midfielder, goals from midfield",
+   "LE": "Detroit City club legend; brace v Columbus Crew in Open Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia 'Maxi Rodriguez (soccer)' is the Argentine (born 1981), not this player; club release used; birth year estimated from ESPN age 31.",
+  "confidence": "low",
+  "sources": [
+   "https://www.detcityfc.com/news/2025/12/19/rodriguez-returns-to-detroit-city-fc-on-multi-year-deal/",
+   "https://en.wikipedia.org/wiki/Maxi_Rodriguez_(soccer)"
+  ]
+ },
+ {
+  "espn_id": "316331",
+  "name": "Derrick Silva",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Tucson",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "early career, first season at Detroit",
+   "AB": "USL Championship left-back, ex-Real Salt Lake",
+   "ST": "left-back",
+   "LE": "no notable legacy yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Goes by Tommy Silva.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derrick_Silva"
+  ]
+ },
+ {
+  "espn_id": "254017",
+  "name": "Aeden Stanley",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Saint Louis FC",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Portland Timbers 2",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Austin FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Miami FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Player of the Week (May 2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "journeyman, one to two years per club",
+   "AB": "USL Championship full-back, brief MLS spell",
+   "ST": "attacking left-back",
+   "LE": "club-level profile; played for Timbers 2"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Wikipedia spells the name Aedan; same player (born 1999, Detroit No. 3).",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aedan_Stanley"
+  ]
+ },
+ {
+  "espn_id": "287359",
+  "name": "Jeciel Cedeno",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Ecuador",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New York Red Bulls II",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Oakland Roots",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "third season at Detroit City",
+   "AB": "USL Championship attacking midfielder",
+   "ST": "No. 10 / winger",
+   "LE": "club-level profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeciel_Cedeño"
+  ]
+ },
+ {
+  "espn_id": "223443",
+  "name": "Ryan Williams",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1991,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Colwyn Bay",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Rhyl",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Morecambe",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Inverness Caledonian Thistle",
+    "from": 2016,
+    "to": 2016
+   },
+   {
+    "club": "Ottawa Fury",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "AFC Eskilstuna",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ottawa Fury fans' player of the year 2016",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "veteran midfielder, no specific notes",
+   "LO": "journeyman across England, Scotland, Sweden, US",
+   "AB": "lower-league / USL Championship midfielder",
+   "ST": "wide midfielder",
+   "LE": "fans' player of the year at Ottawa"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Williams_(footballer,_born_1991)"
+  ]
+ },
+ {
+  "espn_id": "361245",
+  "name": "Alex Dalou",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 2000,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Achyronas Liopetriou",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Gold Star Detroit",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Albion San Diego",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "FC Tulsa",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None at senior level",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "several lower-league clubs; Detroit-area native",
+   "AB": "USL Championship squad player",
+   "ST": "forward/midfielder",
+   "LE": "no notable legacy yet"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Dalou"
+  ]
+ },
+ {
+  "espn_id": "123674",
+  "name": "Ben Morris",
+  "club_id": "19179",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ipswich Town",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "GAIS (loan)",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Detroit City FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None listed",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; nothing negative found",
+   "WK": "no specific notes; 6.0 default",
+   "LO": "Ipswich academy graduate, now fourth season at Detroit",
+   "AB": "USL Championship forward after two ACL injuries",
+   "ST": "striker",
+   "LE": "club-level profile"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Morris_(footballer)"
+  ]
+ }
+]
