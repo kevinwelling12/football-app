@@ -30,10 +30,14 @@ guessing = 1.099):
 |---|---|---|---|---|---|
 | EPL + BL + UCL | 4,129 | 0.966 | 1.175 | 1.043 / 1.035 | 0.960 / 1.211 |
 | MLS | 2,856 | 1.044 | 1.064 | 1.064 / 1.046 | 1.026 / 1.069 |
-| NWSL | 964 | 1.035 | 1.049 | 1.064 / 1.002 | (no odds history) |
-| USL | 2,477 | 1.027 | 1.069 | 1.043 / 1.034 | (no odds history) |
+| NWSL | 964 | 1.034 | 1.075 | 1.064 / 1.002 | (no odds history) |
+| USL | 2,477 | 1.026 | 1.069 | 1.043 / 1.034 | (no odds history) |
 
 \* current season only, goals only, no Elo prior (what the previous app did).
+
+Tuned settings: Europe half-life 200 days, goals/proxy 50/50, prior 10 matches, gamma 1.6; MLS 120 / 50/50 / 16 / 0.6;
+NWSL 120 / shots proxy only / 4 / 0.2; USL 160 / 85% goals / 16 / 1.0. Shots carry the most signal in the NWSL and
+the least in the USL.
 
 Blend weight: the backtest scores w = 0 … 0.9 on matches with closing odds; the best was the most market-heavy tested
 (0.9 for Europe and MLS). NWSL and USL use 0.7 where DraftKings has a line. The market is still a little sharper than the
