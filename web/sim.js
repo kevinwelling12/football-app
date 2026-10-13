@@ -208,6 +208,11 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
   const pts = new Float64Array(N), w = new Float64Array(N), gd = new Float64Array(N), gf = new Float64Array(N), agf = new Float64Array(N);
   const resultCount = rem.map(() => new Float64Array(3));
   const key = new Float64Array(N);
+  // match importance: for each remaining match, how often each side lands in each zone (and wins the title/cup)
+  // given home win / draw / away win. Stakes = how far a result moves those chances.
+  const ZK = [...rules.zones.map(z => z.key), ...(rules.playoffs ? ['champ'] : [])], Z = ZK.length;
+  const inZ = new Uint8Array(Z * N), res = new Int8Array(rem.length);
+  const cond = rem.map(() => new Float64Array(3 * 2 * Z));
   for (let s = 0; s < sims; s++) {
     for (let i = 0; i < N; i++) { pts[i] = base[i].pts; w[i] = base[i].w; gd[i] = base[i].gd; gf[i] = base[i].gf; agf[i] = base[i].awayGf; }
     for (let j = 0; j < rem.length; j++) {
@@ -215,7 +220,8 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
       let hs = (k / W) | 0, as = k % W;
       if (m.st === 'live') { hs += m.hs; as += m.as; }
       gf[m.h] += hs; gf[m.a] += as; gd[m.h] += hs - as; gd[m.a] += as - hs; agf[m.a] += as;
-      if (hs > as) { pts[m.h] += 3; w[m.h]++; resultCount[j][0]++; } else if (hs < as) { pts[m.a] += 3; w[m.a]++; resultCount[j][2]++; } else { pts[m.h]++; pts[m.a]++; resultCount[j][1]++; }
+      const o = hs > as ? 0 : hs === as ? 1 : 2; res[j] = o; resultCount[j][o]++;
+      if (o === 0) { pts[m.h] += 3; w[m.h]++; } else if (o === 2) { pts[m.a] += 3; w[m.a]++; } else { pts[m.h]++; pts[m.a]++; }
     }
     for (let i = 0; i < N; i++) {
       let k = 0;
@@ -227,13 +233,19 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
     seeds.forEach(sd => sd.forEach((t, k) => { pos[t][k + 1]++; }));
     const all = groups.flatMap(g => g.idx).sort((x, y) => key[y] - key[x]);
     all.forEach((t, k) => { opos[t][k + 1]++; });
-    for (const z of rules.zones) {
+    inZ.fill(0);
+    rules.zones.forEach((z, zi) => {
       const list = (z.scope === 'group') ? seeds.flatMap(sd => sd.slice(z.from - 1, z.to)) : (rules.groups ? all : seeds[0]).slice(z.from - 1, z.to);
-      for (const t of list) zone[z.key][t]++;
-    }
+      for (const t of list) { zone[z.key][t]++; inZ[zi * N + t] = 1; }
+    });
     if (rules.playoffs) {
       const b = bracket(rules.playoffs.type, L, r, rules.groups ? seeds : [all], pts, matches);
       for (const k in b) { const a = rounds[k] || (rounds[k] = new Float64Array(N)); for (const t of b[k]) a[t]++; }
+      for (const t of b.champ || []) inZ[(Z - 1) * N + t] = 1;
+    }
+    for (let j = 0; j < rem.length; j++) {
+      const c = cond[j], o = res[j] * 2 * Z, h = rem[j].h, a = rem[j].a;
+      for (let zi = 0; zi < Z; zi++) { c[o + zi] += inZ[zi * N + h]; c[o + Z + zi] += inZ[zi * N + a]; }
     }
   }
   const f = x => x / sims;
@@ -244,7 +256,21 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
     rounds: Object.fromEntries(Object.keys(rounds).map(k => [k, f(rounds[k][i])])),
   }));
   for (const t of teams) t.avgPos = t.pos.reduce((s, p, k) => s + p * k, 0);
-  const fixtures = rem.map((m, j) => ({ id: m.id, p: Array.from(resultCount[j], f) }));
+  const W8 = { gold: 1, good: 0.8, ok: 0.6, warn: 0.5, bad: 0.8 };
+  const weight = k => (k === 'champ' ? 1 : W8[rules.zones.find(z => z.key === k).tone] ?? 0.6);
+  const fixtures = rem.map((m, j) => {
+    const rc = resultCount[j], c = cond[j], swings = [];
+    let imp = 0;
+    for (let side = 0; side < 2; side++) for (let zi = 0; zi < Z; zi++) {
+      const pr = [0, 1, 2].map(o => (rc[o] ? c[o * 2 * Z + side * Z + zi] / rc[o] : null));
+      if (pr[0] == null || pr[2] == null) continue;
+      const sw = Math.abs(pr[0] - pr[2]);
+      imp += weight(ZK[zi]) * sw;
+      if (sw >= 0.03) swings.push({ side, key: ZK[zi], H: +pr[0].toFixed(3), D: pr[1] == null ? null : +pr[1].toFixed(3), A: +pr[2].toFixed(3), sw: +sw.toFixed(3) });
+    }
+    swings.sort((x, y) => y.sw - x.sw);
+    return { id: m.id, p: Array.from(rc, f), imp: +imp.toFixed(4), swings: swings.slice(0, 4) };
+  });
   return { sims, teams, fixtures, rounds: Object.keys(rounds) };
 }
 

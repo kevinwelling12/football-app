@@ -143,7 +143,7 @@ async function pollLive() {
 }
 
 // ------------------------------------------------------------------ match rows
-function matchRow(k, m, { showLeague = false } = {}) {
+function matchRow(k, m, { showLeague = false, withDay = false } = {}) {
   const L = D[k], H = L.teams[m.h], A = L.teams[m.a], fav = favIds();
   const played = isPlayed(m), live = m.st === 'live';
   let time;
@@ -151,6 +151,7 @@ function matchRow(k, m, { showLeague = false } = {}) {
   else if (played) time = m.st === 'pen' ? 'Pens' : m.st === 'aet' ? 'AET' : 'FT';
   else if (m.st === 'ppd') time = 'Ppd'; else if (m.st === 'canc') time = 'Canc';
   else time = fmtTime(m.t);
+  if (withDay && !played && !live && dayKey(m.t) !== dayKey(Date.now())) time = `<div class="tiny">${new Date(m.t).toLocaleDateString([], { weekday: 'short' })}</div>${time}`;
   const wl = side => (played ? (Math.sign(m.hs - m.as) * (side === 'h' ? 1 : -1) > 0 ? 'win' : m.hs === m.as ? '' : 'lose') : '');
   let right = '';
   if (played || live) right = `<div class="mside"><b class="score">${m.hs}</b><b class="score">${m.as}</b></div>`;
@@ -176,6 +177,8 @@ function viewToday() {
     const L = D[k]; if (!L) continue;
     L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   }
+  const todays = []; for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) if (dayKey(m.t) === dayKey(now)) todays.push([k, m]);
+  out.push(featureCard('Match of the day', featured(todays, 'day:' + dayKey(now))));
   if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap">${cards.join('')}</div>`);
   // live
   const live = [];
@@ -244,7 +247,8 @@ function viewMatches(k) {
   const inWeek = ms.filter(m => wk(m.t) === weeks[cur]);
   const byDay = new Map(); for (const m of inWeek) { const d = dayKey(m.t); (byDay.get(d) || byDay.set(d, []).get(d)).push(m); }
   const label = new Date(weeks[cur]).toLocaleDateString([], { month: 'short', day: 'numeric' });
-  let html = `<div class="section"><h2>Week of ${label}</h2><span class="toggle"><button data-week="-1" aria-label="Previous week">‹</button><button data-week="0">This week</button><button data-week="1" aria-label="Next week">›</button></span></div>`;
+  const motw = featureCard('Match of the week', featured(inWeek.map(m => [k, m]), `${k}:${weeks[cur]}`));
+  let html = motw + `<div class="section"><h2>Week of ${label}</h2><span class="toggle"><button data-week="-1" aria-label="Previous week">‹</button><button data-week="0">This week</button><button data-week="1" aria-label="Next week">›</button></span></div>`;
   for (const [d, list] of [...byDay].sort()) html += `<div class="section"><h2 style="font-size:12px">${dayLabel(d)}</h2></div><div class="card row-gap">${list.map(m => matchRow(k, m)).join('')}</div>`;
   if (!inWeek.length) html += '<div class="empty">No matches this week.</div>';
   return html;
@@ -312,6 +316,35 @@ function viewOdds(k) {
   html += `<p class="note">Percent chance from ${SIMS.toLocaleString()} simulated seasons. ✓ = clinched, – = eliminated (proven, not simulated). ${roundsAll.length ? 'Post-season brackets follow the competition\'s format; higher seeds host.' : ''} Match odds blend our model with ${blendLabel(L)}.</p>`;
   return html;
 }
+// ---- match importance / match of the week
+const fixInfo = (k, id) => SIM[k]?.sim?.fixtures.find(f => f.id === id);
+const zoneName = (k, key) => (key === 'champ' ? (LEAGUES[k].playoffs?.type === 'ucl' ? 'Win the competition' : 'Win the title') : LEAGUES[k].zones.find(z => z.key === key)?.label || key);
+function stakeLine(k, m, s) {
+  const t = D[k].teams[s.side ? m.a : m.h], win = s.side ? s.A : s.H, loss = s.side ? s.H : s.A;
+  return { team: t, zone: zoneName(k, s.key), win, draw: s.D, loss };
+}
+// pick = highest blend of importance (vs the best in the set) and closeness; locked once the chosen match kicks off
+function featured(list, lockKey) {
+  const scored = list.map(([k, m]) => { const f = fixInfo(k, m.id); if (!f) return null; const p = f.p; return { k, m, f, close: 1 - Math.abs(p[0] - p[2]) }; }).filter(Boolean);
+  const stored = store.get().motw?.[lockKey];
+  if (stored) {
+    const hit = list.find(([k, m]) => `${k}:${m.id}` === stored);
+    if (hit && (Date.parse(hit[1].t) <= Date.now() || isPlayed(hit[1]) || hit[1].st === 'live')) return { k: hit[0], m: hit[1], f: fixInfo(hit[0], hit[1].id), locked: true };
+  }
+  if (!scored.length) return null;
+  const mx = Math.max(...scored.map(x => x.f.imp)) || 1;
+  for (const x of scored) x.score = 0.75 * x.f.imp / mx + 0.25 * x.close;
+  const best = scored.sort((a, b) => b.score - a.score)[0], id = `${best.k}:${best.m.id}`;
+  if (stored !== id) setTimeout(() => store.set(s => { (s.motw || (s.motw = {}))[lockKey] = id; }), 0);
+  return best;
+}
+function featureCard(title, x) {
+  if (!x) return '';
+  const s = x.f?.swings?.[0], line = s ? stakeLine(x.k, x.m, s) : null;
+  const why = line ? `<div class="small muted" style="padding:0 16px 12px 82px">${esc(line.team.s)}: ${esc(line.zone.toLowerCase())} ${pctTxt(line.win)} with a win, ${pctTxt(line.loss)} with a loss</div>` : '';
+  return `<div class="section"><h2>${title}</h2><span class="aside">${LEAGUES[x.k].tag}</span></div><div class="card">${matchRow(x.k, x.m, { withDay: true })}${why}</div>`;
+}
+
 const blendLabel = L => `the betting line where there is one (${Math.round(L.P.mktW * 100)}% market)`;
 
 function viewScenarios(k) {
@@ -459,6 +492,12 @@ function matchSheet(k, id) {
         <div>Elo</div><div>${H.elo}</div><div></div><div>${A.elo}</div></div>`;
     }
     html += '</div>';
+  }
+  // what's at stake
+  const fi = fixInfo(k, m.id);
+  if (fi?.swings?.length) {
+    html += `<div class="block"><h4>What's at stake</h4><div class="kv"><div class="hd"></div><div class="hd">Win</div><div class="hd">Draw</div><div class="hd">Loss</div>
+      ${fi.swings.map(s => { const x = stakeLine(k, m, s); return `<div>${esc(x.team.s)} · ${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
   }
   // pick
   if (!played && m.lh && !live) {

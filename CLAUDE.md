@@ -38,6 +38,13 @@ mix goals with a shots-on-target xG proxy, pulled toward the Elo prior. Draw cal
 blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-match predictions are frozen in history/
 once a match starts (`pk`), so the Picks record is honest; picks for matches before the app existed are walk-forward (`pk.wf`).
 
+## Match importance, match of the day/week
+sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.
+Importance = weighted sum of |P(win) − P(loss)| swings (gold 1, good 0.8, ok 0.6, warn 0.5, bad 0.8, title/cup 1).
+Match of the day (Today, all leagues) and of the week (each league's Matches tab) = 0.75 × importance (vs the best in
+the set) + 0.25 × closeness; the choice is stored in state.motw and locked once that match kicks off.
+The match sheet shows the swings as "What's at stake".
+
 ## Working agreements (carried over from the old app)
 - Plain, short replies. Show what changed and the concrete effect (numbers, examples). No hype.
 - Never overwrite results Kevin entered. His entries win over ESPN in the app; disagreements are shown, not resolved.

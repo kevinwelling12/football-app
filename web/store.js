@@ -1,8 +1,8 @@
 // Saved state: your own entries (results, live scores), followed clubs, your FotMob picks and settings.
 // Always kept in localStorage; with Google sign-in it also syncs through Firestore (users/{uid}/app/state),
-// the same Firebase project as the old suite but a new document, so the old data stays untouched.
+// (Firebase project set up per docs/firebase-setup.md).
 const LS = 'football-app-v1';
-const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, updated: 0 });
+const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, motw: {}, updated: 0 });
 
 let state = load(), listeners = [], cloud = null, user = null, status = 'local';
 
@@ -22,8 +22,8 @@ export const store = {
   },
 };
 
-const toDoc = s => ({ entries: JSON.stringify(s.entries), favs: JSON.stringify(s.favs), picks: JSON.stringify(s.picks), settings: JSON.stringify(s.settings), updated: s.updated });
-const fromDoc = d => ({ entries: JSON.parse(d.entries || '{}'), favs: JSON.parse(d.favs || 'null'), picks: JSON.parse(d.picks || '{}'), settings: JSON.parse(d.settings || '{}'), updated: d.updated || 0 });
+const toDoc = s => ({ entries: JSON.stringify(s.entries), favs: JSON.stringify(s.favs), picks: JSON.stringify(s.picks), settings: JSON.stringify(s.settings), motw: JSON.stringify(s.motw || {}), updated: s.updated });
+const fromDoc = d => ({ entries: JSON.parse(d.entries || '{}'), favs: JSON.parse(d.favs || 'null'), picks: JSON.parse(d.picks || '{}'), settings: JSON.parse(d.settings || '{}'), motw: JSON.parse(d.motw || '{}'), updated: d.updated || 0 });
 
 const hasFirebase = () => typeof firebase !== 'undefined' && window.FIREBASE_CONFIG;
 
@@ -43,7 +43,7 @@ export async function initSync() {
       // merge: entries and picks per match (newest wins), the rest from whichever copy is newer
       const mergeMap = (a, b) => { const out = { ...a }; for (const k in b) out[k] = { ...(a[k] || {}), ...b[k] }; return out; };
       const newer = remote.updated > state.updated ? remote : state;
-      state = { ...newer, entries: mergeMap(state.entries, remote.entries), picks: { ...state.picks, ...remote.picks } };
+      state = { ...newer, entries: mergeMap(state.entries, remote.entries), picks: { ...state.picks, ...remote.picks }, motw: { ...state.motw, ...remote.motw } };
       persist();
     }
     await cloud.set(toDoc(state), { merge: true }).catch(() => {});
