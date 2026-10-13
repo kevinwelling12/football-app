@@ -66,7 +66,8 @@ Write a JSON array to the file path you are given, one object per player, in the
   a solid international with one famous moment 4; most club regulars 2–4.
 
 ## Incident codes (separate from the traits — don't double count)
-- `abuse_allegation` 0–2 (0 none, 1 credible allegation: charged, acquitted or dropped, 2 convicted or settled)
+- `abuse_allegation` 0–2 (0 none, 1 credible allegation: charged, acquitted or dropped, 2 convicted or settled).
+  Under investigation but not charged = 0 (mention it in `notes`).
 - `racist_abuse` 0–2: racist, homophobic or other discriminatory abuse (1 alleged or apologised, 2 banned or convicted)
 - `match_fixing`, `criminal_other` (other conviction, e.g. drink-driving causing harm), `doping`, `tax_fraud`: 0/1
 - `red_card_violence`: count of violent-conduct incidents off the ball (punch, headbutt, bite, spitting, stamp, assault)

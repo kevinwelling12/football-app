@@ -165,7 +165,7 @@
    "LE": "Euro winner; red card in the 2026 World Cup play-off final Italy lost"
   },
   "codes": {
-   "abuse_allegation": 1,
+   "abuse_allegation": 0,
    "racist_abuse": 0,
    "match_fixing": 0,
    "criminal_other": 0,
@@ -177,7 +177,7 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "abuse_allegation 1: since June 2026 under formal investigation (indagato, not charged) in a Milan child-prostitution probe over a 2020 encounter with a 17-year-old; he denies it and the girl told investigators she took no money.",
+  "notes": "Since June 2026 under formal investigation (indagato, not charged) in a Milan child-prostitution probe over a 2020 encounter with a 17-year-old; he denies it and the girl told investigators she took no money. Not coded until charged.",
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Alessandro_Bastoni",
