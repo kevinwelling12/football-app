@@ -41,7 +41,7 @@ once a match starts (`pk`), so the Picks record is honest; picks for matches bef
 ## Affinity (docs/affinity.md)
 web/affinity.js v3: logistic model fitted in the page to Kevin's "which would you rather support?" picks (state.affPicks):
 traits can only pull, only state ownership / racism or fan-culture record / rivals (data/affinity/rivals.json) push,
-league familiarity fitted but excluded from Affinity, small per-club adjustments. 77% of 454 held-out picks (v1: 53%). His clubs aren't scored. Analyse new picks with
+league familiarity fitted but excluded from Affinity, small per-club adjustments. 73% of 1,056 held-out picks (2026-10-13; v1: 53%). His clubs aren't scored. Analyse new picks with
 scripts/affinity/analyze.mjs (Settings > Copy my club picks).
 Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
 club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),
