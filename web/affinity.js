@@ -1,6 +1,6 @@
 // Affinity: how much a club is your kind of club, 0-100.
 //
-// 1. Reference: on each trait, your clubs' typical level (median of the five).
+// 1. Reference: on each trait, your clubs' typical level (median of the five); for nearness, home itself (10).
 // 2. Prior weights: each factor starts at a set share; within it, traits your clubs are strong on AND agree on count
 //    most (mean / 10 x agreement).
 // 3. Score: falling short of the reference costs, by the trait's weight; matching or beating it costs nothing.
@@ -28,14 +28,13 @@ function km(a, b) {
   const h = Math.sin(dl / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(dn / 2) ** 2;
   return 6371 * 2 * Math.asin(Math.sqrt(h));
 }
-// 10 within 150 km, falling to 7 by the West Coast (1,200 km), 3 across North America (5,000 km), 0 overseas
+// Log scale (Kevin, 2026-10-13): each tenfold increase in distance costs the same. 10 within 50 km of Sacramento,
+// 0 at 20,000 km (the far side of the world). Bay Area ~8.5, Portland ~5.4, East Coast ~3.5, England/Germany ~1.5.
+const D_MIN = 50, D_MAX = 20000;
 export function geography(ll) {
   if (!ll) return 0;
-  const d = km(HOME, ll);
-  if (d <= 150) return 10;
-  if (d <= 1200) return 10 - 3 * (d - 150) / 1050;
-  if (d <= 5000) return 7 - 4 * (d - 1200) / 3800;
-  return 0;
+  const d = Math.max(D_MIN, km(HOME, ll));
+  return Math.max(0, 10 * Math.log(D_MAX / d) / Math.log(D_MAX / D_MIN));
 }
 
 const median = a => { const s = [...a].sort((x, y) => x - y), m = s.length >> 1; return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; };
@@ -47,7 +46,8 @@ export function prior(traits, favIds) {
   const ref = {}, w0 = {};
   for (const t of TRAITS) {
     const v = favs.map(f => f[t] ?? 0);
-    ref[t] = v.length ? median(v) : 5;
+    // nearness is "the closer the better", not "as close as your clubs": its reference is home itself
+    ref[t] = t === 'geography' ? 10 : v.length ? median(v) : 5;
     const agree = Math.max(0.2, 1 - (v.length ? sd(v) : 5) / 5);
     w0[t] = Math.max(0.02, (v.length ? v.reduce((s, x) => s + x, 0) / v.length : 5) / 10 * agree);
   }
