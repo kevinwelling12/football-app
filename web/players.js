@@ -74,25 +74,39 @@ const tier = p => (!p.act ? 'r' : (p.t.AB ?? 5) >= 8 ? 'a' : (p.t.AB ?? 5) >= 7 
 export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf = () => null, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
   const cell = id => `${pgroup(players[id], favs, leagueOf)}:${tier(players[id])}`;
-  const seen = {}, skips = {}, gn = {}, gs = {};
-  for (const p of picks) for (const id of [p.a, p.b]) {
-    seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
-    if (!players[id]) continue;
-    const g = cell(id); gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
+  const seen = {}, skips = {}, gn = {}, gs = {}, answered = {}, chosen = new Set(), unknown = new Set();
+  for (const p of picks) {
+    if (p.win) { chosen.add(p.win); for (const id of [p.a, p.b]) answered[id] = (answered[id] || 0) + 1; }
+    for (const id of [p.a, p.b]) {
+      seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
+      if (!players[id]) continue;
+      const g = cell(id); gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
+    }
   }
+  // known: picked at least once, or answered on three times (losing a pair can just mean he picked the one he knew)
+  const known = new Set(Object.keys(answered).filter(id => chosen.has(id) || answered[id] >= 3));
+  // a skip next to a player he knows is down to the other one
+  for (const p of picks) if (!p.win) { if (known.has(p.a) && !known.has(p.b)) unknown.add(p.b); if (known.has(p.b) && !known.has(p.a)) unknown.add(p.a); }
   // answer rate per group and level (e.g. Bundesliga stars vs Bundesliga squad players), starting from the prior and
-  // moved by his answers and skips; squared, so the pairs lean hard toward players he can answer
+  // moved by his answers and skips
   const answerRate = id => { const g = cell(id), k = 20; return ((gn[g] || 0) - (gs[g] || 0) + k * knownPrior(players[id], favs)) / ((gn[g] || 0) + k); };
-  const pool = Object.keys(players).filter(id => (skips[id] || 0) < 2);
-  const weight = id => answerRate(id) ** 4 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
-  // first player drawn by weight, then the closest-to-call partner among a sample of the same game
-  const W = pool.map(weight), tot = W.reduce((s, w) => s + w, 0);
-  const draw = () => { let r = rnd() * tot; for (let i = 0; i < pool.length; i++) { r -= W[i]; if (r <= 0) return pool[i]; } return pool[pool.length - 1]; };
+  const pool = Object.keys(players).filter(id => !unknown.has(id) && (known.has(id) || (skips[id] || 0) < 2));
+  // players he has answered on come back (in new pairings); everyone else by how likely he is to know them, sharpened
+  // so the pairs lean hard toward names he can answer
+  const weight = id => (known.has(id) ? 1 / (1 + (seen[id] || 0) / 10) : answerRate(id) ** 4 * (skips[id] ? 0.3 : 1));
+  // first player drawn by weight, then the closest-to-call partner among a sample of the same game. One pair in four
+  // tries someone new next to a player he knows, so a skip says who he didn't know.
+  const sampler = ids => { const W = ids.map(weight), tot = W.reduce((s, w) => s + w, 0);
+    return () => { let r = rnd() * tot; for (let i = 0; i < ids.length; i++) { r -= W[i]; if (r <= 0) return ids[i]; } return ids[ids.length - 1]; }; };
+  const knownIds = pool.filter(id => known.has(id)), newIds = pool.filter(id => !known.has(id));
+  const all = sampler(pool), fromKnown = sampler(knownIds), fromNew = sampler(newIds);
+  const explore = knownIds.length < 20 || rnd() < 0.25;
+  const drawA = knownIds.length < 20 ? all : fromKnown, drawB = knownIds.length < 20 ? all : explore ? fromNew : fromKnown;
   let best = null;
   for (let tries = 0; tries < 20 && !best; tries++) {
-    const a = draw(); let bs = -1;
+    const a = drawA(); let bs = -1;
     for (let n = 0; n < 60; n++) {
-      const b = draw();
+      const b = drawB();
       if (a === b || players[a].g !== players[b].g || asked.has([a, b].sort().join('|'))) continue;
       const s = (0.4 + 1 - Math.abs(model.predict(a, b) - 0.5) * 2) * (0.7 + 0.3 * rnd());
       if (s > bs) { bs = s; best = [a, b]; }
