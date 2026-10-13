@@ -24,7 +24,7 @@ const all = raw.filter(p => traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida
 let ok = 0, tot = 0;
 for (let k = 0; k < 10; k++) {
   const m = AF.fit(traits, ctx, all.filter((p, i) => !p.win || i % 10 !== k));
-  for (const p of all.filter((p, i) => p.win && i % 10 === k)) { tot++; if (m.prefer(p.win, p.win === p.a ? p.b : p.a) > 0.5) ok++; }
+  for (const p of all.filter((p, i) => p.win && i % 10 === k)) { tot++; if (m.predict(p.win, p.win === p.a ? p.b : p.a) > 0.5) ok++; }
 }
 const model = AF.fit(traits, ctx, all);
 say(`## How well it predicts your picks`);

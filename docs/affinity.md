@@ -1,4 +1,4 @@
-# Affinity (v2, 2026-10-13)
+# Affinity (v3, 2026-10-13)
 
 What it is for: a ranking of clubs on the Clubs page, and "Your pull" in neutral match sheets (neither club followed).
 It stays off match rows, tables and picks. Kevin's own clubs aren't scored ("your club", ★).
@@ -7,13 +7,24 @@ It stays off match rows, tables and picks. Kevin's own clubs aren't scored ("you
 Raw score per club = weights × features + a per-club adjustment. Affinity = 100 × logistic(raw − the median club's raw):
 the chance you'd pick the club over a typical one. "Your pull" = logistic(raw A − raw B), shown when ≥ 60%.
 
-Features: ten researched 0–10 traits (data/affinity/traits.json, one line of evidence each), nearness to Sacramento on a log
-scale (10 at 50 km, 0 at 20,000 km; its weight can't go below zero), two dealbreakers (ownership below 3 = state, fund or
-similar; inclusion below 3 = a racism record), US club, and rival of one of your clubs (data/affinity/rivals.json).
+- Pulls (weights can't go below zero): ten researched 0–10 traits (data/affinity/traits.json) and nearness to Sacramento
+  (log scale, 10 at 50 km, 0 at 20,000 km).
+- Pushes (weights can't go above zero): state ownership (from the ownership note), a racism or fan-culture record
+  (inclusion below 3 where the research found something; "nothing notable" doesn't count), rival of one of your clubs
+  (data/affinity/rivals.json).
+- League familiarity (Bundesliga, other Champions League, MLS, NWSL, USL relative to the Premier League) is fitted so it
+  doesn't leak into the traits, then left out of Affinity and the rooting guide.
+- Fit: regularised logistic regression on the picks; per-club adjustments kept small (ridge 2).
 
-Fit: regularised logistic regression on your "which would you rather support?" answers (state.affPicks; "can't say" is
-ignored for fitting and a club skipped twice isn't asked again). Weights are pulled toward a neutral prior; per-club
-adjustments are kept small (ridge 2) so a club needs several picks before its adjustment matters.
+## v3 changes after 500 picks (Kevin: "some things in pushes you away shouldn't be")
+- "Ownership below 3" mixed state owners (picked 6–40) with investment funds (42–27) and multi-club groups (36–25).
+  Now only state ownership pushes away; Chelsea, Villa, KC Current and the Reign stop being penalised.
+- "Inclusion below 3" flagged clubs where research found nothing (Las Vegas, Loudoun, Orange County...); fixed.
+- Signed weights stopped artefacts: "run for the club" and "iconic singing end" had gone negative only to fine-tune the
+  dealbreakers and to stand in for familiarity.
+- Vancouver and Seattle Reign removed from rivals (8–0 and 7–1 in his picks).
+- Held-out accuracy 74.4% -> 77%. Order now: state ownership −2.9, rival −1.7, racism/fan culture −1.0; fan voice +0.8,
+  high-energy football +0.7, run for the club +0.6, rituals +0.5. Familiarity: Bundesliga −1.3, MLS −0.8, other UCL −0.7.
 
 ## What 233 answers said (2026-10-13; `node scripts/affinity/analyze.mjs picks.json`)
 - Predicts 79% of picks it didn't see (10-fold). The v1 trait-similarity model: 53%, a coin flip.

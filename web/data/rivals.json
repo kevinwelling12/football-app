@@ -1,8 +1,31 @@
 {
-  "_note": "Rivals of Kevin's clubs (ESPN team ids). Rivalry counts against a club in Affinity; its weight is fitted from his picks. Starting list 2026-10-13, for Kevin to correct.",
-  "364": { "club": "Liverpool", "rivals": { "368": "Everton", "360": "Manchester United", "382": "Manchester City" } },
-  "124": { "club": "Borussia Dortmund", "rivals": { "133": "Schalke 04", "132": "Bayern Munich" } },
-  "9723": { "club": "Portland Timbers", "rivals": { "9726": "Seattle Sounders FC", "9727": "Vancouver Whitecaps" } },
-  "15362": { "club": "Portland Thorns FC", "rivals": { "15363": "Seattle Reign FC" } },
-  "17828": { "club": "Sacramento Republic FC", "rivals": { "20687": "Oakland Roots", "21370": "Monterey Bay" } }
+  "_note": "Rivals of Kevin's clubs (ESPN team ids). Rivalry counts against a club in Affinity; its weight is fitted from his picks. Starting list 2026-10-13, for Kevin to correct. 2026-10-13: Vancouver and Seattle Reign removed (Kevin; his picks: 8-0 and 7-1).",
+  "364": {
+    "club": "Liverpool",
+    "rivals": {
+      "368": "Everton",
+      "360": "Manchester United",
+      "382": "Manchester City"
+    }
+  },
+  "124": {
+    "club": "Borussia Dortmund",
+    "rivals": {
+      "133": "Schalke 04",
+      "132": "Bayern Munich"
+    }
+  },
+  "9723": {
+    "club": "Portland Timbers",
+    "rivals": {
+      "9726": "Seattle Sounders FC"
+    }
+  },
+  "17828": {
+    "club": "Sacramento Republic FC",
+    "rivals": {
+      "20687": "Oakland Roots",
+      "21370": "Monterey Bay"
+    }
+  }
 }
