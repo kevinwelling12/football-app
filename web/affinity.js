@@ -116,8 +116,8 @@ export function fit(traits, ctx, picks, opts = {}) {
   return fitPairs(X, CLUB_SPEC, picks, { lambdaItem: opts.lambdaClub ?? 2, ...opts });
 }
 
-// Next pair to ask about. Prefers clubs you're likely to know (top divisions, Champions League regulars), clubs with
-// few answers so far, and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
+// Next pair to ask about: usually two clubs from the same league. Prefers clubs you're likely to know (big clubs,
+// leagues you answer for), and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
 const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.5, usl: 0.5 };
 export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
@@ -131,9 +131,15 @@ export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   // big clubs first: the top of a league by Elo counts fully, the bottom a fifth (UCL visitors from smaller leagues
   // sit low in the Champions League file)
   const weight = id => (rate(ctx.league[id]) * (0.2 + 0.8 * (ctx.standing?.[id] ?? 0.5))) ** 3 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 15);
+  // Mostly within a league (Kevin, 2026-10-13: a USL club against a Bundesliga club is hard to call). Same-league picks
+  // teach the trait weights without league differences in the way, and the weights then apply across leagues.
+  const byLeague = {};
+  for (const id of pool) (byLeague[ctx.league[id]] ||= []).push(id);
+  const same = rnd() < 0.85;
   let best = null, bestS = -1;
-  for (let n = 0; n < 500; n++) {
-    const a = pool[(rnd() * pool.length) | 0], b = pool[(rnd() * pool.length) | 0];
+  for (let n = 0; n < 1500; n++) {
+    const a = pool[(rnd() * pool.length) | 0], from = same ? byLeague[ctx.league[a]] || pool : pool;
+    const b = from[(rnd() * from.length) | 0];
     if (!a || a === b || asked.has([a, b].sort().join('|'))) continue;
     const close = 1 - Math.abs(model.predict(a, b) - 0.5) * 2; // 1 = a coin flip for the model
     const s = weight(a) * weight(b) * (0.4 + close) * (0.7 + 0.3 * rnd());
