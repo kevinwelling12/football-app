@@ -1,0 +1,1712 @@
+[
+ {
+  "espn_id": "265653",
+  "name": "Morgan Rogers",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Middlesbrough",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Chelsea",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England international, 2026 World Cup squad; British-record £117m move to Chelsea 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "no notable incidents or causes",
+   "WK": "direct, hard-running attacker",
+   "LO": "short spells; left Villa after two years for a record fee",
+   "AB": "England international, Villa's key creator",
+   "ST": "driving, dribbling No. 10/left-side forward",
+   "LE": "young; record fee, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.v2radio.co.uk/news/v2-radio-uk-news/chelsea-sign-morgan-rogers-from-aston-villa-for-117m-in-record-breaking-deal/",
+   "https://en.wikipedia.org/wiki/Morgan_Rogers"
+  ]
+ },
+ {
+  "espn_id": "256115",
+  "name": "Pedro Neto",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Portugal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lazio",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Chelsea",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); Nations League 2025 (Portugal)",
+  "causes": [],
+  "CH": 5.3,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 7.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "pushed a ball boy at PSG in March 2026, apologised, UEFA warning",
+   "WK": "works back, energetic",
+   "LO": "five years at Wolves, now Chelsea",
+   "AB": "quick Portugal international winger",
+   "ST": "pace and dribbling",
+   "LE": "club trophies, Portugal squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; March 2026 push on a PSG ball boy (apologised, UEFA warning only) reflected in CH.",
+  "confidence": "high",
+  "sources": [
+   "https://www.tsn.ca/soccer/article/chelseas-neto-shoves-ball-boy-during-champions-league-loss-at-psg/",
+   "https://www.shropshirestar.com/sport/former-wolves-star-avoids-punishment-for-pushing-ball-boy-6033276",
+   "https://en.wikipedia.org/wiki/Pedro_Neto"
+  ]
+ },
+ {
+  "espn_id": "265918",
+  "name": "Maxence Lacroix",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2000,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sochaux",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Chelsea",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2025, Community Shield 2025, Conference League 2026 (Palace); France caps, 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no notable incidents or causes",
+   "WK": "committed, quick defender",
+   "LO": "four years Wolfsburg, two at Palace",
+   "AB": "France international centre-back",
+   "ST": "athletic, unflashy",
+   "LE": "key part of Palace's first major trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://skysports.com/football/news/12040/13566543/maxence-lacroix-transfer-news-chelsea-complete-signing-of-france-defender-from-crystal-palace",
+   "https://en.wikipedia.org/wiki/Maxence_Lacroix"
+  ]
+ },
+ {
+  "espn_id": "158626",
+  "name": "Emiliano Martínez",
+  "club_id": "363",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Argentina",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2010,
+    "to": 2020
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Chelsea",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2022 (Golden Glove), Copa América 2021 and 2024, Finalissima 2022, Yashin Trophy 2023 and 2024, FA Cup 2020 (Arsenal)",
+  "causes": [],
+  "CH": 3.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 8.0,
+  "ST": 6.0,
+  "LE": 7.5,
+  "why": {
+   "CH": "gamesmanship, mocking opponents, obscene trophy gestures; FIFA two-match ban 2024",
+   "WK": "vocal, fiery leader for his side",
+   "LO": "ten years at Arsenal mostly on loan, six at Villa",
+   "AB": "world-class keeper at his peak",
+   "ST": "showman, penalty-shootout theatre",
+   "LE": "World Cup final save and Golden Glove"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; 2024 FIFA ban for an obscene gesture and striking a TV camera after a match (apologised) reflected in CH.",
+  "confidence": "high",
+  "sources": [
+   "https://www.batimes.com.ar/news/amp/sports/fifa-ban-argentina-goalkeeper-emiliano-dibu-martinez-for-offensive-behaviour.phtml",
+   "https://skysports.com/football/news/11095/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa",
+   "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez"
+  ]
+ },
+ {
+  "espn_id": "284960",
+  "name": "João Pedro",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Fluminense",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Watford",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Chelsea",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Club World Cup 2025 (Chelsea); Brazil international",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 7.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no notable incidents; refused to celebrate against boyhood club Fluminense",
+   "WK": "links play, presses",
+   "LO": "short spells at each club",
+   "AB": "Brazil international forward",
+   "ST": "skilful, inventive finisher",
+   "LE": "Club World Cup semi-final brace"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jo%C3%A3o_Pedro_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "296410",
+  "name": "Levi Colwill",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2003,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2025, Club World Cup 2025; Euro 2024 runner-up squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no notable incidents or causes",
+   "WK": "composed, team-first defender",
+   "LO": "Chelsea academy graduate",
+   "AB": "England international, ball-playing centre-back",
+   "ST": "good passer from the back",
+   "LE": "young, Euro 2024 squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levi_Colwill"
+  ]
+ },
+ {
+  "espn_id": "308217",
+  "name": "Romeo Lavia",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Belgium",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Southampton",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2025, Club World Cup 2025; Belgium international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "tidy, tireless holding midfielder",
+   "LO": "Chelsea since 2023, frequent injuries",
+   "AB": "talented but injury-limited",
+   "ST": "press-resistant, neat on the ball",
+   "LE": "few appearances so far"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romeo_Lavia"
+  ]
+ },
+ {
+  "espn_id": "270190",
+  "name": "Wesley Fofana",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2000,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Saint-Étienne",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Leicester City",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Chelsea",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2021 squad, Community Shield 2021 (Leicester); Club World Cup 2025, Conference League 2025 (Chelsea); France caps",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "has spoken out about racist abuse he received",
+   "WK": "committed defender",
+   "LO": "four years at Chelsea through long injuries; left Leicester after two",
+   "AB": "quick, aggressive centre-back when fit",
+   "ST": "no-frills defender",
+   "LE": "injury-hit career so far"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wesley_Fofana"
+  ]
+ },
+ {
+  "espn_id": "353951",
+  "name": "Jorrel Hato",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Chelsea",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Netherlands international; Ajax regular from 16",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "mature, reliable for his age",
+   "LO": "Ajax academy graduate, then Chelsea",
+   "AB": "Netherlands international full-back/centre-back",
+   "ST": "composed, good on the ball",
+   "LE": "young"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorrel_Hato"
+  ]
+ },
+ {
+  "espn_id": "308947",
+  "name": "Malo Gusto",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2003,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Lyon",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2025, Club World Cup 2025; France international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "energetic, gets up and down",
+   "LO": "Lyon academy, Chelsea since 2023",
+   "AB": "France international right-back",
+   "ST": "attacking full-back, good crosser",
+   "LE": "club trophies, young"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malo_Gusto"
+  ]
+ },
+ {
+  "espn_id": "368317",
+  "name": "Josh Acheampong",
+  "club_id": "363",
+  "gender": "M",
+  "born": 2006,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Club World Cup 2025 squad; England youth",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady young defender",
+   "LO": "Chelsea academy graduate",
+   "AB": "young squad defender",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Acheampong"
+  ]
+ },
+ {
+  "espn_id": "300331",
+  "name": "Pep Chavarría",
+  "club_id": "363",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Zaragoza",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Rayo Vallecano",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Chelsea",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League final 2026 (Rayo)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "hard-working left-back",
+   "LO": "four years a Rayo mainstay",
+   "AB": "solid La Liga regular",
+   "ST": "attacking left-back",
+   "LE": "Rayo's Conference League run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.chelseafc.com/en/news/article/pep-chavarria-signs-for-chelsea",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/chelsea-sign-chavarria-as-cucurella-replacement-2026-08-12"
+  ]
+ },
+ {
+  "espn_id": "115271",
+  "name": "Danny Welbeck",
+  "club_id": "363",
+  "gender": "M",
+  "born": 1990,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2008,
+    "to": 2014
+   },
+   {
+    "club": "Arsenal",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Watford",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Chelsea",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2013, League Cup 2010, FA Cup 2015 (Arsenal); 42 England caps",
+  "causes": [],
+  "CH": 7.5,
+  "WK": 8.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "humble, respected professional; no incidents",
+   "WK": "selfless forward, works for the team",
+   "LO": "six years at Brighton, United academy graduate",
+   "AB": "England international, 13 PL goals at 35",
+   "ST": "clever touches, backheel goals",
+   "LE": "Euro 2012 backheel, long PL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://www.foxsports.com/articles/soccer/former-england-striker-welbeck-joins-chelsea-from-brighton",
+   "https://en.wikipedia.org/wiki/Danny_Welbeck"
+  ]
+ },
+ {
+  "espn_id": "191337",
+  "name": "Matt Grimes",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1995,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Exeter City",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Swansea City",
+    "from": 2015,
+    "to": 2025
+   },
+   {
+    "club": "Coventry City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Coventry captain; former Swansea club captain (from 2019)",
+  "honours": "Championship 2026 (Coventry, ever-present captain)",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "humble, credits the fans; no incidents",
+   "WK": "deep-lying metronome, leads by example",
+   "LO": "ten years at Swansea, captain",
+   "AB": "solid Championship midfielder, new to PL",
+   "ST": "fine passing range",
+   "LE": "captained promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Grimes",
+   "https://www.fourfourtwo.com/person/player/i-feel-like-a-bit-of-an-imposter-i-havent-endured-it-the-same-as-the-fans-have-matt-grimes-credits-long-suffering-coventry-city-faithful-ahead-of-premier-league-return"
+  ]
+ },
+ {
+  "espn_id": "206172",
+  "name": "Jay Da Silva",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Wales",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Bristol City",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Coventry City",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry); England youth caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady left-back",
+   "LO": "four years each at Bristol City and Coventry so far",
+   "AB": "Championship-level full-back",
+   "ST": "overlapping full-back",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.fotmob.com/players/759814/jay-dasilva"
+  ]
+ },
+ {
+  "espn_id": "303931",
+  "name": "Bobby Thomas",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Burnley",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Coventry City",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "committed defender",
+   "LO": "Coventry regular since 2023",
+   "AB": "Championship-level centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobby_Thomas_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "307069",
+  "name": "Carl Rushworth",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 and Golden Glove (on loan at Coventry)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "praised as a great character; no incidents",
+   "WK": "dependable",
+   "LO": "loans then a permanent move to Coventry",
+   "AB": "Championship's best keeper 2025-26",
+   "ST": "shot-stopper",
+   "LE": "promotion, Golden Glove"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://thescore.com/epl/news/3574741",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/coventry-announce-long-awaited-capture-of-promotion-winner-rushworth-2026-08-04"
+  ]
+ },
+ {
+  "espn_id": "286967",
+  "name": "Jack Rudoni",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AFC Wimbledon",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Huddersfield Town",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Coventry City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic box-to-box midfielder",
+   "LO": "a few years at each club",
+   "AB": "Championship-level midfielder",
+   "ST": "arrives in the box, creative",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Rudoni"
+  ]
+ },
+ {
+  "espn_id": "246954",
+  "name": "Ephron Mason-Clark",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Jamaica",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Barnet",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Peterborough United",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Coventry City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry); Jamaica caps 2026; England C caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing runner",
+   "LO": "six years at Barnet from the youth team",
+   "AB": "rose from non-league to the PL",
+   "ST": "pacey, direct winger",
+   "LE": "non-league to PL story"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ephron_Mason-Clark"
+  ]
+ },
+ {
+  "espn_id": "281139",
+  "name": "Milan van Ewijk",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "ADO Den Haag",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Heerenveen",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Coventry City",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry); Netherlands U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running wing-back",
+   "LO": "Coventry since 2023",
+   "AB": "Championship-level right-back",
+   "ST": "attacking right-back",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://coventrytelegraph.net/sport/football/transfer-news/coventry-transfers-milan-van-ewijk-27166400",
+   "https://en.wikipedia.org/wiki/Milan_van_Ewijk"
+  ]
+ },
+ {
+  "espn_id": "387659",
+  "name": "Caleb Yirenkyi",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Nordsjælland",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga Young Player of the Year; Ghana international, winner vs Panama at 2026 World Cup",
+  "causes": [
+   "Right to Dream Academy graduate"
+  ],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile, industrious",
+   "LO": "Nordsjælland then Coventry",
+   "AB": "promising Ghana international",
+   "ST": "tidy midfielder",
+   "LE": "World Cup winner vs Panama"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/49556421/coventry-sign-ghana-caleb-yirenkyi-club-record-deal",
+   "https://www.graphic.com.gh/sports/sports-news/coventry-city-sign-ghanas-caleb-yirenkyi-for-club-record-fee.html"
+  ]
+ },
+ {
+  "espn_id": "241093",
+  "name": "Ethan Pinnock",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Jamaica",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Forest Green Rovers",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Barnsley",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Brentford",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2021 (Brentford); Jamaica international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; no incidents",
+   "WK": "dependable, aerial defender",
+   "LO": "seven years at Brentford",
+   "AB": "solid PL centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "non-league to PL, Brentford promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.soccernews.com/coventry-sign-experienced-defender-pinnock-from-brentford/403862/",
+   "https://en.wikipedia.org/wiki/Ethan_Pinnock"
+  ]
+ },
+ {
+  "espn_id": "258491",
+  "name": "Frank Onyeka",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Nigeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Midtjylland",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Brentford",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2020 (Midtjylland); Championship 2026 (on loan at Coventry); Nigeria international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "high work-rate midfielder",
+   "LO": "four years Midtjylland, five Brentford",
+   "AB": "Nigeria international, solid PL squad player",
+   "ST": "energetic, physical",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/coventry-city/transfer-talk/news/coventry-ipswich-announce-three-signings-on-monday-for-combined-gbp49-2m_603163.html",
+   "https://en.wikipedia.org/wiki/Frank_Onyeka"
+  ]
+ },
+ {
+  "espn_id": "240495",
+  "name": "Brandon Thomas-Asante",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Milton Keynes Dons",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Salford City",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "West Bromwich Albion",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Coventry City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry); Ghana international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working forward",
+   "LO": "journeyman route up the leagues",
+   "AB": "Ghana international, Championship forward",
+   "ST": "quick, direct",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandon_Thomas-Asante"
+  ]
+ },
+ {
+  "espn_id": "319404",
+  "name": "Aurèle Amenda",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Switzerland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Young Boys",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Swiss Super League titles with Young Boys; Switzerland international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "solid defender",
+   "LO": "Young Boys academy graduate",
+   "AB": "Switzerland international centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "young"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.beinsports.com/en-au/football/premier-league/articles-video/coventry-signs-swiss-defender-amenda-2026-07-16"
+  ]
+ },
+ {
+  "espn_id": "194686",
+  "name": "Taiwo Awoniyi",
+  "club_id": "388",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Liverpool",
+    "from": 2015,
+    "to": 2021
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Union Berlin European qualification 2022; Nigeria international",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no incidents; well liked",
+   "WK": "selfless target forward",
+   "LO": "many loans before Union and Forest",
+   "AB": "Nigeria international, PL scorer when fit",
+   "ST": "physical striker",
+   "LE": "Forest's PL survival goals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://africa.espn.com/football/story/_/id/49629750/nottingham-forest-taiwo-awoniyi-coventry-city-transfer-sources",
+   "https://en.wikipedia.org/wiki/Taiwo_Awoniyi"
+  ]
+ },
+ {
+  "espn_id": "324541",
+  "name": "Loum Tchaouna",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2003,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rennes",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Salernitana",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Lazio",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Burnley",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Coventry City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "France youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing winger",
+   "LO": "a new club each season",
+   "AB": "PL squad winger",
+   "ST": "quick, direct dribbler",
+   "LE": "young"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loum_Tchaouna"
+  ]
+ },
+ {
+  "espn_id": "282647",
+  "name": "Ellis Simms",
+  "club_id": "388",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Everton",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Coventry City",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2026 (Coventry)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working centre-forward",
+   "LO": "Everton academy, Coventry since 2023",
+   "AB": "Championship-level striker",
+   "ST": "physical finisher",
+   "LE": "promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ellis_Simms"
+  ]
+ }
+]

@@ -6,6 +6,11 @@ rather my son look up to?"** — humble, unselfish, plays the game the right way
 time for fans, stands up for what is right, stays out of trouble, lives a respectable life, and delivers performances
 worthy of the highlight reels.
 
+**Sources and the search budget:** web searches are shared across many researchers and run out. Use WebFetch on the
+player's Wikipedia page (English first, the local-language one for detail) as your main source for every player. Save
+WebSearch (at most 8 per batch) for incident checks on the best-known players and anything Wikipedia hints at. List in
+`sources` only pages you actually opened.
+
 Judge every player by the same standard, famous or not. A player with little public record is not worse for it: give
 neutral scores (see "Low information") and say so. Never invent facts. Search the web (WebSearch, then WebFetch on good
 sources: Wikipedia, club sites, reputable outlets) for each player; one or two searches per player is usually enough.
@@ -58,7 +63,7 @@ Write a JSON array to the file path you are given, one object per player, in the
 
 ## Incident codes (separate from the traits — don't double count)
 - `abuse_allegation` 0–2 (0 none, 1 credible allegation: charged, acquitted or dropped, 2 convicted or settled)
-- `racist_abuse` 0–2 (1 alleged or apologised, 2 banned or convicted)
+- `racist_abuse` 0–2: racist, homophobic or other discriminatory abuse (1 alleged or apologised, 2 banned or convicted)
 - `match_fixing`, `criminal_other` (other conviction, e.g. drink-driving causing harm), `doping`, `tax_fraud`: 0/1
 - `red_card_violence`: count of violent-conduct incidents off the ball (punch, headbutt, bite, assault)
 - `money_league`: 0/1 moved to a Saudi, Qatari, Emirati or Chinese Super League club for money

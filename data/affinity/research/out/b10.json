@@ -1,0 +1,1808 @@
+[
+ {
+  "espn_id": "206173",
+  "name": "Kristoffer Ajer",
+  "club_id": "337",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "IK Start",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Celtic",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Brentford",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Premiership x4 and domestic trebles with Celtic; Norway international, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.8,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, no known issues or causes",
+   "WK": "steady, versatile defender",
+   "LO": "five years at Celtic, five-plus at Brentford, extended to 2030",
+   "AB": "solid top-flight defender, Norway regular",
+   "ST": "composed on the ball, no frills",
+   "LE": "Celtic titles, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristoffer_Ajer",
+   "https://theanalyst.com/players/3830/kristoffer-ajer"
+  ]
+ },
+ {
+  "espn_id": "225564",
+  "name": "Vitaly Janelt",
+  "club_id": "337",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "VfL Bochum",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Brentford",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-off winner 2021; U21 Euro 2021 winner with Germany; first Brentford player to 150 PL appearances",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 5.5,
+  "ST": 4.8,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, little beyond football on record",
+   "WK": "tireless ball-winning midfielder",
+   "LO": "six years at Brentford, through promotion, extended to 2030",
+   "AB": "solid PL midfielder, one Germany cap",
+   "ST": "workmanlike rather than flair",
+   "LE": "part of Brentford's rise to the PL"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitaly_Janelt",
+   "https://www.brentfordfc.com/en/teams/profile/Vitaly-Janelt"
+  ]
+ },
+ {
+  "espn_id": "275599",
+  "name": "Caoimhín Kelleher",
+  "club_id": "337",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Republic of Ireland",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Liverpool",
+    "from": 2018,
+    "to": 2025
+   },
+   {
+    "club": "Brentford",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2022 and 2024 (played both finals), FA Cup 2022, Premier League 2025 with Liverpool; Ireland international",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "respected, humble backup who stayed ready; no issues",
+   "WK": "patient team man for years as No. 2",
+   "LO": "years as Liverpool backup before moving for regular football",
+   "AB": "PL-level keeper, Ireland international",
+   "ST": "shot-stopper, keeper role",
+   "LE": "Liverpool cup finals, 2022 shootout hero"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher",
+   "https://www.fotmob.com/players/776689"
+  ]
+ },
+ {
+  "espn_id": "284490",
+  "name": "Keane Lewis-Potter",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hull City",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Brentford",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League One 2021 with Hull; Hull Player of the Year 2021-22; England U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "converted winger who works both ends",
+   "LO": "three years at Hull, four at Brentford",
+   "AB": "solid PL regular at left-back",
+   "ST": "attacking full-back with winger's instincts",
+   "LE": "Hull hero, otherwise club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keane_Lewis-Potter"
+  ]
+ },
+ {
+  "espn_id": "301894",
+  "name": "Igor Thiago",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Cruzeiro",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Ludogorets",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Brentford",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bulgarian titles with Ludogorets; 22 PL goals in 2025-26 (second to Haaland); Brazil, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "overcame hard upbringing; no known issues",
+   "WK": "hard-working target striker",
+   "LO": "several clubs, settling at Brentford",
+   "AB": "prolific PL striker, Brazil call-up",
+   "ST": "powerful finisher, penalties",
+   "LE": "Brentford's top single-season PL scorer, World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Thiago",
+   "https://theanalyst.com/players/3848/igor-thiago",
+   "https://www.brentfordfc.com/en/news/article/international-round-up-igor-thiago-brazil-3-croatia-1-world-cup"
+  ]
+ },
+ {
+  "espn_id": "310958",
+  "name": "Kevin Schade",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Brentford",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Germany international (7 caps); two Brentford hat-tricks",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "off-the-ball red card v Villa 2026, otherwise quiet",
+   "WK": "direct winger, works hard",
+   "LO": "three-plus years at Brentford, linked with moves",
+   "AB": "good PL winger, Germany caps",
+   "ST": "pace and dribbling, entertaining",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "Straight red v Aston Villa (Feb 2026) for an off-the-ball incident with Matty Cash, described as stamping back at him.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Schade",
+   "https://www.brentfordfc.com/en/news/article/match-reports-aston-villa-0-brentford-1-premier-league-dango-ouattara",
+   "https://fotbolldirekt.se/?p=364484"
+  ]
+ },
+ {
+  "espn_id": "356640",
+  "name": "Michael Kayode",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gozzano",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Fiorentina",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Brentford",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U19 Euro 2023 winner with Italy (scored in final); Italy U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "energetic, up-and-down full-back",
+   "LO": "young, new contract to 2032",
+   "AB": "PL regular at right-back",
+   "ST": "attacking full-back, long throws",
+   "LE": "U19 Euro final goal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Kayode",
+   "https://www.brentfordfc.com/en/news/article/first-team-michael-kayode-transfer-brentford-fiorentina"
+  ]
+ },
+ {
+  "espn_id": "228547",
+  "name": "Mamadou Sangare",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Mali",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Rapid Wien",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "RC Lens",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Brentford",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2026 with Lens; Ligue 1 Team of the Year and Prix Marc-Vivien Foe 2025-26; Mali international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, little public record beyond football",
+   "WK": "box-to-box worker",
+   "LO": "quick moves: Rapid, Lens, Brentford in three years",
+   "AB": "Ligue 1 team of the year, club-record fee",
+   "ST": "dynamic midfielder",
+   "LE": "Lens's first Coupe de France"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mamadou_Sangar%C3%A9",
+   "https://www.espn.com/soccer/story/_/id/49505676/brentford-sign-mamadou-sangare-lens-club-record-fee"
+  ]
+ },
+ {
+  "espn_id": "307657",
+  "name": "Jaidon Anthony",
+  "club_id": "337",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "AFC Bournemouth",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Burnley",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Brentford",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2024-25 on loan with Leeds; Burnley's second-top scorer 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "hard-working winger",
+   "LO": "five years at Bournemouth, then two moves",
+   "AB": "solid PL winger",
+   "ST": "direct wide forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaidon_Anthony",
+   "https://www.brentfordfc.com/en/teams/profile/jaidon-anthony"
+  ]
+ },
+ {
+  "espn_id": "342029",
+  "name": "Yehor Yarmoliuk",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Ukraine",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Dnipro-1",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Brentford",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Maurice Revello Tournament 2024 with Ukraine U23; Ukraine senior international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "career disrupted by Russian invasion; no issues",
+   "WK": "relentless running midfielder",
+   "LO": "four years at Brentford, signed to 2031",
+   "AB": "regular PL starter, Ukraine caps",
+   "ST": "energetic rather than flashy",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yehor_Yarmoliuk"
+  ]
+ },
+ {
+  "espn_id": "308932",
+  "name": "Mikkel Damsgaard",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Nordsjaelland",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Brentford",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Euro 2020 semi-finalist with Denmark (free kick v England)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "creative, also presses",
+   "LO": "four years at Brentford",
+   "AB": "technical PL playmaker, Denmark international",
+   "ST": "No. 10 creativity, set pieces",
+   "LE": "Euro 2020 semi-final free kick at Wembley"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikkel_Damsgaard"
+  ]
+ },
+ {
+  "espn_id": "315530",
+  "name": "Dango Ouattara",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Burkina Faso",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Lorient",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Brentford",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Burkina Faso international; then-club-record move to Brentford 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.3,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "works the flank",
+   "LO": "two years each at Lorient and Bournemouth",
+   "AB": "quick PL winger, decisive goals",
+   "ST": "pace and dribbling",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dango_Ouattara",
+   "https://www.fotmob.com/players/1250253"
+  ]
+ },
+ {
+  "espn_id": "376683",
+  "name": "Jannik Schuster",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Austria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Brentford",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austria youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "composed young defender",
+   "LO": "young, few clubs so far",
+   "AB": "prospect, few PL minutes",
+   "ST": "ball-playing centre-back",
+   "LE": "just starting"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.brentfordfc.com/en/news/article/first-team-brentford-jannik-schuster-red-bull-salzburg-transfer"
+  ]
+ },
+ {
+  "espn_id": "279780",
+  "name": "Nathan Collins",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Stoke City",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Burnley",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Brentford",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Brentford club captain since 2025; has captained Ireland; Stoke's youngest captain",
+  "honours": "Ireland international; Irish record transfer (2023)",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "regarded as a natural leader; no issues",
+   "WK": "leads by example",
+   "LO": "four clubs by 22, settled and captain at Brentford",
+   "AB": "solid PL centre-back, Ireland captain at times",
+   "ST": "no-frills centre-back with some ball play",
+   "LE": "Ireland captaincy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Collins",
+   "https://www.brentfordfc.com/en/news/article/first-team-nathan-collins-named-brentford-captain-keith-andrews"
+  ]
+ },
+ {
+  "espn_id": "283940",
+  "name": "Aaron Hickey",
+  "club_id": "337",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Scotland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Heart of Midlothian",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Bologna",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Brentford",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scotland international, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "dependable full-back",
+   "LO": "four years at Brentford, long injury layoff",
+   "AB": "good PL full-back when fit",
+   "ST": "neat, progressive full-back",
+   "LE": "World Cup squad, Serie A goals record for a Scot"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Hickey"
+  ]
+ },
+ {
+  "espn_id": "132659",
+  "name": "Pascal Gross",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Karlsruher SC",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "FC Ingolstadt",
+    "from": 2012,
+    "to": 2017
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Brighton captain at times; vice-captain",
+  "honours": "Brighton's first PL-era signing; Germany debut at 32, Euro 2024 squad; UCL 2025 run with Dortmund",
+  "causes": [],
+  "CH": 7.0,
+  "WK": 8.5,
+  "LO": 8.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "humble, praised for leadership; returned to Brighton by choice",
+   "WK": "selfless, versatile, leads by example",
+   "LO": "seven years at Brighton, came back after 18 months",
+   "AB": "PL assist leader for Brighton, Germany caps",
+   "ST": "set pieces and passing, playmaker",
+   "LE": "Brighton icon of the PL era"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pascal_Gro%C3%9F",
+   "https://www.brightonandhovealbion.com/media-article/mft-transfer-news-pascal-gross-borussia-dortmund-january-2026"
+  ]
+ },
+ {
+  "espn_id": "192278",
+  "name": "Diego Gómez",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Paraguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Club Libertad",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Inter Miami",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Paraguay at the 2026 World Cup (reported)",
+  "honours": "Supporters' Shield 2024 with Inter Miami; Paraguay international, 2026 World Cup",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "emotional, respected; no known issues",
+   "WK": "energetic box-to-box",
+   "LO": "young, settling at Brighton, new five-year deal",
+   "AB": "PL regular, Paraguay key man",
+   "ST": "attacking midfielder, goals from midfield",
+   "LE": "World Cup with Paraguay"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_G%C3%B3mez_(Paraguayan_footballer)",
+   "https://www.fcupdate.nl/voetbalnieuws/2026/06/paraguay-aanvoerder-barst-in-tranen-uit-tijdens-persconferentie"
+  ]
+ },
+ {
+  "espn_id": "216017",
+  "name": "Olivier Boscagli",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "OGC Nice",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie x2 and KNVB Cup x2 with PSV",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "versatile, plays where needed",
+   "LO": "six years at PSV, left on a free",
+   "AB": "solid PL squad defender",
+   "ST": "tidy on the ball",
+   "LE": "PSV titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivier_Boscagli",
+   "https://www.extratime.com/articles/36182/brighton-hove-albion-complete-signing-of-boscagli-from-psv/"
+  ]
+ },
+ {
+  "espn_id": "291609",
+  "name": "Bart Verbruggen",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Netherlands",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Netherlands No. 1; Euro 2024 semi-finalist; 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "calm team keeper",
+   "LO": "three-plus years at Brighton",
+   "AB": "PL starter, Netherlands No. 1",
+   "ST": "keeper with good feet",
+   "LE": "Euro 2024 and World Cup with Netherlands"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bart_Verbruggen",
+   "https://global.espn.com/football/story/_/id/49022242/netherlands-bart-verbruggen-injury-2026-world-cup-japan"
+  ]
+ },
+ {
+  "espn_id": "301327",
+  "name": "Maxim De Cuyper",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Club Brugge",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2024 with Brugge; Belgium international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.8,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "left-back who also plays wing",
+   "LO": "academy-to-first-team at Brugge, now Brighton",
+   "AB": "PL left-back, Belgium caps",
+   "ST": "attacking full-back, good crosser",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxim_De_Cuyper",
+   "https://www.rotowire.com/soccer/player/r-30866"
+  ]
+ },
+ {
+  "espn_id": "364962",
+  "name": "Luka Vuskovic",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Croatia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hajduk Split",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Westerlo",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Croatia international, 2026 World Cup; Brighton club-record fee",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "committed young defender",
+   "LO": "loans only so far, now Brighton",
+   "AB": "highly rated teen, Croatia international",
+   "ST": "goal threat from centre-back",
+   "LE": "club-record move, World Cup start at 19"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Vu%C5%A1kovi%C4%87",
+   "https://www.foxsports.com/articles/soccer/teenage-croatia-defender-luka-vuskovic-joins-brighton-from-tottenham-in-60m-deal"
+  ]
+ },
+ {
+  "espn_id": "387655",
+  "name": "Charalambos Kostoulas",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Greece",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Olympiacos",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece and Greek Cup 2025 and UEFA Youth League 2024 with Olympiacos; Greece international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young striker, still developing",
+   "LO": "young, one move so far",
+   "AB": "promising teen striker, Greece caps",
+   "ST": "mobile forward",
+   "LE": "league and cup double at 17"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charalampos_Kostoulas"
+  ]
+ },
+ {
+  "espn_id": "238318",
+  "name": "Ferdi Kadioglu",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Türkiye",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "NEC Nijmegen",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Fenerbahce",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Turkish Cup 2023 with Fenerbahce; Turkey international, Euro 2024 and 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "two-way full-back",
+   "LO": "six years at Fenerbahce",
+   "AB": "quality full-back, Turkey regular",
+   "ST": "attacking full-back with dribbling",
+   "LE": "Euro 2024 standout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferdi_Kad%C4%B1o%C4%9Flu",
+   "https://roundtable.io/sports/soccer/premier-league/brighton-and-hove-albion/players/ferdi-kadioglu-exits-world-cup-with-turkey"
+  ]
+ },
+ {
+  "espn_id": "304242",
+  "name": "Yasin Ayari",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Sweden",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AIK",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Swedish Midfielder of the Year 2025; Sweden, 2026 World Cup (two goals v Tunisia)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "energetic, presses",
+   "LO": "academy to first team at AIK, three-plus years at Brighton",
+   "AB": "PL regular, Sweden regular",
+   "ST": "neat, progressive midfielder",
+   "LE": "World Cup double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yasin_Ayari"
+  ]
+ },
+ {
+  "espn_id": "147106",
+  "name": "Lewis Dunk",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1991,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2010,
+    "to": null
+   }
+  ],
+  "captaincy": "Brighton captain since 2019",
+  "honours": "Brighton promotion to PL 2017; first Europa League 2023-24; one England cap",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 9.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "popular local captain, no known issues",
+   "WK": "leads by example",
+   "LO": "one-club Brighton academy graduate, captain",
+   "AB": "solid PL centre-back, one England cap",
+   "ST": "good passer for a centre-back",
+   "LE": "Brighton legend from League One to Europe"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Dunk",
+   "https://www.brightonandhovealbion.com/news/3587125/lewis-dunk-signs-new-contract"
+  ]
+ },
+ {
+  "espn_id": "359097",
+  "name": "Malick Yalcouyé",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Mali",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "IFK Goteborg",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "International debut goal in AFCON qualifier 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record (questions raised online about his age, unproven)",
+   "WK": "busy midfielder",
+   "LO": "young, loans to Sturm Graz and Swansea",
+   "AB": "emerging PL midfielder",
+   "ST": "energetic, some goals",
+   "LE": "just starting"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Yalcouy%C3%A9"
+  ]
+ },
+ {
+  "espn_id": "246771",
+  "name": "Pascal Struijk",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Leeds United",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Leeds vice-captain at times",
+  "honours": "Championship titles 2020 and 2025 with Leeds",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "solid, versatile defender",
+   "LO": "six years at Leeds through relegation and promotion",
+   "AB": "solid PL centre-back",
+   "ST": "no-frills defender",
+   "LE": "Leeds promotions"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pascal_Struijk",
+   "https://www.brightonandhovealbion.com/media-article/mft-transfer-news-pascal-struijk-leeds-united-june-2026"
+  ]
+ },
+ {
+  "espn_id": "274285",
+  "name": "Costinha",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rio Ave",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Olympiacos",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Super League Greece and Greek Cup 2025 with Olympiacos; Portugal youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.3,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable full-back",
+   "LO": "three clubs, two seasons each roughly",
+   "AB": "solid full-back, new to PL",
+   "ST": "good passing range",
+   "LE": "Greek double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.brightonandhovealbion.com/media-article/mft-transfer-news-costinha-olympiacos-june-2026"
+  ]
+ },
+ {
+  "espn_id": "387489",
+  "name": "Chema Andrés",
+  "club_id": "331",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "VfB Stuttgart",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Real Madrid academy graduate",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.3,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfield worker",
+   "LO": "one season at Stuttgart then sold",
+   "AB": "young midfielder, Bundesliga regular",
+   "ST": "tidy passer",
+   "LE": "just starting"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.brightonandhovealbion.com/media-article/mft-transfer-news-chema-andres-stuttgart-september-2026"
+  ]
+ },
+ {
+  "espn_id": "282186",
+  "name": "Mats Wieffer",
+  "club_id": "331",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Twente",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Excelsior",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2023 and KNVB Cup 2024 with Feyenoord; Netherlands international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "plays out of position at right-back for the team",
+   "LO": "several clubs, two-plus years at Brighton",
+   "AB": "good PL right-back/midfielder, Netherlands caps",
+   "ST": "composed, defensive",
+   "LE": "Feyenoord title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mats_Wieffer"
+  ]
+ }
+]

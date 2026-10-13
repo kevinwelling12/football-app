@@ -1,0 +1,1804 @@
+[
+ {
+  "espn_id": "170257",
+  "name": "Niclas Füllkrug",
+  "club_id": "137",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Greuther Fürth",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Hannover 96",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "West Ham United",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga joint top scorer 2022-23; Champions League runner-up 2024 (Dortmund); Germany 24 caps, 14 goals; goals at 2022 World Cup and Euro 2024",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "down-to-earth fan favourite, took a pay cut to return to Bremen; no causes on record",
+   "WK": "hard-working target man who presses and holds the ball up",
+   "LO": "Werder academy, three spells there; one season at Dortmund",
+   "AB": "late-blooming Germany striker, Bundesliga top scorer",
+   "ST": "penalty-box finisher, aerial threat, little flair",
+   "LE": "World Cup equaliser v Spain, Euro 2024 late header v Switzerland, CL final with Dortmund"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niclas_F%C3%BCllkrug",
+   "https://www.getfootballnewsgermany.com/2026/niclas-fullkrug-werder-official/"
+  ]
+ },
+ {
+  "espn_id": "261363",
+  "name": "Ludovit Reis",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Groningen",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "VfL Osnabrück",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Hamburger SV vice-captain",
+  "honours": "Promotion to the Bundesliga with Hamburg 2025; Netherlands U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; Werder asked fans to stop online abuse after his move",
+   "WK": "energetic box-to-box runner and ball-winner",
+   "LO": "four years and vice-captain at Hamburg, then Brugge and Werder (Hamburg's rivals) a year later",
+   "AB": "solid 2. Bundesliga/Bundesliga midfielder",
+   "ST": "goal threat from midfield, functional",
+   "LE": "Hamburg's 2025 promotion side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Joined Werder from Club Brugge a year after leaving Hamburg, so not a direct rival move.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ludovit_Reis",
+   "https://www.getfootballnewsgermany.com/2026/ludovit-reis-bremen-official/"
+  ]
+ },
+ {
+  "espn_id": "275844",
+  "name": "Amos Pieper",
+  "club_id": "137",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga 2019-20 (Bielefeld); U21 European Championship 2021 (Germany)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady, unflashy centre-back",
+   "LO": "three years at Bielefeld, four-plus at Werder",
+   "AB": "solid Bundesliga regular",
+   "ST": "no-frills defender",
+   "LE": "U21 Euro winner, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amos_Pieper"
+  ]
+ },
+ {
+  "espn_id": "282388",
+  "name": "Olivier Deman",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cercle Brugge",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "Royal Antwerp",
+    "from": 2025,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgium 3 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.8,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running left wing-back",
+   "LO": "four years at Cercle, Werder since 2023 with a loan to Antwerp",
+   "AB": "fringe Belgium international, Bundesliga squad player",
+   "ST": "attacking left-back who crosses a lot",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivier_Deman"
+  ]
+ },
+ {
+  "espn_id": "282646",
+  "name": "Karl Hein",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Estonia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Real Valladolid",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Estonia international (first-choice goalkeeper)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.8,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "quiet, professional goalkeeper",
+   "LO": "six years in Arsenal's system with one first-team game; now settled at Werder",
+   "AB": "La Liga starter on loan, Estonia's number one",
+   "ST": "goalkeeper, standard",
+   "LE": "Estonia regular, little iconic"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://balticfootballnews.com/?p=24111",
+   "https://www.bundesliga.com/en/bundesliga/news/arsenal-goalkeeper-karl-hein-joins-werder-bremen-loan-estonia-33628"
+  ]
+ },
+ {
+  "espn_id": "305853",
+  "name": "Marco Grüll",
+  "club_id": "137",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Austria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "TSV St. Johann",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "SV Ried",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Rapid Wien",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga Team of the Year 2021-22; Austrian Cup top scorer 2023-24; Austria 10 caps",
+  "causes": [],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "joined homophobic chants after the 2024 Vienna derby; banned and apologised",
+   "WK": "direct winger who works back",
+   "LO": "came up through Austrian amateur football; three years at Rapid, then Werder",
+   "AB": "Austria international, Bundesliga regular",
+   "ST": "quick, direct dribbler",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 1,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "Banned two matches (plus suspended ban) by the Austrian Bundesliga for homophobic chants after the Feb 2024 derby; he apologised. Coded under racist_abuse as discriminatory abuse.",
+  "confidence": "high",
+  "sources": [
+   "https://de.wikipedia.org/wiki/Marco_Gr%C3%BCll",
+   "https://en.wikipedia.org/wiki/Marco_Gr%C3%BCll"
+  ]
+ },
+ {
+  "espn_id": "371689",
+  "name": "Chuki",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Real Valladolid",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.8,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "links play, willing worker",
+   "LO": "academy graduate at Valladolid, one move so far",
+   "AB": "promising Segunda/La Liga playmaker",
+   "ST": "No. 10 with close control and creativity",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.bundesliga.com/en/bundesliga/news/who-is-chuki-bremen-spanish-attacker-valladolid-38353"
+  ]
+ },
+ {
+  "espn_id": "312112",
+  "name": "Eren Dinkci",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Türkiye",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "1. FC Heidenheim",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Regionalliga Süd joint top scorer 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.8,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile attacker",
+   "LO": "Bremen-born academy graduate, back on loan",
+   "AB": "ten Bundesliga goals at Heidenheim, struggled at Freiburg",
+   "ST": "quick, direct forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eren_Dink%C3%A7i",
+   "https://www.getfootballnewsgermany.com/2026/eren-dinkci-werder-official/"
+  ]
+ },
+ {
+  "espn_id": "297292",
+  "name": "Youri Regeer",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Twente",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Ajax",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.8,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "reads the game, covers midfield and right-back",
+   "LO": "Ajax academy, two years at Twente, now on loan",
+   "AB": "Eredivisie regular",
+   "ST": "tidy holding midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://english.ajax.nl/articles/regeer-heads-to-werder-bremen-on-loan/",
+   "https://bundesliga.com/en/bundesliga/news/youri-regeer-joins-werder-bremen-ajax-loan-38925"
+  ]
+ },
+ {
+  "espn_id": "334374",
+  "name": "Arthur",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "América Mineiro",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga and DFB-Pokal 2023-24 squad (Leverkusen); 13 Champions League appearances",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic full-back",
+   "LO": "Leverkusen contract to 2031, on loan at Werder",
+   "AB": "Bundesliga squad player, Brazil hopeful",
+   "ST": "attacking right-back",
+   "LE": "part of Leverkusen's unbeaten 2023-24 double squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.bayer04.de/en-us/news/bayer04/arthur-joins-werder-bremen-on-loan",
+   "https://bundesliga.com/en/bundesliga/news/bayer-leverkusen-arthur-werder-bremen-loan-deal-deadline-day-38970"
+  ]
+ },
+ {
+  "espn_id": "399865",
+  "name": "Mick Schmetgens",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U19 European Championship runner-up 2026 (Germany)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young defender, no notable traits yet",
+   "LO": "Werder academy graduate",
+   "AB": "teenage prospect",
+   "ST": "defender, early days",
+   "LE": "just debuted"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mick_Schmetgens"
+  ]
+ },
+ {
+  "espn_id": "399747",
+  "name": "Dariusz Stalmach",
+  "club_id": "137",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Poland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Górnik Zabrze",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "1. FC Magdeburg",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Poland youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.8,
+  "ST": 5.5,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "young midfielder",
+   "LO": "Górnik, Milan youth, Magdeburg, Werder",
+   "AB": "2. Bundesliga starter, prospect",
+   "ST": "technically strong",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dariusz_Stalmach",
+   "https://www.bundesliga.com/de/bundesliga/news/sv-werder-bremen-dariusz-stalmach-1-fc-magdeburg-transfer-wechsel-37990"
+  ]
+ },
+ {
+  "espn_id": "159139",
+  "name": "Mitchell Weiser",
+  "club_id": "137",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "1. FC Köln",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2014, 2015, DFB-Pokal 2014, Club World Cup 2013 (Bayern); U21 Euro 2017 winner (scored the winning header)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "outspoken about the club's direction; no causes on record",
+   "WK": "tireless wing-back, a leader in the dressing room",
+   "LO": "several clubs, settled at Werder since 2021 and extended after an ACL injury",
+   "AB": "Bundesliga regular, one of its top assist-makers",
+   "ST": "attacking right-back, good crosser",
+   "LE": "U21 Euro final winner; switched to Algeria in 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Weiser",
+   "https://www.getfootballnewsgermany.com/2026/mitchell-weiser-bremen-critic/"
+  ]
+ },
+ {
+  "espn_id": "234153",
+  "name": "Cedric Itten",
+  "club_id": "137",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Switzerland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC Basel",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "FC Luzern",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "FC St. Gallen",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Rangers",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Greuther Fürth",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Young Boys",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Werder Bremen",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Swiss Super League 2016, 2023, 2024; Scottish Premiership 2021 and Scottish Cup 2022 (Rangers); Swiss Cup 2023; Switzerland 19 caps, 5 goals, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "physical penalty-box striker who works",
+   "LO": "many clubs, longest spell three years",
+   "AB": "Swiss international, prolific in Switzerland",
+   "ST": "target man, functional",
+   "LE": "part of Rangers' 2021 title side, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cedric_Itten"
+  ]
+ },
+ {
+  "espn_id": "102368",
+  "name": "Evanilson",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Fluminense",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Porto",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2021-22; three Taça de Portugal (2022, 2023, 2024); Taça da Liga 2023; Brazil 2 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "presses hard and runs the channels in Iraola's system",
+   "LO": "four years at Porto, Bournemouth since 2024",
+   "AB": "prolific at Porto, Premier League starter, Brazil caps",
+   "ST": "mobile striker, good link play",
+   "LE": "Porto double, scored in Bournemouth's first-ever win over City"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. A 2025 red card (tackle on Mazraoui) was overturned on appeal.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evanilson_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "espn_id": "122268",
+  "name": "Adam Smith",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1991,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Torquay United",
+    "from": 2009,
+    "to": 2010
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2010,
+    "to": 2011
+   },
+   {
+    "club": "Milton Keynes Dons",
+    "from": 2011,
+    "to": 2012
+   },
+   {
+    "club": "Millwall",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2009,
+    "to": 2014
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2014,
+    "to": null
+   }
+  ],
+  "captaincy": "Bournemouth captain since September 2024",
+  "honours": "Championship 2014-15 (Bournemouth); part of the record sixth-place 2025-26 Premier League finish",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 8.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "long-serving club stalwart with a clean record; no causes on record",
+   "WK": "selfless, reliable full-back, leads by example",
+   "LO": "twelve years and nearly 400 games at Bournemouth, stayed through relegation; captain",
+   "AB": "dependable Premier League full-back",
+   "ST": "honest overlapping full-back",
+   "LE": "part of Bournemouth's rise and their record 2025-26 season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Smith_(footballer,_born_1991)"
+  ]
+ },
+ {
+  "espn_id": "243364",
+  "name": "Marcus Tavernier",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Middlesbrough",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England U19",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "hard-working wide player who tracks back",
+   "LO": "Middlesbrough academy, five years there, four-plus at Bournemouth",
+   "AB": "solid Premier League regular",
+   "ST": "left-footed winger, good set pieces",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Tavernier"
+  ]
+ },
+ {
+  "espn_id": "279155",
+  "name": "James Hill",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fleetwood Town",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England U20 and U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.8,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable squad defender",
+   "LO": "Fleetwood academy, Bournemouth since 2023 with loans",
+   "AB": "young Premier League centre-back",
+   "ST": "no-frills defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Hill_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "espn_id": "289824",
+  "name": "Djordje Petrovic",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Serbia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Čukarički",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "RC Strasbourg",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS All-Star 2023; Strasbourg Player of the Season 2024-25; Serbia 13 caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.5,
+  "LO": 3.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "sat out training to push a move from New England in 2023",
+   "WK": "quiet goalkeeper",
+   "LO": "many clubs; forced his exit from New England",
+   "AB": "shot-stopper, penalty specialist, Serbia international",
+   "ST": "goalkeeper, standard",
+   "LE": "MLS penalty-save record, Chelsea League Cup shoot-out"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "Skipped training and a Leagues Cup match in July 2023 after New England rejected bids, before his move to Chelsea.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Petrovi%C4%87_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "305684",
+  "name": "Adrien Truffert",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2001,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Stade Rennais",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic silver 2024 (France U23); France 3 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "energetic two-way full-back",
+   "LO": "Rennes academy graduate, five seasons in the first team",
+   "AB": "Premier League starter, France international",
+   "ST": "attacking left-back",
+   "LE": "Olympic final 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrien_Truffert"
+  ]
+ },
+ {
+  "espn_id": "346588",
+  "name": "António Silva",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Portugal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Benfica",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2022-23; Taça da Liga 2025; UEFA Nations League 2025 (Portugal); UEFA Youth League 2022; Portugal 20 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "composed, committed defender",
+   "LO": "Benfica academy, four seasons in the first team",
+   "AB": "Portugal international centre-back",
+   "ST": "ball-playing centre-back",
+   "LE": "youngest Portugal player at a World Cup (2022), Nations League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. Two red cards in 2023 (one for a two-footed tackle), both in-play fouls.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Silva_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "357719",
+  "name": "Rayan",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Vasco da Gama",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "South American U20 Championship 2025; Série A best newcomer 2025; Copa do Brasil top scorer 2025; Brazil 7 caps, 2 goals",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing young winger",
+   "LO": "Vasco academy, one move so far",
+   "AB": "promising Brazil international",
+   "ST": "quick, skilful wide forward",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayan_(footballer,_born_2006)"
+  ]
+ },
+ {
+  "espn_id": "314790",
+  "name": "Alex Scott",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2003,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Guernsey FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Bristol City",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U19 Euro 2022 and U21 Euro 2025 (England); Championship Young Player of the Season 2022-23; Bournemouth Player of the Year 2026; England 2 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or incidents on record; Channel Islands sports personality",
+   "WK": "busy, two-way midfielder",
+   "LO": "Guernsey, Bristol City, now three years at Bournemouth",
+   "AB": "England international, club player of the year",
+   "ST": "press-resistant, creative midfielder",
+   "LE": "youth tournament winner, first Guernsey-born England player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Scott_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "245916",
+  "name": "Justin Kluivert",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "AS Roma",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "OGC Nice",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Valencia",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2017 (Ajax); Premier League Player of the Month January 2025; Netherlands 14 caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "works for the team in Bournemouth's press",
+   "LO": "five loan-heavy years at Roma, settled at Bournemouth since 2023",
+   "AB": "Premier League match-winner, Netherlands international",
+   "ST": "dribbler and creator",
+   "LE": "first Premier League penalty hat-trick; scored in all Big Five leagues"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Kluivert"
+  ]
+ },
+ {
+  "espn_id": "93435",
+  "name": "Ryan Christie",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Inverness Caledonian Thistle",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Celtic",
+    "from": 2015,
+    "to": 2021
+   },
+   {
+    "club": "Aberdeen",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Cup 2015 (Inverness); three Premiership titles, two Scottish Cups, two League Cups (Celtic); Bournemouth Player of the Year 2025; Scotland 74 caps, 11 goals",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 5.8,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "relentless presser, plays anywhere for the team",
+   "LO": "five years at Bournemouth, six at Celtic",
+   "AB": "Scotland mainstay, Premier League regular",
+   "ST": "energetic, creative midfielder",
+   "LE": "Celtic trebles, long-serving Scotland player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Christie"
+  ]
+ },
+ {
+  "espn_id": "223452",
+  "name": "Lewis Cook",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Leeds United",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2016,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained England to the 2017 U20 World Cup; occasional Bournemouth captain",
+  "honours": "U20 World Cup 2017 (captain); U17 Euro 2014; Championship promotion 2022 (Bournemouth); England 1 cap",
+  "causes": [],
+  "CH": 6.2,
+  "WK": 8.0,
+  "LO": 7.5,
+  "AB": 5.3,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or incidents on record",
+   "WK": "tireless, unselfish midfield worker",
+   "LO": "ten years at Bournemouth, stayed through relegation and injuries",
+   "AB": "dependable Premier League midfielder, one England cap",
+   "ST": "neat passer, functional",
+   "LE": "captained England's U20 World Cup winners"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Cook_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "espn_id": "72487",
+  "name": "David Brooks",
+  "club_id": "349",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Wales",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sheffield United",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2018,
+    "to": null
+   },
+   {
+    "club": "Southampton",
+    "from": 2023,
+    "to": 2024
+   }
+  ],
+  "captaincy": "",
+  "honours": "Welsh Footballer of the Year 2018; Toulon Tournament 2017 best player; promotion with Southampton 2024; Wales 46 caps, 7 goals",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "came back from Hodgkin lymphoma in 2021-22; no causes on record",
+   "WK": "creative player, average defensive work",
+   "LO": "eight years at Bournemouth, including through his cancer treatment",
+   "AB": "Wales international, Premier League regular",
+   "ST": "left-footed creator, Goal of the Month 2025",
+   "LE": "Welsh Footballer of the Year, comeback from cancer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Brooks_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "332948",
+  "name": "Ben Gannon-Doak",
+  "club_id": "349",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Scotland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Celtic",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Liverpool",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Middlesbrough",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Young Player of the Month November 2024; Scotland 21 caps, 1 goal",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "direct winger who works",
+   "LO": "Celtic and Liverpool academies, sold to Bournemouth in 2025",
+   "AB": "promising Scotland winger",
+   "ST": "quick, direct dribbler",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Gannon-Doak"
+  ]
+ }
+]

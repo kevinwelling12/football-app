@@ -1,0 +1,1996 @@
+[
+ {
+  "espn_id": "205751",
+  "name": "Marvin Schwäbe",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "VfL Osnabrück",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Dynamo Dresden",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Brøndby",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "Köln captain since 2025-26",
+  "honours": "Danish Superliga 2021; 2. Bundesliga 2025; U21 Euro 2017",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable known",
+   "WK": "dependable organiser, ever-present in 2023-24",
+   "LO": "five years at Köln, stayed through relegation, now captain",
+   "AB": "solid Bundesliga keeper, kicker team of season 2022",
+   "ST": "unflashy shot-stopper",
+   "LE": "U21 Euro winner, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvin_Schw%C3%A4be",
+   "https://dfb.de/news/detail/schwaebe-the-most-direct-path-to-silverware-236250"
+  ]
+ },
+ {
+  "espn_id": "222477",
+  "name": "Luka Lochoshvili",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Georgia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Dinamo Tbilisi",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Dynamo Kyiv",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Wolfsberger AC",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Cremonese",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Georgian Cup 2015, 2016; FIFA Fair Play Award 2022; Euro 2024 with Georgia",
+  "causes": [
+   "Cleared unconscious opponent Georg Teigl's airway in 2022; FIFA Fair Play Award and Carinthian Dignity Cross"
+  ],
+  "CH": 7.5,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "saved an opponent's life on the pitch, FIFA Fair Play Award",
+   "WK": "committed defender",
+   "LO": "journeyman, six senior clubs",
+   "AB": "Georgia international, solid top-flight defender",
+   "ST": "aerial, physical centre-back",
+   "LE": "Fair Play moment and Georgia's first Euros"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Lochoshvili",
+   "https://fc.de/en/news/all-news/fc-sign-luka-lochoshvili"
+  ]
+ },
+ {
+  "espn_id": "357337",
+  "name": "Jahmai Simpson-Pusey",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2005,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Man City U18 to 2024 FA Youth Cup",
+  "honours": "FA Youth Cup 2024; PL2 Player of the Season 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "composed young defender",
+   "LO": "young, one main club so far",
+   "AB": "promising Bundesliga regular, England U21",
+   "ST": "no-frills centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jahmai_Simpson-Pusey",
+   "https://www.mancity.com/news/eds-academy/man-citys-jahmai-simpson-pusey-joins-fc-koln-on-loan-63903285"
+  ]
+ },
+ {
+  "espn_id": "231173",
+  "name": "Linton Maina",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Hannover 96",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "willing winger",
+   "LO": "Hannover academy, four years at Köln through relegation",
+   "AB": "Bundesliga squad winger",
+   "ST": "quick, direct dribbler",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Linton_Maina",
+   "https://www.fotmob.com/players/930035/linton-maina"
+  ]
+ },
+ {
+  "espn_id": "283683",
+  "name": "Tom Krauss",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Mainz 05",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Luton Town",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga Rookie of the Month (twice, 2022-23)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "combative, hard-running holding midfielder",
+   "LO": "many moves and loans",
+   "AB": "Bundesliga squad midfielder, Germany U21",
+   "ST": "functional ball-winner",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Krau%C3%9F",
+   "https://mainz05.de/en/news-en/tom-krauss-joins-mainz-05"
+  ]
+ },
+ {
+  "espn_id": "236136",
+  "name": "Alessio Castro-Montes",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sint-Truiden",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Eupen",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Gent",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Union SG",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2025; Belgian Cup 2022, 2024; Belgian Super Cup 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "energetic wing-back",
+   "LO": "four years at Gent, otherwise moves",
+   "AB": "title-winning Belgian league wing-back",
+   "ST": "attacking wing-back, delivers crosses",
+   "LE": "part of Union's 2025 title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessio_Castro-Montes",
+   "https://rusg.brussels/en/news/castro-montes-leaves-union-fc-koln"
+  ]
+ },
+ {
+  "espn_id": "264484",
+  "name": "Gideon Mensah",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Ghana",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Zulte Waregem",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Vitória de Guimarães",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Bordeaux",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Auxerre",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2024; World Cup 2022 and 2026 with Ghana",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative; WAFA graduate",
+   "WK": "disciplined, defensive full-back",
+   "LO": "four years at Auxerre after many loans",
+   "AB": "Ligue 1 regular, Ghana starter",
+   "ST": "steady full-back",
+   "LE": "two World Cups with Ghana"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gideon_Mensah_(footballer,_born_1998)",
+   "https://www.flashscore.com/news/exclusive-gideon-mensah-on-leaving-home-auxerre-for-koln-and-his-bundesliga-ambitions/0CAY42EL/"
+  ]
+ },
+ {
+  "espn_id": "209595",
+  "name": "Ellyes Skhiri",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Tunisia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Montpellier",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Tunisia captain at the 2026 World Cup",
+  "honours": "Tunisian Footballer of the Year 2021; World Cups 2018, 2022, 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "decent pro, nothing notable known",
+   "WK": "tireless box-to-box runner",
+   "LO": "returned to Köln; settled spells at each club",
+   "AB": "Bundesliga regular, Tunisia mainstay",
+   "ST": "tidy, industrious rather than flashy",
+   "LE": "86 caps, three World Cups, captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ellyes_Skhiri",
+   "https://africasoccer.com/ellyes-skhiri-seals-1-fc-koln-return-on-deal-until-2028/"
+  ]
+ },
+ {
+  "espn_id": "286815",
+  "name": "Ísak Jóhannesson",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Iceland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "ÍA",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "IFK Norrköping",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Copenhagen",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga 2022, 2023; Danish Cup 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "hard-working midfielder",
+   "LO": "several moves; went straight from Düsseldorf to Rhine-derby rivals Köln",
+   "AB": "Bundesliga starter, Iceland regular",
+   "ST": "creative, good passer and shooter",
+   "LE": "48 caps for Iceland, Danish titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "Moved directly from Fortuna Düsseldorf to Rhine-derby rivals 1. FC Köln in 2025.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%8Dsak_Bergmann_J%C3%B3hannesson",
+   "https://www.fotmob.com/players/1000428"
+  ]
+ },
+ {
+  "espn_id": "365332",
+  "name": "Mikey Moore",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2007,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Rangers",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025 (unused sub in final); PFA Scotland Young Player 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "willing young attacker",
+   "LO": "Spurs academy, on loan",
+   "AB": "highly rated teenager, England youth",
+   "ST": "tricky, inventive dribbler",
+   "LE": "early career, Europa League squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikey_Moore",
+   "https://www.tottenhamhotspur.com/news/1087833/mikey-joins-koln-on-loan"
+  ]
+ },
+ {
+  "espn_id": "380795",
+  "name": "Said El Mala",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Viktoria Köln",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3. Liga Newcomer of the Season 2025; U19 Euro top scorer 2025; 2 Germany caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "direct individualist winger",
+   "LO": "local, one top club so far, signed to 2030",
+   "AB": "breakout Bundesliga teenager, Germany caps",
+   "ST": "pace, dribbling and long-range goals",
+   "LE": "13 Bundesliga goals as a teenager"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Said_El_Mala",
+   "https://www.fotmob.com/players/1613676"
+  ]
+ },
+ {
+  "espn_id": "275797",
+  "name": "Marius Bulter",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SV Rödinghausen",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "1. FC Magdeburg",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Union Berlin",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga 2022 (Schalke)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "hard-working forward",
+   "LO": "journeyman, rose from the fifth tier",
+   "AB": "Bundesliga regular forward",
+   "ST": "willing runner, useful finisher",
+   "LE": "rose from amateur football to Bundesliga"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marius_B%C3%BClter",
+   "https://www.fotmob.com/players/626890"
+  ]
+ },
+ {
+  "espn_id": "255355",
+  "name": "Ragnar Ache",
+  "club_id": "122",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sparta Rotterdam",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Greuther Fürth",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "1. FC Kaiserslautern",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2022 (Frankfurt); DFB-Pokal runner-up 2024; Bundesliga Goal of the Season 2025-26; Tokyo Olympics",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "target striker",
+   "LO": "several moves",
+   "AB": "Bundesliga striker, 34 goals at Kaiserslautern",
+   "ST": "Goal of the Season scorer",
+   "LE": "Goal of the Season, Pokal final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ragnar_Ache",
+   "https://www.fotmob.com/players/772193/ragnar-ache"
+  ]
+ },
+ {
+  "espn_id": "266280",
+  "name": "Thijs Dallinga",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Groningen",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Excelsior",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Toulouse",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Bologna",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2023 (Toulouse); Eerste Divisie top scorer 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "penalty-box striker",
+   "LO": "several moves, on loan",
+   "AB": "Ligue 1 scorer, struggled at Bologna",
+   "ST": "poacher",
+   "LE": "cup winner at Toulouse"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thijs_Dallinga",
+   "https://fc.de/en/news/all-news/fc-sign-thijs-dallinga-on-loan"
+  ]
+ },
+ {
+  "espn_id": "300444",
+  "name": "Jan Thielmann",
+  "club_id": "122",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "1. FC Köln",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Called a 'future leader' by Köln",
+  "honours": "2. Bundesliga 2025; U21 Euro runner-up 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "versatile, hard-working",
+   "LO": "one-club academy graduate, stayed through relegation",
+   "AB": "Bundesliga squad player, Germany U21",
+   "ST": "energetic wide player",
+   "LE": "club servant"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Thielmann",
+   "https://www.getfootballnewsgermany.com/2025/fc-koln-sign-future-leader-jan-thielmann-to-contract-extension/"
+  ]
+ },
+ {
+  "espn_id": "180162",
+  "name": "Daniel Heuer Fernandes",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Portugal",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "VfL Osnabrück",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "SC Paderborn",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Darmstadt 98",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Dressing-room leader at HSV",
+  "honours": "Promotion to Bundesliga 2025; U21 Euro runner-up 2015 (Portugal)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable known",
+   "WK": "leader in the dressing room",
+   "LO": "seven seasons at HSV through 2. Bundesliga years, fans' Player of the Season twice",
+   "AB": "solid Bundesliga keeper",
+   "ST": "traditional shot-stopper",
+   "LE": "key figure in HSV's return to the Bundesliga"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Heuer_Fernandes",
+   "https://www.hsv.de/en/daniel-heuer-fernandes-signs-a-contract-extension"
+  ]
+ },
+ {
+  "espn_id": "284835",
+  "name": "Nicolás Capaldo",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Argentina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Argentine league 2020; Austrian Bundesliga 2022, 2023; Austrian Cup 2022; 1 Argentina cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "versatile, hard-working (midfielder turned defender)",
+   "LO": "four years at Salzburg",
+   "AB": "Bundesliga regular, capped by Argentina",
+   "ST": "composed on the ball",
+   "LE": "titles in Argentina and Austria"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Capaldo",
+   "https://africa.espn.com/football/player/bio/_/id/284835/nicolas-capaldo"
+  ]
+ },
+ {
+  "espn_id": "321226",
+  "name": "Nicolai Remberg",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Preußen Münster",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Holstein Kiel",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "HSV captain from 2026-27",
+  "honours": "Promotions with Münster (2023) and Kiel (2024)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "combative holding midfielder, made captain",
+   "LO": "rose through lower leagues, now captain",
+   "AB": "Bundesliga regular",
+   "ST": "ball-winner rather than creator",
+   "LE": "HSV's 33rd Bundesliga captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolai_Remberg",
+   "https://www.getfootballnewsgermany.com/2026/nicolai-remberg-hsv-captain/"
+  ]
+ },
+ {
+  "espn_id": "251061",
+  "name": "Jordan Torunarigha",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hertha BSC",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Gent",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Cup 2022; Tokyo Olympics (Germany); Nigeria cap",
+  "causes": [
+   "Spoke out after racist abuse (2020 Schalke cup tie, 2021 Olympic friendly); featured in Schwarze Adler documentary on Black players in Germany"
+  ],
+  "CH": 7.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "spoke up against racist abuse he suffered; called 'mature' by HSV",
+   "WK": "steady defender",
+   "LO": "Hertha academy, six years there, three at Gent",
+   "AB": "Bundesliga/Belgian top-flight regular",
+   "ST": "no-frills centre-back",
+   "LE": "prominent voice in German racism debates"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Torunarigha",
+   "https://global.espn.com/football/hertha-berlin/story/4047611/hertha-defender-torunarigha-sent-off-after-receiving-racist-abuse"
+  ]
+ },
+ {
+  "espn_id": "268239",
+  "name": "Albert Sambi Lokonga",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Belgium",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Arsenal",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Luton Town",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Sevilla",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Belgium caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "praised for maturity and intelligence",
+   "LO": "Anderlecht academy, then loans from Arsenal",
+   "AB": "Premier League squad player, Belgium caps",
+   "ST": "tidy, press-resistant passer",
+   "LE": "Arsenal squad, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Sambi_Lokonga",
+   "https://theanalyst.com/players/1767/albert-sambi-lokonga"
+  ]
+ },
+ {
+  "espn_id": "297750",
+  "name": "Albert Grønbaek",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Denmark",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AGF",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Bodø/Glimt",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Rennes",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eliteserien 2023, 2024; 10 Denmark caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "versatile, willing",
+   "LO": "several moves and loans since 2024",
+   "AB": "Denmark international, starred at Bodø/Glimt",
+   "ST": "creative attacking midfielder",
+   "LE": "part of Bodø/Glimt's European runs"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Gr%C3%B8nb%C3%A6k"
+  ]
+ },
+ {
+  "espn_id": "313361",
+  "name": "David Møller Wolfe",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brann",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "AZ",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "30 Norway caps; 2026 World Cup qualifying goal",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "energetic wing-back",
+   "LO": "several moves, on loan",
+   "AB": "Norway international left-back",
+   "ST": "attacking full-back",
+   "LE": "Norway regular in World Cup qualifying"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_M%C3%B8ller_Wolfe"
+  ]
+ },
+ {
+  "espn_id": "332878",
+  "name": "Martin Adeline",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2003,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Reims",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Annecy",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Troyes",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 Team of the Year 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "nothing notable known",
+   "LO": "Reims academy, then Troyes",
+   "AB": "new Bundesliga signing, France youth",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Martin_Adeline"
+  ]
+ },
+ {
+  "espn_id": "289769",
+  "name": "Terem Moffi",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Nigeria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kauno Žalgiris",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Riteriai",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Kortrijk",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Lorient",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Nice",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Porto",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2026 (Porto loan); AFCON runner-up 2023; Order of the Niger",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable known; was attacked by Nice fans in 2025",
+   "WK": "mobile striker",
+   "LO": "journeyman",
+   "AB": "Ligue 1 scorer, Nigeria international",
+   "ST": "pacy, athletic finisher",
+   "LE": "AFCON final, Conference League Goal of the Season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Terem_Moffi"
+  ]
+ },
+ {
+  "espn_id": "271130",
+  "name": "Sebastiaan Bornauw",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Leeds United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "4 Belgium caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "committed defender",
+   "LO": "four years at Wolfsburg, now on loan",
+   "AB": "Bundesliga regular, Belgium caps",
+   "ST": "no-frills centre-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastiaan_Bornauw"
+  ]
+ },
+ {
+  "espn_id": "325024",
+  "name": "Zakaria El Ouahdi",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Morocco",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "RWDM Brussels",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Genk",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U23 AFCON 2023; Olympic bronze 2024; Belgian Lion Award 2025; Ebony Shoe 2026; 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "hard-running wide player",
+   "LO": "three years at Genk",
+   "AB": "Ebony Shoe winner, Morocco international",
+   "ST": "attacking right-back/winger",
+   "LE": "Olympic bronze, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zakaria_El_Ouahdi"
+  ]
+ },
+ {
+  "espn_id": "88865",
+  "name": "Fabio Vieira",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Portugal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Porto",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Arsenal",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Porto",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2020, 2022; Taça de Portugal 2022; Community Shield 2023; U21 Euro Player of the Tournament 2021",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 8.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes known; several reckless-challenge red cards",
+   "WK": "flair player, inconsistent defensively",
+   "LO": "Porto academy, then loans from Arsenal",
+   "AB": "gifted playmaker, U21 Euro best player",
+   "ST": "creative No. 10 with range of passing and set pieces",
+   "LE": "Porto titles, U21 Euro star"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; red cards were for dangerous challenges or second yellows, not off-ball violence.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/F%C3%A1bio_Vieira_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "espn_id": "182245",
+  "name": "Yussuf Poulsen",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Denmark",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lyngby",
+    "from": 2011,
+    "to": 2013
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2013,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "HSV captain 2025-26",
+  "honours": "DFB-Pokal 2022, 2023; DFL-Supercup 2023; 86 Denmark caps; World Cups 2018, 2022; Euro 2020 semi-final",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.5,
+  "LO": 8.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "respected leader, nothing negative known",
+   "WK": "selfless, pressing target man",
+   "LO": "12 years at Leipzig from the third tier to the Champions League",
+   "AB": "Bundesliga mainstay, Denmark regular",
+   "ST": "workhorse more than flair",
+   "LE": "Leipzig's record appearance maker, 2018 World Cup winner vs Peru"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yussuf_Poulsen"
+  ]
+ },
+ {
+  "espn_id": "232662",
+  "name": "Patson Daka",
+  "club_id": "127",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Zambia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kafue Celtic",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Leicester City",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian Bundesliga x4; Austrian Cup x3; Championship 2024; Austrian Player of the Year 2021; CAF Youth Player 2017; 57 Zambia caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "hard-running striker",
+   "LO": "four years each at Salzburg and Leicester",
+   "AB": "prolific at Salzburg, Premier League striker",
+   "ST": "quick, direct finisher",
+   "LE": "Zambian star, scored four in a European game for Leicester"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patson_Daka"
+  ]
+ },
+ {
+  "espn_id": "410645",
+  "name": "Louis Lemke",
+  "club_id": "127",
+  "gender": "M",
+  "born": 2009,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hamburger SV",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Fritz Walter Medal U17 bronze 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "nothing notable known",
+   "LO": "Hamburg-born, HSV academy",
+   "AB": "16-year-old Bundesliga debutant",
+   "ST": "young defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louis_Lemke"
+  ]
+ }
+]

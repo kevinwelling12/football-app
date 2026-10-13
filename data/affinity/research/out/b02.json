@@ -1,0 +1,1920 @@
+[
+ {
+  "espn_id": "208285",
+  "name": "Robin Koch",
+  "club_id": "125",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Eintracht Trier",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "1. FC Kaiserslautern",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Leeds United",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Eintracht Frankfurt captain since 2025",
+  "honours": "15 Germany caps, Euro 2020 and Euro 2024 squads; U21 Euro runner-up 2019; Europa League Team of the Season 2024-25",
+  "causes": [],
+  "CH": 6.2,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "dependable, versatile defender, now captain",
+   "LO": "several clubs; settled at Frankfurt, made captain",
+   "AB": "solid Bundesliga centre-back, Germany international",
+   "ST": "ball-playing centre-back, unflashy",
+   "LE": "two Euro squads, little iconic"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Koch"
+  ]
+ },
+ {
+  "espn_id": "274887",
+  "name": "Jonathan Burkardt",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Mainz 05",
+    "from": 2018,
+    "to": 2025
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 Euro winner 2021; 8 Germany caps; Bundesliga Player of the Month Oct 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "pressing, hard-running striker",
+   "LO": "Mainz academy product, seven years there",
+   "AB": "prolific Bundesliga striker, Germany international",
+   "ST": "direct goal threat",
+   "LE": "U21 Euro title, early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Burkardt"
+  ]
+ },
+ {
+  "espn_id": "320882",
+  "name": "Raphael Onyedika",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Nigeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Midtjylland",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "FC Fredericia",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish title and cup (Midtjylland); 2 Belgian titles, cup, Super Cup (Brugge); AFCON runner-up 2023, third 2025; Member of the Order of the Niger",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "ball-winning holding midfielder, tactically disciplined",
+   "LO": "four seasons at Brugge, just moved",
+   "AB": "Nigeria regular, strong in Champions League football with Brugge",
+   "ST": "physical destroyer, some carrying",
+   "LE": "AFCON final, national honour"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raphael_Onyedika"
+  ]
+ },
+ {
+  "espn_id": "321064",
+  "name": "Noah Atubolu",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Freiburg U19",
+  "honours": "Europa League runner-up 2025-26 (Freiburg); U21 Euro runner-up 2025; Germany senior call-ups",
+  "causes": [
+   "Coached Freiburg's primary-school ball programme during a voluntary social year"
+  ],
+  "CH": 6.6,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "community coaching in schools, no issues",
+   "WK": "steady, composed keeper",
+   "LO": "Freiburg academy graduate, loaned on to Frankfurt",
+   "AB": "Bundesliga starter, club-record clean-sheet run",
+   "ST": "penalty-saving streak is fun; otherwise a keeper",
+   "LE": "Europa League final, young career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Atubolu"
+  ]
+ },
+ {
+  "espn_id": "355369",
+  "name": "Can Uzun",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Türkiye",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "10 Turkey caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football",
+   "WK": "attacking player, not known for defensive work",
+   "LO": "young, two clubs so far",
+   "AB": "talented attacking midfielder, Turkey international",
+   "ST": "creative No. 10 and goal threat",
+   "LE": "World Cup squad at 20"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Can_Uzun"
+  ]
+ },
+ {
+  "espn_id": "371596",
+  "name": "Keita Kosugi",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Djurgårdens IF",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFC U-17 Asian Cup 2023; Asian Games silver 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "young, two clubs so far",
+   "AB": "promising young full-back, new to the Bundesliga",
+   "ST": "modern full-back",
+   "LE": "youth honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keita_Kosugi"
+  ]
+ },
+ {
+  "espn_id": "372788",
+  "name": "Elias Baum",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": null
+   },
+   {
+    "club": "SV Elversberg",
+    "from": 2024,
+    "to": 2025
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 Euro runner-up 2025; Fritz Walter Medal U19 bronze 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "Frankfurt academy product",
+   "AB": "young full-back breaking through",
+   "ST": "full-back who started as a winger",
+   "LE": "youth honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elias_Baum"
+  ]
+ },
+ {
+  "espn_id": "219627",
+  "name": "Ritsu Doan",
+  "club_id": "125",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Gamba Osaka",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "FC Groningen",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Arminia Bielefeld",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "73 Japan caps, 12 goals; scored v Germany and Spain at the 2022 World Cup; KNVB Cup 2022; Asian Cup runner-up 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "hard-working winger who tracks back",
+   "LO": "six clubs, three years at Freiburg",
+   "AB": "Japan regular, consistent Bundesliga winger",
+   "ST": "left-footed dribbler with a shot",
+   "LE": "famous World Cup goals against Germany and Spain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ritsu_D%C5%8Dan"
+  ]
+ },
+ {
+  "espn_id": "290141",
+  "name": "Lilian Brassier",
+  "club_id": "125",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Valenciennes",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Stade Brestois",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Olympique de Marseille",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Stade Rennais",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Part of Brest's 2023-24 side that reached the Champions League",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "four years at Brest, then several moves",
+   "AB": "solid Ligue 1 centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Brest's Champions League run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilian_Brassier"
+  ]
+ },
+ {
+  "espn_id": "359793",
+  "name": "Younes Ebnoutalib",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rot-Weiss Frankfurt",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Perugia",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Gießen",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "SV Elversberg",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Germany caps (2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; rose from the fifth tier",
+   "WK": "no clear evidence either way",
+   "LO": "several clubs on the way up",
+   "AB": "fast riser, Germany debut 2026",
+   "ST": "big forward with goals",
+   "LE": "recent Germany call-up"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Younes_Ebnoutalib"
+  ]
+ },
+ {
+  "espn_id": "352179",
+  "name": "Noël Aséko",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Hannover 96",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2024-25 (Bayern squad); Germany youth international up to U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "young; Bayern academy, loan, new club",
+   "AB": "young midfielder with a 2. Bundesliga season behind him",
+   "ST": "midfielder, little detail on style",
+   "LE": "youth honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/No%C3%ABl_As%C3%A9ko"
+  ]
+ },
+ {
+  "espn_id": "416636",
+  "name": "Ayoube Amaimouni",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Morocco",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "SpVgg Erkenschwick",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3 Morocco caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; rose from the fifth tier via Hoffenheim II",
+   "WK": "no clear evidence either way",
+   "LO": "young, short career so far",
+   "AB": "young winger, Morocco international",
+   "ST": "winger with goals in the lower leagues",
+   "LE": "World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayoube_Amaimouni"
+  ]
+ },
+ {
+  "espn_id": "406374",
+  "name": "Jeremiaha Maluze",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 1.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "Frankfurt academy, extended to 2031",
+   "AB": "fringe centre-back, just debuted",
+   "ST": "no-frills centre-back",
+   "LE": "barely started"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://bulinews.com/official-jeremiaha-maluze-extends-eintracht-frankfurt-contract",
+   "https://statshub.com/player/jeremiaha-maluze/71064"
+  ]
+ },
+ {
+  "espn_id": "143020",
+  "name": "Mario Götze",
+  "club_id": "125",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Borussia Dortmund",
+    "from": 2009,
+    "to": 2013
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2014 World Cup winner (scored the winning goal in the final); 5 Bundesliga, 4 DFB-Pokal, Club World Cup, KNVB Cup; Golden Boy 2011; 66 Germany caps",
+  "causes": [
+   "Plan International supporter and ambassador; sponsors children in Senegal, Vietnam, Cambodia",
+   "Supports the Weitblick education initiative",
+   "Auctioned his 2014 World Cup final boot for €2m for Ein Herz für Kinder",
+   "NRW Order of Merit for social commitment (2020)"
+  ],
+  "CH": 7.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 8.0,
+  "ST": 8.5,
+  "LE": 8.0,
+  "why": {
+   "CH": "long-running charity work; the timing of his Bayern move hurt Dortmund",
+   "WK": "creative team player, no ego issues",
+   "LO": "Dortmund academy, left for Bayern, returned, now settled at Frankfurt",
+   "AB": "peak was elite: German Messi tag, Golden Boy",
+   "ST": "technical playmaker, dribbler, false nine",
+   "LE": "scored the 2014 World Cup final winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 1
+  },
+  "notes": "rival_move: went directly from Borussia Dortmund to Bayern Munich in 2013 (release clause, announced before a Champions League semi-final); later said he regretted it and returned in 2016.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mario_G%C3%B6tze",
+   "https://de.wikipedia.org/wiki/Mario_G%C3%B6tze"
+  ]
+ },
+ {
+  "espn_id": "337306",
+  "name": "Farès Chaïbi",
+  "club_id": "125",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Algeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Toulouse",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France 2023 (Toulouse); 37 Algeria caps, 2026 World Cup squad",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "refused to play in Ligue 1's 2023 anti-homophobia rainbow kit",
+   "WK": "no clear evidence either way",
+   "LO": "three years at Frankfurt so far",
+   "AB": "Bundesliga regular, Algeria international",
+   "ST": "creative attacking midfielder",
+   "LE": "cup win and World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; refused the 2023 Ligue 1 rainbow kit (reflected in CH).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Far%C3%A8s_Cha%C3%AFbi"
+  ]
+ },
+ {
+  "espn_id": "228507",
+  "name": "Finn Dahmen",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Mainz 05",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 Euro winner 2021; VDV Bundesliga Team of the Season 2024-25; Germany call-ups",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "steady, reliable keeper",
+   "LO": "long Mainz spell as backup, now Augsburg's No. 1",
+   "AB": "good Bundesliga keeper, club clean-sheet record",
+   "ST": "a keeper, unflashy",
+   "LE": "U21 Euro title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finn_Dahmen"
+  ]
+ },
+ {
+  "espn_id": "282885",
+  "name": "Han-Noah Massengo",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2001,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "AS Monaco",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Bristol City",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Auxerre",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Burnley",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Auxerre",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "France youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "busy central midfielder",
+   "LO": "four years at Bristol City, several moves since",
+   "AB": "Bundesliga regular midfielder",
+   "ST": "tidy midfielder",
+   "LE": "no major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Han-Noah_Massengo"
+  ]
+ },
+ {
+  "espn_id": "297165",
+  "name": "Chrislain Matsima",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2002,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "AS Monaco",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Clermont",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Olympic silver 2024 (France); Bundesliga Rookie of the Month twice in 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "solid defender, no clear evidence either way",
+   "LO": "Monaco academy, settled at Augsburg",
+   "AB": "Bundesliga starter, Olympic medallist",
+   "ST": "no-frills centre-back",
+   "LE": "Olympic silver"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chrislain_Matsima"
+  ]
+ },
+ {
+  "espn_id": "306928",
+  "name": "Robin Fellhauer",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SV Elversberg",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Rose with Elversberg from the Regionalliga to the 2. Bundesliga; fastest goal in Bundesliga history (8 seconds, v Bayern, Oct 2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "quick, committed, tough-tackling",
+   "LO": "six years at Elversberg through two promotions",
+   "AB": "late-blooming Bundesliga regular",
+   "ST": "energetic full-back/midfielder",
+   "LE": "record 8-second goal against Bayern"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Fellhauer"
+  ]
+ },
+ {
+  "espn_id": "308908",
+  "name": "Fabian Rieder",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Switzerland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Young Boys",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Stade Rennais",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "VfB Stuttgart",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Swiss titles, Swiss Cup (Young Boys); DFB-Pokal 2025 (Stuttgart); Swiss Super League Player of the Year 2022; 37 Switzerland caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record off the pitch",
+   "WK": "no clear evidence either way",
+   "LO": "several moves since leaving Young Boys",
+   "AB": "Switzerland international, Bundesliga regular",
+   "ST": "creative attacking midfielder",
+   "LE": "trophies, World Cup and Euro squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabian_Rieder"
+  ]
+ },
+ {
+  "espn_id": "345106",
+  "name": "Calvin Brackelmann",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SV Rödinghausen",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "VfB Lübeck",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "FC Ingolstadt 04",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "journeyman route up the divisions",
+   "AB": "new to the Bundesliga after 2. Bundesliga years",
+   "ST": "no-frills centre-back",
+   "LE": "no major honours"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calvin_Brackelmann"
+  ]
+ },
+ {
+  "espn_id": "399214",
+  "name": "Hennes Behrens",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "1. FC Heidenheim",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "1 Germany cap (2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "young, short career so far",
+   "AB": "quick rise to a Germany cap",
+   "ST": "attacking left-back",
+   "LE": "early Germany cap"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hennes_Behrens"
+  ]
+ },
+ {
+  "espn_id": "146804",
+  "name": "Michael Gregoritsch",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Austria",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Kapfenberger SV",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "FC St. Pauli",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "VfL Bochum",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Brøndby",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Austria once (Sept 2026)",
+  "honours": "81 Austria caps, 25 goals; scored in Austria's first Euro win (2021); Euro 2020, Euro 2024, 2026 World Cup squads",
+  "causes": [
+   "Spoke out in 2024 against right-wing ideology and for equality"
+  ],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "public stand against the far right; briefly dropped in 2019 after saying he wanted out, then apologised",
+   "WK": "hard-working target forward",
+   "LO": "many clubs; two spells at Augsburg",
+   "AB": "Austria's reliable striker, Bundesliga regular",
+   "ST": "tall striker, good finisher",
+   "LE": "historic Euro goal, long international career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Gregoritsch",
+   "https://de.wikipedia.org/wiki/Michael_Gregoritsch"
+  ]
+ },
+ {
+  "espn_id": "207623",
+  "name": "Marius Wolf",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "1860 Munich",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Hannover 96",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "DFB-Pokal 2018 (Frankfurt); DFL-Supercup 2019 (Dortmund); 2024 Champions League finalist; 5 Germany caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "tireless, versatile wing-back",
+   "LO": "six years at Dortmund with two loans",
+   "AB": "solid Bundesliga wing-back, Germany caps",
+   "ST": "energetic wide player",
+   "LE": "Pokal winner, Champions League final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marius_Wolf",
+   "https://de.wikipedia.org/wiki/Marius_Wolf"
+  ]
+ },
+ {
+  "espn_id": "376514",
+  "name": "Noahkai Banks",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2006,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Augsburg",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "US youth international; switched to Germany (U21) in 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "Augsburg academy, one senior club",
+   "AB": "young starting centre-back",
+   "ST": "no-frills centre-back with the odd goal",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noahkai_Banks"
+  ]
+ },
+ {
+  "espn_id": "333400",
+  "name": "Arijon Ibrahimovic",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Frosinone",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "1. FC Heidenheim",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2022-23, 2024-25 (Bayern squad); Germany youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "box-to-box, presses well",
+   "LO": "Bayern academy, string of loans",
+   "AB": "young midfielder still establishing himself",
+   "ST": "technical, attacking midfielder",
+   "LE": "youth honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arijon_Ibrahimovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "302793",
+  "name": "Seol Young-Woo",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1998,
+  "nation": "South Korea",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Ulsan HD",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Red Star Belgrade",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFC Champions League 2020, 2 K League titles (Ulsan); 2 Serbian doubles (Red Star); Asian Games gold 2022; 40 South Korea caps, 2026 World Cup",
+  "causes": [],
+  "CH": 6.1,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "nothing notable; pursued legal action against online abuse",
+   "WK": "huge work rate, covers both flanks",
+   "LO": "four years at Ulsan, two at Red Star",
+   "AB": "South Korea regular full-back",
+   "ST": "attacking full-back, ex-winger",
+   "LE": "trophies in Korea and Serbia, World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seol_Young-woo"
+  ]
+ },
+ {
+  "espn_id": "332689",
+  "name": "Rodrigo Ribeiro",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Portugal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "AVS",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U19 Euro runner-up 2023 (Portugal)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "Sporting academy, several loans",
+   "AB": "young forward finding his level",
+   "ST": "forward, little detail on style",
+   "LE": "youth honours only"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Ribeiro_(footballer,_born_2005)"
+  ]
+ },
+ {
+  "espn_id": "359207",
+  "name": "Mert Kömür",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Augsburg",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Germany youth international up to U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear evidence either way",
+   "LO": "Augsburg academy since 2019, one senior club",
+   "AB": "young Bundesliga regular",
+   "ST": "attacking midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mert_K%C3%B6m%C3%BCr"
+  ]
+ },
+ {
+  "espn_id": "140624",
+  "name": "Jeffrey Gouweleeuw",
+  "club_id": "3841",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Heerenveen",
+    "from": 2010,
+    "to": 2013
+   },
+   {
+    "club": "AZ",
+    "from": 2013,
+    "to": 2016
+   },
+   {
+    "club": "FC Augsburg",
+    "from": 2016,
+    "to": null
+   }
+  ],
+  "captaincy": "AZ captain 2015; FC Augsburg captain since 2020",
+  "honours": "490 career appearances; ten seasons at Augsburg",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 8.0,
+  "LO": 8.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "respected captain, nothing negative",
+   "WK": "leader by example, versatile",
+   "LO": "ten years and captain at Augsburg",
+   "AB": "solid Bundesliga centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "Augsburg stalwart"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeffrey_Gouweleeuw"
+  ]
+ }
+]

@@ -1,0 +1,1838 @@
+[
+ {
+  "espn_id": "219362",
+  "name": "Daichi Kamada",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sagan Tosu",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "Lazio",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2022, DFB-Pokal 2018 (Frankfurt); FA Cup 2025, Community Shield 2025, Conference League 2026 (Palace); 57 Japan caps, World Cups 2022 and 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "decent pro; disputed Lazio claim he wanted a bonus to extend",
+   "WK": "tidy, works between the lines",
+   "LO": "six years at Frankfurt, now settled at Palace",
+   "AB": "Europa League winner, Japan regular",
+   "ST": "technical, finds space between the lines",
+   "LE": "Europa League and Palace trophies, two World Cups"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daichi_Kamada"
+  ]
+ },
+ {
+  "espn_id": "300853",
+  "name": "Tyrick Mitchell",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Crystal Palace",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2025, Community Shield 2025, Conference League 2026; 2 England caps; PFA Community Champion 2022-23",
+  "causes": [
+   "Palace for Life Foundation, GAME ON employability programme (PFA Community Champion award)"
+  ],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 7.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "PFA Community Champion for foundation work",
+   "WK": "energetic, reliable left-back",
+   "LO": "Palace academy graduate, whole senior career there",
+   "AB": "solid Premier League full-back, two England caps",
+   "ST": "attacking full-back runs",
+   "LE": "part of Palace's first major trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrick_Mitchell"
+  ]
+ },
+ {
+  "espn_id": "333419",
+  "name": "Adam Wharton",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2004,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Blackburn Rovers",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2025, Community Shield 2025, Conference League 2026 (man of the match in the final); Euro 2024 squad; 4 England caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "calm, team-first deep midfielder",
+   "LO": "Blackburn academy, two years at Palace so far",
+   "AB": "one of the Premier League's best young passers",
+   "ST": "deep playmaker with vision and range",
+   "LE": "Conference League final man of the match"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Wharton"
+  ]
+ },
+ {
+  "espn_id": "297370",
+  "name": "Yéremy Pino",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2026 (Spain squad), Nations League 2023, Europa League 2021 (Villarreal), Conference League 2026 (Palace); 27 Spain caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "hard-working winger",
+   "LO": "five years at Villarreal from the academy",
+   "AB": "Spain international, Europa League winner",
+   "ST": "quick, inventive winger, Palace's No. 10",
+   "LE": "World Cup winner's medal (injured late), Europa League"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yeremy_Pino"
+  ]
+ },
+ {
+  "espn_id": "332648",
+  "name": "Anan Khalaili",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Israel",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Maccabi Haifa",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Union Saint-Gilloise",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2025, Belgian Cup 2026, Belgian Super Cup 2024 (Union SG); Israel Super Cup 2023; U20 World Cup bronze 2023; 19 Israel caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "noted for work rate and defensive discipline",
+   "LO": "two years at each club so far",
+   "AB": "Israel international, title winner in Belgium",
+   "ST": "two-footed, dribbles and crosses",
+   "LE": "Belgian title, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anan_Khalaili",
+   "https://www.wearepalace.uk/transfers/every-confirmed-incoming-and-outgoing-at-crystal-palace-in-summer-of-2026/"
+  ]
+ },
+ {
+  "espn_id": "252747",
+  "name": "Jørgen Strand Larsen",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Norway",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Sarpsborg 08",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Groningen",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Celta Vigo",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2026 (Palace); 33 Norway caps, World Cup 2026 quarter-finalist",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "link-up striker who works for the side",
+   "LO": "five clubs in nine years",
+   "AB": "Norway international, Palace record signing",
+   "ST": "aerial, mobile target man",
+   "LE": "stoppage-time winner v Italy in qualifying, World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/J%C3%B8rgen_Strand_Larsen",
+   "https://www.lbc.co.uk/news/sport/crystal-palace-record-signing-strand-larsen/"
+  ]
+ },
+ {
+  "espn_id": "386252",
+  "name": "Jaydee Canvot",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2006,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toulouse",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2026 (Palace); Maurice Revello Tournament 2025 (France U20)",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "criticised for celebrating a wrongly shown red card to an opponent (2026)",
+   "WK": "athletic, versatile defender",
+   "LO": "young, one year at Toulouse, now Palace",
+   "AB": "promising young centre-back, France U21",
+   "ST": "comfortable on the ball for a centre-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; celebrated a wrong red card for an opponent in March 2026 (reflected in CH).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaydee_Canvot"
+  ]
+ },
+ {
+  "espn_id": "282230",
+  "name": "Quinten Timber",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Utrecht",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Feyenoord",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Marseille",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Feyenoord captain from 2024",
+  "honours": "Eredivisie 2023, KNVB Cup 2024 (Feyenoord); U17 Euro 2018; 17 Netherlands caps",
+  "causes": [],
+  "CH": 5.7,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "publicly criticised coach Van Persie, which ended his Feyenoord spell",
+   "WK": "energetic, combative midfielder",
+   "LO": "captained Feyenoord, then two moves in 2026",
+   "AB": "Netherlands international",
+   "ST": "box-to-box with forward runs",
+   "LE": "Eredivisie title as a regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; public row with Feyenoord coach in January 2026 preceded his exit.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quinten_Timber"
+  ]
+ },
+ {
+  "espn_id": "259486",
+  "name": "Eddie Nketiah",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2020 (Arsenal), FA Cup 2025 and Conference League 2026 (Palace), Championship 2020 (Leeds loan); England U21 record scorer; 1 England cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "brave, willing runner in the box",
+   "LO": "seven years at Arsenal from the academy",
+   "AB": "Premier League squad striker, one England cap",
+   "ST": "sharp movement, poacher",
+   "LE": "England U21 record goalscorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eddie_Nketiah"
+  ]
+ },
+ {
+  "espn_id": "195738",
+  "name": "Walter Benítez",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Argentina",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Quilmes",
+    "from": 2011,
+    "to": 2016
+   },
+   {
+    "club": "Nice",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie 2024, 2025, KNVB Cup 2023 (PSV); Community Shield 2025, Conference League 2026 (Palace); 1 Argentina cap",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "steady, now a reliable back-up",
+   "LO": "six years at Nice, five at Quilmes",
+   "AB": "two Dutch titles as PSV's No. 1",
+   "ST": "unflashy keeper",
+   "LE": "Eredivisie titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walter_Ben%C3%ADtez_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "231718",
+  "name": "Axel Disasi",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1998,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Paris FC",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Reims",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Monaco",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "West Ham United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2018 (Reims), Conference League 2025 (Chelsea); World Cup 2022 runner-up; 5 France caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "dependable, accepted being frozen out without public rows",
+   "LO": "loaned out repeatedly after Chelsea move",
+   "AB": "solid top-flight centre-back, France international",
+   "ST": "no-frills centre-back",
+   "LE": "World Cup 2022 finalist squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. On loan from Chelsea; sent off for a foul in September 2026 (not violent conduct).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Axel_Disasi",
+   "https://www.wearepalace.uk/transfers/every-confirmed-incoming-and-outgoing-at-crystal-palace-in-summer-of-2026/"
+  ]
+ },
+ {
+  "espn_id": "234172",
+  "name": "Dean Henderson",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2015,
+    "to": 2023
+   },
+   {
+    "club": "Shrewsbury Town",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Crystal Palace captain since January 2026",
+  "honours": "FA Cup 2025 (saved a penalty in the final), Community Shield 2025, Conference League 2026; Championship Golden Glove 2019; 6 England caps, World Cup 2026 squad",
+  "causes": [
+   "Shaved head for Hope House children's hospice (2018)"
+  ],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "hospice fundraiser; 2018 ban after altercation with a fan, public complaints at Man Utd",
+   "WK": "vocal organiser",
+   "LO": "Man Utd youth, many loans; now Palace captain",
+   "AB": "Premier League No. 1, England squad keeper",
+   "ST": "good distribution, big saves",
+   "LE": "FA Cup final penalty save for Palace's first major trophy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; three-match ban in 2018 after an altercation with an opposing supporter (reflected in CH).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dean_Henderson"
+  ]
+ },
+ {
+  "espn_id": "238004",
+  "name": "Takehiro Tomiyasu",
+  "club_id": "384",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Japan",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Avispa Fukuoka",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Sint-Truiden",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Bologna",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Arsenal",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Ajax",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Community Shield 2023 (Arsenal); Asian Cup runner-up 2019; 46 Japan caps, World Cup 2026 squad",
+  "causes": [
+   "Donated masks to Avispa Fukuoka academy and joined Bologna's pandemic pay cut (2020)"
+  ],
+  "CH": 6.5,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "quiet, respected pro; small pandemic gestures",
+   "WK": "versatile, two-footed, plays anywhere asked",
+   "LO": "several clubs, long injury layoffs",
+   "AB": "Arsenal regular at his best, Japan mainstay",
+   "ST": "solid defender",
+   "LE": "Japan regular, few trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takehiro_Tomiyasu"
+  ]
+ },
+ {
+  "espn_id": "388605",
+  "name": "Honest Ahanor",
+  "club_id": "384",
+  "gender": "M",
+  "born": 2008,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Genoa",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Atalanta",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2 Italy caps (2026); on loan from Atalanta, agreed move to Chelsea in 2027",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; nothing negative",
+   "WK": "athletic, willing defender",
+   "LO": "teenager, already on his third club (on loan)",
+   "AB": "Italy international at 18",
+   "ST": "quick carries forward from left-back",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Honest_Ahanor"
+  ]
+ },
+ {
+  "espn_id": "155226",
+  "name": "James Tarkowski",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1992,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Oldham Athletic",
+    "from": 2009,
+    "to": 2014
+   },
+   {
+    "club": "Brentford",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Burnley",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Everton",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Everton captain since 2026",
+  "honours": "League One promotion 2014 (Brentford); 2 England caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 8.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 3.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "refused to play for Brentford to force a move, later apologised",
+   "WK": "throws himself in front of everything; played every minute in 2022-23",
+   "LO": "six years at Burnley, now Everton captain; forced Brentford exit",
+   "AB": "dependable Premier League centre-back",
+   "ST": "no-frills, blocks and headers",
+   "LE": "club captain, record blocking numbers"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "forced_transfer: refused to play for Brentford against Burnley in January 2016 and joined Burnley two weeks later.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Tarkowski"
+  ]
+ },
+ {
+  "espn_id": "159443",
+  "name": "Jordan Pickford",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1994,
+  "nation": "England",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Sunderland",
+    "from": 2011,
+    "to": 2017
+   },
+   {
+    "club": "Everton",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England No. 1: World Cup 2018 semi-final, 2026 third place, Euro 2020 and 2024 runner-up; Everton Player of the Season x4",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.5,
+  "LO": 7.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "wind-ups and edge; 2019 alleged fracas, 2026 careless-driving plea, reckless tackle on Van Dijk",
+   "WK": "vocal leader in tournaments",
+   "LO": "nine years at Everton through relegation fights, Sunderland academy",
+   "AB": "England's No. 1 for years",
+   "ST": "good distribution, penalty saves",
+   "LE": "shoot-out hero, England's tournament keeper"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; pleaded guilty to driving without due care (April 2026 incident, case pending); 2019 street fracas investigated with no reported outcome.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Pickford"
+  ]
+ },
+ {
+  "espn_id": "252389",
+  "name": "Kiernan Dewsbury-Hall",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1998,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Leicester City",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Luton Town",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Chelsea",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Everton",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship 2024, Community Shield 2021 (Leicester); Conference League 2025, Club World Cup 2025 (Chelsea); Championship Player of the Season (Leicester fans/players) 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "box-to-box with high stamina and pressing",
+   "LO": "Leicester academy, moved twice since",
+   "AB": "solid Premier League midfielder",
+   "ST": "creative runner from midfield",
+   "LE": "Championship title, Everton goals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiernan_Dewsbury-Hall"
+  ]
+ },
+ {
+  "espn_id": "286965",
+  "name": "Jarrad Branthwaite",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Carlisle United",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Everton",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "KNVB Cup 2023 (PSV loan); U21 Euro 2023; Everton Player and Players' Player of the Season 2023-24; 3 England caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "composed, team-first defender",
+   "LO": "six years at Everton",
+   "AB": "England-capped centre-back",
+   "ST": "no-frills, tall centre-back",
+   "LE": "U21 Euro winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jarrad_Branthwaite"
+  ]
+ },
+ {
+  "espn_id": "301166",
+  "name": "Thierno Barry",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2002,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Beveren",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Basel",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Villarreal",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Everton",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Challenger Pro League Player of the Year 2023 (Beveren); France U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; two early red cards at Basel",
+   "WK": "works the line as lone striker",
+   "LO": "four clubs in four years",
+   "AB": "Premier League striker, 14 Everton goals",
+   "ST": "tall striker with feet",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thierno_Barry_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "espn_id": "378458",
+  "name": "Harrison Armstrong",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2007,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Everton",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Everton Young Player of the Season 2025-26; England U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic young central midfielder",
+   "LO": "Everton academy, loans at Derby and Preston",
+   "AB": "young Premier League squad player",
+   "ST": "central midfielder, still developing",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harrison_Armstrong_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "276220",
+  "name": "James Garner",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2001,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Everton",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2022 (Forest); U21 Euro 2023; Everton Player of the Season 2025-26; 5 England caps",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "no causes or issues on record",
+   "WK": "defensive work rate, plays wherever needed",
+   "LO": "four years at Everton through tough seasons",
+   "AB": "Everton's best player 2025-26, England cap",
+   "ST": "good passing range and set pieces",
+   "LE": "U21 Euro winner, Everton award"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Garner_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "262594",
+  "name": "Vitaliy Mykolenko",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Ukraine",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Dynamo Kyiv",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Everton",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Everton in an FA Cup tie in March 2022 after Russia's invasion",
+  "honours": "Ukrainian Premier League 2021, Ukrainian Cup 2020, 2021 (Dynamo Kyiv); Ukraine international",
+  "causes": [
+   "Spoke out against Russia's invasion of Ukraine (2022)"
+  ],
+  "CH": 7.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "spoke out over the war in Ukraine",
+   "WK": "dependable, rarely misses games",
+   "LO": "five years at Dynamo, four at Everton, new deal to 2029",
+   "AB": "Premier League regular, Ukraine international",
+   "ST": "steady left-back, occasional screamer",
+   "LE": "Ukrainian titles, Everton mainstay"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitaliy_Mykolenko"
+  ]
+ },
+ {
+  "espn_id": "291307",
+  "name": "Brennan Johnson",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Wales",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Nottingham Forest",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Lincoln City",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Everton",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025 (scored the winner in the final), Conference League 2026 (Palace), Championship play-offs 2022 (Forest); 49 Wales caps, World Cup 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "no causes or issues; handled heavy online abuse calmly",
+   "WK": "runs in behind, presses",
+   "LO": "Forest academy, then three moves in three years",
+   "AB": "Wales regular, Premier League winger",
+   "ST": "pacy, back-post finisher",
+   "LE": "winner in the Europa League final, Spurs' first trophy in 17 years"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brennan_Johnson",
+   "https://www.skysports.com/football/news/12040/13488723/brennan-johnson-transfer-news-crystal-palace-sign-wales-winger-from-tottenham-in-club-record-35m-deal"
+  ]
+ },
+ {
+  "espn_id": "368864",
+  "name": "Tyrique George",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2006,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Everton",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); England U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing young winger",
+   "LO": "Chelsea academy, now Everton",
+   "AB": "young Premier League winger",
+   "ST": "direct winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrique_George"
+  ]
+ },
+ {
+  "espn_id": "214402",
+  "name": "Ainsley Maitland-Niles",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2014,
+    "to": 2023
+   },
+   {
+    "club": "Ipswich Town",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Southampton",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Lyon",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Everton",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2020, Community Shield 2017, 2020 (Arsenal); Conference League 2022 (Roma loan); U20 World Cup 2017; 5 England caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "publicly pushed to leave Arsenal on social media (2021)",
+   "WK": "energetic, versatile",
+   "LO": "Arsenal academy, then loans and moves after falling out of favour",
+   "AB": "Premier League and Ligue 1 regular at his best",
+   "ST": "pacy wide player",
+   "LE": "FA Cup final display 2020, U20 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ainsley_Maitland-Niles"
+  ]
+ },
+ {
+  "espn_id": "282978",
+  "name": "Hayden Hackney",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Middlesbrough",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Scunthorpe United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Everton",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Occasional Middlesbrough captain",
+  "honours": "Championship Player of the Season 2025-26; U21 Euro 2025; Middlesbrough Player of the Year 2025, 2026",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "spat at an opponent in 2022, admitted it and was banned six games",
+   "WK": "tidy, team-first midfielder",
+   "LO": "Middlesbrough academy, five years in the first team",
+   "AB": "Championship's best player, new to the Premier League",
+   "ST": "deep-lying playmaker",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: spat at an Exeter City opponent while on loan at Scunthorpe (January 2022); admitted it, six-match ban.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hayden_Hackney"
+  ]
+ },
+ {
+  "espn_id": "311963",
+  "name": "Merlin Röhl",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "FC Ingolstadt",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Everton",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 Euro 2025 runner-up (Germany)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "versatile, plays wherever needed",
+   "LO": "two years at Ingolstadt, three at Freiburg",
+   "AB": "Premier League squad player",
+   "ST": "tall, technical midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Merlin_R%C3%B6hl"
+  ]
+ },
+ {
+  "espn_id": "172850",
+  "name": "Jack Grealish",
+  "club_id": "368",
+  "gender": "M",
+  "born": 1995,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aston Villa",
+    "from": 2013,
+    "to": 2021
+   },
+   {
+    "club": "Notts County",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Manchester City",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Everton",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Aston Villa captain 2019-2021",
+  "honours": "Treble 2023: Champions League, 3 Premier League titles, FA Cup (Man City); Euro 2020 runner-up; 39 England caps",
+  "causes": [
+   "Devoted to sister Hollie (cerebral palsy); celebrated for young fans with cerebral palsy at Euro 2020"
+  ],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 7.5,
+  "ST": 8.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "warm with fans with disabilities, but lockdown breaches, nights out, driving bans",
+   "WK": "dribbles to win fouls, less defensive work",
+   "LO": "boyhood Villa captain who stayed through the Championship, then sold",
+   "AB": "treble winner, England international",
+   "ST": "dribbler, playmaker, crowd favourite",
+   "LE": "£100m British record move, treble"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: careless driving convictions (2020 lockdown crash into parked cars, plus a 90mph incident), nine-month ban, £82k fine. red_card_violence: three-match ban for a stamp (2016).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Grealish",
+   "https://www.football365.com/news/jack-grealish-aston-villa-nine-month-driving-ban-lockdown-crash"
+  ]
+ },
+ {
+  "espn_id": "283586",
+  "name": "Jake O'Brien",
+  "club_id": "368",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cork City",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "RWD Molenbeek",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Lyon",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Everton",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Challenger Pro League 2023 (Molenbeek); Coupe de France runner-up 2024 (scored in the final); 21 Ireland caps",
+  "causes": [
+   "Diabetes Ireland ambassador (type 1 diabetes since 16)"
+  ],
+  "CH": 7.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "Diabetes Ireland ambassador",
+   "WK": "dependable, plays across the back line",
+   "LO": "several clubs, two years at Everton",
+   "AB": "Ireland international, Premier League regular",
+   "ST": "tall, no-frills defender",
+   "LE": "goal in a Coupe de France final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_O%27Brien_(footballer)"
+  ]
+ }
+]

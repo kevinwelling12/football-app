@@ -1,0 +1,1689 @@
+[
+ {
+  "espn_id": "196176",
+  "name": "David Raya",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Spain",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Blackburn Rovers",
+    "from": 2014,
+    "to": 2019
+   },
+   {
+    "club": "Brentford",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Arsenal",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2026 and Euro 2024 (Spain); Premier League 2025-26; PL Golden Glove 2023-24, 2024-25, 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 7.5,
+  "ST": 5.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "nothing notable either way",
+   "WK": "steady, organises from the back",
+   "LO": "five years each at Blackburn and Brentford, settled at Arsenal",
+   "AB": "three straight Golden Gloves, title-winning keeper",
+   "ST": "sweeper-keeper with good distribution",
+   "LE": "World Cup and Euro winner with Spain, PL title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Raya"
+  ]
+ },
+ {
+  "espn_id": "236322",
+  "name": "Gabriel Magalhães",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Avaí",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Lille",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Arsenal",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2025-26; Croatian league and cup 2017-18 (loan); PFA Team of the Year 2023-24, 2024-25, 2025-26",
+  "causes": [],
+  "CH": 5.6,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 8.0,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "physical and combative, 2024 confrontation with Haaland",
+   "WK": "commanding, wholehearted defender",
+   "LO": "six years at Arsenal through the rebuild",
+   "AB": "one of the league's best centre-backs",
+   "ST": "set-piece goals, otherwise no frills",
+   "LE": "title winner; missed decisive kick in 2026 UCL final shootout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Magalh%C3%A3es"
+  ]
+ },
+ {
+  "espn_id": "231182",
+  "name": "Kai Havertz",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Chelsea",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Arsenal",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Champions League 2020-21 (Chelsea, scored the winner); Club World Cup 2021; Premier League 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 7.5,
+  "ST": 7.0,
+  "LE": 6.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "selfless, presses, plays wherever asked",
+   "LO": "academy graduate at Leverkusen; three clubs",
+   "AB": "Germany regular, elite on his day",
+   "ST": "elegant, technical forward",
+   "LE": "scored the 2021 Champions League final winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Havertz"
+  ]
+ },
+ {
+  "espn_id": "241077",
+  "name": "Ben White",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Newport County",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Leeds United",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Arsenal",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2025-26; Championship 2019-20 (Leeds); Euro 2020 runner-up",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "private; left 2022 World Cup camp and declined England for years; known for corner-time gamesmanship",
+   "WK": "reliable, tactically disciplined",
+   "LO": "five years at Arsenal, Brighton academy",
+   "AB": "top-level right-back, few England caps",
+   "ST": "overlapping full-back, combines well",
+   "LE": "title winner, little iconic"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_White_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "298329",
+  "name": "Riccardo Calafiori",
+  "club_id": "359",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Roma",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Basel",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bologna",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Arsenal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2025-26; Serie A Team of the Year 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "energetic, committed",
+   "LO": "four clubs by 22, now settled at Arsenal",
+   "AB": "Italy international defender",
+   "ST": "adventurous full-back who drives forward",
+   "LE": "Euro 2024 assist to beat Croatia, title winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riccardo_Calafiori"
+  ]
+ },
+ {
+  "espn_id": "231859",
+  "name": "Ezri Konsa",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Charlton Athletic",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Brentford",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2019,
+    "to": 2026
+   },
+   {
+    "club": "Arsenal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Aston Villa vice-captain (2025-26)",
+  "honours": "Europa League 2025-26 (Aston Villa); U-20 World Cup 2017; World Cup 2026 third place with England",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "quiet, dependable",
+   "LO": "seven seasons at Villa, vice-captain, then sold to Arsenal",
+   "AB": "England starter at the 2026 World Cup",
+   "ST": "calm, unflashy defender",
+   "LE": "scored in World Cup third-place match, Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ezri_Konsa",
+   "https://www.thestar.com.my/sport/football/2026/08/21/soccer-arsenal-bolster-defence-with-konsa-signing-from-villa"
+  ]
+ },
+ {
+  "espn_id": "303793",
+  "name": "Christos Tzolis",
+  "club_id": "359",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Greece",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "PAOK",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Norwich City",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Twente",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Arsenal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2025-26, Belgian Cup 2024-25; Greek Cup 2020-21; Belgian Footballer of the Year 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "from playing style; little known",
+   "LO": "several clubs and loans",
+   "AB": "Belgian Footballer of the Year, Greece international",
+   "ST": "direct dribbling winger, goals and assists",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christos_Tzolis",
+   "https://www.foxsports.com/articles/soccer/premier-league-champion-arsenal-signs-greece-forward-christos-tzolis-from-club-brugge"
+  ]
+ },
+ {
+  "espn_id": "352758",
+  "name": "Myles Lewis-Skelly",
+  "club_id": "359",
+  "gender": "M",
+  "born": 2006,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2025-26; scored on England debut 2025",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "copied Haaland's celebration after scoring against City",
+   "WK": "energetic, composed",
+   "LO": "Arsenal academy since age eight",
+   "AB": "England international at 18",
+   "ST": "confident on the ball, inverted full-back",
+   "LE": "goal on England debut, early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Myles_Lewis-Skelly"
+  ]
+ },
+ {
+  "espn_id": "209581",
+  "name": "Mikel Merino",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Osasuna",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Arsenal",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "World Cup 2026 and Euro 2024 (Spain); Premier League 2025-26; Copa del Rey 2019-20; DFB-Pokal 2016-17",
+  "causes": [],
+  "CH": 6.2,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 5.5,
+  "LE": 6.0,
+  "why": {
+   "CH": "respected, no issues known",
+   "WK": "tireless, plays anywhere incl. emergency striker",
+   "LO": "six years at Real Sociedad",
+   "AB": "Spain regular midfielder",
+   "ST": "functional rather than flashy",
+   "LE": "Euro 2024 winning header v Germany, World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikel_Merino"
+  ]
+ },
+ {
+  "espn_id": "218522",
+  "name": "Bruno Guimarães",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Audax",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Athletico Paranaense",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Lyon",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Arsenal",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Newcastle captain (2024-2026)",
+  "honours": "EFL Cup 2024-25 (Newcastle captain); Copa Sudamericana 2018, Copa do Brasil 2019 (Athletico); Community Shield 2026 (Arsenal)",
+  "causes": [],
+  "CH": 5.7,
+  "WK": 7.5,
+  "LO": 4.5,
+  "AB": 7.5,
+  "ST": 7.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "passionate, often booked; asked to leave as Newcastle captain",
+   "WK": "drives the team, leader in midfield",
+   "LO": "four years and captaincy at Newcastle, then pushed for the Arsenal move",
+   "AB": "Brazil regular, top PL midfielder",
+   "ST": "press-resistant, creative passer",
+   "LE": "captained Newcastle's first major trophy in 70 years"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/guimaraes-seals-arsenal-move-after-transfer-saga-2026-08-08"
+  ]
+ },
+ {
+  "espn_id": "251400",
+  "name": "Eberechi Eze",
+  "club_id": "359",
+  "gender": "M",
+  "born": 1998,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Queens Park Rangers",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Arsenal",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2024-25 (scored winner in the final); Premier League 2025-26; World Cup 2026 third place with England",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 7.5,
+  "ST": 8.5,
+  "LE": 5.5,
+  "why": {
+   "CH": "humble, rebuilt career after academy releases",
+   "WK": "willing but mainly a creator",
+   "LO": "five years at Palace, four at QPR",
+   "AB": "England international, elite dribbler",
+   "ST": "silky No. 10, spectacular goals",
+   "LE": "FA Cup final winner gave Palace their first major trophy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eberechi_Eze"
+  ]
+ },
+ {
+  "espn_id": "162843",
+  "name": "John McGinn",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "St Mirren",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Hibernian",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "Aston Villa captain since 2022",
+  "honours": "Europa League 2025-26 (captain); Scottish Cup 2015-16 (Hibernian); Scottish League Cup 2012-13",
+  "causes": [],
+  "CH": 7.0,
+  "WK": 8.5,
+  "LO": 8.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "popular, good-humoured; goggles celebration for his visually impaired nephew",
+   "WK": "relentless engine, leads by example",
+   "LO": "eight years at Villa, captain from the Championship to Europe",
+   "AB": "Scotland mainstay, strong PL midfielder",
+   "ST": "energetic, spectacular goals",
+   "LE": "lifted the Europa League; scored Scotland's first World Cup win since 1990"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_McGinn"
+  ]
+ },
+ {
+  "espn_id": "204679",
+  "name": "Victor Lindelöf",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Sweden",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Västerås SK",
+    "from": 2009,
+    "to": 2012
+   },
+   {
+    "club": "Benfica",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Manchester United",
+    "from": 2017,
+    "to": 2025
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Sweden captain since 2021",
+  "honours": "Europa League 2025-26 (Villa); FA Cup 2023-24, EFL Cup 2022-23 (Man United); three Portuguese titles",
+  "causes": [],
+  "CH": 7.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "quiet, decent; caught a thief who robbed a 90-year-old woman",
+   "WK": "composed and selfless",
+   "LO": "eight years at Manchester United",
+   "AB": "Sweden captain, six-time Swedish Defender of the Year",
+   "ST": "tidy ball-player, no frills",
+   "LE": "Sweden captain at the 2026 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f"
+  ]
+ },
+ {
+  "espn_id": "214375",
+  "name": "Emiliano Buendía",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Getafe",
+    "from": 2014,
+    "to": 2018
+   },
+   {
+    "club": "Cultural Leonesa",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Norwich City",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025-26 (Villa); Championship 2018-19, 2020-21 (Norwich); Championship Player of the Season 2020-21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 7.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "busy, presses",
+   "LO": "five seasons at Villa including a long ACL lay-off",
+   "AB": "creative PL attacker, two Argentina caps",
+   "ST": "inventive playmaker, goal-of-the-month strikes",
+   "LE": "Europa League winner, cult figure at Norwich"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emiliano_Buend%C3%ADa"
+  ]
+ },
+ {
+  "espn_id": "250936",
+  "name": "Boubacar Kamara",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1999,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Marseille",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025-26 (Villa); Marseille Player of the Season 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "disciplined screening midfielder",
+   "LO": "Marseille academy, six senior years; four at Villa",
+   "AB": "France international, key Villa midfielder",
+   "ST": "tidy and positional",
+   "LE": "Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boubacar_Kamara"
+  ]
+ },
+ {
+  "espn_id": "265958",
+  "name": "Zion Suzuki",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Japan",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Urawa Red Diamonds",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Sint-Truiden",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Parma",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFC Champions League 2022 (Urawa); Japan World Cup 2026 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; overcame racist abuse in Japan",
+   "WK": "from playing style",
+   "LO": "several clubs early in career",
+   "AB": "Japan's first-choice keeper",
+   "ST": "athletic shot-stopper",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zion_Suzuki"
+  ]
+ },
+ {
+  "espn_id": "308524",
+  "name": "Nicolas Jackson",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Senegal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Mirandés",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Villarreal",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Chelsea",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2024-25, Club World Cup 2025 (Chelsea); Bundesliga and DFB-Pokal 2025-26 (Bayern loan)",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "two red cards in 2025 incl. an elbow on Botman",
+   "WK": "hard-running, presses",
+   "LO": "short spells, Chelsea exit via loan then sale",
+   "AB": "Senegal international striker",
+   "ST": "pacy, direct, erratic finishing",
+   "LE": "club-record Villa signing, little iconic"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; May 2025 red for an elbow on Botman was ruled serious foul play in an aerial challenge, not off the ball.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Jackson",
+   "https://www.aljazeera.com/amp/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record"
+  ]
+ },
+ {
+  "espn_id": "366248",
+  "name": "George Hemmings",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2007,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Aston Villa",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Youth Cup 2024-25; Europa League 2025-26 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "from playing style",
+   "LO": "Villa academy graduate (from Forest at 16)",
+   "AB": "promising teenager, now a starter",
+   "ST": "technical left-sided No. 10 type",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Hemmings",
+   "https://readastonvilla.com/2026/09/05/who-is-george-hemmings-aston-villa/"
+  ]
+ },
+ {
+  "espn_id": "152469",
+  "name": "Ross Barkley",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1993,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Everton",
+    "from": 2010,
+    "to": 2018
+   },
+   {
+    "club": "Chelsea",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Nice",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Luton Town",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2018-19 (Chelsea), FA Cup 2017-18; Europa League 2025-26 (Villa); 33 England caps",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 5.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "2019 taxi-fare altercation and nightclub episodes",
+   "WK": "inconsistent, at times individualist",
+   "LO": "Everton academy and boyhood fan, then several clubs",
+   "AB": "33 England caps at his peak",
+   "ST": "powerful dribbling attacking midfielder",
+   "LE": "early promise at Everton, two Europa Leagues"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ross_Barkley"
+  ]
+ },
+ {
+  "espn_id": "281125",
+  "name": "Ian Maatsen",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Charlton Athletic",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Coventry City",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Burnley",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025-26 (Villa); Championship 2022-23 (Burnley); UCL finalist 2023-24 (Dortmund loan)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "willing runner",
+   "LO": "loan-heavy career, two years at Villa",
+   "AB": "one Netherlands cap, PL regular",
+   "ST": "attacking, dribbling left-back",
+   "LE": "Champions League final and Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Maatsen"
+  ]
+ },
+ {
+  "espn_id": "234698",
+  "name": "Matty Cash",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Poland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Nottingham Forest",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2025-26 (Villa); Aston Villa Player of the Season 2021-22; Poland 2022 World Cup squad",
+  "causes": [
+   "Showed support for teammate Kędziora's family in Kyiv during the 2022 invasion"
+  ],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "support message for Ukraine; no issues",
+   "WK": "high-energy, committed full-back",
+   "LO": "six years at Villa, four at Forest",
+   "AB": "Poland international",
+   "ST": "attacking right-back, chips in with goals",
+   "LE": "Europa League winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matty_Cash"
+  ]
+ },
+ {
+  "espn_id": "250945",
+  "name": "Aaron Wan-Bissaka",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Congo DR",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Crystal Palace",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Manchester United",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "West Ham United",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2023-24, EFL Cup 2022-23 (Man United); West Ham Hammer of the Year 2024-25; DR Congo at World Cup 2026",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "2021 driving ban for driving while disqualified and uninsured",
+   "WK": "diligent one-v-one defender",
+   "LO": "Palace academy, five years at United",
+   "AB": "elite tackler, solid PL regular",
+   "ST": "defensive full-back, limited going forward",
+   "LE": "started every World Cup match for DR Congo"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: 2021 conviction for driving while disqualified and uninsured (six-month ban, £31,500 fine); a motoring offence, no harm caused.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka",
+   "https://readastonvilla.com/2026/08/21/aston-villa-confirm-aaron-wan-bissaka-signing-with-buy-obligation/"
+  ]
+ },
+ {
+  "espn_id": "251100",
+  "name": "Pau Torres",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Villarreal",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Málaga",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2020-21 (Villarreal) and 2025-26 (Villa); Olympic silver 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 7.0,
+  "AB": 7.0,
+  "ST": 5.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no notable causes or issues",
+   "WK": "calm, team-first",
+   "LO": "hometown Villarreal academy, seven years",
+   "AB": "Spain international, elite ball-playing CB",
+   "ST": "progressive passer from the back",
+   "LE": "two Europa League titles"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pau_Torres"
+  ]
+ },
+ {
+  "espn_id": "301524",
+  "name": "João Gomes",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Flamengo",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores 2022, Copa do Brasil 2022, Brasileirão 2020 (Flamengo); Wolves Supporters' Player of the Season 2024-25",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 8.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "combative; sent off for kicking out on Villa debut",
+   "WK": "tireless ball-winner",
+   "LO": "Flamengo academy, three years at Wolves",
+   "AB": "Brazil international midfielder",
+   "ST": "energetic destroyer",
+   "LE": "Libertadores winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: sent off for violent conduct (kicking out at Rutter) on Villa debut, Aug 2026.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jo%C3%A3o_Gomes_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "181312",
+  "name": "Tyrone Mings",
+  "club_id": "362",
+  "gender": "M",
+  "born": 1993,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Yate Town",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "Chippenham Town",
+    "from": 2012,
+    "to": 2012
+   },
+   {
+    "club": "Ipswich Town",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "Aston Villa captain 2021-2022",
+  "honours": "Europa League 2025-26 (Villa); Championship play-offs 2019; Euro 2020 runner-up",
+  "causes": [
+   "Tyrone Mings Academy for children in Bristol (2019)",
+   "Fed homeless people; outspoken against racism (Bulgaria 2019, Priti Patel 2021)"
+  ],
+  "CH": 8.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 4.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "outspoken anti-racism voice, community academy, homeless outreach",
+   "WK": "vocal leader",
+   "LO": "seven years at Villa, former captain",
+   "AB": "England international at his peak",
+   "ST": "no-frills centre-back",
+   "LE": "rose from non-league; Euro 2020 final squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "red_card_violence: five-match FA ban in 2017 for stamping on Zlatan Ibrahimović.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrone_Mings"
+  ]
+ },
+ {
+  "espn_id": "297229",
+  "name": "Matteo Ruggeri",
+  "club_id": "362",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atalanta",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Salernitana",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Aston Villa",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2023-24 (Atalanta); Europa League Team of the Season 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-working wing-back",
+   "LO": "Atalanta academy, then two moves in two years",
+   "AB": "new Italy international",
+   "ST": "crossing wing-back",
+   "LE": "Europa League winner with Atalanta"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matteo_Ruggeri"
+  ]
+ }
+]

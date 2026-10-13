@@ -1,0 +1,1845 @@
+[
+ {
+  "espn_id": "87297",
+  "name": "Gonzalo García",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Spain",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Real Madrid",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Fulham",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "La Liga and Champions League 2024 (Real Madrid squad); shared Club World Cup 2025 top scorer; Spain cap 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "no issues known; academy product, modest public profile",
+   "WK": "works across the front line, presses and holds the ball up",
+   "LO": "Real Madrid academy graduate, moved for minutes at 22",
+   "AB": "promising forward, Spain debut, early in PL career",
+   "ST": "mobile, strong, compared to Raúl",
+   "LE": "Club World Cup 2025 breakout"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gonzalo_García_(footballer,_born_2004)",
+   "https://www.football-espana.net/2026/07/23/gonzalo-garcia-fulham-real-madrid-transfer"
+  ]
+ },
+ {
+  "espn_id": "153765",
+  "name": "Bernd Leno",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2011,
+    "to": 2018
+   },
+   {
+    "club": "Arsenal",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Fulham",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2020 (Arsenal); Confederations Cup 2017 (Germany)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "steady, accepted backup role at Arsenal before moving",
+   "LO": "seven years at Leverkusen, long Fulham spell",
+   "AB": "reliable PL keeper, Germany squad player",
+   "ST": "shot-stopper, unflashy",
+   "LE": "Confed Cup winner, mostly a club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bernd_Leno"
+  ]
+ },
+ {
+  "espn_id": "175063",
+  "name": "Alex Iwobi",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Nigeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Everton",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Fulham",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2017 (Arsenal); AFCON runner-up 2023 (Nigeria)",
+  "causes": [
+   "Project 17 foundation (2021): mentoring, workshops and clinics for underserved Black youth in London; Football Black List 2026"
+  ],
+  "CH": 7.8,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "founded Project 17 youth charity, recognised on Football Black List 2026",
+   "WK": "hard-working, versatile, praised for effort",
+   "LO": "Arsenal academy, four years at Everton, settled at Fulham",
+   "AB": "solid PL midfielder/winger, Nigeria regular",
+   "ST": "neat, creative carrier",
+   "LE": "AFCON finalist, long PL career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Iwobi",
+   "https://uk.sports.yahoo.com/news/alex-iwobi-interview-im-more-070053087.html"
+  ]
+ },
+ {
+  "espn_id": "263110",
+  "name": "Calvin Bassey",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rangers",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Ajax",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Fulham",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Fulham at the start of 2026-27",
+  "honours": "Scottish Premiership 2021, Scottish Cup 2022 (Rangers); Europa League runner-up 2022; AFCON runner-up 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "combative, committed defender",
+   "LO": "Fulham since 2023, now wears the armband",
+   "AB": "solid PL centre-back, Nigeria regular",
+   "ST": "athletic, carries the ball",
+   "LE": "Europa League final, AFCON final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calvin_Bassey",
+   "https://cryptobriefing.com/calvin-bassey-captains-fulham-chelsea-derby/"
+  ]
+ },
+ {
+  "espn_id": "307111",
+  "name": "Oscar Bobb",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Fulham",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2024, Club World Cup 2023 (Man City); Norway at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing known; little public record off the pitch",
+   "WK": "willing runner in a team setup",
+   "LO": "City academy, left for minutes in 2026",
+   "AB": "talented winger, Norway regular, injury setback 2024",
+   "ST": "tricky dribbler, creative",
+   "LE": "PL winner as squad player, World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oscar_Bobb",
+   "https://www.skysports.com/football/news/12040/13500534/oscar-bobb-transfer-news-fulham-complete-27m-signing-of-man-city-forward"
+  ]
+ },
+ {
+  "espn_id": "409541",
+  "name": "Josh King",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2007,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fulham",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "England U19",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; academy teenager",
+   "WK": "ball-playing central midfielder, now a starter",
+   "LO": "at Fulham's academy since age 8",
+   "AB": "promising, early in his career",
+   "ST": "stylish ball-player, scoring from midfield",
+   "LE": "too early"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.premierleague.com/en/news/4361972",
+   "https://fulhamfc.com/players/josh-king",
+   "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-transfers-barcelona-competition-received-in-race-for-pl-star"
+  ]
+ },
+ {
+  "espn_id": "218998",
+  "name": "Sander Berge",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Norway",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Asker",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Vålerenga",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Genk",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Burnley",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Fulham",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2019 (Genk); Burnley Player of the Year 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "tireless midfield runner",
+   "LO": "several clubs, three years at most each",
+   "AB": "solid PL midfielder, Norway regular",
+   "ST": "tidy, unspectacular",
+   "LE": "Belgian title, Norway World Cup squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sander_Berge"
+  ]
+ },
+ {
+  "espn_id": "197163",
+  "name": "Timothy Castagne",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1995,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Genk",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Atalanta",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Leicester City",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Fulham",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2021 (Leicester)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro; left Atalanta after friction with Gasperini",
+   "WK": "dependable, versatile full-back",
+   "LO": "three-year spells, now settled at Fulham",
+   "AB": "solid PL full-back, Belgium international",
+   "ST": "overlapping full-back, steady",
+   "LE": "FA Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timothy_Castagne"
+  ]
+ },
+ {
+  "espn_id": "324164",
+  "name": "Shea Charles",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Northern Ireland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Southampton",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Fulham",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Youngest ever Northern Ireland captain",
+  "honours": "Sheffield Wednesday Player of the Season 2024-25 (loan)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, little public record off the pitch",
+   "WK": "holding midfielder, leadership noted",
+   "LO": "City academy, three years at Southampton",
+   "AB": "promising midfielder, record Northern Irish fee",
+   "ST": "composed, positional",
+   "LE": "youngest NI captain"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://africa.espn.com/football/story/_/id/49580789/fulham-sign-shea-charles-southampton-five-year-contract-premier-league",
+   "https://hayters.com/?p=66052"
+  ]
+ },
+ {
+  "espn_id": "12172",
+  "name": "César Palacios",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Real Madrid",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Fulham",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear read yet",
+   "LO": "Real Madrid academy, left at 21 for minutes",
+   "AB": "young attacking midfielder, few senior games",
+   "ST": "No. 10 creator",
+   "LE": "too early"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-palacios-03-08-2026",
+   "https://www.fulhamish.co.uk/p/where-does-cesar-palacios-fit-in"
+  ]
+ },
+ {
+  "espn_id": "313230",
+  "name": "David Affengruber",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Austria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Sturm Graz",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Elche",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Fulham",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Promotion to La Liga with Elche 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "dependable centre-back",
+   "LO": "five years at Sturm Graz, two at Elche",
+   "AB": "solid La Liga defender, new to PL",
+   "ST": "no-frills centre-back",
+   "LE": "Elche promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.futbolfantasy.com/laliga/noticias/150390-david-affengruber-es-oficialmente-nuevo-jugador-del-fulham",
+   "https://www.sofascore.com/news/fulham-sign-david-affengruber-from-elche-for-e12m"
+  ]
+ },
+ {
+  "espn_id": "196081",
+  "name": "Joachim Andersen",
+  "club_id": "370",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Denmark",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Twente",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Sampdoria",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Lyon",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Fulham",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "organiser at the back",
+   "LO": "several clubs, three years at Palace",
+   "AB": "solid PL centre-back, Denmark international",
+   "ST": "long passing, otherwise no-frills",
+   "LE": "Denmark Euro squads"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joachim_Andersen_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "241328",
+  "name": "Ryan Sessegnon",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Fulham",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Fulham",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2018 (Fulham)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "energetic wide player",
+   "LO": "Fulham academy, returned home in 2024",
+   "AB": "prodigy whose career was hit by injuries",
+   "ST": "attacking full-back/winger",
+   "LE": "teen star of Fulham's 2018 promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Sessegnon"
+  ]
+ },
+ {
+  "espn_id": "301525",
+  "name": "Rodrigo Muniz",
+  "club_id": "370",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Flamengo",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Fulham",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Série A 2020 (Flamengo); Championship 2022 (Fulham); PL Player of the Month March 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "hard-running striker",
+   "LO": "Fulham since 2021",
+   "AB": "decent PL striker, rotation",
+   "ST": "physical finisher",
+   "LE": "breakout spring 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Muniz_(Brazilian_footballer)"
+  ]
+ },
+ {
+  "espn_id": "168424",
+  "name": "John Egan",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Republic of Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Gillingham",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Brentford",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Burnley",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hull City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Gillingham, Brentford, Sheffield United and Republic of Ireland",
+  "honours": "Championship play-offs 2026 (Hull); promotion to PL with Sheffield United 2019",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 8.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "respected leader, nothing negative",
+   "WK": "captain type, leads by example",
+   "LO": "six years and the armband at Sheffield United",
+   "AB": "solid PL/Championship centre-back, Ireland international",
+   "ST": "no-frills centre-back",
+   "LE": "Sheffield United's ninth-place PL season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Egan_(footballer,_born_1992)",
+   "https://www.irishexaminer.com/sport/soccer/arid-41906545.html"
+  ]
+ },
+ {
+  "espn_id": "178051",
+  "name": "Semi Ajayi",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cardiff City",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Rotherham United",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "West Bromwich Albion",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Hull City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League One play-offs 2018 (Rotherham); Championship play-offs 2026 (Hull); AFCON runner-up 2023; Order of the Niger",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "dependable, committed",
+   "LO": "six years at West Brom",
+   "AB": "solid Championship/PL centre-back, Nigeria international",
+   "ST": "no-frills centre-back",
+   "LE": "AFCON final 2024"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Semi_Ajayi"
+  ]
+ },
+ {
+  "espn_id": "193010",
+  "name": "Oliver McBurnie",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Scotland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Bradford City",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Swansea City",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Las Palmas",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hull City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2026 (scored the 95th-minute winner in the final); Hull Player of the Year 2025-26",
+  "causes": [],
+  "CH": 4.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "drink-driving conviction 2020, FA warning over conduct towards fans, assault charge from 2022 pitch invasion (acquitted)",
+   "WK": "physical target man, works for the team",
+   "LO": "five years at Sheffield United",
+   "AB": "Championship-level striker, Scotland caps",
+   "ST": "aerial, physical striker",
+   "LE": "play-off final winner for Hull"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "criminal_other: convicted of drink-driving in 2020 (£28,500 fine, 16-month ban). Separately acquitted of assault on a fan after the 2022 City Ground pitch invasion (not coded).",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oli_McBurnie",
+   "https://www.sheffieldtelegraph.co.uk/sport/football/sheffield-united/sheffield-united-issue-statement-after-verdict-returned-in-oli-mcburnies-nottingham-forest-play-off-trial-3955657",
+   "https://kuwaittimes.com/article/44133/sports/football/hull-promoted-to-epl-after-mcburnie-strikes-late-in-play-off-final/"
+  ]
+ },
+ {
+  "espn_id": "231826",
+  "name": "Lewie Coyle",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1995,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Leeds United",
+    "from": 2014,
+    "to": 2020
+   },
+   {
+    "club": "Fleetwood Town",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Hull City",
+    "from": 2020,
+    "to": null
+   }
+  ],
+  "captaincy": "Hull City club captain since 2022",
+  "honours": "League One 2021, Championship play-offs 2026 (Hull)",
+  "causes": [],
+  "CH": 5.2,
+  "WK": 7.5,
+  "LO": 7.5,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "Hull-born captain; in 2025 a video appeared to show him in a street fight outside a pub (not charged)",
+   "WK": "versatile, reliable defender",
+   "LO": "hometown club captain, six years at Hull",
+   "AB": "Championship-level full-back",
+   "ST": "defensive full-back",
+   "LE": "captained Hull back to the PL"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. May 2025 street-fight video: club investigated; another man was charged, Coyle was not.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewie_Coyle",
+   "https://www.beinsports.com/en-us/soccer/championship/articles/hull-captain-coyle-did-not-predict-leading-them-back-to-the-premier-league-2026-05-23"
+  ]
+ },
+ {
+  "espn_id": "243576",
+  "name": "Ryan Giles",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Luton Town",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Hull City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2026 (Hull)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing runner on the left",
+   "LO": "many loans from Wolves, settled at Hull",
+   "AB": "Championship-level left-back",
+   "ST": "crossing, attacking full-back",
+   "LE": "no standout moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Giles"
+  ]
+ },
+ {
+  "espn_id": "249851",
+  "name": "Regan Slater",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sheffield United",
+    "from": 2016,
+    "to": 2022
+   },
+   {
+    "club": "Hull City",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League One 2021, Championship play-offs 2026 (Hull); Hull Players' and Supporters' Player of the Year 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 7.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "tenacious ball-winner",
+   "LO": "long Hull spell, fans' player of the year",
+   "AB": "Championship-level midfielder",
+   "ST": "combative, unflashy",
+   "LE": "Hull promotion"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Regan_Slater"
+  ]
+ },
+ {
+  "espn_id": "284199",
+  "name": "Konstantinos Tzolakis",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Greece",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Olympiacos",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League 2024, four Greek titles (Olympiacos); Greek Super League Player of the Season 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "decent pro, nothing notable",
+   "WK": "calm, dependable",
+   "LO": "academy product, six years at Olympiacos",
+   "AB": "top Greek keeper, Greece international",
+   "ST": "shot-stopper",
+   "LE": "Conference League shootout hero and clean sheet in the final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Konstantinos_Tzolakis",
+   "https://www.thestar.com.my/sport/football/2026/08/05/soccer-hull-sign-greece-keeper-tzolakis-from-olympiacos-for-club-record-fee"
+  ]
+ },
+ {
+  "espn_id": "320417",
+  "name": "Mohamed Belloumi",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Algeria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "MC Oran",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Farense",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Hull City",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Algeria caps 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear read",
+   "LO": "two years each at Farense and Hull, injury-hit",
+   "AB": "Championship-level winger, Algeria cap",
+   "ST": "skilful wide forward",
+   "LE": "no standout moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohamed_Belloumi",
+   "https://www.wearehullcity.co.uk/news/2024/august/30/belloumi-seals-hull-city-switch"
+  ]
+ },
+ {
+  "espn_id": "356212",
+  "name": "Nobel Mendy",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Senegal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Paris FC",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Real Betis",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Rayo Vallecano",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Conference League runner-up 2025 (Betis) and 2026 (Rayo); Senegal caps 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear read",
+   "LO": "early-career moves",
+   "AB": "promising left-footed centre-back, Hull record signing",
+   "ST": "defender, scored on PL debut",
+   "LE": "two Conference League finals"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nobel_Mendy",
+   "https://www.thestar.com.my/sport/football/2026/08/13/soccer-hull-city-sign-senegal-defender-mendy-from-rayo-vallecano"
+  ]
+ },
+ {
+  "espn_id": "357145",
+  "name": "Elliot Stroud",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Sweden",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "IK Oddevold",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Mjällby AIF",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Allsvenskan 2025 and Svenska Cupen 2026 (Mjällby); Sweden caps 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "wing-back, up-and-down",
+   "LO": "three-plus years at each club",
+   "AB": "Allsvenskan champion, new to PL",
+   "ST": "attacking wing-back",
+   "LE": "part of Mjällby's surprise title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elliot_Stroud",
+   "https://www.yorkshirepost.co.uk/sport/football/size-matters-to-hull-city-as-they-look-make-more-premier-league-signings-8946520"
+  ]
+ },
+ {
+  "espn_id": "153613",
+  "name": "Matt Crooks",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1994,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Huddersfield Town",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "Accrington Stanley",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Rangers",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Northampton Town",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Rotherham United",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Middlesbrough",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hull City",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship play-offs 2026 (Hull); PFA Team of the Year League Two 2016, League One 2020",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable; Middlesbrough fans' favourite",
+   "WK": "physical, hard-running midfielder",
+   "LO": "journeyman",
+   "AB": "Championship-level midfielder",
+   "ST": "goal-scoring box-to-box",
+   "LE": "no standout moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Crooks",
+   "https://rsl.com/news/real-salt-lake-transfers-mf-matt-crooks-to-hull-city-in-efl-championship"
+  ]
+ },
+ {
+  "espn_id": "250478",
+  "name": "Sorba Thomas",
+  "club_id": "306",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Wales",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Boreham Wood",
+    "from": 2016,
+    "to": 2021
+   },
+   {
+    "club": "Huddersfield Town",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Stoke City",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Championship Team of the Season and Stoke Player of the Year 2025-26; Wales international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record off the pitch; unhurt in a car crash in Sept 2026",
+   "WK": "hard-working winger",
+   "LO": "five years at Boreham Wood, four at Huddersfield",
+   "AB": "Championship standout, Wales international",
+   "ST": "set-piece and crossing specialist, direct winger",
+   "LE": "non-league to PL path"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sorba_Thomas",
+   "https://www.thestar.com.my/sport/football/2026/10/01/soccer-second-hull-player-involved-in-car-accident-on-same-road-20-days-later"
+  ]
+ },
+ {
+  "espn_id": "392320",
+  "name": "Lucas Herrington",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2007,
+  "nation": "Australia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Brisbane Roar",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2026,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Australia at 2026 World Cup; MLS All-Star 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear read",
+   "LO": "teenager, three clubs in two years",
+   "AB": "highly rated teen centre-back, Australia World Cup starter",
+   "ST": "no-frills centre-back",
+   "LE": "Australian record transfer, World Cup at 19"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Herrington",
+   "https://www.sofascore.com/news/hull-city-sign-colorado-rapids-defender-lucas-herrington-for-e14-8m"
+  ]
+ },
+ {
+  "espn_id": "303338",
+  "name": "Lucas Gourna-Douath",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2003,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Saint-Étienne",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Austrian league and cup with Salzburg",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; unhurt in a single-car collision in Oct 2026",
+   "WK": "energetic defensive midfielder",
+   "LO": "four years at Salzburg incl. loans",
+   "AB": "Champions League experience, France youth",
+   "ST": "ball-winner",
+   "LE": "no standout moment"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Gourna-Douath",
+   "https://www.thehullstory.com/allarticles/hull-city-gourna-douath-10th-signing"
+  ]
+ },
+ {
+  "espn_id": "306557",
+  "name": "Mohamed-Ali Cho",
+  "club_id": "306",
+  "gender": "M",
+  "born": 2004,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Angers",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Real Sociedad",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Nice",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Hull City",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France runner-up 2026 (Nice); France U21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 5.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "no clear read",
+   "LO": "two years at each club",
+   "AB": "Ligue 1 winger/forward, France U21",
+   "ST": "quick, direct dribbler",
+   "LE": "debuted at 16 for Angers"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohamed-Ali_Cho",
+   "https://www.ogcnice.com/en/article/130730/mohamed-ali-cho-joins-hull-city.html"
+  ]
+ }
+]

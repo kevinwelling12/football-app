@@ -1,0 +1,1878 @@
+[
+ {
+  "espn_id": "170209",
+  "name": "Matthias Ginter",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2014 World Cup squad (unused); 2017 Confederations Cup; DFB-Pokal with Dortmund; 2016 Olympic silver; Germany Player of the Year 2019; Europa League runner-up 2026",
+  "causes": [
+   "Matthias Ginter Stiftung: supports disadvantaged children and young people around Freiburg"
+  ],
+  "CH": 7.0,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 4.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "own foundation for disadvantaged children; no red card in his career",
+   "WK": "steady, unshowy defender",
+   "LO": "Freiburg academy, returned home after Dortmund and Gladbach",
+   "AB": "Germany international, Player of the Year 2019",
+   "ST": "ball-playing but no-frills centre-back",
+   "LE": "World Cup winner's medal, long Bundesliga career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthias_Ginter",
+   "https://de.wikipedia.org/wiki/Matthias_Ginter"
+  ]
+ },
+ {
+  "espn_id": "214203",
+  "name": "Maximilian Eggestein",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2014,
+    "to": 2021
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U21 Euro runner-up 2019; Europa League runner-up 2026; Europa League Team of the Season 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "tireless box-to-box runner",
+   "LO": "seven years at Bremen, five at Freiburg",
+   "AB": "dependable Bundesliga midfielder, European team of the season",
+   "ST": "tidy, energetic rather than flashy",
+   "LE": "key part of Freiburg's Europa League final run"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximilian_Eggestein"
+  ]
+ },
+ {
+  "espn_id": "219316",
+  "name": "Philipp Lienhart",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Austria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rapid Wien",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "Real Madrid",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026; Austria at Euro 2024 and 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 6.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "calm, reliable defender",
+   "LO": "nine seasons at Freiburg",
+   "AB": "Austria international, solid Bundesliga centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "long Freiburg servant, tournaments with Austria"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philipp_Lienhart"
+  ]
+ },
+ {
+  "espn_id": "231190",
+  "name": "Niklas Beste",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Jahn Regensburg",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "1. FC Heidenheim",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Benfica",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga title with Heidenheim 2023; Taça da Liga with Benfica 2025; German youth titles with Dortmund",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "willing wide player",
+   "LO": "several moves after Dortmund academy",
+   "AB": "good Bundesliga winger at Heidenheim",
+   "ST": "left foot, crosses and direct free kicks",
+   "LE": "Heidenheim's rise to the Bundesliga"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://de.wikipedia.org/wiki/Niklas_Beste"
+  ]
+ },
+ {
+  "espn_id": "303031",
+  "name": "Yuito Suzuki",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Japan",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Shimizu S-Pulse",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Brøndby",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Danish Superliga fans' team of the season 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "called a 'marathon runner' by kicker",
+   "LO": "steady path Japan to Denmark to Germany",
+   "AB": "productive attacking midfielder",
+   "ST": "scores and creates from the No. 10 role",
+   "LE": "early in his European career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuito_Suzuki"
+  ]
+ },
+ {
+  "espn_id": "310883",
+  "name": "Igor Matanovic",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Croatia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "FC St. Pauli",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Karlsruher SC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026; Croatia at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "target striker who works the line",
+   "LO": "loans before settling at Freiburg",
+   "AB": "Croatia international striker",
+   "ST": "physical, aerial forward",
+   "LE": "part of a famous 2026 World Cup VAR call vs Portugal"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Matanovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "337079",
+  "name": "Yannick Engelhardt",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fortuna Düsseldorf",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Como",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "One Germany cap (2026)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "holding midfielder, does the running",
+   "LO": "Bremen youth, then several clubs",
+   "AB": "Serie A and Bundesliga regular, capped once",
+   "ST": "functional defensive midfielder",
+   "LE": "returned to Freiburg in 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yannik_Engelhardt",
+   "https://www.bundesliga.com/en/bundesliga/news/who-is-yannik-engelhardt-freiburg-borussia-monchengladbach-como-38291"
+  ]
+ },
+ {
+  "espn_id": "338852",
+  "name": "Mio Backhaus",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Werder Bremen",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "FC Volendam",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Most saves in the Eredivisie 2023-24 (Volendam)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "goalkeeper; no notes on attitude",
+   "LO": "Bremen academy, moved to Freiburg in 2026",
+   "AB": "young Bundesliga goalkeeper",
+   "ST": "sweeper-keeper style",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mio_Backhaus"
+  ]
+ },
+ {
+  "espn_id": "346619",
+  "name": "Derry Scherhant",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Hertha BSC",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "willing forward/winger",
+   "LO": "Berlin-born Hertha academy product",
+   "AB": "Bundesliga squad winger",
+   "ST": "direct winger",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derry_Scherhant"
+  ]
+ },
+ {
+  "espn_id": "367558",
+  "name": "Jordy Makengo",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2001,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SC Freiburg",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "solid defender",
+   "LO": "came through Freiburg's reserves",
+   "AB": "Bundesliga squad left-back/centre-back",
+   "ST": "defensive full-back",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordy_Makengo"
+  ]
+ },
+ {
+  "espn_id": "364596",
+  "name": "Philipp Treu",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC St. Pauli",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga title with St. Pauli 2024; Europa League runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "energetic right-back",
+   "LO": "Freiburg youth, back after St. Pauli",
+   "AB": "Bundesliga regular at right-back",
+   "ST": "attacking full-back",
+   "LE": "St. Pauli promotion side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philipp_Treu"
+  ]
+ },
+ {
+  "espn_id": "171701",
+  "name": "Lukas Kübler",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "1. FC Köln",
+    "from": 2012,
+    "to": 2013
+   },
+   {
+    "club": "SV Sandhausen",
+    "from": 2013,
+    "to": 2015
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2015,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 8.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "dependable squad full-back",
+   "LO": "eleven seasons at Freiburg",
+   "AB": "solid Bundesliga full-back",
+   "ST": "no-frills defender",
+   "LE": "long Freiburg servant through promotion to a European final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_K%C3%BCbler"
+  ]
+ },
+ {
+  "espn_id": "346208",
+  "name": "Keisuke Goto",
+  "club_id": "126",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Júbilo Iwata",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Anderlecht",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sint-Truiden",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League Player of the Month (Dec 2025)",
+  "causes": [],
+  "CH": 5.5,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "celebrated a win over parent club Anderlecht in a way that angered its players",
+   "WK": "tall forward who also plays midfield",
+   "LO": "Japan to Belgium to Freiburg",
+   "AB": "promising young forward",
+   "ST": "free kicks modelled on Nakamura",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keisuke_Goto"
+  ]
+ },
+ {
+  "espn_id": "179571",
+  "name": "Vincenzo Grifo",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "FSV Frankfurt",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "TSG Hoffenheim",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2019,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga title 2016; DFB-Pokal runner-up 2022; Europa League runner-up 2026; Italy international; Freiburg's all-time top scorer",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 8.0,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 5.0,
+  "why": {
+   "CH": "nothing known beyond the 2019 melee (coded)",
+   "WK": "creative wide player, less of a runner",
+   "LO": "about ten seasons at Freiburg, returned after two moves",
+   "AB": "Italy international, prolific from wide",
+   "ST": "flair, dribbling and dead-ball specialist",
+   "LE": "Freiburg's all-time leading scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "Sent off (VAR) in Nov 2019 for grabbing Frankfurt's David Abraham in the face during the melee after Abraham knocked over coach Streich; reported three-match ban.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vincenzo_Grifo",
+   "https://www.thenewdaily.com.au/football-2/2019/11/11/frankfurt-captain-sees-red-for-coach-hit"
+  ]
+ },
+ {
+  "espn_id": "238525",
+  "name": "Lucas Höler",
+  "club_id": "126",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "VfB Oldenburg",
+    "from": 2013,
+    "to": 2014
+   },
+   {
+    "club": "SV Sandhausen",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "SC Freiburg",
+    "from": 2018,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League runner-up 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 8.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "hard-pressing, selfless forward",
+   "LO": "eight seasons at Freiburg",
+   "AB": "dependable Bundesliga forward",
+   "ST": "workmanlike rather than flashy",
+   "LE": "long Freiburg servant"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_H%C3%B6ler"
+  ]
+ },
+ {
+  "espn_id": "251639",
+  "name": "Raphael Obermair",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Philippines",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "TSV 1860 Rosenheim",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Sturm Graz",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Carl Zeiss Jena",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "1. FC Magdeburg",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "3. Liga title with Magdeburg 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "willing wide player",
+   "LO": "four seasons at Paderborn after several moves",
+   "AB": "second-tier regular now in the Bundesliga",
+   "ST": "winger",
+   "LE": "promoted with Paderborn"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raphael_Obermair"
+  ]
+ },
+ {
+  "espn_id": "312389",
+  "name": "Marvin Pieringer",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SSV Reutlingen",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Schalke 04",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "1. FC Heidenheim",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga title with Schalke 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "hard-working target forward",
+   "LO": "several clubs",
+   "AB": "Bundesliga squad striker",
+   "ST": "physical forward",
+   "LE": "journeyman career so far"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvin_Pieringer"
+  ]
+ },
+ {
+  "espn_id": "319415",
+  "name": "Nahuel Nicolas Noll",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Greuther Fürth",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hannover 96",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Germany U21 European Championship finalist 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "goalkeeper; no notes on attitude",
+   "LO": "Hoffenheim player on successive loans",
+   "AB": "second-tier starter now in the Bundesliga",
+   "ST": "modern keeper with strong distribution",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nahuel_Noll",
+   "https://www.rotowire.com/soccer/headlines/nahuel-noll-news-joins-sc-paderborn-on-loan-521100"
+  ]
+ },
+ {
+  "espn_id": "323936",
+  "name": "Gabriel Vidovic",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Croatia",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Vitesse",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Dinamo Zagreb",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga 2022, 2025 (squad); Croatian league and cup 2024",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "no notes on work rate",
+   "LO": "Bayern academy, many loans",
+   "AB": "Croatian champion, Bundesliga newcomer",
+   "ST": "attacking midfielder",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Vidovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "338837",
+  "name": "Santiago Castaneda",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2004,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "MSV Duisburg",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "central midfielder",
+   "LO": "third season at Paderborn",
+   "AB": "young midfielder now in the Bundesliga",
+   "ST": "tall central midfielder",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Casta%C3%B1eda"
+  ]
+ },
+ {
+  "espn_id": "345394",
+  "name": "Laurin Ulrich",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "VfB Stuttgart",
+    "from": 2022,
+    "to": null
+   },
+   {
+    "club": "1. FC Magdeburg",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Germany U17",
+  "honours": "Fritz Walter Medal U17 silver 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "central midfielder, youth captain",
+   "LO": "Stuttgart academy, on loan",
+   "AB": "young midfielder on loan",
+   "ST": "central midfielder",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laurin_Ulrich"
+  ]
+ },
+ {
+  "espn_id": "364593",
+  "name": "Laurin Curda",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "TSG Balingen",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Württemberg Cup with Balingen 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "all-round defender/wide player",
+   "LO": "fourth season at Paderborn",
+   "AB": "rose from the fifth tier to the Bundesliga",
+   "ST": "athletic rather than creative",
+   "LE": "promoted with Paderborn"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laurin_Curda"
+  ]
+ },
+ {
+  "espn_id": "364892",
+  "name": "Mattes Hansen",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SC Paderborn 07",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Schalke U19",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "defensive midfielder/defender",
+   "LO": "Paderborn since debut",
+   "AB": "young Bundesliga regular",
+   "ST": "no-frills defender",
+   "LE": "promoted with Paderborn"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mattes_Hansen"
+  ]
+ },
+ {
+  "espn_id": "366370",
+  "name": "Jano Horst",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "SC Paderborn 07",
+    "from": null,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; career history not found",
+   "WK": "defender; no notes on style",
+   "LO": "career history not found",
+   "AB": "Bundesliga starter this season",
+   "ST": "defender",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://site.web.api.espn.com/apis/common/v3/sports/soccer/ger.1/athletes/366370"
+  ]
+ },
+ {
+  "espn_id": "371806",
+  "name": "Tjark Scheller",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC St. Pauli",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga title with St. Pauli 2024 (2 apps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "centre-back",
+   "LO": "third season at Paderborn",
+   "AB": "young Bundesliga centre-back",
+   "ST": "no-frills centre-back",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tjark_Scheller"
+  ]
+ },
+ {
+  "espn_id": "332543",
+  "name": "Stefano Marino",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "SC Paderborn 07",
+    "from": null,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; career history not found",
+   "WK": "forward; no notes on style",
+   "LO": "career history not found",
+   "AB": "young forward, Bundesliga starts this season",
+   "ST": "forward",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://site.web.api.espn.com/apis/common/v3/sports/soccer/ger.1/athletes/332543"
+  ]
+ },
+ {
+  "espn_id": "291849",
+  "name": "Rayan Philippe",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2000,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Dijon",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "AS Nancy",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Swift Hesperange",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Eintracht Braunschweig",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Hamburger SV",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Luxembourg National Division top scorer 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "striker; no notes on work rate",
+   "LO": "several clubs and loans",
+   "AB": "second-tier scorer, Bundesliga loanee",
+   "ST": "goal-scoring forward",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayan_Philippe"
+  ]
+ },
+ {
+  "espn_id": "231764",
+  "name": "Steffen Tigges",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Germany",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "VfL Osnabrück",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Borussia Dortmund II",
+  "honours": "3. Liga title with Osnabrück 2019 (squad); Regionalliga West with Dortmund II; 2. Bundesliga title with Köln 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "target striker, captained Dortmund II",
+   "LO": "hometown Osnabrück, then Dortmund and Köln",
+   "AB": "Bundesliga squad striker",
+   "ST": "tall target man",
+   "LE": "Dortmund II captain, promotions"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steffen_Tigges"
+  ]
+ },
+ {
+  "espn_id": "366828",
+  "name": "Jonah Sticker",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Viktoria Köln",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Middle Rhine Cup with Viktoria Köln 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "defender; no notes on style",
+   "LO": "second season at Paderborn",
+   "AB": "young defender, mostly a substitute",
+   "ST": "defender",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://de.wikipedia.org/wiki/Jonah_Sticker"
+  ]
+ },
+ {
+  "espn_id": "276330",
+  "name": "Oliver Batista Meier",
+  "club_id": "3307",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Bayern Munich",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "SC Heerenveen",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Dynamo Dresden",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Grasshoppers",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "SSV Ulm",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Preußen Münster",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "SC Paderborn 07",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bayern treble 2019-20 (one appearance); Fritz Walter Medal U17 silver 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record beyond football; nothing known against",
+   "WK": "winger; no notes on work rate",
+   "LO": "many clubs and loans",
+   "AB": "second-tier winger now in the Bundesliga",
+   "ST": "dribbling winger",
+   "LE": "early in his career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Batista_Meier"
+  ]
+ }
+]

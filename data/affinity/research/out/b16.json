@@ -1,0 +1,1957 @@
+[
+ {
+  "espn_id": "149981",
+  "name": "Granit Xhaka",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Switzerland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Basel",
+    "from": 2010,
+    "to": 2012
+   },
+   {
+    "club": "Borussia Mönchengladbach",
+    "from": 2012,
+    "to": 2016
+   },
+   {
+    "club": "Arsenal",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Bayer Leverkusen",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Sunderland captain; Switzerland captain (record 152 caps); captained Gladbach; Arsenal captain 2019 until stripped after clash with fans",
+  "honours": "Swiss league x2, FA Cup x2, Bundesliga + DFB-Pokal 2024 (Leverkusen unbeaten season); Swiss Footballer of the Year x3; Sunderland Player of the Season 2025-26",
+  "causes": [
+   "Gave €20,000 to charity as an apology after a 2015 red card"
+  ],
+  "CH": 4.2,
+  "WK": 7.5,
+  "LO": 6.0,
+  "AB": 7.0,
+  "ST": 6.0,
+  "LE": 5.5,
+  "why": {
+   "CH": "eagle gesture vs Serbia 2018 (fined), 2019 outburst at Arsenal fans; many red cards",
+   "WK": "midfield leader and organiser, big work rate",
+   "LO": "seven years at Arsenal, captain for club and country",
+   "AB": "leader of Leverkusen's unbeaten double, Swiss record cap holder",
+   "ST": "long passing range, tempo-setter",
+   "LE": "Leverkusen 2024 double, Switzerland's most-capped player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 1,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "Accepted a Lucerne penalty order (suspended fine) in 2026 for obtaining a fake COVID-19 vaccination certificate in 2022; admitted and apologised.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Granit_Xhaka",
+   "https://www.bluewin.ch/en/sport/football/fake-covid-19-certificate-granit-xhaka-accepts-penalty-li.3628837"
+  ]
+ },
+ {
+  "espn_id": "288340",
+  "name": "Enzo Le Fée",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2000,
+  "nation": "France",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Lorient",
+    "from": 2019,
+    "to": 2023
+   },
+   {
+    "club": "Rennes",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Roma",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2019-20 (Lorient); Championship play-offs 2025 (Sunderland)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "busy, two-way midfielder",
+   "LO": "Lorient academy product, now settled at Sunderland",
+   "AB": "solid top-flight creative midfielder",
+   "ST": "creative playmaker, dribbling and passing",
+   "LE": "part of Sunderland's promotion and rise"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enzo_Le_F%C3%A9e"
+  ]
+ },
+ {
+  "espn_id": "301449",
+  "name": "Robin Roefs",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Netherlands",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "NEC",
+    "from": 2019,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie Team of the Month x2 (2025); Netherlands senior debut 2026, World Cup 2026 squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "steady keeper",
+   "LO": "six years at NEC, first-choice at Sunderland",
+   "AB": "Premier League starter, Netherlands international",
+   "ST": "shot-stopper, unflashy",
+   "LE": "saved three penalties in FA Cup shootout vs Everton 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Roefs"
+  ]
+ },
+ {
+  "espn_id": "340240",
+  "name": "Noah Sadiki",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Congo DR",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Anderlecht",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Union Saint-Gilloise",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian Pro League 2024-25, Belgian Cup 2023-24 (Union SG); DR Congo international (26 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "ball-winning defensive midfielder",
+   "LO": "young, two years at Union before Sunderland",
+   "AB": "Premier League regular, DR Congo international",
+   "ST": "tidy, functional",
+   "LE": "Union's title-winning midfield"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Sadiki"
+  ]
+ },
+ {
+  "espn_id": "166473",
+  "name": "Thomas Meunier",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1991,
+  "nation": "Belgium",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Virton",
+    "from": 2009,
+    "to": 2011
+   },
+   {
+    "club": "Club Brugge",
+    "from": 2011,
+    "to": 2016
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "Borussia Dortmund",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Trabzonspor",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lille",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sunderland",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Club Brugge",
+  "honours": "Belgian league + cup (Brugge); Ligue 1 x3 and multiple French cups (PSG); DFB-Pokal 2021 (Dortmund); World Cup third place 2018",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 5.0,
+  "why": {
+   "CH": "outspoken but nothing serious; old speeding fine",
+   "WK": "energetic attacking full-back",
+   "LO": "five years at Brugge, then several clubs",
+   "AB": "Belgium regular in the golden generation, PSG title winner",
+   "ST": "attacking right-back, powerful runs and assists",
+   "LE": "scored in 2018 World Cup third-place win over England"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_Meunier"
+  ]
+ },
+ {
+  "espn_id": "318090",
+  "name": "Nilson Angulo",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Ecuador",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "LDU Quito",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Anderlecht",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Sunderland",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supercopa Ecuador 2021 (LDU); Ecuador international (21 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "winger, workload unknown",
+   "LO": "four years at Anderlecht",
+   "AB": "Ecuador international, new to Premier League",
+   "ST": "direct left winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nilson_Angulo"
+  ]
+ },
+ {
+  "espn_id": "214188",
+  "name": "Nordi Mukiele",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Laval",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Montpellier",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Paris Saint-Germain",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "DFB-Pokal 2022 (Leipzig); Ligue 1 x2, Coupe de France 2024 (PSG)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "athletic, dependable defender",
+   "LO": "four years at Leipzig, otherwise several clubs",
+   "AB": "solid top-flight defender, France cap",
+   "ST": "mobile right-back/centre-back",
+   "LE": "trophies at Leipzig and PSG, mostly as squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nordi_Mukiele"
+  ]
+ },
+ {
+  "espn_id": "230081",
+  "name": "Reinildo Mandava",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Mozambique",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Ferroviário da Beira",
+    "from": 2012,
+    "to": 2014
+   },
+   {
+    "club": "GD Maputo",
+    "from": 2014,
+    "to": 2015
+   },
+   {
+    "club": "Belenenses SAD",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Lille",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 1 2020-21 and Trophée des Champions 2021 (Lille); Ligue 1 Team of the Year 2020-21",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "combative, hard-working full-back",
+   "LO": "three years each at Lille and Atlético",
+   "AB": "Ligue 1 champion, Atlético regular",
+   "ST": "defensive left-back",
+   "LE": "Lille's surprise title; Mozambique's best-known player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reinildo_Mandava"
+  ]
+ },
+ {
+  "espn_id": "282229",
+  "name": "Brian Brobbey",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Netherlands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Ajax",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Eredivisie x2, KNVB Cup 2021 (Ajax); European U17 champion x2; Ajax Player of the Year 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "physical striker, works the channels",
+   "LO": "Ajax academy; left at 19 on a free, returned",
+   "AB": "Netherlands international, solid PL striker",
+   "ST": "powerful, direct centre-forward",
+   "LE": "Ajax titles, Euro 2024 squad"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Brobbey"
+  ]
+ },
+ {
+  "espn_id": "282645",
+  "name": "Danny Ballard",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Northern Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Blackpool",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Millwall",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Sunderland",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League One play-offs 2021 (Blackpool loan); Championship play-offs 2025 (Sunderland); Northern Ireland international (34 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "committed, aerial centre-back",
+   "LO": "four-plus years at Sunderland through promotion",
+   "AB": "Premier League centre-back, NI regular",
+   "ST": "no-frills defender",
+   "LE": "extra-time winner in 2025 play-off semi-final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dan_Ballard_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "250543",
+  "name": "Kevin Danso",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1998,
+  "nation": "Austria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "FC Augsburg",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "RC Lens",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Sunderland",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2024-25 (Tottenham); Ligue 1 Team of the Year 2022-23; Austria international (39 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 6.0,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record; asked to leave Spurs in 2026 for game time",
+   "WK": "dependable, popular quickly at Sunderland",
+   "LO": "four years at Lens, otherwise moves",
+   "AB": "Ligue 1 Team of the Year, Austria regular",
+   "ST": "no-frills centre-back, long throws",
+   "LE": "Europa League winner, Euro 2024 and 2026 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Danso",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/sunderland-beat-palace-to-fofana-signing-2026-09-02"
+  ]
+ },
+ {
+  "espn_id": "290207",
+  "name": "Trai Hume",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Northern Ireland",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Linfield",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Sunderland",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "League One and Championship play-offs (Sunderland); NI Player of the Year 2023; Sunderland Player of the Season 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "consistent, hard-working full-back",
+   "LO": "four-plus years at Sunderland through two promotions",
+   "AB": "Premier League regular, NI international",
+   "ST": "overlapping right-back",
+   "LE": "part of Sunderland's rise to the top flight"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trai_Hume"
+  ]
+ },
+ {
+  "espn_id": "265915",
+  "name": "Wilson Isidor",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Haiti",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Monaco",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Lokomotiv Moscow",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Zenit Saint Petersburg",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Russian Premier League, Cup and Super Cup 2023-24 (Zenit); Championship play-offs 2025 (Sunderland); Haiti at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "runs channels, presses",
+   "LO": "several moves, two years at Sunderland",
+   "AB": "Premier League striker, Haiti international",
+   "ST": "quick, direct finisher",
+   "LE": "Sunderland promotion, Haiti's 2026 World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes (joined Lokomotiv Moscow in January 2022, before the invasion of Ukraine).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wilson_Isidor"
+  ]
+ },
+ {
+  "espn_id": "340645",
+  "name": "Malick Fofana",
+  "club_id": "366",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Belgium",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Gent",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Lyon",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Sunderland",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coupe de France runner-up 2024 (Lyon); Belgium international (6 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "winger, contributes defensively",
+   "LO": "young, two clubs so far",
+   "AB": "promising Ligue 1 winger, Belgium cap",
+   "ST": "quick dribbling winger",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Fofana",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/sunderland-beat-palace-to-fofana-signing-2026-09-02"
+  ]
+ },
+ {
+  "espn_id": "215401",
+  "name": "Omar Alderete",
+  "club_id": "366",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Paraguay",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Cerro Porteño",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Huracán",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Basel",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Hertha BSC",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Valencia",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Getafe",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Sunderland",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Swiss Super League Team of the Year 2019-20; Paraguayan Footballer of the Year 2025; Paraguay at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "committed centre-back",
+   "LO": "journeyman career",
+   "AB": "Paraguay regular, solid top-flight defender",
+   "ST": "no-frills centre-back",
+   "LE": "Paraguay's 2026 World Cup side"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omar_Alderete"
+  ]
+ },
+ {
+  "espn_id": "261047",
+  "name": "Sandro Tonali",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Italy",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Brescia",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "AC Milan",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Serie B 2019 (Brescia); Serie A 2021-22 (Milan); EFL Cup 2024-25 (Newcastle)",
+  "causes": [],
+  "CH": 4.5,
+  "WK": 8.0,
+  "LO": 5.5,
+  "AB": 7.5,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "10-month ban in 2023 for betting on matches, incl. his own clubs'; underwent gambling treatment and returned",
+   "WK": "tireless box-to-box midfielder",
+   "LO": "boyhood Milan fan who took a pay cut to join; sold twice for big fees",
+   "AB": "Italy regular, Scudetto winner",
+   "ST": "long passing, set pieces, drive",
+   "LE": "2022 Scudetto, Newcastle's 2025 cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; betting-rule breaches (2023 Italian ban, FA suspended ban) noted under Character.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandro_Tonali"
+  ]
+ },
+ {
+  "espn_id": "282583",
+  "name": "Jan Paul van Hecke",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "NAC Breda",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2020,
+    "to": 2026
+   },
+   {
+    "club": "SC Heerenveen",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Blackburn Rovers",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Brighton Player of the Year 2024-25; Blackburn Player of the Season 2021-22; Netherlands international, scored at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 6.5,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "composed, dependable defender",
+   "LO": "six years at Brighton",
+   "AB": "Netherlands international, Brighton player of the year",
+   "ST": "ball-playing centre-back",
+   "LE": "World Cup goal vs Tunisia 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke"
+  ]
+ },
+ {
+  "espn_id": "324393",
+  "name": "Antonín Kinsky",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Czechia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Dukla Prague",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Slavia Prague",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "MFK Vyškov",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FK Pardubice",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech First League 2024-25 (Slavia); Europa League 2024-25 medal (Tottenham)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 4.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "steady, recovered from public setbacks",
+   "LO": "young, two years at Spurs",
+   "AB": "Premier League starter, Czech cap",
+   "ST": "agile shot-stopper",
+   "LE": "late saves that kept Spurs up in 2026; hooked after 17 min vs Atlético"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anton%C3%ADn_Kinsk%C3%BD_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "215772",
+  "name": "Rodrigo Bentancur",
+  "club_id": "367",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Uruguay",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Boca Juniors",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Juventus",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Has captained Tottenham occasionally",
+  "honours": "Argentine league x2 (Boca); Serie A x3, Coppa Italia x2 (Juventus); Europa League 2024-25 (Tottenham)",
+  "causes": [],
+  "CH": 5.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 6.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "nothing else notable beyond the coded incidents",
+   "WK": "versatile, physical midfielder",
+   "LO": "five years at Juventus, four at Spurs",
+   "AB": "Uruguay regular, multiple titles",
+   "ST": "good close control and passing",
+   "LE": "three Serie A titles, Spurs' 2025 Europa League"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 2,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 1,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "FA seven-match ban and £100,000 fine (2024) for a racist remark about teammate Son Heung-min; sent off for headbutting Luke Shaw at Old Trafford (Oct 2026).",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Bentancur"
+  ]
+ },
+ {
+  "espn_id": "296512",
+  "name": "Micky van de Ven",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Volendam",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "Tottenham captain since August 2026; captained Volendam and Netherlands U21",
+  "honours": "Europa League 2024-25 (Tottenham); Euro 2024 bronze; Tottenham Player of the Season 2023-24",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 7.0,
+  "ST": 6.5,
+  "LE": 4.5,
+  "why": {
+   "CH": "no controversies; trusted with the captaincy",
+   "WK": "athletic, committed defender",
+   "LO": "three years at Spurs, now club captain",
+   "AB": "among the Premier League's quickest defenders, Netherlands international",
+   "ST": "pace and ball-carrying, solo goals",
+   "LE": "goal-line clearance in the 2025 Europa League final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micky_van_de_Ven"
+  ]
+ },
+ {
+  "espn_id": "303745",
+  "name": "Omar Marmoush",
+  "club_id": "367",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Egypt",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Wadi Degla",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "VfL Wolfsburg",
+    "from": 2017,
+    "to": 2023
+   },
+   {
+    "club": "VfB Stuttgart",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Eintracht Frankfurt",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Manchester City",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup and EFL Cup 2025-26 (Man City); Premier League Goal of the Season 2024-25; AFCON runner-up 2021",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 7.0,
+  "ST": 8.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "works across the front line",
+   "LO": "several moves, on loan at Spurs",
+   "AB": "standout Bundesliga season, Egypt regular",
+   "ST": "free kicks and long-range goals",
+   "LE": "Goal of the Season, City cup double"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omar_Marmoush",
+   "https://english.ahram.org.eg/News/575416.aspx"
+  ]
+ },
+ {
+  "espn_id": "328050",
+  "name": "Archie Gray",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2006,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Leeds United",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "One of Tottenham's five captains for 2026-27; club's youngest-ever captain",
+  "honours": "Europa League 2024-25 (Tottenham); U21 Euro 2025 (England); Tottenham Player of the Year 2025-26",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "plays anywhere asked, selfless",
+   "LO": "Leeds academy, two-plus years at Spurs",
+   "AB": "Spurs player of the year at 20",
+   "ST": "composed, tidy on the ball",
+   "LE": "youngest Spurs captain; Leeds' Gray family dynasty"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Archie_Gray"
+  ]
+ },
+ {
+  "espn_id": "194115",
+  "name": "Dominic Solanke",
+  "club_id": "367",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2014,
+    "to": 2017
+   },
+   {
+    "club": "Vitesse",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Liverpool",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "AFC Bournemouth",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2024-25 (Tottenham); U20 World Cup 2017 and Golden Ball; Champions League runner-up 2018 (Liverpool)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "hard-working, link-up striker",
+   "LO": "five years at Bournemouth",
+   "AB": "England cap, 20-goal PL season",
+   "ST": "good touch, unselfish",
+   "LE": "U20 World Cup Golden Ball, Spurs' 2025 trophy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominic_Solanke"
+  ]
+ },
+ {
+  "espn_id": "346820",
+  "name": "Mateus Fernandes",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Portugal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Sporting CP",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Estoril",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Southampton",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "West Ham United",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Southampton Player of the Season 2024-25; West Ham Goal of the Season 2025-26; Portugal cap 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.0,
+  "LO": 4.0,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "tenacious presser, high-intensity running",
+   "LO": "three clubs in three seasons",
+   "AB": "Portugal cap, £85m signing",
+   "ST": "progressive carrying and passing",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mateus_Fernandes_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "304470",
+  "name": "Sávio",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Atlético Mineiro",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "PSV",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Girona",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Manchester City",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Brasileirão + Copa do Brasil 2021 (Atlético Mineiro); FA Cup and EFL Cup 2025-26 (Man City); La Liga Team of the Season 2023-24",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "winger, average defensive work",
+   "LO": "moved around City Group clubs",
+   "AB": "Brazil international, La Liga team of season",
+   "ST": "skilful dribbler, most dribbles in La Liga 2023-24",
+   "LE": "Girona's breakout season"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S%C3%A1vio_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "espn_id": "266696",
+  "name": "Conor Gallagher",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Charlton Athletic",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "West Bromwich Albion",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Atlético Madrid",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Chelsea regularly in 2023-24",
+  "honours": "U17 World Cup 2017 (England); Euro 2024 runner-up; Crystal Palace Player of the Season 2021-22",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 9.0,
+  "LO": 5.0,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "relentless engine, presses all game",
+   "LO": "Chelsea academy and captain, sold in 2024",
+   "AB": "England international, Euro 2024 finalist",
+   "ST": "energetic box-to-box, few frills",
+   "LE": "Euro 2024 final, Chelsea captaincy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conor_Gallagher"
+  ]
+ },
+ {
+  "espn_id": "325042",
+  "name": "Mathys Tel",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2005,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rennes",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Bayern Munich",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Bundesliga x2 (Bayern); Europa League 2024-25 (Tottenham); U17 Euro 2022 (France)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "versatile, willing",
+   "LO": "short spells, settled at Spurs",
+   "AB": "France U21 regular, Bayern squad player",
+   "ST": "quick, skilful forward",
+   "LE": "Bundesliga titles, Spurs' 2025 trophy"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathys_Tel"
+  ]
+ },
+ {
+  "espn_id": "268533",
+  "name": "Pedro Porro",
+  "club_id": "367",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Spain",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Girona",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Manchester City",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Real Valladolid",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2020-21 (Sporting); Europa League 2024-25 (Tottenham); World Cup 2026 winner and Dream XI (Spain)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 7.5,
+  "ST": 8.0,
+  "LE": 6.0,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "attacking full-back, hard-running",
+   "LO": "three years at Sporting, three-plus at Spurs",
+   "AB": "World Cup winner, Dream XI",
+   "ST": "attacking right-back: crosses, long shots, assists",
+   "LE": "cross for the winning goal in the 2026 World Cup final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Porro"
+  ]
+ },
+ {
+  "espn_id": "290076",
+  "name": "Destiny Udogie",
+  "club_id": "367",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Italy",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Hellas Verona",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Udinese",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Tottenham Hotspur",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Europa League 2024-25 (Tottenham); Italy international (12 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "little public record, nothing negative",
+   "WK": "energetic two-way wing-back",
+   "LO": "three-plus years at Spurs",
+   "AB": "Italy international",
+   "ST": "powerful attacking left-back, Marcelo fan",
+   "LE": "Spurs' 2025 Europa League"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Destiny_Udogie"
+  ]
+ }
+]

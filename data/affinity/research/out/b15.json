@@ -1,0 +1,1903 @@
+[
+ {
+  "espn_id": "106139",
+  "name": "Lewis Hall",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2004,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2024-25; England caps from 2024",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "boyhood Newcastle fan, no issues on record",
+   "WK": "energetic, two-way full-back",
+   "LO": "chose hometown club, long contract to 2031",
+   "AB": "England international left-back",
+   "ST": "attacking, creative left-back",
+   "LE": "EFL Cup winner, young"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Hall_(footballer)",
+   "https://www.newcastleunited.com/en/news/lewis-hall-signs-new-long-term-contract"
+  ]
+ },
+ {
+  "espn_id": "224077",
+  "name": "Yoane Wissa",
+  "club_id": "361",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Congo DR",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Châteauroux",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Angers",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Lorient",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Brentford",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ligue 2 2019-20 (Lorient); Brentford record PL scorer; AFCON 2023 Team of the Tournament",
+  "causes": [],
+  "CH": 5.3,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 6.5,
+  "ST": 6.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "refused to train to force a move from Brentford",
+   "WK": "hard-working forward",
+   "LO": "journeyman; forced exit from Brentford",
+   "AB": "20-goal PL season 2024-25",
+   "ST": "lively, acrobatic finisher",
+   "LE": "Brentford record scorer, DR Congo regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 1,
+   "rival_move": 0
+  },
+  "notes": "Refused to train/play for Brentford in summer 2025 to force his move to Newcastle.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yoane_Wissa",
+   "https://www.football365.com/news/disappointed-wissa-refusing-to-train-brentford-break-pact-close-door-on-newcastle-transfer"
+  ]
+ },
+ {
+  "espn_id": "243386",
+  "name": "Harvey Barnes",
+  "club_id": "361",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Leicester City",
+    "from": 2016,
+    "to": 2023
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2020-21 and Community Shield 2021 (Leicester); EFL Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.5,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "willing runner from wide",
+   "LO": "Leicester academy from age nine; new Newcastle deal 2026",
+   "AB": "goal-scoring PL winger, one England cap",
+   "ST": "direct, quick, scores from the left",
+   "LE": "FA Cup and EFL Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvey_Barnes"
+  ]
+ },
+ {
+  "espn_id": "274633",
+  "name": "Sven Botman",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Netherlands",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Heerenveen",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Lille",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Netherlands U21 captain",
+  "honours": "Ligue 1 2020-21 (Lille); EFL Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "composed, reliable defender",
+   "LO": "four years at Newcastle, contract to 2030; recovered from ACL",
+   "AB": "top PL centre-back when fit",
+   "ST": "calm left-footed passer, no-frills",
+   "LE": "Ligue 1 title with Lille, EFL Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sven_Botman"
+  ]
+ },
+ {
+  "espn_id": "303444",
+  "name": "Malick Thiaw",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Schalke 04",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "AC Milan",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Stand-in Newcastle captain early 2026-27",
+  "honours": "2. Bundesliga 2021-22; Supercoppa Italiana 2024-25; Germany 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "dependable, given the armband quickly",
+   "LO": "three clubs by 25",
+   "AB": "Germany international centre-back",
+   "ST": "athletic defender, set-piece goals",
+   "LE": "2026 World Cup squad, Milan goal at the Bernabéu"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Thiaw",
+   "https://www.newcastleworld.com/sport/football/newcastle-united/newcastle-united-news-matthias-jaissle-8846933"
+  ]
+ },
+ {
+  "espn_id": "319267",
+  "name": "Lukás Hornícek",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Czechia",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Braga",
+    "from": 2021,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Czech international; signed for €30m release clause 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady keeper",
+   "LO": "at Braga from 17; new at Newcastle",
+   "AB": "rated young keeper, Czech international",
+   "ST": "keeper, standard",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.newcastleunited.com/en/news/lukas-hornicek-signs-for-newcastle-united",
+   "https://english.radio.cz/czech-goalkeeper-hornicek-joins-newcastle-eu30-million-move-8893739"
+  ]
+ },
+ {
+  "espn_id": "349078",
+  "name": "Lewis Miley",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2006,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Newcastle United",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2024-25; England U21",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "local academy product, nothing negative on record",
+   "WK": "hard-working, tidy midfielder",
+   "LO": "Newcastle academy from age seven",
+   "AB": "promising young PL midfielder",
+   "ST": "neat passer, scored in the Champions League",
+   "LE": "EFL Cup winner as a teenager"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Miley"
+  ]
+ },
+ {
+  "espn_id": "259517",
+  "name": "Joe Willock",
+  "club_id": "361",
+  "gender": "M",
+  "born": 1999,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Arsenal",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2019-20 (Arsenal); EFL Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "box-to-box runner",
+   "LO": "Arsenal academy, five years at Newcastle",
+   "AB": "solid PL midfielder, injury-hit",
+   "ST": "driving runs, goals in bursts",
+   "LE": "six-game scoring run equalling Shearer's club record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Willock"
+  ]
+ },
+ {
+  "espn_id": "308979",
+  "name": "Amar Dedic",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Bosnia and Herzegovina",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Wolfsberger AC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Marseille",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Benfica",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Bosnia U17 captain",
+  "honours": "Austrian Bundesliga 2022-23; Benfica Supertaça 2025; Bosnia 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 6.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "energetic full-back",
+   "LO": "several moves in a short time",
+   "AB": "Bosnia international, Benfica regular",
+   "ST": "attacking right-back",
+   "LE": "2026 World Cup with Bosnia"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amar_Dedi%C4%87",
+   "https://www.newcastleunited.com/en/news/newcastle-united-complete-amar-dedic-signing"
+  ]
+ },
+ {
+  "espn_id": "172836",
+  "name": "Jacob Murphy",
+  "club_id": "361",
+  "gender": "M",
+  "born": 1995,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Norwich City",
+    "from": 2013,
+    "to": 2017
+   },
+   {
+    "club": "Coventry City",
+    "from": 2015,
+    "to": 2016
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2017,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 7.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro; apologised for a 2014 loan-spell post",
+   "WK": "tireless wide runner",
+   "LO": "nine years at Newcastle through lean times",
+   "AB": "solid PL squad winger",
+   "ST": "direct winger, spectacular goals",
+   "LE": "EFL Cup winner, long-serving"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Murphy"
+  ]
+ },
+ {
+  "espn_id": "323986",
+  "name": "Nico González",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Barcelona",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Valencia",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Porto",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Manchester City",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Barcelona academy; Spain U21; Taça de Portugal 2023-24 (Porto)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "holding midfielder, works for the team",
+   "LO": "several clubs early; said he didn't want to leave City",
+   "AB": "solid top-flight midfielder",
+   "ST": "tidy La Masia passer",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/nico-joins-newcastle-from-man-city-in-52m-deal-2026-08-26",
+   "https://thescore.com/epl/news/3586602"
+  ]
+ },
+ {
+  "espn_id": "359651",
+  "name": "Matias Fernandez-Pardo",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Belgium",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Gent",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Lille",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgium 2026 World Cup squad",
+  "causes": [],
+  "CH": 5.8,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; trained apart at Lille while move was settled",
+   "WK": "willing forward",
+   "LO": "quick moves Gent-Lille-Newcastle",
+   "AB": "promising, Belgium international",
+   "ST": "technical, explosive attacker",
+   "LE": "young, World Cup debut 2026"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+   "https://africa.espn.com/football/story/_/id/49793900/newcastle-sign-matias-fernandez-pardo-reported-51m-deal-lille"
+  ]
+ },
+ {
+  "espn_id": "384372",
+  "name": "Sean Steur",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2008,
+  "nation": "Netherlands",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Ajax",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ajax academy; Champions League minutes at 17",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young midfielder",
+   "LO": "left Ajax over role, new at Newcastle",
+   "AB": "prospect, 26 Ajax games",
+   "ST": "likes to get on the ball and play forward",
+   "LE": "just starting"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.skysports.com/football/news/11095/13561944/sean-steur-newcastle-sign-midfielder-from-ajax-for-23m-on-five-year-deal-after-sandro-tonali-exit",
+   "https://nltimes.nl/2026/07/07/ajax-agree-eu27m-deal-sell-sean-steur-newcastle"
+  ]
+ },
+ {
+  "espn_id": "296622",
+  "name": "Anthony Elanga",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Sweden",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Manchester United",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "EFL Cup 2022-23 (Man Utd); PL Goal of the Month Aug 2026",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 5.5,
+  "ST": 7.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "hard-running winger",
+   "LO": "three clubs in five years",
+   "AB": "quick PL winger, Sweden international",
+   "ST": "pace, direct running",
+   "LE": "Forest breakout, Sweden regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Elanga"
+  ]
+ },
+ {
+  "espn_id": "359108",
+  "name": "Bazoumana Touré",
+  "club_id": "361",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Ivory Coast",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Hammarby",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Hoffenheim",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ivory Coast 2026 World Cup squad",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "willing young winger",
+   "LO": "quick moves, thanked Hoffenheim warmly",
+   "AB": "promising; 12 Bundesliga assists",
+   "ST": "dribbling, creative winger",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://africa.espn.com/football/story/_/id/49279207/newcastle-sign-winger-bazoumana-toure-hoffenheim",
+   "https://www.bundesliga.com/en/bundesliga/news/bazoumana-toure-leaves-hoffenheim-newcastle-world-cup-38073"
+  ]
+ },
+ {
+  "espn_id": "179497",
+  "name": "Matz Sels",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Belgium",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Lierse",
+    "from": 2010,
+    "to": 2014
+   },
+   {
+    "club": "Gent",
+    "from": 2014,
+    "to": 2016
+   },
+   {
+    "club": "Newcastle United",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Anderlecht",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Strasbourg",
+    "from": 2018,
+    "to": 2024
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Belgian title 2014-15 (Gent); Championship 2016-17; Coupe de la Ligue 2018-19; PL Golden Glove 2024-25",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 4.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "steady, unflashy keeper",
+   "LO": "six years at Strasbourg; journeyman otherwise",
+   "AB": "PFA Team of the Year 2024-25",
+   "ST": "keeper, standard",
+   "LE": "Golden Glove, Belgian title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matz_Sels"
+  ]
+ },
+ {
+  "espn_id": "243396",
+  "name": "Morgan Gibbs-White",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2000,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Wolverhampton Wanderers",
+    "from": 2017,
+    "to": 2022
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "Has worn Forest's armband",
+  "honours": "Championship 2017-18 (Wolves); U17 World Cup 2017; U21 Euro 2023; Forest Player of the Season 2022-23",
+  "causes": [],
+  "CH": 5.3,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 8.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "speeding ban 2025, lockdown-party fine 2020",
+   "WK": "drives the team, high work rate",
+   "LO": "stayed at Forest after Spurs triggered his clause",
+   "AB": "Forest's key player, England caps",
+   "ST": "creative No. 10, dribbles and assists",
+   "LE": "Forest talisman, U17 World Cup winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_Gibbs-White",
+   "https://africa.espn.com/football/story/_/id/45831068/morgan-gibbs-white-nottingham-forest-contract-tottenham"
+  ]
+ },
+ {
+  "espn_id": "275842",
+  "name": "Dan Ndoye",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Switzerland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Lausanne-Sport",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Nice",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Basel",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bologna",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Coppa Italia 2024-25 (scored the only goal in the final)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 7.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "hard-working winger",
+   "LO": "several clubs",
+   "AB": "Switzerland international winger",
+   "ST": "quick, direct dribbler",
+   "LE": "won Bologna's first trophy in 51 years"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dan_Ndoye",
+   "https://www.freemalaysiatoday.com/category/sports/2025/07/31/nottingham-forest-sign-winger-ndoye-from-bologna"
+  ]
+ },
+ {
+  "espn_id": "291638",
+  "name": "Neco Williams",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Wales",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Liverpool",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Fulham",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2022,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2019-20 and Club World Cup 2019 (Liverpool); Championship 2021-22 (Fulham)",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.5,
+  "LO": 6.5,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro; dedicated a World Cup display to his late grandfather",
+   "WK": "energetic, versatile full-back",
+   "LO": "four years at Forest, contract to 2029",
+   "AB": "Wales regular, solid PL full-back",
+   "ST": "overlapping full-back",
+   "LE": "Liverpool title squad, Wales World Cup 2022"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neco_Williams"
+  ]
+ },
+ {
+  "espn_id": "298518",
+  "name": "James McAtee",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2002,
+  "nation": "England",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2020,
+    "to": 2025
+   },
+   {
+    "club": "Sheffield United",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Man City academy; England U21 Euro 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 5.0,
+  "ST": 7.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "neat, willing midfielder",
+   "LO": "left City for minutes",
+   "AB": "talented but squad player at Forest",
+   "ST": "creative attacking midfielder",
+   "LE": "early in career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_McAtee"
+  ]
+ },
+ {
+  "espn_id": "338894",
+  "name": "Murillo",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Corinthians",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Forest Player of the Season 2023-24; Brazil cap 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "aggressive, committed defender",
+   "LO": "three years at Forest, contract to 2030",
+   "AB": "excellent ball-playing centre-back",
+   "ST": "carries the ball forward",
+   "LE": "Forest Player of the Season, Brazil debut"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murillo_(footballer)"
+  ]
+ },
+ {
+  "espn_id": "238886",
+  "name": "Xaver Schlager",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Austria",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Wolfsburg",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "RB Leipzig",
+    "from": 2022,
+    "to": 2026
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "Leipzig vice-captain",
+  "honours": "Austrian titles with Salzburg; DFB-Pokal 2022-23 (Leipzig); Austria at 2026 World Cup",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 8.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "tireless ball-winner",
+   "LO": "four years at Leipzig, free transfer to Forest",
+   "AB": "Austria international midfielder",
+   "ST": "energetic, unflashy",
+   "LE": "Austria regular, Pokal winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.beinsports.com/en-au/football/premier-league/articles/schlager-becomes-forests-first-signing-under-glasner-2026-07-23",
+   "https://www.getfootballnewsgermany.com/2026/xaver-schlager-forest-official/"
+  ]
+ },
+ {
+  "espn_id": "206227",
+  "name": "Ola Aina",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Nigeria",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Chelsea",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "Hull City",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Torino",
+    "from": 2018,
+    "to": 2023
+   },
+   {
+    "club": "Fulham",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Premier League 2016-17 (Chelsea); AFCON 2023 runner-up and Team of the Tournament; Member of the Order of the Niger",
+  "causes": [],
+  "CH": 6.3,
+  "WK": 7.0,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 6.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, national honour in Nigeria",
+   "WK": "reliable, works both ways",
+   "LO": "journeyman, settled at Forest",
+   "AB": "solid PL full-back, Nigeria regular",
+   "ST": "good attacking full-back",
+   "LE": "AFCON final, Order of the Niger"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ola_Aina"
+  ]
+ },
+ {
+  "espn_id": "307114",
+  "name": "Liam Delap",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2003,
+  "nation": "England",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Manchester City",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Hull City",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Ipswich Town",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Chelsea",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Club World Cup 2025 (Chelsea); 12 PL goals for Ipswich 2024-25",
+  "causes": [],
+  "CH": 5.7,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "decent pro, plenty of bookings",
+   "WK": "physical, works the line",
+   "LO": "third club in three seasons",
+   "AB": "strong, powerful striker; struggled at Chelsea",
+   "ST": "direct, physical forward",
+   "LE": "son of Rory Delap, Club World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.itv.com/news/central/2026-08-27/nottingham-forest-sign-liam-delap-from-chelsea-in-45m-deal",
+   "https://santamariatimes.com/ap/sports/liam-delap-joins-forest-for-reported-68m-after-one-season-at-chelsea-when-he-scored/article_60ed3ce2-12ac-52a1-b1b3-4a92997dfc0c.html"
+  ]
+ },
+ {
+  "espn_id": "338876",
+  "name": "Jair Paula",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2005,
+  "nation": "Brazil",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Santos",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Botafogo",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "South American U-20 Championship 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young centre-back",
+   "LO": "early in career",
+   "AB": "prospect, Brazil youth",
+   "ST": "tall no-frills centre-back",
+   "LE": "just starting"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jair_Cunha",
+   "https://africa.espn.com/football/player/bio/_/id/338876/jair-paula"
+  ]
+ },
+ {
+  "espn_id": "146679",
+  "name": "Daniel Muñoz",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Colombia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Águilas Doradas",
+    "from": 2016,
+    "to": 2019
+   },
+   {
+    "club": "Atlético Nacional",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Genk",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "Crystal Palace",
+    "from": 2024,
+    "to": 2026
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "FA Cup 2024-25, Community Shield 2025, Conference League 2025-26 (Crystal Palace); Belgian Cup 2021 (Genk); Copa América 2024 runner-up",
+  "causes": [],
+  "CH": 5.7,
+  "WK": 8.0,
+  "LO": 4.5,
+  "AB": 6.5,
+  "ST": 7.0,
+  "LE": 4.5,
+  "why": {
+   "CH": "fiery, combative competitor",
+   "WK": "relentless up-and-down full-back",
+   "LO": "several clubs, followed Glasner",
+   "AB": "one of the PL's best wing-backs",
+   "ST": "attacking wing-back",
+   "LE": "Palace's first major trophies"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.nst.com.my/amp/sports/football/2026/09/1523096/munoz-reunites-glasner-after-joining-forest-palace",
+   "https://www.wearepalace.uk/news/why-are-crystal-palace-selling-daniel-munoz-to-nottingham-forest/"
+  ]
+ },
+ {
+  "espn_id": "343964",
+  "name": "Ousmane Diomande",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Ivory Coast",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Midtjylland",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Sporting CP",
+    "from": 2023,
+    "to": 2026
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Primeira Liga 2023-24, 2024-25; Taça de Portugal 2024-25; AFCON 2023",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "solid defender",
+   "LO": "three seasons at Sporting",
+   "AB": "highly rated centre-back, Ivory Coast regular",
+   "ST": "good range and passing",
+   "LE": "two Portuguese titles, AFCON winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.thestar.com.my/sport/football/2026/08/11/soccer-forest-bolster-defence-with-signing-of-diomande-from-sporting",
+   "https://www.beinsports.com/en-us/soccer/premier-league/articles/sportings-diomande-seals-switch-to-nottingham-forest-2026-08-11"
+  ]
+ },
+ {
+  "espn_id": "287869",
+  "name": "Igor Jesus",
+  "club_id": "393",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Brazil",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Coritiba",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Shabab Al-Ahli",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "Botafogo",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Copa Libertadores and Brasileirão 2024 (Botafogo); UAE Pro League 2022-23",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 4.5,
+  "AB": 5.5,
+  "ST": 5.5,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "hard-working centre-forward",
+   "LO": "journeyman so far",
+   "AB": "Brazil international striker",
+   "ST": "physical forward",
+   "LE": "Libertadores winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Jesus_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "espn_id": "238990",
+  "name": "Nikola Milenkovic",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Serbia",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Partizan",
+    "from": 2015,
+    "to": 2017
+   },
+   {
+    "club": "Fiorentina",
+    "from": 2017,
+    "to": 2024
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Occasional captain",
+  "honours": "Serbian SuperLiga 2016-17; Forest Player of the Season 2024-25; Serbian Footballer of the Year 2025",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.5,
+  "AB": 6.5,
+  "ST": 4.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "commanding, dependable",
+   "LO": "seven years at Fiorentina",
+   "AB": "Serbia regular, top PL centre-back",
+   "ST": "no-frills, aerial threat",
+   "LE": "Serbian Footballer of the Year"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikola_Milenkovi%C4%87"
+  ]
+ },
+ {
+  "espn_id": "213718",
+  "name": "Ibrahim Sangaré",
+  "club_id": "393",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Ivory Coast",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Toulouse",
+    "from": 2016,
+    "to": 2020
+   },
+   {
+    "club": "PSV Eindhoven",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Nottingham Forest",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "AFCON 2023; KNVB Cup 2021-22, 2022-23 (PSV)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.5,
+  "LO": 5.5,
+  "AB": 6.0,
+  "ST": 5.0,
+  "LE": 3.5,
+  "why": {
+   "CH": "decent pro, nothing notable on record",
+   "WK": "powerful holding midfielder",
+   "LO": "three years at Forest, extended to 2029",
+   "AB": "Ivory Coast international",
+   "ST": "physical, occasional thunderbolt",
+   "LE": "AFCON winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ibrahim_Sangar%C3%A9_(Ivorian_footballer)"
+  ]
+ }
+]
