@@ -54,19 +54,26 @@ export function fitPlayers(players, clubAff, favs, picks) {
 // Next pair: same game (men with men, women with women), close for the model, few answers so far. Who comes up is
 // learned from your skips: each group (your clubs, active men, retired men, active women, retired women) is asked about
 // in proportion to how often you can answer for it, and a player you've already skipped once comes up much less.
-export const pgroup = (p, favs) => (p.clubs.some(c => c[1] && favs.has(c[1])) ? 'yours' : `${p.g === 'W' ? 'w' : 'm'}${p.act ? 'act' : 'ret'}`);
-export function nextPlayerPair(model, players, picks, favs = new Set(), rnd = Math.random) {
+// groups for learning what you can answer: your clubs' players, then active players by their current club's league,
+// then retired men / women
+export function pgroup(p, favs, leagueOf = () => null) {
+  if (p.clubs.some(c => c[1] && favs.has(c[1]))) return 'yours';
+  if (!p.act) return p.g === 'W' ? 'w-ret' : 'm-ret';
+  const cur = [...p.clubs].reverse().find(c => c[3] == null && c[1]);
+  return `${p.g === 'W' ? 'w' : 'm'}-${(cur && leagueOf(cur[1])) || 'other'}`;
+}
+export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf = () => null, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
   const seen = {}, skips = {}, gn = {}, gs = {};
   for (const p of picks) for (const id of [p.a, p.b]) {
     seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
-    const g = players[id] && pgroup(players[id], favs); if (!g) continue;
+    const g = players[id] && pgroup(players[id], favs, leagueOf); if (!g) continue;
     gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
   }
   // answer rate per group with a prior of 4 answered in 5, so a few skips don't shut a group out
   const answerRate = g => ((gn[g] || 0) - (gs[g] || 0) + 4) / ((gn[g] || 0) + 5);
   const pool = Object.keys(players).filter(id => (skips[id] || 0) < 2);
-  const weight = id => answerRate(pgroup(players[id], favs)) * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
+  const weight = id => answerRate(pgroup(players[id], favs, leagueOf)) * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
   // first player drawn by weight, then the closest-to-call partner among a sample of the same game
   const W = pool.map(weight), tot = W.reduce((s, w) => s + w, 0);
   const draw = () => { let r = rnd() * tot; for (let i = 0; i < pool.length; i++) { r -= W[i]; if (r <= 0) return pool[i]; } return pool[pool.length - 1]; };

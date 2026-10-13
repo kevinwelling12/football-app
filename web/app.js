@@ -684,7 +684,11 @@ function viewPlayers() {
   const lists = { ma: ['Men, active', p => p.g === 'M' && p.act], mt: ['Men, all-time', p => p.g === 'M'], wt: ['Women', p => p.g === 'W'] };
   const sel = lists[ui.plist] ? ui.plist : 'ma';
   html += `<nav class="chips" style="padding:14px 0 10px">${Object.entries(lists).map(([k, [n]]) => `<button class="chip ${sel === k ? 'on' : ''}" data-plist="${k}">${n}</button>`).join('')}</nav>`;
-  const rows = Object.entries(PLAYERS).filter(([, p]) => lists[sel][1](p)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]).slice(0, 50);
+  // active lists can be narrowed to a league (by the player's current club)
+  const curLg = p => { const c = [...p.clubs].reverse().find(c => c[3] == null && c[1]); return c ? clubTeam(c[1])?.[0] : null; };
+  const lg = sel !== 'mt' && ui.plg && LEAGUES[ui.plg] ? ui.plg : null;
+  if (sel !== 'mt') html += `<nav class="chips" style="padding:0 0 10px">${['all', ...ORDER].map(k => `<button class="chip ${(lg || 'all') === k ? 'on' : ''}" data-plg="${k}">${k === 'all' ? 'All' : LEAGUES[k].tag}</button>`).join('')}</nav>`;
+  const rows = Object.entries(PLAYERS).filter(([, p]) => lists[sel][1](p) && (!lg || curLg(p) === lg)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]).slice(0, 50);
   html += `<div class="card"><table><tr><th>#</th><th class="club">Player</th><th>Affinity</th></tr>${rows.map(([id, p, v], n) => {
     const ct = mainClub(p);
     return `<tr class="click" data-player="${id}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${ct ? crest(ct[2]) : '<span class="crest"></span>'}<span>${esc(p.n)} <span class="faint tiny">${esc(p.cur || (p.act ? '' : 'retired'))}</span><br><span class="muted tiny">${esc(pWhyLine(id))}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`;
@@ -712,7 +716,7 @@ function playerSheet(id) {
 function playerQuizSheet() {
   sheetCtx = { type: 'pquiz' };
   const P = playerAffinity(), picks = store.get().playerPicks || [];
-  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds());
+  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds(), id => clubTeam(id)?.[0]);
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair;
   const side = id => { const p = PLAYERS[id], ct = mainClub(p);
@@ -837,7 +841,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -856,6 +860,7 @@ document.addEventListener('click', e => {
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }
+  if (t.dataset.plg) { ui.plg = t.dataset.plg === 'all' ? null : t.dataset.plg; render(); return; }
   if (t.dataset.match) { const [k, id] = t.dataset.match.split(':'); matchSheet(k, id); return; }
   if (t.dataset.club) { const [k, i] = t.dataset.club.split(':'); clubSheet(k, +i); return; }
   if (t.dataset.tmode) { ui.tableMode = t.dataset.tmode; render(); return; }

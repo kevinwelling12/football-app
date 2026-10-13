@@ -1,0 +1,1793 @@
+[
+ {
+  "espn_id": "273790",
+  "name": "Daniel Crisostomo",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orange County SC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "holding No. 6 who keeps the team shape",
+   "LO": "several USL/MLS stops, first season in Sacramento",
+   "AB": "solid USL Championship regular with brief MLS spell",
+   "ST": "tidy, unflashy deep midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Crisostomo",
+   "https://www.sacrepublicfc.com/?p=44742"
+  ]
+ },
+ {
+  "espn_id": "316375",
+  "name": "Mayele Malango",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Malawi",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "New England Revolution II",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "New Amsterdam FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Albion San Diego",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Chattanooga Red Wolves",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Monterey Bay FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Malawi international (1 cap)",
+  "causes": [],
+  "CH": 6.5,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; worked up from refugee childhood in Malawi through lower leagues",
+   "WK": "direct attacker, no known issues",
+   "LO": "journeyman across many lower-league clubs",
+   "AB": "USL Championship attacker, Malawi cap",
+   "ST": "dynamic, direct runner",
+   "LE": "notable personal journey, club-level career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mayele_Malango",
+   "https://www.sacrepublicfc.com/?p=44966"
+  ]
+ },
+ {
+  "espn_id": "215186",
+  "name": "Memo Rodríguez",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1995,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo",
+    "from": 2015,
+    "to": 2022
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Austin FC",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Sporting Kansas City",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. Open Cup 2018 (Houston Dynamo)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "versatile, hard-working midfielder",
+   "LO": "Houston academy product with eight years at the Dynamo",
+   "AB": "long-time MLS regular, now in USL",
+   "ST": "left-footed creative midfielder, scores from midfield",
+   "LE": "Open Cup winner with hometown club"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Memo_Rodr%C3%ADguez",
+   "https://www.fotmob.com/players/621886/memo-rodriguez"
+  ]
+ },
+ {
+  "espn_id": "382590",
+  "name": "Jose Casas De Abadal",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Spain",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Fort Wayne FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Inter Miami CF",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Huntsville City FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note (squad member of Inter Miami's 2024 Supporters' Shield season)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "steady midfielder, no ego reported",
+   "LO": "short spells so far, first year in Sacramento",
+   "AB": "USL Championship squad player, 2 MLS apps",
+   "ST": "La Masia-trained, tidy on the ball",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep_Casas",
+   "https://www.sacrepublicfc.com/?p=45170"
+  ]
+ },
+ {
+  "espn_id": "256391",
+  "name": "Jared Timmer",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Flint City Bucks",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Reno 1868 FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Cup runner-up / contender with Sacramento",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "dependable centre-back",
+   "LO": "four seasons with Sacramento",
+   "AB": "solid USL Championship centre-back",
+   "ST": "no-frills defender, some passing range",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jared_Timmer",
+   "https://www.fotmob.com/players/1172907/jared-timmer"
+  ]
+ },
+ {
+  "espn_id": "368824",
+  "name": "Forster Ajago",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Ghana",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Nashville SC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Ghana youth international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "physical striker, no issues reported",
+   "LO": "young, early-career moves",
+   "AB": "young USL Championship striker",
+   "ST": "physical, clinical-finisher type",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forster_Ajago",
+   "https://www.sacrepublicfc.com/?p=44773"
+  ]
+ },
+ {
+  "espn_id": "303086",
+  "name": "Arturo Rodriguez",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "North Texas SC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Charleston Battery",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One 2019 (North Texas SC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 6.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "playmaker who looks to set up teammates",
+   "LO": "three seasons at Charleston, several moves",
+   "AB": "solid USL Championship attacker",
+   "ST": "creative attacking midfielder/winger, chance creator",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arturo_Rodr%C3%ADguez_(footballer,_born_1998)",
+   "https://www.sacrepublicfc.com/?p=44797",
+   "https://www.charlestonbattery.com/news/2023/03/24/battery-sign-mexican-midfielder-arturo-rodriguez/"
+  ]
+ },
+ {
+  "espn_id": "237002",
+  "name": "Mark-Anthony Kaye",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1994,
+  "nation": "Canada",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Louisville City FC",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Los Angeles FC",
+    "from": 2018,
+    "to": 2021
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Toronto FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "San Jose Earthquakes",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "MLS Supporters' Shield 2019 (LAFC); USL Cup 2017 (Louisville City); MLS All-Star; Canada international (42 caps), 2022 World Cup squad",
+  "causes": [
+   "Spoke out for racial justice and Black Lives Matter in 2020"
+  ],
+  "CH": 7.0,
+  "WK": 7.5,
+  "LO": 4.0,
+  "AB": 6.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "spoke publicly on racial justice; described as locker-room leader",
+   "WK": "box-to-box engine",
+   "LO": "many clubs via trades, longest spell at LAFC",
+   "AB": "MLS All-Star and Canada regular",
+   "ST": "energetic box-to-box midfielder",
+   "LE": "part of Canada's 2022 World Cup generation"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark-Anthony_Kaye",
+   "https://www.mlssoccer.com/news/lafcs-mark-anthony-kaye-what-provoked-him-seek-change-america",
+   "https://www.ranchocordovaindependent.com/2026/03/09/566197/republic-fc-signs-mls-all-star-and-canadian-national-team-veteran-mark-anthony-kaye"
+  ]
+ },
+ {
+  "espn_id": "246392",
+  "name": "Ryan Spaulding",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Stade Briochin",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "New England Revolution II",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "hard-running wing-back",
+   "LO": "second season in Sacramento, five years in New England system",
+   "AB": "USL Championship regular with MLS minutes",
+   "ST": "attacking left wing-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Spaulding",
+   "https://www.espn.com/soccer/player/bio/_/id/246392/ryan-spaulding"
+  ]
+ },
+ {
+  "espn_id": "303508",
+  "name": "Tyler Wolff",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Atlanta United",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "SK Beveren",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Real Salt Lake",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "CONCACAF U-20 Championship 2022 (USA)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 6.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "winger, no issues reported",
+   "LO": "five years at Atlanta, now on loan",
+   "AB": "former MLS winger and U.S. youth international",
+   "ST": "quick, direct winger",
+   "LE": "youth title with USA"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Wolff",
+   "https://www.sacrepublicfc.com/roster/tyler-wolff/"
+  ]
+ },
+ {
+  "espn_id": "241490",
+  "name": "Michelle Benítez",
+  "club_id": "17828",
+  "gender": "M",
+  "born": 1996,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Guadalajara",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Tapatío",
+    "from": 2020,
+    "to": 2022
+   },
+   {
+    "club": "Celaya",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Zacatepec",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.5,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "led Sacramento in appearances and minutes in 2025",
+   "LO": "signed multi-year extension in 2026",
+   "AB": "Chivas graduate, strong USL Championship wing-back",
+   "ST": "attacking left wing-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sacrepublicfc.com/roster/michel-benitez/",
+   "https://www.citrusheightsmessenger.com/2026/06/15/574123/versatile-defender-michel-benitez-signs-multi-year-extension-with-republic-fc"
+  ]
+ },
+ {
+  "espn_id": "317488",
+  "name": "Michael Maldonado",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "North Texas SC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Forward Madison FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One 2023 (North Carolina FC); League One All-League Second Team 2022",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "praised for hardworking attitude",
+   "LO": "San Antonio native returning home",
+   "AB": "USL League One standout, now USL Championship",
+   "ST": "versatile, chance-creating midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikey_Maldonado",
+   "https://www.sanantoniofc.com/?p=11591"
+  ]
+ },
+ {
+  "espn_id": "289148",
+  "name": "Joseph Batrouni",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "San Antonio FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "goalkeeper, nothing notable",
+   "LO": "young, one pro club so far",
+   "AB": "young USL Championship starting goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.fotmob.com/players/1724710/joseph-batrouni",
+   "https://www.statscrew.com/minorsoccer/stats/p-batrojos001"
+  ]
+ },
+ {
+  "espn_id": "303762",
+  "name": "Jorge Hernandez",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Mexico",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2017,
+    "to": 2021
+   },
+   {
+    "club": "KV Mechelen",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "attacker, no issues reported",
+   "LO": "fourth season at San Antonio, wears No. 10",
+   "AB": "productive USL Championship attacker (11 goals 2025)",
+   "ST": "creative No. 10, scores and assists",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorge_Hernandez_(soccer,_born_2000)",
+   "https://www.fotmob.com/players/971585/jorge-hernandez"
+  ]
+ },
+ {
+  "espn_id": "253242",
+  "name": "Akeem Ward",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1996,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "D.C. United",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "North Carolina FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Oakland Roots SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Memphis 901 FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Colorado Springs Switchbacks",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "described as hard-working, veteran leader",
+   "LO": "journeyman across USL clubs",
+   "AB": "long-time USL Championship regular",
+   "ST": "right-back who likes to get forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Akeem_O%27Connor-Ward",
+   "https://www.sanantoniofc.com/?p=11595"
+  ]
+ },
+ {
+  "espn_id": "252903",
+  "name": "Mitchell Taintor",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Toronto FC II",
+    "from": 2016,
+    "to": 2017
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2021,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2022 (San Antonio FC)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "reliable centre-back",
+   "LO": "long spells at Sacramento and San Antonio",
+   "AB": "solid USL Championship centre-back, one MLS goal",
+   "ST": "no-frills centre-back",
+   "LE": "USL title winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Taintor",
+   "https://www.indomitablecitysoccer.com/2020/12/16/22179549/mitchell-taintor-returns-sacramento-republic-2021-season-san-antonio-fc"
+  ]
+ },
+ {
+  "espn_id": "231065",
+  "name": "Alex Crognale",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1994,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Columbus Crew",
+    "from": 2017,
+    "to": 2019
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 6.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "dependable centre-back",
+   "LO": "five seasons at Birmingham Legion",
+   "AB": "solid USL Championship centre-back, MLS minutes",
+   "ST": "tall no-frills centre-back, set-piece threat",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Crognale",
+   "https://www.fotmob.com/players/825695"
+  ]
+ },
+ {
+  "espn_id": "245025",
+  "name": "Emil Cuello",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "LA Galaxy",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Sacramento Republic FC",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "versatile, no issues reported",
+   "LO": "several moves, three seasons at Phoenix",
+   "AB": "solid USL Championship regular",
+   "ST": "technical left-sided player",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emil_Cuello",
+   "https://www.sanantoniofc.com/news/2026/02/16/san-antonio-fc-signs-defender-midfielder-emil-cuello/"
+  ]
+ },
+ {
+  "espn_id": "272615",
+  "name": "Cristian Parano",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Argentina",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "San Martín de San Juan",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Paços de Ferreira",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship Young Player of the Year 2019",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 7.0,
+  "LO": 6.0,
+  "AB": 4.5,
+  "ST": 6.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "praised for relentless defensive work rate",
+   "LO": "three stints with San Antonio",
+   "AB": "good USL Championship attacker, Portuguese top-flight spell",
+   "ST": "dynamic dribbler, late winners",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sanantoniofc.com/?p=11658",
+   "https://www.sanantoniofc.com/news/2026/04/19/san-antonio-fc-claims-3-2-rivalry-win-over-el-paso/"
+  ]
+ },
+ {
+  "espn_id": "337028",
+  "name": "Santiago Suarez",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2005,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2022,
+    "to": null
+   },
+   {
+    "club": "Birmingham Legion FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "young defender, nothing notable",
+   "LO": "Revolution homegrown on loan",
+   "AB": "young defender on loan in USL Championship",
+   "ST": "defender",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.revolutionsoccer.net/news/revolution-loan-santiago-suarez-to-san-antonio-fc",
+   "https://www.espn.com/football/player/_/id/337028"
+  ]
+ },
+ {
+  "espn_id": "289299",
+  "name": "Christian Sorto",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2000,
+  "nation": "El Salvador",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Rio Grande Valley FC",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Miami FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Loudoun United",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "El Paso Locomotive",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "El Salvador international (3 caps)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "versatile forward, nothing notable",
+   "LO": "journeyman across USL clubs",
+   "AB": "USL Championship forward, El Salvador caps",
+   "ST": "versatile attacker",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Sorto",
+   "https://www.sanantoniofc.com/?p=11685"
+  ]
+ },
+ {
+  "espn_id": "225613",
+  "name": "Daniel Barbir",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Whitecaps FC 2",
+    "from": 2017,
+    "to": 2017
+   },
+   {
+    "club": "Astra Giurgiu",
+    "from": 2018,
+    "to": 2018
+   },
+   {
+    "club": "SV Sandhausen",
+    "from": 2019,
+    "to": 2019
+   },
+   {
+    "club": "Sporting Kansas City II",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Oakland Roots SC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Indy Eleven",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Miami FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Lexington SC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "U.S. youth international (U15-U19)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 3.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "defender, nothing notable",
+   "LO": "journeyman across many clubs",
+   "AB": "solid USL Championship defender",
+   "ST": "no-frills defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danny_Barbir",
+   "https://www.uslchampionship.com/news_article/show/1354754"
+  ]
+ },
+ {
+  "espn_id": "266855",
+  "name": "Nelson Blanco",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1999,
+  "nation": "El Salvador",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina FC",
+    "from": 2020,
+    "to": 2024
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL League One 2023 (North Carolina FC); El Salvador international",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "praised for work at both ends",
+   "LO": "four seasons at NCFC, third at San Antonio",
+   "AB": "USL Championship full-back and El Salvador international",
+   "ST": "two-way left-back",
+   "LE": "club regular, national team caps"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nelson_Blanco",
+   "https://www.sanantoniofc.com/news/2024/06/14/san-antonio-fc-acquires-defender-nelson-flores-blanco-via-transfer-from-north-carolina-fc/"
+  ]
+ },
+ {
+  "espn_id": "301988",
+  "name": "Lucio Berrón",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Argentina",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "San Antonio FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.5,
+  "AB": 3.5,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "defensive midfielder",
+   "LO": "one pro club so far",
+   "AB": "young USL Championship squad midfielder",
+   "ST": "holding midfielder",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.sanantoniofc.com/news/2025/03/06/san-antonio-fc-signs-midfielder-lucio-berron/",
+   "https://www.statscrew.com/minorsoccer/stats/p-berroluc001"
+  ]
+ },
+ {
+  "espn_id": "229862",
+  "name": "Santiago Patino",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Colombia",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Orlando City SC",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Cimarrones de Sonora",
+    "from": 2020,
+    "to": 2020
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Avaí",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Ho Chi Minh City FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Al-Merrikh",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2022 and Final MVP (San Antonio FC); club's all-time top scorer",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 5.0,
+  "ST": 6.0,
+  "LE": 4.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "striker, no issues reported",
+   "LO": "keeps returning to San Antonio, club's record scorer",
+   "AB": "prolific USL Championship striker",
+   "ST": "goalscoring striker",
+   "LE": "brace in the 2022 final, club record scorer"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Pati%C3%B1o",
+   "https://www.uslchampionship.com/news_article/show/1280699"
+  ]
+ },
+ {
+  "espn_id": "328160",
+  "name": "Curt Calov",
+  "club_id": "18265",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Minnesota United FC 2",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "San Antonio FC",
+    "from": 2026,
+    "to": 2026
+   }
+  ],
+  "captaincy": "",
+  "honours": "None of note",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record; decent pro, nothing known",
+   "WK": "midfielder, nothing notable",
+   "LO": "young, on loan from Minnesota",
+   "AB": "young USL Championship midfielder on loan",
+   "ST": "creative midfielder, long-range goals",
+   "LE": "early career"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.mnufc.com/news/mnufc2-loans-midfielder-curt-calov-to-san-antonio-fc",
+   "https://www.sanantoniofc.com/news/2026/07/12/san-antonio-fc-defeats-chattanooga-red-wolves-2-0-advances-to-prinx-tires-usl-cup-quarterfinals/"
+  ]
+ }
+]
