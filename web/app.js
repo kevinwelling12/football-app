@@ -6,10 +6,11 @@ import { statuses, scenarios as scenFor, describe } from './clinch.js';
 import { parseEvent } from './espn.js';
 import { store, initSync, signIn, signOut } from './store.js';
 import * as AF from './affinity.js';
+import * as PL from './players.js';
 
 const $ = s => document.querySelector(s);
 const D = {}, SIM = {}, LIVE = {};
-let TRAITS = {}, RIVALS = {}, AFF = null;
+let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg') || 'mls', sub: localGet('sub') || 'table' };
 const ui = { tableMode: 'now', ratingsLg: 'eur', week: {} };
@@ -84,6 +85,7 @@ const matchesOf = k => prepare(D[k], entriesFor(k), LIVE[k] || {});
 async function loadData() {
   fetch('data/traits.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { TRAITS = t; render(); }).catch(() => {});
   fetch('data/rivals.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { RIVALS = t; AFF = null; render(); }).catch(() => {});
+  fetch('data/players.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { PLAYERS = t; PAFF = null; render(); }).catch(() => {});
   await Promise.all(ORDER.map(async k => {
     const r = await fetch(`data/${k}.json`, { cache: 'no-cache' });
     if (r.ok) { const L = await r.json(); L.byId = new Map(L.matches.map(m => [m.id, m])); D[k] = L; }
@@ -196,6 +198,27 @@ function whyLine(id) {
   // "but" only when there's something before it to contrast with
   return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${shortText(id, bad)}` : ''].filter(Boolean).join(', ');
 }
+
+// ------------------------------------------------------------------ Player Affinity (web/players.js)
+function playerAffinity() {
+  const picks = store.get().playerPicks || [], A = affinity();
+  const key = JSON.stringify([A.key, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(PLAYERS).length]);
+  if (PAFF?.key === key) return PAFF;
+  const favs = favIds(), model = PL.fitPlayers(PLAYERS, id => (favs.has(id) ? null : A.model.affinity(id)), favs, picks);
+  return (PAFF = { key, model, n: model.n });
+}
+const plc = f => PL.PLABEL[f][0].toLowerCase() + PL.PLABEL[f].slice(1);
+function pWhyLine(id) {
+  const P = playerAffinity(), r = P.model.reasons(id), adj = P.model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(plc);
+  if (adj > 0.3) parts.push('you often pick him'.replace('him', PLAYERS[id].g === 'W' ? 'her' : 'him'));
+  else if (adj < -0.3) parts.push('you rarely pick him'.replace('him', PLAYERS[id].g === 'W' ? 'her' : 'him'));
+  const bad = r.bad[0];
+  return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${PL.PSHORT[bad]}` : ''].filter(Boolean).join(', ');
+}
+// a club in a player's career, with its crest when it's one of ours
+// the club a player is most associated with: most seasons among clubs we have
+function mainClub(p) { let best = null, bs = 0; for (const c of p.clubs) { if (!c[1]) continue; const ct = clubTeam(c[1]), n = (c[3] ?? 2026) - (c[2] ?? 2026); if (ct && n >= bs) { bs = n; best = ct; } } return best; }
+function clubTeam(espnId) { for (const k of ORDER) { const i = D[k]?.teams.findIndex(t => t.id === espnId); if (i >= 0) return [k, i, D[k].teams[i]]; } return null; }
 
 // "Pull for" on a neutral match: the club with clearly more Affinity, and why
 function pullFor(k, m) {
@@ -537,7 +560,8 @@ function pickRow(k, m) {
 // ------------------------------------------------------------------ Clubs
 function viewClubs() {
   const fav = favIds();
-  let html = '';
+  let html = `<div class="section" style="margin-top:6px"><span class="toggle"><button data-ctab="clubs" class="${ui.ctab !== 'players' ? 'on' : ''}">Clubs</button><button data-ctab="players" class="${ui.ctab === 'players' ? 'on' : ''}">Players</button></span></div>`;
+  if (ui.ctab === 'players') return html + viewPlayers();
   const cards = [], seen = new Set();
   for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'ucl']) if (D[k]) D[k].teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   html += `<div class="section"><h2>Your clubs</h2><span class="aside">tap ☆ on any club to follow</span></div><div class="card row-gap">${cards.join('') || '<div class="empty">None yet.</div>'}</div>`;
@@ -647,6 +671,59 @@ function matchSheet(k, id) {
   openSheet(html);
 }
 
+function viewPlayers() {
+  if (!Object.keys(PLAYERS).length || !Object.keys(TRAITS).length) return '<div class="spinner">Loading…</div>';
+  const P = playerAffinity(), beta = P.model.beta;
+  const pull = [...PL.PTRAITS, ...PL.PLINKS].filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = PL.PFLAGS.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
+  const mx = Math.max(...[...pull, ...push].map(f => Math.abs(beta[f])), 0.01);
+  const bar = f => `<div style="display:grid;grid-template-columns:1fr 90px;align-items:center;gap:10px;margin:5px 0"><span class="small">${PL.PLABEL[f]}</span><span style="height:6px;border-radius:3px;background:var(--card2)"><i style="display:block;height:100%;width:${Math.round(Math.abs(beta[f]) / mx * 100)}%;border-radius:3px;background:${beta[f] > 0 ? 'var(--good)' : 'var(--bad)'}"></i></span></div>`;
+  let html = `<div class="section"><h2>Player Affinity</h2><span class="aside">${P.n ? `learned from ${P.n} of your picks` : 'no picks yet'}</span></div>
+    <div class="card"><div class="pad"><div class="small muted" style="margin-bottom:6px">Pulls you toward a player</div>${pull.map(bar).join('')}
+      <div class="small muted" style="margin:12px 0 6px">Pushes you away</div>${push.map(bar).join('')}</div>
+      <div class="btns" style="padding:0 16px 14px"><button class="btn primary" data-act="pquiz">${P.n ? 'Answer more' : 'Tune it to you'} · who would you rather your son look up to?</button></div></div>`;
+  const lists = { ma: ['Men, active', p => p.g === 'M' && p.act], mt: ['Men, all-time', p => p.g === 'M'], wt: ['Women', p => p.g === 'W'] };
+  const sel = lists[ui.plist] ? ui.plist : 'ma';
+  html += `<nav class="chips" style="padding:14px 0 10px">${Object.entries(lists).map(([k, [n]]) => `<button class="chip ${sel === k ? 'on' : ''}" data-plist="${k}">${n}</button>`).join('')}</nav>`;
+  const rows = Object.entries(PLAYERS).filter(([, p]) => lists[sel][1](p)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]).slice(0, 50);
+  html += `<div class="card"><table><tr><th>#</th><th class="club">Player</th><th>Affinity</th></tr>${rows.map(([id, p, v], n) => {
+    const ct = mainClub(p);
+    return `<tr class="click" data-player="${id}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${ct ? crest(ct[2]) : '<span class="crest"></span>'}<span>${esc(p.n)} <span class="faint tiny">${esc(p.cur || (p.act ? '' : 'retired'))}</span><br><span class="muted tiny">${esc(pWhyLine(id))}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`;
+  }).join('')}</table></div>
+    <p class="note">${Object.keys(PLAYERS).length} researched players (your clubs' squads, today's elite, all-time greats and the women's game). Affinity is the chance you'd pick a player over a typical one: six researched traits, playing for your clubs and clubs you like, minus documented wrongdoing, learned from your picks. Whether a player is still playing or in the women's game is fitted but left out.</p>`;
+  return html;
+}
+
+function playerSheet(id) {
+  const p = PLAYERS[id]; if (!p) return;
+  sheetCtx = { type: 'player', id };
+  const P = playerAffinity(), r = P.model.reasons(id), adj = P.model.u[id] || 0, v = P.model.affinity(id);
+  const him = p.g === 'W' ? 'her' : 'him';
+  let html = `<div class="head"><div style="font-size:19px;font-weight:700">${esc(p.n)}</div><div class="small muted">${[p.nat, p.pos, p.cur || (p.act ? '' : 'Retired'), p.born ? 'born ' + p.born : ''].filter(Boolean).map(esc).join(' · ')}</div></div>
+    <div class="kv"><div>Affinity</div><div>${Math.round(v)}</div><div></div><div class="muted small">of 100</div></div>`;
+  html += `<div class="block"><h4>Why</h4><p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(plc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against: ' : 'Against: '}${r.bad.map(f => PL.PSHORT[f]).join(', ')}` : ''}${r.good.length || r.bad.length ? '.' : ''}${Math.abs(adj) > 0.15 ? ` Your picks rate ${him} ${adj > 0 ? 'higher' : 'lower'} than the traits alone.` : ''}</p>
+    <div class="kv3">${PL.PTRAITS.map(k => `<div>${PL.PLABEL[k]}${p.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(p.why[k])}</div>` : ''}</div><div>${(p.t[k] ?? 0).toFixed(1).replace('.0', '')}</div><div class="muted small">${P.model.beta[k] > 0.15 ? 'counts' : 'little'}</div>`).join('')}</div></div>`;
+  html += `<div class="block"><h4>Career</h4><div class="kv3">${p.clubs.map(c => { const ct = c[1] ? clubTeam(c[1]) : null; return `<div style="display:flex;align-items:center;gap:8px;color:var(--fg)">${ct ? crest(ct[2]) : ''}${esc(c[0])}</div><div style="font-weight:400" class="muted">${c[2] ?? ''}–${c[3] ?? ''}</div><div class="muted small">${ct && favIds().has(c[1]) ? 'your club' : ct && affOf(c[1]) != null ? 'Affinity ' + Math.round(affOf(c[1])) : ''}</div>`; }).join('')}</div></div>`;
+  if (p.honours) html += `<div class="block"><h4>Honours</h4><p class="note" style="margin:0 18px">${esc(p.honours)}</p></div>`;
+  if (p.causes?.length) html += `<div class="block"><h4>Causes</h4><p class="note" style="margin:0 18px">${p.causes.map(esc).join('<br>')}</p></div>`;
+  html += `<div class="block"><h4>Record</h4><p class="note" style="margin:0 18px">${esc(p.notes || 'Nothing on record.')}</p></div>`;
+  openSheet(html);
+}
+
+function playerQuizSheet() {
+  sheetCtx = { type: 'pquiz' };
+  const P = playerAffinity(), picks = store.get().playerPicks || [];
+  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks);
+  if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
+  sheetCtx.pair = pair;
+  const side = id => { const p = PLAYERS[id], ct = mainClub(p);
+    return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
+    <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${PL.pfacts(p).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
+  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Who would you rather your son look up to?</div><div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
+    <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
+    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-pquiz="skip">Can't say</button><button class="btn quiet" data-pquiz="done">Done</button></div>`);
+  $('#sheet').classList.toggle('qopen', !!ui.qinfo);
+}
+
 function clubSheet(k, i, keep = false) {
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
   sheetCtx = { type: 'club', k, i };
@@ -669,6 +746,10 @@ function clubSheet(k, i, keep = false) {
     const tr = AF.withGeo(TRAITS[t.id]), r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
     html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(f => shortText(t.id, f)).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
       <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${A.model.beta[k] > 0.15 ? 'counts' : 'little'}</div>`).join('')}</div></div>`;
+  }
+  if (Object.keys(PLAYERS).length) {
+    const P = playerAffinity(), ps = Object.entries(PLAYERS).filter(([, p]) => p.clubs.some(c => c[1] === t.id)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]);
+    if (ps.length) html += `<div class="block"><h4>Players who played here</h4><div class="kv3">${ps.slice(0, 8).map(([id, p, v]) => `<div data-player="${id}" class="click" style="color:var(--fg)">${esc(p.n)}<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(pWhyLine(id))}</div></div><div>${Math.round(v)}</div><div class="muted small">${p.act ? (p.cur === undefined ? '' : esc(p.cur || '')) : 'retired'}</div>`).join('')}</div></div>`;
   }
   const mine = ms.filter(m => m.h === i || m.a === i);
   const next = mine.filter(m => !isPlayed(m) && m.st !== 'canc').slice(0, 4), last = mine.filter(isPlayed).slice(-4).reverse();
@@ -704,8 +785,10 @@ function settingsSheet(keep = false) {
       ${u ? `<div class="field"><span>Status</span><span class="small" style="color:${st === 'synced' ? 'var(--good)' : st === 'error' ? 'var(--bad)' : 'var(--muted)'}">${st}${dg.seen ? ` · checked ${new Date(dg.seen).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })}` : ''}</span></div>
       ${dg.error ? `<div class="field"><span class="small" style="color:var(--bad)">${esc(dg.error)}</span></div>` : ''}` : ''}
       <div class="field"><span>Affinity picks</span><span class="muted small">this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
+      <div class="field"><span>Player picks</span><span class="muted small">this device ${(store.get().playerPicks || []).length}${dg.cloudPlayerPicks != null ? ` · cloud ${dg.cloudPlayerPicks}` : ''}</span></div>
       <div class="field"><span>Score entries</span><span class="muted small">this device ${n}${dg.cloudEntries != null ? ` · cloud ${dg.cloudEntries}` : ''}</span></div>
-      ${(store.get().affPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks">Copy my Affinity picks (to share for analysis)</button></div>' : ''}
+      ${(store.get().affPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks">Copy my club picks (to share for analysis)</button></div>' : ''}
+      ${(store.get().playerPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks" data-which="players">Copy my player picks</button></div>' : ''}
       ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
     <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
@@ -754,7 +837,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -763,6 +846,16 @@ document.addEventListener('click', e => {
     store.set(s => { (s.affPicks || (s.affPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
     ui.qinfo = false; quizSheet(); return;
   }
+  if (t.dataset.pquiz) {
+    const q = t.dataset.pquiz;
+    if (q === 'done') { closeSheet(); render(); return; }
+    const [a, b] = sheetCtx.pair;
+    store.set(s => { (s.playerPicks || (s.playerPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
+    ui.qinfo = false; playerQuizSheet(); return;
+  }
+  if (t.dataset.player) { playerSheet(t.dataset.player); return; }
+  if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
+  if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }
   if (t.dataset.match) { const [k, id] = t.dataset.match.split(':'); matchSheet(k, id); return; }
   if (t.dataset.club) { const [k, i] = t.dataset.club.split(':'); clubSheet(k, +i); return; }
   if (t.dataset.tmode) { ui.tableMode = t.dataset.tmode; render(); return; }
@@ -785,10 +878,13 @@ document.addEventListener('click', e => {
     render(); if (sheetCtx?.type === 'club') clubSheet(sheetCtx.k, sheetCtx.i); return;
   }
   if (t.dataset.act === 'quiz') { ui.qinfo = false; quizSheet(); return; }
+  if (t.dataset.act === 'pquiz') { ui.qinfo = false; playerQuizSheet(); return; }
   if (t.dataset.act === 'qinfo') { ui.qinfo = !ui.qinfo; $('#sheet').classList.toggle('qopen', ui.qinfo); t.textContent = ui.qinfo ? 'Hide details' : 'Details'; return; }
   if (t.dataset.act === 'copypicks') {
     const name = id => TRAITS[id]?.name || id;
-    const rows = (store.get().affPicks || []).map(p => ({ a: name(p.a), b: name(p.b), pick: p.win ? name(p.win) : "can't say", ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
+    const pname = id => PLAYERS[id]?.n || id, players = t.dataset.which === 'players';
+    const nm = players ? pname : name, src = players ? store.get().playerPicks : store.get().affPicks;
+    const rows = (src || []).map(p => ({ a: nm(p.a), b: nm(p.b), pick: p.win ? nm(p.win) : "can't say", ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
     const txt = JSON.stringify(rows);
     (navigator.clipboard?.writeText(txt) || Promise.reject()).then(() => { t.textContent = `Copied ${rows.length} picks`; })
       .catch(() => openSheet(`<div class="head"><b>Your picks</b><div class="small muted">Select all and copy.</div></div><textarea style="width:calc(100% - 36px);margin:0 18px;height:50vh;background:var(--card2);color:var(--fg);border:0;border-radius:10px;padding:10px;font:12px ui-monospace,monospace">${esc(txt)}</textarea>`));

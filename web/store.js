@@ -6,7 +6,7 @@
 // the keys it changed (Firestore merges nested maps). Two devices' changes therefore combine instead of one device's
 // whole copy overwriting the other's. The document as Firestore holds it (with this device's pending writes) is the truth.
 const LS = 'football-app-v1';
-const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, motw: {}, affPicks: [], updated: 0 });
+const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, motw: {}, affPicks: [], playerPicks: [], updated: 0 });
 
 let state = load(), listeners = [], cloud = null, user = null, status = 'local';
 // what Settings shows: last error, when the cloud copy was last seen, and its pick count
@@ -49,7 +49,7 @@ function delta(a, b) {
   }
   if (Object.keys(ent).length) out.entries = ent;
   const toMap = arr => Object.fromEntries((arr || []).map(p => [pairKey(p), p]));
-  for (const [f, x, y] of [['affPicks', toMap(a.affPicks), toMap(b.affPicks)], ['picks', a.picks, b.picks], ['motw', a.motw, b.motw]]) {
+  for (const [f, x, y] of [['affPicks', toMap(a.affPicks), toMap(b.affPicks)], ['playerPicks', toMap(a.playerPicks), toMap(b.playerPicks)], ['picks', a.picks, b.picks], ['motw', a.motw, b.motw]]) {
     const d = diffMap(x, y); if (Object.keys(d).length) out[f] = d;
   }
   if (!same(a.favs, b.favs)) out.favs = { ids: b.favs };
@@ -59,6 +59,7 @@ function delta(a, b) {
 }
 
 const toCloud = s => ({ v: 2, entries: s.entries || {}, affPicks: Object.fromEntries((s.affPicks || []).map(p => [pairKey(p), p])),
+  playerPicks: Object.fromEntries((s.playerPicks || []).map(p => [pairKey(p), p])),
   picks: s.picks || {}, motw: s.motw || {}, favs: { ids: s.favs }, settings: s.settings || {} });
 function fromCloud(d) {
   if (typeof d.entries === 'string') { // first version stored JSON strings
@@ -66,7 +67,7 @@ function fromCloud(d) {
     return { entries: j(d.entries, {}), favs: j(d.favs, null), picks: j(d.picks, {}), settings: j(d.settings, {}), motw: j(d.motw, {}), affPicks: j(d.affPicks, []) };
   }
   return { entries: d.entries || {}, favs: d.favs?.ids ?? null, picks: d.picks || {}, settings: d.settings || {}, motw: d.motw || {},
-    affPicks: Object.values(d.affPicks || {}) };
+    affPicks: Object.values(d.affPicks || {}), playerPicks: Object.values(d.playerPicks || {}) };
 }
 
 // Combine this device's copy with the cloud's at sign-in: newest per entry / pick, union of locks.
@@ -77,8 +78,8 @@ function merge(local, remote) {
     const L = local.entries?.[lg] || {}, R = remote.entries?.[lg] || {}; entries[lg] = {};
     for (const id of new Set([...Object.keys(L), ...Object.keys(R)])) entries[lg][id] = newest(L[id], R[id]);
   }
-  const pm = new Map(); for (const p of [...(local.affPicks || []), ...(remote.affPicks || [])]) pm.set(pairKey(p), newest(pm.get(pairKey(p)), p));
-  return { ...blank(), entries, affPicks: [...pm.values()], picks: { ...local.picks, ...remote.picks }, motw: { ...local.motw, ...remote.motw },
+  const union = (a = [], b = []) => { const m = new Map(); for (const p of [...a, ...b]) m.set(pairKey(p), newest(m.get(pairKey(p)), p)); return [...m.values()]; };
+  return { ...blank(), entries, affPicks: union(local.affPicks, remote.affPicks), playerPicks: union(local.playerPicks, remote.playerPicks), picks: { ...local.picks, ...remote.picks }, motw: { ...local.motw, ...remote.motw },
     favs: remote.favs ?? local.favs, settings: { ...local.settings, ...remote.settings }, updated: Date.now() };
 }
 
@@ -118,7 +119,7 @@ export async function initSync() {
       if (!s.exists) return;
       const r = fromCloud(s.data());
       state = { ...blank(), ...r, updated: Date.now() };
-      if (!s.metadata.fromCache) { diag.seen = Date.now(); diag.cloudPicks = r.affPicks.length; diag.cloudEntries = countEntries(r.entries); }
+      if (!s.metadata.fromCache) { diag.seen = Date.now(); diag.cloudPicks = r.affPicks.length; diag.cloudPlayerPicks = r.playerPicks.length; diag.cloudEntries = countEntries(r.entries); }
       status = s.metadata.hasPendingWrites ? 'syncing' : 'synced';
       persist(); emit();
     }, fail);

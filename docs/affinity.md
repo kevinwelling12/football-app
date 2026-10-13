@@ -46,3 +46,25 @@ Settings > Copy my Affinity picks, paste into a file, run the script above.
 ## New clubs
 The sync reports clubs with no traits. Research the ten traits (anchors: old repo scripts/archetype/BRIEF.md) and add the
 club with lat/lon to data/affinity/traits.json.
+
+# Player Affinity (2026-10-13)
+
+Kevin's goal: lists topped by players he'd like his son to look up to — humble, unselfish, play the game the right way,
+time for fans, speak out for what's right, stay out of trouble, and deliver performances worthy of the highlight reels.
+
+Same framework as clubs (web/players.js on the shared engine `fitPairs` in web/affinity.js):
+- Data: data/affinity/players.json, 463 players (399 men, 64 women; 286 active) imported from the old app's research by
+  scripts/affinity/build_players.py: career (clubs and years, mapped to ESPN ids where the club has traits; women's
+  careers link only to NWSL clubs), six audited 0–10 traits (old SCORING_BRIEF.md anchors), incident codes.
+- Pulls: Character, Team player, Loyalty, Greatness, Joy to watch, Legacy; share of seasons at your clubs (never shown as
+  a minus); the seasons-weighted Affinity of the other clubs he played for (can be negative: state-owned clubs).
+- Pushes: serious wrongdoing (abuse, racist abuse, match-fixing, other conviction), lesser offences (doping, tax fraud,
+  violent conduct), money or sportswashing move (Saudi/Qatar/UAE/China, authoritarian ambassador), forced a move or joined
+  a bitter rival.
+- Familiarity, fitted then left out: still playing, women's game.
+- Quiz: "Who would you rather your son look up to?" Same game only (men with men, women with women); Details shows
+  career, character note and record. Picks sync as state.playerPicks.
+- UI: Clubs page > Players (Men active / Men all-time / Women), player sheet (traits with evidence, career, honours,
+  causes, record), "Players who played here" on club sheets.
+- Analysis: Settings > Copy my player picks (and club picks), then
+  `node scripts/affinity/analyze_players.mjs player_picks.json club_picks.json`.

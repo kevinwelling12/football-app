@@ -61,10 +61,12 @@ export function features(id, c, ctx) {
 const sig = z => 1 / (1 + Math.exp(-z));
 const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLAGS.includes(f)), FAM = FEATURES.map(f => FAMILIAR.includes(f));
 
-// traits: {id: {...}}; picks: [{a, b, win}] (win null = can't say). Returns the fitted model.
-export function fit(traits, ctx, picks, { lambda = 1, lambdaClub = 2, iters = 1200 } = {}) {
-  const ids = Object.keys(traits), X = Object.fromEntries(ids.map(id => [id, features(id, traits[id], ctx)]));
-  const b0 = FEATURES.map(f => PRIOR[f]), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0]));
+// Shared engine (clubs and players): regularised logistic regression on "which would you rather" picks.
+// X: {id: feature vector}; spec: {names, pull, push, fam (bool arrays), flags (names never shown as a plus), prior (array)}.
+// Pull weights stay >= 0, push weights <= 0; fam (familiarity) is fitted but left out of the score.
+export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1200 } = {}) {
+  const ids = Object.keys(X), names = spec.names;
+  const b0 = spec.prior.slice(), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0]));
   const used = picks.filter(p => X[p.a] && X[p.b] && (p.win === p.a || p.win === p.b)).map(p => ({ w: p.win, l: p.win === p.a ? p.b : p.a }));
   const n = Math.max(1, Math.sqrt(used.length));
   for (let it = 0; it < (used.length ? iters : 0); it++) {
@@ -78,32 +80,40 @@ export function fit(traits, ctx, picks, { lambda = 1, lambdaClub = 2, iters = 12
     }
     for (let j = 0; j < beta.length; j++) {
       beta[j] -= 0.3 * g[j] / n;
-      // a trait can only pull you toward a club (a better ground never makes you like a club less); flags only push away
-      if (PULL[j]) beta[j] = Math.max(0, beta[j]); else if (PUSH[j]) beta[j] = Math.min(0, beta[j]);
+      // a trait can only pull you toward a club or player; flags only push away
+      if (spec.pull[j]) beta[j] = Math.max(0, beta[j]); else if (spec.push[j]) beta[j] = Math.min(0, beta[j]);
     }
-    for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaClub * u[id]) / n;
+    for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaItem * u[id]) / n;
   }
+  const FAMj = spec.fam;
   // familiarity is fitted but not part of Affinity
-  const traitPart = id => X[id].reduce((s, v, j) => s + (FAM[j] ? 0 : v * beta[j]), 0);
+  const traitPart = id => X[id].reduce((s, v, j) => s + (FAMj[j] ? 0 : v * beta[j]), 0);
   const raw = Object.fromEntries(ids.map(id => [id, traitPart(id) + u[id]]));
   const sorted = Object.values(raw).sort((a, b) => a - b), mid = sorted[sorted.length >> 1] ?? 0;
-  const mean = FEATURES.map((_, j) => ids.reduce((s, id) => s + X[id][j], 0) / ids.length);
+  const mean = names.map((_, j) => ids.reduce((s, id) => s + X[id][j], 0) / ids.length);
   return {
-    beta: Object.fromEntries(FEATURES.map((f, j) => [f, beta[j]])), u, raw, n: used.length,
+    beta: Object.fromEntries(names.map((f, j) => [f, beta[j]])), u, raw, n: used.length,
     affinity: id => (raw[id] == null ? null : 100 * sig(raw[id] - mid)),
     // P(you'd pull for a over b), from Affinity alone
     prefer: (a, b) => sig(raw[a] - raw[b]),
-    // P(you'd pick a over b in the quiz): Affinity plus league familiarity (what the fit predicts; used to test it)
-    predict: (a, b) => sig(raw[a] - raw[b] + X[a].reduce((s, v, j) => s + (FAM[j] ? (v - X[b][j]) * beta[j] : 0), 0)),
-    // biggest reasons above and below a typical club
+    // P(you'd pick a over b in the quiz): Affinity plus familiarity (what the fit predicts; used to test it)
+    predict: (a, b) => sig(raw[a] - raw[b] + X[a].reduce((s, v, j) => s + (FAMj[j] ? (v - X[b][j]) * beta[j] : 0), 0)),
+    // biggest reasons above and below a typical one
     reasons(id) {
       if (!X[id]) return { good: [], bad: [], picks: 0 };
-      const parts = FEATURES.map((f, j) => [f, FAM[j] ? 0 : beta[j] * (X[id][j] - mean[j])]).filter(([, v]) => Math.abs(v) > 0.08);
-      // the absence of a red flag isn't a reason to like a club, so flags only appear as minuses
-      return { good: parts.filter(p => p[1] > 0 && !FLAGS.includes(p[0])).sort((a, b) => b[1] - a[1]).slice(0, 3).map(p => p[0]),
-        bad: parts.filter(p => p[1] < 0).sort((a, b) => a[1] - b[1]).slice(0, 2).map(p => p[0]), picks: u[id] };
+      const parts = names.map((f, j) => [f, FAMj[j] ? 0 : beta[j] * (X[id][j] - mean[j])]).filter(([, v]) => Math.abs(v) > 0.08);
+      // the absence of a red flag isn't a reason to like someone, so flags only appear as minuses
+      return { good: parts.filter(p => p[1] > 0 && !spec.flags.includes(p[0])).sort((a, b) => b[1] - a[1]).slice(0, 3).map(p => p[0]),
+        bad: parts.filter(p => p[1] < 0 && !(spec.plusOnly || []).includes(p[0])).sort((a, b) => a[1] - b[1]).slice(0, 2).map(p => p[0]), picks: u[id] };
     },
   };
+}
+
+const CLUB_SPEC = { names: FEATURES, pull: PULL, push: PUSH, fam: FAM, flags: FLAGS, prior: FEATURES.map(f => PRIOR[f]) };
+// traits: {id: {...}}; picks: [{a, b, win}] (win null = can't say). Returns the fitted model.
+export function fit(traits, ctx, picks, opts = {}) {
+  const X = Object.fromEntries(Object.keys(traits).map(id => [id, features(id, traits[id], ctx)]));
+  return fitPairs(X, CLUB_SPEC, picks, { lambdaItem: opts.lambdaClub ?? 2, ...opts });
 }
 
 // Next pair to ask about. Prefers clubs you're likely to know (top divisions, Champions League regulars), clubs with
