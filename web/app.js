@@ -193,7 +193,8 @@ function whyLine(id) {
   const r = reasonsOf(id), adj = affinity().model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(lc);
   if (adj > 0.3) parts.push('you often pick them'); else if (adj < -0.3) parts.push('you rarely pick them');
   const bad = r.bad[0];
-  return [parts.join(', '), bad ? `but ${shortText(id, bad)}` : ''].filter(Boolean).join(', ');
+  // "but" only when there's something before it to contrast with
+  return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${shortText(id, bad)}` : ''].filter(Boolean).join(', ');
 }
 
 // "Pull for" on a neutral match: the club with clearly more Affinity, and why
