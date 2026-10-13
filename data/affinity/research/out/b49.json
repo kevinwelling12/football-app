@@ -970,24 +970,29 @@
   "clubs": [
    {
     "club": "Slavia Prague",
-    "from": 2025,
+    "from": 2024,
     "to": null
+   },
+   {
+    "club": "FK Pardubice (loan)",
+    "from": 2025,
+    "to": 2026
    }
   ],
   "captaincy": "",
-  "honours": "No senior honours; Czech youth international",
+  "honours": "No senior honours; Czech youth international up to U21",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
-  "LO": 5.5,
+  "LO": 6.0,
   "AB": 3.5,
   "ST": 4.0,
   "LE": 1.5,
   "why": {
    "CH": "little public record",
    "WK": "young centre-back",
-   "LO": "Slavia academy since 2018",
-   "AB": "fringe first-team defender",
+   "LO": "Slavia academy since 2018, contract extended to 2031",
+   "AB": "Europa/Champions League appearances; regular on loan at Pardubice",
    "ST": "no-frills centre-back",
    "LE": "early career"
   },
@@ -1004,9 +1009,13 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes. A search snippet mentioned a league red card for stepping on an opponent, but reports conflicted and the page could not be opened; not coded. Born year estimated from ESPN age 20.",
+  "notes": "No incident codes. Search snippets (TN.cz, Livesport) report a stoppage-time red in the July 2026 league opener vs Slovácko for stepping on Michal Trávník, right after being fouled himself; the reports could not be opened, so it is not confirmed as violent conduct and not coded. Straight red vs Lens (UCL, 10 Sep 2026) was for a foul outside the box, not violent conduct.",
   "confidence": "low",
-  "sources": []
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Kone%C4%8Dn%C3%BD",
+   "https://www.slavia.cz/eng/article/mikulas-konecny-extends-his-contract-with-slavia",
+   "https://www.ceskenoviny.cz/index_view.php?id=2872313"
+  ]
  },
  {
   "espn_id": "176145",

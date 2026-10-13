@@ -1448,27 +1448,32 @@
   "position": "DF",
   "clubs": [
    {
+    "club": "Preußen Münster",
+    "from": 2021,
+    "to": 2026
+   },
+   {
     "club": "SC Paderborn 07",
-    "from": null,
+    "from": 2026,
     "to": null
    }
   ],
   "captaincy": "",
-  "honours": "",
+  "honours": "Regionalliga West 2023 and promotion to 2. Bundesliga 2024 with Preußen Münster",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
-  "LO": 5.0,
+  "LO": 6.0,
   "AB": 4.5,
   "ST": 4.0,
   "LE": 2.0,
   "why": {
-   "CH": "little public record; career history not found",
-   "WK": "defender; no notes on style",
-   "LO": "career history not found",
-   "AB": "Bundesliga starter this season",
+   "CH": "little public record; nothing negative known",
+   "WK": "versatile defender, plays across the back line",
+   "LO": "Münster academy from age 14, five senior seasons; left via release clause after relegation",
+   "AB": "Bundesliga starter after promotion with Paderborn",
    "ST": "defender",
-   "LE": "early in his career"
+   "LE": "two promotions with Münster"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -1483,10 +1488,10 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes.",
-  "confidence": "low",
+  "notes": "No incident codes. Identity: ESPN lists him as Jano Horst; Wikipedia name is Jano ter Horst (born 19 June 2002).",
+  "confidence": "medium",
   "sources": [
-   "https://site.web.api.espn.com/apis/common/v3/sports/soccer/ger.1/athletes/366370"
+   "https://de.wikipedia.org/wiki/Jano_ter_Horst"
   ]
  },
  {
@@ -1555,8 +1560,18 @@
   "position": "FW",
   "clubs": [
    {
+    "club": "Karlsruher SC",
+    "from": 2021,
+    "to": 2024
+   },
+   {
+    "club": "FC Astoria Walldorf (loan)",
+    "from": 2023,
+    "to": 2024
+   },
+   {
     "club": "SC Paderborn 07",
-    "from": null,
+    "from": 2025,
     "to": null
    }
   ],
@@ -1565,14 +1580,14 @@
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
-  "LO": 5.0,
+  "LO": 4.5,
   "AB": 4.0,
   "ST": 5.0,
   "LE": 2.0,
   "why": {
-   "CH": "little public record; career history not found",
+   "CH": "little public record; nothing negative known",
    "WK": "forward; no notes on style",
-   "LO": "career history not found",
+   "LO": "Karlsruhe, loan, Hannover reserves, then Paderborn",
    "AB": "young forward, Bundesliga starts this season",
    "ST": "forward",
    "LE": "early in his career"
@@ -1590,10 +1605,10 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes.",
+  "notes": "No incident codes. Hannover 96 II (2024-25) left out as a reserve team.",
   "confidence": "low",
   "sources": [
-   "https://site.web.api.espn.com/apis/common/v3/sports/soccer/ger.1/athletes/332543"
+   "https://en.wikipedia.org/wiki/Stefano_Marino"
   ]
  },
  {

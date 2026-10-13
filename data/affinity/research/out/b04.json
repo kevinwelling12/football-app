@@ -938,7 +938,7 @@
   "position": "MF",
   "clubs": [
    {
-    "club": "Austria Wien",
+    "club": "Austria Wien (loan)",
     "from": 2021,
     "to": 2022
    },
@@ -954,7 +954,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Germany U21 international; promotion to Bundesliga with Köln 2025",
+  "honours": "2. Bundesliga 2024-25 with Köln; U21 Euro 2025 runner-up and Team of the Tournament",
   "causes": [],
   "CH": 6.0,
   "WK": 7.5,
@@ -968,7 +968,7 @@
    "LO": "four years at Köln, stayed through relegation",
    "AB": "solid Bundesliga holding midfielder",
    "ST": "defensive midfielder, unflashy",
-   "LE": "Germany U21 regular"
+   "LE": "U21 Euro 2025 finalist, Köln's promotion"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -986,8 +986,7 @@
   "notes": "No incident codes.",
   "confidence": "medium",
   "sources": [
-   "https://en.wikipedia.org/wiki/Eric_Martel",
-   "https://www.mainz05.de/en/news-en/martel-transfer-190526"
+   "https://en.wikipedia.org/wiki/Eric_Martel"
   ]
  },
  {
@@ -1011,7 +1010,7 @@
    }
   ],
   "captaincy": "Leipzig captain 2017-2025; captained Kaiserslautern",
-  "honours": "DFB-Pokal 2022, 2023; DFL-Supercup 2023; Hungary at Euro 2020 and 2024",
+  "honours": "DFB-Pokal 2022, 2023; DFL-Supercup 2023; kicker Bundesliga Team of the Season 2018-19, 2020-21; Hungary at Euro 2020 and 2024",
   "causes": [
    "Registered stem-cell donor (DKMS); donated stem cells to a blood-cancer patient in 2023"
   ],
@@ -1045,8 +1044,7 @@
   "notes": "No incident codes.",
   "confidence": "high",
   "sources": [
-   "https://en.wikipedia.org/wiki/Willi_Orb%C3%A1n",
-   "https://www.getfootballnewsgermany.com/2026/orban-statement-leipzig-future/"
+   "https://en.wikipedia.org/wiki/Willi_Orb%C3%A1n"
   ]
  },
  {
@@ -1075,7 +1073,7 @@
    }
   ],
   "captaincy": "Leipzig captain since August 2025",
-  "honours": "DFB-Pokal 2023; DFL-Supercup 2023; U21 Euro 2021 winner; Germany at World Cups 2022, 2026 and Euro 2024",
+  "honours": "DFB-Pokal 2023; DFL-Supercup 2023; U21 Euro 2021 winner (Team of the Tournament); Bundesliga Team of the Season 2021-22; Germany at World Cups 2022, 2026 and Euro 2024",
   "causes": [],
   "CH": 6.0,
   "WK": 7.5,
@@ -1192,7 +1190,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Belgian Pro League 2022, 2024 (Brugge); Norway at World Cup 2026 (scored vs Ivory Coast)",
+  "honours": "Belgian Pro League 2022, 2024 and Super Cup 2022 (Brugge); Norway at World Cup 2026 (knockout goal vs Ivory Coast)",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
@@ -1314,7 +1312,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Netherlands youth international; switched to DR Congo (senior cap 2026)",
+  "honours": "U17 Euro 2022 runner-up with Netherlands; switched to DR Congo (senior cap 2026)",
   "causes": [],
   "CH": 5.8,
   "WK": 6.5,
@@ -1343,7 +1341,7 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes.",
+  "notes": "No incident codes. Briefly demoted to NAC's youth team in January 2022 after a Snapchat post hinting at a move; reinstated a month later.",
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/Ezechiel_Banzuzi"
@@ -1374,13 +1372,13 @@
     "to": 2026
    },
    {
-    "club": "RB Leipzig",
+    "club": "RB Leipzig (loan from Roma)",
     "from": 2026,
     "to": null
    }
   ],
   "captaincy": "",
-  "honours": "Africa Cup of Nations 2025 with Morocco; Morocco World Cup 2026 squad",
+  "honours": "Africa Cup of Nations 2025 winner with Morocco (played on through an eye injury in the final); Morocco World Cup 2026 squad",
   "causes": [],
   "CH": 6.3,
   "WK": 7.5,
@@ -1445,13 +1443,13 @@
     "to": 2026
    },
    {
-    "club": "RB Leipzig",
+    "club": "RB Leipzig (loan from AC Milan)",
     "from": 2026,
     "to": null
    }
   ],
   "captaincy": "",
-  "honours": "Ligue 1 x3 (PSG); DFB-Pokal 2022, 2023; Conference League 2025 and Club World Cup 2025 (Chelsea); Germany's Footballer of the Year 2022; Bundesliga joint top scorer 2022-23",
+  "honours": "Ligue 1 x3, Coupe de France x2, Coupe de la Ligue (PSG); DFB-Pokal 2022, 2023; Conference League 2025 and Club World Cup 2025 (Chelsea); Germany's Footballer of the Year 2022; Bundesliga Player of the Season 2021-22; Bundesliga joint top scorer 2022-23; 18 France caps",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
@@ -1507,7 +1505,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Olympic silver 2024; DFL-Supercup 2023; one France cap",
+  "honours": "Olympic silver 2024; DFL-Supercup 2023; one France cap; Knight of the National Order of Merit 2024",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
@@ -1568,7 +1566,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Austrian Bundesliga and Cup 2021, 2022; Austria at Euro 2024 and World Cup 2026",
+  "honours": "Austrian Bundesliga and Cup 2021, 2022; Austrian Bundesliga Breakthrough Player 2021-22; DFL-Supercup 2023; Austria at Euro 2024 and World Cup 2026",
   "causes": [],
   "CH": 6.0,
   "WK": 8.5,
@@ -1624,7 +1622,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "France youth runner-up at U17 World Cup 2023 and U17/U19 Euros",
+  "honours": "France youth: U17 Euro and U17 World Cup runner-up 2023, U19 Euro runner-up 2024, Maurice Revello Tournament 2025",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
@@ -1679,13 +1677,13 @@
     "to": 2026
    },
    {
-    "club": "RB Leipzig",
+    "club": "RB Leipzig (loan from Brighton)",
     "from": 2026,
     "to": null
    }
   ],
   "captaincy": "",
-  "honours": "U21 Euro 2025 runner-up; Fritz Walter Medal 2023",
+  "honours": "U21 Euro 2025 runner-up; Fritz Walter Medal U19 silver 2023; no senior Germany cap yet",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
@@ -1741,7 +1739,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Serbian SuperLiga and Cup 2025 (Red Star); Serbia senior caps",
+  "honours": "Serbian SuperLiga and Cup 2025 (Red Star); U17 Euro 2024 bronze; Serbia senior caps",
   "causes": [],
   "CH": 6.0,
   "WK": 6.0,
@@ -1802,7 +1800,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Confederations Cup 2017; DFB-Pokal 2022, 2023; DFL-Supercup 2023; U21 Euro 2019 runner-up",
+  "honours": "Confederations Cup 2017; DFB-Pokal 2022, 2023; DFL-Supercup 2023; U21 Euro 2019 runner-up; Fritz Walter Medal U19 gold 2016; 19 Germany caps",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
@@ -1863,7 +1861,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Championship Team of the Season 2024-25 (Burnley promotion)",
+  "honours": "Championship Team of the Season and PFA Team of the Year 2024-25 (Burnley promotion)",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,

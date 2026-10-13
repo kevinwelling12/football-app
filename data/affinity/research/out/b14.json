@@ -1688,7 +1688,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Olympic gold 2021; Wolves Players' Player 2024-25; 2026 World Cup (Brazil)",
+  "honours": "Olympic gold 2020 (Tokyo); Toulon Tournament 2019 (Brazil U23); Wolves Players' Player of the Season 2024-25",
   "causes": [],
   "CH": 5.0,
   "WK": 6.0,
@@ -1717,10 +1717,11 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "red_card_violence 2: struck an Ipswich employee and pulled off his glasses (Dec 2024, banned and fined); sent off for kicking out at Milos Kerkez in an FA Cup tie (Mar 2025).",
+  "notes": "red_card_violence 2: elbowed an Ipswich staff member and pulled off his glasses after a match (Dec 2024; two-match ban, £80,000 fine); sent off for violent conduct for kicking out at Milos Kerkez and aiming a headbutt in the FA Cup fifth round at Bournemouth (1 Mar 2025), then refused to leave the pitch; FA added an improper-conduct charge.",
   "confidence": "high",
   "sources": [
-   "https://en.wikipedia.org/wiki/Matheus_Cunha"
+   "https://en.wikipedia.org/wiki/Matheus_Cunha",
+   "https://www.skysports.com/football/news/34651/13319984/matheus-cunha-wolves-forward-charged-by-fa-over-acting-in-an-improper-manner-following-red-card-against-bournemouth"
   ]
  },
  {
@@ -1734,7 +1735,7 @@
   "clubs": [
    {
     "club": "Troyes",
-    "from": 2017,
+    "from": 2018,
     "to": 2019
    },
    {
@@ -1749,7 +1750,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Championship play-off winner 2021 (Brentford); Cameroon international",
+  "honours": "Championship play-off winner 2021 (Brentford); PL Player of the Month Oct 2025; PL Fan Team of the Season 2024-25; Cameroon international",
   "causes": [],
   "CH": 6.5,
   "WK": 7.5,
@@ -1763,7 +1764,7 @@
    "LO": "six years at Brentford through promotion",
    "AB": "20-goal PL forward, Cameroon star",
    "ST": "clever, two-footed creator",
-   "LE": "Brentford PL rise"
+   "LE": "Brentford's PL rise"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -1779,7 +1780,7 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "medium",
+  "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Bryan_Mbeumo"
   ]
@@ -1976,7 +1977,7 @@
    {
     "club": "Newell's Old Boys",
     "from": 2017,
-    "to": 2017
+    "to": 2018
    },
    {
     "club": "Defensa y Justicia",
@@ -1995,16 +1996,16 @@
    }
   ],
   "captaincy": "",
-  "honours": "2022 World Cup; Copa América 2021 and 2024; two Eredivisie titles (Ajax); EFL Cup 2023, FA Cup 2024 (United)",
+  "honours": "2022 World Cup; Copa América 2021, 2024; Finalissima 2022; Eredivisie 2021, 2022, KNVB Cup 2021 (Ajax); EFL Cup 2023, FA Cup 2024 (United); Ajax Player of the Year 2021-22; 2026 World Cup Dream XI",
   "causes": [],
-  "CH": 6.0,
+  "CH": 5.0,
   "WK": 8.0,
   "LO": 6.0,
   "AB": 7.5,
   "ST": 6.0,
   "LE": 6.0,
   "why": {
-   "CH": "combative; no off-field issues on record",
+   "CH": "combative; held up a Falklands banner after the 2026 WC semi",
    "WK": "fierce, leads by example",
    "LO": "four years at United, fan favourite",
    "AB": "world champion centre-back",
@@ -2018,14 +2019,14 @@
    "criminal_other": 0,
    "doping": 0,
    "tax_fraud": 0,
-   "red_card_violence": 0,
+   "red_card_violence": 1,
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes.",
-  "confidence": "medium",
+  "notes": "red_card_violence 1: straight red for pulling Dominic Calvert-Lewin's hair v Leeds (13 Apr 2026), three-match ban.",
+  "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez"
   ]
@@ -2041,7 +2042,7 @@
   "clubs": [
    {
     "club": "Southampton",
-    "from": 2012,
+    "from": 2011,
     "to": 2014
    },
    {
@@ -2050,8 +2051,8 @@
     "to": null
    }
   ],
-  "captaincy": "Occasional United vice-captain",
-  "honours": "EFL Cup 2017, 2023; Europa League 2017; FA Cup 2024; Euro 2020 final goal; Euro 2024 runner-up",
+  "captaincy": "",
+  "honours": "Europa League 2017, EFL Cup 2023, Community Shield 2016 (United); Euro runner-up 2020, 2024; PFA Team of the Year 2014, 2021; Sir Matt Busby Player of the Year 2019",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
@@ -2081,7 +2082,7 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "medium",
+  "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Luke_Shaw"
   ]
@@ -2103,20 +2104,30 @@
    {
     "club": "Manchester United",
     "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "AC Milan (loan)",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Manchester United",
+    "from": 2021,
     "to": null
    }
   ],
   "captaincy": "",
-  "honours": "Primeira Liga 2018 (Porto); EFL Cup 2023, FA Cup 2024 (United); Nations League 2025 (Portugal)",
+  "honours": "Primeira Liga 2018 (Porto); EFL Cup 2023, FA Cup 2024 (United); Nations League 2025 (Portugal); U17 Euro 2016; United Players' Player of the Year 2023-24",
   "causes": [],
-  "CH": 6.0,
+  "CH": 5.5,
   "WK": 7.5,
   "LO": 7.5,
   "AB": 6.5,
   "ST": 6.0,
   "LE": 4.0,
   "why": {
-   "CH": "no issues on record",
+   "CH": "no off-field issues; one red for dissent (Dec 2023)",
    "WK": "reliable, plays anywhere asked",
    "LO": "eight years at United",
    "AB": "Portugal international full-back",
@@ -2137,7 +2148,7 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "medium",
+  "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Diogo_Dalot"
   ]
@@ -2163,7 +2174,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Denmark international",
+  "honours": "Denmark international (16 caps); United Goal of the Season 2025-26",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
@@ -2192,8 +2203,8 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "No incident codes.",
-  "confidence": "low",
+  "notes": "No incident codes (Feb 2025 red card v Ipswich was for a reckless tackle, not violent conduct).",
+  "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Patrick_Dorgu"
   ]
@@ -2280,7 +2291,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "France U21 international",
+  "honours": "Ligue 1 Team of the Year 2023-24; Europa League runner-up 2025; France international (1 cap)",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
@@ -2292,7 +2303,7 @@
    "CH": "little public record",
    "WK": "calm young defender",
    "LO": "young, two clubs",
-   "AB": "highly rated young centre-back",
+   "AB": "Ligue 1 Team of the Year at 18, France cap",
    "ST": "composed on the ball",
    "LE": "early career"
   },
@@ -2310,7 +2321,7 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "low",
+  "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Leny_Yoro"
   ]
@@ -2325,8 +2336,13 @@
   "position": "FW",
   "clubs": [
    {
-    "club": "Red Bull Salzburg",
+    "club": "FC Liefering (loan)",
     "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Red Bull Salzburg",
+    "from": 2021,
     "to": 2023
    },
    {
@@ -2341,7 +2357,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Austrian titles and cups (Salzburg); Slovenia international",
+  "honours": "Austrian Bundesliga 2021, 2022, 2023, Austrian Cup 2022 (Salzburg); DFL-Supercup 2023 (Leipzig); Slovenian Footballer of the Year 2022",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
@@ -2371,7 +2387,7 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "medium",
+  "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Benjamin_%C5%A0e%C5%A1ko"
   ]

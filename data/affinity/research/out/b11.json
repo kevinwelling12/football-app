@@ -330,27 +330,39 @@
   "position": "DF",
   "clubs": [
    {
+    "club": "Huddersfield Town",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Brighton & Hove Albion",
+    "from": 2022,
+    "to": 2023
+   },
+   {
     "club": "Chelsea",
     "from": 2023,
     "to": null
    }
   ],
-  "captaincy": "",
-  "honours": "Conference League 2025, Club World Cup 2025; Euro 2024 runner-up squad",
-  "causes": [],
-  "CH": 6.0,
+  "captaincy": "captained Chelsea once (Dec 2023); England U19 captain",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); U21 Euro 2023 (England); 5 England caps",
+  "causes": [
+   "investor and associate director of non-league Sholing FC, backing grassroots football"
+  ],
+  "CH": 6.3,
   "WK": 7.0,
   "LO": 6.5,
   "AB": 6.5,
   "ST": 5.5,
-  "LE": 3.5,
+  "LE": 3.0,
   "why": {
-   "CH": "no notable incidents or causes",
+   "CH": "no incidents; backs his local grassroots club",
    "WK": "composed, team-first defender",
-   "LO": "Chelsea academy graduate",
+   "LO": "Chelsea academy graduate, loaned out twice; ACL out most of 2025-26",
    "AB": "England international, ball-playing centre-back",
    "ST": "good passer from the back",
-   "LE": "young, Euro 2024 squad"
+   "LE": "U21 Euro winner, few senior caps"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -392,7 +404,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Conference League 2025, Club World Cup 2025; Belgium international",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); Southampton Player of the Season 2023; 5 Belgium caps",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
@@ -453,18 +465,18 @@
    }
   ],
   "captaincy": "",
-  "honours": "FA Cup 2021 squad, Community Shield 2021 (Leicester); Club World Cup 2025, Conference League 2025 (Chelsea); France caps",
+  "honours": "FA Cup 2021 (Leicester, played the final); Conference League 2025 (Chelsea); 1 France cap",
   "causes": [],
-  "CH": 6.5,
+  "CH": 5.0,
   "WK": 6.5,
   "LO": 5.0,
   "AB": 6.5,
   "ST": 4.5,
   "LE": 3.0,
   "why": {
-   "CH": "has spoken out about racist abuse he received",
+   "CH": "speaks out on racist abuse he receives; repeat speeding and a 2025 dangerous-driving conviction",
    "WK": "committed defender",
-   "LO": "four years at Chelsea through long injuries; left Leicester after two",
+   "LO": "Chelsea since 2022 through long injuries; left Leicester after two years",
    "AB": "quick, aggressive centre-back when fit",
    "ST": "no-frills defender",
    "LE": "injury-hit career so far"
@@ -480,12 +492,13 @@
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
-   "rival_move": 0
+   "rival_move": 0,
+   "minor_offence": 1
   },
-  "notes": "No incident codes.",
+  "notes": "Lesser offence: 2025 two-year ban for eight speeding offences and a dangerous-driving conviction (18-month community order); no drink or injury involved.",
   "confidence": "medium",
   "sources": [
-   "https://en.wikipedia.org/wiki/Wesley_Fofana"
+   "https://en.wikipedia.org/wiki/Wesley_Fofana_(footballer)"
   ]
  },
  {
@@ -508,22 +521,22 @@
     "to": null
    }
   ],
-  "captaincy": "",
-  "honours": "Netherlands international; Ajax regular from 16",
+  "captaincy": "Ajax vice-captain at 17; Ajax's youngest captain in Europe (Dec 2023)",
+  "honours": "Eredivisie Talent of the Year 2025; 10 Netherlands caps, 2026 World Cup squad",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
   "LO": 5.5,
   "AB": 6.0,
   "ST": 6.0,
-  "LE": 2.5,
+  "LE": 3.0,
   "why": {
    "CH": "little public record; no incidents",
-   "WK": "mature, reliable for his age",
+   "WK": "mature, trusted with the armband at 17",
    "LO": "Ajax academy graduate, then Chelsea",
    "AB": "Netherlands international full-back/centre-back",
    "ST": "composed, good on the ball",
-   "LE": "young"
+   "LE": "young; World Cup squad 2026"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -565,7 +578,7 @@
    }
   ],
   "captaincy": "",
-  "honours": "Conference League 2025, Club World Cup 2025; France international",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); Nations League third 2025; 16 France caps, 2026 World Cup squad",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
@@ -616,19 +629,19 @@
    }
   ],
   "captaincy": "",
-  "honours": "Club World Cup 2025 squad; England youth",
+  "honours": "Conference League 2025, Club World Cup 2025 (Chelsea); England U21",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
   "LO": 5.5,
-  "AB": 4.5,
+  "AB": 5.0,
   "ST": 4.5,
   "LE": 2.0,
   "why": {
    "CH": "little public record",
    "WK": "steady young defender",
    "LO": "Chelsea academy graduate",
-   "AB": "young squad defender",
+   "AB": "young Chelsea squad defender, ~50 appearances",
    "ST": "no-frills defender",
    "LE": "early career"
   },
@@ -857,8 +870,13 @@
   "position": "DF",
   "clubs": [
    {
+    "club": "Charlton Athletic",
+    "from": 2016,
+    "to": 2018
+   },
+   {
     "club": "Bristol City",
-    "from": 2019,
+    "from": 2018,
     "to": 2023
    },
    {
@@ -867,22 +885,22 @@
     "to": null
    }
   ],
-  "captaincy": "",
-  "honours": "Championship 2026 (Coventry); England youth caps",
+  "captaincy": "captained England to the 2017 U19 Euro title",
+  "honours": "Championship 2026 (Coventry); U19 Euro 2017 (England, captain); 13 Wales caps",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
   "LO": 5.5,
-  "AB": 4.5,
+  "AB": 5.0,
   "ST": 5.0,
-  "LE": 2.0,
+  "LE": 2.5,
   "why": {
    "CH": "little public record",
    "WK": "steady left-back",
-   "LO": "four years each at Bristol City and Coventry so far",
-   "AB": "Championship-level full-back",
+   "LO": "five years at Bristol City, three at Coventry",
+   "AB": "Wales international left-back",
    "ST": "overlapping full-back",
-   "LE": "promotion"
+   "LE": "youth Euro-winning captain, promotion"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -898,9 +916,9 @@
    "rival_move": 0
   },
   "notes": "No incident codes.",
-  "confidence": "low",
+  "confidence": "medium",
   "sources": [
-   "https://www.fotmob.com/players/759814/jay-dasilva"
+   "https://en.wikipedia.org/wiki/Jay_Dasilva"
   ]
  },
  {
@@ -924,21 +942,21 @@
    }
   ],
   "captaincy": "",
-  "honours": "Championship 2026 (Coventry)",
+  "honours": "Championship 2026 (Coventry); PFA Championship Team of the Year 2025-26",
   "causes": [],
   "CH": 6.0,
   "WK": 6.5,
   "LO": 6.0,
-  "AB": 4.5,
+  "AB": 5.0,
   "ST": 4.0,
-  "LE": 2.0,
+  "LE": 2.5,
   "why": {
    "CH": "little public record",
    "WK": "committed defender",
    "LO": "Coventry regular since 2023",
-   "AB": "Championship-level centre-back",
+   "AB": "PFA Championship Team of the Year, now Premier League",
    "ST": "no-frills centre-back",
-   "LE": "promotion"
+   "LE": "scored the goal that sealed promotion"
   },
   "codes": {
    "abuse_allegation": 0,
@@ -1042,20 +1060,20 @@
    }
   ],
   "captaincy": "",
-  "honours": "Championship 2026 (Coventry)",
+  "honours": "Championship 2026 (Coventry); PFA Championship Team of the Year 2025-26; Coventry Player of the Year 2025; AFC Wimbledon Player of the Year 2022",
   "causes": [],
   "CH": 6.0,
   "WK": 7.0,
   "LO": 5.0,
-  "AB": 4.5,
+  "AB": 5.0,
   "ST": 6.0,
-  "LE": 2.0,
+  "LE": 2.5,
   "why": {
    "CH": "little public record",
    "WK": "energetic box-to-box midfielder",
    "LO": "a few years at each club",
-   "AB": "Championship-level midfielder",
-   "ST": "arrives in the box, creative",
+   "AB": "PFA Championship Team of the Year, now Premier League",
+   "ST": "goalscoring attacking midfielder",
    "LE": "promotion"
   },
   "codes": {
@@ -1664,7 +1682,7 @@
   "clubs": [
    {
     "club": "Everton",
-    "from": 2019,
+    "from": 2020,
     "to": 2023
    },
    {
@@ -1674,16 +1692,16 @@
    }
   ],
   "captaincy": "",
-  "honours": "Championship 2026 (Coventry)",
+  "honours": "Championship 2026 (Coventry); Championship Player of the Month Nov 2025",
   "causes": [],
-  "CH": 6.0,
+  "CH": 6.3,
   "WK": 7.0,
   "LO": 5.5,
   "AB": 4.5,
   "ST": 5.0,
   "LE": 2.0,
   "why": {
-   "CH": "little public record",
+   "CH": "little public record; shirt tribute to injured teammate Sakamoto (2024)",
    "WK": "hard-working centre-forward",
    "LO": "Everton academy, Coventry since 2023",
    "AB": "Championship-level striker",
