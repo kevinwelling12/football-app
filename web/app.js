@@ -180,7 +180,10 @@ function affinity() {
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
   const rivals = new Set(Object.entries(RIVALS).filter(([k]) => k !== '_note').flatMap(([, v]) => Object.keys(v.rivals || {})));
-  const ctx = { league, rivals }, model = AF.fit(TRAITS, ctx, picks);
+  // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
+  const standing = {};
+  for (const k of ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
+  const ctx = { league, rivals, standing }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
 // your own clubs aren't scored: they're yours

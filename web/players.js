@@ -62,18 +62,29 @@ export function pgroup(p, favs, leagueOf = () => null) {
   const cur = [...p.clubs].reverse().find(c => c[3] == null && c[1]);
   return `${p.g === 'W' ? 'w' : 'm'}-${(cur && leagueOf(cur[1])) || 'other'}`;
 }
+// How likely Kevin is to know a player before any picks. He started following with the 2026 World Cup, so: current
+// stars first (greatness), his clubs' players, and only the true icons among retired players.
+export function knownPrior(p, favs) {
+  const ab = p.t.AB ?? 5, le = p.t.LE ?? 3;
+  if (!p.act) return le >= 9.5 ? 0.4 : le >= 9 ? 0.15 : 0.05;
+  const base = ab >= 8 ? 0.85 : ab >= 7 ? 0.6 : ab >= 6 ? 0.3 : ab >= 5 ? 0.15 : 0.08;
+  return p.clubs.some(c => c[1] && favs.has(c[1])) ? Math.min(0.95, base + 0.3) : base;
+}
+const tier = p => (!p.act ? 'r' : (p.t.AB ?? 5) >= 8 ? 'a' : (p.t.AB ?? 5) >= 7 ? 'b' : (p.t.AB ?? 5) >= 6 ? 'c' : 'd');
 export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf = () => null, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
+  const cell = id => `${pgroup(players[id], favs, leagueOf)}:${tier(players[id])}`;
   const seen = {}, skips = {}, gn = {}, gs = {};
   for (const p of picks) for (const id of [p.a, p.b]) {
     seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
-    const g = players[id] && pgroup(players[id], favs, leagueOf); if (!g) continue;
-    gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
+    if (!players[id]) continue;
+    const g = cell(id); gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
   }
-  // answer rate per group with a prior of 4 answered in 5, so a few skips don't shut a group out
-  const answerRate = g => ((gn[g] || 0) - (gs[g] || 0) + 4) / ((gn[g] || 0) + 5);
+  // answer rate per group and level (e.g. Bundesliga stars vs Bundesliga squad players), starting from the prior and
+  // moved by his answers and skips; squared, so the pairs lean hard toward players he can answer
+  const answerRate = id => { const g = cell(id), k = 20; return ((gn[g] || 0) - (gs[g] || 0) + k * knownPrior(players[id], favs)) / ((gn[g] || 0) + k); };
   const pool = Object.keys(players).filter(id => (skips[id] || 0) < 2);
-  const weight = id => answerRate(pgroup(players[id], favs, leagueOf)) * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
+  const weight = id => answerRate(id) ** 4 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
   // first player drawn by weight, then the closest-to-call partner among a sample of the same game
   const W = pool.map(weight), tot = W.reduce((s, w) => s + w, 0);
   const draw = () => { let r = rnd() * tot; for (let i = 0; i < pool.length; i++) { r -= W[i]; if (r <= 0) return pool[i]; } return pool[pool.length - 1]; };

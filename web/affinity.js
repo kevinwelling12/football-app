@@ -118,13 +118,19 @@ export function fit(traits, ctx, picks, opts = {}) {
 
 // Next pair to ask about. Prefers clubs you're likely to know (top divisions, Champions League regulars), clubs with
 // few answers so far, and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
-const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.6, usl: 0.5 };
+const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.5, usl: 0.5 };
 export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
   const seen = {}, skips = {};
   for (const p of picks) for (const id of [p.a, p.b]) { seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1; }
+  // answer rate per league, starting from KNOWN and moved by his answers and skips
+  const ln = {}, ls = {};
+  for (const p of picks) for (const id of [p.a, p.b]) { const l = ctx.league[id]; ln[l] = (ln[l] || 0) + 1; if (!p.win) ls[l] = (ls[l] || 0) + 1; }
+  const rate = l => ((ln[l] || 0) - (ls[l] || 0) + 30 * (KNOWN[l] ?? 0.5)) / ((ln[l] || 0) + 30);
   const pool = ids.filter(id => !favs.has(id) && (skips[id] || 0) < 2);
-  const weight = id => (KNOWN[ctx.league[id]] ?? 0.5) / (1 + (seen[id] || 0) / 3);
+  // big clubs first: the top of a league by Elo counts fully, the bottom a fifth (UCL visitors from smaller leagues
+  // sit low in the Champions League file)
+  const weight = id => (rate(ctx.league[id]) * (0.2 + 0.8 * (ctx.standing?.[id] ?? 0.5))) ** 3 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 15);
   let best = null, bestS = -1;
   for (let n = 0; n < 500; n++) {
     const a = pool[(rnd() * pool.length) | 0], b = pool[(rnd() * pool.length) | 0];
