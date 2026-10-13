@@ -57,14 +57,15 @@
    "abuse_allegation": 0,
    "racist_abuse": 0,
    "match_fixing": 0,
-   "criminal_other": 1,
+   "criminal_other": 0,
    "doping": 0,
    "tax_fraud": 0,
    "red_card_violence": 0,
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
-   "rival_move": 0
+   "rival_move": 0,
+   "minor_offence": 1
   },
   "notes": "Accepted a Lucerne penalty order (suspended fine) in 2026 for obtaining a fake COVID-19 vaccination certificate in 2022; admitted and apologised.",
   "confidence": "high",

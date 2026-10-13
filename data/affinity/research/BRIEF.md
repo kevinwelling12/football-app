@@ -69,11 +69,13 @@ Write a JSON array to the file path you are given, one object per player, in the
 - `abuse_allegation` 0–2 (0 none, 1 credible allegation: charged, acquitted or dropped, 2 convicted or settled).
   Under investigation but not charged = 0 (mention it in `notes`).
 - `racist_abuse` 0–2: racist, homophobic or other discriminatory abuse (1 alleged or apologised, 2 banned or convicted)
-- `match_fixing`, `criminal_other` (other conviction, e.g. drink-driving causing harm), `doping`, `tax_fraud`: 0/1
+- `match_fixing`, `criminal_other` (other conviction where someone was harmed or put at risk, e.g. assault, drink-driving), `doping`, `tax_fraud`: 0/1
+- `minor_offence` 0/1: a minor conviction or penalty with no one harmed (licence or insurance offences, careless driving, paperwork fraud, a banned purchase)
 - `red_card_violence`: count of violent-conduct incidents off the ball (punch, headbutt, bite, spitting, stamp, assault)
 - `money_league`: 0/1 moved to a Saudi, Qatari, Emirati or Chinese Super League club for money
 - `authoritarian_ambassador`: 0/1 paid ambassador for an authoritarian state
-- `forced_transfer`: 0/1 went on strike or forced a move; `rival_move`: 0/1 moved directly between bitter rivals
+- `forced_transfer`: 0/1 went on strike or forced a move; `rival_move`: 0/1 chose to move directly between bitter rivals
+  (a club trade doesn't count)
 Betting-rule breaches (betting on football): note them in CH and `notes`; code `match_fixing` only for fixing/spot-fixing.
 
 ## Low information

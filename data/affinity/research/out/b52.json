@@ -1011,13 +1011,13 @@
    "criminal_other": 0,
    "doping": 0,
    "tax_fraud": 0,
-   "red_card_violence": 1,
+   "red_card_violence": 0,
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "red_card_violence 1: sent off for slapping an opponent at the 2017 CONCACAF U-17 Championship (per source cited on Wikipedia). Known as Rocco Romeo.",
+  "notes": "red_card_violence 1: sent off for slapping an opponent at the 2017 CONCACAF U-17 Championship (per source cited on Wikipedia). Known as Rocco Romeo. Audit: youth-tournament incident from an unopened source, not coded.",
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Rocco_Romeo"

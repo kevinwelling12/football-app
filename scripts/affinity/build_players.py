@@ -67,10 +67,16 @@ def club_id(name, women):
 def flags(c):
     return {
         'serious': int(bool(c.get('abuse_allegation') or c.get('racist_abuse') or c.get('match_fixing') or c.get('criminal_other'))),
-        'lesser': int(bool(c.get('doping') or c.get('tax_fraud') or c.get('red_card_violence'))),
+        'lesser': int(bool(c.get('doping') or c.get('tax_fraud') or c.get('red_card_violence') or c.get('minor_offence'))),
         'money': int(bool(c.get('money_league') or c.get('authoritarian_ambassador'))),
         'moves': int(bool(c.get('forced_transfer') or c.get('rival_move'))),
     }
+
+
+# Kevin, 2026-10-13: "serious" is for harm to people (abuse, discriminatory abuse, fixing, assault, drink-driving).
+# Minor offences (licences, paperwork, a weapon purchase) count as lesser; allegations never charged count as nothing.
+OLD_MINOR = {'marco-reus', 'ian-wright', 'karim-adeyemi', 'fabio-cannavaro'}
+OLD_NOT_CHARGED = {'kylian-mbappe', 'sergio-busquets'}
 
 
 def slug(name):
@@ -123,6 +129,10 @@ def main(old):
             },
             'why': why, 'notes': c.get('notes') or '', 'honours': p.get('honours') or '', 'causes': (p.get('causes') or [])[:2],
         }
+    for pid in OLD_MINOR & out.keys():
+        out[pid]['f'].update(serious=0, lesser=1)
+    for pid in OLD_NOT_CHARGED & out.keys():
+        out[pid]['f']['serious'] = 0
     json.dump(out, open(ROOT / 'data/affinity/players.json', 'w'), ensure_ascii=False, separators=(',', ':'))
     linked = sum(1 for p in out.values() if any(c[1] for c in p['clubs']))
     print(f"{len(out)} players; {linked} linked to at least one club with traits; flags: "

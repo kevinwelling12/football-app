@@ -1581,9 +1581,9 @@
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
-   "rival_move": 1
+   "rival_move": 0
   },
-  "notes": "rival_move 1: went directly from Toronto FC to rivals CF Montréal (2024), though by club trade rather than his own choice.",
+  "notes": "rival_move 1: went directly from Toronto FC to rivals CF Montréal (2024), though by club trade rather than his own choice. Audit: a club trade is not the player's choice, so not coded.",
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Jahkeele_Marshall-Rutty"

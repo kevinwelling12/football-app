@@ -393,7 +393,7 @@
    "LE": "World Cup goal against Brazil"
   },
   "codes": {
-   "abuse_allegation": 1,
+   "abuse_allegation": 0,
    "racist_abuse": 0,
    "match_fixing": 0,
    "criminal_other": 0,
@@ -405,7 +405,7 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "Arrested in Tokyo in July 2024 on suspicion of sexual assault; released and prosecutors declined to indict; he publicly apologised in 2025.",
+  "notes": "Arrested in Tokyo in July 2024 on suspicion of sexual assault; released and prosecutors declined to indict; he publicly apologised in 2025. Not coded: never charged.",
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Kaishu_Sano",

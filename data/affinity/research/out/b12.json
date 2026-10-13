@@ -1746,16 +1746,17 @@
    "abuse_allegation": 0,
    "racist_abuse": 0,
    "match_fixing": 0,
-   "criminal_other": 1,
+   "criminal_other": 0,
    "doping": 0,
    "tax_fraud": 0,
    "red_card_violence": 1,
    "money_league": 0,
    "authoritarian_ambassador": 0,
    "forced_transfer": 0,
-   "rival_move": 0
+   "rival_move": 0,
+   "minor_offence": 1
   },
-  "notes": "criminal_other: careless driving convictions (2020 lockdown crash into parked cars, plus a 90mph incident), nine-month ban, £82k fine. red_card_violence: three-match ban for a stamp (2016).",
+  "notes": "criminal_other: careless driving convictions (2020 lockdown crash into parked cars, plus a 90mph incident), nine-month ban, £82k fine. red_card_violence: three-match ban for a stamp (2016). Audit: motoring offences are coded only for drink-driving or harm to someone; reflected in CH.",
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Jack_Grealish",

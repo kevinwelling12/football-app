@@ -683,7 +683,7 @@
   "captaincy": "Tottenham captain 2025–26",
   "honours": "World Cup 2022, Copa América 2021 and 2024; Europa League 2025 (Tottenham)",
   "causes": [],
-  "CH": 3.5,
+  "CH": 4.0,
   "WK": 7.0,
   "LO": 4.5,
   "AB": 8.0,
@@ -710,7 +710,7 @@
    "forced_transfer": 0,
    "rival_move": 0
   },
-  "notes": "red_card_violence: sent off Dec 2025 for kicking out at Konaté, then banned extra match for confronting the referee.",
+  "notes": "red_card_violence: sent off Dec 2025 for kicking out at Konaté, then banned extra match for confronting the referee. Audit: board criticism and the Malvinas banner treated as neutral (CH 4.0).",
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Cristian_Romero"

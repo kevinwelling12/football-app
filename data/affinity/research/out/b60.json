@@ -1,0 +1,1879 @@
+[
+ {
+  "espn_id": "259151",
+  "name": "Tom Brewitt",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 1997,
+  "nation": "England",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "AFC Fylde",
+    "from": 2018,
+    "to": 2019
+   },
+   {
+    "club": "Morecambe",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Tacoma Defiance",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "Hartford Athletic",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "Swindon Town",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Liverpool in the FA Youth Cup",
+  "honours": "FA Trophy 2018-19 (Fylde)",
+  "causes": [],
+  "CH": 3.5,
+  "WK": 5.5,
+  "LO": 3.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "admitted in 2020 deliberately injuring Liverpool youth teammate Daniel Cleary in training; Cleary sued him in 2024",
+   "WK": "no-frills centre-back, regular starter",
+   "LO": "journeyman, six senior clubs in eight years",
+   "AB": "solid USL Championship regular, English lower leagues",
+   "ST": "no-frills centre-back",
+   "LE": "club regular, FA Trophy winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes; deliberate training-ground injury of teammate Daniel Cleary (admitted on a podcast in 2020, civil claim filed 2024, outcome not found) reflected in CH.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Brewitt"
+  ]
+ },
+ {
+  "espn_id": "319392",
+  "name": "Alexander Rando",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "Las Vegas Lights",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "New York City FC II",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "New York City FC",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, nothing notable",
+   "LO": "NYCFC academy and reserves for several years",
+   "AB": "USL Championship starting goalkeeper",
+   "ST": "goalkeeper",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Rando"
+  ]
+ },
+ {
+  "espn_id": "38397",
+  "name": "Stephen Kelly",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Scotland",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Rangers",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Livingston",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Scottish Challenge Cup 2024-25; Scottish Premiership play-off 2025 (Livingston)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "central midfielder, regular starter",
+   "LO": "Rangers academy; three seasons at Livingston",
+   "AB": "Scottish top-flight experience, Scotland U21",
+   "ST": "midfielder",
+   "LE": "Livingston promotion and cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stephen_Kelly_(Scottish_footballer)"
+  ]
+ },
+ {
+  "espn_id": "291746",
+  "name": "Christopher Hegardt",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Tacoma Defiance",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Charlotte FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Stabæk",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Big East tournament (Georgetown)",
+  "causes": [
+   "Childhood liver-cancer survivor and transplant recipient; story shared publicly"
+  ],
+  "CH": 6.5,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "beat childhood liver cancer and a liver transplant to turn pro; otherwise little public record",
+   "WK": "wide midfielder, nothing notable",
+   "LO": "settled at Orange County since 2024",
+   "AB": "USL Championship regular, brief MLS spell",
+   "ST": "winger/midfielder",
+   "LE": "comeback story, club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Hegardt"
+  ]
+ },
+ {
+  "espn_id": "293702",
+  "name": "Nico Benalcazar",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "New York City FC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "New York City FC II",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "FC Cincinnati 2",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained NYCFC U-19, Wake Forest and NYCFC II (first captain)",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "repeatedly chosen as captain at youth, college and reserve level",
+   "LO": "NYCFC academy product",
+   "AB": "USL Championship regular, one MLS appearance",
+   "ST": "defensive midfielder/defender",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Benalcazar"
+  ]
+ },
+ {
+  "espn_id": "360863",
+  "name": "Lyam Mackinnon",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Switzerland",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Greenville Triumph",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained Lausanne-Sport U-18 and U-21",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable",
+   "LO": "two clubs as a pro so far",
+   "AB": "USL Championship forward",
+   "ST": "goal scorer; USL League One record four goals in a match",
+   "LE": "USL League One fastest hat-trick record"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lyam_MacKinnon"
+  ]
+ },
+ {
+  "espn_id": "290805",
+  "name": "Garrison Tubbs",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2002,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Atlanta United 2",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "D.C. United",
+    "from": 2024,
+    "to": null
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, nothing notable",
+   "LO": "on loan at Orange County from D.C. United",
+   "AB": "MLS squad player, USL loanee",
+   "ST": "defender",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garrison_Tubbs"
+  ]
+ },
+ {
+  "espn_id": "380793",
+  "name": "Ousmane Sylla",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2001,
+  "nation": "Senegal",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title and Hermann Trophy 2023 (Clemson)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable",
+   "LO": "second season at Orange County",
+   "AB": "USL Championship regular; Hermann Trophy winner",
+   "ST": "attacking midfielder, college Player of the Year",
+   "LE": "Hermann Trophy and NCAA title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousmane_Sylla_(Senegalese_footballer)"
+  ]
+ },
+ {
+  "espn_id": "326111",
+  "name": "Yaniv Bazini",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 1999,
+  "nation": "Israel",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Tormenta FC",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2024 (Vermont)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable",
+   "LO": "first season at Orange County",
+   "AB": "USL Championship forward; prolific in League One",
+   "ST": "goal scorer",
+   "LE": "led Vermont to first NCAA title"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.orangecountysoccer.com/roster/yaniv-bazini/"
+  ]
+ },
+ {
+  "espn_id": "360144",
+  "name": "Ryan Doghman",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 1997,
+  "nation": "Norway",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Raufoss",
+    "from": 2017,
+    "to": 2020
+   },
+   {
+    "club": "Åsane",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back, nothing notable",
+   "LO": "four seasons at Raufoss, fourth at Orange County",
+   "AB": "USL Championship regular, Norwegian second tier",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Doghman"
+  ]
+ },
+ {
+  "espn_id": "301284",
+  "name": "Marcelo Palomino",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2001,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Houston Dynamo",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "Houston Dynamo 2",
+    "from": 2022,
+    "to": 2022
+   },
+   {
+    "club": "AFC Eskilstuna",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "GIF Sundsvall",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "attacking midfielder, nothing notable",
+   "LO": "Dynamo academy product; several moves since",
+   "AB": "USL Championship and Swedish second tier",
+   "ST": "attacking midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcelo_Palomino"
+  ]
+ },
+ {
+  "espn_id": "382412",
+  "name": "Mouhamadou War",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2000,
+  "nation": "Japan",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Blaublitz Akita",
+    "from": 2023,
+    "to": 2023
+   },
+   {
+    "club": "Los Angeles Force",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NISA title with LA Force",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "earned his place through an open tryout",
+   "LO": "second season at Orange County",
+   "AB": "USL Championship squad player",
+   "ST": "wide forward/right-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.orangecountysoccer.com/roster/mouhamadou-war/"
+  ]
+ },
+ {
+  "espn_id": "408089",
+  "name": "Efren Solis",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2008,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "teenage midfielder, nothing notable",
+   "LO": "club's first pathway pro; local product",
+   "AB": "teenage USL Championship prospect",
+   "ST": "midfielder",
+   "LE": "first pro from the club's pathway"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.orangecountysoccer.com/roster/efren-solis/"
+  ]
+ },
+ {
+  "espn_id": "401417",
+  "name": "Tyson Espy",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 2009,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Orange County SC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 3.0,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "teenage centre-back, nothing notable",
+   "LO": "first pro club, local product",
+   "AB": "teenage prospect, U.S. U-17 international",
+   "ST": "centre-back",
+   "LE": "youth international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.orangecountysoccer.com/roster/tyson-espy/"
+  ]
+ },
+ {
+  "espn_id": "254285",
+  "name": "Ethan Zubak",
+  "club_id": "18455",
+  "gender": "M",
+  "born": 1998,
+  "nation": "USA",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "LA Galaxy II",
+    "from": 2015,
+    "to": 2019
+   },
+   {
+    "club": "LA Galaxy",
+    "from": 2019,
+    "to": 2021
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable",
+   "LO": "Galaxy academy and seven years in the system",
+   "AB": "former MLS forward, USL Championship regular",
+   "ST": "forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Zubak"
+  ]
+ },
+ {
+  "espn_id": "296122",
+  "name": "John Scearce",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1997,
+  "nation": "USA",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Union Omaha",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "Captained CCV Stars club side",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable",
+   "LO": "four seasons at Omaha, third at Phoenix",
+   "AB": "USL Championship regular",
+   "ST": "creative wide midfielder",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Scearce"
+  ]
+ },
+ {
+  "espn_id": "315647",
+  "name": "Jean Eric Moursou",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2004,
+  "nation": "Cameroon",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Coton Sport",
+    "from": 2020,
+    "to": 2023
+   },
+   {
+    "club": "Valenciennes",
+    "from": 2023,
+    "to": 2025
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "ball-winning midfielder; coach praises his attitude",
+   "LO": "young, two clubs since Coton Sport",
+   "AB": "USL Championship regular, Cameroon call-up",
+   "ST": "defensive midfielder",
+   "LE": "youngest player in CAF club competition"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://www.phxrisingfc.com/?p=17003"
+  ]
+ },
+ {
+  "espn_id": "333402",
+  "name": "Diego Gómez",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Mexico",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "Necaxa",
+    "from": 2021,
+    "to": 2025
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable",
+   "LO": "four-plus seasons at Necaxa",
+   "AB": "Liga MX regular and Mexico senior cap",
+   "ST": "midfielder",
+   "LE": "one Mexico cap"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Gómez_(Mexican_footballer)"
+  ]
+ },
+ {
+  "espn_id": "240157",
+  "name": "Ihsan Sacko",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1997,
+  "nation": "France",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Strasbourg",
+    "from": 2016,
+    "to": 2018
+   },
+   {
+    "club": "Nice",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Avranches",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Thun",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.0,
+  "AB": 4.8,
+  "ST": 5.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable",
+   "LO": "journeyman across France, Italy, Switzerland, USA",
+   "AB": "former Ligue 1 squad player",
+   "ST": "winger/forward",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ihsan_Sacko"
+  ]
+ },
+ {
+  "espn_id": "160022",
+  "name": "Peter Rakovsky",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1993,
+  "nation": "Germany",
+  "position": "GK",
+  "clubs": [
+   {
+    "club": "1. FC Nürnberg",
+    "from": 2011,
+    "to": 2017
+   },
+   {
+    "club": "Lierse",
+    "from": 2017,
+    "to": 2018
+   },
+   {
+    "club": "Lahti",
+    "from": 2019,
+    "to": 2020
+   },
+   {
+    "club": "Orange County SC",
+    "from": 2021,
+    "to": 2022
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2023,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "USL Championship 2021 (Orange County); Fritz Walter Medal U19 bronze 2012",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.8,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "goalkeeper, nothing notable",
+   "LO": "six years at Nürnberg, fourth season at Phoenix",
+   "AB": "Bundesliga squad keeper, USL title winner",
+   "ST": "goalkeeper",
+   "LE": "penalty save in 2021 USL final"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists Peter Rakovsky; the Phoenix Rising goalkeeper is Patrick Rakovsky (born 1993, German), matching club, nation and age.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Rakovsky"
+  ]
+ },
+ {
+  "espn_id": "316366",
+  "name": "Collin Smith",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2003,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Texas SC",
+    "from": 2019,
+    "to": 2022
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Rhode Island FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "right-back, nothing notable",
+   "LO": "FC Dallas academy product; several moves since",
+   "AB": "USL Championship regular",
+   "ST": "attacking right-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Collin_Smith"
+  ]
+ },
+ {
+  "espn_id": "328158",
+  "name": "Luke Biasi",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1999,
+  "nation": "USA",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Pittsburgh Riverhounds",
+    "from": 2022,
+    "to": 2025
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, nothing notable",
+   "LO": "four seasons at Pittsburgh",
+   "AB": "USL Championship regular",
+   "ST": "left-back",
+   "LE": "club regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Biasi"
+  ]
+ },
+ {
+  "espn_id": "381414",
+  "name": "Pape Boye",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Senegal",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2024,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "NCAA title 2023 (Clemson), tournament's Most Outstanding Defensive Player",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.5,
+  "AB": 4.0,
+  "ST": 4.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "defender, nothing notable",
+   "LO": "chose Phoenix over an MLS Generation Adidas deal; third season",
+   "AB": "USL Championship regular",
+   "ST": "defender",
+   "LE": "NCAA title; Senegal beach soccer World Cup"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pape_Mar_Boye"
+  ]
+ },
+ {
+  "espn_id": "145875",
+  "name": "Daniel Flores",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2003,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Real Monarchs",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Tapatío",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Guadalajara",
+    "from": 2025,
+    "to": null
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 4.0,
+  "ST": 4.5,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "left-back, nothing notable",
+   "LO": "on loan at Phoenix from Guadalajara",
+   "AB": "USL Championship loanee",
+   "ST": "left-back",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. identity: ESPN lists Mexico; Wikipedia calls him American (on loan from Guadalajara), age and club match.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Flores_(soccer,_born_2003)"
+  ]
+ },
+ {
+  "espn_id": "381213",
+  "name": "Adrian Pelayo",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2006,
+  "nation": "Mexico",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "North Carolina FC",
+    "from": 2023,
+    "to": 2024
+   },
+   {
+    "club": "Whitecaps FC 2",
+    "from": 2025,
+    "to": 2025
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 3.5,
+  "ST": 4.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "young centre-back, nothing notable",
+   "LO": "young, first season at Phoenix",
+   "AB": "USL Championship young regular, Mexico U17",
+   "ST": "centre-back",
+   "LE": "youth World Cup player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrian_Pelayo"
+  ]
+ },
+ {
+  "espn_id": "317487",
+  "name": "Hope Avayevu",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Ghana",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "North Texas SC",
+    "from": 2021,
+    "to": 2023
+   },
+   {
+    "club": "Ventura County FC",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.0,
+  "LE": 2.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable",
+   "LO": "three seasons at North Texas, second at Phoenix",
+   "AB": "USL Championship squad player",
+   "ST": "wide midfielder",
+   "LE": "squad player"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hope_Avayevu"
+  ]
+ },
+ {
+  "espn_id": "316812",
+  "name": "Gunnar Studenthofft",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Cayman Islands",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Huntsville City",
+    "from": 2025,
+    "to": 2026
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 4.5,
+  "AB": 3.5,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "forward, nothing notable",
+   "LO": "first season at Phoenix",
+   "AB": "USL Championship squad player, Cayman Islands international",
+   "ST": "forward",
+   "LE": "Cayman Islands international"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes. ESPN spells the name Studenthofft; Wikipedia Studenhofft.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gunnar_Studenhofft"
+  ]
+ },
+ {
+  "espn_id": "217281",
+  "name": "Dominique Badji",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1992,
+  "nation": "Senegal",
+  "position": "FW",
+  "clubs": [
+   {
+    "club": "Colorado Rapids",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "FC Dallas",
+    "from": 2018,
+    "to": 2020
+   },
+   {
+    "club": "Nashville SC",
+    "from": 2020,
+    "to": 2021
+   },
+   {
+    "club": "Colorado Rapids",
+    "from": 2021,
+    "to": 2021
+   },
+   {
+    "club": "FC Cincinnati",
+    "from": 2022,
+    "to": 2023
+   },
+   {
+    "club": "Bandırmaspor",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "D.C. United",
+    "from": 2024,
+    "to": 2025
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2026,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2023 (Cincinnati); Patriot League Offensive Player of the Year 2014",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 4.0,
+  "AB": 5.0,
+  "ST": 5.0,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "hard-running forward",
+   "LO": "journeyman, eight senior clubs",
+   "AB": "long-time MLS forward",
+   "ST": "athletic forward",
+   "LE": "Supporters' Shield winner"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominique_Badji"
+  ]
+ },
+ {
+  "espn_id": "299185",
+  "name": "Damian Rivera",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 2002,
+  "nation": "Guatemala",
+  "position": "MF",
+  "clubs": [
+   {
+    "club": "New England Revolution",
+    "from": 2019,
+    "to": 2024
+   },
+   {
+    "club": "Tampa Bay Rowdies",
+    "from": 2024,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "Supporters' Shield 2021 (New England)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.0,
+  "LO": 5.0,
+  "AB": 4.0,
+  "ST": 5.5,
+  "LE": 2.5,
+  "why": {
+   "CH": "little public record",
+   "WK": "midfielder, nothing notable",
+   "LO": "Revolution academy, six years in the system",
+   "AB": "MLS squad player, Guatemala call-up",
+   "ST": "attacking midfielder; scored in first minute of first MLS start",
+   "LE": "Supporters' Shield squad member"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Damian_Rivera"
+  ]
+ },
+ {
+  "espn_id": "221602",
+  "name": "Rafael Czichos",
+  "club_id": "17850",
+  "gender": "M",
+  "born": 1990,
+  "nation": "Germany",
+  "position": "DF",
+  "clubs": [
+   {
+    "club": "Rot-Weiss Erfurt",
+    "from": 2012,
+    "to": 2015
+   },
+   {
+    "club": "Holstein Kiel",
+    "from": 2015,
+    "to": 2018
+   },
+   {
+    "club": "1. FC Köln",
+    "from": 2018,
+    "to": 2022
+   },
+   {
+    "club": "Chicago Fire",
+    "from": 2022,
+    "to": 2024
+   },
+   {
+    "club": "Phoenix Rising FC",
+    "from": 2025,
+    "to": null
+   }
+  ],
+  "captaincy": "",
+  "honours": "2. Bundesliga promotion 2017 (Holstein Kiel)",
+  "causes": [],
+  "CH": 6.0,
+  "WK": 6.5,
+  "LO": 5.0,
+  "AB": 5.5,
+  "ST": 4.0,
+  "LE": 3.0,
+  "why": {
+   "CH": "little public record",
+   "WK": "steady centre-back",
+   "LO": "three-to-four-year spells at each club",
+   "AB": "Bundesliga regular at Köln",
+   "ST": "no-frills centre-back",
+   "LE": "Bundesliga regular"
+  },
+  "codes": {
+   "abuse_allegation": 0,
+   "racist_abuse": 0,
+   "match_fixing": 0,
+   "criminal_other": 0,
+   "doping": 0,
+   "tax_fraud": 0,
+   "red_card_violence": 0,
+   "money_league": 0,
+   "authoritarian_ambassador": 0,
+   "forced_transfer": 0,
+   "rival_move": 0
+  },
+  "notes": "No incident codes.",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Czichos"
+  ]
+ }
+]
