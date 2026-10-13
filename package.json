@@ -1,0 +1,13 @@
+{
+  "name": "football-app",
+  "private": true,
+  "type": "module",
+  "description": "Kevin's football tracker: six competitions, ESPN data, own model + betting lines.",
+  "scripts": {
+    "backfill": "node scripts/backfill.mjs",
+    "sync": "node scripts/sync.mjs",
+    "rate": "node scripts/rate.mjs",
+    "backtest": "node scripts/backtest.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

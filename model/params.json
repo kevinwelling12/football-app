@@ -1,0 +1,342 @@
+{
+ "eur": {
+  "P": {
+   "halfLife": 200,
+   "wGoals": 0.5,
+   "k": 10,
+   "gamma": 1.6
+  },
+  "rho": -0.12,
+  "drawK": 0.95,
+  "test": {
+   "n": 4129,
+   "logloss": 0.9663,
+   "rps": 0.1983,
+   "pts": 1.175
+  },
+  "byLeague": {
+   "epl": {
+    "n": 1960,
+    "logloss": 0.9778,
+    "rps": 0.2004,
+    "pts": 1.164
+   },
+   "bl": {
+    "n": 1575,
+    "logloss": 0.9877,
+    "rps": 0.2015,
+    "pts": 1.133
+   },
+   "ucl": {
+    "n": 594,
+    "logloss": 0.8718,
+    "rps": 0.183,
+    "pts": 1.322
+   }
+  },
+  "oldStyle": {
+   "n": 4129,
+   "logloss": 1.0425,
+   "rps": 0.2231,
+   "pts": 1.035
+  },
+  "market": {
+   "n": 3228,
+   "logloss": 0.9596,
+   "rps": 0.1948,
+   "pts": 1.211
+  },
+  "blends": {
+   "0": {
+    "n": 3228,
+    "logloss": 0.977,
+    "rps": 0.2004,
+    "pts": 1.166
+   },
+   "0.25": {
+    "n": 3228,
+    "logloss": 0.9705,
+    "rps": 0.1984,
+    "pts": 1.182
+   },
+   "0.5": {
+    "n": 3228,
+    "logloss": 0.9654,
+    "rps": 0.1967,
+    "pts": 1.191
+   },
+   "0.6": {
+    "n": 3228,
+    "logloss": 0.9638,
+    "rps": 0.1962,
+    "pts": 1.189
+   },
+   "0.7": {
+    "n": 3228,
+    "logloss": 0.9624,
+    "rps": 0.1957,
+    "pts": 1.193
+   },
+   "0.8": {
+    "n": 3228,
+    "logloss": 0.9613,
+    "rps": 0.1953,
+    "pts": 1.203
+   },
+   "0.9": {
+    "n": 3228,
+    "logloss": 0.9603,
+    "rps": 0.195,
+    "pts": 1.204
+   }
+  },
+  "from": 2021,
+  "at": "2026-10-13T16:11:03.574Z"
+ },
+ "mls": {
+  "P": {
+   "halfLife": 120,
+   "wGoals": 0.5,
+   "k": 16,
+   "gamma": 0.6
+  },
+  "rho": -0.08,
+  "drawK": 1,
+  "test": {
+   "n": 2856,
+   "logloss": 1.0441,
+   "rps": 0.2178,
+   "pts": 1.064
+  },
+  "byLeague": {
+   "mls": {
+    "n": 2856,
+    "logloss": 1.0441,
+    "rps": 0.2178,
+    "pts": 1.064
+   }
+  },
+  "oldStyle": {
+   "n": 2856,
+   "logloss": 1.0639,
+   "rps": 0.2231,
+   "pts": 1.046
+  },
+  "market": {
+   "n": 2642,
+   "logloss": 1.0261,
+   "rps": 0.2119,
+   "pts": 1.069
+  },
+  "blends": {
+   "0": {
+    "n": 2642,
+    "logloss": 1.0424,
+    "rps": 0.2174,
+    "pts": 1.062
+   },
+   "0.25": {
+    "n": 2642,
+    "logloss": 1.0364,
+    "rps": 0.2154,
+    "pts": 1.066
+   },
+   "0.5": {
+    "n": 2642,
+    "logloss": 1.0316,
+    "rps": 0.2138,
+    "pts": 1.065
+   },
+   "0.6": {
+    "n": 2642,
+    "logloss": 1.0301,
+    "rps": 0.2133,
+    "pts": 1.07
+   },
+   "0.7": {
+    "n": 2642,
+    "logloss": 1.0288,
+    "rps": 0.2128,
+    "pts": 1.065
+   },
+   "0.8": {
+    "n": 2642,
+    "logloss": 1.0277,
+    "rps": 0.2125,
+    "pts": 1.065
+   },
+   "0.9": {
+    "n": 2642,
+    "logloss": 1.0268,
+    "rps": 0.2122,
+    "pts": 1.068
+   }
+  },
+  "from": 2021,
+  "at": "2026-10-13T16:11:57.228Z"
+ },
+ "nwsl": {
+  "P": {
+   "halfLife": 120,
+   "wGoals": 0.2,
+   "k": 4,
+   "gamma": 0.6
+  },
+  "rho": 0.04,
+  "drawK": 1.05,
+  "test": {
+   "n": 964,
+   "logloss": 1.0349,
+   "rps": 0.222,
+   "pts": 1.049
+  },
+  "byLeague": {
+   "nwsl": {
+    "n": 964,
+    "logloss": 1.0349,
+    "rps": 0.222,
+    "pts": 1.049
+   }
+  },
+  "oldStyle": {
+   "n": 964,
+   "logloss": 1.0638,
+   "rps": 0.23,
+   "pts": 1.002
+  },
+  "market": {
+   "n": 0,
+   "logloss": null,
+   "rps": null,
+   "pts": null
+  },
+  "blends": {
+   "0": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.25": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.5": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.6": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.7": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.8": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.9": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   }
+  },
+  "from": 2021,
+  "at": "2026-10-13T16:12:12.605Z"
+ },
+ "usl": {
+  "P": {
+   "halfLife": 200,
+   "wGoals": 0.7,
+   "k": 16,
+   "gamma": 1
+  },
+  "rho": 0.04,
+  "drawK": 1.2,
+  "test": {
+   "n": 2477,
+   "logloss": 1.0267,
+   "rps": 0.2158,
+   "pts": 1.069
+  },
+  "byLeague": {
+   "usl": {
+    "n": 2477,
+    "logloss": 1.0267,
+    "rps": 0.2158,
+    "pts": 1.069
+   }
+  },
+  "oldStyle": {
+   "n": 2477,
+   "logloss": 1.0427,
+   "rps": 0.2201,
+   "pts": 1.034
+  },
+  "market": {
+   "n": 0,
+   "logloss": null,
+   "rps": null,
+   "pts": null
+  },
+  "blends": {
+   "0": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.25": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.5": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.6": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.7": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.8": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.9": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   }
+  },
+  "from": 2021,
+  "at": "2026-10-13T16:13:13.166Z"
+ }
+}
