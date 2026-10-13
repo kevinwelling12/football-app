@@ -643,6 +643,7 @@ function settingsSheet(keep = false) {
       ${dg.error ? `<div class="field"><span class="small" style="color:var(--bad)">${esc(dg.error)}</span></div>` : ''}` : ''}
       <div class="field"><span>Affinity picks</span><span class="muted small">this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
       <div class="field"><span>Score entries</span><span class="muted small">this device ${n}${dg.cloudEntries != null ? ` · cloud ${dg.cloudEntries}` : ''}</span></div>
+      ${(store.get().affPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks">Copy my Affinity picks (to share for analysis)</button></div>' : ''}
       ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
     <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
@@ -722,6 +723,14 @@ document.addEventListener('click', e => {
     render(); if (sheetCtx?.type === 'club') clubSheet(sheetCtx.k, sheetCtx.i); return;
   }
   if (t.dataset.act === 'quiz') { quizSheet(); return; }
+  if (t.dataset.act === 'copypicks') {
+    const name = id => TRAITS[id]?.name || id;
+    const rows = (store.get().affPicks || []).map(p => ({ a: name(p.a), b: name(p.b), pick: p.win ? name(p.win) : "can't say", ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
+    const txt = JSON.stringify(rows);
+    (navigator.clipboard?.writeText(txt) || Promise.reject()).then(() => { t.textContent = `Copied ${rows.length} picks`; })
+      .catch(() => openSheet(`<div class="head"><b>Your picks</b><div class="small muted">Select all and copy.</div></div><textarea style="width:calc(100% - 36px);margin:0 18px;height:50vh;background:var(--card2);color:var(--fg);border:0;border-radius:10px;padding:10px;font:12px ui-monospace,monospace">${esc(txt)}</textarea>`));
+    return;
+  }
   if (t.dataset.act === 'signin') { signIn(); return; }
   if (t.dataset.act === 'syncnow') { store.syncNow().then(() => sheetCtx?.type === 'settings' && settingsSheet()); return; }
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
