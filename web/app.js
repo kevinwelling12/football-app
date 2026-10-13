@@ -18,13 +18,37 @@ function localGet(k) { try { return localStorage.getItem('fa-' + k); } catch { r
 function localSet(k, v) { try { localStorage.setItem('fa-' + k, v); } catch { /* ignore */ } }
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
+// Patch el to match html in place instead of replacing it: unchanged nodes (crest images above all) are kept, so a
+// refresh from a live score, a finished simulation or a sync doesn't make every crest blink.
+function morph(el, html) {
+  const tpl = document.createElement('template'); tpl.innerHTML = html;
+  patch(el, tpl.content);
+}
+function patch(a, b) {
+  const an = [...a.childNodes], bn = [...b.childNodes];
+  bn.forEach((y, i) => {
+    const x = an[i];
+    if (!x) { a.appendChild(y); return; }
+    if (x.nodeType !== y.nodeType || x.nodeName !== y.nodeName) { a.replaceChild(y, x); return; }
+    if (x.nodeType !== 1) { if (x.nodeValue !== y.nodeValue) x.nodeValue = y.nodeValue; return; }
+    const fellBack = x.tagName === 'IMG' && x.dataset.f; // crest that switched to ESPN's copy: leave it alone
+    if (!fellBack) {
+      for (const at of [...x.attributes]) if (!y.hasAttribute(at.name)) x.removeAttribute(at.name);
+      for (const at of [...y.attributes]) if (x.getAttribute(at.name) !== at.value) x.setAttribute(at.name, at.value);
+    }
+    if (x.tagName === 'INPUT' && document.activeElement === x) return; // don't fight typing
+    patch(x, y);
+  });
+  for (let i = an.length - 1; i >= bn.length; i--) a.removeChild(an[i]);
+}
+
 // ------------------------------------------------------------------ formatting
 const dark = () => matchMedia('(prefers-color-scheme: dark)').matches;
 function crest(t, cls = '') {
   if (!t) return `<span class="crest ${cls}"></span>`;
   // local copies (scripts/logos.py clears ESPN's white squares); ESPN's resizer if a new club isn't saved yet
   const v = dark() ? '-d' : '', espn = `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/${dark() ? '500-dark' : '500'}/${t.id}.png&w=80&h=80`;
-  return `<img class="crest ${cls}" src="logos/${t.id}${v}.png" alt="" loading="lazy" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${espn}'}else this.style.visibility='hidden'">`;
+  return `<img class="crest ${cls}" src="logos/${t.id}${v}.png" alt="" decoding="async" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${espn}'}else this.style.visibility='hidden'">`;
 }
 const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
 const fmtTime = t => new Date(t).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }).replace(':00', '').replace(' ', ' ');
@@ -495,7 +519,11 @@ function viewClubs() {
 const fmtSigned = x => (x >= 0 ? '+' : '−') + Math.abs(x).toFixed(2);
 
 // ------------------------------------------------------------------ sheets
-function openSheet(html) { $('#sheet-body').innerHTML = html; $('#sheet').hidden = false; $('#scrim').hidden = false; $('#sheet').scrollTop = 0; document.body.style.overflow = 'hidden'; }
+function openSheet(html, { keep = false } = {}) {
+  const open = !$('#sheet').hidden;
+  if (open && keep) { morph($('#sheet-body'), html); return; }
+  $('#sheet-body').innerHTML = html; $('#sheet').hidden = false; $('#scrim').hidden = false; $('#sheet').scrollTop = 0; document.body.style.overflow = 'hidden';
+}
 function closeSheet() { $('#sheet').hidden = true; $('#scrim').hidden = true; document.body.style.overflow = ''; sheetCtx = null; }
 let sheetCtx = null;
 
@@ -559,7 +587,7 @@ function matchSheet(k, id) {
   openSheet(html);
 }
 
-function clubSheet(k, i) {
+function clubSheet(k, i, keep = false) {
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
   sheetCtx = { type: 'club', k, i };
   const b = L.base, avg = (b[0] + b[1]) / 2;
@@ -586,7 +614,7 @@ function clubSheet(k, i) {
   const next = mine.filter(m => !isPlayed(m) && m.st !== 'canc').slice(0, 4), last = mine.filter(isPlayed).slice(-4).reverse();
   if (next.length) html += `<div class="block"><h4>Next</h4><div class="row-gap">${next.map(m => matchRow(k, m)).join('')}</div></div>`;
   if (last.length) html += `<div class="block"><h4>Recent</h4><div class="row-gap">${last.map(m => matchRow(k, m)).join('')}</div></div>`;
-  openSheet(html);
+  openSheet(html, { keep });
 }
 
 function quizSheet() {
@@ -603,20 +631,25 @@ function quizSheet() {
     <div class="btns"><button class="btn quiet" data-quiz="skip">Can't say</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
 }
 
-function settingsSheet() {
+function settingsSheet(keep = false) {
   sheetCtx = { type: 'settings' };
-  const u = store.user(), st = store.status(), cfg = !!window.FIREBASE_CONFIG;
+  const u = store.user(), st = store.status(), cfg = !!window.FIREBASE_CONFIG, dg = store.diag();
   const updated = Object.values(D)[0]?.updated;
   const n = Object.values(store.get().entries).reduce((s, e) => s + Object.keys(e).length, 0);
   let html = `<div class="head"><div style="font-size:19px;font-weight:700">Settings</div></div>
-    <div class="block"><h4>Sync</h4><div class="field"><span>${u ? `Signed in as ${esc(u.email)}` : cfg ? 'Saved on this device only' : 'Cloud sync not set up yet (saved on this device)'}</span><span class="muted small">${st}</span></div>
-    ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
+    <div class="block"><h4>Sync</h4>
+      <div class="field"><span>Account</span><span class="muted small">${u ? esc(u.email) : cfg ? 'Not signed in: saved on this device only' : 'Cloud sync not set up'}</span></div>
+      ${u ? `<div class="field"><span>Status</span><span class="small" style="color:${st === 'synced' ? 'var(--good)' : st === 'error' ? 'var(--bad)' : 'var(--muted)'}">${st}${dg.seen ? ` · checked ${new Date(dg.seen).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })}` : ''}</span></div>
+      ${dg.error ? `<div class="field"><span class="small" style="color:var(--bad)">${esc(dg.error)}</span></div>` : ''}` : ''}
+      <div class="field"><span>Affinity picks</span><span class="muted small">this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
+      <div class="field"><span>Score entries</span><span class="muted small">this device ${n}${dg.cloudEntries != null ? ` · cloud ${dg.cloudEntries}` : ''}</span></div>
+      ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
     <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
     ${n ? '<div class="btns"><button class="btn quiet" data-act="clear-entries">Clear all my entries</button></div>' : ''}</div>
     <div class="block"><h4>Model</h4>${ORDER.filter(k => D[k]).map(k => { const M = D[k].model, t = M.test; return `<div class="field"><span>${LEAGUES[k].name}</span><span class="muted small">${t ? `log loss ${t.logloss} · ${t.pts} pts/match` : ''} · market ${Math.round(D[k].P.mktW * 100)}%</span></div>`; }).join('')}
     <p class="note" style="margin:10px 18px">Team strengths come from a Dixon-Coles model fitted on up to ten seasons (recent matches count more; half-life ${D.epl?.model.halfLife ?? '–'} days in Europe), using goals blended with a shots-on-target expected-goals proxy and pulled toward each club's Elo. Where DraftKings or another book has a line, the match odds blend in the market. Figures are from walk-forward backtests since 2021.</p></div>`;
-  openSheet(html);
+  openSheet(html, { keep });
 }
 
 // ------------------------------------------------------------------ chrome + routing
@@ -635,8 +668,8 @@ function chrome() {
   const chips = $('#chips'), seg = $('#seg');
   chips.hidden = seg.hidden = route.tab !== 'league';
   if (route.tab === 'league') {
-    chips.innerHTML = ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join('');
-    seg.innerHTML = [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join('');
+    morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join(''));
+    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
   }
   const st = store.status(); $('#sync-dot').className = 'sync-dot' + (st === 'synced' ? ' on' : st === 'error' ? ' err' : '');
 }
@@ -650,8 +683,9 @@ function render() {
     if (!Object.keys(D).length) { $('#view').innerHTML = '<div class="spinner">Loading…</div>'; return; }
     for (const k of ORDER) if (D[k] && (route.tab !== 'league' || k === route.lg)) runSim(k);
     const v = route.tab === 'league' ? viewLeague() : route.tab === 'picks' ? viewPicks() : route.tab === 'clubs' ? viewClubs() : viewToday();
-    $('#view').innerHTML = v;
-    if (sheetCtx?.type === 'club' && !$('#sheet').hidden) clubSheet(sheetCtx.k, sheetCtx.i);
+    morph($('#view'), v);
+    if (sheetCtx?.type === 'club' && !$('#sheet').hidden) clubSheet(sheetCtx.k, sheetCtx.i, true);
+    if (sheetCtx?.type === 'settings' && !$('#sheet').hidden) settingsSheet(true);
   });
 }
 
@@ -689,11 +723,12 @@ document.addEventListener('click', e => {
   }
   if (t.dataset.act === 'quiz') { quizSheet(); return; }
   if (t.dataset.act === 'signin') { signIn(); return; }
+  if (t.dataset.act === 'syncnow') { store.syncNow().then(() => sheetCtx?.type === 'settings' && settingsSheet()); return; }
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
   if (t.dataset.act === 'clear-entries' && confirm('Clear every score you entered?')) { store.set(s => { s.entries = {}; }); closeSheet(); render(); }
 });
 $('#scrim').addEventListener('click', closeSheet);
-$('#settings-btn').addEventListener('click', settingsSheet);
+$('#settings-btn').addEventListener('click', () => settingsSheet());
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeSheet(); });
 window.addEventListener('hashchange', () => { parseHash(); closeSheet(); window.scrollTo(0, 0); render(); });
 store.on(() => { for (const k of ORDER) if (D[k] && SIM[k]) runSim(k); render(); });

@@ -9,6 +9,9 @@ const LS = 'football-app-v1';
 const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, motw: {}, affPicks: [], updated: 0 });
 
 let state = load(), listeners = [], cloud = null, user = null, status = 'local';
+// what Settings shows: last error, when the cloud copy was last seen, and its pick count
+const diag = { error: null, seen: null, cloudPicks: null, cloudEntries: null };
+const countEntries = e => Object.values(e || {}).reduce((n, m) => n + Object.keys(m || {}).length, 0);
 
 function load() {
   try { return { ...blank(), ...JSON.parse(localStorage.getItem(LS) || '{}') }; } catch { return blank(); }
@@ -21,13 +24,13 @@ const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 export const store = {
   get: () => state,
   on: f => listeners.push(f),
-  user: () => user, status: () => status,
+  user: () => user, status: () => status, diag: () => diag, syncNow: () => syncNow(),
   set(fn) {
     const before = JSON.parse(JSON.stringify(state));
     fn(state); state.updated = Date.now(); persist(); emit();
     if (!cloud) return;
     const d = delta(before, state);
-    if (Object.keys(d).length) cloud.set(d, { merge: true }).catch(e => { status = 'error'; console.warn(e); emit(); });
+    if (Object.keys(d).length) cloud.set(d, { merge: true }).catch(fail);
   },
 };
 
@@ -80,7 +83,23 @@ function merge(local, remote) {
 }
 
 const hasFirebase = () => typeof firebase !== 'undefined' && window.FIREBASE_CONFIG;
-let unsub = null;
+let unsub = null, ref = null;
+const fail = e => { status = 'error'; diag.error = `${e.code || ''} ${e.message || e}`.trim(); console.warn(e); emit(); };
+
+// Read the server copy, combine it with this device's, write the result back. Additive (merge: true never removes
+// anything), so a stale read can't wipe the cloud.
+async function syncNow() {
+  if (!ref) return;
+  status = 'syncing'; diag.error = null; emit();
+  try {
+    const snap = await ref.get({ source: 'server' });
+    state = snap.exists ? merge(state, fromCloud(snap.data())) : { ...state };
+    persist();
+    if (snap.exists && typeof snap.data().entries === 'string') await ref.set(toCloud(state)); // convert the first-version layout
+    else await ref.set(toCloud(state), { merge: true });
+    cloud = ref; status = 'synced'; emit();
+  } catch (e) { fail(e); }
+}
 
 export async function initSync() {
   if (!hasFirebase()) return;
@@ -90,22 +109,19 @@ export async function initSync() {
   try { await auth.getRedirectResult(); } catch { /* ignore */ }
   auth.onAuthStateChanged(async u => {
     if (unsub) { unsub(); unsub = null; }
+    cloud = null; ref = null;
     user = u; if (!u) { cloud = null; status = 'local'; emit(); return; }
-    const ref = db.collection('users').doc(u.uid).collection('app').doc('state');
-    status = 'syncing'; emit();
-    try {
-      const snap = await ref.get({ source: 'server' }).catch(() => ref.get());
-      state = snap.exists ? merge(state, fromCloud(snap.data())) : { ...state };
-      persist();
-      await ref.set(toCloud(state)); // whole document once, in the field-by-field layout
-      cloud = ref; status = 'synced'; emit();
-      unsub = ref.onSnapshot({ includeMetadataChanges: true }, s => {
-        if (!s.exists) return;
-        state = { ...blank(), ...fromCloud(s.data()), updated: Date.now() };
-        status = s.metadata.hasPendingWrites ? 'syncing' : 'synced';
-        persist(); emit();
-      }, e => { status = 'error'; console.warn(e); emit(); });
-    } catch (e) { status = 'error'; console.warn(e); emit(); }
+    ref = db.collection('users').doc(u.uid).collection('app').doc('state');
+    await syncNow();
+    if (!cloud) return; // the error is in diag for Settings
+    unsub = ref.onSnapshot({ includeMetadataChanges: true }, s => {
+      if (!s.exists) return;
+      const r = fromCloud(s.data());
+      state = { ...blank(), ...r, updated: Date.now() };
+      if (!s.metadata.fromCache) { diag.seen = Date.now(); diag.cloudPicks = r.affPicks.length; diag.cloudEntries = countEntries(r.entries); }
+      status = s.metadata.hasPendingWrites ? 'syncing' : 'synced';
+      persist(); emit();
+    }, fail);
   });
 }
 
