@@ -712,7 +712,7 @@ function playerSheet(id) {
 function playerQuizSheet() {
   sheetCtx = { type: 'pquiz' };
   const P = playerAffinity(), picks = store.get().playerPicks || [];
-  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks);
+  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds());
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair;
   const side = id => { const p = PLAYERS[id], ct = mainClub(p);

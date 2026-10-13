@@ -51,21 +51,34 @@ export function fitPlayers(players, clubAff, favs, picks) {
   return fitPairs(X, SPEC, picks);
 }
 
-// Next pair: same game (men with men, women with women), few answers so far, close for the model; skips players
-// passed on twice and repeats. Active players come up a little more often.
-export function nextPlayerPair(model, players, picks, rnd = Math.random) {
+// Next pair: same game (men with men, women with women), close for the model, few answers so far. Who comes up is
+// learned from your skips: each group (your clubs, active men, retired men, active women, retired women) is asked about
+// in proportion to how often you can answer for it, and a player you've already skipped once comes up much less.
+export const pgroup = (p, favs) => (p.clubs.some(c => c[1] && favs.has(c[1])) ? 'yours' : `${p.g === 'W' ? 'w' : 'm'}${p.act ? 'act' : 'ret'}`);
+export function nextPlayerPair(model, players, picks, favs = new Set(), rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
-  const seen = {}, skips = {};
-  for (const p of picks) for (const id of [p.a, p.b]) { seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1; }
+  const seen = {}, skips = {}, gn = {}, gs = {};
+  for (const p of picks) for (const id of [p.a, p.b]) {
+    seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
+    const g = players[id] && pgroup(players[id], favs); if (!g) continue;
+    gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
+  }
+  // answer rate per group with a prior of 4 answered in 5, so a few skips don't shut a group out
+  const answerRate = g => ((gn[g] || 0) - (gs[g] || 0) + 4) / ((gn[g] || 0) + 5);
   const pool = Object.keys(players).filter(id => (skips[id] || 0) < 2);
-  const weight = id => (players[id].act ? 1 : 0.7) / (1 + (seen[id] || 0) / 3);
-  let best = null, bestS = -1;
-  for (let n = 0; n < 600; n++) {
-    const a = pool[(rnd() * pool.length) | 0], b = pool[(rnd() * pool.length) | 0];
-    if (!a || a === b || players[a].g !== players[b].g || asked.has([a, b].sort().join('|'))) continue;
-    const close = 1 - Math.abs(model.predict(a, b) - 0.5) * 2;
-    const s = weight(a) * weight(b) * (0.4 + close) * (0.7 + 0.3 * rnd());
-    if (s > bestS) { bestS = s; best = [a, b]; }
+  const weight = id => answerRate(pgroup(players[id], favs)) * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 3);
+  // first player drawn by weight, then the closest-to-call partner among a sample of the same game
+  const W = pool.map(weight), tot = W.reduce((s, w) => s + w, 0);
+  const draw = () => { let r = rnd() * tot; for (let i = 0; i < pool.length; i++) { r -= W[i]; if (r <= 0) return pool[i]; } return pool[pool.length - 1]; };
+  let best = null;
+  for (let tries = 0; tries < 20 && !best; tries++) {
+    const a = draw(); let bs = -1;
+    for (let n = 0; n < 60; n++) {
+      const b = draw();
+      if (a === b || players[a].g !== players[b].g || asked.has([a, b].sort().join('|'))) continue;
+      const s = (0.4 + 1 - Math.abs(model.predict(a, b) - 0.5) * 2) * (0.7 + 0.3 * rnd());
+      if (s > bs) { bs = s; best = [a, b]; }
+    }
   }
   return best;
 }
