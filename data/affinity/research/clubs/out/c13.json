@@ -1,0 +1,317 @@
+[
+ {
+  "espn_id": "17856",
+  "name": "Lincoln Red Imps",
+  "league": "uecl",
+  "terrace": 1,
+  "city": 4,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 1,
+  "contender": 10,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "why": {
+   "terrace": "No known organised supporters' group; crowds often a few hundred.",
+   "city": "Gibraltar's dominant club, but a small territory where football is a minor pastime.",
+   "voice": "No documented supporter ownership or influence (estimate).",
+   "conscience": "Nothing notable found; little visible inclusion work (estimate).",
+   "ground": "Shares the 2,000-seat Victoria Stadium with every Gibraltar club; small crowds.",
+   "contender": "30 Gibraltar titles incl. six straight (2021-2026); Rock Cup 2026.",
+   "rituals": "No traditions known beyond the club.",
+   "stewardship": "Run by a club board under president Dylan Viagas; no outside investor reported (estimate).",
+   "women": "Women's team in the Gibraltar Women's League, a small competition.",
+   "intensity": "Dominant at home, outmatched in Europe; mixed (estimate)."
+  },
+  "ll": [
+   36.15,
+   -5.35
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lincoln_Red_Imps_F.C."
+  ]
+ },
+ {
+  "espn_id": "19246",
+  "name": "Riga FC",
+  "league": "uecl",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 1,
+  "women": 4,
+  "intensity": 6,
+  "why": {
+   "terrace": "No known supporters' group; modern club (founded 2015) with small crowds (estimate).",
+   "city": "A 2015 creation in a city with several clubs and little football following.",
+   "voice": "Privately controlled company (SIA); no supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Skonto Stadium (8,087), largely empty for league matches (estimate).",
+   "contender": "Latvian champions 2018-20 and 2025, runners-up 2022-24; Cup 2018, 2023.",
+   "rituals": "None known.",
+   "stewardship": "Linked to Russian billionaire Sergey Lomakin (Fix Price), who also backs Pafos; ownership opaque, chairman Aleksandrs Pronins.",
+   "women": "Women's team founded 2024, Latvian champions twice; small league.",
+   "intensity": "Possession-heavy domestic favourite; mixed (estimate)."
+  },
+  "ll": [
+   56.96,
+   24.11
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_FC"
+  ]
+ },
+ {
+  "espn_id": "20025",
+  "name": "Iberia 1999",
+  "league": "uecl",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 6,
+  "why": {
+   "terrace": "No known supporters' group (formerly Saburtalo, a youth-focused club) (estimate).",
+   "city": "Tbilisi district club; Dinamo Tbilisi is the city's main team.",
+   "voice": "Owned by a business group; no supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Mikheil Meskhi Stadium (27,223), far too big for its crowds (estimate).",
+   "contender": "Georgian champions 2018, 2024, 2025; three Georgian Cups.",
+   "rituals": "None known.",
+   "stewardship": "Iberia Business Group of Tariel Khechikashvili (former sports minister), owner since 2005; private, not state.",
+   "women": "No women's team found.",
+   "intensity": "Young, attacking academy side; mixed (estimate)."
+  },
+  "ll": [
+   41.72,
+   44.75
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Iberia_1999"
+  ]
+ },
+ {
+  "espn_id": "20028",
+  "name": "Kauno Zalgiris",
+  "league": "uecl",
+  "terrace": 2,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 6,
+  "why": {
+   "terrace": "A small, newly developing fan base; no known ultras group (estimate).",
+   "city": "Kaunas's main football club, but the city lives through basketball (Zalgiris BC).",
+   "voice": "Privately owned; no supporter role found.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Darius and Girenas Stadium (15,026, renovated 2022), largest in the Baltics; crowds far below capacity (estimate).",
+   "contender": "First Lithuanian title 2025; LFF Cup 2026; regular top three since 2020.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "Local owners: Paulius Motiejunas (70%) and basketball great Mantas Kalnietis (30%, chairman).",
+   "women": "No women's team found.",
+   "intensity": "Young, front-foot domestic champions (estimate)."
+  },
+  "ll": [
+   54.9,
+   23.94
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Kauno_%C5%BDalgiris"
+  ]
+ },
+ {
+  "espn_id": "20301",
+  "name": "Mjällby AIF",
+  "league": "uecl",
+  "terrace": 4,
+  "city": 9,
+  "voice": 8,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 3,
+  "stewardship": 9,
+  "women": 1,
+  "intensity": 6,
+  "why": {
+   "terrace": "Supporters' club Sillastrybarna, with tifo displays; small but organised.",
+   "city": "The pride of Hälleviks fishing village (about 800 people) and Sölvesborg; 2025 title squad mostly local-born.",
+   "voice": "Swedish member association under the 51% rule; members elect the board.",
+   "conscience": "Nothing notable found; standard Swedish community work (estimate).",
+   "ground": "Strandvallen (about 6,750) by the sea, near full for big matches (5,000-6,000 in 2025).",
+   "contender": "First Allsvenskan title 2025 and Svenska Cupen 2025-26; before that a mid-table club.",
+   "rituals": "Herring ('sill') identity and seaside ground known in Sweden.",
+   "stewardship": "Member-owned non-profit association; chairman Jan Sjöblom.",
+   "women": "No notable women's side found (estimate).",
+   "intensity": "Well-organised, resilient side, aggressive in the title season; mixed."
+  },
+  "ll": [
+   56.01,
+   14.7
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mj%C3%A4llby_AIF"
+  ]
+ },
+ {
+  "espn_id": "20703",
+  "name": "Inter D'Escaldes",
+  "league": "uecl",
+  "terrace": 1,
+  "city": 2,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 1,
+  "contender": 10,
+  "rituals": 0,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "why": {
+   "terrace": "No organised support beyond a few followers (estimate).",
+   "city": "Club of Escaldes-Engordany in Andorra, where football draws very small crowds.",
+   "voice": "No supporter role found.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "No ground of its own; plays at federation stadiums.",
+   "contender": "Five Andorran titles (incl. 2025, 2026) and three cups since 2020; first Andorran club in a European league phase.",
+   "rituals": "None known.",
+   "stewardship": "Private club, backed early by builder Construccions Modernes; chairman Pablo Gomez (estimate).",
+   "women": "No women's team found.",
+   "intensity": "Domestic favourite, defensive in Europe (estimate)."
+  },
+  "ll": [
+   42.51,
+   1.51
+  ],
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inter_Club_d%27Escaldes"
+  ]
+ },
+ {
+  "espn_id": "20710",
+  "name": "Borac Banja Luka",
+  "league": "uecl",
+  "terrace": 6,
+  "city": 8,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 5,
+  "why": {
+   "terrace": "Lesinari (Vultures, founded 1987), oldest organised group in Bosanska Krajina, loud north stand.",
+   "city": "Banja Luka's main club and a symbol of the city and Republika Srpska.",
+   "voice": "No documented supporter role in decisions (estimate).",
+   "conscience": "Fans repeatedly glorify war criminal Ratko Mladic (2025-26 chants, 2026 Lesinari banner); RFE/RL reports a UEFA fine for racist fan behaviour; victims' groups filed a UEFA complaint (Sept 2026).",
+   "ground": "Banja Luka City Stadium (10,030), sold out for big European nights.",
+   "contender": "Bosnian champions 2011, 2021, 2024, 2026; Conference League last 16 in 2024-25.",
+   "rituals": "Lesinari choreos known in the Balkans; little beyond.",
+   "stewardship": "President Zvjezdan Misimovic; depends on city and regional public funding (estimate, ownership unclear; not a sovereign state owner).",
+   "women": "No women's team found.",
+   "intensity": "Mixed, compact in Europe (estimate)."
+  },
+  "ll": [
+   44.77,
+   17.19
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Borac_Banja_Luka"
+  ]
+ },
+ {
+  "espn_id": "21943",
+  "name": "Egnatia",
+  "league": "uecl",
+  "terrace": 2,
+  "city": 5,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 3,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 6,
+  "why": {
+   "terrace": "Small home following; no known organised group (estimate).",
+   "city": "The only club of the small town of Rrogozhine, which part-owns it.",
+   "voice": "No supporter role found.",
+   "conscience": "UEFA fined the club EUR 10,000 with a suspended closure for fans' discriminatory chants v Borac Banja Luka (2024 Champions League qualifier).",
+   "ground": "Egnatia Arena (5,000), rebuilt 2021, compact.",
+   "contender": "Albanian champions 2024, 2025, 2026; Albanian Cup 2023, 2024.",
+   "rituals": "None known.",
+   "stewardship": "Italian-based construction firms Demrozi Costruzioni and Foglia Engineering (37.5% each) plus Rrogozhine municipality (25%); president Agim Demrozi.",
+   "women": "No women's team found.",
+   "intensity": "Attacking domestic champions (estimate)."
+  },
+  "ll": [
+   41.08,
+   19.67
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/KF_Egnatia"
+  ]
+ },
+ {
+  "espn_id": "22281",
+  "name": "Pafos",
+  "league": "uecl",
+  "terrace": 2,
+  "city": 4,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 8,
+  "rituals": 0,
+  "stewardship": 1,
+  "women": 0,
+  "intensity": 6,
+  "why": {
+   "terrace": "Small support; no known organised group of note (estimate).",
+   "city": "Paphos's main club, but a 2014 merger with shallow roots.",
+   "voice": "No supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Stelios Kyriakides Stadium (about 9,300); European matches moved to Limassol's Alphamega Stadium.",
+   "contender": "Cypriot champions 2025, cups 2024 and 2026; Champions League league phase 2025-26.",
+   "rituals": "None known.",
+   "stewardship": "Russian billionaire Sergey Lomakin (Fix Price) with chairman Roman Dubov via Total Sports Investments; part of a loose network with Riga FC.",
+   "women": "No women's team found.",
+   "intensity": "Possession-based, well-funded side; mixed (estimate)."
+  },
+  "ll": [
+   34.77,
+   32.43
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pafos_FC"
+  ]
+ }
+]

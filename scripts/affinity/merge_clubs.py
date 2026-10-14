@@ -18,7 +18,9 @@ for f in sorted(glob.glob(str(ROOT / 'data/affinity/research/clubs/out/*.json'))
             continue
         rec = {'name': r['name'], 'src': r['name'], **{t: r[t] for t in TRAITS}, 'll': r.get('ll'),
                'why': {t: (r.get('why') or {}).get(t, '') for t in TRAITS}, 'researched': 'clubs-2026-10',
-               'confidence': r.get('confidence'), 'sources': r.get('sources', [])}
+               'confidence': r.get('confidence'), 'sources': r.get('sources', []),
+               # majority owner is a state or sovereign fund: set by hand, kept across merges
+               'state': bool(T.get(i, {}).get('state', r.get('state', False)))}
         updated += i in T
         added += i not in T
         T[i] = rec

@@ -14,8 +14,9 @@ let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg') || 'mls', sub: localGet('sub') || 'table' };
 const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {} };
-// domestic leagues before the Champions League: a club belongs to its own league (Real Madrid is La Liga)
-const HOME_ORDER = [...ORDER.filter(k => k !== 'ucl'), 'ucl'];
+// domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
+// Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
+const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
 
 function localGet(k) { try { return localStorage.getItem('fa-' + k); } catch { return null; } }
 function localSet(k, v) { try { localStorage.setItem('fa-' + k, v); } catch { /* ignore */ } }
@@ -148,7 +149,7 @@ function runSim(k) {
 }
 
 // ------------------------------------------------------------------ live scores from ESPN
-const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1' };
+const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1', uel: 'uefa.europa', uecl: 'uefa.europa.conf' };
 async function pollLive() {
   const now = Date.now();
   for (const k of ORDER) {
@@ -594,7 +595,7 @@ function viewClubs() {
   const strength = (k, t) => { const b = D[k].base, avg = (b[0] + b[1]) / 2; return avg * t.A - avg * t.D; };
   rows.sort((a, b) => b[2].elo - a[2].elo);
   html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td><td class="muted">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
-    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and seven other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
+    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
   const pull = AF.TRAITS.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = AF.FLAGS.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);

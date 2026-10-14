@@ -57,11 +57,14 @@ export function standings(L, matches, rules) {
   const groups = groupsOf(L, rules);
   if (rules.tiebreak.includes('h2h')) for (const g of groups) h2hKeys(g.idx.map(i => T[i]), regular(matches), rules.tiebreak, rules.h2hComplete);
   const key = r => sortKey(r, rules.tiebreak);
+  // level on everything: alphabetical by the name shown (UEFA's rule too, by abbreviated name; matters before a league
+  // phase starts, when every club is level)
+  const nm = i => L.teams[i].s || L.teams[i].n, byName = (x, y) => nm(x.i).localeCompare(nm(y.i));
   for (const g of groups) {
-    const rows = g.idx.map(i => T[i]).sort((x, y) => key(y) - key(x) || L.teams[x.i].n.localeCompare(L.teams[y.i].n));
+    const rows = g.idx.map(i => T[i]).sort((x, y) => key(y) - key(x) || byName(x, y));
     rows.forEach((r, k) => { r.pos = k + 1; r.group = g.name; });
   }
-  const all = [...T].sort((x, y) => key(y) - key(x));
+  const all = [...T].sort((x, y) => key(y) - key(x) || byName(x, y));
   all.forEach((r, k) => { r.opos = k + 1; if (!rules.groups) r.pos = k + 1; });
   return { rows: T, groups };
 }
@@ -167,7 +170,8 @@ function bracket(type, L, r, seeds, pts, matches) {
     mark('r1', r1); mark('csf', semis); mark('final', finals);
     mark('champ', [single(finals[0], finals[1])]);
   } else if (type === 'ucl') {
-    // seeds[0] = league phase order. Play-offs: 9/10 v 23/24, 11/12 v 21/22, 13/14 v 19/20, 15/16 v 17/18 (pair drawn at random).
+    // UEFA cups (Champions, Europa and Conference League share the format; only the league-phase match count differs,
+    // and that is in the fixtures). seeds[0] = league phase order. Play-offs: 9/10 v 23/24, 11/12 v 21/22, 13/14 v 19/20, 15/16 v 17/18 (pair drawn at random).
     const s = seeds[0], pick2 = (a, b) => (r() < 0.5 ? [a, b] : [b, a]);
     const base = L.base;
     const po = [];

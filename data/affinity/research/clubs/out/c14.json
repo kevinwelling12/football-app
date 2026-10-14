@@ -1,0 +1,317 @@
+[
+ {
+  "espn_id": "2290",
+  "name": "Red Star Belgrade",
+  "league": "uecl",
+  "terrace": 9,
+  "city": 6,
+  "voice": 3,
+  "conscience": 1,
+  "ground": 8,
+  "contender": 10,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 6,
+  "why": {
+   "terrace": "Delije, organised since 1989, famous for choreography and flares",
+   "city": "Serbia's most supported club but shares Belgrade with Partizan",
+   "voice": "Part of the Crvena zvezda sports society; no fan ownership, politically connected boards",
+   "conscience": "UEFA closed-doors order and fine for racist abuse of Ibrahimovic (2021); Mladic support banners (2018); repeated racism sanctions",
+   "ground": "Rajko Mitic 'Marakana', 51,755 seats, ferocious for derbies and Europe",
+   "contender": "Ten Serbian titles 2016-2026, six straight doubles, UCL group stages",
+   "rituals": "Delije choreos, Eternal derby 'Hellgrade' tifo known across Europe",
+   "stewardship": "Run by the Crvena zvezda sports association, long reliant on political patrons and Gazprom sponsorship",
+   "women": "Women's side in the Serbian top flight, little profile (estimate)",
+   "intensity": "Dominant, front-foot side domestically, more cautious in Europe (estimate)"
+  },
+  "ll": [
+   44.78,
+   20.46
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_Star_Belgrade"
+  ]
+ },
+ {
+  "espn_id": "2528",
+  "name": "Kairat Almaty",
+  "league": "uecl",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 8,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 2,
+  "intensity": 5,
+  "why": {
+   "terrace": "Supporters' groups exist but little known beyond Kazakhstan (estimate)",
+   "city": "Almaty's main club, nicknamed 'The Nation's Team'",
+   "voice": "No documented fan role in ownership or decisions",
+   "conscience": "Nothing notable found; little visible inclusion work (estimate)",
+   "ground": "Central Stadium, 23,804 with athletics track; full for 2025-26 Champions League nights",
+   "contender": "Kazakh champions 2020, 2024, 2025; cups 2015-2021; first UCL league phase 2025-26",
+   "rituals": "Two Capitals derby with Astana; no widely known traditions",
+   "stewardship": "Private owner Kairat Boranbayev (arrested 2022); city council holds a 30% minority stake since 2015 and funds the club",
+   "women": "Women's section exists, low profile",
+   "intensity": "Mixed; compact in Europe (estimate)"
+  },
+  "ll": [
+   43.24,
+   76.92
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Kairat"
+  ]
+ },
+ {
+  "espn_id": "262",
+  "name": "Heart of Midlothian",
+  "league": "uecl",
+  "terrace": 6,
+  "city": 6,
+  "voice": 9,
+  "conscience": 5,
+  "ground": 9,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 9,
+  "women": 6,
+  "intensity": 6,
+  "why": {
+   "terrace": "Loud Gorgie support, known in Scotland, no single famous end",
+   "city": "Big part of west Edinburgh but shares the city with Hibs",
+   "voice": "Foundation of Hearts majority owner since 2021, UK's largest fan-owned club; fans voted 98.5% on Bloom deal",
+   "conscience": "Nothing notable found; strong community and war-memorial work",
+   "ground": "Tynecastle Park, 19,852, steep, close to the pitch, usually sold out",
+   "contender": "2025-26 runners-up after losing final-day title decider at Celtic; Scottish Cup 2012",
+   "rituals": "McCrae's Battalion remembrance, Contalmaison pilgrimage, Hearts song",
+   "stewardship": "Fan-owned via Foundation of Hearts; Tony Bloom holds 29% non-voting shares (2025)",
+   "women": "Hearts Women in the SWPL top flight, competitive (estimate)",
+   "intensity": "Front-foot title challenge in 2025-26 (estimate)"
+  },
+  "ll": [
+   55.94,
+   -3.23
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C."
+  ]
+ },
+ {
+  "espn_id": "2994",
+  "name": "Braga",
+  "league": "uecl",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 6,
+  "intensity": 6,
+  "why": {
+   "terrace": "Organised ultras (Red Boys), modest numbers (estimate)",
+   "city": "Braga's main club; 'Arsenalistas' are the city's identity",
+   "voice": "Member club holds about 37% of the listed SAD; members elect president",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Quarry-cut Estadio Municipal, 30,286, striking but often well short of full",
+   "contender": "Regular 3rd-4th; Taca de Portugal 2016, 2021; League Cup 2020, 2024",
+   "rituals": "Quarry stadium and Marian devotion of fans; little known abroad",
+   "stewardship": "minority stake 29.6% held by QSI (the PSG owner's investment arm); majority with the club and private investors; not majority state-owned",
+   "women": "Top-tier women's side, regular contender (estimate)",
+   "intensity": "Attacking, possession-minded under recent coaches (estimate)"
+  },
+  "ll": [
+   41.56,
+   -8.43
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.C._Braga"
+  ]
+ },
+ {
+  "espn_id": "3024",
+  "name": "FC Thun",
+  "league": "uecl",
+  "terrace": 3,
+  "city": 6,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 7,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 3,
+  "intensity": 6,
+  "why": {
+   "terrace": "Small home fan section (estimate)",
+   "city": "The only top club of Thun and the Bernese Oberland",
+   "voice": "No documented fan influence (estimate)",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Stockhorn Arena, 10,000 with mountain backdrop, full in the title run (estimate)",
+   "contender": "Swiss champions 2025-26, the first top-flight title, a year after promotion",
+   "rituals": "No widely known traditions",
+   "stewardship": "Co-owned since 2019 by Pacific Media Group/Chien Lee (multi-club) and The Seelig Group; investors saved club from closure in 2024",
+   "women": "Women's section, not a defining part (estimate)",
+   "intensity": "Energetic promoted side that led all season (estimate)"
+  },
+  "ll": [
+   46.74,
+   7.63
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Thun"
+  ]
+ },
+ {
+  "espn_id": "3101",
+  "name": "FC Nordsjælland",
+  "league": "uecl",
+  "terrace": 2,
+  "city": 3,
+  "voice": 1,
+  "conscience": 6,
+  "ground": 3,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 2,
+  "women": 7,
+  "intensity": 8,
+  "why": {
+   "terrace": "Small 'Wild Tigers' support",
+   "city": "Suburban Farum club formed by a 2003 merger",
+   "voice": "No fan role; 99% corporate owned",
+   "conscience": "Nothing notable found; Right to Dream academy pathways for Ghanaian and Danish youth",
+   "ground": "Right to Dream Park, 9,200, artificial turf, often half full",
+   "contender": "Danish champions 2012, runners-up 2023, 3rd 2025-26",
+   "rituals": "None widely known",
+   "stewardship": "Right to Dream (Mansour Group/ManSports) multi-club with San Diego FC and FC Masar; academy-to-sale model",
+   "women": "FCN women a leading Danish top-flight side (estimate)",
+   "intensity": "Young, high-tempo attacking side by design (estimate)"
+  },
+  "ll": [
+   55.82,
+   12.36
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Nordsj%C3%A6lland"
+  ]
+ },
+ {
+  "espn_id": "3611",
+  "name": "KAA Gent",
+  "league": "uecl",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 6,
+  "why": {
+   "terrace": "Loud 'Buffalo' home end, known in Belgium",
+   "city": "Ghent's main club, strong local following",
+   "voice": "No documented fan power",
+   "conscience": "Nothing notable found; active club foundation; Native American logo criticised",
+   "ground": "Planet Group Arena, 20,175, modern and well filled",
+   "contender": "Belgian champions 2015, cup 2022, 5th in 2025-26",
+   "rituals": "'Buffalo' chant and Battle of Flanders rivalry, known domestically",
+   "stewardship": "Sam Baro, about 95-97% since 2023 (EUR 30m), conventional private owner",
+   "women": "KAA Gent Ladies in the top tier (estimate)",
+   "intensity": "Mixed, attacking at home (estimate)"
+  },
+  "ll": [
+   51.02,
+   3.73
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K.A.A._Gent"
+  ]
+ },
+ {
+  "espn_id": "443",
+  "name": "Panathinaikos",
+  "league": "uecl",
+  "terrace": 8,
+  "city": 5,
+  "voice": 3,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "why": {
+   "terrace": "Gate 13, one of Europe's best-known ultras groups",
+   "city": "One of Greece's most supported clubs; shares Athens with AEK and Olympiacos",
+   "voice": "Briefly fan-owned via Panathinaikos Alliance (2012); now owner-run",
+   "conscience": "UEFA found discriminatory conduct, fireworks and missiles v Chelsea (Oct 2024); suspended stadium closure",
+   "ground": "Historic Leoforos and Olympic Stadium (69,618) used; new Votanikos ground pending (estimate)",
+   "contender": "Greek Cup 2014, 2022, 2024; 1st in 2022-23 regular season, 2nd 2024-25",
+   "rituals": "Shamrock, green-white, Gate 13 choreos known in Europe",
+   "stewardship": "Giannis Alafouzos (Skai TV owner), private, long-term",
+   "women": "One of Greece's first women's teams (1980), low profile now",
+   "intensity": "Mixed (estimate)"
+  },
+  "ll": [
+   38.04,
+   23.79
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Panathinaikos_F.C."
+  ]
+ },
+ {
+  "espn_id": "489",
+  "name": "Hajduk Split",
+  "league": "uecl",
+  "terrace": 9,
+  "city": 10,
+  "voice": 8,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 8,
+  "stewardship": 7,
+  "women": 3,
+  "intensity": 6,
+  "why": {
+   "terrace": "Torcida (1950), Europe's oldest organised supporters' group",
+   "city": "Split lives through Hajduk; about 100,000 members",
+   "voice": "Nas Hajduk members hold 30.6% and elect the supervisory board",
+   "conscience": "UEFA fine and partial closure for discriminatory fan conduct v Vitoria (Aug 2022); 'Kill Serbs' chants previously sanctioned",
+   "ground": "Poljud, 33,987, iconic shell design, big crowds",
+   "contender": "Croatian Cup 2022, 2023; repeatedly 2nd-3rd but no league title since 2005",
+   "rituals": "Torcida choreos, 'Hajduk zivi vjecno', Heart of Hajduk award",
+   "stewardship": "City of Split 65.9% plus members 30.6%; locally owned, not for profit",
+   "women": "Women's side, low profile (estimate)",
+   "intensity": "Attacking, Livaja-led sides; mixed (estimate)"
+  },
+  "ll": [
+   43.52,
+   16.43
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/HNK_Hajduk_Split"
+  ]
+ }
+]

@@ -1,0 +1,319 @@
+[
+ {
+  "espn_id": "21615",
+  "name": "Torreense",
+  "league": "uel",
+  "terrace": 2,
+  "city": 6,
+  "voice": 6,
+  "conscience": 4,
+  "ground": 3,
+  "contender": 5,
+  "rituals": 1,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 5,
+  "why": {
+   "terrace": "No organised singing end documented (estimate)",
+   "city": "Main club of Torres Vedras, a small town of ~80,000; founded 1917",
+   "voice": "The club bought back majority control of its SAD (about 86%) from a Chinese investor",
+   "conscience": "Nothing notable found; little documented inclusion work (estimate)",
+   "ground": "Estádio Manuel Marques, 2,431 seats; plays 2026-27 Europa League games in Leiria",
+   "contender": "Liga Portugal 2: 3rd in 2025-26, lost promotion play-off; won the 2025-26 Taça de Portugal 2-1 v Sporting",
+   "rituals": "No widely known rituals",
+   "stewardship": "Club (members' association) holds the majority of its SAD; no outside owner found",
+   "women": "Women's side exists with its own article; top-tier status not confirmed (estimate)",
+   "intensity": "Luís Tralhão since Jan 2026; no clear style documented (estimate)"
+  },
+  "ll": [
+   39.09,
+   -9.26
+  ],
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.C.U._Torreense"
+  ]
+ },
+ {
+  "espn_id": "256",
+  "name": "Celtic",
+  "league": "uel",
+  "terrace": 9,
+  "city": 7,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 9,
+  "contender": 10,
+  "rituals": 8,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 7,
+  "why": {
+   "terrace": "Green Brigade ultras and safe-standing section, known well beyond Scotland",
+   "city": "Shares Glasgow with Rangers; identity of the city's Irish-Catholic community and East End",
+   "voice": "Celtic PLC, listed; fans hold shares but no control; club suspended ~250 Green Brigade season tickets in 2023",
+   "conscience": "Bhoys Against Bigotry, Green Brigade BLM and Palestine charity work; UEFA fines are for political banners and pyro (e.g. Atlético 2024), not racism",
+   "ground": "Celtic Park, 60,411, Scotland's largest, routinely full and loud",
+   "contender": "Scottish Premiership champions 2025 and 2025-26; perennial champion",
+   "rituals": "You'll Never Walk Alone before European nights, the huddle, Fields of Athenry; 2017 FIFA Fan Award tifo",
+   "stewardship": "Celtic PLC (stock-listed); largest shareholder Dermot Desmond (estimate); conventional, financially prudent",
+   "women": "Women's team in SWPL; league champions 2023-24 (estimate)",
+   "intensity": "Dominant, attacking, possession-heavy side domestically"
+  },
+  "ll": [
+   55.85,
+   -4.21
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Celtic_F.C.",
+   "https://en.wikipedia.org/wiki/Green_Brigade"
+  ]
+ },
+ {
+  "espn_id": "2790",
+  "name": "RB Salzburg",
+  "league": "uel",
+  "terrace": 2,
+  "city": 3,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 9,
+  "why": {
+   "terrace": "Small ultras scene; traditional fans left in 2005 to form SV Austria Salzburg",
+   "city": "Red Bull rebrand of Austria Salzburg; stadium in suburban Wals-Siezenheim; weak local bond",
+   "voice": "None; 2005 fan protests over colours and name ignored, fans left",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Red Bull Arena, 30,188, often far from full (estimate)",
+   "contender": "17 titles, 10 in a row to 2023; 2nd in 2024 and 2025 behind Sturm, 3rd in 2025-26",
+   "rituals": "No widely known rituals",
+   "stewardship": "Red Bull GmbH; part of the Red Bull multi-club network with RB Leipzig",
+   "women": "No women's team found (estimate)",
+   "intensity": "Red Bull high-press, high-tempo identity; Danny Röhl coach"
+  },
+  "ll": [
+   47.82,
+   13.0
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg"
+  ]
+ },
+ {
+  "espn_id": "2990",
+  "name": "Lech Poznan",
+  "league": "uel",
+  "terrace": 7,
+  "city": 8,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 7,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 6,
+  "why": {
+   "terrace": "Large organised ultras; 'The Poznan' celebration known abroad",
+   "city": "Kolejorz, Poznań's main club with railway roots; the city lives through it",
+   "voice": "No supporter ownership; ultras boycotts but no formal say (estimate)",
+   "conscience": "Ultras described as far-right; UEFA fine for a 'Kosovo is Serbia' banner (2025), Madrid street clash Nov 2025; racism sanctions 2013, 2015",
+   "ground": "Poznań Stadium, 42,837, among Poland's best-attended (estimate)",
+   "contender": "Ekstraklasa champions 2024-25 and 2025-26; ten titles",
+   "rituals": "'The Poznan' (backs to the pitch, arms linked, jumping), in the Cambridge Dictionary",
+   "stewardship": "Rutkowski family (Piotr two-thirds, Maja one-third), local long-term owners",
+   "women": "Women's section since 2021, promoted to the top division",
+   "intensity": "Niels Frederiksen's attacking, high-scoring title sides (estimate)"
+  },
+  "ll": [
+   52.4,
+   16.86
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lech_Pozna%C5%84"
+  ]
+ },
+ {
+  "espn_id": "3362",
+  "name": "NK Celje",
+  "league": "uel",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 7,
+  "why": {
+   "terrace": "Celjski Grofje 1992 on the north stand; small",
+   "city": "Celje's only top-flight club; modest following (league average ~2,000 in 2023-24)",
+   "voice": "Association holds 26% of the operating company; no real fan influence",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Stadion Z'dežele, 13,059; full only for big European nights",
+   "contender": "PrvaLiga champions 2020, 2024, 2026; Slovenian Cup 2025; Conference League quarter-final 2025",
+   "rituals": "No widely known rituals",
+   "stewardship": "Sport Invest d.o.o. holds 74%; Russian investor group around Maxim Demin, president Valeriy Kolotilo",
+   "women": "No women's team found (estimate)",
+   "intensity": "Possession-based, attacking style built under Albert Riera (estimate)"
+  },
+  "ll": [
+   46.24,
+   15.27
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NK_Celje"
+  ]
+ },
+ {
+  "espn_id": "3746",
+  "name": "SK Sturm Graz",
+  "league": "uel",
+  "terrace": 7,
+  "city": 7,
+  "voice": 7,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 4,
+  "stewardship": 9,
+  "women": 5,
+  "intensity": 8,
+  "why": {
+   "terrace": "Nordkurve groups Jewels Sturm and Brigata Graz (1994); loud, known in Austria",
+   "city": "Graz's bigger club, sharing the city with Grazer AK",
+   "voice": "Member club, 20,400 members; the association owns 100% of the pro company",
+   "conscience": "Nothing notable found; no UEFA fan sanctions found 2024-25 (estimate)",
+   "ground": "Merkur Arena, ~16,000, shared with GAK; well filled (estimate)",
+   "contender": "Austrian champions 2024 and 2025, runners-up 2025-26",
+   "rituals": "Fan friendships (Werder Bremen, Karlsruhe); no widely known rituals",
+   "stewardship": "Member-owned; president Christian Jauk",
+   "women": "Women's team in the ÖFB Frauen-Bundesliga",
+   "intensity": "High-press, transition identity under Ilzer and successors (estimate)"
+  },
+  "ll": [
+   47.05,
+   15.46
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SK_Sturm_Graz",
+   "https://de.wikipedia.org/wiki/SK_Sturm_Graz"
+  ]
+ },
+ {
+  "espn_id": "433",
+  "name": "Sparta Prague",
+  "league": "uel",
+  "terrace": 6,
+  "city": 6,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 6,
+  "why": {
+   "terrace": "Letenští ultras; loud, known in Czech football",
+   "city": "Shares Prague with Slavia; one of the two big city clubs",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Racist abuse of Tchouaméni (2021, UEFA charge and crowd ban); fans' Nazi salutes in Olomouc May 2025 (club issued lifetime bans)",
+   "ground": "Letná (epet ARENA), 18,349, compact",
+   "contender": "Czech champions 2023 and 2024; 2nd in 2025-26; 38 titles",
+   "rituals": "Prague derby with Slavia; few rituals known abroad",
+   "stewardship": "J&T Credit Investments 60%, Daniel Křetínský 40%; billionaire ownership",
+   "women": "Women's side in the Czech top tier (estimate)",
+   "intensity": "Brian Priske's front-foot sides (estimate)"
+  },
+  "ll": [
+   50.1,
+   14.42
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Sparta_Prague"
+  ]
+ },
+ {
+  "espn_id": "435",
+  "name": "Olympiacos",
+  "league": "uel",
+  "terrace": 9,
+  "city": 9,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 8,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 4,
+  "intensity": 6,
+  "why": {
+   "terrace": "Gate 7 ultras, famous across Europe for intimidating atmospheres",
+   "city": "Piraeus's club, seen as the port's working-class, anti-establishment side v Athens",
+   "voice": "No supporter ownership or documented influence",
+   "conscience": "Police officer killed by a flare at an Olympiacos v Panathinaikos volleyball match (Dec 2023); 142 fans on trial for criminal organisation and violence (2025)",
+   "ground": "Karaiskakis Stadium, 33,334, intimidating and well filled",
+   "contender": "Conference League 2024; double 2024-25; 2nd in 2025-26",
+   "rituals": "Gate 7 tragedy commemoration (1981) each February (estimate)",
+   "stewardship": "Evangelos Marinakis, shipping magnate; multi-club with Nottingham Forest and Rio Ave; on trial (2025) for allegedly backing a violent fan group",
+   "women": "Women's team in the Greek top tier (estimate)",
+   "intensity": "Pressing sides under Mendilibar; Imanol Alguacil now coach (estimate)"
+  },
+  "ll": [
+   37.95,
+   23.66
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympiacos_F.C."
+  ]
+ },
+ {
+  "espn_id": "441",
+  "name": "Anderlecht",
+  "league": "uel",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 5,
+  "why": {
+   "terrace": "Organised home end, known in Belgium (estimate)",
+   "city": "Brussels' biggest club, but most supporters come from across Belgium; shares the city with Union",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Club Football for All campaign; previously fined for the homophobic 'Alle boeren zijn homo' chant",
+   "ground": "Lotto Park, 22,500, compact and well filled (estimate)",
+   "contender": "34 titles but last in 2017; 2nd 2024, cup finals 2025 and 2026 lost, 4th 2025-26",
+   "rituals": "Mauve and white; few rituals known abroad",
+   "stewardship": "Marc Coucke, Belgian businessman, since 2018",
+   "women": "Women's team, several-time Belgian champions (estimate)",
+   "intensity": "Mixed; Vítor Bruno coach (estimate)"
+  },
+  "ll": [
+   50.83,
+   4.3
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/R.S.C._Anderlecht"
+  ]
+ }
+]

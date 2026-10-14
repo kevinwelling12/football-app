@@ -1,0 +1,18 @@
+[
+ {"espn_id": "997", "name": "Trabzonspor", "league": "uecl",
+  "terrace": 7, "city": 10, "voice": 5, "conscience": 2, "ground": 7, "contender": 7.5, "rituals": 5, "stewardship": 6,
+  "women": 3, "intensity": 5,
+  "why": {"terrace": "Organised supporter groups and big home choreographies; known as one of Turkey's loudest crowds; slogan 'Bize her yer Trabzon'.",
+          "city": "Trabzon's only major club and regional identity; first Anatolian club to break the Istanbul clubs' hold on the title.",
+          "voice": "Members' association: congress elects the president (Ertugrul Dogan, re-elected unopposed Nov 2024); the listed football company is controlled by the association.",
+          "conscience": "Sanctioned violence: fans invaded the pitch and attacked Fenerbahce players in March 2024 (TFF closed-doors ban, reduced to four matches on appeal); 2016 assistant-referee attack. No racism case found.",
+          "ground": "Senol Gunes Sports Complex (Papara Park), 40,980, opened 2016 on the coast outside the centre; loud, well filled for big matches.",
+          "contender": "Super Lig champions 2021-22 (7 titles), Turkish Cup 2025-26 (10 total); 3rd in 2023-24 and 2025-26.",
+          "rituals": "'Bize her yer Trabzon' chant and claret-and-blue choreographies; known in Turkey, not much beyond.",
+          "stewardship": "Member club run by elected president Ertugrul Dogan; heavy debt and a 2019-20 UEFA FFP European ban.",
+          "women": "Operates a women's team; profile low (estimate).",
+          "intensity": "No clear identity: coaches rotate (Avci, Bjelica, Gunes, now Thomas Reis); estimate."},
+  "ll": [41.0, 39.65],
+  "confidence": "medium",
+  "sources": ["https://en.wikipedia.org/wiki/Trabzonspor"]}
+]

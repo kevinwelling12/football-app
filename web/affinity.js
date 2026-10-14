@@ -12,14 +12,15 @@
 
 export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity'];
 export const FLAGS = ['stateOwner', 'incidents', 'rival'];
-export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex']; // relative to the Premier League
+export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
 export const FEATURES = [...TRAITS, ...FLAGS, ...FAMILIAR];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
   geography: 'Near Sacramento', contender: 'Contender', intensity: 'High-energy football',
   stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
-  lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX' };
+  lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
+  lg_uel: 'Other Europa League', lg_uecl: 'Other Conference League' };
 // how to say a shortfall (a trait below the typical club's, costing Affinity) or a flag that applies
 export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
   conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
@@ -28,8 +29,10 @@ export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals',
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
   geography: 0.3, contender: 0, intensity: 0.3, stateOwner: -2, incidents: -1, rival: -1, lg_bl: 0, lg_ucl: 0, lg_mls: 0, lg_nwsl: 0, lg_usl: 0,
-  lg_esp: 0, lg_ita: 0, lg_fra: 0, lg_eng2: 0, lg_mex: 0 };
-const STATE = /\bstate\b|PIF|Qatar|Abu Dhabi|Saudi|sovereign/i;
+  lg_esp: 0, lg_ita: 0, lg_fra: 0, lg_eng2: 0, lg_mex: 0, lg_uel: 0, lg_uecl: 0 };
+// State ownership: an explicit flag in traits.json (majority owner is a state or sovereign fund). Word-matching the owner note
+// caught sponsors (Atlético's Saudi airline), state grants (Sabah) and negations ("not state").
+const isState = c => (c.state != null ? !!c.state : /\bstate\b|PIF|Qatar|Abu Dhabi|Saudi|sovereign/i.test(c.why?.stewardship || ''));
 const NOTHING = /nothing (notable|found)|estimate/i;
 
 const HOME = [38.58, -121.49];
@@ -48,14 +51,14 @@ export function geography(ll) {
 export const withGeo = c => (c.geography != null ? c : { ...c, geography: geography(c.ll) });
 
 // ctx: {league: {id: key}, rivals: Set of ids}. A club's league is its domestic one where we have it (Real Madrid: La Liga);
-// 'ucl' only for Champions League clubs from leagues the app doesn't show.
+// 'ucl', 'uel', 'uecl' only for clubs in the UEFA cups from leagues the app doesn't show (Benfica, Celtic).
 // State ownership is read from the ownership note; a racism or fan-culture record = inclusion below 3 where the research
 // found something (a low score that only means "nothing notable" doesn't count).
 export function features(id, c, ctx) {
   c = withGeo(c);
   const lg = ctx.league[id];
   return [...TRAITS.map(t => (c[t] ?? 0) / 10),
-    STATE.test(c.why?.stewardship || '') ? 1 : 0,
+    isState(c) ? 1 : 0,
     (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
     ctx.rivals.has(id) ? 1 : 0,
     ...FAMILIAR.map(f => (lg === f.slice(3) ? 1 : 0))];
@@ -121,7 +124,7 @@ export function fit(traits, ctx, picks, opts = {}) {
 
 // Next pair to ask about: usually two clubs from the same league. Prefers clubs you're likely to know (big clubs,
 // leagues you answer for), and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
-const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.5, usl: 0.5, esp: 0.4, ita: 0.4, fra: 0.4, eng2: 0.4, mex: 0.4 };
+const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.5, usl: 0.5, esp: 0.4, ita: 0.4, fra: 0.4, eng2: 0.4, mex: 0.4, uel: 0.4, uecl: 0.4 };
 // Pairs to settle the top of the list (Kevin, 2026-10-14): his own clubs and his ten favourite clubs overall in a round
 // robin, plus each of his clubs against the three he rates highest in its own league. Unasked ones only, closest first.
 export function focusPairs(model, ids, ctx, picks, favs) {

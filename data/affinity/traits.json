@@ -27,7 +27,8 @@
    "stewardship": "Owner Ilicali, high churn",
    "women": "Women's team lower tiers",
    "intensity": "No lasting identity"
-  }
+  },
+  "state": false
  },
  "331": {
   "name": "Brighton & Hove Albion",
@@ -57,7 +58,8 @@
    "stewardship": "local fan owner Bloom, minority stakes elsewhere",
    "women": "WSL, women's stadium planned",
    "intensity": "Hurzeler's high press"
-  }
+  },
+  "state": false
  },
  "337": {
   "name": "Brentford",
@@ -87,7 +89,8 @@
    "stewardship": "lifelong-fan owner Benham, sustainable",
    "women": "affiliate only",
    "intensity": "aggressive, direct pressing"
-  }
+  },
+  "state": false
  },
  "349": {
   "name": "AFC Bournemouth",
@@ -117,7 +120,8 @@
    "stewardship": "Black Knight multi-club hub",
    "women": "minor women's team",
    "intensity": "intense pressing from Iraola; Rose"
-  }
+  },
+  "state": false
  },
  "357": {
   "name": "Leeds United",
@@ -147,7 +151,8 @@
    "stewardship": "49ers Enterprises, Rangers stake",
    "women": "Women's team lower tiers",
    "intensity": "Farke's energetic, ball-controlling side"
-  }
+  },
+  "state": false
  },
  "359": {
   "name": "Arsenal",
@@ -177,7 +182,8 @@
    "stewardship": "Kroenke KSE (also owns Colorado Rapids), Super League signatory 2021",
    "women": "Arsenal Women won the 2025 UWCL, core to the club",
    "intensity": "Arteta's high, structured press"
-  }
+  },
+  "state": false
  },
  "360": {
   "name": "Manchester United",
@@ -207,7 +213,8 @@
    "stewardship": "Glazer leveraged buyout, ~£1bn debt; INEOS 29%",
    "women": "Women's team in WSL, 2024 FA Cup",
    "intensity": "Four coaches in three seasons; mixed"
-  }
+  },
+  "state": false
  },
  "361": {
   "name": "Newcastle United",
@@ -237,7 +244,8 @@
    "stewardship": "Saudi PIF 85%",
    "women": "Women's team in-house, 2nd tier/WSL estimate",
    "intensity": "Howe-era high-energy press; Jaissle Red Bull"
-  }
+  },
+  "state": true
  },
  "362": {
   "name": "Aston Villa",
@@ -267,7 +275,8 @@
    "stewardship": "V Sports (Sawiris, Edens) plus US fund Atairos; UEFA squad-cost breaches",
    "women": "WSL side",
    "intensity": "Emery's compact, counter-attacking team"
-  }
+  },
+  "state": false
  },
  "363": {
   "name": "Chelsea",
@@ -297,7 +306,8 @@
    "stewardship": "Clearlake private equity",
    "women": "WSL dominant",
    "intensity": "coach churn"
-  }
+  },
+  "state": false
  },
  "364": {
   "name": "Liverpool",
@@ -327,7 +337,8 @@
    "stewardship": "Fenway Sports Group (US) plus 1892 Holdings; well run but Super League 2021",
    "women": "Liverpool Women in the WSL, mid-table, plays away from Anfield",
    "intensity": "Klopp heavy-metal press; Iraola (2026) an elite presser again"
-  }
+  },
+  "state": false
  },
  "366": {
   "name": "Sunderland",
@@ -357,7 +368,8 @@
    "stewardship": "Louis-Dreyfus and Sartori, sale explored 2026",
    "women": "Women's Championship side",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "367": {
   "name": "Tottenham Hotspur",
@@ -387,7 +399,8 @@
    "stewardship": "ENIC (Lewis trust), high ticket prices",
    "women": "WSL side",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "368": {
   "name": "Everton",
@@ -417,7 +430,8 @@
    "stewardship": "Friedkin Group (also Roma) since 2024; Stake.com sponsor",
    "women": "Everton Women in WSL, play at Goodison",
    "intensity": "organised, direct, not pressing"
-  }
+  },
+  "state": false
  },
  "370": {
   "name": "Fulham",
@@ -447,7 +461,8 @@
    "stewardship": "Shahid Khan, stable, no other clubs",
    "women": "Women's team not professional",
    "intensity": "Silva's possession, Arbeloa new (estimate)"
-  }
+  },
+  "state": false
  },
  "373": {
   "name": "Ipswich Town",
@@ -477,7 +492,8 @@
    "stewardship": "US pension/private equity (Gamechanger 20, Bright Path)",
    "women": "Women funded and professionalised",
    "intensity": "O'Neil pressing after McKenna"
-  }
+  },
+  "state": false
  },
  "382": {
   "name": "Manchester City",
@@ -507,7 +523,8 @@
    "stewardship": "Abu Dhabi state via City Football Group, 114 charges",
    "women": "Man City Women in the WSL, top side",
    "intensity": "Guardiola possession with counter-press; Maresca control-first"
-  }
+  },
+  "state": true
  },
  "384": {
   "name": "Crystal Palace",
@@ -537,7 +554,8 @@
    "stewardship": "US investors (Johnson, Harris/Blitzer) exploring a sale; Parish 10%",
    "women": "Women's team relegated from WSL in 2025 (estimate)",
    "intensity": "Glasner's intense 3-4-3, Sage (intense) from 2026"
-  }
+  },
+  "state": false
  },
  "388": {
   "name": "Coventry City",
@@ -567,7 +585,8 @@
    "stewardship": "Local owner Doug King reunited club and stadium (2025)",
    "women": "Women's team in lower tiers",
    "intensity": "Lampard's front-foot, high-scoring promotion side"
-  }
+  },
+  "state": false
  },
  "393": {
   "name": "Nottingham Forest",
@@ -597,7 +616,8 @@
    "stewardship": "Marinakis multi-club",
    "women": "Women's team lower tier",
    "intensity": "Coach churn; Glasner intensity"
-  }
+  },
+  "state": false
  },
  "122": {
   "name": "FC Cologne",
@@ -627,7 +647,8 @@
    "stewardship": "pro arm fully held by the e.V., no outside investor",
    "women": "women in the Frauen-Bundesliga",
    "intensity": "energetic, direct after promotion, no lasting pressing identity; coach churn"
-  }
+  },
+  "state": false
  },
  "124": {
   "name": "Borussia Dortmund",
@@ -657,7 +678,8 @@
    "stewardship": "member-controlled; Rheinmetall deal",
    "women": "women since 2021, climbing lower leagues",
    "intensity": "Kovac pragmatic now; Klopp gegenpress is history"
-  }
+  },
+  "state": false
  },
  "125": {
   "name": "Eintracht Frankfurt",
@@ -687,7 +709,8 @@
    "stewardship": "Member-controlled, stable",
    "women": "Women's side (ex-1. FFC Frankfurt) top-tier and prominent",
    "intensity": "Transition football, intensity varies with coaches"
-  }
+  },
+  "state": false
  },
  "126": {
   "name": "SC Freiburg",
@@ -717,7 +740,8 @@
    "stewardship": "member-run, stable, long-term coaches",
    "women": "established Frauen-Bundesliga side",
    "intensity": "organised, mixed pressing"
-  }
+  },
+  "state": false
  },
  "127": {
   "name": "Hamburg SV",
@@ -747,7 +771,8 @@
    "stewardship": "Member-controlled; boardroom instability",
    "women": "Women's team promoted to Frauen-Bundesliga 2025",
    "intensity": "Front-foot, not elite press"
-  }
+  },
+  "state": false
  },
  "131": {
   "name": "Bayer Leverkusen",
@@ -777,7 +802,8 @@
    "stewardship": "wholly owned by Bayer AG",
    "women": "Frauen-Bundesliga side",
    "intensity": "Alonso's pressing gone, coach churn"
-  }
+  },
+  "state": false
  },
  "132": {
   "name": "Bayern Munich",
@@ -807,7 +833,8 @@
    "stewardship": "member-majority with corporate minorities",
    "women": "Frauen-Bundesliga champions",
    "intensity": "Kompany's high press"
-  }
+  },
+  "state": false
  },
  "133": {
   "name": "Schalke 04",
@@ -837,7 +864,8 @@
    "stewardship": "member-owned but EUR 162m debt",
    "women": "lower-tier women's side",
    "intensity": "mixed, pragmatic"
-  }
+  },
+  "state": false
  },
  "134": {
   "name": "VfB Stuttgart",
@@ -867,7 +895,8 @@
    "stewardship": "member majority, Mercedes and Porsche stakes",
    "women": "women's side outside top tier (estimate)",
    "intensity": "Hoeness's attacking pressing"
-  }
+  },
+  "state": false
  },
  "137": {
   "name": "Werder Bremen",
@@ -897,7 +926,8 @@
    "stewardship": "members' club plus local no-dividend business alliance",
    "women": "Frauen-Bundesliga team, occasionally at the Weserstadion",
    "intensity": "mixed, mid-table Bundesliga style"
-  }
+  },
+  "state": false
  },
  "268": {
   "name": "Borussia Mönchengladbach",
@@ -927,7 +957,8 @@
    "stewardship": "member-run, no investor",
    "women": "women in the 2. Bundesliga (estimate)",
    "intensity": "no identity, 0 points from 4"
-  }
+  },
+  "state": false
  },
  "598": {
   "name": "1. FC Union Berlin",
@@ -957,7 +988,8 @@
    "stewardship": "member-owned, fan-built",
    "women": "Frauen-Bundesliga since 2025 with big crowds",
    "intensity": "direct, counter-attacking"
-  }
+  },
+  "state": false
  },
  "2950": {
   "name": "Mainz",
@@ -987,7 +1019,8 @@
    "stewardship": "Member-run, no investor",
    "women": "Women's side in lower leagues",
    "intensity": "Klopp/Tuchel/Henriksen pressing lineage; Fischer more compact"
-  }
+  },
+  "state": false
  },
  "3307": {
   "name": "SC Paderborn 07",
@@ -1017,7 +1050,8 @@
    "stewardship": "member club, past reliance on late president Finke, recent money trouble",
    "women": "no notable women's side",
    "intensity": "Kwasniok-legacy attacking style"
-  }
+  },
+  "state": false
  },
  "3841": {
   "name": "FC Augsburg",
@@ -1047,7 +1081,8 @@
    "stewardship": "Blitzer's Bolt (multi-club) ~45%",
    "women": "Women's team in lower tiers",
    "intensity": "Pragmatic, compact football"
-  }
+  },
+  "state": false
  },
  "7911": {
   "name": "TSG Hoffenheim",
@@ -1077,7 +1112,8 @@
    "stewardship": "patron-built, governance turmoil",
    "women": "strong Frauen-Bundesliga side",
    "intensity": "Ilzer's intense pressing"
-  }
+  },
+  "state": false
  },
  "10388": {
   "name": "SV Elversberg",
@@ -1107,7 +1143,8 @@
    "stewardship": "rise funded by the local Holzer family's Ursapharm",
    "women": "none of note",
    "intensity": "attacking possession-and-pressing (Steffen, Wagner)"
-  }
+  },
+  "state": false
  },
  "11420": {
   "name": "RB Leipzig",
@@ -1137,7 +1174,8 @@
    "stewardship": "Red Bull GmbH 99%, multi-club",
    "women": "Women's team in Frauen-Bundesliga",
    "intensity": "Red Bull pressing"
-  }
+  },
+  "state": false
  },
  "83": {
   "name": "Barcelona",
@@ -1167,7 +1205,8 @@
    "stewardship": "member-owned but sold future TV rights, heavy debt, Super League to 2026",
    "women": "Femení among the world's best",
    "intensity": "Flick's high line and aggressive press"
-  }
+  },
+  "state": false
  },
  "86": {
   "name": "Real Madrid",
@@ -1197,7 +1236,8 @@
    "stewardship": "members own it, but Super League push and plan to sell part of a subsidiary",
    "women": "Liga F side since 2020, not part of the identity",
    "intensity": "star-driven, mixed pressing"
-  }
+  },
+  "state": false
  },
  "102": {
   "name": "Villarreal",
@@ -1227,7 +1267,8 @@
    "stewardship": "Fernando Roig, local industrialist, owner since 1997, long-term",
    "women": "women's team in Liga F, modest",
    "intensity": "attacking, possession-and-tempo sides under Marcelino and successors"
-  }
+  },
+  "state": false
  },
  "104": {
   "name": "AS Roma",
@@ -1257,7 +1298,8 @@
    "stewardship": "Friedkin (US) also owns Everton",
    "women": "women Serie A champions 2023 and 2024",
    "intensity": "Gasperini man-marking pressing 2025-"
-  }
+  },
+  "state": false
  },
  "110": {
   "name": "Internazionale",
@@ -1287,7 +1329,8 @@
    "stewardship": "Oaktree Capital (credit fund) owns ~99.6%",
    "women": "Women's side in Serie A",
    "intensity": "Chivu's aggressive, front-foot side"
-  }
+  },
+  "state": false
  },
  "114": {
   "name": "Napoli",
@@ -1317,7 +1360,8 @@
    "stewardship": "De Laurentiis, local, prudent, also owns Bari",
    "women": "Women's team in Serie A, low profile",
    "intensity": "pragmatic"
-  }
+  },
+  "state": false
  },
  "142": {
   "name": "Feyenoord Rotterdam",
@@ -1347,7 +1391,8 @@
    "stewardship": "No single owner, foundation-governed",
    "women": "Women's team in Eredivisie",
    "intensity": "Slot-era pressing legacy; coach churn since"
-  }
+  },
+  "state": false
  },
  "148": {
   "name": "PSV Eindhoven",
@@ -1377,7 +1422,8 @@
    "stewardship": "Foundation-owned, regional sponsors",
    "women": "Women's team in Eredivisie",
    "intensity": "Bosz high press"
-  }
+  },
+  "state": false
  },
  "160": {
   "name": "Paris Saint-Germain",
@@ -1407,7 +1453,8 @@
    "stewardship": "Qatar state",
    "women": "PSG women top tier",
    "intensity": "Luis Enrique high-intensity press"
-  }
+  },
+  "state": true
  },
  "166": {
   "name": "Lille",
@@ -1437,7 +1484,8 @@
    "stewardship": "Merlyn Partners investment fund",
    "women": "Women's side lower",
    "intensity": "Organised possession"
-  }
+  },
+  "state": false
  },
  "175": {
   "name": "Lens",
@@ -1467,7 +1515,8 @@
    "stewardship": "Oughourlian multi-club holder",
    "women": "Women's team rising (estimate)",
    "intensity": "Intense, organised sides"
-  }
+  },
+  "state": false
  },
  "244": {
   "name": "Real Betis",
@@ -1497,7 +1546,8 @@
    "stewardship": "local SAD led by Angel Haro, no major owner issues",
    "women": "Liga F team",
    "intensity": "Pellegrini possession-attacking football"
-  }
+  },
+  "state": false
  },
  "432": {
   "name": "Galatasaray",
@@ -1527,7 +1577,8 @@
    "stewardship": "Member club, debt-heavy spending",
    "women": "Women's league champions 2024",
    "intensity": "Star-driven; no pressing identity"
-  }
+  },
+  "state": false
  },
  "436": {
   "name": "Fenerbahce",
@@ -1557,7 +1608,8 @@
    "stewardship": "Member club but UEFA fines, transfer ban, churn",
    "women": "Women's team in Turkish top flight",
    "intensity": "Star-signing side, no pressing identity"
-  }
+  },
+  "state": false
  },
  "437": {
   "name": "FC Porto",
@@ -1587,7 +1639,8 @@
    "stewardship": "Member-controlled SAD",
    "women": "First women's team 2024",
    "intensity": "Farioli high-intensity press"
-  }
+  },
+  "state": false
  },
  "493": {
   "name": "Shakhtar Donetsk",
@@ -1617,7 +1670,8 @@
    "stewardship": "oligarch Akhmetov since 1996",
    "women": "women's side, not central",
    "intensity": "Turan attacking style"
-  }
+  },
+  "state": false
  },
  "494": {
   "name": "Slavia Prague",
@@ -1647,7 +1701,8 @@
    "stewardship": "local billionaire Tykac since 2023",
    "women": "dominant Czech women's side",
    "intensity": "Trpisovsky high-intensity pressing"
-  }
+  },
+  "state": false
  },
  "510": {
   "name": "Viking FK",
@@ -1677,7 +1732,8 @@
    "stewardship": "member-run, local sponsors",
    "women": "women's section, lower profile",
    "intensity": "attacking, stable joint coaches"
-  }
+  },
+  "state": false
  },
  "521": {
   "name": "Slovan Bratislava",
@@ -1707,7 +1763,8 @@
    "stewardship": "local businessman Kmotrik",
    "women": "women's side, minor",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "570": {
   "name": "Club Brugge",
@@ -1737,7 +1794,8 @@
    "stewardship": "Verhaeghe",
    "women": "Belgian Super League",
    "intensity": "energetic, attacking"
-  }
+  },
+  "state": false
  },
  "887": {
   "name": "AEK Athens",
@@ -1767,7 +1825,8 @@
    "stewardship": "Greek shipping owner Iliopoulos rebuilt the club after 2013 and funded the stadium",
    "women": "women in the Greek top tier, modest profile",
    "intensity": "energetic champion side, no pressing identity"
-  }
+  },
+  "state": false
  },
  "1068": {
   "name": "Atlético Madrid",
@@ -1797,7 +1856,8 @@
    "stewardship": "Apollo private equity majority since 2026; Riyadh Air (Saudi state) sponsor",
    "women": "Liga F side",
    "intensity": "Simeone intensity, but often defensive"
-  }
+  },
+  "state": false
  },
  "2250": {
   "name": "Sporting CP",
@@ -1827,7 +1887,8 @@
    "stewardship": "member-controlled",
    "women": "top Portuguese women's side",
    "intensity": "Amorim-style attacking football"
-  }
+  },
+  "state": false
  },
  "2572": {
   "name": "Como",
@@ -1857,7 +1918,8 @@
    "stewardship": "Billionaire Hartono brothers fund an imported squad; stable but asset-style spending",
    "women": "Women's side in Serie A (Como Women), low profile",
    "intensity": "Fabregas's possession-dominant, high-pressing young side"
-  }
+  },
+  "state": false
  },
  "2980": {
   "name": "Bodo/Glimt",
@@ -1887,7 +1949,8 @@
    "stewardship": "member association, no private owner",
    "women": "women's side relegated from Toppserien",
    "intensity": "Knutsen's relentless press"
-  }
+  },
+  "state": false
  },
  "4411": {
   "name": "LASK Linz",
@@ -1917,7 +1980,8 @@
    "stewardship": "Local entrepreneurs consortium",
    "women": "Women's team top division",
    "intensity": "Austrian pressing school"
-  }
+  },
+  "state": false
  },
  "21922": {
   "name": "Sabah FK",
@@ -1947,7 +2011,8 @@
    "stewardship": "businessman Huseynov's Bridge Group; AZN 5m presidential grant 2026 in an authoritarian state",
    "women": "no women's team found",
    "intensity": "unknown, estimate"
-  }
+  },
+  "state": false
  },
  "182": {
   "name": "Chicago Fire FC",
@@ -1977,7 +2042,8 @@
    "stewardship": "Mansueto building stadium",
    "women": "none",
    "intensity": "average"
-  }
+  },
+  "state": false
  },
  "183": {
   "name": "Columbus Crew",
@@ -2007,7 +2073,8 @@
    "stewardship": "Local Haslam/Edwards owners bought it to keep it in Columbus and built a stadium",
    "women": "No women's team; NWSL side planned for 2028",
    "intensity": "Nancy's possession side ended 2025; mixed tempo since with coach churn"
-  }
+  },
+  "state": false
  },
  "184": {
   "name": "Colorado Rapids",
@@ -2037,7 +2104,8 @@
    "stewardship": "KSE minor holding",
    "women": "none",
    "intensity": "new coach"
-  }
+  },
+  "state": false
  },
  "185": {
   "name": "FC Dallas",
@@ -2067,7 +2135,8 @@
    "stewardship": "Hunt family, long-term owners investing in academy and stadium",
    "women": "No women's team (Dallas Trinity separate)",
    "intensity": "Style not verified (estimate)"
-  }
+  },
+  "state": false
  },
  "186": {
   "name": "Sporting Kansas City",
@@ -2097,7 +2166,8 @@
    "stewardship": "local Mallouk 80% since 2026",
    "women": "none (KC Current separate)",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "187": {
   "name": "LA Galaxy",
@@ -2127,7 +2197,8 @@
    "stewardship": "AEG, ordinary",
    "women": "No women's team (Angel City separate)",
    "intensity": "Vanney's possession side"
-  }
+  },
+  "state": false
  },
  "189": {
   "name": "New England Revolution",
@@ -2157,7 +2228,8 @@
    "stewardship": "Kraft Group, criticised as neglectful",
    "women": "No women's team",
    "intensity": "Moderate intensity"
-  }
+  },
+  "state": false
  },
  "190": {
   "name": "Red Bull New York",
@@ -2187,7 +2259,8 @@
    "stewardship": "Red Bull GmbH multi-club secondary club",
    "women": "no women's team (Gotham FC independent)",
    "intensity": "Red Bull gegenpressing identity"
-  }
+  },
+  "state": false
  },
  "191": {
   "name": "San Jose Earthquakes",
@@ -2217,7 +2290,8 @@
    "stewardship": "Fisher (A's relocation) owner, club for sale since 2025",
    "women": "no women's team (Bay FC separate)",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "193": {
   "name": "D.C. United",
@@ -2247,7 +2321,8 @@
    "stewardship": "Levien/Kaplan ordinary private owners",
    "women": "No women's team (Washington Spirit separate)",
    "intensity": "Coach churn, no identity"
-  }
+  },
+  "state": false
  },
  "4771": {
   "name": "Real Salt Lake",
@@ -2277,7 +2352,8 @@
    "stewardship": "local Miller family control since 2025",
    "women": "sister club Utah Royals (NWSL) is a separate brand",
    "intensity": "mixed style"
-  }
+  },
+  "state": false
  },
  "6077": {
   "name": "Houston Dynamo FC",
@@ -2307,7 +2383,8 @@
    "stewardship": "Ted Segal, ordinary private owner",
    "women": "Shares owner with Houston Dash (NWSL)",
    "intensity": "Average intensity"
-  }
+  },
+  "state": false
  },
  "7318": {
   "name": "Toronto FC",
@@ -2337,7 +2414,8 @@
    "stewardship": "Rogers telecom corporate owner",
    "women": "no women's team",
    "intensity": "cautious, mixed"
-  }
+  },
+  "state": false
  },
  "9720": {
   "name": "CF Montréal",
@@ -2367,7 +2445,8 @@
    "stewardship": "Saputo local, also Bologna",
    "women": "none",
    "intensity": "no identity"
-  }
+  },
+  "state": false
  },
  "9723": {
   "name": "Portland Timbers",
@@ -2397,7 +2476,8 @@
    "stewardship": "Merritt Paulson, criticised over Thorns scandal",
    "women": "Thorns (separate owner since 2024) share stadium and supporters",
    "intensity": "Moderate intensity"
-  }
+  },
+  "state": false
  },
  "9726": {
   "name": "Seattle Sounders FC",
@@ -2427,7 +2507,8 @@
    "stewardship": "local Hanauer-led owners; tribal casino sleeve sponsor",
    "women": "owns NWSL Seattle Reign, separate brand",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "9727": {
   "name": "Vancouver Whitecaps",
@@ -2457,7 +2538,8 @@
    "stewardship": "owners selling, 2026 bid to move to Las Vegas",
    "women": "Vancouver Rise link unverified",
    "intensity": "Sorensen's pressing"
-  }
+  },
+  "state": false
  },
  "10739": {
   "name": "Philadelphia Union",
@@ -2487,7 +2569,8 @@
    "stewardship": "Jay Sugarman, local",
    "women": "No women's team",
    "intensity": "High press identity"
-  }
+  },
+  "state": false
  },
  "12011": {
   "name": "Orlando City SC",
@@ -2517,7 +2600,8 @@
    "stewardship": "Wilf family, stable",
    "women": "Orlando Pride 2024 NWSL champions, same owner",
    "intensity": "Mixed, high churn"
-  }
+  },
+  "state": false
  },
  "17362": {
   "name": "Minnesota United FC",
@@ -2547,7 +2631,8 @@
    "stewardship": "Local McGuire/Pohlad/Taylor group, private stadium",
    "women": "No women's team",
    "intensity": "Hard-running counter-attacking under Ramsay"
-  }
+  },
+  "state": false
  },
  "17606": {
   "name": "New York City FC",
@@ -2577,7 +2662,8 @@
    "stewardship": "City Football Group (Abu Dhabi state)",
    "women": "No women's team",
    "intensity": "CFG positional play with press"
-  }
+  },
+  "state": true
  },
  "18267": {
   "name": "FC Cincinnati",
@@ -2607,7 +2693,8 @@
    "stewardship": "Local Lindner family majority",
    "women": "No women's team",
    "intensity": "Attacking, moderately intense under Noonan"
-  }
+  },
+  "state": false
  },
  "18418": {
   "name": "Atlanta United FC",
@@ -2637,7 +2724,8 @@
    "stewardship": "local owner Arthur Blank, invested",
    "women": "no women's team",
    "intensity": "star-driven, no pressing identity"
-  }
+  },
+  "state": false
  },
  "18966": {
   "name": "LAFC",
@@ -2667,7 +2755,8 @@
    "stewardship": "Large local investor group, conventional",
    "women": "No women's team (minority stake in Angel City)",
    "intensity": "Cherundolo-era intensity; coach vacant since Sept 2026"
-  }
+  },
+  "state": false
  },
  "18986": {
   "name": "Nashville SC",
@@ -2697,7 +2786,8 @@
    "stewardship": "Local John Ingram",
    "women": "No women's team",
    "intensity": "Hard-working collective"
-  }
+  },
+  "state": false
  },
  "20232": {
   "name": "Inter Miami CF",
@@ -2727,7 +2817,8 @@
    "stewardship": "Mas brothers/Beckham, Ares stake, cap fines",
    "women": "No women's team",
    "intensity": "Quality high, intensity low"
-  }
+  },
+  "state": false
  },
  "20906": {
   "name": "Austin FC",
@@ -2757,7 +2848,8 @@
    "stewardship": "Precourt tried to move the Columbus Crew",
    "women": "no women's team",
    "intensity": "coach churn, no settled style"
-  }
+  },
+  "state": false
  },
  "21300": {
   "name": "Charlotte FC",
@@ -2787,7 +2879,8 @@
    "stewardship": "Tepper",
    "women": "none",
    "intensity": "average"
-  }
+  },
+  "state": false
  },
  "21812": {
   "name": "St. Louis CITY SC",
@@ -2817,7 +2910,8 @@
    "stewardship": "local Taylor family and Kindle, privately built stadium",
    "women": "none (MLS-only)",
    "intensity": "2023 high press gone"
-  }
+  },
+  "state": false
  },
  "22529": {
   "name": "San Diego FC",
@@ -2847,7 +2941,8 @@
    "stewardship": "Mansour with Sycuan, secondary in Right to Dream multi-club network",
    "women": "no women's team (Wave separate)",
    "intensity": "Varas's attacking possession"
-  }
+  },
+  "state": false
  },
  "15360": {
   "name": "Chicago Stars FC",
@@ -2877,7 +2972,8 @@
    "stewardship": "Ricketts group since 2023, investing, no stadium",
    "women": "founding NWSL club, poorly supported now",
    "intensity": "mixed, coach churn"
-  }
+  },
+  "state": false
  },
  "15362": {
   "name": "Portland Thorns FC",
@@ -2907,7 +3003,8 @@
    "stewardship": "Bhathal family (RAJ Sports) since 2024, stable",
    "women": "the women's game's reference club (Thorns)",
    "intensity": "mixed, attacking talent (Wilson, Moultrie)"
-  }
+  },
+  "state": false
  },
  "15363": {
   "name": "Seattle Reign FC",
@@ -2937,7 +3034,8 @@
    "stewardship": "Sounders owners plus Carlyle Group private equity",
    "women": "founding NWSL club, top tier",
    "intensity": "mixed under Harvey"
-  }
+  },
+  "state": false
  },
  "15364": {
   "name": "Gotham FC",
@@ -2967,7 +3065,8 @@
    "stewardship": "Murphys, Lloyd, Manning group; turned club round",
    "women": "women's club, top tier",
    "intensity": "balanced, possession under Amoros"
-  }
+  },
+  "state": false
  },
  "15365": {
   "name": "Washington Spirit",
@@ -2997,7 +3096,8 @@
    "stewardship": "Kang multi-club (Kynisca) flagship, heavy investment",
    "women": "defining women's club",
    "intensity": "front-foot, attacking (Rodman)"
-  }
+  },
+  "state": false
  },
  "15366": {
   "name": "North Carolina Courage",
@@ -3027,7 +3127,8 @@
    "stewardship": "Steve Malik (local), stalled downtown stadium",
    "women": "women's club, top tier",
    "intensity": "pressing-era identity, now mixed"
-  }
+  },
+  "state": false
  },
  "17346": {
   "name": "Houston Dash",
@@ -3057,7 +3158,8 @@
    "stewardship": "Ted Segal with Dynamo, conventional",
    "women": "women's club, modest support",
    "intensity": "mixed, estimate"
-  }
+  },
+  "state": false
  },
  "18206": {
   "name": "Orlando Pride",
@@ -3087,7 +3189,8 @@
    "stewardship": "Wilf family (Vikings) with Orlando City",
    "women": "women's club, top tier",
    "intensity": "attacking with Marta, mixed since"
-  }
+  },
+  "state": false
  },
  "19141": {
   "name": "Utah Royals",
@@ -3117,7 +3220,8 @@
    "stewardship": "Miller family (local) since 2025",
    "women": "women's club, modest support",
    "intensity": "cautious, estimate"
-  }
+  },
+  "state": false
  },
  "20905": {
   "name": "Racing Louisville FC",
@@ -3147,7 +3251,8 @@
    "stewardship": "Soccer Holdings exploring sale/relocation to Cincinnati",
    "women": "women's club, falling support",
    "intensity": "mixed, estimate"
-  }
+  },
+  "state": false
  },
  "20907": {
   "name": "Kansas City Current",
@@ -3177,7 +3282,8 @@
    "stewardship": "local Longs/Mahomes, privately funded stadium and training centre",
    "women": "defining women's club of the new era",
    "intensity": "high-press, high-scoring, defining"
-  }
+  },
+  "state": false
  },
  "21422": {
   "name": "Angel City FC",
@@ -3207,7 +3313,8 @@
    "stewardship": "Iger/Bay since 2024, invested; salary-cap fine 2024",
    "women": "a women's club from birth, big following",
    "intensity": "no settled identity, mixed"
-  }
+  },
+  "state": false
  },
  "21423": {
   "name": "San Diego Wave FC",
@@ -3237,7 +3344,8 @@
    "stewardship": "Leichtman/Levine (PE founders) since 2024",
    "women": "women's club, well-supported",
    "intensity": "mixed under Eidevall"
-  }
+  },
+  "state": false
  },
  "22187": {
   "name": "Bay FC",
@@ -3267,7 +3375,8 @@
    "stewardship": "Sixth Street investment firm majority, also owns Sunderland Women stake",
    "women": "women's club, well-supported",
    "intensity": "counter-attacking, mixed"
-  }
+  },
+  "state": false
  },
  "131562": {
   "name": "Boston Legacy FC",
@@ -3297,7 +3406,8 @@
    "stewardship": "local women-led group, long-term stadium investment",
    "women": "women's club, ~10,600 average in year one",
    "intensity": "new side, estimate mixed"
-  }
+  },
+  "state": false
  },
  "131563": {
   "name": "Denver Summit FC",
@@ -3327,7 +3437,8 @@
    "stewardship": "local Cohen group, record $110m fee, stadium planned",
    "women": "women's club with big early following",
    "intensity": "Cushing (ex-Man City) front-foot approach (estimate)"
-  }
+  },
+  "state": false
  },
  "9729": {
   "name": "Charleston Battery",
@@ -3357,7 +3468,8 @@
    "stewardship": "local owner",
    "women": "none",
    "intensity": "attacking, pressing"
-  }
+  },
+  "state": false
  },
  "17360": {
   "name": "Indy Eleven",
@@ -3387,7 +3499,8 @@
    "stewardship": "Ozdemir; stadium plans stalled",
    "women": "Women's team won USL W League 2023",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "17361": {
   "name": "Tampa Bay Rowdies",
@@ -3417,7 +3530,8 @@
    "stewardship": "Zalupski group since 2025",
    "women": "none",
    "intensity": "front-foot, estimate"
-  }
+  },
+  "state": false
  },
  "17827": {
   "name": "Pittsburgh Riverhounds",
@@ -3447,7 +3561,8 @@
    "stewardship": "Tuffy Shallenberger, local",
    "women": "None",
    "intensity": "Lilley hard-working, organised"
-  }
+  },
+  "state": false
  },
  "17828": {
   "name": "Sacramento Republic FC",
@@ -3477,7 +3592,8 @@
    "stewardship": "Wilton Rancheria majority, privately financed Railyards stadium 2028",
    "women": "no women's team found",
    "intensity": "Collins side with many draws, mixed"
-  }
+  },
+  "state": false
  },
  "17830": {
   "name": "Colorado Springs Switchbacks FC",
@@ -3507,7 +3623,8 @@
    "stewardship": "local owner built stadium",
    "women": "none",
    "intensity": "average"
-  }
+  },
+  "state": false
  },
  "17832": {
   "name": "Louisville City FC",
@@ -3537,7 +3654,8 @@
    "stewardship": "Local owner Soccer Holdings built the stadium",
    "women": "Sister NWSL club Racing Louisville shares owner and stadium",
    "intensity": "Front-foot, intense side under Danny Cruz"
-  }
+  },
+  "state": false
  },
  "17850": {
   "name": "Phoenix Rising FC",
@@ -3567,7 +3685,8 @@
    "stewardship": "Pablo Prichard",
    "women": "None",
    "intensity": "Estimate"
-  }
+  },
+  "state": false
  },
  "18159": {
   "name": "Miami FC",
@@ -3597,7 +3716,8 @@
    "stewardship": "Riccardo Silva, private",
    "women": "None",
    "intensity": "Weak, high-churn side"
-  }
+  },
+  "state": false
  },
  "18265": {
   "name": "San Antonio FC",
@@ -3627,7 +3747,8 @@
    "stewardship": "Spurs Sports & Entertainment, stable",
    "women": "none",
    "intensity": "mixed"
-  }
+  },
+  "state": false
  },
  "18446": {
   "name": "FC Tulsa",
@@ -3657,7 +3778,8 @@
    "stewardship": "Local Craft family",
    "women": "No women's team",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "18455": {
   "name": "Orange County SC",
@@ -3687,7 +3809,8 @@
    "stewardship": "James Keston, stable",
    "women": "None",
    "intensity": "Estimate"
-  }
+  },
+  "state": false
  },
  "18987": {
   "name": "Las Vegas Lights FC",
@@ -3717,7 +3840,8 @@
    "stewardship": "Bautista group; no home ground for 2027",
    "women": "No women's team",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "19179": {
   "name": "Detroit City FC",
@@ -3747,7 +3871,8 @@
    "stewardship": "Founded and still controlled by five local residents",
    "women": "Women's team in the amateur/pre-pro tier since 2020",
    "intensity": "Front-foot by repute; style not verified (estimate)"
-  }
+  },
+  "state": false
  },
  "19405": {
   "name": "Birmingham Legion FC",
@@ -3777,7 +3902,8 @@
    "stewardship": "local business group",
    "women": "no women's team",
    "intensity": "no identity, coach churn"
-  }
+  },
+  "state": false
  },
  "19407": {
   "name": "El Paso Locomotive FC",
@@ -3807,7 +3933,8 @@
    "stewardship": "Local MountainStar group",
    "women": "No women's team",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "19408": {
   "name": "New Mexico United",
@@ -3837,7 +3964,8 @@
    "stewardship": "Local owner Peter Trevisani",
    "women": "None",
    "intensity": "Estimate"
-  }
+  },
+  "state": false
  },
  "19410": {
   "name": "Loudoun United FC",
@@ -3867,7 +3995,8 @@
    "stewardship": "Attain Sports majority, D.C. United minority",
    "women": "USL W League side from 2026 (amateur)",
    "intensity": "Unknown; estimate mid"
-  }
+  },
+  "state": false
  },
  "19411": {
   "name": "Hartford Athletic",
@@ -3897,7 +4026,8 @@
    "stewardship": "Local Hartford Sports Group",
    "women": "No women's team",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "20687": {
   "name": "Oakland Roots",
@@ -3927,7 +4057,8 @@
    "stewardship": "Founders and community investors",
    "women": "Sister club Oakland Soul (USL W League)",
    "intensity": "Estimate"
-  }
+  },
+  "state": false
  },
  "21370": {
   "name": "Monterey Bay",
@@ -3957,7 +4088,8 @@
    "stewardship": "Regional businessman Ray Beshoff",
    "women": "None",
    "intensity": "Estimate"
-  }
+  },
+  "state": false
  },
  "21822": {
   "name": "Lexington",
@@ -3987,7 +4119,8 @@
    "stewardship": "Local owners built stadium",
    "women": "Women's team 2nd in USL Super League",
    "intensity": "No style evidence (estimate)"
-  }
+  },
+  "state": false
  },
  "22164": {
   "name": "Rhode Island FC",
@@ -4017,7 +4150,8 @@
    "stewardship": "local owners Brett Johnson and ex-player Michael Parkhurst",
    "women": "no women's team found",
    "intensity": "mixed, estimate"
-  }
+  },
+  "state": false
  },
  "131578": {
   "name": "Sporting JAX",
@@ -4047,7 +4181,8 @@
    "stewardship": "local owners Caplin, Tebow, Taylor",
    "women": "women's USL Super League team since 2025 defines the club",
    "intensity": "new side, estimate"
-  }
+  },
+  "state": false
  },
  "131579": {
   "name": "Brooklyn FC",
@@ -4077,7 +4212,8 @@
    "stewardship": "NY family office",
    "women": "USL Super League side since 2024",
    "intensity": "no identity"
-  }
+  },
+  "state": false
  },
  "101": {
   "name": "Rayo Vallecano",
@@ -4112,7 +4248,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Rayo_Vallecano"
-  ]
+  ],
+  "state": false
  },
  "1538": {
   "name": "Levante",
@@ -4148,7 +4285,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Levante_UD",
    "https://en.wikipedia.org/wiki/Levante_UD_Femenino"
-  ]
+  ],
+  "state": false
  },
  "243": {
   "name": "Sevilla",
@@ -4183,7 +4321,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Sevilla_FC"
-  ]
+  ],
+  "state": false
  },
  "2922": {
   "name": "Getafe",
@@ -4219,7 +4358,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Getafe_CF",
    "https://www.espn.com/soccer/story/_/id/39865322/getafe-get-3-game-partial-stadium-ban-racist-insults"
-  ]
+  ],
+  "state": false
  },
  "3751": {
   "name": "Elche",
@@ -4254,7 +4394,8 @@
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/Elche_CF"
-  ]
+  ],
+  "state": false
  },
  "85": {
   "name": "Celta Vigo",
@@ -4289,7 +4430,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
-  ]
+  ],
+  "state": false
  },
  "87": {
   "name": "Racing Santander",
@@ -4324,7 +4466,8 @@
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/Racing_de_Santander"
-  ]
+  ],
+  "state": false
  },
  "88": {
   "name": "Espanyol",
@@ -4361,7 +4504,8 @@
    "https://en.wikipedia.org/wiki/RCD_Espanyol",
    "https://www.si.com/soccer/2020/01/28/inaki-williams-racism-espanyol-fans-athletic-bilbao",
    "https://global.espn.com/football/story/_/id/43874206/espanyol-vs-athletic-club-marred-maroan-sannadi-racist-abuse"
-  ]
+  ],
+  "state": false
  },
  "89": {
   "name": "Real Sociedad",
@@ -4397,7 +4541,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Real_Sociedad",
    "https://en.wikipedia.org/wiki/Real_Sociedad_(women)"
-  ]
+  ],
+  "state": false
  },
  "90": {
   "name": "Deportivo",
@@ -4433,7 +4578,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña",
    "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña_(women)"
-  ]
+  ],
+  "state": false
  },
  "93": {
   "name": "Athletic Club",
@@ -4469,7 +4615,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Athletic_Bilbao",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
-  ]
+  ],
+  "state": false
  },
  "94": {
   "name": "Valencia",
@@ -4505,7 +4652,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Valencia_CF",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
-  ]
+  ],
+  "state": false
  },
  "96": {
   "name": "Alavés",
@@ -4541,7 +4689,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Deportivo_Alav%C3%A9s",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liga_F"
-  ]
+  ],
+  "state": false
  },
  "97": {
   "name": "Osasuna",
@@ -4576,7 +4725,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/CA_Osasuna"
-  ]
+  ],
+  "state": false
  },
  "99": {
   "name": "Málaga",
@@ -4611,7 +4761,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/M%C3%A1laga_CF"
-  ]
+  ],
+  "state": false
  },
  "103": {
   "name": "AC Milan",
@@ -4646,7 +4797,8 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/AC_Milan"
-  ]
+  ],
+  "state": false
  },
  "105": {
   "name": "Atalanta",
@@ -4681,7 +4833,8 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Atalanta_BC"
-  ]
+  ],
+  "state": false
  },
  "107": {
   "name": "Bologna",
@@ -4716,7 +4869,8 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Bologna_FC_1909"
-  ]
+  ],
+  "state": false
  },
  "109": {
   "name": "Fiorentina",
@@ -4751,7 +4905,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/ACF_Fiorentina"
-  ]
+  ],
+  "state": false
  },
  "111": {
   "name": "Juventus",
@@ -4786,7 +4941,8 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Juventus_FC"
-  ]
+  ],
+  "state": false
  },
  "112": {
   "name": "Lazio",
@@ -4822,7 +4978,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/SS_Lazio",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
-  ]
+  ],
+  "state": false
  },
  "113": {
   "name": "Lecce",
@@ -4857,7 +5014,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/US_Lecce"
-  ]
+  ],
+  "state": false
  },
  "115": {
   "name": "Parma",
@@ -4893,7 +5051,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Parma_Calcio_1913",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
-  ]
+  ],
+  "state": false
  },
  "118": {
   "name": "Udinese",
@@ -4928,7 +5087,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Udinese_Calcio"
-  ]
+  ],
+  "state": false
  },
  "17530": {
   "name": "Venezia",
@@ -4963,7 +5123,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Venezia_FC"
-  ]
+  ],
+  "state": false
  },
  "239": {
   "name": "Torino",
@@ -4998,7 +5159,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Torino_FC"
-  ]
+  ],
+  "state": false
  },
  "2925": {
   "name": "Cagliari",
@@ -5033,7 +5195,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Cagliari_Calcio"
-  ]
+  ],
+  "state": false
  },
  "3263": {
   "name": "Genoa",
@@ -5069,7 +5232,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Genoa_CFC",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
-  ]
+  ],
+  "state": false
  },
  "3997": {
   "name": "Sassuolo",
@@ -5105,7 +5269,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/US_Sassuolo_Calcio",
    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A_(women)"
-  ]
+  ],
+  "state": false
  },
  "4007": {
   "name": "Monza",
@@ -5140,7 +5305,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/AC_Monza"
-  ]
+  ],
+  "state": false
  },
  "4057": {
   "name": "Frosinone",
@@ -5175,7 +5341,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Frosinone_Calcio"
-  ]
+  ],
+  "state": false
  },
  "167": {
   "name": "Lyon",
@@ -5211,7 +5378,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Olympique_Lyonnais",
    "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
-  ]
+  ],
+  "state": false
  },
  "169": {
   "name": "Stade Rennais",
@@ -5246,7 +5414,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Stade_Rennais_FC"
-  ]
+  ],
+  "state": false
  },
  "170": {
   "name": "Troyes",
@@ -5281,7 +5450,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/ES_Troyes_AC"
-  ]
+  ],
+  "state": true
  },
  "172": {
   "name": "AJ Auxerre",
@@ -5316,7 +5486,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/AJ_Auxerre"
-  ]
+  ],
+  "state": false
  },
  "174": {
   "name": "AS Monaco",
@@ -5351,7 +5522,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/AS_Monaco_FC"
-  ]
+  ],
+  "state": false
  },
  "176": {
   "name": "Marseille",
@@ -5387,7 +5559,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Olympique_de_Marseille",
    "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
-  ]
+  ],
+  "state": false
  },
  "179": {
   "name": "Toulouse",
@@ -5422,7 +5595,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Toulouse_FC"
-  ]
+  ],
+  "state": false
  },
  "180": {
   "name": "Strasbourg",
@@ -5458,7 +5632,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace",
    "https://en.wikipedia.org/wiki/2025–26_Première_Ligue"
-  ]
+  ],
+  "state": false
  },
  "2502": {
   "name": "Nice",
@@ -5493,7 +5668,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/OGC_Nice"
-  ]
+  ],
+  "state": false
  },
  "2697": {
   "name": "Le Mans",
@@ -5528,7 +5704,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Le_Mans_FC"
-  ]
+  ],
+  "state": false
  },
  "273": {
   "name": "Lorient",
@@ -5564,7 +5741,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/FC_Lorient",
    "https://fr.soccerway.com/actualites/football-ligue-2-deux-supporters-du-fc-lorient-condamnes-pour-violences/Y5bvE9Kc"
-  ]
+  ],
+  "state": false
  },
  "3236": {
   "name": "Le Havre AC",
@@ -5599,7 +5777,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Le_Havre_AC"
-  ]
+  ],
+  "state": false
  },
  "6851": {
   "name": "Paris FC",
@@ -5634,7 +5813,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Paris_FC"
-  ]
+  ],
+  "state": false
  },
  "6997": {
   "name": "Brest",
@@ -5669,7 +5849,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Stade_Brestois_29"
-  ]
+  ],
+  "state": false
  },
  "7868": {
   "name": "Angers",
@@ -5704,7 +5885,8 @@
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/Angers_SCO"
-  ]
+  ],
+  "state": false
  },
  "314": {
   "name": "Lincoln City",
@@ -5739,7 +5921,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
-  ]
+  ],
+  "state": false
  },
  "318": {
   "name": "Swansea City",
@@ -5774,7 +5957,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
-  ]
+  ],
+  "state": false
  },
  "333": {
   "name": "Bristol City",
@@ -5810,7 +5994,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Bristol_City_F.C.",
    "https://www.thefa.com/news/2025/aug/26/bristol-city-sanctioned-260825"
-  ]
+  ],
+  "state": false
  },
  "334": {
   "name": "Queens Park Rangers",
@@ -5845,7 +6030,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
-  ]
+  ],
+  "state": false
  },
  "336": {
   "name": "Stoke City",
@@ -5880,7 +6066,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Stoke_City_F.C."
-  ]
+  ],
+  "state": false
  },
  "347": {
   "name": "Cardiff City",
@@ -5915,7 +6102,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Cardiff_City_F.C."
-  ]
+  ],
+  "state": false
  },
  "352": {
   "name": "Wrexham",
@@ -5950,7 +6138,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Wrexham_A.F.C."
-  ]
+  ],
+  "state": false
  },
  "358": {
   "name": "Bolton Wanderers",
@@ -5985,7 +6174,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Bolton_Wanderers_F.C."
-  ]
+  ],
+  "state": false
  },
  "365": {
   "name": "Blackburn Rovers",
@@ -6020,7 +6210,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C."
-  ]
+  ],
+  "state": false
  },
  "369": {
   "name": "Middlesbrough",
@@ -6055,7 +6246,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Middlesbrough_F.C."
-  ]
+  ],
+  "state": false
  },
  "371": {
   "name": "West Ham United",
@@ -6090,7 +6282,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/West_Ham_United_F.C."
-  ]
+  ],
+  "state": false
  },
  "372": {
   "name": "Charlton Athletic",
@@ -6125,7 +6318,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Charlton_Athletic_F.C."
-  ]
+  ],
+  "state": false
  },
  "374": {
   "name": "Derby County",
@@ -6160,7 +6354,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Derby_County_F.C."
-  ]
+  ],
+  "state": false
  },
  "376": {
   "name": "Southampton",
@@ -6196,7 +6391,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Southampton_F.C.",
    "https://en.wikipedia.org/wiki/Sport_Republic"
-  ]
+  ],
+  "state": false
  },
  "379": {
   "name": "Burnley",
@@ -6232,7 +6428,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Burnley_F.C.",
    "https://lancashire.police.uk/news/2025/january/burnley-fan-banned-after-racially-abusing-blackburn-rovers-player"
-  ]
+  ],
+  "state": false
  },
  "380": {
   "name": "Wolverhampton Wanderers",
@@ -6268,7 +6465,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.",
    "https://www.sportcal.com/news/textor-launches-wolves-acquisition-bid-amid-efg-turmoil/"
-  ]
+  ],
+  "state": false
  },
  "381": {
   "name": "Norwich City",
@@ -6303,7 +6501,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Norwich_City_F.C."
-  ]
+  ],
+  "state": false
  },
  "383": {
   "name": "West Bromwich Albion",
@@ -6339,7 +6538,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C.",
    "https://www.expressandstar.com/sport/football/2024/07/23/west-brom-handed-fine-for-black-country-derby-trouble/"
-  ]
+  ],
+  "state": false
  },
  "385": {
   "name": "Portsmouth",
@@ -6374,7 +6574,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Portsmouth_F.C."
-  ]
+  ],
+  "state": false
  },
  "391": {
   "name": "Millwall",
@@ -6411,7 +6612,8 @@
    "https://en.wikipedia.org/wiki/Millwall_F.C.",
    "https://www.beinsports.com/en-au/football/carabao-cup/articles-video/millwall-fined-over-offensive-chanting-in-carabao-cup-tie-2026-03-10",
    "https://www.thepinknews.com/2025/07/01/millwall-fined-for-anti-gay-chant-ben-chilwell"
-  ]
+  ],
+  "state": false
  },
  "392": {
   "name": "Birmingham City",
@@ -6446,7 +6648,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Birmingham_City_F.C."
-  ]
+  ],
+  "state": false
  },
  "394": {
   "name": "Preston North End",
@@ -6482,7 +6685,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Preston_North_End_F.C.",
    "https://www.espn.com/soccer/story/_/id/46883459/preston-slam-fa-ban-milutin-osmajic-alleged-racist-comments-hannibal-mejbri"
-  ]
+  ],
+  "state": false
  },
  "395": {
   "name": "Watford",
@@ -6518,7 +6722,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Watford_F.C.",
    "https://www.calcioefinanza.it/2025/05/25/udinese-ceduta-fondo-usa-si-chiude-era-pozzo/"
-  ]
+  ],
+  "state": false
  },
  "398": {
   "name": "Sheffield United",
@@ -6554,7 +6759,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Sheffield_United_F.C.",
    "https://www.lbc.co.uk/news/sport/sheffield-united-in-crisis-owners-company-wound-up-high-court/"
-  ]
+  ],
+  "state": false
  },
  "227": {
   "name": "América",
@@ -6591,7 +6797,8 @@
    "https://en.wikipedia.org/wiki/Club_América",
    "https://en.wikipedia.org/wiki/Liga_MX_Femenil",
    "https://www.foxsports.com.mx/2023/02/28/castigan-a-grupos-de-animacion-del-america-y-rayados-sin-acudir-a-sus-estadios/"
-  ]
+  ],
+  "state": false
  },
  "226": {
   "name": "Atlante",
@@ -6626,7 +6833,8 @@
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/Atlante_F.C."
-  ]
+  ],
+  "state": false
  },
  "216": {
   "name": "Atlas",
@@ -6662,7 +6870,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Atlas_F.C.",
    "https://www.foxsports.com.mx/2024/10/21/disciplinaria-sanciona-con-veto-a-grupo-de-animacion-del-atlas-tras-lanzar-bengalas-en-juego-contra-mazatlan/"
-  ]
+  ],
+  "state": false
  },
  "15720": {
   "name": "Atlético de San Luis",
@@ -6699,7 +6908,8 @@
    "https://en.wikipedia.org/wiki/Atlético_San_Luis",
    "https://africa.espn.com/football/story/_/id/46917268/us-based-firm-apollo-buys-majority-stake-atletico-madrid",
    "https://www.tudn.com/futbol/liga-mx/castigo-racismo-felix-torres-german-berterame-san-luis-santos"
-  ]
+  ],
+  "state": false
  },
  "218": {
   "name": "Cruz Azul",
@@ -6736,7 +6946,8 @@
    "https://en.wikipedia.org/wiki/Cruz_Azul",
    "https://www.mediotiempo.com/futbol/liga-mx/cruz-azul-recibe-sancion-un-partido-veto-grito-homofobico",
    "https://www.foxsports.com.mx/2025/12/04/grito-homofobico-se-hizo-presente-en-semifinales-de-ida-no-se-llevo-a-cabo-protocolo-de-liga-mx-video/"
-  ]
+  ],
+  "state": false
  },
  "17851": {
   "name": "FC Juárez",
@@ -6771,7 +6982,8 @@
   "confidence": "low",
   "sources": [
    "https://en.wikipedia.org/wiki/FC_Juárez"
-  ]
+  ],
+  "state": false
  },
  "219": {
   "name": "Guadalajara",
@@ -6809,7 +7021,8 @@
    "https://en.wikipedia.org/wiki/Liga_MX_Femenil",
    "https://es.soccerway.com/noticias/futbol-concacaf-champions-cup-concacaf-investigara-los-gritos-racistas-contra-quinones-en-guadalajara/nHy29Uz9",
    "https://www.sdpnoticias.com/deportes/club-chivas-mal-y-de-malas-recibe-dura-sancion-por-comportamiento-de-sus-fans-en-la-final-vs-club-tigres/"
-  ]
+  ],
+  "state": false
  },
  "228": {
   "name": "León",
@@ -6845,7 +7058,8 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Club_León",
    "https://www.publimetro.com.mx/deportes/2022/04/06/liga-mx-barra-del-leon-es-castigada-con-un-juego-de-veto/"
-  ]
+  ],
+  "state": false
  },
  "220": {
   "name": "Monterrey",
@@ -6882,7 +7096,8 @@
    "https://en.wikipedia.org/wiki/C.F._Monterrey",
    "https://en.wikipedia.org/wiki/Liga_MX_Femenil",
    "https://www.foxsports.com.mx/2023/02/28/castigan-a-grupos-de-animacion-del-america-y-rayados-sin-acudir-a-sus-estadios/"
-  ]
+  ],
+  "state": false
  },
  "229": {
   "name": "Necaxa",
@@ -6917,7 +7132,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Club_Necaxa"
-  ]
+  ],
+  "state": false
  },
  "234": {
   "name": "Pachuca",
@@ -6952,7 +7168,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/C.F._Pachuca"
-  ]
+  ],
+  "state": false
  },
  "231": {
   "name": "Puebla",
@@ -6987,7 +7204,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Club_Puebla"
-  ]
+  ],
+  "state": false
  },
  "233": {
   "name": "Pumas UNAM",
@@ -7022,7 +7240,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Club_Universidad_Nacional"
-  ]
+  ],
+  "state": false
  },
  "222": {
   "name": "Querétaro",
@@ -7057,7 +7276,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Querétaro_F.C."
-  ]
+  ],
+  "state": false
  },
  "225": {
   "name": "Santos",
@@ -7092,7 +7312,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Santos_Laguna"
-  ]
+  ],
+  "state": false
  },
  "232": {
   "name": "Tigres UANL",
@@ -7127,7 +7348,8 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Tigres_UANL"
-  ]
+  ],
+  "state": false
  },
  "10125": {
   "name": "Tijuana",
@@ -7162,7 +7384,8 @@
   "confidence": "medium",
   "sources": [
    "https://en.wikipedia.org/wiki/Club_Tijuana"
-  ]
+  ],
+  "state": false
  },
  "223": {
   "name": "Toluca",
@@ -7197,6 +7420,2012 @@
   "confidence": "high",
   "sources": [
    "https://en.wikipedia.org/wiki/Deportivo_Toluca_F.C."
-  ]
+  ],
+  "state": false
+ },
+ "1010": {
+  "name": "OFI Crete",
+  "src": "OFI Crete",
+  "terrace": 5,
+  "city": 7.5,
+  "voice": 1.5,
+  "conscience": 4,
+  "ground": 3.5,
+  "contender": 4,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   35.33,
+   25.1
+  ],
+  "why": {
+   "terrace": "Organised groups (Snakes 4 Heraklion, S.F. Cretans); Greek ultra culture, little profile abroad.",
+   "city": "Heraklion's main club, Cretan identity; shares the city with Ergotelis.",
+   "voice": "Privately owned; no documented supporter influence.",
+   "conscience": "Nothing notable found in the searches made; little visible inclusion work (estimate).",
+   "ground": "Moved to the 26,240 Pankritio (athletics bowl) for 2025-26 as historic Yedi Kule could no longer be licensed.",
+   "contender": "Mid-table (7th-12th since 2020); won the 2026 Greek Cup over PAOK and the 2026 Super Cup.",
+   "rituals": "Black-and-white colours from Cretan dress, Cretan derby, friendship with PAOK fans; local renown.",
+   "stewardship": "Michael Bousis (Greek-American businessman), majority owner and president since 2018-20.",
+   "women": "OFI Crete W.F.C. exists as a sister department; level and support unclear (estimate).",
+   "intensity": "Estimate; no clear pressing identity documented."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OFI_Crete_F.C."
+  ],
+  "state": false
+ },
+ "11505": {
+  "name": "Jagiellonia Bialystok",
+  "src": "Jagiellonia Bialystok",
+  "terrace": 6,
+  "city": 8.5,
+  "voice": 3,
+  "conscience": 2,
+  "ground": 5.5,
+  "contender": 7,
+  "rituals": 4.5,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   53.11,
+   23.15
+  ],
+  "why": {
+   "terrace": "Organised Polish ultra scene, pyro-heavy; known in Poland.",
+   "city": "Only major club of Bialystok and the Podlasie region; colours from the city crest.",
+   "voice": "Estimate; no documented supporter ownership or formal fan power found.",
+   "conscience": "UEFA fined the club EUR 10,000 with a suspended partial closure for racist/discriminatory fan behaviour (2025 Conference League qualifier v Novi Pazar).",
+   "ground": "Chorten Arena, 22,432, modern; average crowds well below capacity (about 9,500 in 2018-19).",
+   "contender": "First Ekstraklasa title 2023-24, then 3rd and 3rd; Conference League quarter-final 2025.",
+   "rituals": "Yellow-red colours, club anthem; little renown outside Poland.",
+   "stewardship": "Estimate; owner not identified in sources opened (chairman post vacant); no reported issues.",
+   "women": "Estimate; no notable women's side found.",
+   "intensity": "Attacking, possession-and-tempo side under Adrian Siemieniec, noted for attacking flair in Europe."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jagiellonia_Bia%C5%82ystok",
+   "https://pl.soccerway.com/wiadomosci/pi-ka-nozna-liga-mistrzow-uefa-ukara-a-lecha-i-jagiellonie-za-zachowanie-kibicow-na-arenie-miedzynarodowej/6NAAqw8E"
+  ],
+  "state": false
+ },
+ "11706": {
+  "name": "Viktoria Plzen",
+  "src": "Viktoria Plzen",
+  "terrace": 4.5,
+  "city": 8,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3.5,
+  "stewardship": 4.5,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   49.75,
+   13.39
+  ],
+  "why": {
+   "terrace": "Organised home end, loud on European nights; not famous beyond Czechia.",
+   "city": "Plzen's club and identity, a working brewing and industrial city.",
+   "voice": "Privately owned; no documented supporter influence.",
+   "conscience": "UEFA fined EUR 15,000 plus a suspended partial closure for a 'We need to fight the Turks' banner v Fenerbahce (Nov 2025).",
+   "ground": "Doosan Arena, 11,700, compact and rebuilt 2011; full for Europe.",
+   "contender": "Six Czech titles (last 2021-22); 2nd 2024-25, 3rd 2025-26; regular group-stage club.",
+   "rituals": "Beer-city identity (Pilsner Urquell, beer-can dugout); limited renown.",
+   "stewardship": "FCVP GmbH (Austrian investors Martin Dellenbach and Raphael Landthaler) majority since 2023; Adolf Sadek minority and chairman.",
+   "women": "Estimate; women's side not prominent.",
+   "intensity": "Direct, physical, aggressive pressing side under Miroslav Koubek (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Viktoria_Plze%C5%88",
+   "https://cc.cz/adolf-sadek-ziskal-vytouzeneho-investora-pro-viktorii-plzen-prichazi-i-byvaly-prezident-rapidu-viden/"
+  ],
+  "state": false
+ },
+ "13083": {
+  "name": "Hapoel Be'er",
+  "src": "Hapoel Be'er",
+  "terrace": 5.5,
+  "city": 8.5,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 6,
+  "contender": 8.5,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   31.27,
+   34.78
+  ],
+  "why": {
+   "terrace": "UltraSouth ultras, loud and organised; known in Israel.",
+   "city": "Be'er Sheva's main club and the Negev's team ('the Reds from the South').",
+   "voice": "Privately owned; no documented supporter influence.",
+   "conscience": "Per a Levski Sofia statement (Oct 2025), UEFA fined the club EUR 30,000 and closed 500+ seats for hate/racist conduct at a home match v Levski (date unconfirmed).",
+   "ground": "Turner Stadium, 16,126, opened 2015; well filled.",
+   "contender": "Israeli champions 2025-26 (also 2016-18), State Cup 2020; perennial contender.",
+   "rituals": "Red-south identity, camel nickname; known locally.",
+   "stewardship": "Alona Barkat, owner since 2007; long-term private owner.",
+   "women": "Women's side exists; little detail (estimate).",
+   "intensity": "Estimate; dominant, front-foot title side recently."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hapoel_Be%27er_Sheva_F.C.",
+   "https://www.insideworldfootball.com/2025/10/21/levski-sofia-condemn-racist-abuse-suffered-mustapha-sangare/"
+  ],
+  "state": false
+ },
+ "140": {
+  "name": "AZ Alkmaar",
+  "src": "AZ Alkmaar",
+  "terrace": 4,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 3,
+  "stewardship": 5.5,
+  "women": 5,
+  "intensity": 7,
+  "ll": [
+   52.61,
+   4.74
+  ],
+  "why": {
+   "terrace": "Organised home end, modest profile; a violent fringe.",
+   "city": "Alkmaar's club and the region's top-flight team.",
+   "voice": "Privately held via AZ Holding B.V.; no documented supporter power.",
+   "conscience": "UEFA fined EUR 50,000 (plus suspended closed-doors match) after AZ fans attacked West Ham players' families, May 2023; 43 banned.",
+   "ground": "AFAS Stadion, 19,500, modern (2006), usually well filled.",
+   "contender": "Regular top-five side; 2nd 2020, KNVB Cup 2026 and Johan Cruyff Shield 2026; 7th in 2025-26.",
+   "rituals": "'Kaasboeren' nickname; few traditions known abroad.",
+   "stewardship": "AZ Holding B.V.; shareholders not identified in sources (estimate); stable, academy-led model.",
+   "women": "AZ Vrouwen in the Eredivisie Vrouwen (also national champions 2008-10).",
+   "intensity": "High-press, attacking youth-based style over recent seasons."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AZ_Alkmaar",
+   "https://nltimes.nl/node/67316"
+  ],
+  "state": false
+ },
+ "147": {
+  "name": "NEC Nijmegen",
+  "src": "NEC Nijmegen",
+  "terrace": 5,
+  "city": 8,
+  "voice": 3,
+  "conscience": 4.5,
+  "ground": 6,
+  "contender": 4.5,
+  "rituals": 4,
+  "stewardship": 5.5,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   51.82,
+   5.84
+  ],
+  "why": {
+   "terrace": "Loyal, loud support (Beckenbauer praised the away following); known within the Netherlands.",
+   "city": "Nijmegen's only professional club; strong local bond.",
+   "voice": "Estimate; 2021 restructuring placed shares in a foundation, documented fan power limited.",
+   "conscience": "Nothing notable found; ordinary community work (estimate).",
+   "ground": "Goffertstadion, 12,650, 1939 ground in a park, usually well filled.",
+   "contender": "3rd in 2025-26 (best ever); cup finals 2024 and 2026 lost; otherwise mid-table.",
+   "rituals": "Balkenshirt kept by fan vote (2016), Gelderse derby with Vitesse, Roman mascot.",
+   "stewardship": "Investor Marcel Boekhoorn the main financier; shares in a foundation (estimate on current structure).",
+   "women": "Estimate; no top-tier women's side found.",
+   "intensity": "Attacking, front-foot football under Dick Schreuder."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NEC_Nijmegen",
+   "https://www.fcupdate.nl/voetbalnieuws/2021/05/miljoeneninjectie-moet-nec-serieuze-eredivisionist-maken"
+  ],
+  "state": false
+ },
+ "1895": {
+  "name": "Besiktas",
+  "src": "Besiktas",
+  "terrace": 9,
+  "city": 6,
+  "voice": 7,
+  "conscience": 6,
+  "ground": 8.5,
+  "contender": 7,
+  "rituals": 7,
+  "stewardship": 7,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   41.04,
+   29.0
+  ],
+  "why": {
+   "terrace": "Carsi, working-class and left-wing, famous beyond Turkey; 132 dB record v Liverpool 2007.",
+   "city": "The Besiktas district's identity; shares Istanbul with Fenerbahce and Galatasaray.",
+   "voice": "Member association; members' congress elects the president (Serdal Adali).",
+   "conscience": "Carsi's anti-fascist, solidarity tradition (Gezi 2013, earthquake toy throw 2023); no recent racism sanction found; 2018 cup tie abandoned after coach hit.",
+   "ground": "Besiktas Stadium, 42,684, by Dolmabahce on the Bosphorus, steep and famously loud.",
+   "contender": "Super Lig and Cup double 2020-21, Cup 2024, Super Cups 2021 and 2024; 4th 2024-25 and 2025-26.",
+   "rituals": "'Carsi her seye karsi', Black Eagles; chants and tifo known across Europe.",
+   "stewardship": "Member-run multi-sport club since 1903; heavy debt is the main issue.",
+   "women": "Top-tier women's team, Turkish champions in recent years (estimate on titles).",
+   "intensity": "New coach Vincenzo Italiano (June 2026) brings high pressing; recent seasons mixed."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_J.K."
+  ],
+  "state": false
+ },
+ "1929": {
+  "name": "Benfica",
+  "src": "Benfica",
+  "terrace": 7,
+  "city": 7,
+  "voice": 8,
+  "conscience": 2.5,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 7,
+  "stewardship": 8,
+  "women": 8,
+  "intensity": 6,
+  "ll": [
+   38.75,
+   -9.18
+  ],
+  "why": {
+   "terrace": "Large organised groups (No Name Boys, Diabos Vermelhos); known across Portugal.",
+   "city": "Lisbon's and Portugal's biggest club; shares Lisbon with Sporting.",
+   "voice": "Member club: socios elect the president (Rui Costa); 2025 statutes reformed voting and term limits.",
+   "conscience": "UEFA fined EUR 40,000 for racist/discriminatory fan conduct v Real Madrid (Feb 2026), suspended partial closure; five fans suspended.",
+   "ground": "Estadio da Luz, 68,100; averages about 57,000 (89%), large modern bowl.",
+   "contender": "38 titles, last 2022-23; perennial contender; 3rd in 2025-26.",
+   "rituals": "'Ser Benfiquista' sung before every home match, the eagle Vitoria's flight.",
+   "stewardship": "Club (members) controls Benfica SAD; listed company with minority shareholders.",
+   "women": "Women's team won four straight Portuguese titles (2021-24) and reached the Women's Champions League quarter-finals.",
+   "intensity": "Pressing under Schmidt; more pragmatic under Mourinho since 2025 (mixed)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.L._Benfica",
+   "https://global.espn.com/football/story/_/id/48305802/benfica-fined-fans-racism-real-madrid-game-prestianni-probe"
+  ],
+  "state": false
+ },
+ "20024": {
+  "name": "Ararat-Armenia",
+  "src": "Ararat-Armenia",
+  "terrace": 0.5,
+  "city": 1.5,
+  "voice": 0.5,
+  "conscience": 3,
+  "ground": 1,
+  "contender": 9,
+  "rituals": 0.5,
+  "stewardship": 1,
+  "women": 1,
+  "intensity": 5.5,
+  "ll": [
+   40.22,
+   44.57
+  ],
+  "why": {
+   "terrace": "No notable supporter group found.",
+   "city": "Founded 2017; one of several Yerevan clubs, little local bond.",
+   "voice": "Owner-run; no supporter influence.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Yerevan Football Academy Stadium, 1,428 seats.",
+   "contender": "Armenian champions 2019, 2020 and 2025-26, Cup 2024; top three almost every season.",
+   "rituals": "None known.",
+   "stewardship": "Samvel Karapetyan, Russian-Armenian billionaire (Tashir group), owner since 2018: oligarch ownership.",
+   "women": "Estimate; no notable women's side found.",
+   "intensity": "Estimate; no documented style."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Ararat-Armenia"
+  ],
+  "state": false
+ },
+ "21615": {
+  "name": "Torreense",
+  "src": "Torreense",
+  "terrace": 2,
+  "city": 6,
+  "voice": 6,
+  "conscience": 4,
+  "ground": 3,
+  "contender": 5,
+  "rituals": 1,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 5,
+  "ll": [
+   39.09,
+   -9.26
+  ],
+  "why": {
+   "terrace": "No organised singing end documented (estimate)",
+   "city": "Main club of Torres Vedras, a small town of ~80,000; founded 1917",
+   "voice": "The club bought back majority control of its SAD (about 86%) from a Chinese investor",
+   "conscience": "Nothing notable found; little documented inclusion work (estimate)",
+   "ground": "Estádio Manuel Marques, 2,431 seats; plays 2026-27 Europa League games in Leiria",
+   "contender": "Liga Portugal 2: 3rd in 2025-26, lost promotion play-off; won the 2025-26 Taça de Portugal 2-1 v Sporting",
+   "rituals": "No widely known rituals",
+   "stewardship": "Club (members' association) holds the majority of its SAD; no outside owner found",
+   "women": "Women's side exists with its own article; top-tier status not confirmed (estimate)",
+   "intensity": "Luís Tralhão since Jan 2026; no clear style documented (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.C.U._Torreense"
+  ],
+  "state": false
+ },
+ "256": {
+  "name": "Celtic",
+  "src": "Celtic",
+  "terrace": 9,
+  "city": 7,
+  "voice": 3,
+  "conscience": 6,
+  "ground": 9,
+  "contender": 10,
+  "rituals": 8,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 7,
+  "ll": [
+   55.85,
+   -4.21
+  ],
+  "why": {
+   "terrace": "Green Brigade ultras and safe-standing section, known well beyond Scotland",
+   "city": "Shares Glasgow with Rangers; identity of the city's Irish-Catholic community and East End",
+   "voice": "Celtic PLC, listed; fans hold shares but no control; club suspended ~250 Green Brigade season tickets in 2023",
+   "conscience": "Bhoys Against Bigotry, Green Brigade BLM and Palestine charity work; UEFA fines are for political banners and pyro (e.g. Atlético 2024), not racism",
+   "ground": "Celtic Park, 60,411, Scotland's largest, routinely full and loud",
+   "contender": "Scottish Premiership champions 2025 and 2025-26; perennial champion",
+   "rituals": "You'll Never Walk Alone before European nights, the huddle, Fields of Athenry; 2017 FIFA Fan Award tifo",
+   "stewardship": "Celtic PLC (stock-listed); largest shareholder Dermot Desmond (estimate); conventional, financially prudent",
+   "women": "Women's team in SWPL; league champions 2023-24 (estimate)",
+   "intensity": "Dominant, attacking, possession-heavy side domestically"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Celtic_F.C.",
+   "https://en.wikipedia.org/wiki/Green_Brigade"
+  ],
+  "state": false
+ },
+ "2790": {
+  "name": "RB Salzburg",
+  "src": "RB Salzburg",
+  "terrace": 2,
+  "city": 3,
+  "voice": 0,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 0,
+  "women": 1,
+  "intensity": 9,
+  "ll": [
+   47.82,
+   13.0
+  ],
+  "why": {
+   "terrace": "Small ultras scene; traditional fans left in 2005 to form SV Austria Salzburg",
+   "city": "Red Bull rebrand of Austria Salzburg; stadium in suburban Wals-Siezenheim; weak local bond",
+   "voice": "None; 2005 fan protests over colours and name ignored, fans left",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Red Bull Arena, 30,188, often far from full (estimate)",
+   "contender": "17 titles, 10 in a row to 2023; 2nd in 2024 and 2025 behind Sturm, 3rd in 2025-26",
+   "rituals": "No widely known rituals",
+   "stewardship": "Red Bull GmbH; part of the Red Bull multi-club network with RB Leipzig",
+   "women": "No women's team found (estimate)",
+   "intensity": "Red Bull high-press, high-tempo identity; Danny Röhl coach"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg"
+  ],
+  "state": false
+ },
+ "2990": {
+  "name": "Lech Poznan",
+  "src": "Lech Poznan",
+  "terrace": 7,
+  "city": 8,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 7,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   52.4,
+   16.86
+  ],
+  "why": {
+   "terrace": "Large organised ultras; 'The Poznan' celebration known abroad",
+   "city": "Kolejorz, Poznań's main club with railway roots; the city lives through it",
+   "voice": "No supporter ownership; ultras boycotts but no formal say (estimate)",
+   "conscience": "Ultras described as far-right; UEFA fine for a 'Kosovo is Serbia' banner (2025), Madrid street clash Nov 2025; racism sanctions 2013, 2015",
+   "ground": "Poznań Stadium, 42,837, among Poland's best-attended (estimate)",
+   "contender": "Ekstraklasa champions 2024-25 and 2025-26; ten titles",
+   "rituals": "'The Poznan' (backs to the pitch, arms linked, jumping), in the Cambridge Dictionary",
+   "stewardship": "Rutkowski family (Piotr two-thirds, Maja one-third), local long-term owners",
+   "women": "Women's section since 2021, promoted to the top division",
+   "intensity": "Niels Frederiksen's attacking, high-scoring title sides (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lech_Pozna%C5%84"
+  ],
+  "state": false
+ },
+ "3362": {
+  "name": "NK Celje",
+  "src": "NK Celje",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 7,
+  "ll": [
+   46.24,
+   15.27
+  ],
+  "why": {
+   "terrace": "Celjski Grofje 1992 on the north stand; small",
+   "city": "Celje's only top-flight club; modest following (league average ~2,000 in 2023-24)",
+   "voice": "Association holds 26% of the operating company; no real fan influence",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Stadion Z'dežele, 13,059; full only for big European nights",
+   "contender": "PrvaLiga champions 2020, 2024, 2026; Slovenian Cup 2025; Conference League quarter-final 2025",
+   "rituals": "No widely known rituals",
+   "stewardship": "Sport Invest d.o.o. holds 74%; Russian investor group around Maxim Demin, president Valeriy Kolotilo",
+   "women": "No women's team found (estimate)",
+   "intensity": "Possession-based, attacking style built under Albert Riera (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NK_Celje"
+  ],
+  "state": false
+ },
+ "3746": {
+  "name": "SK Sturm Graz",
+  "src": "SK Sturm Graz",
+  "terrace": 7,
+  "city": 7,
+  "voice": 7,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 4,
+  "stewardship": 9,
+  "women": 5,
+  "intensity": 8,
+  "ll": [
+   47.05,
+   15.46
+  ],
+  "why": {
+   "terrace": "Nordkurve groups Jewels Sturm and Brigata Graz (1994); loud, known in Austria",
+   "city": "Graz's bigger club, sharing the city with Grazer AK",
+   "voice": "Member club, 20,400 members; the association owns 100% of the pro company",
+   "conscience": "Nothing notable found; no UEFA fan sanctions found 2024-25 (estimate)",
+   "ground": "Merkur Arena, ~16,000, shared with GAK; well filled (estimate)",
+   "contender": "Austrian champions 2024 and 2025, runners-up 2025-26",
+   "rituals": "Fan friendships (Werder Bremen, Karlsruhe); no widely known rituals",
+   "stewardship": "Member-owned; president Christian Jauk",
+   "women": "Women's team in the ÖFB Frauen-Bundesliga",
+   "intensity": "High-press, transition identity under Ilzer and successors (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SK_Sturm_Graz",
+   "https://de.wikipedia.org/wiki/SK_Sturm_Graz"
+  ],
+  "state": false
+ },
+ "433": {
+  "name": "Sparta Prague",
+  "src": "Sparta Prague",
+  "terrace": 6,
+  "city": 6,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   50.1,
+   14.42
+  ],
+  "why": {
+   "terrace": "Letenští ultras; loud, known in Czech football",
+   "city": "Shares Prague with Slavia; one of the two big city clubs",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Racist abuse of Tchouaméni (2021, UEFA charge and crowd ban); fans' Nazi salutes in Olomouc May 2025 (club issued lifetime bans)",
+   "ground": "Letná (epet ARENA), 18,349, compact",
+   "contender": "Czech champions 2023 and 2024; 2nd in 2025-26; 38 titles",
+   "rituals": "Prague derby with Slavia; few rituals known abroad",
+   "stewardship": "J&T Credit Investments 60%, Daniel Křetínský 40%; billionaire ownership",
+   "women": "Women's side in the Czech top tier (estimate)",
+   "intensity": "Brian Priske's front-foot sides (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Sparta_Prague"
+  ],
+  "state": false
+ },
+ "435": {
+  "name": "Olympiacos",
+  "src": "Olympiacos",
+  "terrace": 9,
+  "city": 9,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 8,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 2,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   37.95,
+   23.66
+  ],
+  "why": {
+   "terrace": "Gate 7 ultras, famous across Europe for intimidating atmospheres",
+   "city": "Piraeus's club, seen as the port's working-class, anti-establishment side v Athens",
+   "voice": "No supporter ownership or documented influence",
+   "conscience": "Police officer killed by a flare at an Olympiacos v Panathinaikos volleyball match (Dec 2023); 142 fans on trial for criminal organisation and violence (2025)",
+   "ground": "Karaiskakis Stadium, 33,334, intimidating and well filled",
+   "contender": "Conference League 2024; double 2024-25; 2nd in 2025-26",
+   "rituals": "Gate 7 tragedy commemoration (1981) each February (estimate)",
+   "stewardship": "Evangelos Marinakis, shipping magnate; multi-club with Nottingham Forest and Rio Ave; on trial (2025) for allegedly backing a violent fan group",
+   "women": "Women's team in the Greek top tier (estimate)",
+   "intensity": "Pressing sides under Mendilibar; Imanol Alguacil now coach (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympiacos_F.C."
+  ],
+  "state": false
+ },
+ "441": {
+  "name": "Anderlecht",
+  "src": "Anderlecht",
+  "terrace": 5,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 5,
+  "ll": [
+   50.83,
+   4.3
+  ],
+  "why": {
+   "terrace": "Organised home end, known in Belgium (estimate)",
+   "city": "Brussels' biggest club, but most supporters come from across Belgium; shares the city with Union",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Club Football for All campaign; previously fined for the homophobic 'Alle boeren zijn homo' chant",
+   "ground": "Lotto Park, 22,500, compact and well filled (estimate)",
+   "contender": "34 titles but last in 2017; 2nd 2024, cup finals 2025 and 2026 lost, 4th 2025-26",
+   "rituals": "Mauve and white; few rituals known abroad",
+   "stewardship": "Marc Coucke, Belgian businessman, since 2018",
+   "women": "Women's team, several-time Belgian champions (estimate)",
+   "intensity": "Mixed; Vítor Bruno coach (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/R.S.C._Anderlecht"
+  ],
+  "state": false
+ },
+ "490": {
+  "name": "Levski Sofia",
+  "src": "Levski Sofia",
+  "terrace": 7,
+  "city": 6,
+  "voice": 4,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 4,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   42.7,
+   23.36
+  ],
+  "why": {
+   "terrace": "Sector B (south stand) leads songs, choreos and pyro; Bulgaria's most popular club (31% in a UEFA study)",
+   "city": "Sofia's 'blue' half, sharing the capital with CSKA; national following",
+   "voice": "Fan association 'Levski for the Levskars' holds 10%; fans raised 2.6m BGN in 2020 to save the club",
+   "conscience": "UEFA fined Levski EUR 40,000 in Aug 2023 for supporters' ethnic and political chanting v Shkupi",
+   "ground": "Georgi Asparuhov (17,688), older ground in Suhata Reka, partly rebuilt 2016",
+   "contender": "2025-26 Bulgarian champions (27th title), 2022 cup; Bulgaria's second-most decorated club",
+   "rituals": "Anthem 'Samo Levski shampion' (1999), Sector B choreos; known in Bulgaria",
+   "stewardship": "Investment banker Atanas Bostandjiev (Gemcorp) took majority control Apr 2026 from ex-player Nasko Sirakov",
+   "women": "No notable women's team found (estimate)",
+   "intensity": "Estimate; no clear playing-style source"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PFC_Levski_Sofia",
+   "https://bta.bg/en/news/500057-uefa-fines-pfc-levski-eur-40-000-for-discriminatory-behaviour-by-club-supporters"
+  ],
+  "state": false
+ },
+ "5807": {
+  "name": "Union St.-Gilloise",
+  "src": "Union St.-Gilloise",
+  "terrace": 7,
+  "city": 5,
+  "voice": 3,
+  "conscience": 8,
+  "ground": 7,
+  "contender": 9,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 7,
+  "ll": [
+   50.82,
+   4.33
+  ],
+  "why": {
+   "terrace": "Union Bhoys on the all-standing Tribune Est; atmosphere widely praised in Belgium",
+   "city": "Neighbourhood club of Saint-Gilles/Forest and the Marolles in Brussels, sharing the city with Anderlecht",
+   "voice": "Privately owned; no formal supporter power found (estimate)",
+   "conscience": "'Anti-fascist Unionist for Life' unofficial motto; progressive, anti-racist support; nothing notable sanctioned found",
+   "ground": "Joseph Marien (9,400), compact 1920s ground in Forest park",
+   "contender": "2024-25 Belgian champions (first in 90 years), cups 2024 and 2026, 2025-26 runners-up",
+   "rituals": "'Vamos a la playa' goal and full-time song, 'Le chant des goals' anthem",
+   "stewardship": "Alex Muzio majority owner and chairman since 2023 (Tony Bloom's co-investor; Bloom had majority 2018-23); analytics-led model",
+   "women": "Estimate; women's team not covered in sources opened",
+   "intensity": "Direct, high-energy, set-piece-strong sides that won titles on a small budget (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royale_Union_Saint-Gilloise"
+  ],
+  "state": false
+ },
+ "597": {
+  "name": "Dinamo Zagreb",
+  "src": "Dinamo Zagreb",
+  "terrace": 7,
+  "city": 7,
+  "voice": 4,
+  "conscience": 1,
+  "ground": 4,
+  "contender": 10,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   45.82,
+   16.02
+  ],
+  "why": {
+   "terrace": "Bad Blue Boys (1986) on the north stand; well known across the Balkans",
+   "city": "Zagreb's main club and Croatia's most supported",
+   "voice": "Non-profit members' association with one member one vote, but long captured by the Mamic era; supporter group Zajedno za Dinamo campaigned against it",
+   "conscience": "BBB linked to far-right imagery; 100+ members detained after the fatal stabbing of an AEK fan in Athens (2023); UEFA racism sanctions 2013 and 2019",
+   "ground": "Maksimir (35,123 per club page), ageing, long-delayed rebuild, often far from full",
+   "contender": "2025-26 double; titles 2023, 2024, 2026 and near-annual champions",
+   "rituals": "BBB choreos and the Eternal Derby v Hajduk; known regionally",
+   "stewardship": "Members' association, no shares; Zvonimir Boban president; Zdravko Mamic convicted of corruption (2018)",
+   "women": "Women's team is a separate club (ZNK Dinamo Zagreb)",
+   "intensity": "Possession-and-attack side dominating domestically (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/GNK_Dinamo_Zagreb"
+  ],
+  "state": false
+ },
+ "617": {
+  "name": "Omonia Nicosia",
+  "src": "Omonia Nicosia",
+  "terrace": 4,
+  "city": 5,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 4,
+  "contender": 9,
+  "rituals": 4,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   35.13,
+   33.33
+  ],
+  "why": {
+   "terrace": "Main ultras Gate 9 quit the football team in 2018 to found PAC Omonia 29M; remaining support still sizeable",
+   "city": "Nicosia's working-class, left-leaning 'people's club', sharing the city with APOEL",
+   "voice": "Members voted in 2018 to hand football to a private company; fan control ended",
+   "conscience": "Founded by left-wing players expelled from APOEL; left/working-class identity; nothing notable sanctioned found",
+   "ground": "Shares the 22,859-seat New GSP with APOEL; own 16,000-seat ground planned for 2028-29",
+   "contender": "2025-26 Cypriot champions (22nd title), 2021 title, cups 2022 and 2023",
+   "rituals": "1971 anthem, shamrock and green-white; known in Cyprus",
+   "stewardship": "Stavros Papastavrou, US-based Cypriot businessman, owns the football company since 2018",
+   "women": "Has a women's football department; level not covered (estimate)",
+   "intensity": "Estimate; no clear playing-style source"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Omonia"
+  ],
+  "state": false
+ },
+ "622": {
+  "name": "Ferencvaros",
+  "src": "Ferencvaros",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 9,
+  "rituals": 5,
+  "stewardship": 2,
+  "women": 5,
+  "intensity": 6,
+  "ll": [
+   47.48,
+   19.08
+  ],
+  "why": {
+   "terrace": "B-kozep and Green Monsters ultras; Hungary's best-known support, Green Brothers alliance with Rapid Wien",
+   "city": "Budapest's most popular club, rooted in the 9th district",
+   "voice": "Run by a president; fans' 2014-16 boycott over scanners ended in talks, little formal influence",
+   "conscience": "UEFA fined EUR 15,000 and closed part of the stadium for supporters' racist behaviour v Slovan Bratislava (2022); earlier 2014 racism sanction",
+   "ground": "Groupama Arena (23,700), modern 2014 ground in the 9th district",
+   "contender": "36 league titles incl. a long run to 2024-25; 2nd in 2025-26, 2026 cup",
+   "rituals": "Green-white, eagle mascot, well-known choreos in Hungary",
+   "stewardship": "President Gabor Kubatov, Fidesz politician, since 2011; club closely tied to the governing party",
+   "women": "Women's section exists and has won Hungarian titles (estimate)",
+   "intensity": "Estimate; no clear playing-style source"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferencv%C3%A1rosi_TC"
+  ],
+  "state": false
+ },
+ "987": {
+  "name": "Lillestrom",
+  "src": "Lillestrom",
+  "terrace": 5,
+  "city": 8,
+  "voice": 6,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 4,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   59.96,
+   11.05
+  ],
+  "why": {
+   "terrace": "Kanarifansen (1992), 5,000+ members, Norway's second-largest fan club",
+   "city": "The town of Lillestrom's club; 'Kanarifugla' are central to local identity",
+   "voice": "Norwegian member club (sports associations keep majority control; estimate)",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "Arasen (12,250), compact, record 13,652; best season average 9,018 (2007)",
+   "contender": "Relegated 2024, unbeaten 1. divisjon and Norwegian Cup 2025, 5th in 2026",
+   "rituals": "Canary yellow, Kanarifansen songs; known in Norway (estimate)",
+   "stewardship": "Member club with local investors; no outside owner found",
+   "women": "LSK Kvinner, alliance club with 7 Toppserien titles (2012-19), 4th in 2025",
+   "intensity": "Unbeaten 25-win 2025 season, attacking side (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lillestr%C3%B8m_SK",
+   "https://en.wikipedia.org/wiki/LSK_Kvinner_FK"
+  ],
+  "state": false
+ },
+ "10834": {
+  "name": "CSKA Sofia",
+  "src": "CSKA Sofia",
+  "terrace": 6,
+  "city": 6,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 3,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   42.69,
+   23.34
+  ],
+  "why": {
+   "terrace": "Sector G ultras (1990); one of Bulgaria's two biggest followings",
+   "city": "Sofia's army club, sharing the capital with Levski",
+   "voice": "Privately owned; no formal supporter power found",
+   "conscience": "UEFA fined EUR 50,000 plus ticket ban in July 2026 for fans' Nazi salutes at Derry City; bananas thrown at Black players 2022",
+   "ground": "Temporarily at the Vasil Levski national stadium (running track) while the Bulgarian Army Stadium is rebuilt",
+   "contender": "4th in 2025-26, 2026 cup and supercup; last title 2008",
+   "rituals": "Red star crest, Eternal Derby with Levski; known in Bulgaria",
+   "stewardship": "Walter Papazki took control Dec 2025 after Fond Sport (Grisha Ganchev era) handed him its shares; brand dispute with CSKA 1948",
+   "women": "No notable women's team found (estimate)",
+   "intensity": "Estimate; no clear playing-style source"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PFC_CSKA_Sofia",
+   "https://www.insideworldfootball.com/2025/12/19/walter-papazki-takes-control-cska-sofia-fond-sport-gifts-shares/"
+  ],
+  "state": false
+ },
+ "139": {
+  "name": "Ajax Amsterdam",
+  "src": "Ajax Amsterdam",
+  "terrace": 7,
+  "city": 8,
+  "voice": 6,
+  "conscience": 2.5,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 7,
+  "stewardship": 7,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   52.31,
+   4.94
+  ],
+  "why": {
+   "terrace": "F-Side (1976) and VAK410 stand all match; 94,000-member supporters club",
+   "city": "Amsterdam's club and the Netherlands' most supported",
+   "voice": "Members' association Vereniging AFC Ajax holds about 73% of the listed company",
+   "conscience": "Repeated UEFA fines for crowd disturbances incl. objects thrown at the Bernabeu (2025-26) and F-Side linked to rioting",
+   "ground": "Johan Cruyff Arena (55,865), large roofed bowl, well filled",
+   "contender": "36 titles, 2022 last; 2nd 2024-25, 5th 2025-26",
+   "rituals": "'Three Little Birds', Jewish-identity chants by fans; known worldwide",
+   "stewardship": "Members' association majority, listed on Euronext; NN Group 5%",
+   "women": "Ajax Vrouwen in the Eredivisie since 2012 with league and cup titles",
+   "intensity": "Total Football heritage; recent sides mixed (Farioli's more cautious 2024-25)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AFC_Ajax",
+   "https://www.afm.nl/en/sector/registers/meldingenregisters/substantiele-deelnemingen/details?id=5382"
+  ],
+  "state": false
+ },
+ "152": {
+  "name": "FC Twente",
+  "src": "FC Twente",
+  "terrace": 6,
+  "city": 7,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 6,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 9,
+  "intensity": 6,
+  "ll": [
+   52.24,
+   6.84
+  ],
+  "why": {
+   "terrace": "Vak P ultras; loud, organised and known in the Netherlands",
+   "city": "Enschede's club and the region's 'Trots van het Oosten'",
+   "voice": "No formal supporter ownership found (estimate)",
+   "conscience": "Nothing notable found; estimate",
+   "ground": "De Grolsch Veste (30,205), club-owned, usually well filled",
+   "contender": "Champions 2010; 3rd 2023-24, 6th 2024-25, 4th 2025-26",
+   "rituals": "Crowd sings 'You'll Never Walk Alone' before every kick-off",
+   "stewardship": "Club-run, chaired by Dominique Scholten; bankrupt 2003 and KNVB sanctions 2015-16 after mismanagement",
+   "women": "FC Twente Vrouwen: 10 national titles incl. 2024 and 2025, 2026 cup; club's first women's section",
+   "intensity": "Mixed; estimate"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Twente",
+   "https://en.wikipedia.org/wiki/FC_Twente_(women)"
+  ],
+  "state": false
+ },
+ "17856": {
+  "name": "Lincoln Red Imps",
+  "src": "Lincoln Red Imps",
+  "terrace": 1,
+  "city": 4,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 1,
+  "contender": 10,
+  "rituals": 1,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   36.15,
+   -5.35
+  ],
+  "why": {
+   "terrace": "No known organised supporters' group; crowds often a few hundred.",
+   "city": "Gibraltar's dominant club, but a small territory where football is a minor pastime.",
+   "voice": "No documented supporter ownership or influence (estimate).",
+   "conscience": "Nothing notable found; little visible inclusion work (estimate).",
+   "ground": "Shares the 2,000-seat Victoria Stadium with every Gibraltar club; small crowds.",
+   "contender": "30 Gibraltar titles incl. six straight (2021-2026); Rock Cup 2026.",
+   "rituals": "No traditions known beyond the club.",
+   "stewardship": "Run by a club board under president Dylan Viagas; no outside investor reported (estimate).",
+   "women": "Women's team in the Gibraltar Women's League, a small competition.",
+   "intensity": "Dominant at home, outmatched in Europe; mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lincoln_Red_Imps_F.C."
+  ],
+  "state": false
+ },
+ "19246": {
+  "name": "Riga FC",
+  "src": "Riga FC",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 1,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   56.96,
+   24.11
+  ],
+  "why": {
+   "terrace": "No known supporters' group; modern club (founded 2015) with small crowds (estimate).",
+   "city": "A 2015 creation in a city with several clubs and little football following.",
+   "voice": "Privately controlled company (SIA); no supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Skonto Stadium (8,087), largely empty for league matches (estimate).",
+   "contender": "Latvian champions 2018-20 and 2025, runners-up 2022-24; Cup 2018, 2023.",
+   "rituals": "None known.",
+   "stewardship": "Linked to Russian billionaire Sergey Lomakin (Fix Price), who also backs Pafos; ownership opaque, chairman Aleksandrs Pronins.",
+   "women": "Women's team founded 2024, Latvian champions twice; small league.",
+   "intensity": "Possession-heavy domestic favourite; mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riga_FC"
+  ],
+  "state": false
+ },
+ "20025": {
+  "name": "Iberia 1999",
+  "src": "Iberia 1999",
+  "terrace": 1,
+  "city": 2,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 2,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 3,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   41.72,
+   44.75
+  ],
+  "why": {
+   "terrace": "No known supporters' group (formerly Saburtalo, a youth-focused club) (estimate).",
+   "city": "Tbilisi district club; Dinamo Tbilisi is the city's main team.",
+   "voice": "Owned by a business group; no supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Mikheil Meskhi Stadium (27,223), far too big for its crowds (estimate).",
+   "contender": "Georgian champions 2018, 2024, 2025; three Georgian Cups.",
+   "rituals": "None known.",
+   "stewardship": "Iberia Business Group of Tariel Khechikashvili (former sports minister), owner since 2005; private, not state.",
+   "women": "No women's team found.",
+   "intensity": "Young, attacking academy side; mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Iberia_1999"
+  ],
+  "state": false
+ },
+ "20028": {
+  "name": "Kauno Zalgiris",
+  "src": "Kauno Zalgiris",
+  "terrace": 2,
+  "city": 4,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 8,
+  "rituals": 1,
+  "stewardship": 6,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   54.9,
+   23.94
+  ],
+  "why": {
+   "terrace": "A small, newly developing fan base; no known ultras group (estimate).",
+   "city": "Kaunas's main football club, but the city lives through basketball (Zalgiris BC).",
+   "voice": "Privately owned; no supporter role found.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Darius and Girenas Stadium (15,026, renovated 2022), largest in the Baltics; crowds far below capacity (estimate).",
+   "contender": "First Lithuanian title 2025; LFF Cup 2026; regular top three since 2020.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "Local owners: Paulius Motiejunas (70%) and basketball great Mantas Kalnietis (30%, chairman).",
+   "women": "No women's team found.",
+   "intensity": "Young, front-foot domestic champions (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Kauno_%C5%BDalgiris"
+  ],
+  "state": false
+ },
+ "20301": {
+  "name": "Mjällby AIF",
+  "src": "Mjällby AIF",
+  "terrace": 4,
+  "city": 9,
+  "voice": 8,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 3,
+  "stewardship": 9,
+  "women": 1,
+  "intensity": 6,
+  "ll": [
+   56.01,
+   14.7
+  ],
+  "why": {
+   "terrace": "Supporters' club Sillastrybarna, with tifo displays; small but organised.",
+   "city": "The pride of Hälleviks fishing village (about 800 people) and Sölvesborg; 2025 title squad mostly local-born.",
+   "voice": "Swedish member association under the 51% rule; members elect the board.",
+   "conscience": "Nothing notable found; standard Swedish community work (estimate).",
+   "ground": "Strandvallen (about 6,750) by the sea, near full for big matches (5,000-6,000 in 2025).",
+   "contender": "First Allsvenskan title 2025 and Svenska Cupen 2025-26; before that a mid-table club.",
+   "rituals": "Herring ('sill') identity and seaside ground known in Sweden.",
+   "stewardship": "Member-owned non-profit association; chairman Jan Sjöblom.",
+   "women": "No notable women's side found (estimate).",
+   "intensity": "Well-organised, resilient side, aggressive in the title season; mixed."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mj%C3%A4llby_AIF"
+  ],
+  "state": false
+ },
+ "20703": {
+  "name": "Inter D'Escaldes",
+  "src": "Inter D'Escaldes",
+  "terrace": 1,
+  "city": 2,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 1,
+  "contender": 10,
+  "rituals": 0,
+  "stewardship": 5,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   42.51,
+   1.51
+  ],
+  "why": {
+   "terrace": "No organised support beyond a few followers (estimate).",
+   "city": "Club of Escaldes-Engordany in Andorra, where football draws very small crowds.",
+   "voice": "No supporter role found.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "No ground of its own; plays at federation stadiums.",
+   "contender": "Five Andorran titles (incl. 2025, 2026) and three cups since 2020; first Andorran club in a European league phase.",
+   "rituals": "None known.",
+   "stewardship": "Private club, backed early by builder Construccions Modernes; chairman Pablo Gomez (estimate).",
+   "women": "No women's team found.",
+   "intensity": "Domestic favourite, defensive in Europe (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inter_Club_d%27Escaldes"
+  ],
+  "state": false
+ },
+ "20710": {
+  "name": "Borac Banja Luka",
+  "src": "Borac Banja Luka",
+  "terrace": 6,
+  "city": 8,
+  "voice": 2,
+  "conscience": 1,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 5,
+  "ll": [
+   44.77,
+   17.19
+  ],
+  "why": {
+   "terrace": "Lesinari (Vultures, founded 1987), oldest organised group in Bosanska Krajina, loud north stand.",
+   "city": "Banja Luka's main club and a symbol of the city and Republika Srpska.",
+   "voice": "No documented supporter role in decisions (estimate).",
+   "conscience": "Fans repeatedly glorify war criminal Ratko Mladic (2025-26 chants, 2026 Lesinari banner); RFE/RL reports a UEFA fine for racist fan behaviour; victims' groups filed a UEFA complaint (Sept 2026).",
+   "ground": "Banja Luka City Stadium (10,030), sold out for big European nights.",
+   "contender": "Bosnian champions 2011, 2021, 2024, 2026; Conference League last 16 in 2024-25.",
+   "rituals": "Lesinari choreos known in the Balkans; little beyond.",
+   "stewardship": "President Zvjezdan Misimovic; depends on city and regional public funding (estimate, ownership unclear; not a sovereign state owner).",
+   "women": "No women's team found.",
+   "intensity": "Mixed, compact in Europe (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Borac_Banja_Luka"
+  ],
+  "state": false
+ },
+ "21943": {
+  "name": "Egnatia",
+  "src": "Egnatia",
+  "terrace": 2,
+  "city": 5,
+  "voice": 0,
+  "conscience": 2,
+  "ground": 3,
+  "contender": 9,
+  "rituals": 0,
+  "stewardship": 4,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   41.08,
+   19.67
+  ],
+  "why": {
+   "terrace": "Small home following; no known organised group (estimate).",
+   "city": "The only club of the small town of Rrogozhine, which part-owns it.",
+   "voice": "No supporter role found.",
+   "conscience": "UEFA fined the club EUR 10,000 with a suspended closure for fans' discriminatory chants v Borac Banja Luka (2024 Champions League qualifier).",
+   "ground": "Egnatia Arena (5,000), rebuilt 2021, compact.",
+   "contender": "Albanian champions 2024, 2025, 2026; Albanian Cup 2023, 2024.",
+   "rituals": "None known.",
+   "stewardship": "Italian-based construction firms Demrozi Costruzioni and Foglia Engineering (37.5% each) plus Rrogozhine municipality (25%); president Agim Demrozi.",
+   "women": "No women's team found.",
+   "intensity": "Attacking domestic champions (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/KF_Egnatia"
+  ],
+  "state": false
+ },
+ "22281": {
+  "name": "Pafos",
+  "src": "Pafos",
+  "terrace": 2,
+  "city": 4,
+  "voice": 0,
+  "conscience": 3,
+  "ground": 3,
+  "contender": 8,
+  "rituals": 0,
+  "stewardship": 1,
+  "women": 0,
+  "intensity": 6,
+  "ll": [
+   34.77,
+   32.43
+  ],
+  "why": {
+   "terrace": "Small support; no known organised group of note (estimate).",
+   "city": "Paphos's main club, but a 2014 merger with shallow roots.",
+   "voice": "No supporter role.",
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "ground": "Stelios Kyriakides Stadium (about 9,300); European matches moved to Limassol's Alphamega Stadium.",
+   "contender": "Cypriot champions 2025, cups 2024 and 2026; Champions League league phase 2025-26.",
+   "rituals": "None known.",
+   "stewardship": "Russian billionaire Sergey Lomakin (Fix Price) with chairman Roman Dubov via Total Sports Investments; part of a loose network with Riga FC.",
+   "women": "No women's team found.",
+   "intensity": "Possession-based, well-funded side; mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pafos_FC"
+  ],
+  "state": false
+ },
+ "2290": {
+  "name": "Red Star Belgrade",
+  "src": "Red Star Belgrade",
+  "terrace": 9,
+  "city": 6,
+  "voice": 3,
+  "conscience": 1,
+  "ground": 8,
+  "contender": 10,
+  "rituals": 7,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   44.78,
+   20.46
+  ],
+  "why": {
+   "terrace": "Delije, organised since 1989, famous for choreography and flares",
+   "city": "Serbia's most supported club but shares Belgrade with Partizan",
+   "voice": "Part of the Crvena zvezda sports society; no fan ownership, politically connected boards",
+   "conscience": "UEFA closed-doors order and fine for racist abuse of Ibrahimovic (2021); Mladic support banners (2018); repeated racism sanctions",
+   "ground": "Rajko Mitic 'Marakana', 51,755 seats, ferocious for derbies and Europe",
+   "contender": "Ten Serbian titles 2016-2026, six straight doubles, UCL group stages",
+   "rituals": "Delije choreos, Eternal derby 'Hellgrade' tifo known across Europe",
+   "stewardship": "Run by the Crvena zvezda sports association, long reliant on political patrons and Gazprom sponsorship",
+   "women": "Women's side in the Serbian top flight, little profile (estimate)",
+   "intensity": "Dominant, front-foot side domestically, more cautious in Europe (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_Star_Belgrade"
+  ],
+  "state": false
+ },
+ "2528": {
+  "name": "Kairat Almaty",
+  "src": "Kairat Almaty",
+  "terrace": 3,
+  "city": 6,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 8,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   43.24,
+   76.92
+  ],
+  "why": {
+   "terrace": "Supporters' groups exist but little known beyond Kazakhstan (estimate)",
+   "city": "Almaty's main club, nicknamed 'The Nation's Team'",
+   "voice": "No documented fan role in ownership or decisions",
+   "conscience": "Nothing notable found; little visible inclusion work (estimate)",
+   "ground": "Central Stadium, 23,804 with athletics track; full for 2025-26 Champions League nights",
+   "contender": "Kazakh champions 2020, 2024, 2025; cups 2015-2021; first UCL league phase 2025-26",
+   "rituals": "Two Capitals derby with Astana; no widely known traditions",
+   "stewardship": "Private owner Kairat Boranbayev (arrested 2022); city council holds a 30% minority stake since 2015 and funds the club",
+   "women": "Women's section exists, low profile",
+   "intensity": "Mixed; compact in Europe (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Kairat"
+  ],
+  "state": false
+ },
+ "262": {
+  "name": "Heart of Midlothian",
+  "src": "Heart of Midlothian",
+  "terrace": 6,
+  "city": 6,
+  "voice": 9,
+  "conscience": 5,
+  "ground": 9,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 9,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   55.94,
+   -3.23
+  ],
+  "why": {
+   "terrace": "Loud Gorgie support, known in Scotland, no single famous end",
+   "city": "Big part of west Edinburgh but shares the city with Hibs",
+   "voice": "Foundation of Hearts majority owner since 2021, UK's largest fan-owned club; fans voted 98.5% on Bloom deal",
+   "conscience": "Nothing notable found; strong community and war-memorial work",
+   "ground": "Tynecastle Park, 19,852, steep, close to the pitch, usually sold out",
+   "contender": "2025-26 runners-up after losing final-day title decider at Celtic; Scottish Cup 2012",
+   "rituals": "McCrae's Battalion remembrance, Contalmaison pilgrimage, Hearts song",
+   "stewardship": "Fan-owned via Foundation of Hearts; Tony Bloom holds 29% non-voting shares (2025)",
+   "women": "Hearts Women in the SWPL top flight, competitive (estimate)",
+   "intensity": "Front-foot title challenge in 2025-26 (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C."
+  ],
+  "state": false
+ },
+ "2994": {
+  "name": "Braga",
+  "src": "Braga",
+  "terrace": 4,
+  "city": 7,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 3,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   41.56,
+   -8.43
+  ],
+  "why": {
+   "terrace": "Organised ultras (Red Boys), modest numbers (estimate)",
+   "city": "Braga's main club; 'Arsenalistas' are the city's identity",
+   "voice": "Member club holds about 37% of the listed SAD; members elect president",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Quarry-cut Estadio Municipal, 30,286, striking but often well short of full",
+   "contender": "Regular 3rd-4th; Taca de Portugal 2016, 2021; League Cup 2020, 2024",
+   "rituals": "Quarry stadium and Marian devotion of fans; little known abroad",
+   "stewardship": "minority stake 29.6% held by QSI (the PSG owner's investment arm); majority with the club and private investors; not majority state-owned",
+   "women": "Top-tier women's side, regular contender (estimate)",
+   "intensity": "Attacking, possession-minded under recent coaches (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.C._Braga"
+  ],
+  "state": false
+ },
+ "3024": {
+  "name": "FC Thun",
+  "src": "FC Thun",
+  "terrace": 3,
+  "city": 6,
+  "voice": 3,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 7,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   46.74,
+   7.63
+  ],
+  "why": {
+   "terrace": "Small home fan section (estimate)",
+   "city": "The only top club of Thun and the Bernese Oberland",
+   "voice": "No documented fan influence (estimate)",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Stockhorn Arena, 10,000 with mountain backdrop, full in the title run (estimate)",
+   "contender": "Swiss champions 2025-26, the first top-flight title, a year after promotion",
+   "rituals": "No widely known traditions",
+   "stewardship": "Co-owned since 2019 by Pacific Media Group/Chien Lee (multi-club) and The Seelig Group; investors saved club from closure in 2024",
+   "women": "Women's section, not a defining part (estimate)",
+   "intensity": "Energetic promoted side that led all season (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Thun"
+  ],
+  "state": false
+ },
+ "3101": {
+  "name": "FC Nordsjælland",
+  "src": "FC Nordsjælland",
+  "terrace": 2,
+  "city": 3,
+  "voice": 1,
+  "conscience": 6,
+  "ground": 3,
+  "contender": 6,
+  "rituals": 1,
+  "stewardship": 2,
+  "women": 7,
+  "intensity": 8,
+  "ll": [
+   55.82,
+   12.36
+  ],
+  "why": {
+   "terrace": "Small 'Wild Tigers' support",
+   "city": "Suburban Farum club formed by a 2003 merger",
+   "voice": "No fan role; 99% corporate owned",
+   "conscience": "Nothing notable found; Right to Dream academy pathways for Ghanaian and Danish youth",
+   "ground": "Right to Dream Park, 9,200, artificial turf, often half full",
+   "contender": "Danish champions 2012, runners-up 2023, 3rd 2025-26",
+   "rituals": "None widely known",
+   "stewardship": "Right to Dream (Mansour Group/ManSports) multi-club with San Diego FC and FC Masar; academy-to-sale model",
+   "women": "FCN women a leading Danish top-flight side (estimate)",
+   "intensity": "Young, high-tempo attacking side by design (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Nordsj%C3%A6lland"
+  ],
+  "state": false
+ },
+ "3611": {
+  "name": "KAA Gent",
+  "src": "KAA Gent",
+  "terrace": 5,
+  "city": 6,
+  "voice": 2,
+  "conscience": 5,
+  "ground": 6,
+  "contender": 6,
+  "rituals": 4,
+  "stewardship": 5,
+  "women": 6,
+  "intensity": 6,
+  "ll": [
+   51.02,
+   3.73
+  ],
+  "why": {
+   "terrace": "Loud 'Buffalo' home end, known in Belgium",
+   "city": "Ghent's main club, strong local following",
+   "voice": "No documented fan power",
+   "conscience": "Nothing notable found; active club foundation; Native American logo criticised",
+   "ground": "Planet Group Arena, 20,175, modern and well filled",
+   "contender": "Belgian champions 2015, cup 2022, 5th in 2025-26",
+   "rituals": "'Buffalo' chant and Battle of Flanders rivalry, known domestically",
+   "stewardship": "Sam Baro, about 95-97% since 2023 (EUR 30m), conventional private owner",
+   "women": "KAA Gent Ladies in the top tier (estimate)",
+   "intensity": "Mixed, attacking at home (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K.A.A._Gent"
+  ],
+  "state": false
+ },
+ "443": {
+  "name": "Panathinaikos",
+  "src": "Panathinaikos",
+  "terrace": 8,
+  "city": 5,
+  "voice": 3,
+  "conscience": 2,
+  "ground": 6,
+  "contender": 7,
+  "rituals": 6,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   38.04,
+   23.79
+  ],
+  "why": {
+   "terrace": "Gate 13, one of Europe's best-known ultras groups",
+   "city": "One of Greece's most supported clubs; shares Athens with AEK and Olympiacos",
+   "voice": "Briefly fan-owned via Panathinaikos Alliance (2012); now owner-run",
+   "conscience": "UEFA found discriminatory conduct, fireworks and missiles v Chelsea (Oct 2024); suspended stadium closure",
+   "ground": "Historic Leoforos and Olympic Stadium (69,618) used; new Votanikos ground pending (estimate)",
+   "contender": "Greek Cup 2014, 2022, 2024; 1st in 2022-23 regular season, 2nd 2024-25",
+   "rituals": "Shamrock, green-white, Gate 13 choreos known in Europe",
+   "stewardship": "Giannis Alafouzos (Skai TV owner), private, long-term",
+   "women": "One of Greece's first women's teams (1980), low profile now",
+   "intensity": "Mixed (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Panathinaikos_F.C."
+  ],
+  "state": false
+ },
+ "489": {
+  "name": "Hajduk Split",
+  "src": "Hajduk Split",
+  "terrace": 9,
+  "city": 10,
+  "voice": 8,
+  "conscience": 2,
+  "ground": 8,
+  "contender": 6,
+  "rituals": 8,
+  "stewardship": 7,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   43.52,
+   16.43
+  ],
+  "why": {
+   "terrace": "Torcida (1950), Europe's oldest organised supporters' group",
+   "city": "Split lives through Hajduk; about 100,000 members",
+   "voice": "Nas Hajduk members hold 30.6% and elect the supervisory board",
+   "conscience": "UEFA fine and partial closure for discriminatory fan conduct v Vitoria (Aug 2022); 'Kill Serbs' chants previously sanctioned",
+   "ground": "Poljud, 33,987, iconic shell design, big crowds",
+   "contender": "Croatian Cup 2022, 2023; repeatedly 2nd-3rd but no league title since 2005",
+   "rituals": "Torcida choreos, 'Hajduk zivi vjecno', Heart of Hajduk award",
+   "stewardship": "City of Split 65.9% plus members 30.6%; locally owned, not for profit",
+   "women": "Women's side, low profile (estimate)",
+   "intensity": "Attacking, Livaja-led sides; mixed (estimate)"
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/HNK_Hajduk_Split"
+  ],
+  "state": false
+ },
+ "572": {
+  "name": "FC Midtjylland",
+  "src": "FC Midtjylland",
+  "terrace": 4,
+  "city": 5,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 5,
+  "contender": 9,
+  "rituals": 3,
+  "stewardship": 6,
+  "women": 2,
+  "intensity": 7,
+  "ll": [
+   56.12,
+   8.95
+  ],
+  "why": {
+   "terrace": "Black Wolves fan club and Ultras Midtjylland ('Hedens Drenge'); organised but small.",
+   "city": "1999 merger of Herning Fremad and Ikast fS; regional club for central Jutland rather than a city's soul.",
+   "voice": "Privately owned company; no documented fan say (estimate).",
+   "conscience": "2023: two spectators made racist gestures at a South Korean fan in the fan zone; club apologised, no UEFA sanction found. Little visible inclusion work found.",
+   "ground": "MCH Arena, Herning, ~12,150, modern and out of town.",
+   "contender": "Superliga champions 2015, 2018, 2020, 2024; runners-up 2025 and 2026; cups 2019, 2022, 2026.",
+   "rituals": "Few traditions known beyond the club; Viborg derby.",
+   "stewardship": "Majority owner Anders Holch Povlsen's HEARTLAND (Bestseller, based nearby in Brande) since 2023; local billionaire, single club.",
+   "women": "Women's programme only started in 2024 (estimate: lower division).",
+   "intensity": "Data-driven, physical, set-piece heavy and direct (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Midtjylland",
+   "https://www.koreajoongangdaily.com/sports/fc-midtjylland-apologizes-after-racist-abuse-aimed-at-korean-fan/11762903"
+  ],
+  "state": false
+ },
+ "620": {
+  "name": "SK Brann",
+  "src": "SK Brann",
+  "terrace": 6,
+  "city": 9,
+  "voice": 7,
+  "conscience": 5,
+  "ground": 7,
+  "contender": 6.5,
+  "rituals": 5,
+  "stewardship": 8,
+  "women": 9,
+  "intensity": 7,
+  "ll": [
+   60.37,
+   5.36
+  ],
+  "why": {
+   "terrace": "Bataljonen, official supporters' club since 2003, in the Store Stå section; loud and known in Norway.",
+   "city": "Bergen's club, 'Bergens Stolthet'; the city's big team with strong public interest.",
+   "voice": "Member association (Norwegian clubs must be member-controlled); members forced an extraordinary general meeting in 2021.",
+   "conscience": "Nothing notable found; standard community work (estimate).",
+   "ground": "Brann Stadion, ~17,950, central Bergen, record league averages over 17,000.",
+   "contender": "Eliteserien runners-up 2016, 2023, 2024, 4th 2025; cup 2022, final 2026; first Europa League league phase 2025.",
+   "rituals": "Strong Bergen matchday culture known in Norway (estimate).",
+   "stewardship": "Member club with an elected board (chair Arild Mjøs Andersen); no outside owner.",
+   "women": "SK Brann Kvinner: Toppserien champions 2022 and 2025, cup 2022 and 2026, UWCL quarter-final 2024, Norway's highest women's attendances.",
+   "intensity": "Front-foot, pressing side under Eirik Horneland (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SK_Brann",
+   "https://no.wikipedia.org/wiki/SK_Brann",
+   "https://en.wikipedia.org/wiki/SK_Brann_Kvinner"
+  ],
+  "state": false
+ },
+ "7672": {
+  "name": "FC Lugano",
+  "src": "FC Lugano",
+  "terrace": 4,
+  "city": 4,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   46.02,
+   8.96
+  ],
+  "why": {
+   "terrace": "Curva Nord ultras; small but active.",
+   "city": "Lugano's football club, but HC Lugano ice hockey is the bigger passion in Ticino.",
+   "voice": "Privately owned; no documented fan influence.",
+   "conscience": "October 2024: Lugano football ultras attacked three young men wearing Ambrì scarves at Rivera; 18 arrested. Club acknowledged violent groups in the curva.",
+   "ground": "New AIL Arena (8,093) replaced the Cornaredo from 2026-27; compact but small (estimate).",
+   "contender": "Swiss Cup 2022; Super League runners-up 2024; cup finals 2023 and 2024.",
+   "rituals": "Few traditions known beyond Ticino.",
+   "stewardship": "Joe Mansueto since 2021, run as a sister club of his Chicago Fire (multi-club).",
+   "women": "FC Lugano Femminile in the Swiss top flight (estimate).",
+   "intensity": "Attacking, mid-tempo side in recent seasons (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Lugano",
+   "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Tifo-violento-%E2%80%9Cla-situazione-pi%C3%B9-grave-da-30-anni%E2%80%9D--2400650.html"
+  ],
+  "state": false
+ },
+ "7853": {
+  "name": "AGF",
+  "src": "AGF",
+  "terrace": 5,
+  "city": 8,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 3,
+  "contender": 7,
+  "rituals": 4,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   56.19,
+   10.21
+  ],
+  "why": {
+   "terrace": "Big, loyal following ('De Hvide'); official fan club honoured with the retired No. 12.",
+   "city": "Aarhus's main club, Denmark's second city; a 40-year title wait followed closely.",
+   "voice": "Listed company with many small shareholders; no documented fan control (estimate).",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "Playing at temporary Ceres Park Vejlby (11,500, mostly standing) while a 24,000 arena is built, due March 2027.",
+   "contender": "Superliga champions 2025-26 (first since 1986); bronze 2020 and 2023; cup finals 2016 and 2024.",
+   "rituals": "Known Danish traditions, white kit, 'De Hvide' (estimate).",
+   "stewardship": "Listed AGF A/S; 2025 placement brought in local investors incl. Systematic Holding (Michael Holm, Aarhus).",
+   "women": "Women's side in the Danish top flight (estimate).",
+   "intensity": "Champions with 62 goals in 32 games; front-foot (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aarhus_Gymnastikforening",
+   "https://www.inderes.dk/releases/agf-gennemforer-succesfuldt-udbud-af-nye-aktier"
+  ],
+  "state": false
+ },
+ "7922": {
+  "name": "Jablonec",
+  "src": "Jablonec",
+  "terrace": 2,
+  "city": 5,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 4,
+  "contender": 5,
+  "rituals": 1,
+  "stewardship": 3,
+  "women": 1,
+  "intensity": 5,
+  "ll": [
+   50.73,
+   15.18
+  ],
+  "why": {
+   "terrace": "Small home support; no notable organised group found (estimate).",
+   "city": "Main club of Jablonec nad Nisou (~45,000); limited pull (estimate).",
+   "voice": "Privately owned company; no fan influence found.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "Stadion Střelnice, 5,690, small (estimate on atmosphere).",
+   "contender": "5th in 2024-25 and 2025-26, cup finals 2018 and 2026; 3rd in 2018 and 2021; last trophy 2013.",
+   "rituals": "None known beyond the club.",
+   "stewardship": "Businessman Jakub Střeštík bought the majority from Miroslav Pelta, jailed for subsidy fraud, who kept a role in the club.",
+   "women": "No notable women's side found (estimate).",
+   "intensity": "Mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Jablonec",
+   "https://forbes.cz/exmanazer-ano-kseftar-s-nemovitostmi-kdo-je-novy-majitel-fotbaloveho-jablonce/"
+  ],
+  "state": false
+ },
+ "8089": {
+  "name": "CSU Craiova",
+  "src": "CSU Craiova",
+  "terrace": 7,
+  "city": 7,
+  "voice": 2,
+  "conscience": 2.5,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 5,
+  "stewardship": 5,
+  "women": 2,
+  "intensity": 5,
+  "ll": [
+   44.32,
+   23.81
+  ],
+  "why": {
+   "terrace": "Peluza Nord ultras (Sezione Ultra 2000, Utopia); one of Romania's biggest followings.",
+   "city": "Oltenia's club and identity, but split with rival claimant FC U Craiova 1948.",
+   "voice": "Owned by Mihai Rotaru; no fan control.",
+   "conscience": "UEFA 2025: fines for pyrotechnics and throwing objects onto the pitch (v Sarajevo) and an offensive choreography; 2019 UEFA racism charge and closed doors after a referee was hit.",
+   "ground": "Stadionul Ion Oblemenco, ~30,900, modern (2017), big crowds in the title season.",
+   "contender": "Liga I and cup double 2025-26 (first title since 1991); Supercup 2026; 2nd in 2020.",
+   "rituals": "Large choreographies, known in Romania.",
+   "stewardship": "Mihai Rotaru (65%), local businessman and owner since the 2013 refoundation.",
+   "women": "No notable women's side found (estimate).",
+   "intensity": "Mixed (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CS_Universitatea_Craiova",
+   "https://ro.soccerway.com/stiri/fotbal-conference-league-universitatea-craiova-sanctionata-de-uefa-oltenii-risca-sa-joace-cu-peluza-nord-partial-inchisa/vJwJBVF8",
+   "https://www.insideworldfootball.com/2019/08/07/uefa-sanction-craiova-smoke-grenade-hits-ref-match-descends-chaos/"
+  ],
+  "state": false
+ },
+ "8169": {
+  "name": "KuPS Kuopio",
+  "src": "KuPS Kuopio",
+  "terrace": 3,
+  "city": 6,
+  "voice": 3,
+  "conscience": 5,
+  "ground": 3,
+  "contender": 9,
+  "rituals": 2,
+  "stewardship": 6,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   62.9,
+   27.69
+  ],
+  "why": {
+   "terrace": "KPO Crew (2006) at the south end; small.",
+   "city": "Kuopio's football club; the city also follows KalPa hockey.",
+   "voice": "KuPS ry (members' association) holds the league place and leases it to the company; some structure, little documented fan power.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "Väre Areena (Keskuskenttä), 4,778, artificial turf; record 8,543 in 2024.",
+   "contender": "Veikkausliiga champions 2019, 2024, 2025; cups 2021, 2022, 2024; Conference League knockout round 2025-26.",
+   "rituals": "Few known beyond Finland.",
+   "stewardship": "Main owner Ari Lahti (Finnish investor, FA president), funding the club about a million euros a year since the 2000s.",
+   "women": "Women's team in the Finnish top flight since joining in 2018 (estimate).",
+   "intensity": "Possession-based, attacking for Finland (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kuopion_Palloseura",
+   "https://fi.wikipedia.org/wiki/Kuopion_Palloseura"
+  ],
+  "state": false
+ },
+ "909": {
+  "name": "F.C. København",
+  "src": "F.C. København",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 4,
+  "ground": 7,
+  "contender": 9.5,
+  "rituals": 5,
+  "stewardship": 5,
+  "women": 3,
+  "intensity": 6,
+  "ll": [
+   55.7,
+   12.57
+  ],
+  "why": {
+   "terrace": "Sektion 12 on the B stand, called Northern Europe's biggest active stand; tifos and pyro.",
+   "city": "Copenhagen's biggest club (1992 merger), sharing the capital area with Brøndby and others.",
+   "voice": "Owned by listed Parken Sport & Entertainment; fan club of 20,000+ but no fan control.",
+   "conscience": "UEFA fines (EUR 79,000) and a Sektion 12 closure for pyrotechnics; no racism sanction found; hooligan groups exist.",
+   "ground": "Parken, 38,065, central Copenhagen, national stadium; ~29,000 average.",
+   "contender": "Eight Superliga titles since 2011 (latest 2025) and six cups; regular in Europe.",
+   "rituals": "Sektion 12 tifos and the derby with Brøndby, known in Scandinavia.",
+   "stewardship": "Parken Sport & Entertainment, listed; Danish investors incl. Lars Seier Christensen's Seier Capital (2020 data).",
+   "women": "Women's team founded 2024, promoted to the A-Liga in 2026.",
+   "intensity": "Mixed, possession-leaning; Bo Svensson coach (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/F.C._Copenhagen",
+   "https://en.wikipedia.org/wiki/F.C._Copenhagen_(women)",
+   "https://www.tv2kosmopol.dk/koebenhavn/uefa-giver-fck-stor-boede-og-truer-med-lukket-fanafsnit",
+   "https://en.wikipedia.org/wiki/Parken_Sport_%26_Entertainment"
+  ],
+  "state": false
+ },
+ "936": {
+  "name": "Sint-Truidense",
+  "src": "Sint-Truidense",
+  "terrace": 4,
+  "city": 7,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 5,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 4,
+  "intensity": 6,
+  "ll": [
+   50.81,
+   5.17
+  ],
+  "why": {
+   "terrace": "Home support ('De Kanaries') known in Belgium; no notable organised end found (estimate).",
+   "city": "The town's club since 1924; main identity of a small Limburg town (estimate).",
+   "voice": "Corporate owner; no fan influence found.",
+   "conscience": "Nothing notable found (estimate).",
+   "ground": "Stayen, 14,600, compact, on the same site since 1927.",
+   "contender": "3rd in the 2025-26 Pro League; mostly mid-to-low table before; no major honours.",
+   "rituals": "Yellow 'Canaries' identity; little known beyond Belgium.",
+   "stewardship": "DMM.com (Japanese company) since 2017; run largely as a European stepping stone for Japanese players.",
+   "women": "Women's team in the Belgian Super League since the 2008 Wezemaal merger.",
+   "intensity": "Energetic, counter-pressing side in the 2025-26 run (estimate)."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sint-Truidense_V.V."
+  ],
+  "state": false
+ },
+ "997": {
+  "name": "Trabzonspor",
+  "src": "Trabzonspor",
+  "terrace": 7,
+  "city": 10,
+  "voice": 5,
+  "conscience": 2,
+  "ground": 7,
+  "contender": 7.5,
+  "rituals": 5,
+  "stewardship": 6,
+  "women": 3,
+  "intensity": 5,
+  "ll": [
+   41.0,
+   39.65
+  ],
+  "why": {
+   "terrace": "Organised supporter groups and big home choreographies; known as one of Turkey's loudest crowds; slogan 'Bize her yer Trabzon'.",
+   "city": "Trabzon's only major club and regional identity; first Anatolian club to break the Istanbul clubs' hold on the title.",
+   "voice": "Members' association: congress elects the president (Ertugrul Dogan, re-elected unopposed Nov 2024); the listed football company is controlled by the association.",
+   "conscience": "Sanctioned violence: fans invaded the pitch and attacked Fenerbahce players in March 2024 (TFF closed-doors ban, reduced to four matches on appeal); 2016 assistant-referee attack. No racism case found.",
+   "ground": "Senol Gunes Sports Complex (Papara Park), 40,980, opened 2016 on the coast outside the centre; loud, well filled for big matches.",
+   "contender": "Super Lig champions 2021-22 (7 titles), Turkish Cup 2025-26 (10 total); 3rd in 2023-24 and 2025-26.",
+   "rituals": "'Bize her yer Trabzon' chant and claret-and-blue choreographies; known in Turkey, not much beyond.",
+   "stewardship": "Member club run by elected president Ertugrul Dogan; heavy debt and a 2019-20 UEFA FFP European ban.",
+   "women": "Operates a women's team; profile low (estimate).",
+   "intensity": "No clear identity: coaches rotate (Avci, Bjelica, Gunes, now Thomas Reis); estimate."
+  },
+  "researched": "clubs-2026-10",
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trabzonspor"
+  ],
+  "state": false
  }
 }

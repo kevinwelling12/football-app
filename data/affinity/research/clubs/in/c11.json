@@ -1,0 +1,47 @@
+[
+ {
+  "espn_id": "21615",
+  "name": "Torreense",
+  "league": "uel"
+ },
+ {
+  "espn_id": "256",
+  "name": "Celtic",
+  "league": "uel"
+ },
+ {
+  "espn_id": "2790",
+  "name": "RB Salzburg",
+  "league": "uel"
+ },
+ {
+  "espn_id": "2990",
+  "name": "Lech Poznan",
+  "league": "uel"
+ },
+ {
+  "espn_id": "3362",
+  "name": "NK Celje",
+  "league": "uel"
+ },
+ {
+  "espn_id": "3746",
+  "name": "SK Sturm Graz",
+  "league": "uel"
+ },
+ {
+  "espn_id": "433",
+  "name": "Sparta Prague",
+  "league": "uel"
+ },
+ {
+  "espn_id": "435",
+  "name": "Olympiacos",
+  "league": "uel"
+ },
+ {
+  "espn_id": "441",
+  "name": "Anderlecht",
+  "league": "uel"
+ }
+]

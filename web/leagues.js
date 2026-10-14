@@ -26,7 +26,10 @@ export const LEAGUES = {
     columns: ['title', 'ucl', 'rel'],
   },
   ucl: {
-    name: 'Champions League', short: 'Champions League', tag: 'UCL', region: 'Europe', season: '2026–27', color: '#3A86FF',
+    // cup: clubs from many leagues; each club belongs to its domestic league where the app shows it (app.js HOME_ORDER)
+    name: 'Champions League', short: 'Champions League', tag: 'UCL', region: 'Europe', season: '2026–27', color: '#3A86FF', cup: true,
+    // league phase ranking (Art. 18): points, goal difference, goals, away goals, wins (then away wins, opponents'
+    // points, goal difference and goals, discipline, coefficient: not modelled)
     tiebreak: ['pts', 'gd', 'gf', 'awayGf', 'w'],
     zones: [
       { key: 'r16', label: 'Round of 16', short: 'Top 8', from: 1, to: 8, tone: 'good' },
@@ -139,8 +142,31 @@ export const LEAGUES = {
     columns: ['po', 'home', 'champ'],
     note: 'Liguilla: the top eight, 1st v 8th, 2nd v 7th, 3rd v 6th, 4th v 5th, then reseeded. Every round is two legs with the higher place at home second; level on aggregate, the higher place goes through, except in the final (extra time, then penalties). No Play-In since the Clausura 2026, and no relegation.',
   },
+  // Europa League and Conference League 2026-27: the Champions League format (regulations Art. 18 and 19 are the same):
+  // 36 clubs, 1-8 to the round of 16, 9-24 to the knockout play-off (9/10 v 23/24 ... 15/16 v 17/18), 25-36 out;
+  // two-legged ties, a single final at a neutral venue. Europa League 8 league-phase matches each, Conference League 6.
+  uel: {
+    name: 'Europa League', short: 'Europa League', tag: 'UEL', region: 'Europe', season: '2026–27', color: '#56CFE1', cup: true,
+    tiebreak: ['pts', 'gd', 'gf', 'awayGf', 'w'],
+    zones: [
+      { key: 'r16', label: 'Round of 16', short: 'Top 8', from: 1, to: 8, tone: 'good' },
+      { key: 'ko', label: 'Knockout play-off', short: 'Top 24', from: 1, to: 24, tone: 'ok' },
+    ],
+    playoffs: { type: 'ucl' },
+    columns: ['r16', 'ko', 'champ'],
+  },
+  uecl: {
+    name: 'Conference League', short: 'Conference League', tag: 'UECL', region: 'Europe', season: '2026–27', color: '#B5838D', cup: true,
+    tiebreak: ['pts', 'gd', 'gf', 'awayGf', 'w'],
+    zones: [
+      { key: 'r16', label: 'Round of 16', short: 'Top 8', from: 1, to: 8, tone: 'good' },
+      { key: 'ko', label: 'Knockout play-off', short: 'Top 24', from: 1, to: 24, tone: 'ok' },
+    ],
+    playoffs: { type: 'ucl' },
+    columns: ['r16', 'ko', 'champ'],
+  },
 };
-export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex'];
+export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'uel', 'uecl'];
 // Kevin's own competitions (the rest are shown more quietly on Today)
 export const MAIN = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
 export const FAVORITES = ['Liverpool', 'Borussia Dortmund', 'Sacramento Republic FC', 'Portland Timbers', 'Portland Thorns FC'];

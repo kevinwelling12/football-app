@@ -1,0 +1,47 @@
+[
+ {
+  "espn_id": "490",
+  "name": "Levski Sofia",
+  "league": "uel"
+ },
+ {
+  "espn_id": "5807",
+  "name": "Union St.-Gilloise",
+  "league": "uel"
+ },
+ {
+  "espn_id": "597",
+  "name": "Dinamo Zagreb",
+  "league": "uel"
+ },
+ {
+  "espn_id": "617",
+  "name": "Omonia Nicosia",
+  "league": "uel"
+ },
+ {
+  "espn_id": "622",
+  "name": "Ferencvaros",
+  "league": "uel"
+ },
+ {
+  "espn_id": "987",
+  "name": "Lillestrom",
+  "league": "uel"
+ },
+ {
+  "espn_id": "10834",
+  "name": "CSKA Sofia",
+  "league": "uecl"
+ },
+ {
+  "espn_id": "139",
+  "name": "Ajax Amsterdam",
+  "league": "uecl"
+ },
+ {
+  "espn_id": "152",
+  "name": "FC Twente",
+  "league": "uecl"
+ }
+]

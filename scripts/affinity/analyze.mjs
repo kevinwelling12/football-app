@@ -7,7 +7,7 @@ const traits = JSON.parse(fs.readFileSync('data/affinity/traits.json', 'utf8'));
 const raw = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
 const FAVS = ['364', '124', '17828', '9723', '15362'];
 const LEAGUE = {};
-for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl']) for (const t of JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams) LEAGUE[t.id] ??= k;
+for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl', 'uel', 'uecl']) for (const t of JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams) LEAGUE[t.id] ??= k;
 const answered0 = raw.filter(p => p.pick !== "can't say" && traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: p.pick === traits[p.ida].name ? p.ida : p.idb, t: p.t }));
 const skipped = raw.filter(p => p.pick === "can't say");
 const out = [];

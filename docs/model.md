@@ -3,10 +3,10 @@
 ## Data
 - ESPN scoreboard API, one request per match day, seasons 2016 on (`history/`). Per match: score, status, stage
   (post-season rounds), shots, shots on target, possession, odds when ESPN has them, TV.
-- 21 leagues: the 11 shown (Kevin's six plus La Liga, Serie A, Ligue 1, the Championship and Liga MX, added 2026-10-13)
-  plus Primeira Liga, Eredivisie, Belgian Pro League, Scottish Premiership, Süper Lig, 2. Bundesliga, Europa League,
-  Conference League, Leagues Cup and Concacaf Champions Cup. The extra ones only feed ratings: they put every Champions
-  League club on one scale, give promoted clubs a real history, and link MLS with Liga MX.
+- 21 leagues: the 13 shown (Kevin's six plus La Liga, Serie A, Ligue 1, the Championship, Liga MX, the Europa League and
+  the Conference League, added 2026-10-13) plus Primeira Liga, Eredivisie, Belgian Pro League, Scottish Premiership,
+  Süper Lig, 2. Bundesliga, Leagues Cup and Concacaf Champions Cup. The extra ones only feed ratings: they put every
+  UEFA cup club on one scale, give promoted clubs a real history, and link MLS with Liga MX.
 - Liga MX: ESPN's season 2016-2021 = calendar year, 2022 = Jan 2022 to May 2023 (three tournaments), 2023 on = Jul-May.
   Each match carries `tn` (A2026 = Apertura 2026, C2027 = Clausura 2027, from ESPN's season-type slug); Play-In,
   reclassification and Liguilla matches carry `stage`.
@@ -60,8 +60,9 @@ fixtures (season odds), where no line exists yet.
 a remaining-time grid (red cards: own rate ×0.67, opponent ×1.25 each). Tiebreakers per league (USL, La Liga, Serie A and
 Ligue 1 use head-to-head in the table, La Liga/Serie A/Ligue 1 only once the tied clubs have played each other twice; the
 simulation approximates it with the later criteria; Serie A's one-off play-off for first or 17th isn't modelled).
-Post-season brackets: UCL (league phase, play-off pairings, two-legged ties with extra time and penalties, neutral
-final), MLS (wild card, best-of-three Round One, single matches after), NWSL (top 8), USL (top 8 per conference),
+Post-season brackets: UCL, also used for the Europa League and Conference League (same regulations Art. 18-19 in
+2026-27; 8 league-phase matches each in the UCL and UEL, 6 in the UECL; play-off pairings 9/10 v 23/24 ... 15/16 v
+17/18, two-legged ties with extra time and penalties, neutral final), MLS (wild card, best-of-three Round One, single matches after), NWSL (top 8), USL (top 8 per conference),
 Championship ('efl': 3 v 6 and 4 v 5 over two legs, neutral final; 'up' = top two plus the play-off winner), Liga MX ('mex':
 top eight, 1v8 2v7 3v6 4v5, reseeded semis, two legs everywhere with the higher place at home second and through on a level
 aggregate, final with extra time and penalties; the table is the current tournament only). Real post-season results are used once played.
