@@ -3,17 +3,21 @@
 ## Data
 - ESPN scoreboard API, one request per match day, seasons 2016 on (`history/`). Per match: score, status, stage
   (post-season rounds), shots, shots on target, possession, odds when ESPN has them, TV.
-- 18 leagues: the 10 shown (Kevin's six plus La Liga, Serie A, Ligue 1 and the Championship, added 2026-10-13) plus
-  Primeira Liga, Eredivisie, Belgian Pro League, Scottish Premiership, Süper Lig, 2. Bundesliga, Europa League and
-  Conference League. The extra ones only feed ratings: they put every Champions League club on one scale and give
-  promoted clubs a real history.
+- 21 leagues: the 11 shown (Kevin's six plus La Liga, Serie A, Ligue 1, the Championship and Liga MX, added 2026-10-13)
+  plus Primeira Liga, Eredivisie, Belgian Pro League, Scottish Premiership, Süper Lig, 2. Bundesliga, Europa League,
+  Conference League, Leagues Cup and Concacaf Champions Cup. The extra ones only feed ratings: they put every Champions
+  League club on one scale, give promoted clubs a real history, and link MLS with Liga MX.
+- Liga MX: ESPN's season 2016-2021 = calendar year, 2022 = Jan 2022 to May 2023 (three tournaments), 2023 on = Jul-May.
+  Each match carries `tn` (A2026 = Apertura 2026, C2027 = Clausura 2027, from ESPN's season-type slug); Play-In,
+  reclassification and Liguilla matches carry `stage`.
 - Bookmaker odds: ESPN shows DraftKings (or bet365) before kickoff and drops them after; the sync keeps the last
   pre-match line. For backtests, closing odds come from football-data.co.uk (EPL, Bundesliga, MLS; no NWSL/USL source).
 - Not used: ClubElo (API unreachable on 2026-10-13; we compute our own Elo), Opta and FotMob (no free feed, no scraping).
 
 ## Ratings
 1. **Elo** over the whole history in time order (K 22, home advantage 60, goal-difference multiplier, UEFA matches
-   ×1.25). European clubs share one pool; MLS, NWSL and USL are separate pools. New season: 15% pull to the league mean.
+   ×1.25). European clubs share one pool; MLS and Liga MX share one (pool 'mls', linked by
+   Leagues Cup and Concacaf Champions Cup matches, which count like UEFA matches); NWSL and USL are separate pools. New season: 15% pull to the league mean.
 2. **Attack / defence** (Dixon-Coles style, fitted with 8 EM passes): each match weighted by recency (half-life per pool),
    the target for each side = wGoals × goals + (1 − wGoals) × xG proxy, where the proxy is fitted per pool as
    a × shots on target + b × other shots. Each club is pulled toward a prior from its Elo with the strength of k matches
@@ -36,6 +40,12 @@ guessing = 1.099):
 
 \* current season only, goals only, no Elo prior (what the previous app did).
 
+MLS + Liga MX pool (2026-10-13, MLS's tuned settings kept): MLS 2,856 matches, log loss 1.0443, 1.062 pts (MLS alone:
+1.0441, 1.064); Liga MX 1,779 matches, 1.0243, 1.075 (Liga MX alone: 1.0236, 1.079). Joint draw calibration rho −0.16,
+drawK 0.9. Joining is neutral for league matches (differences are noise); it puts both leagues on one Elo scale. Re-tuning
+the joint pool helped Liga MX (1.0217) but cost MLS (1.0451, 1.057 pts), so it wasn't kept. No closing-odds history for
+Liga MX yet (football-data.co.uk has a MEX.csv), so its market weight is MLS's.
+
 Tuned settings: Europe half-life 200 days, goals/proxy 50/50, prior 10 matches, gamma 1.6; MLS 120 / 50/50 / 16 / 0.6;
 NWSL 120 / shots proxy only / 4 / 0.2; USL 160 / 85% goals / 16 / 1.0. Shots carry the most signal in the NWSL and
 the least in the USL.
@@ -52,7 +62,9 @@ Ligue 1 use head-to-head in the table, La Liga/Serie A/Ligue 1 only once the tie
 simulation approximates it with the later criteria; Serie A's one-off play-off for first or 17th isn't modelled).
 Post-season brackets: UCL (league phase, play-off pairings, two-legged ties with extra time and penalties, neutral
 final), MLS (wild card, best-of-three Round One, single matches after), NWSL (top 8), USL (top 8 per conference),
-Championship ('efl': 3 v 6 and 4 v 5 over two legs, neutral final; 'up' = top two plus the play-off winner). Real post-season results are used once played.
+Championship ('efl': 3 v 6 and 4 v 5 over two legs, neutral final; 'up' = top two plus the play-off winner), Liga MX ('mex':
+top eight, 1v8 2v7 3v6 4v5, reseeded semis, two legs everywhere with the higher place at home second and through on a level
+aggregate, final with extra time and penalties; the table is the current tournament only). Real post-season results are used once played.
 
 ## Clinching
 Proven, never simulated. A quick bound first (rivals' maximum points), then an exact check over rival sets with a

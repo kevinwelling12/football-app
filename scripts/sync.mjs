@@ -84,8 +84,11 @@ async function publish() {
       const season = currentSeason(k), file = fileOf(k, season), S = read(file);
       if (!S) continue;
       const { g, rank } = await groupsFor(k).catch(() => ({ g: {}, rank: {} }));
+      // Liga MX: only the current tournament (Apertura or Clausura) is published, so the table is that tournament's
+      const tour = LEAGUES[k].split ? currentTournament(S.matches) : null;
+      const SM = tour ? S.matches.filter(m => m.tn === tour) : S.matches;
       // clubs: those with at least 4 matches this season in this competition
-      const games = {}; for (const m of S.matches) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
+      const games = {}; for (const m of SM) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
       const ids = Object.keys(S.teams).filter(id => games[id] >= 4);
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
       const noTraits = [];
@@ -101,14 +104,14 @@ async function publish() {
       const base = (fit.base[k] || [1.5, 1.2]).map(x => +x.toFixed(4));
       const Pm = { rho, drawK, mktW };
       // walk-forward predictions for played matches that have none yet (first run of a season)
-      const missing = S.matches.some(m => played(m) && (!m.pk || m.pk.wf) && !m.stage);
+      const missing = SM.some(m => played(m) && (!m.pk || m.pk.wf) && !m.stage);
       let wf = new Map();
       if (missing) {
         const preds = walkForward(pl, { ...data, matches: data.matches }, P, { from: season, only: k });
         wf = new Map(preds.map(p => [p.m.id, p]));
       }
       const matches = [];
-      for (const m of S.matches) {
+      for (const m of SM) {
         if (idx[m.h] == null || idx[m.a] == null) continue;
         const [lh, la] = rates(fit, { ...m, lg: k }, elo.R, P);
         const out = { id: m.id, t: m.t, h: idx[m.h], a: idx[m.a], st: m.st };
@@ -130,7 +133,7 @@ async function publish() {
         matches.push(out);
       }
       fs.writeFileSync(file, JSON.stringify(S)); // keeps the frozen predictions
-      const L = { key: k, season, updated: index.updated, teams, base, ucl: fit.base.ucl, P: Pm, model: { ...P, shots: sm, test: params[pl]?.byLeague?.[k] }, matches };
+      const L = { key: k, season, ...(tour ? { tour: tourName(tour) } : {}), updated: index.updated, teams, base, ucl: fit.base.ucl, P: Pm, model: { ...P, shots: sm, test: params[pl]?.byLeague?.[k] }, matches };
       fs.writeFileSync(`web/data/${k}.json`, JSON.stringify(L));
       index.leagues[k] = { teams: teams.length, matches: matches.length, played: matches.filter(m => m.hs != null && m.st !== 'live').length };
       report.push(`${k}: published ${teams.length} clubs, ${matches.length} matches, market weight ${mktW}`);
@@ -141,6 +144,17 @@ async function publish() {
   fs.copyFileSync('data/affinity/rivals.json', 'web/data/rivals.json');
   fs.copyFileSync('data/affinity/players.json', 'web/data/players.json');
 }
+
+// Liga MX tournaments ('A2026', 'C2027'): the latest one whose first match is at most a week away, so the app moves
+// to the Clausura in the week before it starts.
+function currentTournament(matches) {
+  const first = {};
+  for (const m of matches) if (m.tn && (!first[m.tn] || m.t < first[m.tn])) first[m.tn] = m.t;
+  const soon = new Date(today.getTime() + 7 * 864e5).toISOString();
+  const started = Object.keys(first).filter(t => first[t] <= soon).sort((a, b) => first[a].localeCompare(first[b]));
+  return started.at(-1) || Object.keys(first).sort((a, b) => first[a].localeCompare(first[b]))[0] || null;
+}
+const tourName = tn => `${tn[0] === 'A' ? 'Apertura' : 'Clausura'} ${tn.slice(1)}`;
 
 // The backtest scores model/market blends on matches with closing odds; take the best weight (default 0.7).
 function pickMarketWeight(blends) {

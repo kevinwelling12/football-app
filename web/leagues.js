@@ -124,8 +124,23 @@ export const LEAGUES = {
     columns: ['auto', 'po', 'up', 'rel'],
     note: 'Play-offs: 3rd v 6th and 4th v 5th over two legs (the higher place at home second), then a final at Wembley. Three clubs go up.',
   },
+  mex: {
+    name: 'Liga MX', short: 'Liga MX', tag: 'MX', region: 'Mexico', pool: 'mls', season: '2026–27', color: '#52B788',
+    // two tournaments a season (Apertura Jul-Dec, Clausura Jan-May); the published data and the table are the current
+    // one only (scripts/sync.mjs). Official order: points, goal difference, goals scored, head-to-head, away goals
+    // (then relegation coefficient and fair play, not modelled).
+    tiebreak: ['pts', 'gd', 'gf', 'h2h', 'awayGf'],
+    zones: [
+      { key: 'shield', label: 'Superlíder (top of the table)', short: '1st', from: 1, to: 1, tone: 'gold' },
+      { key: 'home', label: 'Quarter-final, second leg at home', short: 'Top 4', from: 1, to: 4, tone: 'good' },
+      { key: 'po', label: 'Liguilla (top 8)', short: 'Top 8', from: 1, to: 8, tone: 'ok' },
+    ],
+    playoffs: { type: 'mex' },
+    columns: ['po', 'home', 'champ'],
+    note: 'Liguilla: the top eight, 1st v 8th, 2nd v 7th, 3rd v 6th, 4th v 5th, then reseeded. Every round is two legs with the higher place at home second; level on aggregate, the higher place goes through, except in the final (extra time, then penalties). No Play-In since the Clausura 2026, and no relegation.',
+  },
 };
-export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2'];
+export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex'];
 // Kevin's own competitions (the rest are shown more quietly on Today)
 export const MAIN = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
 export const FAVORITES = ['Liverpool', 'Borussia Dortmund', 'Sacramento Republic FC', 'Portland Timbers', 'Portland Thorns FC'];

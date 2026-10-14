@@ -148,7 +148,7 @@ function runSim(k) {
 }
 
 // ------------------------------------------------------------------ live scores from ESPN
-const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2' };
+const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1' };
 async function pollLive() {
   const now = Date.now();
   for (const k of ORDER) {
@@ -402,7 +402,7 @@ function viewTable(k) {
   if (proj) html += `<p class="note">Average points and the likely range (80% of ${SIMS.toLocaleString()} simulated seasons), ordered by average finish.</p>`;
   else if (live) html += `<p class="note">${liveNow.length} match${liveNow.length > 1 ? 'es' : ''} in progress counted at the current score. Arrows: places moved since kickoff.</p>`;
   else if (!S) html += '<p class="note">Running simulations…</p>';
-  if (rules.note) html += `<p class="note">${esc(rules.note)}</p>`;
+  if (rules.note) html += `<p class="note">${L.tour ? `${esc(L.tour)} table. ` : ''}${esc(rules.note)}</p>`;
   return html;
 }
 
@@ -582,18 +582,19 @@ function viewClubs() {
   const cards = [], seen = new Set();
   for (const k of HOME_ORDER) if (D[k]) D[k].teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   html += `<div class="section"><h2>Your clubs</h2><span class="aside">tap ☆ on any club to follow</span></div><div class="card row-gap">${cards.join('') || '<div class="empty">None yet.</div>'}</div>`;
-  // ratings: Europe is one Elo scale (linked through UEFA matches); each US league is its own
+  // ratings: Europe is one Elo scale (linked through UEFA matches), MLS and Liga MX another (Leagues Cup, Concacaf
+  // Champions Cup); NWSL and USL each their own
   const POOLS = { eur: HOME_ORDER.filter(k => LEAGUES[k].region === 'Europe') }, PN = { eur: 'Europe' };
-  for (const k of ORDER) if (LEAGUES[k].region !== 'Europe') { POOLS[k] = [k]; PN[k] = LEAGUES[k].tag; }
-  const sel = POOLS[ui.ratingsLg] ? ui.ratingsLg : 'eur';
+  for (const k of ORDER) if (LEAGUES[k].region !== 'Europe') { const p = LEAGUES[k].pool || k; (POOLS[p] ||= []).push(k); PN[p] = POOLS[p].map(x => LEAGUES[x].tag).join(' · '); }
+  const sel = POOLS[ui.ratingsLg] ? ui.ratingsLg : 'eur', mixed = POOLS[sel].length > 1;
   html += `<div class="section"><h2>Power ratings</h2></div><nav class="chips" style="padding:0 0 10px">${Object.keys(POOLS).map(k => `<button class="chip ${sel === k ? 'on' : ''}" data-rlg="${k}">${PN[k]}</button>`).join('')}</nav>`;
   const rows = [], seen2 = new Set();
   for (const k of POOLS[sel]) D[k]?.teams.forEach((t, i) => { if (!seen2.has(t.id)) { seen2.add(t.id); rows.push([k, i, t]); } });
   // expected goal difference a match against an average side in the club's league (from the attack/defence fit)
   const strength = (k, t) => { const b = D[k].base, avg = (b[0] + b[1]) / 2; return avg * t.A - avg * t.D; };
   rows.sort((a, b) => b[2].elo - a[2].elo);
-  html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>${sel === 'eur' ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td><td class="muted">${sel === 'eur' ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
-    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and seven other leagues feed it too); MLS, NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
+  html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td><td class="muted">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
+    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and seven other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
   const pull = AF.TRAITS.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = AF.FLAGS.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);

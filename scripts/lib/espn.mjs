@@ -36,7 +36,7 @@ export const scoreboard = (key, day) => getJSON(`${BASE}/${LEAGUES[key].espn}/sc
 export async function seasonDays(key, season) {
   const L = LEAGUES[key];
   let lg = null;
-  for (const probe of L.euro ? ['0915', '1022', '1203'] : ['0601', '0815']) {
+  for (const probe of L.probes || (L.euro ? ['0915', '1022', '1203'] : ['0601', '0815'])) {
     const d = await scoreboard(key, `${season}${probe}`);
     lg = d?.leagues?.[0];
     if (lg && lg.season?.year === season && lg.calendar?.length) break;

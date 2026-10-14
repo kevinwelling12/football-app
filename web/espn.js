@@ -39,7 +39,12 @@ export function parseEvent(e) {
   let st = STATE[stName] || (state === 'in' ? 'live' : state === 'post' ? 'ft' : 'pre');
   const m = { id: e.id, t: e.date, h: home.team.id, a: away.team.id, st };
   if (c.neutralSite) m.n = 1;
-  if (/playoff|play-off|round|final|knockout|wild|semi|quarter/i.test(e.season?.slug || '')) m.stage = e.season.slug;
+  const slug = e.season?.slug || '';
+  // Liga MX: two tournaments per ESPN season. tn = 'A2026' (Apertura) / 'C2027' (Clausura); regular-season slugs start
+  // 'torneo-', the Play-In and Liguilla ones with the tournament name ('apertura---7th-place-vs-8th-place')
+  const tn = /apertura|clausura/i.exec(slug);
+  if (tn) m.tn = tn[0][0].toUpperCase() + e.date.slice(0, 4);
+  if (/playoff|play-off|round|final|knockout|wild|semi|quarter/i.test(slug) || (tn && !/^torneo/i.test(slug))) m.stage = slug;
   if (['ft', 'aet', 'pen', 'live', 'susp'].includes(st)) { m.hs = num(home.score); m.as = num(away.score); }
   if (st === 'live') {
     m.clock = c.status.type.shortDetail || c.status.displayClock;

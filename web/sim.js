@@ -196,8 +196,40 @@ function bracket(type, L, r, seeds, pts, matches) {
     mark('sf', s.slice(2, 6)); mark('final', sf);
     const w = play(sf[0], sf[1], () => koMatch(L, r, sf[0], sf[1], true));
     mark('champ', [w]); mark('up', [s[0], s[1], w]);
+  } else if (type === 'mex') {
+    // Liga MX Liguilla: top eight, 1v8 2v7 3v6 4v5, semi-finals reseeded (best remaining v worst). Two legs, the
+    // higher place at home second. Level on aggregate: the higher place goes through (quarters and semis); the final
+    // has extra time and penalties.
+    const s = seeds[0], rank = new Map(s.map((t, k) => [t, k]));
+    const tie = (x, y, final = false) => { const [hi, lo] = rank.get(x) < rank.get(y) ? [x, y] : [y, x]; return mexTie(L, r, matches, lo, hi, final); };
+    const qf = [tie(s[0], s[7]), tie(s[1], s[6]), tie(s[2], s[5]), tie(s[3], s[4])];
+    mark('sf', qf);
+    const q = [...qf].sort((a, b) => rank.get(a) - rank.get(b));
+    const sf = [tie(q[0], q[3]), tie(q[1], q[2])]; mark('final', sf);
+    mark('champ', [tie(sf[0], sf[1], true)]);
   }
   return out;
+}
+
+// One Liga MX two-legged tie, lo at home first, hi (the higher place) at home second. Uses legs already played.
+export function mexTie(L, r, matches, lo, hi, final) {
+  const legs = matches.filter(m => m.stage && ((m.h === lo && m.a === hi) || (m.h === hi && m.a === lo)));
+  const leg1 = legs.find(m => m.h === lo && isPlayed(m)), leg2 = legs.find(m => m.h === hi && isPlayed(m));
+  let gl, gh;
+  if (leg1) { gl = leg1.hs; gh = leg1.as; } else { const k = sample(cachedCdf(L, lo, hi, false, L.base), r()); gl = (k / W) | 0; gh = k % W; }
+  if (leg2) {
+    gl += leg2.as; gh += leg2.hs;
+    if (gl !== gh) return gl > gh ? lo : hi;
+    if (leg2.so) return leg2.so[0] > leg2.so[1] ? hi : lo;
+    if (!final) return hi;
+  } else {
+    const k = sample(cachedCdf(L, hi, lo, false, L.base), r()); gh += (k / W) | 0; gl += k % W;
+    if (gl !== gh) return gl > gh ? lo : hi;
+    if (!final) return hi;
+  }
+  const [lh, la] = lam(L, hi, lo, false, L.base), eh = poisson(r, lh / 3), el = poisson(r, la / 3);
+  if (eh !== el) return eh > el ? hi : lo;
+  return r() < 0.5 ? hi : lo;
 }
 
 // ---------------------------------------------------------------- simulation

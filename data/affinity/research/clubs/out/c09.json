@@ -1,0 +1,317 @@
+[
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex",
+  "terrace": 3,
+  "city": 4,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 3,
+  "stewardship": 4,
+  "women": 3,
+  "intensity": 4,
+  "why": {
+   "terrace": "Small home barra; no organised end known beyond the league (estimate)",
+   "city": "Founded in Mexico City 1923, moved to Aguascalientes 2003; the city's only top-flight club",
+   "voice": "No supporter ownership or documented fan influence",
+   "conscience": "Fan brawl with Atlas supporters outside Estadio Victoria, home barra given a one-match ban (Jan 2024)",
+   "ground": "Estadio Victoria, ~23,000, modern, not usually full (estimate)",
+   "contender": "Three league titles (1990s), Copa MX 2018; 15th in Clausura 2026",
+   "rituals": "Los Rayos, Once Hermanos history; no widely known rituals",
+   "stewardship": "NX Football USA LLC (US investors incl. Eva Longoria) 50% with a Mexican partner; Reynolds/McElhenney minority stake, cross-investment with Wrexham",
+   "women": "Liga MX Femenil side, not a contender (estimate)",
+   "intensity": "Juan Reynoso's side; no clear front-foot identity (estimate)"
+  },
+  "ll": [
+   21.88,
+   -102.28
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Necaxa"
+  ]
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex",
+  "terrace": 4,
+  "city": 7,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 8,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 6,
+  "intensity": 6,
+  "why": {
+   "terrace": "Home barra present, not known as a defining end (estimate)",
+   "city": "Founded 1892 by Cornish miners; Tuzos nickname and clock crest tie it to the mining city",
+   "voice": "Privately run by Grupo Pachuca; no fan influence documented",
+   "conscience": "Nothing notable found; academy and university programmes (estimate)",
+   "ground": "Estadio Hidalgo, ~26,000, compact (atmosphere estimate)",
+   "contender": "Liga MX Apertura 2022, CONCACAF Champions Cup 2024, Intercontinental Cup final 2024; semi-finals Clausura 2026",
+   "rituals": "'Cradle of Mexican football' heritage; no widely known rituals",
+   "stewardship": "Grupo Pachuca (Martínez family, Jesús Martínez); also owns León, which cost León its 2025 Club World Cup place",
+   "women": "Liga MX Femenil champions Clausura 2025 after several finals",
+   "intensity": "Youth-heavy, attacking sides under recent coaches (estimate)"
+  },
+  "ll": [
+   20.1,
+   -98.76
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.F._Pachuca"
+  ]
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex",
+  "terrace": 3,
+  "city": 5,
+  "voice": 1,
+  "conscience": 3,
+  "ground": 4,
+  "contender": 1,
+  "rituals": 3,
+  "stewardship": 2,
+  "women": 2,
+  "intensity": 4,
+  "why": {
+   "terrace": "Home barra exists, not prominent (estimate)",
+   "city": "Main club of a large city, once shared with Lobos BUAP (sold 2019)",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Nothing notable found; little visible inclusion work (estimate)",
+   "ground": "Estadio Cuauhtémoc, ~51,700, large bowl, often far from full (estimate)",
+   "contender": "League titles 1983 and 1990, Copa MX 2015; 17th in Clausura 2026",
+   "rituals": "La Franja diagonal stripe is the club's emblem; known in Mexico",
+   "stewardship": "Grupo Salinas (Ricardo Salinas Pliego), which also held Mazatlán until its 2026 sale",
+   "women": "Liga MX Femenil side near the bottom (estimate)",
+   "intensity": "No clear identity; struggling sides (estimate)"
+  },
+  "ll": [
+   19.08,
+   -98.16
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Puebla"
+  ]
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex",
+  "terrace": 6,
+  "city": 6,
+  "voice": 3,
+  "conscience": 3,
+  "ground": 5,
+  "contender": 6,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 4,
+  "intensity": 6,
+  "why": {
+   "terrace": "La Rebel, a well-known Argentine-style barra behind the goal; La Plus too",
+   "city": "Mexico City's university club, sharing the city with América and Cruz Azul",
+   "voice": "Run by a civil association for UNAM; no member votes, university community ties",
+   "conscience": "Possible sanction for a banned chant at América by players and fans (Apertura 2024), outcome not found; no violence sanctions found",
+   "ground": "Estadio Olímpico Universitario, 1968 Olympic stadium, ~72,000, open bowl with track",
+   "contender": "Seven league titles (last 2011); top of the Clausura 2026 table, lost the final to Cruz Azul",
+   "rituals": "The 'Goya' university chant, known across Mexico",
+   "stewardship": "Owned by UNAM (autonomous public university), not a commercial asset; cantera-based",
+   "women": "Liga MX Femenil side, mid-table (estimate)",
+   "intensity": "Dynamic cantera tradition; Juárez's 2026 side scored freely (estimate)"
+  },
+  "ll": [
+   19.33,
+   -99.19
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Universidad_Nacional"
+  ]
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex",
+  "terrace": 2,
+  "city": 6,
+  "voice": 1,
+  "conscience": 1,
+  "ground": 5,
+  "contender": 2,
+  "rituals": 2,
+  "stewardship": 3,
+  "women": 2,
+  "intensity": 4,
+  "why": {
+   "terrace": "Resistencia Albiazul chants constantly, but barras were banned for three years after 2022",
+   "city": "The city's only club; described as family-supported in the Bajío",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "March 2022 Corregidora riot vs Atlas fans (at least 22 injured); stadium closed a year, barras banned three years, owners banned",
+   "ground": "Estadio Corregidora, ~35,500, 1986 World Cup venue, not usually full (estimate)",
+   "contender": "No league title; Copa MX 2016; 11th in Clausura 2026",
+   "rituals": "Gallos Blancos nickname; no widely known rituals",
+   "stewardship": "Innovatio Capital (US investors, chairman Marc Spiegel), bought from Grupo Caliente after the forced sale",
+   "women": "Liga MX Femenil side, lower table (estimate)",
+   "intensity": "No clear identity (estimate)"
+  },
+  "ll": [
+   20.58,
+   -100.37
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Querétaro_F.C."
+  ]
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex",
+  "terrace": 4,
+  "city": 8,
+  "voice": 1,
+  "conscience": 4,
+  "ground": 6,
+  "contender": 4,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 4,
+  "why": {
+   "terrace": "Home barra present, not a famous end (estimate)",
+   "city": "The club of Torreón and the Comarca Lagunera; once ranked fifth most popular in Mexico",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Nothing notable found (estimate)",
+   "ground": "Estadio Corona (TSM), ~30,000, modern and compact, opened 2009",
+   "contender": "Six league titles, last Clausura 2018; 18th in Clausura 2026",
+   "rituals": "Guerreros, green kit; no widely known rituals",
+   "stewardship": "Grupo Orlegi (Alejandro Irarragorri), multi-club: Atlas until its 2026 sale, plus Sporting Gijón",
+   "women": "Liga MX Femenil side, mid-table (estimate)",
+   "intensity": "Renato Paiva in charge; poor recent form, identity unclear (estimate)"
+  },
+  "ll": [
+   25.53,
+   -103.37
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santos_Laguna"
+  ]
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex",
+  "terrace": 7,
+  "city": 6,
+  "voice": 2,
+  "conscience": 3,
+  "ground": 8,
+  "contender": 9,
+  "rituals": 6,
+  "stewardship": 4,
+  "women": 9,
+  "intensity": 5,
+  "why": {
+   "terrace": "Libres y Lokos (1998), Mexico's largest ultras group; fans often ranked best in Liga MX",
+   "city": "Shares industrial Monterrey with Rayados; the Clásico Regio is a major derby",
+   "voice": "Run by CEMEX's Sinergia Deportiva for the university; barras reportedly influence ticketing, no formal fan voice",
+   "conscience": "Street brawl between Libres y Lokos and Rayados' La Adicción in San Antonio (2024), no sanction found; nothing else notable",
+   "ground": "Estadio Universitario 'El Volcán', ~41,600, usually sold out, 39,000+ season tickets",
+   "contender": "Five league titles 2011-2023, CONCACAF CL 2020; finals Apertura 2025 and CONCACAF Champions Cup 2026",
+   "rituals": "El Volcán atmosphere and Incomparables travelling support, known across Mexico",
+   "stewardship": "Operated by cement company CEMEX since 1996 on behalf of UANL",
+   "women": "Seven Liga MX Femenil titles (most of any club), latest Apertura 2025",
+   "intensity": "Long Ferretti era built on defence; star-led, mixed since (estimate)"
+  },
+  "ll": [
+   25.72,
+   -100.31
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tigres_UANL"
+  ]
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex",
+  "terrace": 4,
+  "city": 6,
+  "voice": 1,
+  "conscience": 2,
+  "ground": 5,
+  "contender": 3,
+  "rituals": 3,
+  "stewardship": 3,
+  "women": 4,
+  "intensity": 5,
+  "why": {
+   "terrace": "La Masakr3 barra is loud, known regionally (estimate)",
+   "city": "Founded 2007; became the border city's team, celebrated in the documentary Club Frontera",
+   "voice": "No fan ownership or documented influence",
+   "conscience": "Barra suspended three matches, club fined and warned for a violent incident (April 2024)",
+   "ground": "Estadio Caliente, ~27,000, artificial turf, owner's racetrack site",
+   "contender": "League title Apertura 2012, nothing since; 9th in Clausura 2026",
+   "rituals": "Xoloitzcuintle dog identity; no widely known rituals",
+   "stewardship": "Grupo Caliente (Hank family, betting and casinos); held Querétaro too until its sale",
+   "women": "Liga MX Femenil since 2017, mid-table (estimate)",
+   "intensity": "Sebastián Abreu's side; identity unclear (estimate)"
+  },
+  "ll": [
+   32.51,
+   -117.01
+  ],
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Tijuana"
+  ]
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex",
+  "terrace": 6,
+  "city": 8,
+  "voice": 1,
+  "conscience": 6,
+  "ground": 9,
+  "contender": 10,
+  "rituals": 6,
+  "stewardship": 7,
+  "women": 5,
+  "intensity": 7,
+  "why": {
+   "terrace": "Barra Perra Brava (1985) and La Banda del Rojo, continuous chanting",
+   "city": "Toluca's club with no local rival; highest stadium occupancy in Liga MX 2023-2025",
+   "voice": "Family-owned; no fan voice documented",
+   "conscience": "Perra Brava is a registered non-profit opposing stadium violence and doing charity work; nothing notable found against",
+   "ground": "Estadio Nemesio Díez 'La Bombonera', 1954, ~30,000, compact, downtown, 2,670 m altitude, ~94% full",
+   "contender": "Liga MX Clausura and Apertura 2025, CONCACAF Champions Cup 2026, Leagues Cup 2026; 12 titles",
+   "rituals": "Fans take off shirts after the first goal; known across Mexico",
+   "stewardship": "Valentín Diez Morodo, family owners since Nemesio Diez; long-term local",
+   "women": "Las Diablas reached their first Liga MX Femenil semi-final in Clausura 2026",
+   "intensity": "Antonio Mohamed's attacking title sides (estimate)"
+  },
+  "ll": [
+   19.29,
+   -99.67
+  ],
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Toluca_F.C."
+  ]
+ }
+]

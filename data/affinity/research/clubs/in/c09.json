@@ -1,0 +1,47 @@
+[
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex"
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex"
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex"
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex"
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex"
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex"
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex"
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex"
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex"
+ }
+]

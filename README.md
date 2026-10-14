@@ -1,6 +1,6 @@
 # Football
 
-Kevin's football tracker: Premier League, Bundesliga, Champions League, MLS, NWSL and USL Championship, plus La Liga, Serie A, Ligue 1 and the EFL Championship.
+Kevin's football tracker: Premier League, Bundesliga, Champions League, MLS, NWSL and USL Championship, plus La Liga, Serie A, Ligue 1, the EFL Championship and Liga MX.
 Live at https://kevinwelling12.github.io/football-app/
 
 - Results, fixtures, odds and live scores from ESPN's public API; manual entry for anything in progress.

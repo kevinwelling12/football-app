@@ -2,7 +2,7 @@
 
 Kevin (Sacramento) supports Liverpool, Borussia Dortmund, Portland Timbers, Portland Thorns and Sacramento Republic.
 Club Affinity is fitted to his picks from ten researched traits. You are scoring clubs in leagues he is just starting
-to follow (La Liga, Serie A, Ligue 1, EFL Championship). Score every club on each trait from 0 to 10 with the anchors
+to follow (La Liga, Serie A, Ligue 1, EFL Championship, Liga MX). Score every club on each trait from 0 to 10 with the anchors
 below. Same standard for every club and league: a 7 means the same for a Championship club and a La Liga club. Never
 grade on a curve within a league. Kevin started following football with the 2026 World Cup: don't judge a club by how
 famous it is in the US.

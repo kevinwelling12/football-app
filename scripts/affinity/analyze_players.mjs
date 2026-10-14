@@ -9,7 +9,7 @@ const P = JSON.parse(fs.readFileSync('data/affinity/players.json', 'utf8'));
 const T = JSON.parse(fs.readFileSync('data/affinity/traits.json', 'utf8'));
 const RV = JSON.parse(fs.readFileSync('data/affinity/rivals.json', 'utf8'));
 const league = {};
-for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'ucl']) for (const t of JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams) league[t.id] ??= k;
+for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl']) for (const t of JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams) league[t.id] ??= k;
 const rivals = new Set(Object.entries(RV).filter(([k]) => k !== '_note').flatMap(([, v]) => Object.keys(v.rivals)));
 const toPicks = (raw, name) => raw.map(p => ({ a: p.ida, b: p.idb, win: p.pick === "can't say" ? null : p.pick === name(p.ida) ? p.ida : p.idb }));
 const clubPicks = process.argv[3] ? toPicks(JSON.parse(fs.readFileSync(process.argv[3], 'utf8')), id => T[id]?.name) : [];

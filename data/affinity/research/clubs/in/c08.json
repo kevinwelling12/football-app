@@ -1,0 +1,47 @@
+[
+ {
+  "espn_id": "227",
+  "name": "América",
+  "league": "mex"
+ },
+ {
+  "espn_id": "226",
+  "name": "Atlante",
+  "league": "mex"
+ },
+ {
+  "espn_id": "216",
+  "name": "Atlas",
+  "league": "mex"
+ },
+ {
+  "espn_id": "15720",
+  "name": "Atlético de San Luis",
+  "league": "mex"
+ },
+ {
+  "espn_id": "218",
+  "name": "Cruz Azul",
+  "league": "mex"
+ },
+ {
+  "espn_id": "17851",
+  "name": "FC Juárez",
+  "league": "mex"
+ },
+ {
+  "espn_id": "219",
+  "name": "Guadalajara",
+  "league": "mex"
+ },
+ {
+  "espn_id": "228",
+  "name": "León",
+  "league": "mex"
+ },
+ {
+  "espn_id": "220",
+  "name": "Monterrey",
+  "league": "mex"
+ }
+]
