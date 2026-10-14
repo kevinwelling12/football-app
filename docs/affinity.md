@@ -44,6 +44,13 @@ the chance you'd pick the club over a typical one. "Your pull" = logistic(raw A 
 ## Get the picks for analysis
 Settings > Copy my Affinity picks, paste into a file, run the script above.
 
+## What 1,808 answers said (2026-10-14, after the new leagues and same-league pairs)
+- 81% of held-out picks (73% at 1,056). State ownership −3.3, rival of your club −2.2, run for the club +1.6, near
+  Sacramento +1.1, the city's club +1.0, racism/fan culture −0.9, fan voice +0.9, contender +0.8; women's side and great
+  home ground ~0. League familiarity (excluded): Bundesliga −1.7, La Liga −1.5, other UCL −1.4, Serie A −1.3, MLS −1.1.
+- He ranked his own five too: Sacramento Republic 30–0; Liverpool over Dortmund and the Thorns; Timbers over Dortmund.
+- Skips: Championship 86% of appearances, Liga MX 62% (the quiz learns this per league); Lazio 0–17.
+
 ## New clubs
 The sync reports clubs with no traits. Research the ten traits (anchors: old repo scripts/archetype/BRIEF.md) and add the
 club with lat/lon to data/affinity/traits.json.
