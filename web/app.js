@@ -785,13 +785,14 @@ function quizSheet() {
   sheetCtx = { type: 'quiz' };
   const ids = [...new Set(ORDER.flatMap(k => (D[k]?.teams || []).map(t => t.id)))].filter(id => TRAITS[id]);
   const A = affinity(), picks = store.get().affPicks || [];
-  const pair = AF.nextPair(A.model, ids, A.ctx, picks, favIds());
+  const focus = AF.focusPairs(A.model, ids, A.ctx, picks, favIds());
+  const pair = focus[0] || AF.nextPair(A.model, ids, A.ctx, picks, favIds());
   const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair;
   const side = id => { const [k, t] = team(id); return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
-  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
+  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${focus.length ? `Settling your top ten · ${focus.length} left` : `${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}`}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
     <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-quiz="skip">Can't say</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);

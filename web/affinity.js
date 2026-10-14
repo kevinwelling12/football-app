@@ -122,6 +122,23 @@ export function fit(traits, ctx, picks, opts = {}) {
 // Next pair to ask about: usually two clubs from the same league. Prefers clubs you're likely to know (big clubs,
 // leagues you answer for), and pairs the model finds close; skips clubs you've passed on twice, your own clubs, repeats.
 const KNOWN = { epl: 1, bl: 0.9, mls: 0.9, nwsl: 0.9, ucl: 0.5, usl: 0.5, esp: 0.4, ita: 0.4, fra: 0.4, eng2: 0.4, mex: 0.4 };
+// Pairs to settle the top of the list (Kevin, 2026-10-14): his own clubs and his ten favourite clubs overall in a round
+// robin, plus each of his clubs against the three he rates highest in its own league. Unasked ones only, closest first.
+export function focusPairs(model, ids, ctx, picks, favs) {
+  const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
+  const score = id => model.affinity(id) ?? -1;
+  const top = [...favs].filter(id => ids.includes(id));
+  for (const id of [...ids].sort((a, b) => score(b) - score(a))) { if (top.length >= 10) break; if (!top.includes(id)) top.push(id); }
+  const out = new Map();
+  const add = (a, b) => { const k = [a, b].sort().join('|'); if (a !== b && !asked.has(k)) out.set(k, [a, b]); };
+  for (let i = 0; i < top.length; i++) for (let j = i + 1; j < top.length; j++) add(top[i], top[j]);
+  for (const f of favs) {
+    const rivals = ids.filter(id => !favs.has(id) && ctx.league[id] === ctx.league[f]).sort((a, b) => score(b) - score(a)).slice(0, 3);
+    for (const r of rivals) add(f, r);
+  }
+  return [...out.values()].sort((x, y) => Math.abs(model.predict(x[0], x[1]) - 0.5) - Math.abs(model.predict(y[0], y[1]) - 0.5));
+}
+
 export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
   const seen = {}, skips = {};
