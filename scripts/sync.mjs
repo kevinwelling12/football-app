@@ -83,7 +83,10 @@ async function publish() {
     for (const k of POOLS[pl].filter(x => LEAGUES[x].track)) {
       const season = currentSeason(k), file = fileOf(k, season), S = read(file);
       if (!S) continue;
-      const { g, rank } = await groupsFor(k).catch(() => ({ g: {}, rank: {} }));
+      // if ESPN's standings fail (it sometimes refuses GitHub's runners), keep the conferences already published
+      const was = Object.fromEntries((read(`web/data/${k}.json`)?.teams || []).map(t => [t.id, t]));
+      const { g, rank } = await groupsFor(k).catch(e => { report.push(`${k}: standings ${e.message}, kept last conferences`); return { g: {}, rank: {} }; });
+      for (const id in was) { if (!g[id] && was[id].g) g[id] = was[id].g; if (rank[id] == null && was[id].espnRank != null) rank[id] = was[id].espnRank; }
       // Liga MX: only the current tournament (Apertura or Clausura) is published, so the table is that tournament's
       const tour = LEAGUES[k].split ? currentTournament(S.matches) : null;
       const SM = tour ? S.matches.filter(m => m.tn === tour) : S.matches;
