@@ -962,6 +962,40 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') closeSheet()
 window.addEventListener('hashchange', () => { parseHash(); closeSheet(); window.scrollTo(0, 0); render(); });
 store.on(() => { for (const k of ORDER) if (D[k] && SIM[k]) runSim(k); render(); });
 
+// ------------------------------------------------------------------ pull to refresh
+// Pull down at the top of the page: refetch the published data, live scores and your synced state.
+let refreshing = false;
+async function refreshAll() {
+  if (refreshing) return; refreshing = true;
+  try {
+    await Promise.all([loadData(), store.syncNow?.().catch(() => {})]);
+    render(); await pollLive();
+    navigator.serviceWorker?.getRegistration().then(r => r?.update()).catch(() => {});
+  } finally { refreshing = false; }
+}
+(() => {
+  const icon = d => `<svg viewBox="0 0 24 24" width="18" height="18"><path d="${d}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+  const ARROW = icon('M12 5v12M6 11l6 6 6-6'), ARC = icon('M12 4a8 8 0 1 0 8 8');
+  const ind = document.createElement('div'); ind.className = 'ptr'; ind.innerHTML = ARROW;
+  document.body.appendChild(ind);
+  const PULL = 70; let y0 = null, x0 = 0, d = 0;
+  const show = () => { const top = $('header.top').getBoundingClientRect().bottom; ind.style.top = `${top - 40}px`;
+    ind.style.transform = `translateY(${Math.min(d, PULL + 20)}px) rotate(${d >= PULL ? 180 : 0}deg)`; ind.style.opacity = Math.min(1, d / PULL); };
+  addEventListener('touchstart', e => { y0 = window.scrollY <= 0 && $('#sheet').hidden && !refreshing && e.touches.length === 1 ? e.touches[0].clientY : null; x0 = e.touches[0].clientX; d = 0; }, { passive: true });
+  addEventListener('touchmove', e => {
+    if (y0 == null) return;
+    const dy = e.touches[0].clientY - y0, dx = Math.abs(e.touches[0].clientX - x0);
+    if (dy <= 0 || dx > dy || window.scrollY > 0) { if (d) { d = 0; ind.style.opacity = 0; } return; }
+    d = dy * 0.5; show();
+  }, { passive: true });
+  addEventListener('touchend', () => {
+    if (y0 == null) return; y0 = null;
+    if (d < PULL) { d = 0; ind.style.opacity = 0; return; }
+    d = PULL; show(); ind.style.transform = `translateY(${PULL}px)`; ind.innerHTML = ARC; ind.classList.add('spin');
+    refreshAll().finally(() => { ind.classList.remove('spin'); ind.innerHTML = ARROW; ind.style.opacity = 0; d = 0; });
+  });
+})();
+
 // ------------------------------------------------------------------ start
 parseHash(); render();
 loadData().then(() => { render(); pollLive(); setInterval(pollLive, 60e3); }).catch(e => { $('#view').innerHTML = `<div class="empty">Couldn't load data: ${esc(e.message)}</div>`; });
