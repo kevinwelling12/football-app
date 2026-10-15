@@ -154,7 +154,10 @@ async function pollLive() {
   const now = Date.now();
   for (const k of ORDER) {
     const L = D[k]; if (!L) continue;
-    const near = L.matches.filter(m => !isPlayed(m) && m.st !== 'canc' && Math.abs(Date.parse(m.t) - now) < 3 * 36e5 && Date.parse(m.t) - now < 10 * 6e4);
+    // everything that has kicked off (up to 4 days back) without a result in the published data, not only matches on
+    // now: if a scheduled sync fails, finished matches still get their scores here; finals are fetched once
+    const done = new Set(['ft', 'aet', 'pen', 'canc', 'ppd']);
+    const near = L.matches.filter(m => !isPlayed(m) && m.st !== 'canc' && !done.has(LIVE[k]?.[m.id]?.st) && now - Date.parse(m.t) < 4 * 864e5 && Date.parse(m.t) - now < 10 * 6e4);
     if (!near.length) continue;
     const days = [...new Set(near.map(m => m.t.slice(0, 10).replace(/-/g, '')))];
     let changed = false;
