@@ -1,18 +1,19 @@
 // Clinching and elimination. Proofs are conservative: a place is "clinched" only if no combination of the remaining
-// results can take it away (a tie on points counts against the club), "eliminated" only if no combination can deliver it.
+// results can take it away (a tie on points counts against the club, unless the first tiebreaker is total wins and the
+// rival can't match the club's), "eliminated" only if no combination can deliver it.
 // Scenarios: for the club's next match (and the other matches of that round that involve its rivals) we enumerate every
 // combination of results and describe the ones that clinch or eliminate, e.g. "Win, or draw and Chicago don't win".
 import { isPlayed, regular, groupsOf } from './sim.js';
 
 function table(L, matches) {
-  const N = L.teams.length, pts = new Array(N).fill(0), left = new Array(N).fill(0);
+  const N = L.teams.length, pts = new Array(N).fill(0), left = new Array(N).fill(0), wins = new Array(N).fill(0);
   for (const m of regular(matches)) {
     if (m.st === 'canc') continue;
-    if (isPlayed(m)) { if (m.hs > m.as) pts[m.h] += 3; else if (m.hs < m.as) pts[m.a] += 3; else { pts[m.h]++; pts[m.a]++; } }
+    if (isPlayed(m)) { if (m.hs > m.as) { pts[m.h] += 3; wins[m.h]++; } else if (m.hs < m.as) { pts[m.a] += 3; wins[m.a]++; } else { pts[m.h]++; pts[m.a]++; } }
     else { left[m.h]++; left[m.a]++; }
   }
   for (const a of L.adjust || []) pts[a.i] += a.pts;
-  return { pts, left };
+  return { pts, left, wins };
 }
 
 // peers: the indices a zone is decided among (the group, or the whole league).
@@ -59,9 +60,20 @@ const choose = (n, k) => { let r = 1; for (let i = 1; i <= k; i++) r = r * (n - 
 const LIMIT = 4000;
 
 // Is t certain to finish in the top k of peers? (t loses everything left; a rival level on points counts as above.)
-function clinchedTop(k, t, peers, pts, rem) {
+// wins (when the competition's first tiebreaker is total wins, MLS): a rival level on points only counts as above if it
+// could get there with at least t's wins; one that can't (too few games left to win enough) has to pass t outright.
+function clinchedTop(k, t, peers, pts, rem, wins) {
   if (k >= peers.length) return true;
-  const X = pts[t], set = new Set(peers), base = {};
+  const X0 = pts[t], set = new Set(peers), base = {}, games = {};
+  for (const m of rem) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
+  // points rival i needs to be above t: X0, or X0 + 1 if at exactly X0 it must have fewer wins than t (most wins at a
+  // given points total: as many wins as the points allow, the rest draws, within the games it has left)
+  const need = i => {
+    if (!wins) return X0;
+    const g = X0 - pts[i]; if (g < 0) return X0;
+    const nw = Math.min(Math.floor(g / 3), games[i] || 0), canLevel = g - 3 * nw <= (games[i] || 0) - nw;
+    return canLevel && wins[i] + nw >= wins[t] ? X0 : X0 + 1;
+  };
   for (const i of peers) base[i] = pts[i];
   const inner = [];
   for (const m of rem) {
@@ -69,16 +81,16 @@ function clinchedTop(k, t, peers, pts, rem) {
     if (m.h === t || m.a === t) { const o = m.h === t ? m.a : m.h; if (set.has(o)) base[o] += 3; continue; }
     if (h && a) inner.push(m); else if (h) base[m.h] += 3; else if (a) base[m.a] += 3;
   }
-  const others = peers.filter(i => i !== t);
-  const reach = others.filter(i => base[i] >= X).length; // already there without needing rivals' games
-  const need = k - reach; if (need <= 0) return false;
+  const others = peers.filter(i => i !== t), X = {}; for (const i of others) X[i] = need(i);
+  const reach = others.filter(i => base[i] >= X[i]).length; // already there without needing rivals' games
+  const short = k - reach; if (short <= 0) return false;
   const maxOf = i => base[i] + 3 * inner.filter(m => m.h === i || m.a === i).length;
-  const cands = others.filter(i => base[i] < X && maxOf(i) >= X);
-  if (cands.length < need) return true;
-  if (choose(cands.length, need) > LIMIT) return false;
-  for (const S of subsets(cands, need)) {
+  const cands = others.filter(i => base[i] < X[i] && maxOf(i) >= X[i]);
+  if (cands.length < short) return true;
+  if (choose(cands.length, short) > LIMIT) return false;
+  for (const S of subsets(cands, short)) {
     const inS = new Set(S), ms = inner.filter(m => inS.has(m.h) || inS.has(m.a));
-    const dem = {}; for (const i of S) dem[i] = X - base[i];
+    const dem = {}; for (const i of S) dem[i] = X[i] - base[i];
     // matches between a member and an outsider: the member takes all 3
     for (const m of ms) if (!(inS.has(m.h) && inS.has(m.a))) dem[inS.has(m.h) ? m.h : m.a] -= 3;
     const both = ms.filter(m => inS.has(m.h) && inS.has(m.a));
@@ -92,14 +104,16 @@ function clinchedTop(k, t, peers, pts, rem) {
 }
 
 // Is t certain to finish below the top k? (t wins everything left; a rival level on points does not count as above.)
-function eliminatedTop(k, t, peers, pts, rem) {
+// wins (MLS): a rival that already has more wins than t can reach is above t even when level on points.
+function eliminatedTop(k, t, peers, pts, rem, wins) {
   if (k <= 0) return true;
   const set = new Set(peers);
-  let M = pts[t]; for (const m of rem) if (m.h === t || m.a === t) M += 3;
+  let M = pts[t], Wt = wins ? wins[t] : 0; for (const m of rem) if (m.h === t || m.a === t) { M += 3; Wt++; }
+  const cap = i => (wins && wins[i] > Wt ? M - 1 : M); // most points i can have and still be below t
   const others = peers.filter(i => i !== t);
-  const above = others.filter(i => pts[i] > M).length;
+  const above = others.filter(i => pts[i] > cap(i)).length;
   const free = k - 1 - above; if (free < 0) return true;
-  const cands = others.filter(i => pts[i] <= M);
+  const cands = others.filter(i => pts[i] <= cap(i));
   const inner = rem.filter(m => m.h !== t && m.a !== t && set.has(m.h) && set.has(m.a));
   const tries = free >= cands.length ? [cands] : choose(cands.length, free) > LIMIT ? null : subsets(cands, free);
   if (!tries) return false;
@@ -109,31 +123,34 @@ function eliminatedTop(k, t, peers, pts, rem) {
     const idx = new Map(below.map((i, n) => [i, 1 + ms.length + n])), N = 2 + ms.length + below.length, sink = N - 1;
     const edges = [];
     ms.forEach((m, n) => { edges.push([0, 1 + n, 2], [1 + n, idx.get(m.h), 2], [1 + n, idx.get(m.a), 2]); });
-    for (const i of below) edges.push([idx.get(i), sink, M - pts[i]]);
+    for (const i of below) edges.push([idx.get(i), sink, cap(i) - pts[i]]);
     if (maxflow(N, edges, 0, sink) >= 2 * ms.length - 1e-9) return false; // everyone else can stay at or below t
   }
   return true;
 }
 
-function provenStatus(z, t, peers, pts, rem, p) {
+function provenStatus(z, t, peers, pts, rem, p, wins) {
   // a simulated season is a real possible outcome: if one put t in the zone, it can't be eliminated, and vice versa
   if (p != null && p > 0 && p < 1) return null;
-  const inTo = clinchedTop(z.to, t, peers, pts, rem), outFrom = z.from <= 1 || eliminatedTop(z.from - 1, t, peers, pts, rem);
+  const inTo = clinchedTop(z.to, t, peers, pts, rem, wins), outFrom = z.from <= 1 || eliminatedTop(z.from - 1, t, peers, pts, rem, wins);
   if (inTo && outFrom) return 'in';
-  if (eliminatedTop(z.to, t, peers, pts, rem) || (z.from > 1 && clinchedTop(z.from - 1, t, peers, pts, rem))) return 'out';
+  if (eliminatedTop(z.to, t, peers, pts, rem, wins) || (z.from > 1 && clinchedTop(z.from - 1, t, peers, pts, rem, wins))) return 'out';
   return null;
 }
 
 // sim (optional): simulation results, used to skip proofs that a simulated season already disproves
 export function statuses(L, rules, matches, sim) {
-  const { pts, left } = table(L, matches), out = {};
+  const { pts, left, wins: w } = table(L, matches), out = {};
   const rem = regular(matches).filter(m => !isPlayed(m) && m.st !== 'canc');
+  // total wins as the first tiebreaker (MLS) is used in the proofs; other first tiebreakers (goal difference,
+  // head-to-head) can't be bounded, so ties count against the club there
+  const wins = rules.tiebreak[1] === 'w' ? w : null;
   for (const z of rules.zones) {
     out[z.key] = {};
     for (let t = 0; t < L.teams.length; t++) {
       if (L.teams[t].inLeague === false) continue;
       const peers = peersFor(L, rules, z, t);
-      const s = zoneStatus(z, t, peers, pts, left) || provenStatus(z, t, peers, pts, rem, sim?.teams[t].zone[z.key]);
+      const s = zoneStatus(z, t, peers, pts, left) || provenStatus(z, t, peers, pts, rem, sim?.teams[t].zone[z.key], wins);
       if (s) out[z.key][t] = s;
     }
   }
