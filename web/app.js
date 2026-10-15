@@ -159,7 +159,10 @@ async function pollLive() {
     const done = new Set(['ft', 'aet', 'pen', 'canc', 'ppd']);
     const near = L.matches.filter(m => !isPlayed(m) && m.st !== 'canc' && !done.has(LIVE[k]?.[m.id]?.st) && now - Date.parse(m.t) < 4 * 864e5 && Date.parse(m.t) - now < 10 * 6e4);
     if (!near.length) continue;
-    const days = [...new Set(near.map(m => m.t.slice(0, 10).replace(/-/g, '')))];
+    // ESPN files matches under the US Eastern date (an evening kickoff in California is the next day in UTC), so ask
+    // for both the UTC and the Eastern day
+    const et = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' });
+    const days = [...new Set(near.flatMap(m => [m.t.slice(0, 10), et.format(new Date(m.t))]).map(d => d.replace(/-/g, '')))];
     let changed = false;
     for (const day of days) {
       try {
