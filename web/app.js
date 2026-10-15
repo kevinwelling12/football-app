@@ -309,6 +309,13 @@ function viewToday() {
 // a league shown quietly on Today: not one of Kevin's six and none of your clubs in it
 function quiet(k) { if (MAIN.includes(k)) return false; const fav = favIds(); return !(D[k]?.teams || []).some(t => fav.has(t.id)); }
 
+// proven out of the post-season (eliminated from the widest place that goes on): its post-season chances show as –
+function postOut(rules, R, i) {
+  if (!rules.playoffs || !R?.status) return false;
+  const widest = rules.zones.filter(z => z.tone !== 'bad' && z.tone !== 'warn').reduce((a, z) => (!a || z.to > a.to ? z : a), null);
+  return !!widest && R.status[widest.key]?.[i] === 'out';
+}
+
 // headline zone for a club: the first one still in doubt (else the post-season title)
 function headline(k, i) {
   const S = SIM[k]?.sim; if (!S) return null;
@@ -319,6 +326,7 @@ function headline(k, i) {
     if (!best || Math.abs(p - 0.5) < Math.abs(best.p - 0.5)) best = { p, label: z.tone === 'bad' ? 'Relegation' : z.short };
   }
   if (best) return best;
+  if (postOut(rules, SIM[k], i)) return null;
   if (t.rounds.up != null) return { p: t.rounds.up, label: 'Promotion' };
   const champ = t.rounds.champ; if (champ != null) return { p: champ, label: rules.playoffs?.type === 'ucl' ? 'Win it' : 'Champion' };
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
@@ -452,7 +460,7 @@ function viewOdds(k) {
       const t = L.teams[i], T = S.teams[i];
       const cells = cols.map(c => {
         const isZone = rules.zones.some(z => z.key === c);
-        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : null;
+        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : postOut(rules, R, i) ? 'out' : null;
         const z = rules.zones.find(z => z.key === c), tone = z ? toneVar(z.tone) : 'var(--gold)';
         const heat = status ? 0 : p * 0.32;
         return `<td class="pct"><span class="heat" style="background:${tone};opacity:${heat}"></span><b>${pct(p, status)}</b></td>`;
@@ -788,7 +796,7 @@ function clubSheet(k, i, keep = false) {
   if (R) {
     const T = R.sim.teams[i];
     const zs = rules.zones.map(z => `<div>${esc(z.label)}</div><div>${pct(T.zone[z.key], R.status[z.key]?.[i])}${R.status[z.key]?.[i] ? '' : '%'}</div><div></div><div></div>`).join('');
-    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => `<div>${roundName(rules, r)}</div><div>${pct(p)}%</div><div></div><div></div>`).join('');
+    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => `<div>${roundName(rules, r)}</div><div>${postOut(rules, R, i) ? pct(p, 'out') : pct(p) + '%'}</div><div></div><div></div>`).join('');
     const dist = T.pos.slice(1), mx = Math.max(...dist);
     html += `<div class="block"><h4>Chances</h4><div class="kv">${zs}${rs}<div>Projected points</div><div>${Math.round(T.pts)}</div><div></div><div class="muted small">${T.ptsRange[0]}–${T.ptsRange[1]}</div></div></div>
       <div class="block"><h4>Finishing position</h4><div class="dist">${dist.map(p => `<i style="height:${mx ? p / mx * 100 : 0}%"></i>`).join('')}</div><div class="dist-axis">${dist.map((_, n) => `<span>${(n + 1) % (dist.length > 20 ? 5 : 1) === 0 || n === 0 ? n + 1 : ''}</span>`).join('')}</div></div>`;

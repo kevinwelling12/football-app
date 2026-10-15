@@ -1,6 +1,6 @@
 // Offline and fast crests: crests (ours and ESPN's) cache-first, so they never re-download or blink;
 // the page and data network-first with the last copy as the offline fallback.
-const CACHE = 'football-v6';
+const CACHE = 'football-v7';
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', e => e.waitUntil((async () => {
   for (const k of await caches.keys()) if (k !== CACHE) await caches.delete(k);
