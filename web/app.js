@@ -555,7 +555,7 @@ function viewScenarios(k) {
     if (outs.length && !bad && outs.length <= 12) html += `<div class="pillrow"><span class="tiny muted" style="align-self:center">Out</span>${outs.map(i => `<span class="pill faint">${esc(L.teams[i].s)}</span>`).join('')}</div>`;
   }
   if (!any) html += '<div class="empty">Nothing decided yet.</div>';
-  html += '</div><p class="note">A place counts as clinched only when no combination of remaining results can take it away (finishing level on points counts against the club${rules.tiebreak[1] === 'w' ? ' unless it is certain to have more wins, the first tiebreaker' : ''}). Scenarios cover the club\'s next match and its rivals\' matches in the same round.</p>';
+  html += `</div><p class="note">A place counts as clinched only when no combination of remaining results can take it away (finishing level on points counts against the club${rules.tiebreak[1] === 'w' ? ', unless the club is sure to have more wins, the first tiebreaker' : ''}). Scenarios cover the club's next match and its rivals' matches in the same round.</p>`;
   return html;
 }
 
