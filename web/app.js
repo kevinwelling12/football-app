@@ -364,8 +364,28 @@ function zoneColor(rules, pos, scope) {
   return 'transparent';
 }
 
+// Clinched/eliminated tag for a club (proofs only, from clinch.js via the worker): the best place it has locked in,
+// relegated or safe, or out of the post-season. Null when nothing is proven.
+const WON = { title: 'Champions', shield: 'Shield', auto: 'Promoted', po: 'In' }, PLACE = { ucl: 'UCL', ucq: 'UCL qual.', eur: 'Europe' };
+function clinchTag(rules, R, i) {
+  const st = key => R?.status?.[key]?.[i], zs = rules.zones;
+  const up = zs.filter(z => z.tone !== 'bad' && z.tone !== 'warn'), down = zs.filter(z => z.tone === 'bad' || z.tone === 'warn');
+  const rel = down.find(z => z.tone === 'bad' && st(z.key) === 'in');
+  if (rel) return { text: 'Relegated', tone: 'bad' };
+  const won = up.find(z => st(z.key) === 'in');
+  if (won) return { text: WON[won.key] || PLACE[won.key] || won.short, tone: won.tone };
+  const pl = down.find(z => z.tone === 'warn' && st(z.key) === 'in');
+  if (pl) return { text: 'Play-off', tone: 'warn' };
+  // out of the post-season (playoff leagues and cups): eliminated from the widest place that goes on
+  const widest = up.reduce((a, z) => (!a || z.to > a.to ? z : a), null);
+  if (widest && (rules.playoffs || rules.cup) && st(widest.key) === 'out') return { text: 'Out', tone: 'out' };
+  if (down.length && down.every(z => st(z.key) === 'out')) return { text: 'Safe', tone: 'out' };
+  return null;
+}
+const tagHtml = t => (t ? `<span class="ctag ${t.tone}">${esc(t.text)}</span>` : '');
+
 function viewTable(k) {
-  const L = D[k], rules = LEAGUES[k], ms = matchesOf(k), S = SIM[k]?.sim, fav = favIds();
+  const L = D[k], rules = LEAGUES[k], ms = matchesOf(k), S = SIM[k]?.sim, R = S ? SIM[k] : null, fav = favIds();
   // Live: matches in progress counted at their current score ("as it stands"); only offered while one is on
   const liveNow = regular(ms).filter(m => m.st === 'live' && m.hs != null);
   const mode = ui.tableMode === 'live' && !liveNow.length ? 'now' : ui.tableMode, live = mode === 'live';
@@ -392,13 +412,14 @@ function viewTable(k) {
         if (move) extra += `<span class="move ${move > 0 ? 'up' : 'down'}">${move > 0 ? '▲' : '▼'}${Math.abs(move)}</span>`;
         if (m) extra += `<span class="live-pill">${m.h === r.i ? m.hs : m.as}–${m.h === r.i ? m.as : m.hs} ${esc(m.clock || (m.min ? m.min + "'" : ''))}</span>`;
       }
-      const name = `<td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${fav.has(t.id) ? '<span class="faint">★</span>' : ''}${extra}</div></td>`;
+      const name = `<td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${fav.has(t.id) ? '<span class="faint">★</span>' : ''}${live ? '' : tagHtml(clinchTag(rules, R, r.i))}${extra}</div></td>`;
       const z = `style="--z:${zoneColor(rules, pos, scope)}"`;
       if (proj) return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td class="pts">${Math.round(T.pts)}</td><td class="wide muted">${T.ptsRange[0]}–${T.ptsRange[1]}</td><td class="muted">${T.avgPos.toFixed(1)}</td></tr>`;
       return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td>${r.p}</td><td class="wide">${r.w}</td><td class="wide">${r.d}</td><td class="wide">${r.l}</td><td class="wide">${r.gf}</td><td class="wide">${r.ga}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
     }).join('');
     html += `<div class="card" style="margin-bottom:10px"><table>${head}${body}</table></div>`;
   }
+  if (R && Object.values(R.status).some(z => Object.keys(z).length)) html += `<p class="note">Tags are proven, not simulated: "In" = play-off place clinched, "Out" = eliminated, "Top 4" and the like = clinched at least that place.</p>`;
   html += `<div class="legend">${rules.zones.filter(z => z.key !== 'title' && z.key !== 'shield').map(z => `<span style="--z:${toneVar(z.tone)}">${esc(z.label)}</span>`).join('')}</div>`;
   if (proj) html += `<p class="note">Average points and the likely range (80% of ${SIMS.toLocaleString()} simulated seasons), ordered by average finish.</p>`;
   else if (live) html += `<p class="note">${liveNow.length} match${liveNow.length > 1 ? 'es' : ''} in progress counted at the current score. Arrows: places moved since kickoff.</p>`;
@@ -752,7 +773,7 @@ function clubSheet(k, i, keep = false) {
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
   sheetCtx = { type: 'club', k, i };
   const b = L.base, avg = (b[0] + b[1]) / 2;
-  let html = `<div class="vs" style="grid-template-columns:auto 1fr auto;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">${LEAGUES[k].name} · ${ord(st.pos)}${rules.groups ? ' in the ' + esc(st.group.replace(/ern$/, '')) : ''} · ${st.pts} pts</div></div><button class="star ${fav.has(t.id) ? 'on' : ''}" data-star="${t.id}" aria-label="Follow">${fav.has(t.id) ? '★' : '☆'}</button></div>`;
+  let html = `<div class="vs" style="grid-template-columns:auto 1fr auto;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">${LEAGUES[k].name} · ${ord(st.pos)}${rules.groups ? ' in the ' + esc(st.group.replace(/ern$/, '')) : ''} · ${st.pts} pts ${tagHtml(clinchTag(rules, R, i))}</div></div><button class="star ${fav.has(t.id) ? 'on' : ''}" data-star="${t.id}" aria-label="Follow">${fav.has(t.id) ? '★' : '☆'}</button></div>`;
   html += `<div class="kv"><div>Elo</div><div>${t.elo}</div><div></div><div></div>
     <div>Attack</div><div>${(avg * t.A).toFixed(2)}</div><div></div><div class="muted small">goals / match</div>
     <div>Defence</div><div>${(avg * t.D).toFixed(2)}</div><div></div><div class="muted small">conceded</div>
