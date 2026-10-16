@@ -1,0 +1,640 @@
+[
+ {
+  "id": "christopher-trimmel",
+  "name": "Christopher Trimmel",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "Austria",
+  "current_club": "Union Berlin",
+  "career": [
+   "Rapid Wien",
+   "Union Berlin"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "jordan-henderson",
+  "name": "Jordan Henderson",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Sunderland",
+   "Liverpool",
+   "Al-Ettifaq",
+   "Ajax",
+   "Brentford"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "+2 PlayersTogether, LGBTQ+ allyship (Saudi move applied separately)",
+  "notes": "Joined Al-Ettifaq (Saudi) 2023 after public LGBTQ+ allyship; caps 91 as of June 2026 (pre-World Cup)."
+ },
+ {
+  "id": "ronald-hernandez",
+  "name": "Ronald Hernández",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Venezuela",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Zamora",
+   "Stabæk",
+   "Aberdeen",
+   "Atlanta United",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "jayden-danns",
+  "name": "Jayden Danns",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Liverpool",
+   "Sunderland (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jaka-bijol",
+  "name": "Jaka Bijol",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Slovenia",
+  "current_club": "Leeds United",
+  "career": [
+   "Rudar Velenje",
+   "CSKA Moscow",
+   "Hannover 96 (loan)",
+   "Udinese",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ethan-nwaneri",
+  "name": "Ethan Nwaneri",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "England",
+  "current_club": "Borussia Dortmund (loan)",
+  "career": [
+   "Arsenal",
+   "Marseille (loan)",
+   "Borussia Dortmund (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "kastriot-imeri",
+  "name": "Kastriot Imeri",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Switzerland",
+  "current_club": "Union Berlin",
+  "career": [
+   "Servette",
+   "Young Boys",
+   "FC Thun (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "dominic-calvert-lewin",
+  "name": "Dominic Calvert-Lewin",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Sheffield United",
+   "Stalybridge Celtic (loan)",
+   "Northampton Town (loan)",
+   "Everton",
+   "Leeds United"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "+0.5 mental-health openness",
+  "notes": ""
+ },
+ {
+  "id": "zlatan-ibrahimovic",
+  "name": "Zlatan Ibrahimović",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Sweden",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "AC Milan",
+   "Paris Saint-Germain",
+   "Manchester United",
+   "LA Galaxy",
+   "AC Milan"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "arrogance, feuds (betting stake handled separately)",
+  "notes": "Punched Marco Rossi (2011) and elbowed Tyrone Mings (2017, FA ban); 2021 'voodoo' clash with Lukaku, FIGC found no racial discrimination; Juventus to Inter 2006; UEFA fine 2021 for betting-firm stake (not match-fixing); PSG (Qatar-owned) 2012-16."
+ },
+ {
+  "id": "diego-maradona",
+  "name": "Diego Maradona",
+  "gender": "M",
+  "active": false,
+  "born": 1960,
+  "nation": "Argentina",
+  "current_club": null,
+  "career": [
+   "Boca Juniors",
+   "Barcelona",
+   "Napoli",
+   "Sevilla",
+   "Newell's Old Boys",
+   "Boca Juniors"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "outspoken for the poor but backed authoritarian leaders, feuds",
+  "notes": "Cocaine positives 1991 and 1997, ephedrine 1994 WC (bans); kneed Sola in 1984 Copa del Rey final brawl; convicted 1998 for firing air rifle at journalists (suspended); partner violence and child-rape allegations, no conviction; coached UAE clubs; Dubai Sports Council ambassador; Italian tax claims ruled in his favour 2021. Recount: money_league 0: UAE jobs were as coach only."
+ },
+ {
+  "id": "rani-khedira",
+  "name": "Rani Khedira",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Tunisia",
+  "current_club": "Union Berlin",
+  "career": [
+   "VfB Stuttgart",
+   "RB Leipzig",
+   "FC Augsburg",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline, humble",
+  "notes": "No incidents. Union vice-captain 2026-27 (not coded as captain)."
+ },
+ {
+  "id": "daniel-svensson",
+  "name": "Daniel Svensson",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Sweden",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "IF Brommapojkarna",
+   "FC Nordsjælland",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "trey-nyoni",
+  "name": "Trey Nyoni",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Leicester City (youth)",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "jose-caicedo",
+  "name": "José Caicedo",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Colombia",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Independiente Santa Fe",
+   "Barranquilla",
+   "Pumas Tabasco",
+   "UNAM",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zac-mcgraw",
+  "name": "Zac McGraw",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Army Black Knights (college)",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "+0.5 West Point captain, quiet pro",
+  "notes": ""
+ },
+ {
+  "id": "joey-veerman",
+  "name": "Joey Veerman",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Netherlands",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "FC Volendam",
+   "SC Heerenveen",
+   "PSV",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "blunt, self-critical, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vinicius-junior",
+  "name": "Vinícius Júnior",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Real Madrid",
+  "career": [
+   "Flamengo",
+   "Real Madrid"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "anti-racism leadership and Instituto Vini Jr. vs provocations and outbursts",
+  "notes": "Repeated touchline provocations and 2025 Clasico substitution outburst; leading campaigner against racist abuse in Spain (Mestalla convictions 2024)."
+ },
+ {
+  "id": "rose-lavelle",
+  "name": "Rose Lavelle",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "NJ/NY Gotham FC",
+  "career": [
+   "Boston Breakers",
+   "Washington Spirit",
+   "Manchester City",
+   "OL Reign",
+   "NJ/NY Gotham FC"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "equal-pay plaintiff, humble",
+  "notes": "No incidents. Plaintiff in 2019 USWNT gender-discrimination lawsuit; 2020-21 at Abu Dhabi-owned Man City. Recount: major_trophies 6: WC 2019, NWSL 2025, W Champions Cup 2025, CONCACAF 2018/2022, W Gold Cup 2024; Olympics and Challenge Cup not counted."
+ },
+ {
+  "id": "alyssa-naeher",
+  "name": "Alyssa Naeher",
+  "gender": "W",
+  "active": true,
+  "born": 1988,
+  "nation": "USA",
+  "current_club": "Chicago Red Stars / Chicago Stars",
+  "career": [
+   "Turbine Potsdam",
+   "Boston Breakers",
+   "Chicago Red Stars / Chicago Stars"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "equal-pay plaintiff, private",
+  "notes": "No incidents; 2019 USWNT equal-pay plaintiff. Recount: major_trophies 6: WC 2015/2019, CONCACAF 2018/2022, W Gold Cup 2024, Bundesliga 2012 (Potsdam); Olympics not counted."
+ },
+ {
+  "id": "luis-diaz",
+  "name": "Luis Díaz",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Colombia",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Barranquilla",
+   "Junior",
+   "Porto",
+   "Liverpool",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": "Recount: major_trophies 6: 2 Colombian titles (Junior), 2 Primeira Liga, PL 2025, Bundesliga 2026."
+ },
+ {
+  "id": "giacinto-facchetti",
+  "name": "Giacinto Facchetti",
+  "gender": "M",
+  "active": false,
+  "born": 1942,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Inter Milan"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 gentleman, sent off once, less for posthumous Calciopoli findings",
+  "notes": "Calciopoli wiretaps of contacts with referee designators as Inter official; posthumous, time-barred, no sanction."
+ },
+ {
+  "id": "paolo-maldini",
+  "name": "Paolo Maldini",
+  "gender": "M",
+  "active": false,
+  "born": 1968,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "AC Milan"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "clean, never feuded with fans publicly, no causes",
+  "notes": "No incidents. Milan ultras booed him at his 2009 farewell over a long-running feud."
+ },
+ {
+  "id": "toni-kroos",
+  "name": "Toni Kroos",
+  "gender": "M",
+  "active": false,
+  "born": 1990,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "Bayer Leverkusen",
+   "Real Madrid"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 foundation, Qatar/Saudi criticism, offset by 2024 migration remarks and Dubai ad",
+  "notes": "2024 podcast remarks on migration to Germany drew criticism; 2024 Visit Dubai promotion with Real Madrid criticised as inconsistent with his Saudi criticism."
+ },
+ {
+  "id": "mikel-oyarzabal",
+  "name": "Mikel Oyarzabal",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Real Sociedad",
+  "career": [
+   "Real Sociedad"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents. Trophies: Euro 2024, World Cup 2026 (per research). Caps approx. mid-2025."
+ },
+ {
+  "id": "pele",
+  "name": "Pelé",
+  "gender": "M",
+  "active": false,
+  "born": 1940,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Santos",
+   "New York Cosmos"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "UN/UNICEF work and Pelé Law, minus disowned daughter and dictatorship silence",
+  "notes": "No incident codes. Refused for years to recognise daughter (court-proven 1996); criticised for silence on Brazil's military dictatorship; UN/UNICEF ambassador; Sports Minister 1995-98."
+ },
+ {
+  "id": "uwe-seeler",
+  "name": "Uwe Seeler",
+  "gender": "M",
+  "active": false,
+  "born": 1936,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Hamburger SV"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "8 'Uns Uwe', humble",
+  "notes": "Refused a big Inter offer 1961."
+ },
+ {
+  "id": "james-mcconnell",
+  "name": "James McConnell",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Sunderland (youth)",
+   "Liverpool",
+   "Ajax (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dennis-bergkamp",
+  "name": "Dennis Bergkamp",
+  "gender": "M",
+  "active": false,
+  "born": 1969,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Ajax",
+   "Inter Milan",
+   "Arsenal"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "quiet perfectionist, no issues",
+  "notes": ""
+ },
+ {
+  "id": "trey-muse",
+  "name": "Trey Muse",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Seattle Sounders",
+   "Tacoma Defiance (loan)",
+   "San Diego Loyal (loan)",
+   "Memphis 901 (loan)",
+   "Charleston Battery",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "jimer-fory",
+  "name": "Jimer Fory",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Colombia",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Atlético Nacional",
+   "Deportivo Pereira (loan)",
+   "Independiente Medellín",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline (U23 red card minor)",
+  "notes": "No incident codes; 2024 U23 sending-off, reason not recorded."
+ },
+ {
+  "id": "luke-chambers",
+  "name": "Luke Chambers",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Liverpool",
+   "Kilmarnock (loan)",
+   "Wigan Athletic (loan)",
+   "Charlton Athletic (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "michael-zetterer",
+  "name": "Michael Zetterer",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Leeds United",
+  "career": [
+   "SpVgg Unterhaching",
+   "Werder Bremen",
+   "Austria Klagenfurt (loan)",
+   "PEC Zwolle (loan)",
+   "Eintracht Frankfurt",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "luis-suarez",
+  "name": "Luis Suárez",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "Uruguay",
+  "current_club": "Inter Miami",
+  "career": [
+   "Liverpool",
+   "Barcelona",
+   "Atlético Madrid",
+   "Nacional",
+   "Grêmio",
+   "Inter Miami"
+  ],
+  "CH_now": 2.5,
+  "CH_why": "diving reputation, Ghana handball, combative, refused Evra handshake (bans counted separately)",
+  "notes": "Bit Bakkal (2010), Ivanović (2013), Chiellini (2014); spat at a Seattle staff member (2025); 8-match ban for racially abusing Evra (2011); pushed to leave Liverpool in 2013."
+ },
+ {
+  "id": "emmanuel-latte-lath",
+  "name": "Emmanuel Latte Lath",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ivory Coast",
+  "current_club": "Union Berlin (loan)",
+  "career": [
+   "Pro Patria (loan)",
+   "SPAL (loan)",
+   "St. Gallen (loan)",
+   "Middlesbrough",
+   "Atlanta United",
+   "Union Berlin (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "filippo-mane",
+  "name": "Filippo Mané",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Italy",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Novara (youth)",
+   "Sampdoria (youth)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "ian-rush",
+  "name": "Ian Rush",
+  "gender": "M",
+  "active": false,
+  "born": 1961,
+  "nation": "Wales",
+  "current_club": null,
+  "career": [
+   "Liverpool",
+   "Juventus",
+   "Liverpool",
+   "Leeds United",
+   "Newcastle United",
+   "Wrexham"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, no issues",
+  "notes": "No incident codes."
+ }
+]

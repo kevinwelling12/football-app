@@ -1,0 +1,653 @@
+[
+ {
+  "id": "federico-dimarco",
+  "name": "Federico Dimarco",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Federico_Dimarco"
+  ]
+ },
+ {
+  "id": "edin-dzeko",
+  "name": "Edin Dzeko",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "sent off in a 2016 brawl vs Greece; otherwise clean",
+   "VO": "nothing notable found",
+   "CO": "Bosnia's first UNICEF ambassador since 2009, visits schools and war-affected children",
+   "HU": "described as a generous, unselfish striker; nothing against"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edin_Džeko"
+  ]
+ },
+ {
+  "id": "fabian-ruiz",
+  "name": "Fabián Ruiz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabián_Ruiz"
+  ]
+ },
+ {
+  "id": "morgan-rogers",
+  "name": "Morgan Rogers",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_Rogers"
+  ]
+ },
+ {
+  "id": "ivan-perisic",
+  "name": "Ivan Perisic",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "2017 ban for aggressive confrontation of a referee (cut to one match)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "publicly accused Klopp of favouritism in 2012; Klopp called it childish, he was fined"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Perišić"
+  ]
+ },
+ {
+  "id": "ann-katrin-berger",
+  "name": "Ann-Katrin Berger",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "co-founder and ambassador of an all-female football academy (JAFA) in London",
+   "HU": "described as modest, puts teammates in the spotlight, avoids the limelight"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ann-Katrin_Berger"
+  ]
+ },
+ {
+  "id": "mayele-malango",
+  "name": "Mayele Malango",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mayele_Malango"
+  ]
+ },
+ {
+  "id": "matteo-ruggeri",
+  "name": "Matteo Ruggeri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matteo_Ruggeri"
+  ]
+ },
+ {
+  "id": "james-garner",
+  "name": "James Garner",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Garner_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "jarell-quansah",
+  "name": "Jarell Quansah",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two red cards for violent conduct (2023 loan, 2026 World Cup via VAR)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "tribute celebration for Diogo Jota; nothing against"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jarell_Quansah"
+  ]
+ },
+ {
+  "id": "zion-suzuki",
+  "name": "Zion Suzuki",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zion_Suzuki"
+  ]
+ },
+ {
+  "id": "casemiro",
+  "name": "Casemiro",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2023 red for grabbing Will Hughes's neck, two reds that season; criticised for aggressive tackles",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casemiro"
+  ]
+ },
+ {
+  "id": "mario-gotze",
+  "name": "Mario Götze",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "did not celebrate a goal against Dortmund out of respect",
+   "VO": "nothing notable found",
+   "CO": "ambassador for Plan International's children's initiative",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mario_Götze",
+   "https://looktothestars.org/news/12339-mario-gotze-talks-charity-with-plan-international"
+  ]
+ },
+ {
+  "id": "luther-archimede",
+  "name": "Luther Archimede",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luther_Archimède"
+  ]
+ },
+ {
+  "id": "tyler-wolff",
+  "name": "Tyler Wolff",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Wolff"
+  ]
+ },
+ {
+  "id": "pascal-gross",
+  "name": "Pascal Gross",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pascal_Groß"
+  ]
+ },
+ {
+  "id": "isabella-obaze",
+  "name": "Isabella Obaze",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isabella_Obaze"
+  ]
+ },
+ {
+  "id": "aaron-wan-bissaka",
+  "name": "Aaron Wan-Bissaka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "reds only for professional fouls; nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka"
+  ]
+ },
+ {
+  "id": "romelu-lukaku",
+  "name": "Romelu Lukaku",
+  "SP": 5.0,
+  "VO": 7.5,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "2021 head-clash and insults with Ibrahimović; cupped ears at booing Everton fans",
+   "VO": "spoke out against racism in Italy, urged Serie A to act, BLM gesture",
+   "CO": "nothing notable found",
+   "HU": "2021 interview undermining Chelsea, then apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romelu_Lukaku"
+  ]
+ },
+ {
+  "id": "matty-cash",
+  "name": "Matty Cash",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "shirt message supporting a teammate's family in wartime Kyiv",
+   "CO": "donated a shirt and presented awards at his old school",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matty_Cash"
+  ]
+ },
+ {
+  "id": "kai-havertz",
+  "name": "Kai Havertz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Havertz"
+  ]
+ },
+ {
+  "id": "boubacar-kamara",
+  "name": "Boubacar Kamara",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boubacar_Kamara"
+  ]
+ },
+ {
+  "id": "gabriel-magalhaes",
+  "name": "Gabriel Magalhães",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "combative; central in 2024 two-team altercation and running feud with Haaland",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Magalhães"
+  ]
+ },
+ {
+  "id": "hugo-lloris",
+  "name": "Hugo Lloris",
+  "SP": 6.0,
+  "VO": 3.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "reds only for goalkeeper professional fouls",
+   "VO": "declined the OneLove inclusion armband in Qatar, citing respect for the hosts' culture",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Lloris",
+   "https://www.thelocal.fr/20221116/france-football-captain-will-not-wear-anti-discrimination-armband-at-world-cup"
+  ]
+ },
+ {
+  "id": "jess-carter",
+  "name": "Jess Carter",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "spoke publicly about racist abuse at Euro 2025 and its mental-health toll",
+   "CO": "co-founder and ambassador of an all-female football academy",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jess_Carter"
+  ]
+ },
+ {
+  "id": "arda-guler",
+  "name": "Arda Güler",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card after the final whistle for protesting a teammate's dismissal",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arda_Güler"
+  ]
+ },
+ {
+  "id": "alphonso-davies",
+  "name": "Alphonso Davies",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "first footballer to be a UNHCR ambassador, advocates for refugees",
+   "CO": "raised money for UNHCR; club ambassador for his Edmonton youth club",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alphonso_Davies"
+  ]
+ },
+ {
+  "id": "john-mcginn",
+  "name": "John McGinn",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "2024 red card for a dangerous challenge on Udogie",
+   "VO": "nothing notable found",
+   "CO": "goggles celebration in support of his visually impaired nephew",
+   "HU": "good-humoured, popular; nothing against"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_McGinn"
+  ]
+ },
+ {
+  "id": "nathan-ake",
+  "name": "Nathan Aké",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Aké"
+  ]
+ },
+ {
+  "id": "andrej-kramaric",
+  "name": "Andrej Kramaric",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "gave sports equipment to the Bednja elementary school",
+   "HU": "2013 dispute with the Dinamo board forced a transfer"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrej_Kramarić"
+  ]
+ },
+ {
+  "id": "nabilai-kibunguchy",
+  "name": "Nabilai Kibunguchy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nabilai_Kibunguchy"
+  ]
+ },
+ {
+  "id": "tyrone-mings",
+  "name": "Tyrone Mings",
+  "SP": 4.0,
+  "VO": 8.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "five-match FA ban for stamping on Ibrahimović (2017); stood on Oliveira's face, apologised",
+   "VO": "outspoken on racism, challenged a minister over 'gesture politics' in 2021",
+   "CO": "fed homeless people at Christmas, replaced fans' shirts, runs a youth academy",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrone_Mings"
+  ]
+ },
+ {
+  "id": "antoine-semenyo",
+  "name": "Antoine Semenyo",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "one controversial 2019 red; nothing else",
+   "VO": "reported racist abuse at Anfield in 2025 and responded publicly with dignity",
+   "CO": "nothing notable found",
+   "HU": "thanked teammates, opponents and officials rather than dwelling on himself"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antoine_Semenyo",
+   "https://www.si.com/soccer/antoine-semenyo-heartfelt-response-racist-abuse-liverpool-defeat"
+  ]
+ },
+ {
+  "id": "isco",
+  "name": "Isco",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isco"
+  ]
+ },
+ {
+  "id": "gabi-portilho",
+  "name": "Gabi Portilho",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabi_Portilho"
+  ]
+ },
+ {
+  "id": "leicy-santos",
+  "name": "Leicy Santos",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "players' spokesperson in 2019 after abuse and misogyny complaints, helped save Colombia's women's league",
+   "CO": "joined Common Goal in 2021, pledging part of her salary",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leicy_Santos"
+  ]
+ }
+]

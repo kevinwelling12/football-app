@@ -1,0 +1,619 @@
+[
+ {
+  "id": "bradley-barcola",
+  "name": "Bradley Barcola",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Liverpool",
+  "career": [
+   "Lyon",
+   "Paris Saint-Germain",
+   "Liverpool"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "taunted former club's fans 2024",
+  "notes": "2024 celebrated in front of Lyon fans who insulted him and posted 'the justice of God'."
+ },
+ {
+  "id": "juan-mosquera",
+  "name": "Juan Mosquera",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Colombia",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Independiente Medellín",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matheo-raab",
+  "name": "Matheo Raab",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Eintracht Trier (youth)",
+   "1. FC Kaiserslautern",
+   "Hamburger SV",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "rio-ngumoha",
+  "name": "Rio Ngumoha",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Chelsea (youth)",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incidents. Left Chelsea academy for Liverpool at 15; research 'caps 3' likely youth level, so caps left null."
+ },
+ {
+  "id": "enzo-fernandez",
+  "name": "Enzo Fernández",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Argentina",
+  "current_club": "Manchester City",
+  "career": [
+   "River Plate",
+   "Defensa y Justicia (loan)",
+   "Benfica",
+   "Chelsea",
+   "Manchester City"
+  ],
+  "CH_now": 3.5,
+  "CH_why": "taunting England fans, microphone kick, unauthorised Benfica trip, driving ban and missed court (chant applied separately)",
+  "notes": "2024 posted video of racist chant about France's Black players (apologised, donated); 2024 driving offences (6-month ban, fine); forced 2026 exit from Chelsea to Man City; 2023 unauthorised trip from Benfica; 2026 WC taunts and red card."
+ },
+ {
+  "id": "fanendo-adi",
+  "name": "Fanendo Adi",
+  "gender": "M",
+  "active": false,
+  "born": 1990,
+  "nation": "Nigeria",
+  "current_club": null,
+  "career": [
+   "Portland Timbers",
+   "FC Cincinnati",
+   "Columbus Crew"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "5 2019 impaired driving at 102 mph",
+  "notes": "2019 impaired-driving citation (102 mph); pleaded guilty to reduced reckless-operation charge; MLS suspension."
+ },
+ {
+  "id": "jobe-bellingham",
+  "name": "Jobe Bellingham",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "England",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Birmingham City",
+   "Sunderland",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "karim-benzema",
+  "name": "Karim Benzema",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Lyon",
+   "Real Madrid",
+   "Al-Ittihad",
+   "Al-Hilal"
+  ],
+  "CH_now": 4.25,
+  "CH_why": "Valbuena blackmail conviction (other), legal issues",
+  "notes": "Convicted 2021 of complicity in the Valbuena sex-tape blackmail (1-year suspended); acquitted 2014 in underage prostitution case; Saudi clubs 2023-26 and Saudi league ambassador."
+ },
+ {
+  "id": "alexia-putellas",
+  "name": "Alexia Putellas",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Spain",
+  "current_club": "London City Lionesses",
+  "career": [
+   "Espanyol",
+   "Levante",
+   "Barcelona",
+   "London City Lionesses"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "Rubiales stance, wage strike",
+  "notes": "No incidents; refused Spain call-ups after Rubiales affair until reform; 2023 Liga F strike."
+ },
+ {
+  "id": "john-charles",
+  "name": "John Charles",
+  "gender": "M",
+  "active": false,
+  "born": 1931,
+  "nation": "Wales",
+  "current_club": null,
+  "career": [
+   "Juventus",
+   "Leeds United",
+   "Roma",
+   "Cardiff City",
+   "Hereford United",
+   "Merthyr Tydfil"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "9 'Gentle Giant', never booked",
+  "notes": "No incident codes; never booked or sent off."
+ },
+ {
+  "id": "raphinha",
+  "name": "Raphinha",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Brazil",
+  "current_club": "Barcelona",
+  "career": [
+   "Avaí",
+   "Vitória Guimarães",
+   "Sporting CP",
+   "Rennes",
+   "Leeds United",
+   "Barcelona"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, Leeds affection",
+  "notes": "No incidents. Barcelona captain from 2025. Caps approx. mid-2025."
+ },
+ {
+  "id": "trinity-rodman",
+  "name": "Trinity Rodman",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes on record, showy celebrations",
+  "notes": "Recount: major_trophies 3: NWSL 2021, CONCACAF 2022, W Gold Cup 2024; Olympics not counted."
+ },
+ {
+  "id": "eusebio",
+  "name": "Eusébio",
+  "gender": "M",
+  "active": false,
+  "born": 1942,
+  "nation": "Portugal (born Mozambique)",
+  "current_club": null,
+  "career": [
+   "Sporting Lourenço Marques",
+   "Benfica",
+   "Boston Minutemen",
+   "Monterrey",
+   "Beira-Mar"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "gracious, known for sportsmanship",
+  "notes": ""
+ },
+ {
+  "id": "michael-zorc",
+  "name": "Michael Zorc",
+  "gender": "M",
+  "active": false,
+  "born": 1962,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "6 no issues or causes",
+  "notes": "No incidents. Captained Dortmund to 1997 UCL; caps (7) from general record, not research file."
+ },
+ {
+  "id": "virgil-van-dijk",
+  "name": "Virgil van Dijk",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Netherlands",
+  "current_club": "Liverpool",
+  "career": [
+   "Groningen",
+   "Celtic",
+   "Southampton",
+   "Liverpool"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "respected captain, no issues of note",
+  "notes": "2017 transfer request at Southampton amid tapping-up row with Liverpool; moved Jan 2018."
+ },
+ {
+  "id": "julian-ryerson",
+  "name": "Julian Ryerson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Norway",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Viking",
+   "Union Berlin",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, well liked",
+  "notes": ""
+ },
+ {
+  "id": "ricardo-pepi",
+  "name": "Ricardo Pepi",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "PSV",
+  "career": [
+   "FC Dallas",
+   "FC Augsburg",
+   "Groningen (loan)",
+   "PSV"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "sami-hyypia",
+  "name": "Sami Hyypiä",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "Finland",
+  "current_club": null,
+  "career": [
+   "MyPa",
+   "Willem II",
+   "Liverpool",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "7 quiet, dignified",
+  "notes": ""
+ },
+ {
+  "id": "joshua-kimmich",
+  "name": "Joshua Kimmich",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "RB Leipzig",
+   "Bayern Munich"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "WeKickCorona, OneLove protest",
+  "notes": "No incident codes; 2021 unvaccinated debate."
+ },
+ {
+  "id": "brenden-aaronson",
+  "name": "Brenden Aaronson",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Leeds United",
+  "career": [
+   "Philadelphia Union",
+   "Red Bull Salzburg",
+   "Leeds United",
+   "Union Berlin (loan)"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 candid on mental health, humble",
+  "notes": "No incidents."
+ },
+ {
+  "id": "thomas-muller",
+  "name": "Thomas Müller",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Germany",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Bayern Munich",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "humble, self-deprecating, team-first, no issues",
+  "notes": ""
+ },
+ {
+  "id": "jamie-carragher",
+  "name": "Jamie Carragher",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Liverpool"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "6 23 Foundation offset by 2018 spitting incident",
+  "notes": "2018 spat from his car at a man and his 14-year-old daughter; Sky suspension, apologised (audit retyped as violence). Recount: red_card_violence 0: 2018 spitting was off-pitch, no conviction."
+ },
+ {
+  "id": "aljoscha-kemlein",
+  "name": "Aljoscha Kemlein",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "SC Berliner Amateure (youth)",
+   "Union Berlin",
+   "FC St. Pauli (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "unai-simon",
+  "name": "Unai Simón",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Athletic Club",
+  "career": [
+   "Athletic Club"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "landon-donovan",
+  "name": "Landon Donovan",
+  "gender": "M",
+  "active": false,
+  "born": 1982,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Bayer Leverkusen",
+   "San Jose Earthquakes",
+   "Bayern Munich",
+   "LA Galaxy",
+   "Everton",
+   "León"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "+2.5 mental-health openness, walk-offs against slurs",
+  "notes": "As San Diego Loyal coach (2020) led two walk-offs over racist and homophobic slurs, forfeiting points. Trophies: 6 MLS Cups + 4 Gold Cups."
+ },
+ {
+  "id": "bobby-charlton",
+  "name": "Bobby Charlton",
+  "gender": "M",
+  "active": false,
+  "born": 1937,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Manchester United",
+   "Preston North End"
+  ],
+  "CH_now": 8.75,
+  "CH_why": "gentleman, never sent off, charity work",
+  "notes": "No incidents."
+ },
+ {
+  "id": "jessie-fleming",
+  "name": "Jessie Fleming",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "Canada",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Chelsea",
+   "Portland Thorns"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "Aramco letter, equal pay, humble",
+  "notes": "No incident codes; speaks_out: 2024 letter against FIFA's Aramco deal, 2023 equal-pay fight."
+ },
+ {
+  "id": "bastian-schweinsteiger",
+  "name": "Bastian Schweinsteiger",
+  "gender": "M",
+  "active": false,
+  "born": 1984,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "Manchester United",
+   "Chicago Fire"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "alexis-mac-allister",
+  "name": "Alexis Mac Allister",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Liverpool",
+  "career": [
+   "Argentinos Juniors",
+   "Brighton",
+   "Liverpool"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "no causes or issues of note",
+  "notes": "No incidents."
+ },
+ {
+  "id": "milos-kerkez",
+  "name": "Milos Kerkez",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Hungary",
+  "current_club": "Liverpool",
+  "career": [
+   "AZ",
+   "Bournemouth",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "ethan-ampadu",
+  "name": "Ethan Ampadu",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Wales",
+  "current_club": "Leeds United",
+  "career": [
+   "Chelsea",
+   "RB Leipzig (loan)",
+   "Sheffield United (loan)",
+   "Venezia (loan)",
+   "Spezia (loan)",
+   "Leeds United"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "+1.5 PFA Community Champion, most community projects at Leeds",
+  "notes": ""
+ },
+ {
+  "id": "lamine-yamal",
+  "name": "Lamine Yamal",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "mocked Real Madrid pre-Clasico 2025, birthday party controversy",
+  "notes": "2025 18th-birthday party controversy (Spain's equality ministry asked for investigation); no charge."
+ },
+ {
+  "id": "evander",
+  "name": "Evander",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Brazil",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Vasco da Gama",
+   "Midtjylland",
+   "Portland Timbers",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": ""
+ },
+ {
+  "id": "danny-vitiello",
+  "name": "Danny Vitiello",
+  "gender": "M",
+  "active": true,
+  "born": null,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "stefan-frei",
+  "name": "Stefan Frei",
+  "gender": "M",
+  "active": true,
+  "born": 1986,
+  "nation": "Switzerland",
+  "current_club": "Seattle Sounders",
+  "career": [
+   "Toronto FC",
+   "Seattle Sounders"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, artist",
+  "notes": "Recount: major_trophies 3: MLS Cups 2016/2019, CCL 2022; Leagues Cup not counted."
+ },
+ {
+  "id": "christian-pulisic",
+  "name": "Christian Pulisic",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "AC Milan",
+  "career": [
+   "Borussia Dortmund",
+   "Chelsea",
+   "AC Milan"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "2024 'Trump dance' goal celebration drew criticism (he called it not political)",
+  "notes": "No incidents."
+ }
+]

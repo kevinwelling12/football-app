@@ -1,0 +1,632 @@
+[
+ {
+  "id": "ayyoub-bouaddi",
+  "name": "Ayyoub Bouaddi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayyoub_Bouaddi"
+  ]
+ },
+ {
+  "id": "koke",
+  "name": "Koke",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "first career red (two yellows) came in 2016, after years as a holding midfielder",
+   "VO": "nothing notable found",
+   "CO": "fronts Atlético Foundation campaigns (prostate cancer, Down syndrome, 1p36 families)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Koke_(footballer,_born_1992)"
+  ]
+ },
+ {
+  "id": "fermin-lopez",
+  "name": "Fermín López",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "one second-yellow red for Barça Atlètic (2023); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "described as humble for asking to play for the reserve side"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fermín_López"
+  ]
+ },
+ {
+  "id": "frank-anguissa",
+  "name": "Frank Anguissa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/André-Frank_Zambo_Anguissa"
+  ]
+ },
+ {
+  "id": "yann-sommer",
+  "name": "Yann Sommer",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "gracious in defeat, said PSG deserved the 2025 final",
+   "VO": "nothing notable found",
+   "CO": "his joke chocolate pledge for De Ligt ended up as 700 kg donated to the Munich Tafel food bank (2023)",
+   "HU": "self-deprecating, accepts criticism; no feuds"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yann_Sommer"
+  ]
+ },
+ {
+  "id": "evanilson",
+  "name": "Evanilson",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off v Benfica (2021 cup); 2025 red for a tackle on Mazraoui overturned on appeal",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evanilson_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "id": "dylan-nealis",
+  "name": "Dylan Nealis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dylan_Nealis"
+  ]
+ },
+ {
+  "id": "garrincha",
+  "name": "Garrincha",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "sent off in the 1962 semi-final for kicking a Chile player after being kicked; taunted defenders with his dribbling",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "carefree, unpretentious 'Joy of the People'; no arrogance on record"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garrincha"
+  ]
+ },
+ {
+  "id": "santiago-moreno",
+  "name": "Santiago Moreno",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Moreno_(footballer)"
+  ]
+ },
+ {
+  "id": "sebastian-lletget",
+  "name": "Sebastian Lletget",
+  "SP": 6.0,
+  "VO": 4.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "MLS banned and fined him (2021) for an anti-gay slur on Instagram; apologised, did Athlete Ally training, pledged to be an ally",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Lletget"
+  ]
+ },
+ {
+  "id": "mason-greenwood",
+  "name": "Mason Greenwood",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "sent off at Getafe (2024) for allegedly swearing at the referee",
+   "VO": "only statement was on his own case (said abuse is wrong, denied the accusations)",
+   "CO": "nothing notable found",
+   "HU": "withdrawn from England (2020) for breaking COVID quarantine"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mason_Greenwood"
+  ]
+ },
+ {
+  "id": "ibrahim-sangare",
+  "name": "Ibrahim Sangaré",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ibrahim_Sangaré_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "rafaelle",
+  "name": "Rafaelle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafaelle_Souza"
+  ]
+ },
+ {
+  "id": "conor-gallagher",
+  "name": "Conor Gallagher",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (two yellows, 2022); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conor_Gallagher"
+  ]
+ },
+ {
+  "id": "emily-sams",
+  "name": "Emily Sams",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emily_Sams"
+  ]
+ },
+ {
+  "id": "lorena",
+  "name": "Lorena",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lorena_(footballer)"
+  ]
+ },
+ {
+  "id": "alejandro-bedoya",
+  "name": "Alejandro Bedoya",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 8.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "'Congress, do something now' on live TV (2019); led End Gun Violence warm-up after Uvalde; Everytown member; spoke on mental health",
+   "CO": "2022 MLS WORKS Humanitarian of the Year, gun-violence prevention work (Group Violence Intervention)",
+   "HU": "said other players were more deserving of the award"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Bedoya"
+  ]
+ },
+ {
+  "id": "morgan-gibbs-white",
+  "name": "Morgan Gibbs-White",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "sent off in the 2023 U21 Euro final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "disciplined by Wolves for a 2020 lockdown party; six-month driving ban for speeding (2025)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_Gibbs-White"
+  ]
+ },
+ {
+  "id": "omar-marmoush",
+  "name": "Omar Marmoush",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omar_Marmoush"
+  ]
+ },
+ {
+  "id": "pietra-tordin",
+  "name": "Pietra Tordin",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pietra_Tordin"
+  ]
+ },
+ {
+  "id": "stanislav-lobotka",
+  "name": "Stanislav Lobotka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanislav_Lobotka"
+  ]
+ },
+ {
+  "id": "jose-casas-de-abadal",
+  "name": "Jose Casas De Abadal",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/José_Casas_de_Abadal"
+  ]
+ },
+ {
+  "id": "leonardo-spinazzola",
+  "name": "Leonardo Spinazzola",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonardo_Spinazzola"
+  ]
+ },
+ {
+  "id": "miles-robinson",
+  "name": "Miles Robinson",
+  "SP": 5.5,
+  "VO": 6.5,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card and a fine for not leaving the field promptly",
+   "VO": "ambassador for Black Players for Change",
+   "CO": "founded Miles of Change (youth arts, sport, education) with United Way; Cincinnati council commendation (2025)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miles_Robinson_(soccer)"
+  ]
+ },
+ {
+  "id": "victor-froholdt",
+  "name": "Victor Froholdt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Froholdt"
+  ]
+ },
+ {
+  "id": "marquinhos",
+  "name": "Marquinhos",
+  "SP": 8.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "first UEFA Respect award (2026) for consoling Gabriel after the final instead of celebrating; one red (2012, denying a chance)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "called humble by teammates; put a beaten opponent before his own trophy"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marquinhos"
+  ]
+ },
+ {
+  "id": "reyna-reyes",
+  "name": "Reyna Reyes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reyna_Reyes"
+  ]
+ },
+ {
+  "id": "warren-zaire-emery",
+  "name": "Warren Zaïre-Emery",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "noted for a calm, disciplined attitude; no cards of note",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "described as unusually mature; took a demotion to the U21s and earned his way back"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warren_Zaïre-Emery"
+  ]
+ },
+ {
+  "id": "ayase-ueda",
+  "name": "Ayase Ueda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayase_Ueda"
+  ]
+ },
+ {
+  "id": "anton-saletros",
+  "name": "Anton Saletros",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anton_Saletros"
+  ]
+ },
+ {
+  "id": "dango-ouattara",
+  "name": "Dango Ouattara",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in the 2021 AFCON semi-final v Tunisia",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dango_Ouattara"
+  ]
+ },
+ {
+  "id": "nicolo-barella",
+  "name": "Nicolò Barella",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "repeatedly criticised in the press for protesting and arguing excessively with officials",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolò_Barella"
+  ]
+ },
+ {
+  "id": "carles-puyol",
+  "name": "Carles Puyol",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 9.0,
+  "why": {
+   "SP": "won the BBVA Fair Play award (2011-12); known for calming team-mates in confrontations",
+   "VO": "nothing notable found",
+   "CO": "paid for private cancer treatment for young player Miki Roqué",
+   "HU": "handed Abidal the armband to lift the 2011 Champions League trophy; credits work rate over talent; quiet private life"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carles_Puyol"
+  ]
+ },
+ {
+  "id": "amir-rrahmani",
+  "name": "Amir Rrahmani",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amir_Rrahmani"
+  ]
+ },
+ {
+  "id": "alex-baena",
+  "name": "Álex Baena",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "Valverde's claim (2023) that Baena taunted him about his unborn child was denied by Baena and never proven; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Álex_Baena"
+  ]
+ }
+]

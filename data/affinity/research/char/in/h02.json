@@ -1,0 +1,642 @@
+[
+ {
+  "id": "janik-haberer",
+  "name": "Janik Haberer",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "SpVgg Unterhaching",
+   "1899 Hoffenheim",
+   "VfL Bochum (loan)",
+   "SC Freiburg",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alexander-isak",
+  "name": "Alexander Isak",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Sweden",
+  "current_club": "Liverpool",
+  "career": [
+   "AIK",
+   "Borussia Dortmund",
+   "Real Sociedad",
+   "Newcastle United",
+   "Liverpool"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "public fallout with Newcastle during the strike",
+  "notes": "Went on strike at Newcastle (PIF-owned) in Aug 2025 to force a move to Liverpool."
+ },
+ {
+  "id": "lindsey-horan",
+  "name": "Lindsey Horan",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Paris Saint-Germain",
+   "Portland Thorns",
+   "Lyon",
+   "Denver Summit FC"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "equal-pay plaintiff, some dissent with referees",
+  "notes": "Plaintiff in the 2019 USWNT equal-pay lawsuit. Recount: major_trophies 11: WC 2019, NWSL 2017, UWCL 2022, 5 French titles 2022-26, CONCACAF 2018/2022, W Gold Cup 2024; Olympics and Shields not counted."
+ },
+ {
+  "id": "marta",
+  "name": "Marta",
+  "gender": "W",
+  "active": true,
+  "born": 1986,
+  "nation": "Brazil",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Los Angeles Sol",
+   "FC Gold Pride",
+   "Western New York Flash",
+   "Tyresö FF",
+   "FC Rosengård",
+   "Orlando Pride"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "UN Women ambassador, equality boots",
+  "notes": "UN Women Goodwill Ambassador; refused boot deals without equal terms (2019)."
+ },
+ {
+  "id": "eric-cantona",
+  "name": "Eric Cantona",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Auxerre",
+   "Marseille",
+   "Leeds United",
+   "Manchester United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "homelessness cause and Qatar boycott, minus arrogance",
+  "notes": "1988 punched teammate Martini; 1993 spat at Leeds fans (FA fine); 1995 kung-fu kick at fan (8-month ban, community service); moved Leeds to Man United 1992. Recount: red_card_violence 2: 1993 spit at Leeds fans, 1995 kick at fan; 1988 Martini punch was not in a match."
+ },
+ {
+  "id": "achraf-hakimi",
+  "name": "Achraf Hakimi",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Morocco",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Real Madrid",
+   "Borussia Dortmund",
+   "Inter Milan",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes of note (allegations handled separately)",
+  "notes": "Charged with rape (alleged 2023), denies; trial upheld Sept 2026, pending. PSG (Qatar-owned) since 2021."
+ },
+ {
+  "id": "iker-casillas",
+  "name": "Iker Casillas",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Madrid",
+   "Porto"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "humble, minus 2022 tweet",
+  "notes": "No incident codes; 2022 'I'm gay' tweet he said was a hack, apologised."
+ },
+ {
+  "id": "gregor-kobel",
+  "name": "Gregor Kobel",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Switzerland",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Hoffenheim",
+   "VfB Stuttgart",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "denis-bouanga",
+  "name": "Denis Bouanga",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Gabon",
+  "current_club": "LAFC",
+  "career": [
+   "Lorient",
+   "Nîmes",
+   "Saint-Étienne",
+   "LAFC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": ""
+ },
+ {
+  "id": "david-da-costa",
+  "name": "David Da Costa",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Portugal",
+  "current_club": "Portland Timbers",
+  "career": [
+   "RC Lens",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "tim-howard",
+  "name": "Tim Howard",
+  "gender": "M",
+  "active": false,
+  "born": 1979,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "MetroStars",
+   "Manchester United",
+   "Everton",
+   "Colorado Rapids",
+   "Memphis 901"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "5.5 Tourette advocacy offset by fan altercations, dual-national remarks",
+  "notes": "2017 verbal altercation with fans at Sporting KC: 3-match ban and fine."
+ },
+ {
+  "id": "andrea-pirlo",
+  "name": "Andrea Pirlo",
+  "gender": "M",
+  "active": false,
+  "born": 1979,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Brescia",
+   "Inter Milan",
+   "AC Milan",
+   "Juventus",
+   "New York City FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "laconic, no issues",
+  "notes": "Moved directly from Inter to city rival AC Milan (2001)."
+ },
+ {
+  "id": "maximilian-beier",
+  "name": "Maximilian Beier",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "TSG Hoffenheim",
+   "Hannover 96 (loan)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "ukasz-piszczek",
+  "name": "Łukasz Piszczek",
+  "gender": "M",
+  "active": false,
+  "born": 1985,
+  "nation": "Poland",
+  "current_club": null,
+  "career": [
+   "Hertha BSC",
+   "Borussia Dortmund",
+   "LKS Goczałkowice-Zdrój"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "7.5 humble, hometown academy",
+  "notes": "Zaglebie Lubin match-fixing affair (2006 match, did not play): PZPN ban 2011, one-year suspended sentence and fine."
+ },
+ {
+  "id": "marcel-sabitzer",
+  "name": "Marcel Sabitzer",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Austria",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Rapid Wien",
+   "Red Bull Salzburg (loan)",
+   "RB Leipzig",
+   "Bayern Munich",
+   "Manchester United (loan)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "finn-surman",
+  "name": "Finn Surman",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "New Zealand",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Wellington Phoenix",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "michael-olise",
+  "name": "Michael Olise",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "France",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Reading",
+   "Crystal Palace",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues of note",
+  "notes": "No incidents. Caps figure approx. as of mid-2025."
+ },
+ {
+  "id": "ryan-gravenberch",
+  "name": "Ryan Gravenberch",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Netherlands",
+  "current_club": "Liverpool",
+  "career": [
+   "Ajax",
+   "Bayern Munich",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues of note",
+  "notes": ""
+ },
+ {
+  "id": "victor-munoz",
+  "name": "Víctor Muñoz",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Liverpool",
+  "career": [
+   "Real Madrid Castilla",
+   "Real Madrid",
+   "Osasuna",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "james-pantemis",
+  "name": "James Pantemis",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Portland Timbers",
+  "career": [
+   "CF Montréal",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felipe-mora",
+  "name": "Felipe Mora",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Chile",
+  "current_club": "Atlético de San Luis",
+  "career": [
+   "Audax Italiano",
+   "Cruz Azul",
+   "Pumas UNAM",
+   "Portland Timbers",
+   "Atlético de San Luis"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "brandon-bye",
+  "name": "Brandon Bye",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "New England Revolution",
+   "Portland Timbers"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 Aspiras Foundation, BPC",
+  "notes": "No incidents."
+ },
+ {
+  "id": "giuseppe-meazza",
+  "name": "Giuseppe Meazza",
+  "gender": "M",
+  "active": false,
+  "born": 1910,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Inter (Ambrosiana)",
+   "AC Milan",
+   "Juventus",
+   "Varese",
+   "Atalanta",
+   "Inter"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 nightlife celebrity, no causes",
+  "notes": "Inter-to-Milan move (1940) after Inter released him; audit dropped it as a rival move. 1938 team-wide fascist salute under the regime. Recount: major_trophies 5: Central European International Cups not counted."
+ },
+ {
+  "id": "brandi-chastain",
+  "name": "Brandi Chastain",
+  "gender": "W",
+  "active": false,
+  "born": 1968,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "San Jose CyberRays"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "CTE campaign, Bay FC, youth coaching",
+  "notes": "No incidents; Safer Soccer heading campaign led to 2015 US youth heading limits."
+ },
+ {
+  "id": "homare-sawa",
+  "name": "Homare Sawa",
+  "gender": "W",
+  "active": false,
+  "born": 1978,
+  "nation": "Japan",
+  "current_club": null,
+  "career": [
+   "Yomiuri Beleza / NTV Beleza",
+   "Atlanta Beat",
+   "Washington Freedom",
+   "INAC Kobe Leonessa"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "humble pioneer",
+  "notes": "No incident codes; league titles (11) per a report, sources disagree."
+ },
+ {
+  "id": "jayden-bogle",
+  "name": "Jayden Bogle",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Derby County",
+   "Sheffield United",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wataru-endo",
+  "name": "Wataru Endo",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Japan",
+  "current_club": "Liverpool",
+  "career": [
+   "Shonan Bellmare",
+   "Urawa Red Diamonds",
+   "Sint-Truiden",
+   "VfB Stuttgart",
+   "Liverpool"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "model pro, humble, founded children's study-abroad project",
+  "notes": ""
+ },
+ {
+  "id": "enzo-dos-santos",
+  "name": "Enzo dos Santos",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "Luxembourg",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Swift Hesperange (youth)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline, club cites discipline",
+  "notes": ""
+ },
+ {
+  "id": "jeremie-frimpong",
+  "name": "Jeremie Frimpong",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Liverpool",
+  "career": [
+   "Manchester City (academy)",
+   "Celtic",
+   "Bayer Leverkusen",
+   "Liverpool"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "upbeat personality, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chris-richards",
+  "name": "Chris Richards",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Crystal Palace",
+  "career": [
+   "FC Dallas",
+   "Bayern Munich",
+   "Hoffenheim (loan)",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "robert-lewandowski",
+  "name": "Robert Lewandowski",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "Poland",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Znicz Pruszków",
+   "Lech Poznań",
+   "Borussia Dortmund",
+   "Bayern Munich",
+   "Barcelona",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "Ukraine support, no issues",
+  "notes": "Joined Bayern directly from Dortmund on a free 2014; publicly forced exit from Bayern 2022; supported Ukrainian refugees and refused to play Russia 2022."
+ },
+ {
+  "id": "carlos-bocanegra",
+  "name": "Carlos Bocanegra",
+  "gender": "M",
+  "active": false,
+  "born": 1979,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Fulham",
+   "Rennes",
+   "Saint-Étienne",
+   "Rangers",
+   "Racing Santander",
+   "Chivas USA"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incidents."
+ },
+ {
+  "id": "mohamed-salah",
+  "name": "Mohamed Salah",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Egypt",
+  "current_club": "Trabzonspor",
+  "career": [
+   "Basel",
+   "Chelsea",
+   "Fiorentina",
+   "Roma",
+   "Liverpool",
+   "Trabzonspor"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "anchor 8.5, Nagrig school and hospital, Gaza statements",
+  "notes": "No incident codes. Public dispute with Liverpool coach Dec 2025; chose Trabzonspor over Saudi offers 2026; spoke out on death of Palestinian footballer (2025). Caps approx. mid-2025."
+ },
+ {
+  "id": "nico-schlotterbeck",
+  "name": "Nico Schlotterbeck",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "SC Freiburg",
+   "Union Berlin (loan)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "emotional, outspoken, no issues",
+  "notes": "No incidents. Dortmund vice-captain 2026-27 (not coded as captain)."
+ },
+ {
+  "id": "julie-foudy",
+  "name": "Julie Foudy",
+  "gender": "W",
+  "active": false,
+  "born": 1971,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "San Diego Spirit"
+  ],
+  "CH_now": 9.5,
+  "CH_why": "child-labour stand, Title IX, pay fight",
+  "notes": "Inspected Pakistani ball factories for child labour (1997 FIFA Fair Play Award); led 1995-96 pay holdout. Trophies: World Cups 1991, 1999 + 5 CONCACAF titles."
+ },
+ {
+  "id": "becky-sauerbrunn",
+  "name": "Becky Sauerbrunn",
+  "gender": "W",
+  "active": false,
+  "born": 1985,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "FC Kansas City",
+   "Utah Royals",
+   "Portland Thorns"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "led players' union and abuse-accountability push",
+  "notes": "No incidents; USWNTPA president, equal-pay complainant; demanded NWSL owners step aside in 2022."
+ }
+]

@@ -49,6 +49,8 @@ Players: web/players.js, same engine, 2,340 researched players (data/affinity/pl
 club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),
 "who would you rather your son look up to?" picks (state.playerPicks); Clubs page > Players. scripts/affinity/analyze_players.mjs.
 Serious wrongdoing = harm to people; uncharged allegations aren't coded; minor offences are lesser (docs/affinity.md).
+Character is also split into Sportsmanship, Speaks out, Community, Humility (researched so far only for players Kevin has
+answered on: data/affinity/research/char, scripts/affinity/merge_char.py); American is a pull.
 
 ## Match importance, match of the day/week
 sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.

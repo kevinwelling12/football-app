@@ -9,18 +9,21 @@
 // Fitted on "which player would you rather your son look up to?" picks with the shared engine (affinity.js fitPairs).
 import { fitPairs } from './affinity.js';
 
-export const PTRAITS = ['CH', 'WK', 'LO', 'AB', 'ST', 'LE'];
-export const PLINKS = ['myClub', 'clubs'];
+// SP, VO, CO, HU split Character into its parts (2026-10-15, researched for the players Kevin has answered on so far;
+// others get the brief's low-information values until researched)
+export const PTRAITS = ['CH', 'SP', 'VO', 'CO', 'HU', 'WK', 'LO', 'AB', 'ST', 'LE'];
+const TDEFAULT = { SP: 6, VO: 5, CO: 5.5, HU: 6 };
+export const PLINKS = ['myClub', 'clubs', 'usa'];
 export const PFLAGS = ['serious', 'lesser', 'money', 'moves'];
 export const PFAMILIAR = ['active', 'women'];
 export const PFEATURES = [...PTRAITS, ...PLINKS, ...PFLAGS, ...PFAMILIAR];
-export const PLABEL = { CH: 'Character', WK: 'Team player', LO: 'Loyalty', AB: 'Greatness', ST: 'Joy to watch', LE: 'Legacy',
+export const PLABEL = { CH: 'Character', SP: 'Sportsmanship', VO: 'Speaks out', CO: 'Community', HU: 'Humility', usa: 'American', WK: 'Team player', LO: 'Loyalty', AB: 'Greatness', ST: 'Joy to watch', LE: 'Legacy',
   myClub: 'Played for your club', clubs: 'Clubs you like', serious: 'Serious wrongdoing', lesser: 'Lesser offences',
   money: 'Money or sportswashing move', moves: 'Forced a move or joined a rival', active: 'Still playing', women: "Women's game" };
-export const PSHORT = { CH: 'character questions', WK: 'not a team player', LO: 'moved around', AB: 'a modest talent', ST: 'functional style',
+export const PSHORT = { CH: 'character questions', SP: 'gamesmanship', VO: 'no public stands', CO: 'little community work', HU: 'ego', usa: '', WK: 'not a team player', LO: 'moved around', AB: 'a modest talent', ST: 'functional style',
   LE: 'little legacy', myClub: '', clubs: 'clubs you dislike', serious: 'serious wrongdoing', lesser: 'lesser offences',
   money: 'money or sportswashing move', moves: 'forced a move or joined a rival' };
-const PRIOR = { CH: 1, WK: 0.6, LO: 0.5, AB: 0.5, ST: 0.3, LE: 0.4, myClub: 1, clubs: 0.5, serious: -2.5, lesser: -1, money: -1.5, moves: -0.5, active: 0, women: 0 };
+const PRIOR = { CH: 1, SP: 0.3, VO: 0.3, CO: 0.3, HU: 0.3, usa: 0, WK: 0.6, LO: 0.5, AB: 0.5, ST: 0.3, LE: 0.4, myClub: 1, clubs: 0.5, serious: -2.5, lesser: -1, money: -1.5, moves: -0.5, active: 0, women: 0 };
 const NOW = 2026;
 const SPEC = {
   names: PFEATURES,
@@ -28,7 +31,7 @@ const SPEC = {
   push: PFEATURES.map(f => PFLAGS.includes(f)),
   fam: PFEATURES.map(f => PFAMILIAR.includes(f)),
   flags: PFLAGS,
-  plusOnly: ['myClub'], // not having played for your clubs isn't a reason against anyone
+  plusOnly: ['myClub', 'usa'], // not having played for your clubs (or not being American) isn't a reason against anyone
   prior: PFEATURES.map(f => PRIOR[f]),
 };
 
@@ -42,7 +45,7 @@ export function pfeatures(p, clubAff, favs) {
     const a = c[1] ? clubAff(c[1]) : null;
     if (a != null) { link += s * (a - 50) / 50; linkW += s; }
   }
-  return [...PTRAITS.map(t => (p.t[t] ?? 5) / 10), tot ? mine / tot : 0, linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0,
+  return [...PTRAITS.map(t => (p.t[t] ?? TDEFAULT[t] ?? 5) / 10), tot ? mine / tot : 0, linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0, p.nat === 'USA' ? 1 : 0,
     ...PFLAGS.map(f => p.f[f] || 0), p.act ? 1 : 0, p.g === 'W' ? 1 : 0];
 }
 

@@ -1,0 +1,656 @@
+[
+ {
+  "id": "federico-dimarco",
+  "name": "Federico Dimarco",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Internazionale",
+  "career": [
+   "Internazionale",
+   "Empoli",
+   "Sion",
+   "Parma",
+   "Hellas Verona",
+   "Internazionale"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "Milan-born lifelong Inter fan; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edin-dzeko",
+  "name": "Edin Dzeko",
+  "gender": "M",
+  "active": true,
+  "born": 1986,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "Schalke 04",
+  "career": [
+   "Manchester City",
+   "Roma",
+   "Inter Milan",
+   "Fenerbahçe",
+   "Fiorentina",
+   "Schalke 04"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "long-time UNICEF ambassador; sent off once in a scuffle vs Greece",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabian-ruiz",
+  "name": "Fabián Ruiz",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Real Betis",
+   "Elche",
+   "Napoli",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morgan-rogers",
+  "name": "Morgan Rogers",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Middlesbrough",
+   "Aston Villa",
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ivan-perisic",
+  "name": "Ivan Perisic",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Croatia",
+  "current_club": "PSV",
+  "career": [
+   "VfL Wolfsburg",
+   "Inter Milan",
+   "Bayern Munich (loan)",
+   "Tottenham Hotspur",
+   "Hajduk Split (loan)",
+   "PSV"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "Public spat with Klopp in 2012; 2017 ban for confronting a referee",
+  "notes": "No incident codes. 2017 suspension was for confronting a referee (dissent), not violent conduct."
+ },
+ {
+  "id": "ann-katrin-berger",
+  "name": "Ann-Katrin Berger",
+  "gender": "W",
+  "active": true,
+  "born": 1990,
+  "nation": "Germany",
+  "current_club": "Gotham FC",
+  "career": [
+   "VfL Sindelfingen",
+   "Turbine Potsdam",
+   "Paris Saint-Germain",
+   "Birmingham City",
+   "Chelsea",
+   "Gotham FC"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "described as modest, deflects credit; took full blame for a Euro semi-final error",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mayele-malango",
+  "name": "Mayele Malango",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Malawi",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "New England Revolution II",
+   "New Amsterdam FC",
+   "Albion San Diego",
+   "Chattanooga Red Wolves",
+   "Monterey Bay FC",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "little public record; worked up from refugee childhood in Malawi through lower leagues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matteo-ruggeri",
+  "name": "Matteo Ruggeri",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Italy",
+  "current_club": "Aston Villa",
+  "career": [
+   "Atalanta",
+   "Salernitana",
+   "Atlético Madrid",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-garner",
+  "name": "James Garner",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Manchester United",
+   "Nottingham Forest",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jarell-quansah",
+  "name": "Jarell Quansah",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Liverpool",
+   "Bristol Rovers",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes; two red cards incl. 2023 loan clash with Joe Morrell (FA: tackle only) and a 2026 World Cup tackle",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zion-suzuki",
+  "name": "Zion Suzuki",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Japan",
+  "current_club": "Aston Villa",
+  "career": [
+   "Urawa Red Diamonds",
+   "Sint-Truiden",
+   "Parma",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; overcame racist abuse in Japan",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "casemiro",
+  "name": "Casemiro",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Brazil",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "São Paulo",
+   "Real Madrid",
+   "Porto",
+   "Manchester United",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "small charity; at times criticised for aggressive tackles",
+  "notes": "red_card_violence: red card and three-match ban for grabbing Will Hughes's neck vs Crystal Palace (Feb 2023). MLS tampering investigation into his move (July 2026) ongoing, not coded."
+ },
+ {
+  "id": "mario-gotze",
+  "name": "Mario Götze",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Borussia Dortmund",
+   "Bayern Munich",
+   "Borussia Dortmund",
+   "PSV Eindhoven",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "long-running charity work; the timing of his Bayern move hurt Dortmund",
+  "notes": "rival_move: went directly from Borussia Dortmund to Bayern Munich in 2013 (release clause, announced before a Champions League semi-final); later said he regretted it and returned in 2016."
+ },
+ {
+  "id": "luther-archimede",
+  "name": "Luther Archimede",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Guadeloupe",
+  "current_club": "New Mexico United",
+  "career": [
+   "Sochaux",
+   "New York Red Bulls II",
+   "Sacramento Republic",
+   "Monterey Bay FC",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyler-wolff",
+  "name": "Tyler Wolff",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Atlanta United",
+   "SK Beveren",
+   "Real Salt Lake",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pascal-gross",
+  "name": "Pascal Gross",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Germany",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Karlsruher SC",
+   "FC Ingolstadt",
+   "Brighton & Hove Albion",
+   "Borussia Dortmund",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, praised for leadership; returned to Brighton by choice",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "isabella-obaze",
+  "name": "Isabella Obaze",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "Denmark",
+  "current_club": "Portland Thorns",
+  "career": [
+   "KoldingQ",
+   "HB Køge",
+   "FC Rosengård",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aaron-wan-bissaka",
+  "name": "Aaron Wan-Bissaka",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Congo DR",
+  "current_club": "Aston Villa",
+  "career": [
+   "Crystal Palace",
+   "Manchester United",
+   "West Ham United",
+   "Aston Villa"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "2021 driving ban for driving while disqualified and uninsured",
+  "notes": "criminal_other: 2021 conviction for driving while disqualified and uninsured (six-month ban, £31,500 fine); a motoring offence, no harm caused. Audit: motoring offences are coded only for drink-driving or harm to someone; reflected in CH."
+ },
+ {
+  "id": "romelu-lukaku",
+  "name": "Romelu Lukaku",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Belgium",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Inter Milan",
+   "Chelsea",
+   "Inter Milan",
+   "Roma",
+   "Napoli",
+   "Fenerbahçe"
+  ],
+  "CH_now": 7.2,
+  "CH_why": "anti-racism voice; 2021 interview undermining Chelsea, apologised",
+  "notes": "No incident codes; 2017 Beverly Hills noise citation (reduced infraction) not coded."
+ },
+ {
+  "id": "matty-cash",
+  "name": "Matty Cash",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Poland",
+  "current_club": "Aston Villa",
+  "career": [
+   "Nottingham Forest",
+   "Aston Villa"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "support message for Ukraine; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kai-havertz",
+  "name": "Kai Havertz",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "Arsenal",
+  "career": [
+   "Bayer Leverkusen",
+   "Chelsea",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "boubacar-kamara",
+  "name": "Boubacar Kamara",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Aston Villa",
+  "career": [
+   "Marseille",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabriel-magalhaes",
+  "name": "Gabriel Magalhães",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Brazil",
+  "current_club": "Arsenal",
+  "career": [
+   "Avaí",
+   "Lille",
+   "Arsenal"
+  ],
+  "CH_now": 5.6,
+  "CH_why": "physical and combative, 2024 confrontation with Haaland",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hugo-lloris",
+  "name": "Hugo Lloris",
+  "gender": "M",
+  "active": true,
+  "born": 1986,
+  "nation": "France",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Nice",
+   "Lyon",
+   "Tottenham Hotspur",
+   "Los Angeles FC"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "declined the OneLove armband in Qatar citing respect for hosts; drink-driving conviction",
+  "notes": "criminal_other: pleaded guilty to drink-driving in London in 2018 (over twice the limit; £50,000 fine, 20-month ban)."
+ },
+ {
+  "id": "jess-carter",
+  "name": "Jess Carter",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Gotham FC",
+  "career": [
+   "Birmingham City",
+   "Chelsea",
+   "Gotham FC"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "community award, academy co-founder, faced down racist abuse with dignity",
+  "notes": "No incident codes. Victim, not perpetrator, of racist abuse in 2025."
+ },
+ {
+  "id": "arda-guler",
+  "name": "Arda Güler",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Türkiye",
+  "current_club": "Real Madrid",
+  "career": [
+   "Fenerbahçe",
+   "Real Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "red card for protesting after full time (2026)",
+  "notes": "No incident codes. 2026 red card was for dissent, not violence."
+ },
+ {
+  "id": "alphonso-davies",
+  "name": "Alphonso Davies",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Vancouver Whitecaps",
+   "Bayern Munich"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "refugee-camp story, UNHCR ambassador",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "john-mcginn",
+  "name": "John McGinn",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Scotland",
+  "current_club": "Aston Villa",
+  "career": [
+   "St Mirren",
+   "Hibernian",
+   "Aston Villa"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "popular, good-humoured; goggles celebration for his visually impaired nephew",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathan-ake",
+  "name": "Nathan Aké",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Netherlands",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Chelsea",
+   "Watford",
+   "Bournemouth",
+   "Manchester City",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no incidents; quiet, professional",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andrej-kramaric",
+  "name": "Andrej Kramaric",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Croatia",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Dinamo Zagreb",
+   "Rijeka",
+   "Leicester City",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "quiet professional, home-town giving; 2013 public row with Dinamo board",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nabilai-kibunguchy",
+  "name": "Nabilai Kibunguchy",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Kenya",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Minnesota United",
+   "Sacramento Republic",
+   "Minnesota United 2",
+   "Orlando City B",
+   "Hougang United",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Born in Elk Grove, California; on loan at Sacramento Republic in 2021."
+ },
+ {
+  "id": "tyrone-mings",
+  "name": "Tyrone Mings",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Aston Villa",
+  "career": [
+   "Yate Town",
+   "Chippenham Town",
+   "Ipswich Town",
+   "AFC Bournemouth",
+   "Aston Villa"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "outspoken anti-racism voice, community academy, homeless outreach",
+  "notes": "red_card_violence: five-match FA ban in 2017 for stamping on Zlatan Ibrahimović."
+ },
+ {
+  "id": "antoine-semenyo",
+  "name": "Antoine Semenyo",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Ghana",
+  "current_club": "Manchester City",
+  "career": [
+   "Bristol City",
+   "Bournemouth",
+   "Manchester City"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "dignified response to racist abuse at Anfield 2025; rose from non-league",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "isco",
+  "name": "Isco",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Valencia",
+   "Málaga",
+   "Real Madrid",
+   "Sevilla",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes; contract disputes at Sevilla and Union Berlin",
+  "notes": "No incident codes. Sevilla ended his contract in 2022 and a Union Berlin move collapsed over terms; not coded."
+ },
+ {
+  "id": "gabi-portilho",
+  "name": "Gabi Portilho",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "Brazil",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "São José",
+   "Audax",
+   "3B da Amazônia",
+   "Corinthians",
+   "Gotham FC",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leicy-santos",
+  "name": "Leicy Santos",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Colombia",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Santa Fe",
+   "Atlético Madrid",
+   "Washington Spirit"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "spoke for players to save Colombia's league; Common Goal",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,638 @@
+[
+ {
+  "id": "alex-iwobi",
+  "name": "Alex Iwobi",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Nigeria",
+  "current_club": "Fulham",
+  "career": [
+   "Arsenal",
+   "Everton",
+   "Fulham"
+  ],
+  "CH_now": 7.8,
+  "CH_why": "founded Project 17 youth charity, recognised on Football Black List 2026",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jayden-perry",
+  "name": "Jayden Perry",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eduardo-camavinga",
+  "name": "Eduardo Camavinga",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Real Madrid",
+  "career": [
+   "Rennes",
+   "Real Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-scott",
+  "name": "Alex Scott",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Guernsey FC",
+   "Bristol City",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or incidents on record; Channel Islands sports personality",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordan-morris",
+  "name": "Jordan Morris",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Seattle Sounders FC",
+   "Swansea City"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "Runs T1D foundation, meets diabetic kids after every match",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-spaulding",
+  "name": "Ryan Spaulding",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Stade Briochin",
+   "New England Revolution II",
+   "New England Revolution",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-hollingshead",
+  "name": "Ryan Hollingshead",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "FC Dallas",
+   "Los Angeles FC"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "MLS Humanitarian of the Year; charity work in Haiti; hit by a car while helping a stranded motorist",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-cucurella",
+  "name": "Marc Cucurella",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Spain",
+  "current_club": "Real Madrid",
+  "career": [
+   "Eibar",
+   "Getafe",
+   "Brighton & Hove Albion",
+   "Chelsea",
+   "Real Madrid"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "open about family autism; no causes otherwise",
+  "notes": "No incident codes. 2024 red card (second yellow after a scuffle with Kevin Schade) not violent conduct."
+ },
+ {
+  "id": "david-beckham",
+  "name": "David Beckham",
+  "gender": "M",
+  "active": false,
+  "born": 1975,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Manchester United",
+   "Real Madrid",
+   "LA Galaxy",
+   "AC Milan",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "UNICEF and donations, polite (Qatar ambassadorship handled separately)",
+  "notes": "Paid Qatar 2022 ambassador (reported £150m deal); 1998 World Cup red card v Argentina (kick at Simeone, not coded as violent conduct); played for Qatar-owned PSG 2013 (French club). Recount: red_card_violence 1: 1998 World Cup kick at Simeone (red card)."
+ },
+ {
+  "id": "alvaro-carreras",
+  "name": "Álvaro Carreras",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Real Madrid",
+  "career": [
+   "Preston North End",
+   "Granada",
+   "Benfica",
+   "Real Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gerard-moreno",
+  "name": "Gerard Moreno",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Villarreal",
+   "Mallorca",
+   "Espanyol",
+   "Villarreal"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues on record; club captain",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ben-gannon-doak",
+  "name": "Ben Gannon-Doak",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Scotland",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Celtic",
+   "Liverpool",
+   "Middlesbrough",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dean-huijsen",
+  "name": "Dean Huijsen",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Spain",
+  "current_club": "Real Madrid",
+  "career": [
+   "Juventus",
+   "Roma",
+   "AFC Bournemouth",
+   "Real Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "apologised for a post mocking Asian people",
+  "notes": "racist_abuse 1: in February 2026 reposted an image mocking Asian people's eyes; Real Madrid published an apology."
+ },
+ {
+  "id": "anthony-gordon",
+  "name": "Anthony Gordon",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Barcelona",
+  "career": [
+   "Everton",
+   "Preston North End",
+   "Newcastle United",
+   "Barcelona"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "scuffles with Trippier and Schär; reported training absence to leave Everton",
+  "notes": "forced_transfer: handed in a transfer request and reportedly skipped Everton training to force the January 2023 move to Newcastle."
+ },
+ {
+  "id": "elizabeth-ball",
+  "name": "Elizabeth Ball",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Portland Thorns",
+   "Utah Royals",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; co-founded a coffee business partnered with KC's stadium",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "goncalo-inacio",
+  "name": "Gonçalo Inácio",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Portugal",
+  "current_club": "Sporting CP",
+  "career": [
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "abby-smith",
+  "name": "Abby Smith",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Utah Royals FC",
+   "Kansas City NWSL",
+   "Portland Thorns FC",
+   "NJ/NY Gotham FC",
+   "Houston Dash",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. Born in Portland; on Thorns' 2022 title squad."
+ },
+ {
+  "id": "nico-paz",
+  "name": "Nico Paz",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Argentina",
+  "current_club": "Como",
+  "career": [
+   "Real Madrid",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no controversies on record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paulo-dybala",
+  "name": "Paulo Dybala",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Argentina",
+  "current_club": "AS Roma",
+  "career": [
+   "Instituto",
+   "Palermo",
+   "Juventus",
+   "AS Roma"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "Common Goal pledge and quiet charity, clean record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morten-hjulmand",
+  "name": "Morten Hjulmand",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Denmark",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Admira Wacker",
+   "Lecce",
+   "Sporting CP",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "captain at two clubs, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nick-ross",
+  "name": "Nick Ross",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Scotland",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Dundee",
+   "Sepsi OSK",
+   "Brora Rangers",
+   "El Paso Locomotive",
+   "Sacramento Republic",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Played for Kevin's Sacramento Republic 2022-2025."
+ },
+ {
+  "id": "diogo-costa",
+  "name": "Diogo Costa",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Portugal",
+  "current_club": "Porto",
+  "career": [
+   "Porto"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "no incidents found; captain with clean record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daizen-maeda",
+  "name": "Daizen Maeda",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Japan",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Matsumoto Yamaga",
+   "Yokohama F. Marinos",
+   "Celtic",
+   "Ipswich Town"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, popular with fans, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "denzel-dumfries",
+  "name": "Denzel Dumfries",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Netherlands",
+  "current_club": "Real Madrid",
+  "career": [
+   "Sparta Rotterdam",
+   "Heerenveen",
+   "PSV Eindhoven",
+   "Inter Milan",
+   "Real Madrid"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "speaks out on racism",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dan-ndoye",
+  "name": "Dan Ndoye",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Switzerland",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Lausanne-Sport",
+   "Nice",
+   "Basel",
+   "Bologna",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "victor-lindelof",
+  "name": "Victor Lindelöf",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Sweden",
+  "current_club": "Aston Villa",
+  "career": [
+   "Västerås SK",
+   "Benfica",
+   "Manchester United",
+   "Aston Villa"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "quiet, decent; caught a thief who robbed a 90-year-old woman",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brad-stuver",
+  "name": "Brad Stuver",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Austin FC",
+  "career": [
+   "Columbus Crew",
+   "New York City FC",
+   "Austin FC"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "sustained community work and LGBTQ+ advocacy",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andreas-christensen",
+  "name": "Andreas Christensen",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Denmark",
+  "current_club": "Barcelona",
+  "career": [
+   "Chelsea",
+   "Borussia Mönchengladbach",
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no conduct issues found in sources",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-gosens",
+  "name": "Robin Gosens",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Heracles Almelo",
+   "Atalanta",
+   "Inter Milan",
+   "Union Berlin",
+   "Fiorentina",
+   "Schalke 04"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "grounded, studied psychology, took paternity leave from Germany duty",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ben-white",
+  "name": "Ben White",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Brighton & Hove Albion",
+   "Newport County",
+   "Leeds United",
+   "Arsenal"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "private; left 2022 World Cup camp and declined England for years; known for corner-time gamesmanship",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathan-collins",
+  "name": "Nathan Collins",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "current_club": "Brentford",
+  "career": [
+   "Stoke City",
+   "Burnley",
+   "Wolverhampton Wanderers",
+   "Brentford"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "regarded as a natural leader; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joao-neves",
+  "name": "João Neves",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Portugal",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Benfica",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "red card for pulling an opponent's hair in a final",
+  "notes": "red_card_violence 1: sent off for violent conduct (pulling Marc Cucurella's hair) in the 2025 Club World Cup final."
+ },
+ {
+  "id": "marco-asensio",
+  "name": "Marco Asensio",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Mallorca",
+   "Real Madrid",
+   "Espanyol",
+   "Paris Saint-Germain",
+   "Aston Villa",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "roman-burki",
+  "name": "Roman Bürki",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Switzerland",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "BSC Young Boys",
+   "Grasshoppers",
+   "SC Freiburg",
+   "Borussia Dortmund",
+   "St. Louis City SC"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "no causes on record; fined in 2024 for a mass confrontation",
+  "notes": "No incident codes. Fined by MLS (June 2024) for inciting/escalating a mass confrontation v FC Dallas."
+ },
+ {
+  "id": "ferran-torres",
+  "name": "Ferran Torres",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Spain",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Valencia",
+   "Manchester City",
+   "Barcelona",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "open about mental health; no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "simon-becher",
+  "name": "Simon Becher",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Vancouver Whitecaps FC",
+   "AC Horsens",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,650 @@
+[
+ {
+  "id": "alex-iwobi",
+  "name": "Alex Iwobi",
+  "SP": 5.5,
+  "VO": 5.5,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card soon after coming on v Tunisia at AFCON; otherwise unremarkable",
+   "VO": "Project 17 aimed at underrepresented Black youth; no wider campaigning found",
+   "CO": "founded Project 17 youth programme (2021), free Christmas food shop in east London, Football Black List 2025",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Iwobi"
+  ]
+ },
+ {
+  "id": "jayden-perry",
+  "name": "Jayden Perry",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jayden_Perry"
+  ]
+ },
+ {
+  "id": "eduardo-camavinga",
+  "name": "Eduardo Camavinga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "target of racist abuse (2021, 2022); no statements of his own found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduardo_Camavinga"
+  ]
+ },
+ {
+  "id": "alex-scott",
+  "name": "Alex Scott",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Scott_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "id": "jordan-morris",
+  "name": "Jordan Morris",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 9.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "public T1D awareness work, former JDRF regional spokesperson",
+   "CO": "Jordan Morris Foundation: T1D Playmakers meets a diabetic child after every match, camps, Seattle Children's fund",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Morris"
+  ]
+ },
+ {
+  "id": "ryan-spaulding",
+  "name": "Ryan Spaulding",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Spaulding"
+  ]
+ },
+ {
+  "id": "ryan-hollingshead",
+  "name": "Ryan Hollingshead",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "delayed pro career for orphanage work in Haiti; MLS Humanitarian of the Year 2017; hurt helping a stranded motorist",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Hollingshead"
+  ]
+ },
+ {
+  "id": "marc-cucurella",
+  "name": "Marc Cucurella",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off (second yellow) for a post-match scuffle with Schade",
+   "VO": "spoke publicly about his son's autism and school access",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Cucurella"
+  ]
+ },
+ {
+  "id": "david-beckham",
+  "name": "David Beckham",
+  "SP": 5.0,
+  "VO": 5.5,
+  "CO": 9.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "first England player sent off twice; kick at Simeone 1998; known for rash challenges",
+   "VO": "embraced gay fanbase but became paid Qatar 2022 ambassador",
+   "CO": "UNICEF Goodwill Ambassador since 2005; donated PSG salary to children's charities; Malaria No More founding member",
+   "HU": "global celebrity brand; called an \"anti-diva\" by El Pais; leaked emails showed anger at missing a knighthood"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Beckham"
+  ]
+ },
+ {
+  "id": "alvaro-carreras",
+  "name": "Álvaro Carreras",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%81lvaro_Carreras"
+  ]
+ },
+ {
+  "id": "gerard-moreno",
+  "name": "Gerard Moreno",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card on record; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerard_Moreno"
+  ]
+ },
+ {
+  "id": "ben-gannon-doak",
+  "name": "Ben Gannon-Doak",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Gannon-Doak"
+  ]
+ },
+ {
+  "id": "dean-huijsen",
+  "name": "Dean Huijsen",
+  "SP": 6.0,
+  "VO": 3.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "reposted an image mocking Asian people's eyes (Feb 2026); Real Madrid issued an apology for him",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dean_Huijsen"
+  ]
+ },
+ {
+  "id": "anthony-gordon",
+  "name": "Anthony Gordon",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "booked for simulation (2022) and repeatedly accused of diving; sent off in three straight seasons incl. dangerous tackle on Van Dijk; scuffles with Trippier and Schar",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "transfer request to force Everton exit; shoved Eddie Howe after being substituted"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Gordon_(footballer)"
+  ]
+ },
+ {
+  "id": "elizabeth-ball",
+  "name": "Elizabeth Ball",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "co-founded Pitchside Coffee (a business, not charity); nothing else notable",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elizabeth_Ball_(soccer)"
+  ]
+ },
+ {
+  "id": "goncalo-inacio",
+  "name": "Gonçalo Inácio",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "one second-yellow red in a derby; otherwise unremarkable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "describes himself as shy, uncomfortable posting about himself"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gon%C3%A7alo_In%C3%A1cio"
+  ]
+ },
+ {
+  "id": "abby-smith",
+  "name": "Abby Smith",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abby_Smith"
+  ]
+ },
+ {
+  "id": "nico-paz",
+  "name": "Nico Paz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Paz"
+  ]
+ },
+ {
+  "id": "paulo-dybala",
+  "name": "Paulo Dybala",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 8.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "one second-yellow red; mask celebration not aimed at opponents",
+   "VO": "Common Goal pledge funds a project against racism and discrimination",
+   "CO": "Common Goal 1% pledge (2020); said he had long given anonymously",
+   "HU": "gave to charity anonymously before Common Goal"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paulo_Dybala"
+  ]
+ },
+ {
+  "id": "morten-hjulmand",
+  "name": "Morten Hjulmand",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morten_Hjulmand"
+  ]
+ },
+ {
+  "id": "nick-ross",
+  "name": "Nick Ross",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nick_Ross_(footballer,_born_1991)"
+  ]
+ },
+ {
+  "id": "diogo-costa",
+  "name": "Diogo Costa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diogo_Costa"
+  ]
+ },
+ {
+  "id": "daizen-maeda",
+  "name": "Daizen Maeda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "warm farewell to Celtic fans; no charity work found",
+   "HU": "described as an honest, team-first pro; no showboating found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daizen_Maeda"
+  ]
+ },
+ {
+  "id": "denzel-dumfries",
+  "name": "Denzel Dumfries",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "usual full-back bookings, one second-yellow red",
+   "VO": "has spoken openly about racism and the need for conversation",
+   "CO": "took a squad-wide COVID pay cut; no charity work of his own found",
+   "HU": "former teammate: \"humble, almost shy\" off the field"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denzel_Dumfries"
+  ]
+ },
+ {
+  "id": "dan-ndoye",
+  "name": "Dan Ndoye",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dan_Ndoye"
+  ]
+ },
+ {
+  "id": "victor-lindelof",
+  "name": "Victor Lindelöf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "chased and held a thief who robbed a 90-year-old woman (2020), thanked by police",
+   "HU": "quiet, private profile"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f"
+  ]
+ },
+ {
+  "id": "brad-stuver",
+  "name": "Brad Stuver",
+  "SP": 6.0,
+  "VO": 9.0,
+  "CO": 9.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "Equality Texas board member; speaks out for trans youth in Texas sports",
+   "CO": "Stuver foundation, Laundry Project, storm relief; 2022 ESPY Humanitarian Award nominee",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brad_Stuver"
+  ]
+ },
+ {
+  "id": "andreas-christensen",
+  "name": "Andreas Christensen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andreas_Christensen"
+  ]
+ },
+ {
+  "id": "robin-gosens",
+  "name": "Robin Gosens",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "studied psychology, took paternity leave; nothing on humility either way"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Gosens"
+  ]
+ },
+ {
+  "id": "ben-white",
+  "name": "Ben White",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "obstructing keepers and tampering with Vicario's gloves at corners (2024), called cheating by Souness",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "private; no arrogance or feuds found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_White_(footballer)"
+  ]
+ },
+ {
+  "id": "nathan-collins",
+  "name": "Nathan Collins",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red for a high challenge on Grealish (3-match ban) and an earlier red for a mistimed tackle",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Collins"
+  ]
+ },
+ {
+  "id": "joao-neves",
+  "name": "João Neves",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for violent conduct (pulling Cucurella's hair) in the 2025 Club World Cup final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jo%C3%A3o_Neves_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "marco-asensio",
+  "name": "Marco Asensio",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Asensio"
+  ]
+ },
+ {
+  "id": "roman-burki",
+  "name": "Roman Bürki",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "MLS fine (2024) for escalating a mass confrontation, per earlier research; not on Wikipedia",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roman_B%C3%BCrki"
+  ]
+ },
+ {
+  "id": "ferran-torres",
+  "name": "Ferran Torres",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "mental-health openness from earlier research not confirmed on Wikipedia",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferran_Torres"
+  ]
+ },
+ {
+  "id": "simon-becher",
+  "name": "Simon Becher",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Simon_Becher"
+  ]
+ }
+]

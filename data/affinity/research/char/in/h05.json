@@ -1,0 +1,649 @@
+[
+ {
+  "id": "erling-haaland",
+  "name": "Erling Haaland",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Manchester City",
+  "career": [
+   "Bryne",
+   "Molde",
+   "Red Bull Salzburg",
+   "Borussia Dortmund",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues of note",
+  "notes": "No incidents; plays for Abu Dhabi-owned Man City (English club)."
+ },
+ {
+  "id": "rodri",
+  "name": "Rodri",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Villarreal",
+   "Atlético Madrid",
+   "Manchester City",
+   "Barcelona"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, studied while playing",
+  "notes": "No incidents. Played for Abu Dhabi-owned Man City 2019-26. Caps approx. mid-2025."
+ },
+ {
+  "id": "ronaldinho",
+  "name": "Ronaldinho",
+  "gender": "M",
+  "active": false,
+  "born": 1980,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "AC Milan",
+   "Flamengo",
+   "Atlético Mineiro",
+   "Querétaro",
+   "Fluminense"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "joyful sportsman, minus Bolsonaro backing and forged-passport case",
+  "notes": "Detained 5 months in Paraguay 2020 for entering on a forged passport, suspended sentence and fine; disputed free move from Grêmio 2001; publicly backed Bolsonaro 2018."
+ },
+ {
+  "id": "steven-gerrard",
+  "name": "Steven Gerrard",
+  "gender": "M",
+  "active": false,
+  "born": 1980,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Liverpool",
+   "LA Galaxy"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, no causes (bar fight acquitted, Saudi job handled separately)",
+  "notes": "2015 red card for stamping on Ander Herrera; 2008 affray charge after bar fight, acquitted (self-defence); managed Al-Ettifaq (Saudi) 2023-25 as coach; 2005 transfer request withdrawn. Recount: money_league 0: Al-Ettifaq job was as manager."
+ },
+ {
+  "id": "yunus-musah",
+  "name": "Yunus Musah",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "AC Milan",
+  "career": [
+   "Valencia",
+   "AC Milan",
+   "Atalanta (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "gio-reyna",
+  "name": "Gio Reyna",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Borussia Dortmund",
+   "Nottingham Forest (loan)",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "2022 World Cup effort row and family's report on Berhalter, apologised",
+  "notes": "No incident codes; 2022 World Cup effort controversy, apologised for his attitude."
+ },
+ {
+  "id": "tim-weah",
+  "name": "Tim Weah",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Marseille",
+  "career": [
+   "Paris Saint-Germain",
+   "Celtic (loan)",
+   "Lille",
+   "Juventus",
+   "Marseille"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "humble, apologised for 2024 Copa red card",
+  "notes": "Sent off vs Panama, Copa America 2024, for striking Roderick Miller; apologised. PSG (Qatar-owned) academy/first team 2017-19."
+ },
+ {
+  "id": "miroslav-klose",
+  "name": "Miroslav Klose",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Kaiserslautern",
+   "Werder Bremen",
+   "Bayern Munich",
+   "Lazio"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "exemplary fair play",
+  "notes": "No incidents. Known for fair play (admitted handball goal 2012, waived a penalty 2005). German Footballer of the Year 2006."
+ },
+ {
+  "id": "cristian-roldan",
+  "name": "Cristian Roldan",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Seattle Sounders",
+  "career": [
+   "Seattle Sounders"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "ramy-bensebaini",
+  "name": "Ramy Bensebaini",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Algeria",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Paradou AC",
+   "Lierse (loan)",
+   "Montpellier (loan)",
+   "Rennes",
+   "Borussia Mönchengladbach",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known, baseline",
+  "notes": "No incidents. Free move Gladbach to Dortmund 2023 (rivals, not bitter)."
+ },
+ {
+  "id": "jairzinho",
+  "name": "Jairzinho",
+  "gender": "M",
+  "active": false,
+  "born": 1944,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Portuguesa (VEN)",
+   "Noroeste",
+   "Fast Clube",
+   "Jorge Wilstermann",
+   "Botafogo",
+   "9 de Octubre"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 no causes, later discovered Ronaldo as coach (1975 ban scored separately)",
+  "notes": "1975: accused of assaulting a linesman in a brawl (Marseille v PSG), banned; he denied it."
+ },
+ {
+  "id": "kenny-dalglish",
+  "name": "Kenny Dalglish",
+  "gender": "M",
+  "active": false,
+  "born": 1951,
+  "nation": "Scotland",
+  "current_club": null,
+  "career": [
+   "Celtic",
+   "Liverpool"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "Hillsborough support, Marina Dalglish appeal",
+  "notes": "Supported Hillsborough families; Marina Dalglish Appeal raised over GBP 13m for cancer care."
+ },
+ {
+  "id": "vincent-janssen",
+  "name": "Vincent Janssen",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Netherlands",
+  "current_club": "Portland Timbers",
+  "career": [
+   "AZ",
+   "Tottenham Hotspur",
+   "Fenerbahçe (loan)",
+   "Monterrey",
+   "Royal Antwerp",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "jayden-lienou",
+  "name": "Jayden Lienou",
+  "gender": "M",
+  "active": true,
+  "born": null,
+  "nation": "Wales",
+  "current_club": "Leeds United",
+  "career": [
+   "Manchester City (youth)",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes; birth year unknown (joined Leeds aged 17 in 2025)."
+ },
+ {
+  "id": "marcus-rashford",
+  "name": "Marcus Rashford",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Manchester United",
+  "career": [
+   "Manchester United",
+   "Aston Villa",
+   "Barcelona"
+  ],
+  "CH_now": 9.5,
+  "CH_why": "anchor 9.5",
+  "notes": "Free school meals campaign forced two UK government U-turns (2020). Jan 2024: fined and dropped after a night out."
+ },
+ {
+  "id": "franz-beckenbauer",
+  "name": "Franz Beckenbauer",
+  "gender": "M",
+  "active": false,
+  "born": 1945,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "New York Cosmos",
+   "Hamburger SV",
+   "New York Cosmos"
+  ],
+  "CH_now": 4.25,
+  "CH_why": "foundation, but Qatar remark, 2006 bid payment and FIFA ban for non-cooperation",
+  "notes": "2006 WC bid payment case (Swiss case time-barred 2020, no conviction); 2014 FIFA 90-day ban and fine for non-cooperation with 2018/22 bid probe; 2013 Qatar 'no slaves' remark."
+ },
+ {
+  "id": "eric-izoita",
+  "name": "Eric Izoita",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Portland Timbers 2",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "kamal-miller",
+  "name": "Kamal Miller",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Orlando City",
+   "CF Montréal",
+   "Inter Miami",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "riqui-puig",
+  "name": "Riqui Puig",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Barcelona",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incidents."
+ },
+ {
+  "id": "pedri",
+  "name": "Pedri",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Las Palmas",
+   "Barcelona"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues of note",
+  "notes": "No incidents. Caps approx. mid-2025."
+ },
+ {
+  "id": "anton-stach",
+  "name": "Anton Stach",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Leeds United",
+  "career": [
+   "SSV Jeddeloh",
+   "VfL Wolfsburg II",
+   "SpVgg Greuther Fürth",
+   "Mainz 05",
+   "TSG Hoffenheim",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "jadon-sancho",
+  "name": "Jadon Sancho",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Manchester City (academy)",
+   "Borussia Dortmund",
+   "Manchester United",
+   "Borussia Dortmund (loan)",
+   "Chelsea (loan)",
+   "Aston Villa (loan)"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "public clash with Ten Hag, but funded a community pitch",
+  "notes": "2017 refused City deal, skipped tour to force move to Dortmund; 2023 public dispute with Ten Hag; victim of racist abuse 2021. Conference League 2025 (Chelsea loan) counted."
+ },
+ {
+  "id": "wayne-rooney",
+  "name": "Wayne Rooney",
+  "gender": "M",
+  "active": false,
+  "born": 1985,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Everton",
+   "Manchester United",
+   "Everton",
+   "DC United",
+   "Derby County"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "combative, 2010 transfer request, drink-driving",
+  "notes": "Red cards for stamping on Carvalho (2006 WC) and kicking Dzudovic (2011, Montenegro); 2017 drink-driving conviction (2-year ban, community service); 2010 transfer request withdrawn."
+ },
+ {
+  "id": "joane-gadou",
+  "name": "Joane Gadou",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "France",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Paris Saint-Germain",
+   "Red Bull Salzburg",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "iker-muniain",
+  "name": "Iker Muniain",
+  "gender": "M",
+  "active": false,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Athletic Club",
+   "San Lorenzo"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brad-friedel",
+  "name": "Brad Friedel",
+  "gender": "M",
+  "active": false,
+  "born": 1971,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Galatasaray",
+   "Columbus Crew",
+   "Liverpool",
+   "Blackburn Rovers",
+   "Aston Villa",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incidents."
+ },
+ {
+  "id": "lukas-nmecha",
+  "name": "Lukas Nmecha",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Leeds United",
+  "career": [
+   "Preston North End (loan)",
+   "VfL Wolfsburg (loan)",
+   "Middlesbrough (loan)",
+   "Anderlecht (loan)",
+   "VfL Wolfsburg",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "francesco-totti",
+  "name": "Francesco Totti",
+  "gender": "M",
+  "active": false,
+  "born": 1976,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Roma"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "UNICEF and charity books, temperamental",
+  "notes": "2004 spat at Poulsen (3-match UEFA ban, apologised); 2010 kicked Balotelli (red card, Coppa final)."
+ },
+ {
+  "id": "neymar",
+  "name": "Neymar",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Brazil",
+  "current_club": "Santos",
+  "career": [
+   "Santos",
+   "Barcelona",
+   "Paris Saint-Germain",
+   "Al-Hilal",
+   "Santos"
+  ],
+  "CH_now": 3.5,
+  "CH_why": "anchor 3.5, play-acting, Bolsonaro campaigning",
+  "notes": "Punched a fan after 2019 Coupe de France final (3-match ban); hit Álvaro González in 2020 brawl (red card, 2-match ban); 2019 rape allegation closed without charge; Spanish tax/fraud case over Barcelona transfer ended in acquittal 2022; joined Saudi Al-Hilal 2023; forced 2017 PSG move via release clause (per research)."
+ },
+ {
+  "id": "mathis-albert",
+  "name": "Mathis Albert",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "United States",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "LA Galaxy (youth)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "kevin-de-bruyne",
+  "name": "Kevin De Bruyne",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Belgium",
+  "current_club": "Napoli",
+  "career": [
+   "Genk",
+   "Chelsea",
+   "Werder Bremen",
+   "VfL Wolfsburg",
+   "Manchester City",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, blunt, no causes or issues of note",
+  "notes": ""
+ },
+ {
+  "id": "carli-lloyd",
+  "name": "Carli Lloyd",
+  "gender": "W",
+  "active": false,
+  "born": 1982,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Chicago Red Stars",
+   "Atlanta Beat",
+   "Western New York Flash",
+   "Houston Dash",
+   "Manchester City",
+   "Sky Blue FC / Gotham"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "equal-pay plaintiff, minus public rows and teammate criticism",
+  "notes": "No incidents; public rows and criticism of teammates (2023)."
+ },
+ {
+  "id": "naomi-girma",
+  "name": "Naomi Girma",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Chelsea",
+  "career": [
+   "San Diego Wave",
+   "Chelsea"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "mental-health work, Aramco letter",
+  "notes": "No incidents. Co-founded mental-health initiative; signed 2024 letter urging FIFA to drop Aramco sponsorship. Recount: major_trophies 3: WSL 2025, CONCACAF 2022, W Gold Cup 2024; Olympics and Shield not counted."
+ },
+ {
+  "id": "alex-morgan",
+  "name": "Alex Morgan",
+  "gender": "W",
+  "active": false,
+  "born": 1989,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Seattle Sounders Women",
+   "Portland Thorns",
+   "Orlando Pride",
+   "Lyon",
+   "Tottenham Hotspur",
+   "San Diego Wave"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "equal pay lead, abuse accountability, minus 2017 Epcot incident",
+  "notes": "2017 removed from an Epcot bar after an altercation, apologised; no charge. Recount: major_trophies 10: WC 2015/2019, NWSL 2013, WPS 2011, D1 and UWCL 2017, CONCACAF 2014/2018/2022, W Gold Cup 2024; Olympics and Shield not counted."
+ },
+ {
+  "id": "meghan-klingenberg",
+  "name": "Meghan Klingenberg",
+  "gender": "W",
+  "active": false,
+  "born": 1988,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "magicJack",
+   "Tyresö FF",
+   "Houston Dash",
+   "Portland Thorns"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "survivor support, LGBTQ ally, team spirit",
+  "notes": "No incidents. Trophies: 2015 World Cup, Tyresö 2012 Damallsvenskan, NWSL Championships 2017/2022 and Shields 2016/2021; spoke out for abuse survivors. Recount: major_trophies 5: Shields no longer counted; World Cup 2015, Damallsvenskan 2012, NWSL Championships 2017/2022, CONCACAF 2014."
+ },
+ {
+  "id": "sam-kerr",
+  "name": "Sam Kerr",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "Australia",
+  "current_club": "NJ/NY Gotham FC",
+  "career": [
+   "Perth Glory",
+   "Sky Blue FC",
+   "Chicago Red Stars",
+   "Chelsea",
+   "NJ/NY Gotham FC"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "LGBTQ visibility, minus 2023 taxi incident",
+  "notes": "Charged 2023 with racially aggravated harassment of a police officer (taxi incident); acquitted by jury Feb 2025."
+ }
+]

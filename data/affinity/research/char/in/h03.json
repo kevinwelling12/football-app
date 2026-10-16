@@ -1,0 +1,616 @@
+[
+ {
+  "id": "mia-hamm",
+  "name": "Mia Hamm",
+  "gender": "W",
+  "active": false,
+  "born": 1972,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Washington Freedom"
+  ],
+  "CH_now": 8.75,
+  "CH_why": "foundation, pay fight, credited teammates",
+  "notes": "No incidents. Trophies: World Cups 1991/1999, WUSA Founders Cup 2003, CONCACAF women's titles 1991/1993/1994/2000/2002; part of 1995-96 pay holdout; Mia Hamm Foundation (marrow transplant, girls' sport)."
+ },
+ {
+  "id": "megan-rapinoe",
+  "name": "Megan Rapinoe",
+  "gender": "W",
+  "active": false,
+  "born": 1985,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Chicago Red Stars",
+   "Philadelphia Independence",
+   "magicJack",
+   "Sydney FC",
+   "Lyon",
+   "Seattle Reign / OL Reign"
+  ],
+  "CH_now": 9.5,
+  "CH_why": "anchor 9.5",
+  "notes": "Lead voice in the USWNT equal-pay suit; knelt for the anthem in 2016 (booed, prompted a US Soccer rule); LGBTQ+ advocacy."
+ },
+ {
+  "id": "jack-gurr",
+  "name": "Jack Gurr",
+  "gender": "M",
+  "active": true,
+  "born": null,
+  "nation": "England",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes; born, clubs (Aberdeen 2021-22, Sacramento 2022-) from web; research record mostly empty."
+ },
+ {
+  "id": "declan-rice",
+  "name": "Declan Rice",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "West Ham United",
+   "Arsenal"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "humble, well liked, no causes of note",
+  "notes": ""
+ },
+ {
+  "id": "lautaro-martinez",
+  "name": "Lautaro Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Argentina",
+  "current_club": "Inter Milan",
+  "career": [
+   "Racing Club",
+   "Inter Milan"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "no causes or issues of note",
+  "notes": ""
+ },
+ {
+  "id": "ao-tanaka",
+  "name": "Ao Tanaka",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Japan",
+  "current_club": "Leeds United",
+  "career": [
+   "Kawasaki Frontale",
+   "Fortuna Düsseldorf (loan)",
+   "Fortuna Düsseldorf",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline, took responsibility for 2026 error",
+  "notes": "No incidents."
+ },
+ {
+  "id": "sophia-wilson",
+  "name": "Sophia Wilson",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "Black-player visibility, no issues",
+  "notes": "Recount: major_trophies 3: NWSL 2022, CONCACAF 2022, W Gold Cup 2024; Olympics not counted."
+ },
+ {
+  "id": "olivia-moultrie",
+  "name": "Olivia Moultrie",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "pioneer lawsuit, no issues",
+  "notes": "No incidents. Won 2021 antitrust case against NWSL age rule."
+ },
+ {
+  "id": "florian-wirtz",
+  "name": "Florian Wirtz",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "Liverpool",
+  "career": [
+   "Bayer Leverkusen",
+   "Liverpool"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "quiet, low-key, no issues",
+  "notes": ""
+ },
+ {
+  "id": "jude-bellingham",
+  "name": "Jude Bellingham",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Real Madrid",
+  "career": [
+   "Birmingham City",
+   "Borussia Dortmund",
+   "Real Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "anti-racism voice vs groin gesture 2024, referee comments 2021, swagger",
+  "notes": "No incident codes; 2024 Euro groin gesture (UEFA fine); 2021 DFB fine for referee comments."
+ },
+ {
+  "id": "harry-kane",
+  "name": "Harry Kane",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Tottenham Hotspur",
+   "Bayern Munich"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "low-key, mental health foundation, OneLove attempt",
+  "notes": "forced_transfer: missed start of Spurs preseason 2021 to push a Man City move, then stayed; caps as of mid-2025."
+ },
+ {
+  "id": "andy-robertson",
+  "name": "Andy Robertson",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Scotland",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Queen's Park",
+   "Dundee United",
+   "Hull City",
+   "Liverpool",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "AR26 foundation, Covid food-bank donations, kind to young fans",
+  "notes": "No incidents."
+ },
+ {
+  "id": "bruno-fernandes",
+  "name": "Bruno Fernandes",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Portugal",
+  "current_club": "Manchester United",
+  "career": [
+   "Novara",
+   "Udinese",
+   "Sampdoria",
+   "Sporting CP",
+   "Manchester United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "complaining reputation",
+  "notes": "No incidents (2018 victim of Sporting ultras' training-ground attack). Rejected Al-Hilal offer 2025."
+ },
+ {
+  "id": "phil-foden",
+  "name": "Phil Foden",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Manchester City",
+  "career": [
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "humble, Covid breach 2020",
+  "notes": "No incident codes. Sent home from England camp 2020 for breaching Covid rules, apologised. Plays for Abu Dhabi-owned Man City (academy)."
+ },
+ {
+  "id": "blake-willey",
+  "name": "Blake Willey",
+  "gender": "M",
+  "active": true,
+  "born": null,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incidents; Sacramento Republic homegrown, pro debut March 2024."
+ },
+ {
+  "id": "abby-wambach",
+  "name": "Abby Wambach",
+  "gender": "W",
+  "active": false,
+  "born": 1980,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Washington Freedom",
+   "magicJack",
+   "Western New York Flash"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "turf lawsuit, LGBTQ advocacy, minus 2016 DUII and substance misuse",
+  "notes": "2016 DUII arrest in Portland, pleaded guilty, diversion programme, apologised."
+ },
+ {
+  "id": "trent-alexander-arnold",
+  "name": "Trent Alexander-Arnold",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Real Madrid",
+  "career": [
+   "Liverpool",
+   "Real Madrid"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "community work, no issues",
+  "notes": "Ran down Liverpool contract to join Real Madrid on a free 2025; booed by some Liverpool fans."
+ },
+ {
+  "id": "martin-degaard",
+  "name": "Martin Ødegaard",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Arsenal",
+  "career": [
+   "Strømsgodset",
+   "Real Madrid",
+   "Heerenveen",
+   "Vitesse",
+   "Real Sociedad",
+   "Arsenal"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, respected, no causes of note",
+  "notes": ""
+ },
+ {
+  "id": "son-heung-min",
+  "name": "Son Heung-min",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "South Korea",
+  "current_club": "LAFC",
+  "career": [
+   "Hamburger SV",
+   "Bayer Leverkusen",
+   "Tottenham Hotspur",
+   "LAFC"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "famously gracious, forgave Bentancur's racist remark",
+  "notes": "2024: target (not perpetrator) of a racist remark by teammate Bentancur; publicly forgave him."
+ },
+ {
+  "id": "jeremy-jacquet",
+  "name": "Jérémy Jacquet",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Liverpool",
+  "career": [
+   "Rennes",
+   "Clermont (loan)",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "hope-solo",
+  "name": "Hope Solo",
+  "gender": "W",
+  "active": false,
+  "born": 1981,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Kopparbergs/Göteborg",
+   "Lyon",
+   "Saint Louis Athletica",
+   "Atlanta Beat",
+   "magicJack",
+   "Seattle Reign"
+  ],
+  "CH_now": 3.5,
+  "CH_why": "equal-pay voice, minus feuds with coaches, 'cowards' remark, DWI with children (b02 applied separately)",
+  "notes": "2014 domestic-violence assault charges, later dropped; 2022 DWI guilty plea with children in car; 2016 suspension for 'cowards' remark; 2012 diuretic test cleared (no doping code). Recount: major_trophies 3: WC 2015, CONCACAF 2006/2014; Olympics and Shields not counted."
+ },
+ {
+  "id": "sam-coffey",
+  "name": "Sam Coffey",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Manchester City",
+  "career": [
+   "Portland Thorns",
+   "Manchester City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no causes on record",
+  "notes": "Joined Abu Dhabi-owned Manchester City 2026 (English club, not coded as money_league). Recount: major_trophies 4: NWSL 2022, WSL 2026, CONCACAF 2022, W Gold Cup 2024; Olympics not counted."
+ },
+ {
+  "id": "julie-ertz",
+  "name": "Julie Ertz",
+  "gender": "W",
+  "active": false,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Chicago Red Stars",
+   "Angel City FC"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "equal-pay plaintiff, humble",
+  "notes": "Plaintiff in the 2019 USWNT equal-pay lawsuit. Trophies: World Cups 2015, 2019 + CONCACAF titles 2014, 2018."
+ },
+ {
+  "id": "joe-gomez",
+  "name": "Joe Gomez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Charlton Athletic",
+   "Liverpool"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "john-barnes",
+  "name": "John Barnes",
+  "gender": "M",
+  "active": false,
+  "born": 1963,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Watford",
+   "Liverpool",
+   "Newcastle United",
+   "Charlton Athletic"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "+2.5 decades on racism, dignity under abuse",
+  "notes": "No incident codes; target of racist abuse; long-standing voice on racism."
+ },
+ {
+  "id": "danny-barrera",
+  "name": "Danny Barrera",
+  "gender": "M",
+  "active": false,
+  "born": 1990,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Sacramento Republic",
+   "Fresno FC",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "6.5 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "joel-waterman",
+  "name": "Joel Waterman",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Canada",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Trinity Western Spartans (college)",
+   "Cavalry FC",
+   "CF Montréal",
+   "Chicago Fire",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "giovanni-leoni",
+  "name": "Giovanni Leoni",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Italy",
+  "current_club": "Liverpool",
+  "career": [
+   "Padova",
+   "Sampdoria",
+   "Parma",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-justin",
+  "name": "James Justin",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Luton Town",
+   "Leicester City",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lee-desmond",
+  "name": "Lee Desmond",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Ireland",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "St Patrick's Athletic",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, leads by example",
+  "notes": ""
+ },
+ {
+  "id": "inaki-williams",
+  "name": "Iñaki Williams",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Ghana",
+  "current_club": "Athletic Club",
+  "career": [
+   "Athletic Club"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "anti-racism, humble",
+  "notes": "No incident codes; speaks_out: anti-racism voice."
+ },
+ {
+  "id": "damarcus-beasley",
+  "name": "DaMarcus Beasley",
+  "gender": "M",
+  "active": false,
+  "born": 1982,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "PSV",
+   "Manchester City",
+   "Rangers",
+   "Hannover 96",
+   "Puebla",
+   "Houston Dynamo"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "lars-ricken",
+  "name": "Lars Ricken",
+  "gender": "M",
+  "active": false,
+  "born": 1976,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 humble",
+  "notes": ""
+ },
+ {
+  "id": "bobby-moore",
+  "name": "Bobby Moore",
+  "gender": "M",
+  "active": false,
+  "born": 1941,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "West Ham United",
+   "Fulham",
+   "San Antonio Thunder",
+   "Seattle Sounders"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "calm, respected, no issues",
+  "notes": "1970 Bogotá bracelet theft accusation, released, widely seen as a set-up (not coded)."
+ },
+ {
+  "id": "clint-dempsey",
+  "name": "Clint Dempsey",
+  "gender": "M",
+  "active": false,
+  "born": 1983,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "New England Revolution",
+   "Fulham",
+   "Tottenham Hotspur",
+   "Seattle Sounders"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "5.5 combative, ripped referee's notebook",
+  "notes": "2015 ripped up referee's notebook (Open Cup at Portland): red card, MLS 3-game ban, Open Cup ban. Recount: major_trophies 4: MLS Cup 2016, Gold Cups 2005, 2007, 2017; Shield and Open Cup not counted."
+ },
+ {
+  "id": "neven-subotic",
+  "name": "Neven Subotić",
+  "gender": "M",
+  "active": false,
+  "born": 1988,
+  "nation": "Serbia",
+  "current_club": null,
+  "career": [
+   "Borussia Dortmund",
+   "1. FC Köln",
+   "Saint-Étienne",
+   "Union Berlin",
+   "Denizlispor",
+   "Rheindorf Altach"
+  ],
+  "CH_now": 9.25,
+  "CH_why": "+3 Ethiopia water foundation, inequality advocacy",
+  "notes": "No incidents. Foundation (well:fair) has completed 500+ water/sanitation projects in East Africa; speaks out on inequality."
+ }
+]

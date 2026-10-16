@@ -1,0 +1,610 @@
+[
+ {
+  "id": "ayyoub-bouaddi",
+  "name": "Ayyoub Bouaddi",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Morocco",
+  "current_club": "Manchester City",
+  "career": [
+   "Lille",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "koke",
+  "name": "Koke",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "club captain, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fermin-lopez",
+  "name": "Fermín López",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Linares",
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "frank-anguissa",
+  "name": "Frank Anguissa",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Cameroon",
+  "current_club": "Napoli",
+  "career": [
+   "Marseille",
+   "Fulham",
+   "Villarreal (loan)",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yann-sommer",
+  "name": "Yann Sommer",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "Switzerland",
+  "current_club": "Club Brugge",
+  "career": [
+   "Vaduz",
+   "Grasshoppers",
+   "Borussia Mönchengladbach",
+   "Bayern Munich",
+   "Inter Milan",
+   "Club Brugge"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "no controversies; chocolate donation to Munich food bank",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "evanilson",
+  "name": "Evanilson",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Fluminense",
+   "Porto",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or incidents on record",
+  "notes": "No incident codes. A 2025 red card (tackle on Mazraoui) was overturned on appeal."
+ },
+ {
+  "id": "dylan-nealis",
+  "name": "Dylan Nealis",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Inter Miami CF",
+   "Nashville SC",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "garrincha",
+  "name": "Garrincha",
+  "gender": "M",
+  "active": false,
+  "born": 1933,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Botafogo",
+   "Corinthians",
+   "Flamengo"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "humble 'Joy of the People', minus fatal drink-driving crash",
+  "notes": "Wife Elza Soares said he beat her (never charged); 1969 drunk-driving crash killed his mother-in-law (legal outcome not found)."
+ },
+ {
+  "id": "santiago-moreno",
+  "name": "Santiago Moreno",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Colombia",
+  "current_club": "FC Dallas",
+  "career": [
+   "América de Cali",
+   "Portland Timbers",
+   "Fluminense",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes. At FC Dallas on loan from Fluminense in 2026."
+ },
+ {
+  "id": "sebastian-lletget",
+  "name": "Sebastian Lletget",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "West Ham United",
+   "LA Galaxy",
+   "New England Revolution",
+   "FC Dallas",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "apologised for 2023 cheating allegations; otherwise quiet",
+  "notes": "racist_abuse 2: MLS suspended and fined him (April 2021) for a homophobic slur in an Instagram video; he apologised and did inclusion training."
+ },
+ {
+  "id": "mason-greenwood",
+  "name": "Mason Greenwood",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Manchester United",
+   "Getafe",
+   "Marseille",
+   "Fenerbahçe"
+  ],
+  "CH_now": 2.5,
+  "CH_why": "charged in 2022 with attempted rape, assault and coercive control; charges dropped 2023",
+  "notes": "abuse_allegation 1: charged in 2022 (attempted rape, ABH, coercive control); CPS dropped all charges in Feb 2023 after key witnesses withdrew. Also 2020 England COVID breach; 2024 red for swearing at referee."
+ },
+ {
+  "id": "ibrahim-sangare",
+  "name": "Ibrahim Sangaré",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Ivory Coast",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Toulouse",
+   "PSV Eindhoven",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rafaelle",
+  "name": "Rafaelle",
+  "gender": "W",
+  "active": true,
+  "born": 1991,
+  "nation": "Brazil",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Houston Dash",
+   "Changchun Zhuoyue",
+   "Palmeiras",
+   "Arsenal",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "money_league 1: played for Changchun Zhuoyue (China) 2016-21, following precedent for women's Chinese league moves."
+ },
+ {
+  "id": "conor-gallagher",
+  "name": "Conor Gallagher",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Chelsea",
+   "Charlton Athletic",
+   "West Bromwich Albion",
+   "Crystal Palace",
+   "Atlético Madrid",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emily-sams",
+  "name": "Emily Sams",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "BK Häcken",
+   "Orlando Pride",
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lorena",
+  "name": "Lorena",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Brazil",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Sport Recife",
+   "Grêmio",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alejandro-bedoya",
+  "name": "Alejandro Bedoya",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Örebro SK",
+   "Rangers",
+   "Helsingborgs IF",
+   "Nantes",
+   "Philadelphia Union"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "MLS Humanitarian of the Year; spoke out on gun violence",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morgan-gibbs-white",
+  "name": "Morgan Gibbs-White",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Wolverhampton Wanderers",
+   "Sheffield United",
+   "Nottingham Forest"
+  ],
+  "CH_now": 5.3,
+  "CH_why": "speeding ban 2025, lockdown-party fine 2020",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "omar-marmoush",
+  "name": "Omar Marmoush",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Egypt",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Wadi Degla",
+   "VfL Wolfsburg",
+   "VfB Stuttgart",
+   "Eintracht Frankfurt",
+   "Manchester City",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pietra-tordin",
+  "name": "Pietra Tordin",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stanislav-lobotka",
+  "name": "Stanislav Lobotka",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Slovakia",
+  "current_club": "Napoli",
+  "career": [
+   "AS Trenčín",
+   "Nordsjælland",
+   "Celta Vigo",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jose-casas-de-abadal",
+  "name": "Jose Casas De Abadal",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Spain",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Fort Wayne FC",
+   "Inter Miami CF",
+   "Huntsville City FC",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leonardo-spinazzola",
+  "name": "Leonardo Spinazzola",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Italy",
+  "current_club": "Napoli",
+  "career": [
+   "Juventus",
+   "Atalanta (loan)",
+   "Roma",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miles-robinson",
+  "name": "Miles Robinson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Atlanta United",
+   "FC Cincinnati"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "Youth mentoring recognised by Cincinnati city council; fined once for slow exit after a red card",
+  "notes": "No incident codes. One red card (22 March, vs CF Montréal) and a fine for not leaving the field promptly; not violent conduct as far as reported."
+ },
+ {
+  "id": "victor-froholdt",
+  "name": "Victor Froholdt",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Denmark",
+  "current_club": "Porto",
+  "career": [
+   "Copenhagen",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marquinhos",
+  "name": "Marquinhos",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Brazil",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Corinthians",
+   "Roma",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "sportsmanship recognised by UEFA's first Respect award",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "reyna-reyes",
+  "name": "Reyna Reyes",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Mexico",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "warren-zaire-emery",
+  "name": "Warren Zaïre-Emery",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "France",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "mature, disciplined; no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ayase-ueda",
+  "name": "Ayase Ueda",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Japan",
+  "current_club": "Lille",
+  "career": [
+   "Kashima Antlers",
+   "Cercle Brugge",
+   "Feyenoord",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anton-saletros",
+  "name": "Anton Saletros",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Sweden",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Rostov",
+   "AIK",
+   "Sarpsborg 08",
+   "Caen",
+   "AIK",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dango-ouattara",
+  "name": "Dango Ouattara",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Burkina Faso",
+  "current_club": "Brentford",
+  "career": [
+   "FC Lorient",
+   "AFC Bournemouth",
+   "Brentford"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolo-barella",
+  "name": "Nicolò Barella",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Internazionale",
+  "career": [
+   "Cagliari",
+   "Internazionale"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "often criticised for protesting to officials; no causes listed",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carles-puyol",
+  "name": "Carles Puyol",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "famously sporting, Abidal gesture",
+  "notes": "No incidents."
+ },
+ {
+  "id": "amir-rrahmani",
+  "name": "Amir Rrahmani",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Kosovo",
+  "current_club": "Napoli",
+  "career": [
+   "Drenica",
+   "Partizani",
+   "RNK Split",
+   "Dinamo Zagreb",
+   "Hellas Verona",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No incidents; left Kosovo team in 2026 amid a dispute with its federation",
+  "notes": "No incident codes. 2026 legal dispute is his complaint against people linked to the Kosovo federation."
+ },
+ {
+  "id": "alex-baena",
+  "name": "Álex Baena",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Villarreal",
+   "Girona",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little on conduct in sources; no issues known",
+  "notes": "No incident codes."
+ }
+]

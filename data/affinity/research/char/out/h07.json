@@ -1,0 +1,648 @@
+[
+ {
+  "id": "tostao",
+  "name": "Tostão",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found; later became a doctor (profession, not charity)",
+   "HU": "weary of fame, left football to become a doctor"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tostão"
+  ]
+ },
+ {
+  "id": "kostas-tsimikas",
+  "name": "Kostas Tsimikas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kostas_Tsimikas"
+  ]
+ },
+ {
+  "id": "zeno-van-den-bosch",
+  "name": "Zeno Van Den Bosch",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeno_Van_Den_Bosch"
+  ]
+ },
+ {
+  "id": "giorgi-mamardashvili",
+  "name": "Giorgi Mamardashvili",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "earlier note of 2024 support for pro-EU protests, not confirmed in sources opened",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giorgi_Mamardashvili"
+  ]
+ },
+ {
+  "id": "federico-chiesa",
+  "name": "Federico Chiesa",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red on Juventus debut 2020, second-yellow red 2016",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Federico_Chiesa"
+  ]
+ },
+ {
+  "id": "lewis-koumas",
+  "name": "Lewis Koumas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Koumas"
+  ]
+ },
+ {
+  "id": "raquel-rodriguez",
+  "name": "Raquel Rodríguez",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "spoke publicly on equal pay in women's football (2016)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raquel_Rodríguez"
+  ]
+ },
+ {
+  "id": "ronaldo-brazilian",
+  "name": "Ronaldo (Brazilian)",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "no notable disciplinary record; first to console German players after 2002 final",
+   "VO": "nothing notable found",
+   "CO": "UNDP Goodwill Ambassador since 2000",
+   "HU": "forced exits and Flamengo-to-Corinthians move drew criticism; composed in public"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer)"
+  ]
+ },
+ {
+  "id": "raymond-kopa",
+  "name": "Raymond Kopa",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "1963 'footballers are slaves' stand for players' rights, drew suspended ban; UNFP vice-president",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raymond_Kopa",
+   "https://fr.wikipedia.org/wiki/Raymond_Kopa"
+  ]
+ },
+ {
+  "id": "sandor-kocsis",
+  "name": "Sándor Kocsis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sándor_Kocsis"
+  ]
+ },
+ {
+  "id": "federico-valverde",
+  "name": "Federico Valverde",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "cynical professional foul on Morata (2020 Supercopa red); 2017 'slant eyes' celebration",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "alleged 2023 car-park punch on Baena (case dismissed); 2026 fight with Tchouaméni, both fined"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Federico_Valverde"
+  ]
+ },
+ {
+  "id": "hunter-sulte",
+  "name": "Hunter Sulte",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hunter_Sulte"
+  ]
+ },
+ {
+  "id": "aitana-bonmati",
+  "name": "Aitana Bonmatí",
+  "SP": 5.5,
+  "VO": 8.5,
+  "CO": 6.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "several youth red cards, one senior league red (2022)",
+   "VO": "one of 'Las 15' at personal cost; spoke against abuse of power after Rubiales; open on mental health",
+   "CO": "supports UN Refugee Agency",
+   "HU": "self-critical, credits idols and teammates"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aitana_Bonmatí"
+  ]
+ },
+ {
+  "id": "antoine-griezmann",
+  "name": "Antoine Griezmann",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "2017 red for dive plus abusive language, 2021 red for serious foul play; declines to celebrate against former clubs",
+   "VO": "ended Huawei deal over Uyghur surveillance; 2017 blackface photo and 2021 Dembélé video, apologised",
+   "CO": "nothing notable found",
+   "HU": "publicly respectful of former clubs; nothing else notable"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antoine_Griezmann"
+  ]
+ },
+ {
+  "id": "sawyer-jura",
+  "name": "Sawyer Jura",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "id": "zinedine-zidane",
+  "name": "Zinedine Zidane",
+  "SP": 3.0,
+  "VO": 6.0,
+  "CO": 8.0,
+  "HU": 7.5,
+  "why": {
+   "SP": "14 career red cards incl. headbutts on Materazzi and Kientz, stamp at 1998 WC",
+   "VO": "spoke against the far right (Le Pen, 2002)",
+   "CO": "UN Goodwill Ambassador, Match Against Poverty, children's AIDS charity schools, Soccer Aid",
+   "HU": "described by Lippi and Ancelotti as reserved and humble"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zinedine_Zidane"
+  ]
+ },
+ {
+  "id": "eric-miller",
+  "name": "Eric Miller",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Miller_(soccer)"
+  ]
+ },
+ {
+  "id": "folarin-balogun",
+  "name": "Folarin Balogun",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "booked for simulation 2023; 2026 World Cup red card, calm reaction praised",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Folarin_Balogun"
+  ]
+ },
+ {
+  "id": "julen-guerrero",
+  "name": "Julen Guerrero",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julen_Guerrero"
+  ]
+ },
+ {
+  "id": "fabio-silva",
+  "name": "Fábio Silva",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fábio_Silva_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "id": "lionel-messi",
+  "name": "Lionel Messi",
+  "SP": 7.5,
+  "VO": 5.0,
+  "CO": 9.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "anchor; occasional dissent (2019 CONMEBOL ban)",
+   "VO": "no inclusion stances; Saudi tourism role neutral here",
+   "CO": "UNICEF ambassador since 2010, Leo Messi Foundation, large donations",
+   "HU": "reserved and unassuming; turned down 2015 Copa Golden Ball"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lionel_Messi"
+  ]
+ },
+ {
+  "id": "stanley-matthews",
+  "name": "Stanley Matthews",
+  "SP": 9.5,
+  "VO": 7.5,
+  "CO": 9.0,
+  "HU": 9.0,
+  "why": {
+   "SP": "never booked, did not retaliate",
+   "VO": "1958 anti-apartheid letter; formed and toured Soweto schoolboys' team 1975",
+   "CO": "coached poor children in Africa every summer 1953-78; unpaid at Port Vale",
+   "HU": "modest, credited Mortensen for 1953 final, felt undeserving of knighthood"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Matthews"
+  ]
+ },
+ {
+  "id": "ronald-araujo",
+  "name": "Ronald Araújo",
+  "SP": 5.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2024 Copa América stands confrontation (3-match ban); reds in 2024 and 2025 Champions League",
+   "VO": "open about mental health, took a public break",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronald_Araújo"
+  ]
+ },
+ {
+  "id": "julien-friedrich",
+  "name": "Julien Friedrich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "id": "gavi",
+  "name": "Gavi",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "combative, frequent bookings, provoked Vinícius 2024, sent off vs Granada 2022",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gavi_(footballer)"
+  ]
+ },
+ {
+  "id": "luis-figo",
+  "name": "Luís Figo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "FIFA presidency bid (neutral)",
+   "CO": "Fundação Luís Figo for children with special needs and in poverty; Stop TB ambassador; Inter Campus board",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luís_Figo"
+  ]
+ },
+ {
+  "id": "paco-gento",
+  "name": "Paco Gento",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Francisco_Gento"
+  ]
+ },
+ {
+  "id": "marco-friedl",
+  "name": "Marco Friedl",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Friedl"
+  ]
+ },
+ {
+  "id": "omir-fernandez",
+  "name": "Omir Fernandez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omir_Fernandez"
+  ]
+ },
+ {
+  "id": "kylian-mbappe",
+  "name": "Kylian Mbappé",
+  "SP": 5.5,
+  "VO": 7.0,
+  "CO": 7.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "2018 red for shove, said he would do it again",
+   "VO": "urged young French voters against the far right (Euro 2024)",
+   "CO": "gave 2018 World Cup earnings to disabled children's charity; Sala search donations",
+   "HU": "public contract disputes with PSG"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kylian_Mbappé"
+  ]
+ },
+ {
+  "id": "antonee-robinson",
+  "name": "Antonee Robinson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "usual club charity visits (Children's Trust 2023)",
+   "HU": "club praised him as a well-liked teammate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antonee_Robinson",
+   "https://thechildrenstrust.org.uk/news/fulham-Christmas-visit"
+  ]
+ },
+ {
+  "id": "hristo-stoichkov",
+  "name": "Hristo Stoichkov",
+  "SP": 1.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 3.0,
+  "why": {
+   "SP": "1985 cup-final brawl ban, stamped on referee, 11 Barcelona reds, 2003 tackle broke a student's leg",
+   "VO": "nothing on inclusion; pro-vaccine and Catalan views neutral",
+   "CO": "UNESCO Goodwill Ambassador 2016",
+   "HU": "explosive temperament, clashes with players and referees as manager"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hristo_Stoichkov"
+  ]
+ },
+ {
+  "id": "leroy-sane",
+  "name": "Leroy Sané",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "declined to celebrate against former club Schalke",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leroy_Sané"
+  ]
+ },
+ {
+  "id": "emiliano-buendia",
+  "name": "Emiliano Buendía",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emiliano_Buendía"
+  ]
+ },
+ {
+  "id": "yoane-wissa",
+  "name": "Yoane Wissa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "refused to play for Brentford in 2025 to force a move; otherwise described as humble"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yoane_Wissa"
+  ]
+ },
+ {
+  "id": "archie-gray",
+  "name": "Archie Gray",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Archie_Gray"
+  ]
+ }
+]

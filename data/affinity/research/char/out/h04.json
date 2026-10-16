@@ -1,0 +1,651 @@
+[
+ {
+  "id": "bradley-barcola",
+  "name": "Bradley Barcola",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "2024 celebrated an assist in front of Lyon fans who had abused him",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "posted 'la justice de Dieu' after the Lyon celebration"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bradley_Barcola"
+  ]
+ },
+ {
+  "id": "juan-mosquera",
+  "name": "Juan Mosquera",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Mosquera",
+   "https://en.wikipedia.org/wiki/Juan_David_Mosquera"
+  ]
+ },
+ {
+  "id": "matheo-raab",
+  "name": "Matheo Raab",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matheo_Raab"
+  ]
+ },
+ {
+  "id": "rio-ngumoha",
+  "name": "Rio Ngumoha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; Chelsea-Liverpool fee dispute was a club matter"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rio_Ngumoha"
+  ]
+ },
+ {
+  "id": "enzo-fernandez",
+  "name": "Enzo Fernández",
+  "SP": 3.0,
+  "VO": 3.5,
+  "CO": 5.0,
+  "HU": 3.5,
+  "why": {
+   "SP": "2026 World Cup final red card, slow exit and kicked a microphone",
+   "VO": "2024 filmed racist chant about France players; apologised",
+   "CO": "donated to anti-discrimination charity after the chant",
+   "HU": "taunting England fans; widely described as arrogant"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez"
+  ]
+ },
+ {
+  "id": "fanendo-adi",
+  "name": "Fanendo Adi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2019 drink-driving at 102 mph, MLS suspension"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fanendo_Adi"
+  ]
+ },
+ {
+  "id": "jobe-bellingham",
+  "name": "Jobe Bellingham",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "first career red card 2024 at QPR",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "wore 'Jobe' on shirt to build own identity; praised for maturity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jobe_Bellingham"
+  ]
+ },
+ {
+  "id": "karim-benzema",
+  "name": "Karim Benzema",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 3.0,
+  "why": {
+   "SP": "did not celebrate against former club Lyon; otherwise nothing notable",
+   "VO": "2016 said Deschamps bowed to racist pressure",
+   "CO": "nothing notable found",
+   "HU": "public feuds with Le Graët, Deschamps, mocked Giroud; 2021 Valbuena blackmail conviction"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karim_Benzema"
+  ]
+ },
+ {
+  "id": "alexia-putellas",
+  "name": "Alexia Putellas",
+  "SP": 6.5,
+  "VO": 9.0,
+  "CO": 8.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "no notable incidents; minor shirt-off booking 2024",
+   "VO": "backed #SeAcabó and Las 15, pushed RFEF reform; 2019 Pride parade",
+   "CO": "Eleven Foundation for girls 2024; auctioned Ballon d'Or dress for HIV research",
+   "HU": "credits teammates; described as reserved leader"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexia_Putellas"
+  ]
+ },
+ {
+  "id": "john-charles",
+  "name": "John Charles",
+  "SP": 9.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "never booked or sent off, 'Gentle Giant'",
+   "VO": "nothing notable found",
+   "CO": "no charity work described",
+   "HU": "called loyal and honest by Boniperti; Robson praised him as a man"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Charles"
+  ]
+ },
+ {
+  "id": "raphinha",
+  "name": "Raphinha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "target of racist abuse 2024; no stance of his own found",
+   "CO": "nothing notable found",
+   "HU": "humble favela origins; warm relationship with fans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raphinha"
+  ]
+ },
+ {
+  "id": "trinity-rodman",
+  "name": "Trinity Rodman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "2024 pay comment drew backlash, apologised",
+   "CO": "nothing notable found",
+   "HU": "self-critical after 2025 final ('definitely underperformed')"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trinity_Rodman"
+  ]
+ },
+ {
+  "id": "eusebio",
+  "name": "Eusébio",
+  "SP": 9.0,
+  "VO": 6.0,
+  "CO": 6.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "applauded Stepney in 1968 final, saluted goalkeepers who stopped him",
+   "VO": "spoke out against racism at his first club",
+   "CO": "nothing notable found",
+   "HU": "gracious in defeat, praised rivals"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eus%C3%A9bio"
+  ]
+ },
+ {
+  "id": "michael-zorc",
+  "name": "Michael Zorc",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; one-club captain"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Zorc"
+  ]
+ },
+ {
+  "id": "virgil-van-dijk",
+  "name": "Virgil van Dijk",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "four career reds; 2023 refused to leave and swore at referee",
+   "VO": "backed OneLove anti-discrimination message, dropped armband under FIFA threat",
+   "CO": "nothing notable found",
+   "HU": "2017 transfer request at Southampton; otherwise composed"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
+  ]
+ },
+ {
+  "id": "julian-ryerson",
+  "name": "Julian Ryerson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Ryerson"
+  ]
+ },
+ {
+  "id": "ricardo-pepi",
+  "name": "Ricardo Pepi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ricardo_Pepi"
+  ]
+ },
+ {
+  "id": "sami-hyypia",
+  "name": "Sami Hyypiä",
+  "SP": 8.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "one red card in ten Liverpool seasons",
+   "VO": "nothing notable found",
+   "CO": "fund for young Finnish athletes, ran marathon for it",
+   "HU": "private, quiet; standing ovation at Anfield"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sami_Hyypi%C3%A4"
+  ]
+ },
+ {
+  "id": "joshua-kimmich",
+  "name": "Joshua Kimmich",
+  "SP": 6.0,
+  "VO": 4.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "one senior straight red (2023)",
+   "VO": "2024 said he regretted the 2022 OneLove-related protest",
+   "CO": "co-founded We Kick Corona with Goretzka",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joshua_Kimmich"
+  ]
+ },
+ {
+  "id": "brenden-aaronson",
+  "name": "Brenden Aaronson",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "candid about mental struggles after Leeds",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brenden_Aaronson"
+  ]
+ },
+ {
+  "id": "thomas-muller",
+  "name": "Thomas Müller",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "few reds; denied overplaying Pepe headbutt",
+   "VO": "nothing notable found",
+   "CO": "YoungWings ambassador for bereaved children",
+   "HU": "says he 'got lucky' in 2010; gave up penalty duty to Alaba"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_M%C3%BCller"
+  ]
+ },
+ {
+  "id": "jamie-carragher",
+  "name": "Jamie Carragher",
+  "SP": 5.0,
+  "VO": 6.0,
+  "CO": 9.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "2002 red for throwing a coin back; called aggressive but fair",
+   "VO": "speaks on Hillsborough and homelessness",
+   "CO": "23 Foundation (£1m testimonial), Alder Hey patron, homeless shelters",
+   "HU": "2018 spitting incident, apologised"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Carragher"
+  ]
+ },
+ {
+  "id": "aljoscha-kemlein",
+  "name": "Aljoscha Kemlein",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aljoscha_Kemlein"
+  ]
+ },
+ {
+  "id": "unai-simon",
+  "name": "Unai Simón",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one last-man red card; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n"
+  ]
+ },
+ {
+  "id": "landon-donovan",
+  "name": "Landon Donovan",
+  "SP": 6.0,
+  "VO": 9.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "open about depression; 2020 San Diego Loyal forfeits over racist and homophobic slurs",
+   "CO": "LA Galaxy Humanitarian of the Year 2007, 2008",
+   "HU": "apologised for 2009 Beckham criticism"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Landon_Donovan"
+  ]
+ },
+ {
+  "id": "bobby-charlton",
+  "name": "Bobby Charlton",
+  "SP": 9.0,
+  "VO": 5.5,
+  "CO": 9.0,
+  "HU": 8.5,
+  "why": {
+   "SP": "booked twice in career, never argued with referees",
+   "VO": "nothing notable found",
+   "CO": "founded Find a Better Way landmine charity; cancer hospital fundraising",
+   "HU": "known for modesty; long family feud with brother Jack"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobby_Charlton"
+  ]
+ },
+ {
+  "id": "jessie-fleming",
+  "name": "Jessie Fleming",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "2025 called league officiating embarrassing",
+   "VO": "2024 player letter against FIFA's Aramco deal",
+   "CO": "nothing notable found",
+   "HU": "self-described self-doubter; tried to hand armband to Sinclair"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jessie_Fleming"
+  ]
+ },
+ {
+  "id": "bastian-schweinsteiger",
+  "name": "Bastian Schweinsteiger",
+  "SP": 4.5,
+  "VO": 4.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "Euro 2008 red for retaliation; 2015 ban for striking Winston Reid",
+   "VO": "2026 remarks on African football criticised as stereotyping",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bastian_Schweinsteiger"
+  ]
+ },
+ {
+  "id": "alexis-mac-allister",
+  "name": "Alexis Mac Allister",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card, rescinded on appeal",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexis_Mac_Allister"
+  ]
+ },
+ {
+  "id": "milos-kerkez",
+  "name": "Milos Kerkez",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two red cards incl. Hungary 2023 after warnings",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milos_Kerkez"
+  ]
+ },
+ {
+  "id": "ethan-ampadu",
+  "name": "Ethan Ampadu",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "Euro 2020 red for late challenge",
+   "VO": "nothing notable found",
+   "CO": "PFA Community Champion 2024-25",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Ampadu"
+  ]
+ },
+ {
+  "id": "lamine-yamal",
+  "name": "Lamine Yamal",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 7.0,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "2026 condemned anti-Muslim chants at Spain match",
+   "CO": "UNICEF Goodwill Ambassador 2026; Rocafonda pride",
+   "HU": "2025 birthday party with hired performers with dwarfism drew complaint"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lamine_Yamal"
+  ]
+ },
+ {
+  "id": "evander",
+  "name": "Evander",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evander_(footballer)"
+  ]
+ },
+ {
+  "id": "danny-vitiello",
+  "name": "Danny Vitiello",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danny_Vitiello"
+  ]
+ },
+ {
+  "id": "stefan-frei",
+  "name": "Stefan Frei",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "auctions his art for Sounders relief fund and RAVE Foundation",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stefan_Frei"
+  ]
+ },
+ {
+  "id": "christian-pulisic",
+  "name": "Christian Pulisic",
+  "SP": 5.5,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "2021 'Man in the Mirror' shirt taunt at Mexico",
+   "VO": "open about depression; 2024 Trump dance (politics, neutral)",
+   "CO": "nothing notable found",
+   "HU": "taunt at Mexico"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Pulisic"
+  ]
+ }
+]

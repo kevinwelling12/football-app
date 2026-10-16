@@ -1,0 +1,653 @@
+[
+ {
+  "id": "christopher-trimmel",
+  "name": "Christopher Trimmel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long-serving Union captain, nothing else notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christopher_Trimmel"
+  ]
+ },
+ {
+  "id": "jordan-henderson",
+  "name": "Jordan Henderson",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 8.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "two red cards in a long career, normal",
+   "VO": "backed Rainbow Laces and LGBTQ+ fans, undercut by 2023 Saudi move",
+   "CO": "organised captains' NHS fund in 2020, MBE for charity",
+   "HU": "team-first leader, praised by Kane and Gerrard; apologised over Saudi backlash"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Henderson"
+  ]
+ },
+ {
+  "id": "ronald-hernandez",
+  "name": "Ronald Hernández",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronald_Hern%C3%A1ndez"
+  ]
+ },
+ {
+  "id": "jayden-danns",
+  "name": "Jayden Danns",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jayden_Danns"
+  ]
+ },
+ {
+  "id": "jaka-bijol",
+  "name": "Jaka Bijol",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaka_Bijol"
+  ]
+ },
+ {
+  "id": "ethan-nwaneri",
+  "name": "Ethan Nwaneri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Nwaneri"
+  ]
+ },
+ {
+  "id": "kastriot-imeri",
+  "name": "Kastriot Imeri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kastriot_Imeri"
+  ]
+ },
+ {
+  "id": "dominic-calvert-lewin",
+  "name": "Dominic Calvert-Lewin",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (2024), overturned on appeal",
+   "VO": "spoke openly in 2022 about his mental health",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominic_Calvert-Lewin"
+  ]
+ },
+ {
+  "id": "zlatan-ibrahimovic",
+  "name": "Zlatan Ibrahimović",
+  "SP": 2.5,
+  "VO": 4.5,
+  "CO": 7.0,
+  "HU": 2.5,
+  "why": {
+   "SP": "many violent-conduct reds and bans (Rossi punch, Aronica slap, Guardado stamp)",
+   "VO": "dismissive of women's team pay comparison, praised Qatar 2022",
+   "CO": "UN World Food Programme ambassador, paid for Sweden's intellectually disabled team trip, Zlatan Court in Rosengård",
+   "HU": "famously arrogant, third-person persona, feuds with Guardiola, Lukaku, van der Vaart"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87"
+  ]
+ },
+ {
+  "id": "diego-maradona",
+  "name": "Diego Maradona",
+  "SP": 3.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 3.0,
+  "why": {
+   "SP": "deliberate Hand of God, 1984 cup final brawl; heavily fouled himself",
+   "VO": "spoke for the poor, but mainly general politics (neutral)",
+   "CO": "Soccer Aid for UNICEF, charity matches, Kolkata academy",
+   "HU": "arrogant and confrontational, feuds with FIFA and press, fired air rifle at reporters"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Maradona"
+  ]
+ },
+ {
+  "id": "rani-khedira",
+  "name": "Rani Khedira",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one yellow-card accumulation ban, otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rani_Khedira"
+  ]
+ },
+ {
+  "id": "daniel-svensson",
+  "name": "Daniel Svensson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Svensson_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "id": "trey-nyoni",
+  "name": "Trey Nyoni",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trey_Nyoni"
+  ]
+ },
+ {
+  "id": "jose-caicedo",
+  "name": "José Caicedo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jos%C3%A9_Caicedo"
+  ]
+ },
+ {
+  "id": "zac-mcgraw",
+  "name": "Zac McGraw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "West Point graduate, first Army player drafted in MLS; nothing else notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zac_McGraw"
+  ]
+ },
+ {
+  "id": "joey-veerman",
+  "name": "Joey Veerman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "public falling-out with Koeman, stepped away from the national team"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joey_Veerman"
+  ]
+ },
+ {
+  "id": "vinicius-junior",
+  "name": "Vinícius Júnior",
+  "SP": 4.0,
+  "VO": 9.5,
+  "CO": 8.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "frequent dissent bookings and provocations, pushed Orbán's neck (2024)",
+   "VO": "leading voice against racist abuse in Spain at personal cost; 'Vini Jr. laws', FIFA anti-racism committee",
+   "CO": "Instituto Vini Jr. school access for poor Brazilian children, UNESCO ambassador",
+   "HU": "provocative celebrations, Ancelotti and club urged him to calm down"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior"
+  ]
+ },
+ {
+  "id": "rose-lavelle",
+  "name": "Rose Lavelle",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 6.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "only yellow-card accumulation, normal",
+   "VO": "plaintiff in 2019 USWNT equal-pay lawsuit (per earlier research)",
+   "CO": "returns to support her Cincinnati youth club and kids",
+   "HU": "warm, low-key, sees herself as a role model for kids"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rose_Lavelle",
+   "https://www.wcpo.com/blogs/sports/rose-lavelle-cincinnatis-world-cup-star-takes-time-to-give-back-to-her-hometown"
+  ]
+ },
+ {
+  "id": "alyssa-naeher",
+  "name": "Alyssa Naeher",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "plaintiff in 2019 USWNT equal-pay lawsuit (per earlier research)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alyssa_Naeher"
+  ]
+ },
+ {
+  "id": "luis-diaz",
+  "name": "Luis Díaz",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "Porto fair-play prize 2020-21, but three reds incl. 3-match ban for serious foul on Hakimi (2025)",
+   "VO": "nothing notable found",
+   "CO": "foundation in hometown Barrancas trains 50+ children (run by family)",
+   "HU": "tributes to Jota, quiet profile"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_D%C3%ADaz_(footballer,_born_1997)",
+   "https://www.elcolombiano.com/deportes/futbol/luiz-diaz-su-fundacion-barrancas-ninos-GG37572675"
+  ]
+ },
+ {
+  "id": "giacinto-facchetti",
+  "name": "Giacinto Facchetti",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "sent off once in his career; fair-play prize named after him (Calciopoli role as official debated)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "disciplined, honest captain"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giacinto_Facchetti"
+  ]
+ },
+ {
+  "id": "paolo-maldini",
+  "name": "Paolo Maldini",
+  "SP": 8.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 7.5,
+  "why": {
+   "SP": "three red cards in 25 years, Facchetti fair-play prize 2008",
+   "VO": "nothing notable found",
+   "CO": "charity matches (Match Against Poverty, Match for Peace)",
+   "HU": "calm gentleman, credited Baresi over himself"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paolo_Maldini"
+  ]
+ },
+ {
+  "id": "toni-kroos",
+  "name": "Toni Kroos",
+  "SP": 7.5,
+  "VO": 6.5,
+  "CO": 8.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "first career red card at 32, clean record",
+   "VO": "criticised Qatar over migrant workers and anti-gay laws; 2024 migration remarks drew criticism",
+   "CO": "Toni Kroos Foundation for seriously ill children and their families",
+   "HU": "low-key, retired at his peak"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toni_Kroos",
+   "https://unitedcharity.de/en/Organisationen/Toni-Kroos-Foundation"
+  ]
+ },
+ {
+  "id": "mikel-oyarzabal",
+  "name": "Mikel Oyarzabal",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "one-club captain, turned down Athletic move; studied for a degree"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikel_Oyarzabal"
+  ]
+ },
+ {
+  "id": "pele",
+  "name": "Pelé",
+  "SP": 8.5,
+  "VO": 5.5,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fair-play reputation, embrace with Moore 1970, avoided penalties",
+   "VO": "anti-corruption Pelé Law and accused Teixeira (governance, mostly neutral)",
+   "CO": "UN and UNESCO ambassador, SOS Children's Villages, £3.6m charity auction, Pelé Foundation",
+   "HU": "charismatic star; long refusal to acknowledge daughter Sandra"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pel%C3%A9"
+  ]
+ },
+ {
+  "id": "uwe-seeler",
+  "name": "Uwe Seeler",
+  "SP": 8.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 9.0,
+  "why": {
+   "SP": "popular for his fairness",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "famed modesty ('Uns Uwe'), stayed loyal to Hamburg, took blame for HSV scandal as president"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uwe_Seeler"
+  ]
+ },
+ {
+  "id": "james-mcconnell",
+  "name": "James McConnell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_McConnell_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "dennis-bergkamp",
+  "name": "Dennis Bergkamp",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "four red cards (elbow on Lomas, lunge on Carragher), diving and retaliation accusations",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "shy and introverted, preferred creating goals to scoring"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dennis_Bergkamp"
+  ]
+ },
+ {
+  "id": "trey-muse",
+  "name": "Trey Muse",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trey_Muse"
+  ]
+ },
+ {
+  "id": "jimer-fory",
+  "name": "Jimer Fory",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in 2024 U23 match, reason not recorded",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jimer_Fory"
+  ]
+ },
+ {
+  "id": "luke-chambers",
+  "name": "Luke Chambers",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Chambers_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "michael-zetterer",
+  "name": "Michael Zetterer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Zetterer"
+  ]
+ },
+ {
+  "id": "luis-suarez",
+  "name": "Luis Suárez",
+  "SP": 1.5,
+  "VO": 3.5,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "three bites, Ghana handball called 'save of the tournament', admitted diving, spat at Seattle staffer 2025",
+   "VO": "banned for racially abusing Evra, denied it, snubbed his handshake",
+   "CO": "nothing notable found",
+   "HU": "combative; apologised for bites and spitting, clashed with Rodgers"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(Uruguayan_footballer)"
+  ]
+ },
+ {
+  "id": "emmanuel-latte-lath",
+  "name": "Emmanuel Latte Lath",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emmanuel_Latte_Lath"
+  ]
+ },
+ {
+  "id": "filippo-mane",
+  "name": "Filippo Mané",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red on Bundesliga debut (2025), conceded penalty",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Filippo_Man%C3%A9"
+  ]
+ },
+ {
+  "id": "ian-rush",
+  "name": "Ian Rush",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "attended Hillsborough funerals, charity matches, Liverpool soccer schools and Welsh youth roles",
+   "HU": "generous with young fans (Shevchenko's boots), resigned on principle at Chester"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Rush"
+  ]
+ }
+]

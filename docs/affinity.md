@@ -101,5 +101,10 @@ Same framework as clubs (web/players.js on the shared engine `fitPairs` in web/a
   picks. Character +2.3, serious wrongdoing −0.9, team player +0.8, played for your club +0.5, joy to watch +0.4; loyalty
   and lesser offences ~0. Above their traits: Donovan, Foudy, Rice, Schlotterbeck, Wambach, Saka; below: Nmecha, Hakimi,
   Subotić, Dybala, Enzo Fernández.
+- 2026-10-15, two additions (Kevin: "do both"): American (nationality USA; a pull, never shown as a minus) and Character
+  split into Sportsmanship, Speaks out, Community, Humility (research/char/BRIEF.md; researched for the 359 players he
+  has answered on, merged by scripts/affinity/merge_char.py; others get the brief's low-information values).
+  Held out: 67.4% -> 69.0% (log loss 0.595 -> 0.583); American alone 68.4%. Weights: speaks out +1.6, character +1.2,
+  humility +1.0, community +1.0, American +0.8, sportsmanship +0.2. Next: research the four for the other ~1,980 players.
 - Analysis: Settings > Copy my player picks (and club picks), then
   `node scripts/affinity/analyze_players.mjs player_picks.json club_picks.json`.

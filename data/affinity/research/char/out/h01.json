@@ -1,0 +1,656 @@
+[
+ {
+  "id": "manuel-neuer",
+  "name": "Manuel Neuer",
+  "SP": 5.0,
+  "VO": 7.0,
+  "CO": 7.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "admitted misleading the referee over Lampard's 2010 goal; habitual appeals; first red in 866 matches",
+   "VO": "rainbow armband at Euro 2020, backed OneLove, said a player coming out would help others",
+   "CO": "Manuel Neuer Kids Foundation; supports child-poverty projects in Gelsenkirchen",
+   "HU": "authoritative leader; 2023 unauthorised interview criticising the club, fined"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manuel_Neuer"
+  ]
+ },
+ {
+  "id": "bukayo-saka",
+  "name": "Bukayo Saka",
+  "SP": 7.0,
+  "VO": 6.5,
+  "CO": 7.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "no notable cards or simulation",
+   "VO": "spoke about racist abuse after Euro 2020 final, criticised social media platforms",
+   "CO": "funded 120 children's surgeries in Kano via BigShoe (2022)",
+   "HU": "described as grounded and humble, credits family and faith"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bukayo_Saka",
+   "https://www.thisdaylive.com/2022/11/18/saka-pays-surgery-fees-for-120-nigerian-kids-ahead-of-world-cup/"
+  ]
+ },
+ {
+  "id": "curtis-jones",
+  "name": "Curtis Jones",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two reds: VAR-upgraded foul 2023, confrontation with Doucouré 2025",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Curtis_Jones_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "socrates",
+  "name": "Sócrates",
+  "SP": 7.5,
+  "VO": 9.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "noted for correct behaviour on the pitch",
+   "VO": "led Corinthians Democracy under the military regime, spoke at Diretas Já rallies",
+   "CO": "qualified doctor who practised after retiring; 1986 headband for earthquake victims",
+   "HU": "charismatic, outspoken; no arrogance or feuds noted"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S%C3%B3crates"
+  ]
+ },
+ {
+  "id": "jamal-musiala",
+  "name": "Jamal Musiala",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "no notable cards or simulation",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "gentle, low-key public manner ('Bambi')"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamal_Musiala"
+  ]
+ },
+ {
+  "id": "giannis-konstantelias",
+  "name": "Giannis Konstantelias",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giannis_Konstantelias"
+  ]
+ },
+ {
+  "id": "julian-brandt",
+  "name": "Julian Brandt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Brandt"
+  ]
+ },
+ {
+  "id": "serhou-guirassy",
+  "name": "Serhou Guirassy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Serhou_Guirassy"
+  ]
+ },
+ {
+  "id": "gareth-bale",
+  "name": "Gareth Bale",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "booked eight times for simulation in the Premier League; provocative celebration at Atlético 2019",
+   "VO": "nothing notable found",
+   "CO": "£1m COVID donation to Welsh and Spanish health boards, Ebola campaign, MBE for charities",
+   "HU": "'Wales. Golf. Madrid.' flag; seen as uncommitted late at Real Madrid"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gareth_Bale"
+  ]
+ },
+ {
+  "id": "mario-kempes",
+  "name": "Mario Kempes",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "deliberate goal-line handball vs Poland at the 1978 World Cup",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mario_Kempes"
+  ]
+ },
+ {
+  "id": "patrick-berg",
+  "name": "Patrick Berg",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Berg"
+  ]
+ },
+ {
+  "id": "weston-mckennie",
+  "name": "Weston McKennie",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "'Justice for George' armband in a 2020 Bundesliga match",
+   "CO": "nothing notable found",
+   "HU": "2021 Covid-protocol breaches, dropped by USMNT; apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weston_McKennie"
+  ]
+ },
+ {
+  "id": "luka-modric",
+  "name": "Luka Modrić",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "no notable cards or simulation",
+   "VO": "spoke of holding no hatred from the war; no campaigns",
+   "CO": "anonymous donation to Zadar autism association; €100k X-ray machine for Zadar hospital",
+   "HU": "low profile, praised as unselfish; refused to play to force a 2011 transfer"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+  ]
+ },
+ {
+  "id": "marco-reus",
+  "name": "Marco Reus",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "let Aubameyang take a penalty he won (2013); no notable cards",
+   "VO": "nothing notable found",
+   "CO": "with his wife gave €500k to Dortmund people and businesses in 2020",
+   "HU": "drove for years on a fake licence, fined €540k in 2014"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Reus"
+  ]
+ },
+ {
+  "id": "livan-burcu",
+  "name": "Livan Burcu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Livan_Burcu"
+  ]
+ },
+ {
+  "id": "nico-williams",
+  "name": "Nico Williams",
+  "SP": 6.0,
+  "VO": 7.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "called out monkey chants at Atlético 2024; calls fighting racism his number one goal",
+   "CO": "nothing notable found",
+   "HU": "2025 transfer saga, renewed with Athletic"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Williams",
+   "https://www.flashscore.com/news/soccer-laliga-i-heard-monkey-noises-athletic-bilbao-s-nico-williams-abused-at-atletico/hKNRkFPN"
+  ]
+ },
+ {
+  "id": "kyle-edwards",
+  "name": "Kyle Edwards",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyle_Edwards_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "cole-bassett",
+  "name": "Cole Bassett",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cole_Bassett"
+  ]
+ },
+ {
+  "id": "dominik-szoboszlai",
+  "name": "Dominik Szoboszlai",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red for a foul on Haaland (2026); otherwise unremarkable",
+   "VO": "nothing notable found",
+   "CO": "donations to a Hungarian children's home and a former player's family",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominik_Szoboszlai"
+  ]
+ },
+ {
+  "id": "martin-zubimendi",
+  "name": "Martin Zubimendi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mart%C3%ADn_Zubimendi"
+  ]
+ },
+ {
+  "id": "cole-palmer",
+  "name": "Cole Palmer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cole_Palmer"
+  ]
+ },
+ {
+  "id": "gianluigi-donnarumma",
+  "name": "Gianluigi Donnarumma",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "wage and agent-fee demands ended Milan talks, left on a free 2021; described as introverted"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma"
+  ]
+ },
+ {
+  "id": "felix-nmecha",
+  "name": "Felix Nmecha",
+  "SP": 6.0,
+  "VO": 2.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "shared anti-LGBTQ posts, linked 'pride' with the devil (2023); club says he respects all",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felix_Nmecha"
+  ]
+ },
+ {
+  "id": "nico-elvedi",
+  "name": "Nico Elvedi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Elvedi"
+  ]
+ },
+ {
+  "id": "tyler-adams",
+  "name": "Tyler Adams",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 6.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "composed answer on US racism to an Iranian journalist at the 2022 World Cup",
+   "CO": "owns lower-league clubs near his hometown",
+   "HU": "youngest World Cup captain, credits his mother"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Adams",
+   "https://denver7.com/news/national/iranian-journalist-questions-usmnt-captain-about-racial-discrimination"
+  ]
+ },
+ {
+  "id": "konstantinos-karetsas",
+  "name": "Konstantinos Karetsas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Konstantinos_Karetsas"
+  ]
+ },
+ {
+  "id": "dixie-dean",
+  "name": "Dixie Dean",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "never booked or sent off despite rough treatment; reportedly punched a spectator who racially taunted him",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "remembered as quiet and unassuming"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dixie_Dean"
+  ]
+ },
+ {
+  "id": "michel-platini",
+  "name": "Michel Platini",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 4.0,
+  "why": {
+   "SP": "never sent off; criticised for celebrating the Heysel final penalty",
+   "VO": "called under-18 international transfers child trafficking",
+   "CO": "nothing notable found",
+   "HU": "FIFA ethics ban 2015 (later acquitted of fraud); many public disputes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michel_Platini"
+  ]
+ },
+ {
+  "id": "iago-aspas",
+  "name": "Iago Aspas",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "red for headbutting Marchena 2013; threw the VAR monitor down 2023",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long loyalty to Celta; fiery temperament"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iago_Aspas"
+  ]
+ },
+ {
+  "id": "cody-gakpo",
+  "name": "Cody Gakpo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cody_Gakpo"
+  ]
+ },
+ {
+  "id": "alisson-becker",
+  "name": "Alisson Becker",
+  "SP": 6.5,
+  "VO": 6.5,
+  "CO": 7.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "one red for handling outside the box; no notable simulation",
+   "VO": "WHO goodwill ambassador, mental-health advocacy",
+   "CO": "led LFC Foundation auction for Rio Grande do Sul flood victims (2024)",
+   "HU": "quiet, faith-centred public manner"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alisson_Becker",
+   "https://www.liverpoolfc.com/news/lfc-foundation-supports-alisson-beckers-brazil-floods-auction-appeal"
+  ]
+ },
+ {
+  "id": "diego-chara",
+  "name": "Diego Chará",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "MLS all-time leader in fouls and yellow cards",
+   "VO": "nothing notable found",
+   "CO": "youth donations in Colombia, Mercy Corps projects, Somos Timbers outreach",
+   "HU": "long-serving captain, no controversies"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Char%C3%A1",
+   "https://www.timbers.com/news/life-diego-chara",
+   "https://matchcenter.charlottefootballclub.com/news/portland-timbers-midfielder-diego-chara-sets-mls-all-times-fouls-record"
+  ]
+ },
+ {
+  "id": "kevin-keegan",
+  "name": "Kevin Keegan",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "sent off for fighting Bremner (1974); eight-week ban for punching a Lübeck player",
+   "VO": "nothing notable found",
+   "CO": "close to fans, e.g. joined the crowd on his Newcastle debut",
+   "HU": "credited Shankly, self-deprecating; many public disputes and walkouts"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Keegan"
+  ]
+ },
+ {
+  "id": "rodrigo-lopez",
+  "name": "Rodrigo López",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "2025 farewell raised money for the American Heart Association and GiGi's Playhouse",
+   "HU": "long-serving captain, stayed on in an academy role"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://www.cbsnews.com/sacramento/news/sacramento-republic-rodrigo-lopez-retire-after-2025"
+  ]
+ },
+ {
+  "id": "ariel-lassiter",
+  "name": "Ariel Lassiter",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ariel_Lassiter"
+  ]
+ },
+ {
+  "id": "kristoffer-velde",
+  "name": "Kristoffer Velde",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristoffer_Velde"
+  ]
+ }
+]

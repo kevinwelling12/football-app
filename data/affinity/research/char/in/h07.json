@@ -1,0 +1,628 @@
+[
+ {
+  "id": "tostao",
+  "name": "Tostão",
+  "gender": "M",
+  "active": false,
+  "born": 1947,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "América Mineiro",
+   "Cruzeiro",
+   "Vasco da Gama"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "+2 humble, became a doctor, shunned fame",
+  "notes": ""
+ },
+ {
+  "id": "kostas-tsimikas",
+  "name": "Kostas Tsimikas",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Greece",
+  "current_club": "Liverpool",
+  "career": [
+   "Olympiacos",
+   "Willem II (loan)",
+   "Liverpool",
+   "Roma (loan)"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "warm, no issues, no causes on record",
+  "notes": ""
+ },
+ {
+  "id": "zeno-van-den-bosch",
+  "name": "Zeno Van Den Bosch",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Belgium",
+  "current_club": "Union Berlin",
+  "career": [
+   "Royal Antwerp",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "giorgi-mamardashvili",
+  "name": "Giorgi Mamardashvili",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Georgia",
+  "current_club": "Liverpool",
+  "career": [
+   "Dinamo Tbilisi",
+   "Rustavi (loan)",
+   "Locomotive Tbilisi (loan)",
+   "Valencia",
+   "Liverpool"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues, backed pro-EU protests 2024",
+  "notes": "No incident codes; speaks_out: 2024 public support for Georgia's pro-EU protests."
+ },
+ {
+  "id": "federico-chiesa",
+  "name": "Federico Chiesa",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Liverpool",
+  "career": [
+   "Fiorentina",
+   "Juventus",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues or causes on record",
+  "notes": "Moved from Fiorentina to rivals Juventus 2020."
+ },
+ {
+  "id": "lewis-koumas",
+  "name": "Lewis Koumas",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Wales",
+  "current_club": "Liverpool",
+  "career": [
+   "Liverpool",
+   "Stoke City (loan)",
+   "Birmingham City (loan)",
+   "Hull City (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "raquel-rodriguez",
+  "name": "Raquel Rodríguez",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "Costa Rica",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Sky Blue FC",
+   "Portland Thorns",
+   "Angel City FC",
+   "Kansas City Current"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble trailblazer",
+  "notes": "No incidents. Recount: major_trophies 1: NWSL Championship 2022; Shield not counted."
+ },
+ {
+  "id": "ronaldo-brazilian",
+  "name": "Ronaldo (Brazilian)",
+  "gender": "M",
+  "active": false,
+  "born": 1976,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "PSV",
+   "Barcelona",
+   "Inter Milan",
+   "Real Madrid",
+   "AC Milan",
+   "Corinthians"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "UNDP work, no major conduct issues",
+  "notes": "Pushed for exit from Inter 2002; joined Inter's rival Milan 2007 but from Real Madrid (not direct); 2008 Rio hotel incident with sex workers (no charges); UNDP goodwill ambassador."
+ },
+ {
+  "id": "raymond-kopa",
+  "name": "Raymond Kopa",
+  "gender": "M",
+  "active": false,
+  "born": 1931,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Angers",
+   "Reims",
+   "Real Madrid",
+   "Reims"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 stood up for players' contract freedom, modest miner's son",
+  "notes": "No incident codes. 1963 'footballers are slaves' stand on lifetime contracts drew a suspended six-month ban."
+ },
+ {
+  "id": "sandor-kocsis",
+  "name": "Sándor Kocsis",
+  "gender": "M",
+  "active": false,
+  "born": 1929,
+  "nation": "Hungary",
+  "current_club": null,
+  "career": [
+   "Ferencváros",
+   "Budapest Honvéd",
+   "Young Boys",
+   "Barcelona"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues",
+  "notes": ""
+ },
+ {
+  "id": "federico-valverde",
+  "name": "Federico Valverde",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Uruguay",
+  "current_club": "Real Madrid",
+  "career": [
+   "Peñarol",
+   "Real Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "2023 car-park punch on Baena, cynical foul 2020",
+  "notes": "2023 alleged punch on Álex Baena in car park after a match; criminal complaint archived, no sanction. Recount: red_card_violence 0: alleged car-park punch was off the pitch, no conviction."
+ },
+ {
+  "id": "hunter-sulte",
+  "name": "Hunter Sulte",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Portland Timbers 2",
+   "Portland Timbers",
+   "Indy Eleven (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aitana-bonmati",
+  "name": "Aitana Bonmatí",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "Rubiales stance, humble",
+  "notes": "No incidents; one of 'Las 15' who withdrew from Spain selection in 2022."
+ },
+ {
+  "id": "antoine-griezmann",
+  "name": "Antoine Griezmann",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "France",
+  "current_club": "Orlando City",
+  "career": [
+   "Real Sociedad",
+   "Atlético Madrid",
+   "Barcelona",
+   "Atlético Madrid",
+   "Orlando City"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "LGBTQ+ ally, Uyghur stance",
+  "notes": "2017 blackface costume photo, apologised; 2021 laughed in Dembélé video mocking Asian hotel staff, apologised. Ended Huawei deal over Uyghur reports."
+ },
+ {
+  "id": "sawyer-jura",
+  "name": "Sawyer Jura",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Portland Timbers 2",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "zinedine-zidane",
+  "name": "Zinedine Zidane",
+  "gender": "M",
+  "active": false,
+  "born": 1972,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Cannes",
+   "Bordeaux",
+   "Juventus",
+   "Real Madrid"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "charity work, quiet but temperamental",
+  "notes": "Headbutts on Materazzi (2006 WC final) and Kientz (2000, 5-match ban), stamp on Fuad Anwar (1998 WC); paid Qatar 2022 bid ambassador (reported)."
+ },
+ {
+  "id": "eric-miller",
+  "name": "Eric Miller",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Montreal Impact",
+   "Colorado Rapids",
+   "Minnesota United",
+   "New York City FC",
+   "Nashville SC",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "folarin-balogun",
+  "name": "Folarin Balogun",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Monaco",
+  "career": [
+   "Arsenal",
+   "Reims (loan)",
+   "Monaco"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "no issues",
+  "notes": ""
+ },
+ {
+  "id": "julen-guerrero",
+  "name": "Julen Guerrero",
+  "gender": "M",
+  "active": false,
+  "born": 1974,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Athletic Club"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabio-silva",
+  "name": "Fábio Silva",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Portugal",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Wolverhampton Wanderers",
+   "Anderlecht (loan)",
+   "PSV (loan)",
+   "Rangers (loan)",
+   "Las Palmas (loan)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "lionel-messi",
+  "name": "Lionel Messi",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "Argentina",
+  "current_club": "Inter Miami",
+  "career": [
+   "Barcelona",
+   "Paris Saint-Germain",
+   "Inter Miami"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "UNICEF ambassador, foundation, quiet",
+  "notes": "2016 Spanish tax-fraud conviction (image rights; 21-month suspended, converted to fine); paid Visit Saudi ambassador since 2022; 2019 CONMEBOL ban for corruption claims; UNICEF ambassador and Leo Messi Foundation."
+ },
+ {
+  "id": "stanley-matthews",
+  "name": "Stanley Matthews",
+  "gender": "M",
+  "active": false,
+  "born": 1915,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Stoke City",
+   "Blackpool",
+   "Stoke City"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "+2.5 never booked, modest, Soweto coaching",
+  "notes": "1938 Nazi salute in Berlin on FA orders; as Port Vale general manager the club was expelled 1968 over illegal youth payments (readmitted 1969). Never booked."
+ },
+ {
+  "id": "ronald-araujo",
+  "name": "Ronald Araújo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Uruguay",
+  "current_club": "Liverpool (loan)",
+  "career": [
+   "Rentistas",
+   "Boston River",
+   "Barcelona",
+   "Liverpool (loan)"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, open about mental health (Copa 2024 brawl applied separately)",
+  "notes": "2024 Copa América: went into stands in confrontation with Colombia fans, CONMEBOL 3-match ban (upheld by CAS 2025); spoke openly on anxiety/depression 2026."
+ },
+ {
+  "id": "julien-friedrich",
+  "name": "Julien Friedrich",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Union Berlin",
+   "VSG Altglienicke (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "Union Berlin academy; loan at Altglienicke 2025-26."
+ },
+ {
+  "id": "gavi",
+  "name": "Gavi",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "fiery temperament, cards",
+  "notes": ""
+ },
+ {
+  "id": "luis-figo",
+  "name": "Luís Figo",
+  "gender": "M",
+  "active": false,
+  "born": 1972,
+  "nation": "Portugal",
+  "current_club": null,
+  "career": [
+   "Sporting CP",
+   "Barcelona",
+   "Real Madrid",
+   "Inter Milan"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes, no issues",
+  "notes": "2000: moved from Barcelona to Real Madrid via release clause."
+ },
+ {
+  "id": "paco-gento",
+  "name": "Paco Gento",
+  "gender": "M",
+  "active": false,
+  "born": 1933,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Racing Santander",
+   "Real Madrid"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 humble, no issues",
+  "notes": "No incidents. 6 European Cups, 12 La Liga; Real Madrid captain 1962-71."
+ },
+ {
+  "id": "marco-friedl",
+  "name": "Marco Friedl",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Austria",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Bayern Munich",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "omir-fernandez",
+  "name": "Omir Fernandez",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "New York Red Bulls",
+   "Colorado Rapids",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "kylian-mbappe",
+  "name": "Kylian Mbappé",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "France",
+  "current_club": "Real Madrid",
+  "career": [
+   "Monaco",
+   "Paris Saint-Germain",
+   "Real Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "children's charity, anti-far-right voting call",
+  "notes": "Named by Swedish media in a 2024 Stockholm rape investigation closed for insufficient evidence (never notified as suspect); funds Premiers de Cordée; legal dispute with PSG over wages."
+ },
+ {
+  "id": "antonee-robinson",
+  "name": "Antonee Robinson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Fulham",
+  "career": [
+   "Everton",
+   "Wigan Athletic",
+   "Fulham"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "hristo-stoichkov",
+  "name": "Hristo Stoichkov",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "Bulgaria",
+  "current_club": null,
+  "career": [
+   "CSKA Sofia",
+   "Barcelona",
+   "Parma",
+   "Barcelona",
+   "Al-Nassr"
+  ],
+  "CH_now": 3.25,
+  "CH_why": "fiery, confrontational, brawls",
+  "notes": "1985 cup-final brawl ban; 1990 stamped on a referee's foot (2-month ban); brief 1998 Al-Nassr spell."
+ },
+ {
+  "id": "leroy-sane",
+  "name": "Leroy Sané",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Galatasaray",
+  "career": [
+   "Schalke 04",
+   "Manchester City",
+   "Bayern Munich",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record; declined to celebrate against Schalke out of respect",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emiliano-buendia",
+  "name": "Emiliano Buendía",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Argentina",
+  "current_club": "Aston Villa",
+  "career": [
+   "Getafe",
+   "Cultural Leonesa",
+   "Norwich City",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yoane-wissa",
+  "name": "Yoane Wissa",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Congo DR",
+  "current_club": "Newcastle United",
+  "career": [
+   "Châteauroux",
+   "Angers",
+   "Lorient",
+   "Brentford",
+   "Newcastle United"
+  ],
+  "CH_now": 5.3,
+  "CH_why": "refused to train to force a move from Brentford",
+  "notes": "Refused to train/play for Brentford in summer 2025 to force his move to Newcastle."
+ },
+ {
+  "id": "archie-gray",
+  "name": "Archie Gray",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Leeds United",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ }
+]
