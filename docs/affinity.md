@@ -52,6 +52,14 @@ Settings > Copy my Affinity picks, paste into a file, run the script above.
 - He ranked his own five too: Sacramento Republic 30–0; Liverpool over Dortmund and the Thorns; Timbers over Dortmund.
 - Skips: Championship 86% of appearances, Liga MX 62% (the quiz learns this per league); Lazio 0–17.
 
+## What 1,978 answers said (2026-10-16, after the Europa and Conference League clubs)
+- 82% of held-out picks. Same order: state ownership −3.6, rival −2.3, run for the club +1.5, the city's club +1.3,
+  near Sacramento +1.2, fan voice +1.1, racism/fan culture −1.0, contender +0.8. Familiarity (excluded): La Liga −1.8,
+  Bundesliga −1.7, other UCL −1.7, Serie A −1.4, MLS −1.1.
+- Above their traits: New England, Sporting JAX, Real Madrid, Hoffenheim, Colorado; below: LAFC, Louisville City, Lazio
+  (0–18), Chicago Fire, Red Bull New York, Atlético Madrid. Sacramento Republic 35–0.
+- Skips: Europa League 92%, Conference League 91%, Liga MX 81%, Championship 67% of appearances.
+
 ## New clubs
 The sync reports clubs with no traits. Research the ten traits (anchors: old repo scripts/archetype/BRIEF.md) and add the
 club with lat/lon to data/affinity/traits.json.
