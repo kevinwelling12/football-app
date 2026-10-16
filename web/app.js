@@ -741,14 +741,16 @@ function viewPlayers() {
   html += `<nav class="chips" style="padding:14px 0 10px">${Object.entries(lists).map(([k, [n]]) => `<button class="chip ${sel === k ? 'on' : ''}" data-plist="${k}">${n}</button>`).join('')}</nav>`;
   // active lists can be narrowed to a league (by the player's current club)
   const curLg = p => { const c = [...p.clubs].reverse().find(c => c[3] == null && c[1]); return c ? clubTeam(c[1])?.[0] : null; };
-  const lg = sel !== 'mt' && ui.plg && LEAGUES[ui.plg] ? ui.plg : null;
-  if (sel !== 'mt') html += `<nav class="chips" style="padding:0 0 10px">${['all', ...ORDER].map(k => `<button class="chip ${(lg || 'all') === k ? 'on' : ''}" data-plg="${k}">${k === 'all' ? 'All' : LEAGUES[k].tag}</button>`).join('')}</nav>`;
+  // only leagues with players in this list (no NWSL under men, no Bundesliga under women)
+  const have = new Set(Object.values(PLAYERS).filter(p => lists[sel][1](p)).map(curLg).filter(Boolean));
+  const lg = sel !== 'mt' && ui.plg && have.has(ui.plg) ? ui.plg : null;
+  if (sel !== 'mt' && have.size > 1) html += `<nav class="chips" style="padding:0 0 10px">${['all', ...ORDER.filter(k => have.has(k))].map(k => `<button class="chip ${(lg || 'all') === k ? 'on' : ''}" data-plg="${k}">${k === 'all' ? 'All' : LEAGUES[k].tag}</button>`).join('')}</nav>`;
   const rows = Object.entries(PLAYERS).filter(([, p]) => lists[sel][1](p) && (!lg || curLg(p) === lg)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]).slice(0, 50);
   html += `<div class="card"><table><tr><th>#</th><th class="club">Player</th><th>Affinity</th></tr>${rows.map(([id, p, v], n) => {
     const ct = mainClub(p);
     return `<tr class="click" data-player="${id}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${ct ? crest(ct[2]) : '<span class="crest"></span>'}<span>${esc(p.n)} <span class="faint tiny">${esc(p.cur || (p.act ? '' : 'retired'))}</span><br><span class="muted tiny">${esc(pWhyLine(id))}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`;
   }).join('')}</table></div>
-    <p class="note">${Object.keys(PLAYERS).length} researched players (your clubs' squads, today's elite, all-time greats and the women's game). Affinity is the chance you'd pick a player over a typical one: six researched traits, playing for your clubs and clubs you like, minus documented wrongdoing, learned from your picks. Whether a player is still playing or in the women's game is fitted but left out.</p>`;
+    <p class="note">${Object.keys(PLAYERS).length} researched players (your clubs' squads, today's elite, all-time greats and the women's game). Affinity is the chance you'd pick a player over a typical one: ten researched traits, being American, playing for your clubs and clubs you like, minus documented wrongdoing, learned from your picks. Whether a player is still playing or in the women's game is fitted but left out.</p>`;
   return html;
 }
 
