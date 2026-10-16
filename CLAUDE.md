@@ -57,6 +57,10 @@ sim.js records, for every remaining match, each side's zone (and title/cup) chan
 Importance = weighted sum of |P(win) − P(loss)| swings (gold 1, good 0.8, ok 0.6, warn 0.5, bad 0.8, title/cup 1).
 Match of the day (Today, all leagues) and of the week (each league's Matches tab) = 0.75 × importance (vs the best in
 the set) + 0.25 × closeness; the choice is stored in state.motw and locked once that match kicks off.
+With Kevin's clubs in the competition (Today: any of the day's leagues) importance is instead how much the result moves
+his clubs' chances (sim `focus`, fixtures[].fav; moves under 3 points are noise and don't count), whether or not they
+play; 0.85 × that + 0.15 × closeness. No club of his, or nothing on the day moves them: the usual pick. The card shows
+stakes 0–10 (against the biggest remaining match in that competition, same measure).
 The match sheet shows the swings as "What's at stake".
 
 ## Working agreements (carried over from the old app)

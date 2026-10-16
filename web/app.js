@@ -138,7 +138,7 @@ function runSim(k) {
   const w = getWorker();
   if (w) { const id = ++jobId; pending.set(id, done); w.postMessage({ id, ...msg }); }
   else setTimeout(() => { // no module workers: run here
-    const rules = LEAGUES[k], ms = matchesOf(k), sim = simulate(L, rules, ms, { sims: 3000 }), status = statuses(L, rules, ms, sim);
+    const rules = LEAGUES[k], ms = matchesOf(k), sim = simulate(L, rules, ms, { sims: 3000, focus: L.teams.map((t, i) => (favIds().has(t.id) ? i : -1)).filter(i => i >= 0) }), status = statuses(L, rules, ms, sim);
     const scen = [];
     for (const z of rules.zones) for (let t = 0; t < L.teams.length; t++) {
       if (status[z.key]?.[t]) continue;
@@ -479,26 +479,51 @@ function stakeLine(k, m, s) {
   const t = D[k].teams[s.side ? m.a : m.h], win = s.side ? s.A : s.H, loss = s.side ? s.H : s.A;
   return { team: t, zone: zoneName(k, s.key), win, draw: s.D, loss };
 }
-// pick = highest blend of importance (vs the best in the set) and closeness; locked once the chosen match kicks off
+// pick = highest blend of importance (vs the best in the set) and closeness; locked once the chosen match kicks off.
+// With your clubs in the competition (Today: in any league on the day) importance is how much the result moves your
+// clubs' chances (sim fixtures[].fav), whether or not they play in it; with none, how much it matters to both sides.
+// stakes: 0-10, the match's importance against the biggest remaining match in that competition (same measure)
+const favImp = f => f?.fav?.imp ?? 0;
+function stakesOf(k, f, fav) {
+  const all = SIM[k]?.sim?.fixtures || [], v = fav ? favImp(f) : f.imp;
+  const mx = Math.max(...all.map(x => (fav ? favImp(x) : x.imp)), 1e-9);
+  return Math.max(0, Math.min(10, Math.round(10 * v / mx)));
+}
 function featured(list, lockKey) {
   const scored = list.map(([k, m]) => { const f = fixInfo(k, m.id); if (!f) return null; const p = f.p; return { k, m, f, close: 1 - Math.abs(p[0] - p[2]) }; }).filter(Boolean);
+  const fav = scored.some(x => favImp(x.f) > 0);
   const stored = store.get().motw?.[lockKey];
   if (stored) {
     const hit = list.find(([k, m]) => `${k}:${m.id}` === stored);
-    if (hit && (Date.parse(hit[1].t) <= Date.now() || isPlayed(hit[1]) || hit[1].st === 'live')) return { k: hit[0], m: hit[1], f: fixInfo(hit[0], hit[1].id), locked: true };
+    if (hit && (Date.parse(hit[1].t) <= Date.now() || isPlayed(hit[1]) || hit[1].st === 'live')) {
+      const f = fixInfo(hit[0], hit[1].id), hf = favImp(f) > 0;
+      return { k: hit[0], m: hit[1], f, locked: true, fav: hf, stakes: f ? stakesOf(hit[0], f, hf) : null };
+    }
   }
   if (!scored.length) return null;
-  const mx = Math.max(...scored.map(x => x.f.imp)) || 1;
-  for (const x of scored) x.score = 0.75 * x.f.imp / mx + 0.25 * x.close;
+  const imp = x => (fav ? favImp(x.f) : x.f.imp), mx = Math.max(...scored.map(imp)) || 1;
+  for (const x of scored) x.score = (fav ? 0.85 : 0.75) * imp(x) / mx + (fav ? 0.15 : 0.25) * x.close;
   const best = scored.sort((a, b) => b.score - a.score)[0], id = `${best.k}:${best.m.id}`;
+  best.fav = fav; best.stakes = stakesOf(best.k, best.f, fav);
   if (stored !== id) setTimeout(() => store.set(s => { (s.motw || (s.motw = {}))[lockKey] = id; }), 0);
   return best;
 }
 function featureCard(title, x) {
   if (!x) return '';
-  const s = x.f?.swings?.[0], line = s ? stakeLine(x.k, x.m, s) : null;
-  const why = line ? `<div class="small muted" style="padding:0 16px 12px 82px">${esc(line.team.s)}: ${esc(line.zone.toLowerCase())} ${pctTxt(line.win)} with a win, ${pctTxt(line.loss)} with a loss</div>` : '';
-  return `<div class="section"><h2>${title}</h2><span class="aside">${LEAGUES[x.k].tag}</span></div><div class="card">${matchRow(x.k, x.m, { withDay: true })}${why}</div>`;
+  let why = '';
+  const b = x.fav ? x.f?.fav?.best : null;
+  if (b) {
+    // your club's biggest move: "with a win / a loss" when it plays, otherwise by who wins
+    const t = D[x.k].teams[b.t], zone = zoneName(x.k, b.key).toLowerCase(), h = D[x.k].teams[x.m.h], a = D[x.k].teams[x.m.a];
+    const parts = b.t === x.m.h ? [[b.H, 'with a win'], [b.A, 'with a loss']] : b.t === x.m.a ? [[b.A, 'with a win'], [b.H, 'with a loss']]
+      : [[b.H, `if ${h.s} win`], [b.D, 'with a draw'], [b.A, `if ${a.s} win`]];
+    why = `${esc(t.s)}: ${esc(zone)} ${parts.filter(p => p[0] != null).map(([p, w]) => `${pctTxt(p)} ${esc(w)}`).join(', ')}`;
+  } else {
+    const s = x.f?.swings?.[0], line = s ? stakeLine(x.k, x.m, s) : null;
+    if (line) why = `${esc(line.team.s)}: ${esc(line.zone.toLowerCase())} ${pctTxt(line.win)} with a win, ${pctTxt(line.loss)} with a loss`;
+  }
+  const meter = x.stakes != null ? `<span class="stakes" title="Stakes ${x.stakes} of 10${x.fav ? ' for your clubs' : ''}"><i style="width:${x.stakes * 10}%"></i></span><span class="tiny muted">${x.stakes}/10</span>` : '';
+  return `<div class="section"><h2>${title}</h2><span class="aside">${meter}${LEAGUES[x.k].tag}</span></div><div class="card">${matchRow(x.k, x.m, { withDay: true })}${why ? `<div class="small muted" style="padding:0 16px 12px 82px">${why}</div>` : ''}</div>`;
 }
 
 const blendLabel = L => `the betting line where there is one (${Math.round(L.P.mktW * 100)}% market)`;

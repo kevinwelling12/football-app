@@ -194,3 +194,6 @@ tr.me td.club span { font-weight: 600; }
 .ptr { position: fixed; left: 50%; margin-left: -18px; z-index: 19; width: 36px; height: 36px; border-radius: 50%; display: grid; place-items: center; background: var(--card); color: var(--muted); box-shadow: 0 2px 8px rgb(0 0 0 / .25); opacity: 0; pointer-events: none; transition: transform .15s; }
 .ptr.spin svg { animation: ptr-spin .8s linear infinite; }
 @keyframes ptr-spin { to { transform: rotate(360deg); } }
+.stakes { display: inline-block; width: 34px; height: 4px; border-radius: 2px; background: var(--card2); margin: 0 6px 0 0; vertical-align: 2px; overflow: hidden; }
+.stakes i { display: block; height: 100%; background: var(--muted); border-radius: 2px; }
+.section .aside .tiny.muted { margin-right: 8px; }

@@ -4,10 +4,11 @@ import { statuses, scenarios } from './clinch.js';
 import { LEAGUES } from './leagues.js';
 
 self.onmessage = e => {
-  const { id, L, entries, sims, live } = e.data, rules = LEAGUES[L.key];
+  const { id, L, entries, sims, live, favs = [] } = e.data, rules = LEAGUES[L.key];
+  const focus = L.teams.map((t, i) => (favs.includes(t.id) ? i : -1)).filter(i => i >= 0);
   try {
     const matches = prepare(L, entries, live);
-    const sim = simulate(L, rules, matches, { sims });
+    const sim = simulate(L, rules, matches, { sims, focus });
     const status = statuses(L, rules, matches, sim);
     // scenarios for every club whose place isn't settled yet (the page decides which are worth showing)
     const scen = [];

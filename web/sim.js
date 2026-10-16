@@ -238,7 +238,8 @@ export function mexTie(L, r, matches, lo, hi, final) {
 
 // ---------------------------------------------------------------- simulation
 // opts: {sims, seed}. Returns per-team distributions and zone/round probabilities.
-export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
+// focus: team indices (your clubs) whose chances are also tracked for every remaining match, for the match of the day/week
+export function simulate(L, rules, matches, { sims = 10000, seed = 7, focus = [] } = {}) {
   gridCache.clear();
   const r = rng(seed), N = L.teams.length, tb = rules.tiebreak;
   const reg = regular(matches);
@@ -264,6 +265,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
   const ZK = [...rules.zones.map(z => z.key), ...(rules.playoffs ? [OUT] : [])], Z = ZK.length;
   const inZ = new Uint8Array(Z * N), res = new Int8Array(rem.length);
   const cond = rem.map(() => new Float64Array(3 * 2 * Z));
+  const F = focus.length, condF = rem.map(() => new Float64Array(3 * F * Z));
   for (let s = 0; s < sims; s++) {
     for (let i = 0; i < N; i++) { pts[i] = base[i].pts; w[i] = base[i].w; gd[i] = base[i].gd; gf[i] = base[i].gf; agf[i] = base[i].awayGf; }
     for (let j = 0; j < rem.length; j++) {
@@ -297,6 +299,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
     for (let j = 0; j < rem.length; j++) {
       const c = cond[j], o = res[j] * 2 * Z, h = rem[j].h, a = rem[j].a;
       for (let zi = 0; zi < Z; zi++) { c[o + zi] += inZ[zi * N + h]; c[o + Z + zi] += inZ[zi * N + a]; }
+      if (F) { const cf = condF[j], of = res[j] * F * Z; for (let q = 0; q < F; q++) for (let zi = 0; zi < Z; zi++) cf[of + q * Z + zi] += inZ[zi * N + focus[q]]; }
     }
   }
   const f = x => x / sims;
@@ -320,7 +323,19 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7 } = {}) {
       if (sw >= 0.03) swings.push({ side, key: ZK[zi], H: +pr[0].toFixed(3), D: pr[1] == null ? null : +pr[1].toFixed(3), A: +pr[2].toFixed(3), sw: +sw.toFixed(3) });
     }
     swings.sort((x, y) => y.sw - x.sw);
-    return { id: m.id, p: Array.from(rc, f), imp: +imp.toFixed(4), swings: swings.slice(0, 4) };
+    // how much the result moves your clubs' chances (whether or not they play in it): spread across home win / draw /
+    // away win, weighted like imp; best = the single biggest move, for the card's line
+    let fimp = 0, best = null;
+    for (let q = 0; q < F; q++) for (let zi = 0; zi < Z; zi++) {
+      const pr = [0, 1, 2].map(o => (rc[o] >= 30 ? condF[j][o * F * Z + q * Z + zi] / rc[o] : null)), ok = pr.filter(x => x != null);
+      if (ok.length < 2) continue;
+      const sw = Math.max(...ok) - Math.min(...ok);
+      if (sw < 0.03) continue; // smaller moves are simulation noise
+      fimp += weight(ZK[zi]) * sw;
+      if (!best || sw > best.sw) best = { t: focus[q], key: ZK[zi], H: pr[0] == null ? null : +pr[0].toFixed(3), D: pr[1] == null ? null : +pr[1].toFixed(3), A: pr[2] == null ? null : +pr[2].toFixed(3), sw: +sw.toFixed(3) };
+    }
+    const fav = F ? { imp: +fimp.toFixed(4), best } : null;
+    return { id: m.id, p: Array.from(rc, f), imp: +imp.toFixed(4), swings: swings.slice(0, 4), fav };
   });
   return { sims, teams, fixtures, rounds: Object.keys(rounds) };
 }
