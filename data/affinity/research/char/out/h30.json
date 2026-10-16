@@ -1,0 +1,651 @@
+[
+ {
+  "id": "juan-manuel-sanabria",
+  "name": "Juan Manuel Sanabria",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Manuel_Sanabria"
+  ]
+ },
+ {
+  "id": "stijn-spierings",
+  "name": "Stijn Spierings",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stijn_Spierings"
+  ]
+ },
+ {
+  "id": "ethan-horvath",
+  "name": "Ethan Horvath",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one sending-off for a late challenge (2025, on loan at Sheffield Wednesday)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Horvath"
+  ]
+ },
+ {
+  "id": "cade-cowell",
+  "name": "Cade Cowell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cade_Cowell"
+  ]
+ },
+ {
+  "id": "jorge-ruvalcaba",
+  "name": "Jorge Ruvalcaba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorge_Ruvalcaba"
+  ]
+ },
+ {
+  "id": "tim-parker",
+  "name": "Tim Parker",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Parker_(soccer)"
+  ]
+ },
+ {
+  "id": "marcus-ingvartsen",
+  "name": "Marcus Ingvartsen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Ingvartsen"
+  ]
+ },
+ {
+  "id": "amahl-pellegrino",
+  "name": "Amahl Pellegrino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amahl_Pellegrino"
+  ]
+ },
+ {
+  "id": "nouhou-tolo",
+  "name": "Nouhou Tolo",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "July 2025 red for violent conduct (threw the ball at a fan), fined for a gesture at the referee",
+   "VO": "nothing notable found",
+   "CO": "fan favourite; no charity work found",
+   "HU": "known for on-pitch showmanship"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nouhou_Tolo"
+  ]
+ },
+ {
+  "id": "paul-arriola",
+  "name": "Paul Arriola",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Arriola"
+  ]
+ },
+ {
+  "id": "timo-baumgartl",
+  "name": "Timo Baumgartl",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "went public with his testicular cancer in 2022 and urges people to get checked",
+   "CO": "wrote to and supported other players with cancer (e.g. Haller)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timo_Baumgartl"
+  ]
+ },
+ {
+  "id": "richie-laryea",
+  "name": "Richie Laryea",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "known for physical duels and banter aimed at getting under opponents' skin",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Richie_Laryea"
+  ]
+ },
+ {
+  "id": "jonathan-osorio",
+  "name": "Jonathan Osorio",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "no cards or incidents on record; disputed a 2019 MLS Cup final collision",
+   "VO": "nothing notable found (general complaint about coverage of Canadians, neutral)",
+   "CO": "partners a Canadian-Colombian children's charity funding pitches in Colombia; gives SickKids tickets every home match",
+   "HU": "nothing notable found; calls playing for his hometown club a blessing"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Osorio"
+  ]
+ },
+ {
+  "id": "tristan-blackmon",
+  "name": "Tristan Blackmon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tristan_Blackmon"
+  ]
+ },
+ {
+  "id": "brian-white",
+  "name": "Brian White",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_White_(soccer)"
+  ]
+ },
+ {
+  "id": "andres-cubas",
+  "name": "Andrés Cubas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrés_Cubas"
+  ]
+ },
+ {
+  "id": "gisele-thompson",
+  "name": "Gisele Thompson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red for denying a goal chance at U-20 level; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gisele_Thompson"
+  ]
+ },
+ {
+  "id": "sarah-gorden",
+  "name": "Sarah Gorden",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "speaks on racism, knelt for BLM; as captain called a teammate's 2025 op-ed racist and transphobic",
+   "CO": "founded HoodSpace (2020), a mental-health nonprofit for girls of colour",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarah_Gorden"
+  ]
+ },
+ {
+  "id": "aldana-cometti",
+  "name": "Aldana Cometti",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aldana_Cometti"
+  ]
+ },
+ {
+  "id": "jorelyn-carabali",
+  "name": "Jorelyn Carabalí",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jorelyn_Carabalí"
+  ]
+ },
+ {
+  "id": "josefine-hasbo",
+  "name": "Josefine Hasbo",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 9.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "advocate for sports inclusion; board of the Danish players' union",
+   "CO": "board of Sport Creates Memories; co-founded a Ghana academy for low-income children and volunteers there",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josefine_Hasbo"
+  ]
+ },
+ {
+  "id": "sam-staab",
+  "name": "Sam Staab",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Staab"
+  ]
+ },
+ {
+  "id": "maitane",
+  "name": "Maitane",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maitane_López",
+   "https://es.wikipedia.org/wiki/Maitane_López"
+  ]
+ },
+ {
+  "id": "michelle-alozie",
+  "name": "Michelle Alozie",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "did not react after being stamped on at the 2023 World Cup; no cards on record",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found (works part-time as a cancer research technician)",
+   "HU": "publicly said she held no grudge and offered respect to Lauren James"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michelle_Alozie"
+  ]
+ },
+ {
+  "id": "kaleigh-kurtz",
+  "name": "Kaleigh Kurtz",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "committed no fouls over eight 2024 matches while one yellow from a ban",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaleigh_Kurtz"
+  ]
+ },
+ {
+  "id": "melissa-kossler",
+  "name": "Melissa Kössler",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melissa_Kössler"
+  ]
+ },
+ {
+  "id": "eva-gaetino",
+  "name": "Eva Gaetino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eva_Gaetino"
+  ]
+ },
+ {
+  "id": "savannah-mccaskill",
+  "name": "Savannah McCaskill",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Savannah_McCaskill"
+  ]
+ },
+ {
+  "id": "jordynn-dudley",
+  "name": "Jordynn Dudley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordynn_Dudley"
+  ]
+ },
+ {
+  "id": "maggie-graham",
+  "name": "Maggie Graham",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red for an obscene gesture at an opponent (2022 college)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maggie_Graham"
+  ]
+ },
+ {
+  "id": "kat-rader",
+  "name": "Kat Rader",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kat_Rader"
+  ]
+ },
+ {
+  "id": "danielle-colaprico",
+  "name": "Danielle Colaprico",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danielle_Colaprico"
+  ]
+ },
+ {
+  "id": "kayla-sharples",
+  "name": "Kayla Sharples",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kayla_Sharples"
+  ]
+ },
+ {
+  "id": "evelyn-ijeh",
+  "name": "Evelyn Ijeh",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Evelyn_Ijeh"
+  ]
+ },
+ {
+  "id": "haley-mccutcheon",
+  "name": "Haley McCutcheon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haley_McCutcheon"
+  ]
+ },
+ {
+  "id": "m-a-vignola",
+  "name": "M.A. Vignola",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mary_Alice_Vignola"
+  ]
+ }
+]

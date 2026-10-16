@@ -1,0 +1,591 @@
+[
+ {
+  "id": "baboucarr-njie",
+  "name": "Baboucarr Njie",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Gambia",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Atlanta United 2",
+   "Rio Grande Valley FC",
+   "Phoenix Rising",
+   "Oakland Roots",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "loic-mesanvi",
+  "name": "Loïc Mesanvi",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Togo",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Minneapolis City",
+   "Minnesota United FC 2",
+   "Minnesota United",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anthony-herbert",
+  "name": "Anthony Herbert",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Trinidad and Tobago",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Haka",
+   "New Mexico United",
+   "Las Vegas Lights",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alejandro-mitrano",
+  "name": "Alejandro Mitrano",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Venezuela",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Zemplín Michalovce",
+   "Deportivo Petare",
+   "Monagas",
+   "Las Vegas Lights",
+   "Miami FC",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia has him Venezuelan; same Indy Eleven left-back, age matches."
+ },
+ {
+  "id": "mohamed-omar",
+  "name": "Mohamed Omar",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Somalia",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Toronto FC III",
+   "HFX Wanderers",
+   "San Antonio FC",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Born in Toronto; plays for Somalia."
+ },
+ {
+  "id": "thomas-presthus",
+  "name": "Thomas Presthus",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; scholar All-American",
+  "notes": "No incident codes. Goes by TJ Presthus."
+ },
+ {
+  "id": "josh-o-brien",
+  "name": "Josh O'Brien",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Republic of Ireland",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Watford",
+   "Salford City",
+   "Hamilton Academical",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. identity: ESPN lists England; Wikipedia has him born in Dublin, Ireland; same Indy Eleven player, age matches."
+ },
+ {
+  "id": "joe-hafferty",
+  "name": "Joe Hafferty",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Seattle Sounders FC 2",
+   "Tacoma Defiance",
+   "Austin FC II",
+   "Las Vegas Lights",
+   "Lexington SC",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. On loan at Indy Eleven from Lexington SC since August 2026."
+ },
+ {
+  "id": "julian-bravo",
+  "name": "Julian Bravo",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Portland Timbers 2",
+   "Crown Legacy FC",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cobi-jones",
+  "name": "Cobi Jones",
+  "gender": "M",
+  "active": false,
+  "born": 1970,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Coventry City",
+   "Vasco da Gama",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incidents. Recount: major_trophies 4: MLS Cups 2002/2005, CONCACAF Champions' Cup 2000, Gold Cup 2002."
+ },
+ {
+  "id": "alexander-meyer",
+  "name": "Alexander Meyer",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Hamburger SV",
+   "TSV Havelse",
+   "Energie Cottbus",
+   "VfB Stuttgart",
+   "Jahn Regensburg",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "ian-smith",
+  "name": "Ian Smith",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Denver Pioneers (college)",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carl-klaus",
+  "name": "Carl Klaus",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "VfL Wolfsburg II",
+   "Stuttgarter Kickers",
+   "Atlético Baleares",
+   "SV Darmstadt 98",
+   "1. FC Nürnberg",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "louis-lemke",
+  "name": "Louis Lemke",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "Germany",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mick-schmetgens",
+  "name": "Mick Schmetgens",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Germany",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tomas-jacob",
+  "name": "Tomás Jacob",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Argentina",
+  "current_club": "Atlanta United",
+  "career": [
+   "Newell's Old Boys",
+   "Necaxa",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elias-baez",
+  "name": "Elías Baez",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Argentina",
+  "current_club": "Atlanta United",
+  "career": [
+   "San Lorenzo",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-edwards",
+  "name": "Matt Edwards",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Atlanta United",
+  "career": [
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jay-fortune",
+  "name": "Jay Fortune",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Trinidad and Tobago",
+  "current_club": "Atlanta United",
+  "career": [
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "will-reilly",
+  "name": "Will Reilly",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Atlanta United",
+  "career": [
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luke-brennan",
+  "name": "Luke Brennan",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Atlanta United",
+  "career": [
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. identity: ESPN lists England, age 24; the Atlanta United Luke Brennan on Wikipedia is American (Delaware Nation), born 2005. The English Luke Brennan (b. 2001) plays for Scunthorpe."
+ },
+ {
+  "id": "noah-streit",
+  "name": "Noah Streit",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Switzerland",
+  "current_club": "CF Montréal",
+  "career": [
+   "Neuchâtel Xamax",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jackson-travis",
+  "name": "Jackson Travis",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; homegrown signing (2022) and 2025 Birmingham Legion loan from Wikipedia lists; birth year estimated from ESPN age."
+ },
+ {
+  "id": "tarun-karumanchi",
+  "name": "Tarun Karumanchi",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nikola-markovic",
+  "name": "Nikola Markovic",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Canada",
+  "current_club": "D.C. United",
+  "career": [
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kenji-mboma-dem",
+  "name": "Kenji Mboma Dem",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "agustin-resch",
+  "name": "Agustín Resch",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Argentina",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harbor-miller",
+  "name": "Harbor Miller",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "LA Galaxy",
+  "career": [
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alejandro-alvarado-jr",
+  "name": "Alejandro Alvarado Jr.",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "LA Galaxy II",
+   "Vizela",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-skahan",
+  "name": "Jack Skahan",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nick-fernandez",
+  "name": "Nick Fernandez",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "snyder-brunell",
+  "name": "Snyder Brunell",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-kingston",
+  "name": "Peter Kingston",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Ballard FC",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "taylor-calheira",
+  "name": "Taylor Calheira",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "FC Tulsa",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jacob-bartlett",
+  "name": "Jacob Bartlett",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kwaku-agyabeng",
+  "name": "Kwaku Agyabeng",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Ghana",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ }
+]

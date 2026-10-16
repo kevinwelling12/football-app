@@ -1,0 +1,618 @@
+[
+ {
+  "id": "justin-reynolds",
+  "name": "Justin Reynolds",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Chicago Fire",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jaziel-orozco",
+  "name": "Jaziel Orozco",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Real Salt Lake",
+   "Larne",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. Born in Ciudad Juárez, raised in El Paso; Wikipedia gives Mexican nationality, ESPN USA."
+ },
+ {
+  "id": "zane-monlouis",
+  "name": "Zane Monlouis",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Jamaica",
+  "current_club": "Toronto FC",
+  "career": [
+   "Arsenal",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. Wikipedia: English-born of Jamaican descent (Jamaica U23 camp); ESPN lists Jamaica."
+ },
+ {
+  "id": "emilio-aristizabal",
+  "name": "Emilio Aristizábal",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Colombia",
+  "current_club": "Toronto FC",
+  "career": [
+   "Atlético Nacional",
+   "Fortaleza CEIF",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. On loan from Atlético Nacional."
+ },
+ {
+  "id": "jackson-gilman",
+  "name": "Jackson Gilman",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Toronto FC",
+  "career": [
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tobias-schutzenauer",
+  "name": "Tobias Schützenauer",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "Sturm Graz",
+   "SCR Altach",
+   "Dinamo Tbilisi",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-nwachukwu",
+  "name": "Christian Nwachukwu",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Nigeria",
+  "current_club": "Sabah",
+  "career": [
+   "Botev Plovdiv",
+   "Sheffield United",
+   "Serikspor",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "junior-almeida",
+  "name": "Júnior Almeida",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Sabah",
+  "career": [
+   "Novorizontino",
+   "Catanduva",
+   "Votuporanguense",
+   "Estrela da Amadora",
+   "Marítimo",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes. Identity: Wikipedia lists him as Erivaldo Almeida (full name Erivaldo Almeida Santos Junior), Sabah No. 33; age and nation match ESPN."
+ },
+ {
+  "id": "oskar-kubiak",
+  "name": "Oskar Kubiak",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Poland",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Wda Świecie",
+   "Arka Gdynia",
+   "Sokół Kleczew",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mikulas-konecny",
+  "name": "Mikulás Konecny",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Slavia Prague",
+   "FK Pardubice (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Search snippets (TN.cz, Livesport) report a stoppage-time red in the July 2026 league opener vs Slovácko for stepping on Michal Trávník, right after being fouled himself; the reports could not be opened, so it is not confirmed as violent conduct and not coded. Straight red vs Lens (UCL, 10 Sep 2026) was for a foul outside the box, not violent conduct."
+ },
+ {
+  "id": "tobias-moi",
+  "name": "Tobias Moi",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "seth-antwi",
+  "name": "Seth Antwi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ghana",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia page; born year from a search snippet (consistent with ESPN age), previously St. Louis City 2."
+ },
+ {
+  "id": "gevork-diarbian",
+  "name": "Gevork Diarbian",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Born year from ESPN age (article says 24)."
+ },
+ {
+  "id": "sebastian-tregarthen",
+  "name": "Sebastian Tregarthen",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Uruguay",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Join year inferred (previous club Asheville City SC 2024)."
+ },
+ {
+  "id": "bryce-washington",
+  "name": "Bryce Washington",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Loudoun United",
+   "North Carolina FC",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-mcillhatton",
+  "name": "Samuel McIllhatton",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Australia",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Sydney Olympic",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "identity: ESPN lists age 28; club profile gives born 30 March 2002 (24). Only Sam McIllhatton at Birmingham Legion, used that. No incident codes."
+ },
+ {
+  "id": "amir-daley",
+  "name": "Amir Daley",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "FC Cincinnati",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Club profile lists Antigua and Barbuda (hometown Elmont, NY); ESPN lists USA. Age matches."
+ },
+ {
+  "id": "christopher-olney",
+  "name": "Christopher Olney",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Brooklyn FC (loan from Philadelphia Union)",
+  "career": [
+   "Brooklyn FC (loan from Philadelphia Union)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Listed as CJ Olney on loan from Philadelphia Union; no Wikipedia article; birth year from ESPN age."
+ },
+ {
+  "id": "stefan-stojanovic",
+  "name": "Stefan Stojanovic",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Philadelphia Union II",
+   "FC Tulsa",
+   "Las Vegas Lights",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. identity: ESPN lists Serbia, age 29; the Brooklyn FC No. 19 per Wikipedia is American, born 2001."
+ },
+ {
+  "id": "callum-frogson",
+  "name": "Callum Frogson",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "England",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the squad listing; birth year from ESPN age."
+ },
+ {
+  "id": "brennan-creek",
+  "name": "Brennan Creek",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Huntsville City FC",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. No Wikipedia page; club signing release used."
+ },
+ {
+  "id": "samuel-williams",
+  "name": "Samuel Williams",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks (loan)",
+  "career": [
+   "New York Red Bulls II",
+   "Chicago Fire FC",
+   "Colorado Springs Switchbacks (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia title is 'Sam Williams (soccer)'; on loan from Chicago Fire."
+ },
+ {
+  "id": "frank-daroma",
+  "name": "Frank Daroma",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Sierra Leone",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Las Vegas Lights",
+   "Tacoma Defiance",
+   "El Paso Locomotive",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sadam-masereka",
+  "name": "Sadam Masereka",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Uganda",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found; coach praised how he responded to a poor game",
+  "notes": "No incident codes. No Wikipedia page; birth year estimated from ESPN age 22."
+ },
+ {
+  "id": "derrick-silva",
+  "name": "Derrick Silva",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "FC Tucson",
+   "Real Salt Lake",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Goes by Tommy Silva."
+ },
+ {
+  "id": "alex-dalou",
+  "name": "Alex Dalou",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Achyronas Liopetriou",
+   "Gold Star Detroit",
+   "Albion San Diego",
+   "FC Tulsa",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ricky-ruiz",
+  "name": "Ricky Ruiz",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Los Angeles Force",
+   "Chattanooga Red Wolves",
+   "Rio Grande Valley FC",
+   "Chattanooga Red Wolves",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alvaro-quezada",
+  "name": "Álvaro Quezada",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Los Angeles FC",
+   "Las Vegas Lights",
+   "Memphis 901",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "roberto-avila",
+  "name": "Roberto Avila",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Austin Bold",
+   "FC Edmonton",
+   "Houston Dynamo",
+   "Charleston Battery",
+   "Sporting Kansas City II",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-cardona",
+  "name": "Nicolás Cardona",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Puerto Rico",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Almenara Atlètic",
+   "UB Conquense",
+   "Hartford Athletic",
+   "Chattanooga Red Wolves",
+   "Miami FC",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeorgio-kocevski",
+  "name": "Jeorgio Kocevski",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Orlando City",
+   "Ventura County FC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-stauffer",
+  "name": "Lucas Stauffer",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Wacker Nordhausen",
+   "Carl Zeiss Jena",
+   "Las Vegas Lights",
+   "El Paso Locomotive",
+   "Lexington SC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lamar-batista",
+  "name": "Lamar Batista",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "North Texas SC",
+   "Colorado Springs Switchbacks",
+   "Rochester New York FC",
+   "San Antonio FC",
+   "North Carolina FC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dane-jacomen",
+  "name": "Dane Jacomen",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Loudoun United",
+   "Charlotte Independence",
+   "Westchester SC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bailey-sparks",
+  "name": "Bailey Sparks",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Sporting Kansas City II",
+   "Inter Miami CF II",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. No Wikipedia page; birth year inferred from ages given by FC Tulsa (22 in Jan 2026, 16 in Sep 2020)."
+ },
+ {
+  "id": "logan-dorsey",
+  "name": "Logan Dorsey",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Minnesota United FC 2",
+   "Rhode Island FC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. No Wikipedia page; birth year from ESPN age (24); earlier career not found."
+ }
+]

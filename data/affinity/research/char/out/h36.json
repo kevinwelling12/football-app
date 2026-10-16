@@ -1,0 +1,652 @@
+[
+ {
+  "id": "frank-onyeka",
+  "name": "Frank Onyeka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "gave ₦1m and kits to grassroots clubs in hometown Isuochi (2025)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Onyeka",
+   "https://blueprint.ng/super-eagles-midfielder-boosts-grassroots-football-clubs-with-%e2%82%a61m/"
+  ]
+ },
+ {
+  "id": "aurele-amenda",
+  "name": "Aurèle Amenda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aurèle_Amenda"
+  ]
+ },
+ {
+  "id": "loum-tchaouna",
+  "name": "Loum Tchaouna",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loum_Tchaouna"
+  ]
+ },
+ {
+  "id": "jaydee-canvot",
+  "name": "Jaydee Canvot",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "criticised for celebrating a wrongly shown red card to an opponent (March 2026)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaydee_Canvot"
+  ]
+ },
+ {
+  "id": "tyrique-george",
+  "name": "Tyrique George",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrique_George"
+  ]
+ },
+ {
+  "id": "merlin-rohl",
+  "name": "Merlin Röhl",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Merlin_Röhl"
+  ]
+ },
+ {
+  "id": "josh-king",
+  "name": "Josh King",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_King_(footballer,_born_2007)"
+  ]
+ },
+ {
+  "id": "shea-charles",
+  "name": "Shea Charles",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one second-yellow red (2023); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shea_Charles"
+  ]
+ },
+ {
+  "id": "david-affengruber",
+  "name": "David Affengruber",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Affengruber_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "ryan-sessegnon",
+  "name": "Ryan Sessegnon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Sessegnon"
+  ]
+ },
+ {
+  "id": "john-egan",
+  "name": "John Egan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "Sheffield United Community Player of the Year 2019–20 and 2020–21",
+   "HU": "long-time club and Ireland captain; nothing notable on humility"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/John_Egan_(footballer,_born_1992)"
+  ]
+ },
+ {
+  "id": "semi-ajayi",
+  "name": "Semi Ajayi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Semi_Ajayi"
+  ]
+ },
+ {
+  "id": "oliver-mcburnie",
+  "name": "Oliver McBurnie",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "FA warning over a gesture to Cardiff fans (2020); acquitted of assault after a 2022 pitch invasion",
+   "VO": "nothing notable found",
+   "CO": "offered to pay for a young Swansea fan's funeral (2021)",
+   "HU": "drink-driving conviction (2020); questions over Scotland commitment"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oli_McBurnie"
+  ]
+ },
+ {
+  "id": "nobel-mendy",
+  "name": "Nobel Mendy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nobel_Mendy"
+  ]
+ },
+ {
+  "id": "sorba-thomas",
+  "name": "Sorba Thomas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sorba_Thomas"
+  ]
+ },
+ {
+  "id": "lucas-herrington",
+  "name": "Lucas Herrington",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Herrington"
+  ]
+ },
+ {
+  "id": "lucas-gourna-douath",
+  "name": "Lucas Gourna-Douath",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Gourna-Douath"
+  ]
+ },
+ {
+  "id": "mohamed-ali-cho",
+  "name": "Mohamed-Ali Cho",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohamed-Ali_Cho"
+  ]
+ },
+ {
+  "id": "dara-o-shea",
+  "name": "Dara O'Shea",
+  "SP": 8.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "not booked in 4,140 Championship minutes as a centre-back (2025–26)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "captain; measured reaction to promotion, stayed after relegation"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dara_O'Shea",
+   "https://www.irishtimes.com/sport/2026/05/07/how-on-earth-do-you-get-through-4140-championship-minutes-without-being-booked/"
+  ]
+ },
+ {
+  "id": "leif-davis",
+  "name": "Leif Davis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leif_Davis"
+  ]
+ },
+ {
+  "id": "fatawu-issahaku",
+  "name": "Fatawu Issahaku",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdul_Fatawu_Issahaku"
+  ]
+ },
+ {
+  "id": "kjell-scherpen",
+  "name": "Kjell Scherpen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kjell_Scherpen"
+  ]
+ },
+ {
+  "id": "jacob-greaves",
+  "name": "Jacob Greaves",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Greaves"
+  ]
+ },
+ {
+  "id": "jack-clarke",
+  "name": "Jack Clarke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Clarke_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "marcelino-nunez",
+  "name": "Marcelino Núñez",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "posed with a banner mocking a Norwich fan after the derby (Oct 2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "same derby taunt of his former club's fans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcelino_Núñez"
+  ]
+ },
+ {
+  "id": "lewis-miley",
+  "name": "Lewis Miley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "boyhood fan from County Durham; nothing notable on humility"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Miley"
+  ]
+ },
+ {
+  "id": "jacob-murphy",
+  "name": "Jacob Murphy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "mocked loan club Blackpool's form on Snapchat (2014), apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Murphy"
+  ]
+ },
+ {
+  "id": "bazoumana-toure",
+  "name": "Bazoumana Touré",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bazoumana_Touré"
+  ]
+ },
+ {
+  "id": "james-mcatee",
+  "name": "James McAtee",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_McAtee"
+  ]
+ },
+ {
+  "id": "nilson-angulo",
+  "name": "Nilson Angulo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nilson_Angulo"
+  ]
+ },
+ {
+  "id": "danny-ballard",
+  "name": "Danny Ballard",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dan_Ballard_(footballer)"
+  ]
+ },
+ {
+  "id": "trai-hume",
+  "name": "Trai Hume",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one disputed U21 red card (2021); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trai_Hume"
+  ]
+ },
+ {
+  "id": "antonin-kinsky",
+  "name": "Antonín Kinsky",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card and four-match ban at Pardubice (2023)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antonín_Kinský_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "id": "enea-mihaj",
+  "name": "Enea Mihaj",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enea_Mihaj"
+  ]
+ },
+ {
+  "id": "steven-alzate",
+  "name": "Steven Alzate",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steven_Alzate"
+  ]
+ },
+ {
+  "id": "guilherme-biro",
+  "name": "Guilherme Biro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guilherme_Biro_(footballer,_born_2000)"
+  ]
+ }
+]

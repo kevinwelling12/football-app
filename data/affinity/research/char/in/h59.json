@@ -1,0 +1,653 @@
+[
+ {
+  "id": "james-murphy",
+  "name": "James Murphy",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Arbroath",
+   "Rio Grande Valley FC",
+   "Monterey Bay FC",
+   "Detroit City FC",
+   "Indy Eleven",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pacifique-niyongabire",
+  "name": "Pacifique Niyongabire",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Burundi",
+  "current_club": "Loudoun United",
+  "career": [
+   "Adelaide United",
+   "Perth Glory",
+   "Valour FC",
+   "Tampa Bay Rowdies",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-torres",
+  "name": "Christian Torres",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Mexico",
+  "current_club": "Loudoun United",
+  "career": [
+   "Los Angeles FC",
+   "Las Vegas Lights",
+   "LAFC 2",
+   "Tapatío",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes. US-born, Mexico youth international; at Loudoun on loan from Tapatío."
+ },
+ {
+  "id": "sean-young",
+  "name": "Sean Young",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "Loudoun United",
+  "career": [
+   "Pacific FC",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chris-donovan",
+  "name": "Chris Donovan",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Philadelphia Union",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jansen-wilson",
+  "name": "Jansen Wilson",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aiden-mcfadden",
+  "name": "Aiden Mcfadden",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Atlanta United",
+   "Memphis 901",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jake-morris",
+  "name": "Jake Morris",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Columbus Crew",
+   "Loudoun United",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes. identity: ESPN lists England, age 19; the Jake Morris in Louisville's squad is American, born 1999."
+ },
+ {
+  "id": "zach-duncan",
+  "name": "Zach Duncan",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Australia",
+  "current_club": "Louisville City",
+  "career": [
+   "Brisbane Roar",
+   "AGF",
+   "Perth Glory",
+   "Memphis 901",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "manny-perez",
+  "name": "Manny Perez",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "North Carolina FC",
+   "Austin FC",
+   "Louisville City",
+   "AC Horsens",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mukwelle-akale",
+  "name": "Mukwelle Akale",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Villarreal C",
+   "Villarreal B",
+   "Pafos",
+   "South Georgia Tormenta",
+   "New Mexico United",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tola-showunmi",
+  "name": "Tola Showunmi",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Louisville City",
+  "career": [
+   "Pittsburgh Riverhounds",
+   "Louisville City",
+   "Crawley Town",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alessandro-milesi",
+  "name": "Alessandro Milesi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Peru",
+  "current_club": "Miami FC",
+  "career": [
+   "Sliema Wanderers",
+   "Universidad San Martín",
+   "Atlético Grau",
+   "Alianza Atlético",
+   "Cusco FC",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mason-tunbridge",
+  "name": "Mason Tunbridge",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Miami FC",
+  "career": [
+   "South Georgia Tormenta",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Born year estimated from ESPN age 25."
+ },
+ {
+  "id": "gerald-diaz",
+  "name": "Gerald Díaz",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Puerto Rico",
+  "current_club": "Miami FC",
+  "career": [
+   "Bayamón FC",
+   "Vilamarxant",
+   "Bayamón FC",
+   "Buñol",
+   "Academia Quintana",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arthur-rogers",
+  "name": "Arthur Rogers",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "England",
+  "current_club": "Miami FC",
+  "career": [
+   "Corpus Christi FC",
+   "Hartford Athletic",
+   "Northern Colorado Hailstorm",
+   "FC Tulsa",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paul-gindiri",
+  "name": "Paul Gindiri",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Real Salt Lake",
+   "Real Monarchs",
+   "Larne",
+   "Ventura County FC",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia page is under his full name, Ilijah Paul."
+ },
+ {
+  "id": "nico-gordon",
+  "name": "Nico Gordon",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Montserrat",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Birmingham City",
+   "North Texas SC",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ousman-jabang",
+  "name": "Ousman Jabang",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "CF Montréal",
+   "Las Vegas Lights",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "niall-reid-stephen",
+  "name": "Niall Reid-Stephen",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Barbados",
+  "current_club": "New Mexico United",
+  "career": [
+   "UWI Blackbirds",
+   "Appalachian FC",
+   "Asheville City SC",
+   "Tormenta FC",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "valentin-noel",
+  "name": "Valentin Noël",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "New Mexico United",
+  "career": [
+   "Chamois Niortais",
+   "Austin FC II",
+   "Las Vegas Lights",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dayonn-harris",
+  "name": "Dayonn Harris",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "New Mexico United",
+  "career": [
+   "Vaughan Azzurri",
+   "Real Monarchs",
+   "Tampa Bay Rowdies",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; came back from ACL injury",
+  "notes": "No incident codes. Canadian-born, plays internationally for Antigua and Barbuda."
+ },
+ {
+  "id": "michael-edwards",
+  "name": "Michael Edwards",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "VfL Wolfsburg II",
+   "Colorado Rapids",
+   "San Antonio FC",
+   "Charleston Battery",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thomas-mccabe",
+  "name": "Thomas McCabe",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "FC Cincinnati",
+   "Orange County SC",
+   "Detroit City FC",
+   "FC Tulsa",
+   "Loudoun United",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kendall-mcintosh",
+  "name": "Kendall McIntosh",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Portland Timbers 2",
+   "New York Red Bulls",
+   "Sporting Kansas City",
+   "San Antonio FC",
+   "Oakland Roots"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "Red Bulls Humanitarian of the Year for anti-racism work and fundraising",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyler-gibson",
+  "name": "Tyler Gibson",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "San Francisco Deltas",
+   "FC Cincinnati",
+   "Indy Eleven",
+   "Louisville City",
+   "Indy Eleven",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "faysal-bettache",
+  "name": "Faysal Bettache",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Queens Park Rangers",
+   "St. Louis City 2",
+   "Tacoma Defiance",
+   "FC Tulsa",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tom-brewitt",
+  "name": "Tom Brewitt",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Orange County SC",
+  "career": [
+   "AFC Fylde",
+   "Morecambe",
+   "Tacoma Defiance",
+   "Hartford Athletic",
+   "Swindon Town",
+   "Orange County SC"
+  ],
+  "CH_now": 3.5,
+  "CH_why": "admitted in 2020 deliberately injuring Liverpool youth teammate Daniel Cleary in training; Cleary sued him in 2024",
+  "notes": "No incident codes; deliberate training-ground injury of teammate Daniel Cleary (admitted on a podcast in 2020, civil claim filed 2024, outcome not found) reflected in CH."
+ },
+ {
+  "id": "alexander-rando",
+  "name": "Alexander Rando",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Las Vegas Lights",
+   "New York City FC II",
+   "New York City FC",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christopher-hegardt",
+  "name": "Christopher Hegardt",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Tacoma Defiance",
+   "Charlotte FC",
+   "Stabæk",
+   "Orange County SC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "beat childhood liver cancer and a liver transplant to turn pro; otherwise little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nico-benalcazar",
+  "name": "Nico Benalcazar",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "New York City FC",
+   "New York City FC II",
+   "FC Cincinnati 2",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lyam-mackinnon",
+  "name": "Lyam Mackinnon",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Switzerland",
+  "current_club": "Orange County SC",
+  "career": [
+   "Greenville Triumph",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "garrison-tubbs",
+  "name": "Garrison Tubbs",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Atlanta United 2",
+   "D.C. United",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ousmane-sylla",
+  "name": "Ousmane Sylla",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Senegal",
+  "current_club": "Orange County SC",
+  "career": [
+   "Houston Dynamo",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yaniv-bazini",
+  "name": "Yaniv Bazini",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Israel",
+  "current_club": "Orange County SC",
+  "career": [
+   "Tormenta FC",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-doghman",
+  "name": "Ryan Doghman",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Norway",
+  "current_club": "Orange County SC",
+  "career": [
+   "Raufoss",
+   "Åsane",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

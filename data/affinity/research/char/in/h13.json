@@ -1,0 +1,661 @@
+[
+ {
+  "id": "sandro-tonali",
+  "name": "Sandro Tonali",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Italy",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Brescia",
+   "AC Milan",
+   "Newcastle United",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "10-month ban in 2023 for betting on matches, incl. his own clubs'; underwent gambling treatment and returned",
+  "notes": "No incident codes; betting-rule breaches (2023 Italian ban, FA suspended ban) noted under Character."
+ },
+ {
+  "id": "pedro-porro",
+  "name": "Pedro Porro",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Girona",
+   "Manchester City",
+   "Real Valladolid",
+   "Sporting CP",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emil-forsberg",
+  "name": "Emil Forsberg",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Sweden",
+  "current_club": "Red Bull New York",
+  "career": [
+   "GIF Sundsvall",
+   "Malmö FF",
+   "RB Leipzig",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes on record; one violent-conduct red",
+  "notes": "red_card_violence 1: sent off and banned three matches in 2018 for striking a Hoffenheim player in the neck while breaking free of a challenge (he disputed it)."
+ },
+ {
+  "id": "timo-werner",
+  "name": "Timo Werner",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "VfB Stuttgart",
+   "RB Leipzig",
+   "Chelsea",
+   "RB Leipzig",
+   "Tottenham Hotspur",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "2016 dive vs Schalke, later said sorry; otherwise no issues",
+  "notes": "No incident codes. 2016 dive to win a penalty against Schalke noted in CH."
+ },
+ {
+  "id": "guro-reiten",
+  "name": "Guro Reiten",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Norway",
+  "current_club": "Gotham FC",
+  "career": [
+   "Sunndal",
+   "Kattem",
+   "Trondheims-Ørn",
+   "LSK Kvinner",
+   "Chelsea",
+   "Gotham FC"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "spoke publicly as a lesbian after the Oslo shooting; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ademola-lookman",
+  "name": "Ademola Lookman",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Nigeria",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Everton",
+   "RB Leipzig",
+   "Fulham",
+   "Leicester City",
+   "Atalanta",
+   "Atlético Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "skipped training in 2025 to push an Inter move; otherwise no issues",
+  "notes": "forced_transfer: submitted a transfer request and skipped Atalanta training in 2025 to push a move to Inter (move refused; he returned)."
+ },
+ {
+  "id": "alejandro-grimaldo",
+  "name": "Alejandro Grimaldo",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Benfica",
+   "Bayer Leverkusen",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "milan-skriniar",
+  "name": "Milan Skriniar",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Slovakia",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Žilina",
+   "Sampdoria",
+   "Inter Milan",
+   "Paris Saint-Germain",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no incidents; lost Inter armband after agreeing PSG pre-contract",
+  "notes": "No incident codes; left Inter as a free agent in 2023 (pre-contract with PSG), not a forced move."
+ },
+ {
+  "id": "manuel-akanji",
+  "name": "Manuel Akanji",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Switzerland",
+  "current_club": "Internazionale",
+  "career": [
+   "Winterthur",
+   "Basel",
+   "Borussia Dortmund",
+   "Manchester City",
+   "Internazionale"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no known issues; quiet pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "piotr-zielinski",
+  "name": "Piotr Zielinski",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Poland",
+  "current_club": "Internazionale",
+  "career": [
+   "Udinese",
+   "Empoli",
+   "Napoli",
+   "Internazionale"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "funds children's homes; fair-play award",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-pavard",
+  "name": "Benjamin Pavard",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "France",
+  "current_club": "Internazionale",
+  "career": [
+   "Lille",
+   "VfB Stuttgart",
+   "Bayern Munich",
+   "Internazionale",
+   "Marseille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no known issues",
+  "notes": "No incident codes. Wikipedia lists a 2025-26 loan to Marseille; ESPN shows him back at Inter."
+ },
+ {
+  "id": "willian-pacho",
+  "name": "Willian Pacho",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Ecuador",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Independiente del Valle",
+   "Royal Antwerp",
+   "Eintracht Frankfurt",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "george-best",
+  "name": "George Best",
+  "gender": "M",
+  "active": false,
+  "born": 1946,
+  "nation": "Northern Ireland",
+  "current_club": null,
+  "career": [
+   "Manchester United",
+   "Fulham",
+   "LA Aztecs",
+   "Hibernian",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 4.25,
+  "CH_why": "walked out on club, drink-driving and assault on police",
+  "notes": "1984 convicted of drink-driving and assaulting a police officer (3 months jail); ex-wife and 2005 allegations, no charges. Recount: red_card_violence 0: 1984 assault on a police officer was off-pitch (already in criminal_other)."
+ },
+ {
+  "id": "rivaldo",
+  "name": "Rivaldo",
+  "gender": "M",
+  "active": false,
+  "born": 1972,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Deportivo La Coruña",
+   "Barcelona",
+   "AC Milan",
+   "Olympiacos",
+   "Bunyodkor",
+   "Mogi Mirim"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "notorious 2002 face-clutching dive",
+  "notes": "No incident codes. Feigned being hit in the face vs Turkey 2002, fined by FIFA. Clubs per research list (later minor clubs omitted)."
+ },
+ {
+  "id": "kaka",
+  "name": "Kaká",
+  "gender": "M",
+  "active": false,
+  "born": 1982,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "São Paulo",
+   "AC Milan",
+   "Real Madrid",
+   "AC Milan",
+   "São Paulo",
+   "Orlando City"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "humble, WFP ambassador",
+  "notes": "UN World Food Programme ambassador."
+ },
+ {
+  "id": "roberto-baggio",
+  "name": "Roberto Baggio",
+  "gender": "M",
+  "active": false,
+  "born": 1967,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Fiorentina",
+   "Juventus",
+   "AC Milan",
+   "Bologna",
+   "Inter Milan",
+   "Brescia"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "humble, refused penalty vs Fiorentina, rights advocacy",
+  "notes": "No incidents. Sold Fiorentina to Juventus 1990 against his will; FAO goodwill ambassador; advocacy for Aung San Suu Kyi."
+ },
+ {
+  "id": "franco-baresi",
+  "name": "Franco Baresi",
+  "gender": "M",
+  "active": false,
+  "born": 1960,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "AC Milan"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "xavi",
+  "name": "Xavi",
+  "gender": "M",
+  "active": false,
+  "born": 1980,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "Al Sadd"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "outspoken, minus defence of Qatar (ambassadorship handled separately)",
+  "notes": "Joined Al Sadd (Qatar) 2015, later coached there; Qatar 2022 ambassador; defended Qatar's system in 2019 interview."
+ },
+ {
+  "id": "andres-iniesta",
+  "name": "Andrés Iniesta",
+  "gender": "M",
+  "active": false,
+  "born": 1984,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "Vissel Kobe",
+   "Emirates Club"
+  ],
+  "CH_now": 8.75,
+  "CH_why": "humble, mental-health openness, ovations from rival fans",
+  "notes": "No incidents; final season at UAE club Emirates Club (2023-24)."
+ },
+ {
+  "id": "zico",
+  "name": "Zico",
+  "gender": "M",
+  "active": false,
+  "born": 1953,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Flamengo",
+   "Udinese",
+   "Flamengo",
+   "Kashima Antlers"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "michelle-akers",
+  "name": "Michelle Akers",
+  "gender": "W",
+  "active": false,
+  "born": 1966,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Tyresö FF"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "humble pioneer",
+  "notes": "No incidents. FIFA Female Player of the Century (shared). Club career records incomplete (only Tyresö 1990-92 listed)."
+ },
+ {
+  "id": "sun-wen",
+  "name": "Sun Wen",
+  "gender": "W",
+  "active": false,
+  "born": 1973,
+  "nation": "China",
+  "current_club": null,
+  "career": [
+   "Shanghai",
+   "Atlanta Beat"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, few causes",
+  "notes": ""
+ },
+ {
+  "id": "abby-dahlkemper",
+  "name": "Abby Dahlkemper",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "North Carolina Courage",
+   "Manchester City",
+   "San Diego Wave",
+   "Bay FC"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "equal-pay plaintiff, humble",
+  "notes": "No incidents; 2019 USWNT equal-pay plaintiff; played for Abu Dhabi-owned Man City 2020-22."
+ },
+ {
+  "id": "giovanni-di-lorenzo",
+  "name": "Giovanni Di Lorenzo",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Italy",
+  "current_club": "Napoli",
+  "career": [
+   "Matera",
+   "Empoli",
+   "Napoli"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "humble, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kenan-yldz",
+  "name": "Kenan Yıldız",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Turkey",
+  "current_club": "Juventus",
+  "career": [
+   "Juventus"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues of note",
+  "notes": ""
+ },
+ {
+  "id": "ruud-gullit",
+  "name": "Ruud Gullit",
+  "gender": "M",
+  "active": false,
+  "born": 1962,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "PSV",
+   "AC Milan",
+   "Sampdoria",
+   "AC Milan",
+   "Sampdoria",
+   "Chelsea"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "anti-apartheid and anti-racism voice, Kadyrov-owned Terek coaching job a mark",
+  "notes": "No incident codes. Dedicated 1987 Ballon d'Or to Nelson Mandela; anti-racism campaigner; coached Terek Grozny (owned by Ramzan Kadyrov) 2011."
+ },
+ {
+  "id": "lothar-matthaus",
+  "name": "Lothar Matthäus",
+  "gender": "M",
+  "active": false,
+  "born": 1961,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Borussia Mönchengladbach",
+   "Bayern Munich",
+   "Inter Milan",
+   "Bayern Munich",
+   "MetroStars"
+  ],
+  "CH_now": 4.25,
+  "CH_why": "outspoken, media-hungry, feuds",
+  "notes": "1984: agreed a direct move from Gladbach to title rival Bayern, then missed a penalty against Bayern in the cup final."
+ },
+ {
+  "id": "fabio-cannavaro",
+  "name": "Fabio Cannavaro",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Parma",
+   "Inter Milan",
+   "Juventus",
+   "Real Madrid",
+   "Juventus",
+   "Al-Ahli Dubai"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "neoton video, villa-seal sentence",
+  "notes": "2015 first-instance 10-month suspended sentence for breaching seals on a villa seized in a tax probe (appeal outcome not recorded); played for Al-Ahli Dubai 2010-11, coached Al-Nassr and Chinese clubs; 1999 legal neoton injection, no ban."
+ },
+ {
+  "id": "samuel-eto-o",
+  "name": "Samuel Eto'o",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Cameroon",
+  "current_club": null,
+  "career": [
+   "Inter Milan",
+   "Anzhi Makhachkala",
+   "Chelsea",
+   "Everton",
+   "Sampdoria",
+   "Antalyaspor"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "anti-racism stance, minus combativeness (tax fraud and assault handled separately)",
+  "notes": "Tax fraud conviction Spain 2022 (22-month suspended, fine); assaulted a YouTuber outside a Qatar 2022 stadium (off-field), apologised; 2023 match-fixing allegation, CAF found no proof (fined $200k for betting-ambassador role); Qatar SC 2018-19; Qatar 2022 ambassador. Recount: red_card_violence 0: 2022 YouTuber assault was outside the stadium, not in a match he played, no conviction."
+ },
+ {
+  "id": "george-weah",
+  "name": "George Weah",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "Liberia",
+  "current_club": null,
+  "career": [
+   "Paris Saint-Germain",
+   "AC Milan",
+   "Chelsea",
+   "Manchester City",
+   "Marseille",
+   "Al-Jazira"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "funded national team, UNICEF, peaceful concession, minus corruption concerns in his government",
+  "notes": "1996 headbutted Jorge Costa in tunnel (UEFA 6-match ban); played for Al-Jazira (UAE) 2001-03; corruption concerns in his presidential administration (officials sanctioned)."
+ },
+ {
+  "id": "philipp-lahm",
+  "name": "Philipp Lahm",
+  "gender": "M",
+  "active": false,
+  "born": 1983,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "foundation, Qatar criticism",
+  "notes": "No incidents. Criticised FIFA/Qatar 2022 on human rights; Philipp Lahm Foundation."
+ },
+ {
+  "id": "arjen-robben",
+  "name": "Arjen Robben",
+  "gender": "M",
+  "active": false,
+  "born": 1984,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Groningen",
+   "PSV",
+   "Chelsea",
+   "Real Madrid",
+   "Bayern Munich",
+   "Groningen"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "diving reputation",
+  "notes": "Diving reputation (not coded as an incident field)."
+ },
+ {
+  "id": "gabriel-batistuta",
+  "name": "Gabriel Batistuta",
+  "gender": "M",
+  "active": false,
+  "born": 1969,
+  "nation": "Argentina",
+  "current_club": null,
+  "career": [
+   "River Plate",
+   "Boca Juniors",
+   "Fiorentina",
+   "Roma",
+   "Inter Milan",
+   "Al-Arabi"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, no issues",
+  "notes": "Joined Al-Arabi (Qatar) 2003."
+ },
+ {
+  "id": "karl-heinz-rummenigge",
+  "name": "Karl-Heinz Rummenigge",
+  "gender": "M",
+  "active": false,
+  "born": 1955,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "Inter Milan",
+   "Servette"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "Qatar Rolex fine, no causes",
+  "notes": "2013: accepted a penalty order for tax evasion (~EUR 250k) over undeclared Rolex watches from Qatar."
+ },
+ {
+  "id": "shinji-kagawa",
+  "name": "Shinji Kagawa",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Japan",
+  "current_club": "Cerezo Osaka",
+  "career": [
+   "Borussia Dortmund",
+   "Beşiktaş",
+   "Real Zaragoza",
+   "PAOK",
+   "Sint-Truiden",
+   "Cerezo Osaka"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "oliver-kahn",
+  "name": "Oliver Kahn",
+  "gender": "M",
+  "active": false,
+  "born": 1969,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Karlsruher SC",
+   "Bayern Munich"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "4.5 big ego, intimidation (kick and bite applied separately)",
+  "notes": "1999 kick at Chapuisat and mock bite at Herrlich drew no card or ban (audit: too minor to code). Recount: red_card_violence 2: 1999 flying kick at Chapuisat and bite at Herrlich in one match (no card)."
+ }
+]

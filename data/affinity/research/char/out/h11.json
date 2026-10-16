@@ -1,0 +1,656 @@
+[
+ {
+  "id": "cristiano-ronaldo",
+  "name": "Cristiano Ronaldo",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 4.0,
+  "why": {
+   "SP": "2024 bans for elbowing Al-Bulaihi (red) and an obscene gesture at fans; 2022 knocked a boy's phone away",
+   "VO": "nothing notable found on inclusion causes",
+   "CO": "£100k to Madeira cancer centre, £5m Nepal quake relief, donated UCL bonus, Save the Children ambassador",
+   "HU": "showboating, United walkout interview, feuds with Ten Hag and Pérez"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+   "https://english.alarabiya.net/sports/2024/04/09/al-nassr-s-ronaldo-faces-2-game-ban-after-red-card-for-elbowing-al-hilal-s-al-bulaihi"
+  ]
+ },
+ {
+  "id": "ada-hegerberg",
+  "name": "Ada Hegerberg",
+  "SP": 6.0,
+  "VO": 9.0,
+  "CO": 6.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "quit Norway 2017-22 over treatment of the women's game, missing a World Cup",
+   "CO": "Danone Nations Cup youth ambassador",
+   "HU": "gracious Ballon d'Or speech, no feuds"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ada_Hegerberg"
+  ]
+ },
+ {
+  "id": "lucy-bronze",
+  "name": "Lucy Bronze",
+  "SP": 6.0,
+  "VO": 7.5,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "went public with autism and ADHD diagnosis to fight stigma",
+   "CO": "National Autistic Society ambassador since 2025",
+   "HU": "described as shy; no public feuds"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucy_Bronze",
+   "https://www.autism.org.uk/what-we-do/news/lucy-bronze-mbe-is-our-new-celebrity-ambassador"
+  ]
+ },
+ {
+  "id": "vivianne-miedema",
+  "name": "Vivianne Miedema",
+  "SP": 6.0,
+  "VO": 7.5,
+  "CO": 8.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "signed 2024 letter against FIFA's Aramco deal; led Common Goal Ukraine response",
+   "CO": "Common Goal 1% pledge, War Child ambassador, Cruyff Court in Hoogeveen",
+   "HU": "famously doesn't celebrate goals, understated"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vivianne_Miedema"
+  ]
+ },
+ {
+  "id": "pernille-harder",
+  "name": "Pernille Harder",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "LGBTQ+ visibility with partner Eriksson; Denmark 2017 pay strike",
+   "CO": "Common Goal 1% pledge",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pernille_Harder"
+  ]
+ },
+ {
+  "id": "caroline-graham-hansen",
+  "name": "Caroline Graham Hansen",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "criticised NFF funding of women's team; open on mental health",
+   "CO": "gave 10% of salary for COVID relief, award money to Stabæk, girls' camp",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caroline_Graham_Hansen"
+  ]
+ },
+ {
+  "id": "thibaut-courtois",
+  "name": "Thibaut Courtois",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.0,
+  "why": {
+   "SP": "three reds, all penalty-conceding fouls",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "skipped Chelsea training to force move; captaincy feud with Tedesco; blamed Wilmots"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+  ]
+ },
+ {
+  "id": "ousmane-dembele",
+  "name": "Ousmane Dembélé",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "2019 red card for dissent; often fined at Barcelona",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "skipped Dortmund training to force move; 2021 video mocking Japanese technicians"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+  ]
+ },
+ {
+  "id": "n-golo-kante",
+  "name": "N'Golo Kanté",
+  "SP": 7.5,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 10.0,
+  "why": {
+   "SP": "never sent off in the Premier League despite most tackles in Europe",
+   "VO": "nothing notable found",
+   "CO": "reported $5m children's medical centre in Bamako; funded schools in Mali",
+   "HU": "widely praised as humble and shy"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9",
+   "https://www.panafricafootball.com/post/n-golo-kanté-donates-$5-million-for-medical-infrastructure-in-mali/"
+  ]
+ },
+ {
+  "id": "bernardo-silva",
+  "name": "Bernardo Silva",
+  "SP": 6.0,
+  "VO": 4.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "2019 Mendy tweet drew FA ban for racial stereotype (no intent found)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bernardo_Silva"
+  ]
+ },
+ {
+  "id": "jan-oblak",
+  "name": "Jan Oblak",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "modest public remarks, deflects praise"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Oblak"
+  ]
+ },
+ {
+  "id": "wendie-renard",
+  "name": "Wendie Renard",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "withdrew from France 2023 over set-up, citing mental health",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wendie_Renard"
+  ]
+ },
+ {
+  "id": "bunny-shaw",
+  "name": "Bunny Shaw",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "part of Reggae Girlz pay dispute (earlier research)",
+   "CO": "own foundation 2025: Hurricane Melissa relief, supplies to St Jago school",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Khadija_Shaw",
+   "https://www.mancity.com/news/womens/bunny-shaw-jamaica-hurricane-relief-63899263"
+  ]
+ },
+ {
+  "id": "barbra-banda",
+  "name": "Barbra Banda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "Barbra Banda Foundation (GBV, early marriage), Common Goal pledge",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barbra_Banda"
+  ]
+ },
+ {
+  "id": "temwa-chawinga",
+  "name": "Temwa Chawinga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Temwa_Chawinga"
+  ]
+ },
+ {
+  "id": "ederson",
+  "name": "Ederson",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2026 red, insulted referee and struck VAR monitor (3-match ban); forgave Mané",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "id": "khvicha-kvaratskhelia",
+  "name": "Khvicha Kvaratskhelia",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia"
+  ]
+ },
+ {
+  "id": "ruben-dias",
+  "name": "Rúben Dias",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/R%C3%BAben_Dias"
+  ]
+ },
+ {
+  "id": "vitinha",
+  "name": "Vitinha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "described as popular, unifying presence in the dressing room"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitinha_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "mallory-swanson",
+  "name": "Mallory Swanson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mallory_Swanson"
+  ]
+ },
+ {
+  "id": "lauren-james",
+  "name": "Lauren James",
+  "SP": 3.5,
+  "VO": 5.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "2023 World Cup red for stamping on Alozie; second stamp on Wälti months later",
+   "VO": "spoke on online abuse (earlier research)",
+   "CO": "LJ10 Scholarship for girls from minority backgrounds",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lauren_James"
+  ]
+ },
+ {
+  "id": "lena-oberdorf",
+  "name": "Lena Oberdorf",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "physical midfielder; Euro 2022 suspension for yellows",
+   "VO": "spoke on acceptance of same-sex couples in football",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lena_Oberdorf"
+  ]
+ },
+ {
+  "id": "victor-osimhen",
+  "name": "Victor Osimhen",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red (two yellows) 2023",
+   "VO": "End SARS shirt against police brutality, 2020",
+   "CO": "says he wants to help disabled people in Africa",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victor_Osimhen"
+  ]
+ },
+ {
+  "id": "roberto-firmino",
+  "name": "Roberto Firmino",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "cleared of Holgate racism allegation; no notable cards",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "teammates and coaches call him humble"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roberto_Firmino"
+  ]
+ },
+ {
+  "id": "debinha",
+  "name": "Debinha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Debinha"
+  ]
+ },
+ {
+  "id": "asisat-oshoala",
+  "name": "Asisat Oshoala",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "FIFA women's football advisory group",
+   "CO": "Asisat Oshoala Foundation, Football4girls tournament in Lagos",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Asisat_Oshoala"
+  ]
+ },
+ {
+  "id": "mary-earps",
+  "name": "Mary Earps",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 6.0,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "2023 push that got Nike to sell her goalkeeper shirt",
+   "CO": "Billy Seymour Impact Award; Mary Earps Pitch at Calverton",
+   "HU": "2025 memoir criticised Hampton and Wiegman"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mary_Earps"
+  ]
+ },
+ {
+  "id": "christopher-nkunku",
+  "name": "Christopher Nkunku",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christopher_Nkunku"
+  ]
+ },
+ {
+  "id": "emiliano-martinez",
+  "name": "Emiliano Martínez",
+  "SP": 2.5,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 3.0,
+  "why": {
+   "SP": "shootout gamesmanship, taunting takers, FIFA 2-match ban for trophy gesture and hitting a camera",
+   "VO": "nothing notable found",
+   "CO": "gloves auctioned for Mar del Plata and Garrahan children's hospitals",
+   "HU": "bravado, unapologetic about antics"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez",
+   "https://buenosairesherald.com/sports/stars/dibu-martinez/emi-dibu-martinez-gloves-go-for-us100000-in-charity-auction"
+  ]
+ },
+ {
+  "id": "rayan-cherki",
+  "name": "Rayan Cherki",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayan_Cherki"
+  ]
+ },
+ {
+  "id": "josko-gvardiol",
+  "name": "Josko Gvardiol",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol"
+  ]
+ },
+ {
+  "id": "rodrigo-de-paul",
+  "name": "Rodrigo De Paul",
+  "SP": 5.5,
+  "VO": 3.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off a minute after his Valencia debut entrance",
+   "VO": "defended Argentina's 2024 racist chant as a football song, called criticism malicious",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_De_Paul",
+   "https://sportskeeda.com/football/news-there-s-malice-this-argentina-star-calls-enzo-fernandez-s-chelsea-teammates-social-media-activity-recent-video-incident"
+  ]
+ },
+ {
+  "id": "sandra-panos",
+  "name": "Sandra Paños",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "one of Las 15 who quit Spain in 2022 over conditions",
+   "CO": "nothing notable found",
+   "HU": "praised for not complaining about fewer minutes at Barcelona"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandra_Pa%C3%B1os"
+  ]
+ },
+ {
+  "id": "cristian-romero",
+  "name": "Cristian Romero",
+  "SP": 2.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "most Premier League reds in his time; kicked Konaté, confronted referee",
+   "VO": "nothing notable found (Malvinas banner political, neutral)",
+   "CO": "nothing notable found",
+   "HU": "public spats with Spurs board, later apologised"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Romero"
+  ]
+ },
+ {
+  "id": "dani-olmo",
+  "name": "Dani Olmo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dani_Olmo"
+  ]
+ },
+ {
+  "id": "pau-cubarsi",
+  "name": "Pau Cubarsí",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one VAR red, 2026; otherwise nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD"
+  ]
+ }
+]

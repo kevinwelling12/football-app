@@ -1,0 +1,656 @@
+[
+ {
+  "id": "pep-biel",
+  "name": "Pep Biel",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Charlotte FC",
+  "career": [
+   "CD Llosetense",
+   "Real Zaragoza",
+   "FC Copenhagen",
+   "Olympiacos",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. At Charlotte on loan from 2024, permanent after 2025."
+ },
+ {
+  "id": "ashley-westwood",
+  "name": "Ashley Westwood",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "England",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Crewe Alexandra",
+   "Aston Villa",
+   "Burnley",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes. One early red card at Crewe for squaring up (not violent conduct)."
+ },
+ {
+  "id": "liel-abada",
+  "name": "Liel Abada",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Israel",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Maccabi Petah Tikva",
+   "Celtic",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thanked supporters when leaving Celtic amid Gaza-war tension",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luca-de-la-torre",
+  "name": "Luca de la Torre",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Fulham",
+   "Heracles Almelo",
+   "Celta Vigo",
+   "San Diego FC",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "philip-zinckernagel",
+  "name": "Philip Zinckernagel",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Denmark",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Watford",
+   "Nottingham Forest",
+   "Olympiacos",
+   "Standard Liège",
+   "Club Brugge",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record; one falling-out with an Olympiacos manager",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-lod",
+  "name": "Robin Lod",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Finland",
+  "current_club": "Chicago Fire",
+  "career": [
+   "HJK",
+   "Panathinaikos",
+   "Sporting Gijón",
+   "Minnesota United",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mbekezeli-mbokazi",
+  "name": "Mbekezeli Mbokazi",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "South Africa",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Orlando Pirates",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paxten-aaronson",
+  "name": "Paxten Aaronson",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Philadelphia Union",
+   "Eintracht Frankfurt",
+   "Utrecht",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rob-holding",
+  "name": "Rob Holding",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Bolton Wanderers",
+   "Arsenal",
+   "Crystal Palace",
+   "Colorado Rapids"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes on record; frozen out at Palace after a disagreement with the manager",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "reggie-cannon",
+  "name": "Reggie Cannon",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "FC Dallas",
+   "Boavista",
+   "Queens Park Rangers",
+   "Colorado Rapids"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "stood up publicly on racial justice under heavy abuse",
+  "notes": "No incident codes. Three sending-offs at Boavista were for fouls, not violent conduct; left Boavista citing unpaid wages, and CAS ruled in his favour in 2025."
+ },
+ {
+  "id": "patrick-schulte",
+  "name": "Patrick Schulte",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "steven-moreira",
+  "name": "Steven Moreira",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Cape Verde",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Rennes",
+   "Lorient",
+   "Toulouse",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes; three red cards in France, none described as violent conduct."
+ },
+ {
+  "id": "sean-johnson",
+  "name": "Sean Johnson",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "USA",
+  "current_club": "D.C. United",
+  "career": [
+   "Chicago Fire",
+   "New York City FC",
+   "Toronto FC",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tai-baribo",
+  "name": "Tai Baribo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Israel",
+  "current_club": "D.C. United",
+  "career": [
+   "Maccabi Petah Tikva",
+   "Wolfsberger AC",
+   "Philadelphia Union",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "louis-munteanu",
+  "name": "Louis Munteanu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Romania",
+  "current_club": "D.C. United",
+  "career": [
+   "Viitorul Constanța",
+   "Fiorentina",
+   "Farul Constanța",
+   "CFR Cluj",
+   "D.C. United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "skipped training amid transfer frustration in 2025",
+  "notes": "No incident codes; Aug 2025 absence from CFR Cluj training over a blocked move (owner said he had granted leave; he returned and was fined) not coded as a strike."
+ },
+ {
+  "id": "ramiro",
+  "name": "Ramiro",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Brazil",
+  "current_club": "FC Dallas",
+  "career": [
+   "Juventude",
+   "Grêmio",
+   "Corinthians",
+   "Al-Wasl",
+   "Cruzeiro",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes. One-season loan to Al-Wasl (UAE) in 2021-22 from Corinthians; not coded money_league as it was a club loan."
+ },
+ {
+  "id": "guilherme-augusto",
+  "name": "Guilherme Augusto",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Brazil",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Al-Faisaly",
+   "Al-Dhafra",
+   "Grêmio",
+   "Fortaleza",
+   "Santos",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "money_league: moved from Grêmio to Saudi club Al-Faisaly in 2020, then UAE's Al-Dhafra."
+ },
+ {
+  "id": "diadie-samassekou",
+  "name": "Diadie Samassekou",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Mali",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "FC Liefering",
+   "Red Bull Salzburg",
+   "TSG Hoffenheim",
+   "Olympiacos",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "german-berterame",
+  "name": "Germán Berterame",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Mexico",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "San Lorenzo",
+   "Atlético San Luis",
+   "Monterrey",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dayne-st-clair",
+  "name": "Dayne St. Clair",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Minnesota United FC",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jakob-glesnes",
+  "name": "Jakob Glesnes",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Norway",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Fyllingsdalen",
+   "Åsane",
+   "Sarpsborg 08",
+   "Strømsgodset",
+   "Philadelphia Union",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joseph-paintsil",
+  "name": "Joseph Paintsil",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Ghana",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Tema Youth",
+   "Ferencváros",
+   "Genk",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mathieu-choiniere",
+  "name": "Mathieu Choinière",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "CF Montréal",
+   "Grasshopper",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-porteous",
+  "name": "Ryan Porteous",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Scotland",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Hibernian",
+   "Watford",
+   "Los Angeles FC"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "Common Goal pledge, but a court conviction and a poor disciplinary record",
+  "notes": "criminal_other: pleaded guilty in 2022 to culpable and reckless conduct (hit a woman with a plastic tumbler), fined and paid compensation. red_card_violence: accepted an SFA violent-conduct charge for kicking out at Christian Ramirez off the ball (Dec 2021). Euro 2024 red was a foul, not coded."
+ },
+ {
+  "id": "jacob-shaffelburg",
+  "name": "Jacob Shaffelburg",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Toronto FC",
+   "Nashville SC",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kelvin-yeboah",
+  "name": "Kelvin Yeboah",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Italy",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Sturm Graz",
+   "Genoa",
+   "FC Augsburg",
+   "Montpellier",
+   "Standard Liège",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alhassan-yusuf",
+  "name": "Alhassan Yusuf",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Nigeria",
+  "current_club": "New England Revolution",
+  "career": [
+   "IFK Göteborg",
+   "Royal Antwerp",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-fernandez",
+  "name": "Nicolás Fernández",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Argentina",
+  "current_club": "New York City FC",
+  "career": [
+   "San Lorenzo",
+   "Elche",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-freese",
+  "name": "Matt Freese",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "Philadelphia Union",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thiago-martins",
+  "name": "Thiago Martins",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Brazil",
+  "current_club": "New York City FC",
+  "career": [
+   "Palmeiras",
+   "Paysandu",
+   "Bahia",
+   "Yokohama F. Marinos",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aiden-o-neill",
+  "name": "Aiden O'Neill",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Australia",
+  "current_club": "New York City FC",
+  "career": [
+   "Burnley",
+   "Central Coast Mariners",
+   "Brisbane Roar",
+   "Melbourne City",
+   "Standard Liège",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-sands",
+  "name": "James Sands",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "New York City FC",
+   "Rangers",
+   "St. Pauli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxime-crepeau",
+  "name": "Maxime Crépeau",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Canada",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Montreal Impact",
+   "Ottawa Fury",
+   "Vancouver Whitecaps",
+   "Los Angeles FC",
+   "Portland Timbers",
+   "Orlando City SC"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "fined in 2026 for slow exit after a red card; otherwise little public record",
+  "notes": "No incident codes (2026 red card was a handball outside the box, not violent conduct)."
+ },
+ {
+  "id": "david-brekalo",
+  "name": "David Brekalo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Slovenia",
+  "current_club": "Orlando City SC",
+  "career": [
+   "NK Bravo",
+   "Viking",
+   "Orlando City SC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "sent off in 2021 for pushing a teammate, apologised",
+  "notes": "red_card_violence 1: sent off in Nov 2021 for shoving teammate Patrik Gunnarsson; he apologised."
+ },
+ {
+  "id": "martin-ojeda",
+  "name": "Martín Ojeda",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Ferro Carril Oeste",
+   "Racing Club",
+   "Huracán",
+   "Godoy Cruz",
+   "Orlando City SC"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "fined by MLS in 2024 for simulation",
+  "notes": "No incident codes (2024 MLS simulation fine reflected in CH)."
+ },
+ {
+  "id": "rafael",
+  "name": "Rafael",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Brazil",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Santos",
+   "Napoli",
+   "Sampdoria",
+   "Reading",
+   "Cruzeiro",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record of conduct or causes",
+  "notes": "No incident codes."
+ }
+]

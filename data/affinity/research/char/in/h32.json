@@ -1,0 +1,639 @@
+[
+ {
+  "id": "luciano-valente",
+  "name": "Luciano Valente",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Groningen",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes. One red card (vs Ajax, May 2025), not violent conduct on record."
+ },
+ {
+  "id": "givairo-read",
+  "name": "Givairo Read",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Volendam",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; described as calm",
+  "notes": "No incident codes. One red card (vs AC Milan, Feb 2025), no violent conduct on record."
+ },
+ {
+  "id": "gjivai-zechiel",
+  "name": "Gjivai Zechiël",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Feyenoord",
+   "Sparta Rotterdam",
+   "FC Utrecht"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "charles-vanhoutte",
+  "name": "Charles Vanhoutte",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Belgium",
+  "current_club": "Feyenoord",
+  "career": [
+   "Cercle Brugge",
+   "Union Saint-Gilloise",
+   "Nice",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tsuyoshi-watanabe",
+  "name": "Tsuyoshi Watanabe",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Japan",
+  "current_club": "Feyenoord",
+  "career": [
+   "FC Tokyo",
+   "Kortrijk",
+   "Gent",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oussama-targhaline",
+  "name": "Oussama Targhaline",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Morocco",
+  "current_club": "Feyenoord",
+  "career": [
+   "Marseille",
+   "Le Havre",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia spells the name Targhalline."
+ },
+ {
+  "id": "ismail-jakobs",
+  "name": "Ismail Jakobs",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Senegal",
+  "current_club": "Galatasaray",
+  "career": [
+   "1. FC Köln",
+   "Monaco",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "abdulkerim-bardakci",
+  "name": "Abdülkerim Bardakçi",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Türkiye",
+  "current_club": "Galatasaray",
+  "career": [
+   "Konyaspor",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eren-elmali",
+  "name": "Eren Elmali",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Türkiye",
+  "current_club": "Galatasaray",
+  "career": [
+   "Kasımpaşa",
+   "Trabzonspor",
+   "Galatasaray"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "45-day ban (Nov 2025) for betting on a football match",
+  "notes": "No incident codes. Banned 45 days in the 2025 Turkish betting probe for betting on a match not involving his team (betting breach, not fixing)."
+ },
+ {
+  "id": "josep-martinez",
+  "name": "Josep Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Spain",
+  "current_club": "Internazionale",
+  "career": [
+   "Las Palmas",
+   "RB Leipzig",
+   "Genoa",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no known conduct issues; stopped to help after a fatal road collision",
+  "notes": "No incident codes. Oct 2025 his car hit and killed an 81-year-old man in an electric wheelchair near Como; police report said the wheelchair moved into his lane, a routine manslaughter inquiry was opened, no charges found."
+ },
+ {
+  "id": "alessandro-schopf",
+  "name": "Alessandro Schöpf",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "1. FC Nürnberg",
+   "Schalke 04",
+   "Arminia Bielefeld",
+   "Vancouver Whitecaps",
+   "Wolfsberger AC",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "abdallah-sima",
+  "name": "Abdallah Sima",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Senegal",
+  "current_club": "Lens",
+  "career": [
+   "Brighton & Hove Albion",
+   "Stoke City",
+   "Angers",
+   "Rangers",
+   "Brest",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michael-cuisance",
+  "name": "Michaël Cuisance",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Marseille",
+   "Venezia",
+   "Sampdoria",
+   "VfL Osnabrück",
+   "Hertha BSC",
+   "Lens"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "work ethic criticised early, later praised for professionalism at Hertha",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ruben-aguilar",
+  "name": "Ruben Aguilar",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Grenoble",
+   "Auxerre",
+   "Montpellier",
+   "Monaco",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michal-skoras",
+  "name": "Michal Skoras",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Poland",
+  "current_club": "Lens",
+  "career": [
+   "Bruk-Bet Termalica",
+   "Raków Częstochowa",
+   "Lech Poznań",
+   "Club Brugge",
+   "Gent",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "franjo-ivanovic",
+  "name": "Franjo Ivanovic",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Croatia",
+  "current_club": "Lens",
+  "career": [
+   "Rijeka",
+   "Union Saint-Gilloise",
+   "Benfica",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "berke-ozer",
+  "name": "Berke Özer",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Türkiye",
+  "current_club": "Lille",
+  "career": [
+   "Altınordu",
+   "Fenerbahçe",
+   "Westerlo",
+   "Portimonense",
+   "Eyüpspor",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tiago-santos",
+  "name": "Tiago Santos",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Portugal",
+  "current_club": "Lille",
+  "career": [
+   "Estoril",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "romain-perraud",
+  "name": "Romain Perraud",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Nice",
+   "Paris FC",
+   "Brest",
+   "Southampton",
+   "Real Betis",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathan-ngoy",
+  "name": "Nathan Ngoy",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Belgium",
+  "current_club": "Lille",
+  "career": [
+   "Standard Liège",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dilane-bakwa",
+  "name": "Dilane Bakwa",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Bordeaux",
+   "Strasbourg",
+   "Nottingham Forest",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lorenzo-lucca",
+  "name": "Lorenzo Lucca",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Italy",
+  "current_club": "Napoli",
+  "career": [
+   "Palermo",
+   "Pisa",
+   "Ajax (loan)",
+   "Udinese",
+   "Napoli",
+   "Nottingham Forest (loan)"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Took a penalty off his captain against teammates' wishes in 2025",
+  "notes": "No incident codes. Wikipedia lists a 2026 loan to Nottingham Forest; ESPN still lists him at Napoli."
+ },
+ {
+  "id": "armando-obispo",
+  "name": "Armando Obispo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Curaçao",
+  "current_club": "PSV",
+  "career": [
+   "PSV",
+   "Vitesse (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matej-kovar",
+  "name": "Matej Kovár",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Czechia",
+  "current_club": "PSV",
+  "career": [
+   "Manchester United",
+   "Swindon Town (loan)",
+   "Sparta Prague (loan)",
+   "Bayer Leverkusen",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ruben-van-bommel",
+  "name": "Ruben Van Bommel",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Netherlands",
+  "current_club": "PSV",
+  "career": [
+   "MVV Maastricht",
+   "AZ",
+   "PSV"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "Booked for diving as a teenager at MVV",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mauro-junior",
+  "name": "Mauro Júnior",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "PSV",
+  "career": [
+   "Desportivo Brasil",
+   "PSV",
+   "Heracles Almelo (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-flamingo",
+  "name": "Ryan Flamingo",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Netherlands",
+  "current_club": "PSV",
+  "career": [
+   "Sassuolo",
+   "Vitesse (loan)",
+   "Utrecht (loan)",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alvaro-valles",
+  "name": "Álvaro Valles",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Las Palmas",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "natan",
+  "name": "Natan",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Real Betis",
+  "career": [
+   "Flamengo",
+   "Red Bull Bragantino",
+   "Napoli",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nelson-deossa",
+  "name": "Nelson Deossa",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Colombia",
+  "current_club": "Real Betis",
+  "career": [
+   "Atlético Huila",
+   "Pachuca",
+   "Monterrey",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "valeriy-bondar",
+  "name": "Valeriy Bondar",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ukraine",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dmytro-riznyk",
+  "name": "Dmytro Riznyk",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ukraine",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Vorskla Poltava",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gleiker-mendoza",
+  "name": "Gleiker Mendoza",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Venezuela",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Angostura",
+   "Deportivo Táchira",
+   "Kryvbas Kryvyi Rih",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lassina-traore",
+  "name": "Lassina Traoré",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Burkina Faso",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Ajax",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes. Identity: ESPN lists age 19; the only Lassina Traoré at Shakhtar (No. 2) was born 12 January 2001 (25); nation and club match."
+ },
+ {
+  "id": "michal-sadilek",
+  "name": "Michal Sadílek",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "PSV Eindhoven",
+   "Slovan Liberec",
+   "FC Twente",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-zima",
+  "name": "David Zima",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Sigma Olomouc",
+   "Slavia Prague",
+   "Torino",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ }
+]

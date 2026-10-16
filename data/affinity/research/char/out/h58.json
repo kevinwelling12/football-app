@@ -1,0 +1,649 @@
+[
+ {
+  "id": "carlos-herrera",
+  "name": "Carlos Herrera",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "coached Monterey Bay's USL League Two side; nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Herrera_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "abdoulaye-diop",
+  "name": "Abdoulaye Diop",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdoulaye_Diop_(soccer)"
+  ]
+ },
+ {
+  "id": "alasanne-ates-diouf",
+  "name": "Alasanne Ates Diouf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.8,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "played in Salif Diao's Sport4Charity event in Dakar",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ates_Diouf"
+  ]
+ },
+ {
+  "id": "aeden-stanley",
+  "name": "Aeden Stanley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aedan_Stanley"
+  ]
+ },
+ {
+  "id": "jeciel-cedeno",
+  "name": "Jeciel Cedeno",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeciel_Cedeño"
+  ]
+ },
+ {
+  "id": "ben-morris",
+  "name": "Ben Morris",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ben_Morris_(footballer)"
+  ]
+ },
+ {
+  "id": "robert-coronado",
+  "name": "Robert Coronado",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Coronado"
+  ]
+ },
+ {
+  "id": "gabriel-torres",
+  "name": "Gabriel Torres",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Torres_(Brazilian_footballer)"
+  ]
+ },
+ {
+  "id": "kofi-twumasi",
+  "name": "Kofi Twumasi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kofi_Twumasi"
+  ]
+ },
+ {
+  "id": "abraham-romero",
+  "name": "Abraham Romero",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three red cards (2018, 2024, 2025) for a foul and handling outside the box; no violent conduct",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "retracted his claim of feeling isolated in US setup, blaming his own immaturity; nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abraham_Romero"
+  ]
+ },
+ {
+  "id": "noah-dollenmayer",
+  "name": "Noah Dollenmayer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Dollenmayer"
+  ]
+ },
+ {
+  "id": "ian-carlo",
+  "name": "Ian Carlo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found (no Wikipedia page; nothing opened)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "id": "abdoulaye-cissoko",
+  "name": "Abdoulaye Cissoko",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdoulaye_Cissoko"
+  ]
+ },
+ {
+  "id": "delentz-pierre",
+  "name": "Delentz Pierre",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Delentz_Pierre"
+  ]
+ },
+ {
+  "id": "kalil-elmedkhar",
+  "name": "Kalil ElMedkhar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kalil_ElMedkhar"
+  ]
+ },
+ {
+  "id": "remi-cabral",
+  "name": "Rémi Cabral",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rémi_Cabral"
+  ]
+ },
+ {
+  "id": "arquimides-ordonez",
+  "name": "Arquímides Ordóñez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arquímides_Ordóñez"
+  ]
+ },
+ {
+  "id": "antony-siaha",
+  "name": "Antony Siaha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antony_Siaha"
+  ]
+ },
+ {
+  "id": "adrian-diz-pe",
+  "name": "Adrián Diz Pe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrián_Diz_Pe"
+  ]
+ },
+ {
+  "id": "barry-coffey",
+  "name": "Barry Coffey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://www.hartfordathletic.com/?p=21826"
+  ]
+ },
+ {
+  "id": "emmanuel-samadia",
+  "name": "Emmanuel Samadia",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emmanuel_Samadia"
+  ]
+ },
+ {
+  "id": "edward-kizza",
+  "name": "Edward Kizza",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edward_Kizza"
+  ]
+ },
+ {
+  "id": "christian-pinzon",
+  "name": "Christian Pinzon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Pinzón"
+  ]
+ },
+ {
+  "id": "johnny-rodriguez",
+  "name": "Johnny Rodriguez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johnny_Rodriguez_(soccer)"
+  ]
+ },
+ {
+  "id": "themi-antonoglou",
+  "name": "Themi Antonoglou",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Themi_Antonoglou"
+  ]
+ },
+ {
+  "id": "marc-ybarra",
+  "name": "Marc Ybarra",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Ybarra"
+  ]
+ },
+ {
+  "id": "giorgio-probo",
+  "name": "Giorgio Probo",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.4,
+  "why": {
+   "SP": "unnamed sources report a training-session altercation with a teammate at Halifax (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "unnamed sources say he clashed with Halifax staff over playing time; contract ended by mutual termination"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giorgio_Probo",
+   "https://www.hfxfootballpost.ca/sources-midfielder-giorgio-probo-fell-out-of-favour-in-halifax-due-to-attitude/"
+  ]
+ },
+ {
+  "id": "abraham-okyere",
+  "name": "Abraham Okyere",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abraham_Okyere"
+  ]
+ },
+ {
+  "id": "oliver-semmle",
+  "name": "Oliver Semmle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Semmle"
+  ]
+ },
+ {
+  "id": "kendall-burks",
+  "name": "Kendall Burks",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kendall_Burks"
+  ]
+ },
+ {
+  "id": "nicolas-firmino",
+  "name": "Nicolas Firmino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Firmino"
+  ]
+ },
+ {
+  "id": "aaron-molloy",
+  "name": "Aaron Molloy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Molloy"
+  ]
+ },
+ {
+  "id": "noble-okello",
+  "name": "Noble Okello",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noble_Okello"
+  ]
+ },
+ {
+  "id": "milo-yosef",
+  "name": "Milo Yosef",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milo_Yosef"
+  ]
+ },
+ {
+  "id": "kwame-awuah",
+  "name": "Kwame Awuah",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kwame_Awuah"
+  ]
+ },
+ {
+  "id": "boluwatife-akinyode",
+  "name": "Boluwatife Akinyode",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolu_Akinyode"
+  ]
+ }
+]

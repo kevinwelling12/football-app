@@ -1,0 +1,648 @@
+[
+ {
+  "id": "andi-sullivan",
+  "name": "Andi Sullivan",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "long-serving captain; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lovro-majer",
+  "name": "Lovro Majer",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Croatia",
+  "current_club": "AEK Athens",
+  "career": [
+   "Lokomotiva Zagreb",
+   "Dinamo Zagreb",
+   "Rennes",
+   "VfL Wolfsburg",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No known issues; little on causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mario-hermoso",
+  "name": "Mario Hermoso",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "AS Roma",
+  "career": [
+   "Real Valladolid",
+   "Espanyol",
+   "Atlético Madrid",
+   "AS Roma",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "manu-kone",
+  "name": "Manu Koné",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "France",
+  "current_club": "AS Roma",
+  "career": [
+   "Toulouse",
+   "Borussia Mönchengladbach",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No known issues; little on causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "evan-ndicka",
+  "name": "Evan Ndicka",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ivory Coast",
+  "current_club": "AS Roma",
+  "career": [
+   "Auxerre",
+   "Eintracht Frankfurt",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nahuel-molina",
+  "name": "Nahuel Molina",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "AS Roma",
+  "career": [
+   "Boca Juniors",
+   "Defensa y Justicia",
+   "Rosario Central",
+   "Udinese",
+   "Atlético Madrid",
+   "AS Roma"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "Post-match confrontation after 2026 World Cup final; FIFA assault charges, reported 7-match ban",
+  "notes": "red_card_violence 1: FIFA assault charges (completed and attempted) over post-final confrontation with Spain players, 2026; reported 7-match national-team ban and $90,000 fine."
+ },
+ {
+  "id": "david-hancko",
+  "name": "Dávid Hancko",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Slovakia",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Žilina",
+   "Fiorentina",
+   "Sparta Prague",
+   "Feyenoord",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known; Al-Nassr deal collapsed 2025",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-le-normand",
+  "name": "Robin Le Normand",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Brest",
+   "Real Sociedad",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eric-garcia",
+  "name": "Eric García",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Manchester City",
+   "Barcelona",
+   "Girona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no conduct issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hans-vanaken",
+  "name": "Hans Vanaken",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Lommel United",
+   "Lokeren",
+   "Club Brugge"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no controversies on record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "martin-baturina",
+  "name": "Martin Baturina",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Croatia",
+  "current_club": "Como",
+  "career": [
+   "Dinamo Zagreb",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "trevoh-chalobah",
+  "name": "Trevoh Chalobah",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Como",
+  "career": [
+   "Ipswich Town",
+   "Huddersfield Town",
+   "Lorient",
+   "Chelsea",
+   "Crystal Palace",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no controversies on record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andre-silva",
+  "name": "André Silva",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Portugal",
+  "current_club": "Porto",
+  "career": [
+   "Eintracht Frankfurt",
+   "RB Leipzig",
+   "Real Sociedad",
+   "Werder Bremen",
+   "Elche",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabri-veiga",
+  "name": "Gabri Veiga",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Porto",
+  "career": [
+   "Celta Vigo",
+   "Al-Ahli",
+   "Porto"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "no incidents; Saudi move criticised as unambitious",
+  "notes": "money_league: joined Saudi Al-Ahli in 2023 at 21 (widely criticised)."
+ },
+ {
+  "id": "matteo-guendouzi",
+  "name": "Matteo Guendouzi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Lorient",
+   "Arsenal",
+   "Hertha BSC",
+   "Marseille",
+   "Lazio",
+   "Fenerbahçe"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "fiery; frozen out at Arsenal over conduct; shielded Payet from pitch invaders",
+  "notes": "red_card_violence 1: grabbed Neal Maupay by the throat after Brighton v Arsenal (June 2020); no FA action."
+ },
+ {
+  "id": "nelson-semedo",
+  "name": "Nélson Semedo",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Portugal",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Sintrense",
+   "Benfica",
+   "Barcelona",
+   "Wolverhampton Wanderers",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "no incidents found",
+  "notes": "No incident codes; left Wolves on a free after declining a new contract."
+ },
+ {
+  "id": "kerem-akturkoglu",
+  "name": "Kerem Aktürkoglu",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Türkiye",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Karacabey Belediyespor",
+   "24 Erzincanspor",
+   "Galatasaray",
+   "Benfica",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "earthquake relief work; one red card for dissent",
+  "notes": "No incident codes; moved Galatasaray -> Benfica (2024) -> Fenerbahçe (2025), not a direct rival move, but reflected in LO."
+ },
+ {
+  "id": "davinson-sanchez",
+  "name": "Davinson Sánchez",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Colombia",
+  "current_club": "Galatasaray",
+  "career": [
+   "Atlético Nacional",
+   "Ajax",
+   "Tottenham Hotspur",
+   "Galatasaray"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "foundation for children at home; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-torreira",
+  "name": "Lucas Torreira",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Uruguay",
+  "current_club": "Galatasaray",
+  "career": [
+   "Pescara",
+   "Sampdoria",
+   "Arsenal",
+   "Atlético Madrid",
+   "Fiorentina",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known; nothing notable beyond the pitch",
+  "notes": "No incident codes. Red card for a late tackle on Danny Rose (2019), a challenge, not off-the-ball violence."
+ },
+ {
+  "id": "gabriel-sara",
+  "name": "Gabriel Sara",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Galatasaray",
+  "career": [
+   "São Paulo",
+   "Norwich City",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ugurcan-cakir",
+  "name": "Ugurcan Çakir",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Türkiye",
+  "current_club": "Galatasaray",
+  "career": [
+   "Trabzonspor",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known; Trabzonspor thanked him warmly on leaving",
+  "notes": "No incident codes. Trabzonspor to Galatasaray is a strong rivalry but not treated as a bitter-rival move; the exit was amicable."
+ },
+ {
+  "id": "baris-alper-yilmaz",
+  "name": "Baris Alper Yilmaz",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Türkiye",
+  "current_club": "Galatasaray",
+  "career": [
+   "Ankara Demirspor",
+   "Ankara Keçiörengücü",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mario-lemina",
+  "name": "Mario Lemina",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Gabon",
+  "current_club": "Galatasaray",
+  "career": [
+   "Southampton",
+   "Galatasaray",
+   "Fulham",
+   "Nice",
+   "Wolverhampton Wanderers",
+   "Galatasaray"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "reputation for temper; post-match scuffle with Bowen and teammates (Dec 2024), fell out with Wolves manager",
+  "notes": "red_card_violence 1: sent off for punching Ola Toivonen (Marseille vs Rennes, 2015). Dec 2024 on-pitch altercation at West Ham cost him the Wolves captaincy (accounts differ; not separately coded)."
+ },
+ {
+  "id": "yann-bisseck",
+  "name": "Yann Bisseck",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Internazionale",
+  "career": [
+   "1. FC Köln",
+   "Roda JC",
+   "AGF",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pio-esposito",
+  "name": "Pio Esposito",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Italy",
+  "current_club": "Internazionale",
+  "career": [
+   "Spezia",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "petar-sucic",
+  "name": "Petar Sucic",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Croatia",
+  "current_club": "Internazionale",
+  "career": [
+   "Zrinjski Mostar",
+   "Dinamo Zagreb",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amadou-haidara",
+  "name": "Amadou Haidara",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Mali",
+  "current_club": "Lens",
+  "career": [
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "odsonne-edouard",
+  "name": "Odsonne Édouard",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Toulouse",
+   "Celtic",
+   "Crystal Palace",
+   "Leicester City",
+   "Lens"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "2017 airsoft-gun conviction (coded); declined Haiti call-up saying others had earned it",
+  "notes": "criminal_other: 2017 suspended four-month sentence and fine after an airsoft gun fired from a car injured a passer-by; damages reportedly unpaid in 2021."
+ },
+ {
+  "id": "rasmus-hjlund",
+  "name": "Rasmus Højlund",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Denmark",
+  "current_club": "Napoli",
+  "career": [
+   "Copenhagen",
+   "Sturm Graz",
+   "Atalanta",
+   "Manchester United",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matteo-politano",
+  "name": "Matteo Politano",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Italy",
+  "current_club": "Napoli",
+  "career": [
+   "Pescara",
+   "Sassuolo",
+   "Inter Milan",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-meret",
+  "name": "Alex Meret",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Napoli",
+  "career": [
+   "Udinese",
+   "SPAL (loan)",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noa-lang",
+  "name": "Noa Lang",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Netherlands",
+  "current_club": "Napoli",
+  "career": [
+   "Ajax",
+   "FC Twente (loan)",
+   "Club Brugge",
+   "PSV",
+   "Napoli",
+   "Galatasaray (loan)"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "Joined an antisemitic fan chant in 2021 and did not apologise",
+  "notes": "racist_abuse 1: in 2021 at Club Brugge he joined an antisemitic supporters' chant about Anderlecht; Belgian federation prosecutor required a visit to the Kazerne Dossin memorial centre, no ban."
+ },
+ {
+  "id": "billy-gilmour",
+  "name": "Billy Gilmour",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Scotland",
+  "current_club": "Napoli",
+  "career": [
+   "Chelsea",
+   "Norwich City (loan)",
+   "Brighton & Hove Albion",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mika-godts",
+  "name": "Mika Godts",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Belgium",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Ajax",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-beraldo",
+  "name": "Lucas Beraldo",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Brazil",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "São Paulo",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hector-bellerin",
+  "name": "Héctor Bellerín",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Arsenal",
+   "Real Betis",
+   "Barcelona",
+   "Sporting CP",
+   "Real Betis"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "environmental and social activism",
+  "notes": "No incident codes."
+ }
+]

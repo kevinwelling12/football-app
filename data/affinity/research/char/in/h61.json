@@ -1,0 +1,638 @@
+[
+ {
+  "id": "ahmad-al-qaq",
+  "name": "Ahmad Al-Qaq",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Palestine",
+  "current_club": "Sporting JAX",
+  "career": [
+   "North Carolina FC",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. US-born to Palestinian parents. Amateur USL League Two sides left out of clubs."
+ },
+ {
+  "id": "jake-mcguire",
+  "name": "Jake McGuire",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Gefle IF",
+   "Örebro SK",
+   "North Carolina FC",
+   "Miami FC",
+   "North Carolina FC",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Bethlehem Steel (Union reserve side, loan) left out of clubs."
+ },
+ {
+  "id": "thomas-roberts",
+  "name": "Thomas Roberts",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Sporting JAX",
+  "career": [
+   "FC Dallas",
+   "Austria Klagenfurt",
+   "Columbus Crew",
+   "Stabæk",
+   "North Carolina FC",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Klagenfurt was a season loan from FC Dallas; reserve sides (North Texas SC, Columbus Crew 2) left out."
+ },
+ {
+  "id": "raheem-somersall",
+  "name": "Raheem Somersall",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "St Kitts and Nevis",
+  "current_club": "Sporting JAX",
+  "career": [
+   "FC Tucson",
+   "Tormenta FC",
+   "North Carolina FC",
+   "FC Tulsa",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Amateur sides (Ocean City, IMG Academy) left out of clubs."
+ },
+ {
+  "id": "max-schneider",
+  "name": "Max Schneider",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "St. Louis City SC",
+   "Indy Eleven",
+   "Union Omaha",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. St. Louis City 2 (reserve side) left out of clubs."
+ },
+ {
+  "id": "charlie-ostrem",
+  "name": "Charlie Ostrem",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Western Suburbs",
+   "Union Omaha",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Chicago Fire II (reserve side) left out of clubs."
+ },
+ {
+  "id": "pedro-dolabella",
+  "name": "Pedro Dolabella",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Rochester New York FC",
+   "Union Omaha",
+   "North Carolina FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dion-acoff",
+  "name": "Dion Acoff",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Valur",
+   "SJK",
+   "Þróttur",
+   "Grindavík",
+   "Union Omaha",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "louis-perez",
+  "name": "Louis Pérez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Pittsburgh Riverhounds SC",
+   "FC Tucson",
+   "North Carolina FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Troyes II (reserve side) left out of clubs."
+ },
+ {
+  "id": "marco-micaletto",
+  "name": "Marco Micaletto",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Italy",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Tormenta FC",
+   "New Mexico United",
+   "Colorado Springs Switchbacks",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Columbus Crew 2 (reserve side, 2022-23) and amateur sides left out of clubs."
+ },
+ {
+  "id": "lewis-hilton",
+  "name": "Lewis Hilton",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Charlotte Independence",
+   "Saint Louis FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Ocala Stampede (amateur) left out of clubs."
+ },
+ {
+  "id": "evan-conway",
+  "name": "Evan Conway",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Union Omaha",
+   "San Diego Loyal",
+   "North Carolina FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Ventura County Fusion (amateur) left out of clubs."
+ },
+ {
+  "id": "sebastian-anderson",
+  "name": "Sebastian Anderson",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Colorado Rapids",
+   "Colorado Springs Switchbacks",
+   "Colorado Rapids 2",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Straight red card in an MLS match in 2019 (not violent conduct per sources)."
+ },
+ {
+  "id": "dariusz-stalmach",
+  "name": "Dariusz Stalmach",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Poland",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Górnik Zabrze",
+   "1. FC Magdeburg",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordan-scarlett",
+  "name": "Jordan Scarlett",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Jamaica",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Lehigh Valley United",
+   "New York Red Bulls II",
+   "Tampa Bay Rowdies",
+   "Louisville City",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "britton-fischer",
+  "name": "Britton Fischer",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "North Carolina FC",
+   "Minnesota United FC 2",
+   "Minnesota United",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. On loan at Hartford from Minnesota United in 2026."
+ },
+ {
+  "id": "junior-moreira",
+  "name": "Junior Moreira",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Guinea-Bissau",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Cancún FC",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; warm farewell from Cancún",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sadat-anaku",
+  "name": "Sadat Anaku",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Uganda",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "KCCA",
+   "Dundee United",
+   "KCCA",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bruno-rendon",
+  "name": "Bruno Rendón",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Cuba",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Syracuse Pulse",
+   "Northern Colorado Hailstorm",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Stayed in the U.S. after Cuba's 2018 U-20 exit (not an incident)."
+ },
+ {
+  "id": "daltyn-knutson",
+  "name": "Daltyn Knutson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Miami FC",
+  "career": [
+   "South Georgia Tormenta",
+   "Union Omaha",
+   "South Georgia Tormenta",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bachir-ndiaye",
+  "name": "Bachir Ndiaye",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Senegal",
+  "current_club": "Miami FC",
+  "career": [
+   "Asheville City",
+   "Charlotte Independence",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arney-rocha",
+  "name": "Arney Rocha",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Colombia",
+  "current_club": "Miami FC",
+  "career": [
+   "Real Cundinamarca",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Born year estimated from ESPN age 23."
+ },
+ {
+  "id": "zackery-farnsworth",
+  "name": "Zackery Farnsworth",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Real Monarchs",
+   "Real Salt Lake",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryuga-nakamura",
+  "name": "Ryuga Nakamura",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Japan",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "SK Super Nova",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Earlier club FK Tukums 2000 (Latvia) omitted from clubs because years weren't given; born year estimated from ESPN age 25."
+ },
+ {
+  "id": "wesley-leggett",
+  "name": "Wesley Leggett",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Loudoun United",
+   "Charleston Battery",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stuart-ritchie",
+  "name": "Stuart Ritchie",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Richmond Kickers",
+   "Columbus Crew 2",
+   "One Knoxville",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists him as LM; Wikipedia as left-back."
+ },
+ {
+  "id": "jacob-jackson",
+  "name": "Jacob Jackson",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "New England Revolution",
+   "San Jose Earthquakes",
+   "FC Dallas",
+   "San Diego FC",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. On loan from San Diego FC."
+ },
+ {
+  "id": "luka-malesevic",
+  "name": "Luka Malesevic",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Montenegro",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Rio Grande Valley FC",
+   "Petrovac",
+   "Dečić",
+   "Otrant-Olympic",
+   "Mornar",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists him as RM; Wikipedia as defender."
+ },
+ {
+  "id": "kristopher-shakes",
+  "name": "Kristopher Shakes",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maliek-howell",
+  "name": "Maliek Howell",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Jamaica",
+  "current_club": "New Mexico United",
+  "career": [
+   "Las Vegas Lights",
+   "Birmingham Legion",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jake-lacava",
+  "name": "Jake LaCava",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "New York Red Bulls II",
+   "Tampa Bay Rowdies",
+   "Inter Miami CF",
+   "Charleston Battery",
+   "San Antonio FC",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wolfgang-prentice",
+  "name": "Wolfgang Prentice",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "San Diego 1904",
+   "Oakland Roots",
+   "Northern Colorado Hailstorm",
+   "Forward Madison"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jesus-de-vicente",
+  "name": "Jesús De Vicente",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; no Wikipedia page",
+  "notes": "No incident codes. Born year estimated from ESPN age; career history not found."
+ },
+ {
+  "id": "bertin-jacquesson",
+  "name": "Bertin Jacquesson",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "France",
+  "current_club": "Oakland Roots",
+  "career": [
+   "SO Châtellerault",
+   "Real Salt Lake",
+   "Pittsburgh Riverhounds",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-garcia",
+  "name": "David Garcia",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Spain",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; no Wikipedia page",
+  "notes": "No incident codes. Born year estimated from ESPN age; career history and join date not found (2026 assumed from roster)."
+ },
+ {
+  "id": "beverly-makangila",
+  "name": "Beverly Makangila",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Congo DR",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "FC Saint-Éloi Lupopo",
+   "San Diego Loyal",
+   "Colorado Springs Switchbacks",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,654 @@
+[
+ {
+  "id": "aaron-long",
+  "name": "Aaron Long",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Long_(soccer)"
+  ]
+ },
+ {
+  "id": "cristian-espinoza",
+  "name": "Cristian Espinoza",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Espinoza"
+  ]
+ },
+ {
+  "id": "andy-najar",
+  "name": "Andy Nájar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andy_Najar"
+  ]
+ },
+ {
+  "id": "sam-surridge",
+  "name": "Sam Surridge",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off at Stoke (2021) after an off-ball altercation with Josh Knight",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Surridge"
+  ]
+ },
+ {
+  "id": "carles-gil",
+  "name": "Carles Gil",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.3,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long-serving captain, fan-voted MVP four times; nothing showy on record"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carles_Gil"
+  ]
+ },
+ {
+  "id": "hannes-wolf",
+  "name": "Hannes Wolf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannes_Wolf_(footballer)"
+  ]
+ },
+ {
+  "id": "maxi-moralez",
+  "name": "Maxi Morález",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximiliano_Moralez"
+  ]
+ },
+ {
+  "id": "eduard-atuesta",
+  "name": "Eduard Atuesta",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card in the 2020 CONCACAF Champions League semi-final; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduard_Atuesta"
+  ]
+ },
+ {
+  "id": "marco-pasalic",
+  "name": "Marco Pasalic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Pašalić"
+  ]
+ },
+ {
+  "id": "cavan-sullivan",
+  "name": "Cavan Sullivan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2026 red card in a scuffle after his brother was stepped on was rescinded by the review panel",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cavan_Sullivan"
+  ]
+ },
+ {
+  "id": "kai-wagner",
+  "name": "Kai Wagner",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "suspended three games in 2023 for an anti-Asian slur at Bobby Wood",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "admitted it at once and took part in a restorative process; no public statement found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Wagner",
+   "https://whyy.org/articles/philadelphia-union-mls-suspends-kai-wagner-3-games-anti-discrimination-policy"
+  ]
+ },
+ {
+  "id": "deandre-yedlin",
+  "name": "DeAndre Yedlin",
+  "SP": 5.5,
+  "VO": 8.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "a few red cards (2016 Copa América, 2021 Galatasaray); no diving or violence",
+   "VO": "spoke out on racism and police brutality (2020), LGBTQ+ ally, bought into San Diego Loyal after its walk-off over a homophobic slur",
+   "CO": "usual Newcastle United Foundation school visits",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/DeAndre_Yedlin",
+   "https://www.nbcchicago.com/news/local/usmnts-deandre-yedlin-shows-ally-support-for-lgbtq-community/2999314/"
+  ]
+ },
+ {
+  "id": "diego-luna",
+  "name": "Diego Luna",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; played on with a broken nose (2025), praised by Pochettino for character",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Luna_(soccer,_born_2003)"
+  ]
+ },
+ {
+  "id": "julian-hall",
+  "name": "Julian Hall",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julian_Hall_(soccer)"
+  ]
+ },
+ {
+  "id": "anders-dreyer",
+  "name": "Anders Dreyer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anders_Dreyer"
+  ]
+ },
+ {
+  "id": "albert-rusnak",
+  "name": "Albert Rusnák",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.7,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "Oldham loan (2013) cut short after he reportedly refused a reserve match"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Rusnák_(footballer,_born_1994)"
+  ]
+ },
+ {
+  "id": "jesus-ferreira",
+  "name": "Jesús Ferreira",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jesús_Ferreira"
+  ]
+ },
+ {
+  "id": "walker-zimmerman",
+  "name": "Walker Zimmerman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; a clumsy foul gave Wales a 2022 World Cup penalty",
+   "VO": "nothing notable found",
+   "CO": "funded an endowed soccer scholarship at Furman with his wife (2022)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walker_Zimmerman",
+   "https://furmanpaladins.com/news/2022/4/11/mens-soccer-furman-announces-walker-15-and-sarah-tucker-zimmerman-15-endowed-scholarship-for-mens-soccer.aspx"
+  ]
+ },
+ {
+  "id": "josh-sargent",
+  "name": "Josh Sargent",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "made himself unavailable at Norwich (Jan 2026) amid Toronto interest; no comment of his own found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Sargent"
+  ]
+ },
+ {
+  "id": "ryan-gauld",
+  "name": "Ryan Gauld",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "three red cards early in his career (two for second bookings)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "called Messi comparisons exaggerated; described as level-headed"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Gauld"
+  ]
+ },
+ {
+  "id": "casey-murphy",
+  "name": "Casey Murphy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casey_Murphy"
+  ]
+ },
+ {
+  "id": "nichelle-prince",
+  "name": "Nichelle Prince",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nichelle_Prince"
+  ]
+ },
+ {
+  "id": "amanda-gutierres",
+  "name": "Amanda Gutierres",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amanda_Gutierres"
+  ]
+ },
+ {
+  "id": "lilly-reale",
+  "name": "Lilly Reale",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilly_Reale"
+  ]
+ },
+ {
+  "id": "yazmeen-ryan",
+  "name": "Yazmeen Ryan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yazmeen_Ryan"
+  ]
+ },
+ {
+  "id": "jaelin-howell",
+  "name": "Jaelin Howell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaelin_Howell"
+  ]
+ },
+ {
+  "id": "bruninha",
+  "name": "Bruninha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruninha"
+  ]
+ },
+ {
+  "id": "sarah-puntigam",
+  "name": "Sarah Puntigam",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "came out publicly with teammate visibility posts in 2019; no wider campaigning found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sarah_Puntigam",
+   "https://www.salzburg24.at/news/oesterreich/oefb-stars-outen-sich-mit-kuss-posting-art-222878"
+  ]
+ },
+ {
+  "id": "allysha-chapman",
+  "name": "Allysha Chapman",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "live mic caught her swearing at Australia's Hayley Raso after a collision (2023 World Cup)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allysha_Chapman"
+  ]
+ },
+ {
+  "id": "michelle-cooper",
+  "name": "Michelle Cooper",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michelle_Cooper_(soccer)"
+  ]
+ },
+ {
+  "id": "hailie-mace",
+  "name": "Hailie Mace",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hailie_Mace"
+  ]
+ },
+ {
+  "id": "angelina",
+  "name": "Angelina",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angelina_(footballer)"
+  ]
+ },
+ {
+  "id": "taylor-flint",
+  "name": "Taylor Flint",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red for serious foul play and a four-match ban (2020); one accumulation suspension (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taylor_Flint"
+  ]
+ },
+ {
+  "id": "kenza-dali",
+  "name": "Kenza Dali",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenza_Dali"
+  ]
+ },
+ {
+  "id": "claudia-dickey",
+  "name": "Claudia Dickey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Claudia_Dickey"
+  ]
+ },
+ {
+  "id": "mia-fishel",
+  "name": "Mia Fishel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.8,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "published a children's book, Big Fish (2024); no other community work found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mia_Fishel"
+  ]
+ }
+]

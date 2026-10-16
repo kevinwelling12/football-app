@@ -1,0 +1,641 @@
+[
+ {
+  "id": "andy-diouf",
+  "name": "Andy Diouf",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Internazionale",
+  "career": [
+   "Rennes",
+   "Basel",
+   "Lens",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carlos-augusto",
+  "name": "Carlos Augusto",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Internazionale",
+  "career": [
+   "Corinthians",
+   "Monza",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sasa-kalajdzic",
+  "name": "Sasa Kalajdzic",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "Admira Wacker",
+   "VfB Stuttgart",
+   "Wolverhampton Wanderers",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-risser",
+  "name": "Robin Risser",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Dijon",
+   "Red Star",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nabil-bentaleb",
+  "name": "Nabil Bentaleb",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Algeria",
+  "current_club": "Lille",
+  "career": [
+   "Tottenham Hotspur",
+   "Schalke 04",
+   "Newcastle United",
+   "Angers",
+   "Lille"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Schalke demoted him for disciplinary reasons in 2019; came back from a 2024 cardiac arrest",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alexsandro",
+  "name": "Alexsandro",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Lille",
+  "career": [
+   "Praiense",
+   "Amora",
+   "Chaves",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hakon-haraldsson",
+  "name": "Hákon Haraldsson",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Iceland",
+  "current_club": "Lille",
+  "career": [
+   "Copenhagen",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-andre",
+  "name": "Benjamin André",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Ajaccio",
+   "Rennes",
+   "Lille"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "little public record; long-serving captain, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mathias-olivera",
+  "name": "Mathías Olivera",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Uruguay",
+  "current_club": "Napoli",
+  "career": [
+   "Nacional",
+   "Getafe",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "guus-til",
+  "name": "Guus Til",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Netherlands",
+  "current_club": "PSV",
+  "career": [
+   "AZ",
+   "Spartak Moscow",
+   "SC Freiburg (loan)",
+   "Feyenoord (loan)",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lutsharel-geertruida",
+  "name": "Lutsharel Geertruida",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "PSV (loan)",
+  "career": [
+   "Feyenoord",
+   "RB Leipzig",
+   "Sunderland (loan)",
+   "PSV (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes. Joined PSV, Feyenoord's rival, in 2026 but on loan from RB Leipzig, not directly from Feyenoord."
+ },
+ {
+  "id": "rodrigo-riquelme",
+  "name": "Rodrigo Riquelme",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Atlético Madrid",
+   "AFC Bournemouth",
+   "Mirandés",
+   "Girona",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fran-garcia",
+  "name": "Fran García",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Rayo Vallecano",
+   "Real Madrid",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-roca",
+  "name": "Marc Roca",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Espanyol",
+   "Bayern Munich",
+   "Leeds United",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mykola-matviyenko",
+  "name": "Mykola Matviyenko",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Ukraine",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk",
+   "Karpaty Lviv",
+   "Vorskla Poltava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No causes on record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andraz-sporar",
+  "name": "Andraz Sporar",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Slovenia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Sporting CP",
+   "Braga",
+   "Middlesbrough",
+   "Panathinaikos",
+   "Alanyaspor",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rui-silva",
+  "name": "Rui Silva",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Portugal",
+  "current_club": "Sporting CP",
+  "career": [
+   "Nacional",
+   "Granada",
+   "Real Betis",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-zalazar",
+  "name": "Rodrigo Zalazar",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Uruguay",
+  "current_club": "Sporting CP",
+  "career": [
+   "Korona Kielce",
+   "FC St. Pauli",
+   "Schalke 04",
+   "Braga",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxi-araujo",
+  "name": "Maxi Araújo",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Uruguay",
+  "current_club": "Sporting CP",
+  "career": [
+   "Montevideo Wanderers",
+   "Puebla",
+   "Toluca",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zeno-debast",
+  "name": "Zeno Debast",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Belgium",
+  "current_club": "Sporting CP",
+  "career": [
+   "Anderlecht",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fotis-ioannidis",
+  "name": "Fotis Ioannidis",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Greece",
+  "current_club": "Sporting CP",
+  "career": [
+   "Levadiakos",
+   "Panathinaikos",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "renato-veiga",
+  "name": "Renato Veiga",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Portugal",
+  "current_club": "Villarreal",
+  "career": [
+   "Basel",
+   "Chelsea",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tajon-buchanan",
+  "name": "Tajon Buchanan",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Villarreal",
+  "career": [
+   "New England Revolution",
+   "Club Brugge",
+   "Inter Milan",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "santiago-mourino",
+  "name": "Santiago Mouriño",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Uruguay",
+  "current_club": "Villarreal",
+  "career": [
+   "Racing Montevideo",
+   "Real Zaragoza",
+   "Deportivo Alavés",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-freeman",
+  "name": "Alex Freeman",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Villarreal",
+  "career": [
+   "Orlando City",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record; in a Nov 2025 team scuffle v Paraguay, not booked",
+  "notes": "No incident codes. Involved in a Nov 2025 scuffle with Paraguay's Gustavo Gómez; not booked."
+ },
+ {
+  "id": "eloy-room",
+  "name": "Eloy Room",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Curaçao",
+  "current_club": "Miami FC",
+  "career": [
+   "Go Ahead Eagles",
+   "PSV",
+   "Columbus Crew",
+   "Vitesse",
+   "Cercle Brugge",
+   "Miami FC"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "captain, nothing negative on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mark-anthony-kaye",
+  "name": "Mark-Anthony Kaye",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Canada",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Los Angeles FC",
+   "Colorado Rapids",
+   "Toronto FC",
+   "New England Revolution",
+   "San Jose Earthquakes",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "spoke publicly on racial justice; described as locker-room leader",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adam-hlozek",
+  "name": "Adam Hlozek",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Czechia",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Sparta Prague",
+   "Bayer Leverkusen",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chris-fuhrich",
+  "name": "Chris Führich",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "1. FC Köln",
+   "SC Paderborn (loan)",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ermedin-demirovic",
+  "name": "Ermedin Demirovic",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Alavés",
+   "St. Gallen (loan)",
+   "SC Freiburg",
+   "FC Augsburg",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jamie-leweling",
+  "name": "Jamie Leweling",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Greuther Fürth",
+   "Union Berlin",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-christie",
+  "name": "Ryan Christie",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Scotland",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Inverness Caledonian Thistle",
+   "Celtic",
+   "Aberdeen",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "no causes or incidents on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxim-de-cuyper",
+  "name": "Maxim De Cuyper",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Belgium",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Club Brugge",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jan-bednarek",
+  "name": "Jan Bednarek",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Poland",
+  "current_club": "Porto",
+  "career": [
+   "Lech Poznań",
+   "Southampton",
+   "Aston Villa",
+   "Porto"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "spoke openly about mental-health struggles; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-turner",
+  "name": "Matt Turner",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "New England Revolution (loan)",
+  "career": [
+   "New England Revolution",
+   "Arsenal",
+   "Nottingham Forest",
+   "Crystal Palace (loan)",
+   "Lyon",
+   "New England Revolution (loan)"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble late-bloomer story",
+  "notes": ""
+ },
+ {
+  "id": "christian-gunter",
+  "name": "Christian Günter",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "SC Freiburg",
+  "career": [
+   "SC Freiburg"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ }
+]

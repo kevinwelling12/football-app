@@ -1,0 +1,653 @@
+[
+ {
+  "id": "yohei-takaoka",
+  "name": "Yohei Takaoka",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for handling outside the box (2020); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yohei_Takaoka"
+  ]
+ },
+ {
+  "id": "emmanuel-sabbi",
+  "name": "Emmanuel Sabbi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emmanuel_Sabbi"
+  ]
+ },
+ {
+  "id": "cheick-sabaly",
+  "name": "Cheick Sabaly",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cheikh_Sabaly"
+  ]
+ },
+ {
+  "id": "angelina-anderson",
+  "name": "Angelina Anderson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angelina_Anderson"
+  ]
+ },
+ {
+  "id": "hannah-bebar",
+  "name": "Hannah Bebar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Bebar"
+  ]
+ },
+ {
+  "id": "jordan-silkowitz",
+  "name": "Jordan Silkowitz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Silkowitz"
+  ]
+ },
+ {
+  "id": "taylor-huff",
+  "name": "Taylor Huff",
+  "SP": 6.0,
+  "VO": 5.3,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "quoted on the NWSL abuse scandal (2022); no detail of a stand",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taylor_Huff"
+  ]
+ },
+ {
+  "id": "annie-karich",
+  "name": "Annie Karich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Annie_Karich"
+  ]
+ },
+ {
+  "id": "alba-cano",
+  "name": "Alba Caño",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alba_Caño"
+  ]
+ },
+ {
+  "id": "barbara-olivieri",
+  "name": "Bárbara Olivieri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bárbara_Olivieri"
+  ]
+ },
+ {
+  "id": "aissata-traore",
+  "name": "Aïssata Traoré",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aïssata_Traoré"
+  ]
+ },
+ {
+  "id": "bianca-st-georges",
+  "name": "Bianca St-Georges",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card plus extra ban and fine for an obscene gesture at the referee (2022); another sending-off for two bookings (2026)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bianca_St-Georges"
+  ]
+ },
+ {
+  "id": "nicki-hernandez",
+  "name": "Nicki Hernández",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for a foul after VAR review, 2024 W Gold Cup semi-final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicki_Hernández"
+  ]
+ },
+ {
+  "id": "brianna-pinto",
+  "name": "Brianna Pinto",
+  "SP": 6.0,
+  "VO": 7.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "won a US Soccer Athletes' Council seat to diversify leadership; NWSLPA CBA negotiator; outspoken as a Black woman athlete",
+   "CO": "runs a foundation for children from underserved communities (per podcast and UNC sources)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brianna_Pinto",
+   "https://www.buzzsprout.com/1797864/episodes/16674933-ep-44-beyond-the-field-building-a-personal-brand-that-lasts-with-brianna-pinto",
+   "https://campaign.unc.edu/?p=217991"
+  ]
+ },
+ {
+  "id": "aaliyah-farmer",
+  "name": "Aaliyah Farmer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaliyah_Farmer"
+  ]
+ },
+ {
+  "id": "katie-atkinson",
+  "name": "Katie Atkinson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Katie_Lund"
+  ]
+ },
+ {
+  "id": "delanie-sheehan",
+  "name": "Delanie Sheehan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Delanie_Sheehan"
+  ]
+ },
+ {
+  "id": "ayo-oke",
+  "name": "Ayo Oke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayo_Oke_(soccer)"
+  ]
+ },
+ {
+  "id": "emma-regan",
+  "name": "Emma Regan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emma_Regan"
+  ]
+ },
+ {
+  "id": "megan-reid",
+  "name": "Megan Reid",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "volunteered at a local fire department, later an EMT and paramedic intern",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Megan_Reid"
+  ]
+ },
+ {
+  "id": "mandy-freeman",
+  "name": "Mandy Freeman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mandy_Freeman"
+  ]
+ },
+ {
+  "id": "leah-klenke",
+  "name": "Leah Klenke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leah_Klenke"
+  ]
+ },
+ {
+  "id": "linda-ullmark",
+  "name": "Linda Ullmark",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Linda_Ullmark"
+  ]
+ },
+ {
+  "id": "kate-faasse",
+  "name": "Kate Faasse",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kate_Faasse"
+  ]
+ },
+ {
+  "id": "kiki-van-zanten",
+  "name": "Kiki Van Zanten",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiki_Van_Zanten"
+  ]
+ },
+ {
+  "id": "malia-berkely",
+  "name": "Malia Berkely",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malia_Berkely"
+  ]
+ },
+ {
+  "id": "clarissa-larisey",
+  "name": "Clarissa Laris­ey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.3,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "press coverage describes her as humble"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clarissa_Larisey"
+  ]
+ },
+ {
+  "id": "haley-hopkins",
+  "name": "Haley Hopkins",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "NWSLPA president (2025), negotiated the 2024 CBA for player protections",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haley_Hopkins",
+   "https://www.thepitchkc.com/?p=936358"
+  ]
+ },
+ {
+  "id": "vanessa-dibernardo",
+  "name": "Vanessa DiBernardo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.3,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "fan-voted team Unsung Hero (2015); Red Stars captain"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vanessa_DiBernardo"
+  ]
+ },
+ {
+  "id": "shinomi-koyama",
+  "name": "Shinomi Koyama",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shinomi_Koyama"
+  ]
+ },
+ {
+  "id": "riley-jackson",
+  "name": "Riley Jackson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riley_Jackson"
+  ]
+ },
+ {
+  "id": "carly-wickenheiser",
+  "name": "Carly Wickenheiser",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carly_Wickenheiser"
+  ]
+ },
+ {
+  "id": "cori-dyke",
+  "name": "Cori Dyke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cori_Dyke"
+  ]
+ },
+ {
+  "id": "ally-lemos",
+  "name": "Ally Lemos",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ally_Lemos"
+  ]
+ },
+ {
+  "id": "summer-yates",
+  "name": "Summer Yates",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Summer_Yates"
+  ]
+ },
+ {
+  "id": "cassandra-bogere",
+  "name": "Cassandra Bogere",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fastest double-yellow sending-off in NWSL history (2026)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cassandra_Bogere"
+  ]
+ }
+]

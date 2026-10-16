@@ -1,0 +1,666 @@
+[
+ {
+  "id": "jakub-markovic",
+  "name": "Jakub Markovic",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Slavia Prague",
+   "Mladá Boleslav",
+   "Vlašim",
+   "Pardubice",
+   "Baník Ostrava",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "danijel-sturm",
+  "name": "Danijel Sturm",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Slovenia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Bilje",
+   "Maribor",
+   "Domžale",
+   "Celje",
+   "Sigma Olomouc",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wiktor-nowak",
+  "name": "Wiktor Nowak",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Poland",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Znicz Pruszków",
+   "Górnik Zabrze",
+   "Wisła Płock",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kenan-bajric",
+  "name": "Kenan Bajric",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Slovenia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Olimpija Ljubljana",
+   "Slovan Bratislava",
+   "Pafos"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "svetozar-markovic",
+  "name": "Svetozar Markovic",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Serbia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Partizan",
+   "Olympiacos",
+   "AEL",
+   "Partizan",
+   "Viktoria Plzeň",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-pokorny",
+  "name": "Peter Pokorny",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Slovakia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "FC Liefering",
+   "Red Bull Salzburg",
+   "SKN St. Pölten",
+   "Fehérvár",
+   "Śląsk Wrocław",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "suleiman-camara",
+  "name": "Suleiman Camara",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Gambia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Girona",
+   "UD Ibiza",
+   "Racing Santander",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sandro-cruz",
+  "name": "Sandro Cruz",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Angola",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Benfica",
+   "Chaves",
+   "Gil Vicente",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rahim-ibrahim",
+  "name": "Rahim Ibrahim",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Ghana",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "AS Trenčín",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "artur-gajdos",
+  "name": "Artur Gajdos",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Slovakia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "AS Trenčín",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nino-marcelli",
+  "name": "Nino Marcelli",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Slovakia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "flavio-goncalves",
+  "name": "Flávio Gonçalves",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Portugal",
+  "current_club": "Sporting CP",
+  "career": [
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-christiansen",
+  "name": "Peter Christiansen",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Denmark",
+  "current_club": "Viking FK",
+  "career": [
+   "SønderjyskE",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kristoffer-haugen",
+  "name": "Kristoffer Haugen",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Molde",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "henrik-rorvik-bjordal",
+  "name": "Henrik Rorvik Bjordal",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Aalesund",
+   "Zulte Waregem",
+   "Vålerenga",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kristoffer-askildsen",
+  "name": "Kristoffer Askildsen",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Stabæk",
+   "Sampdoria",
+   "Lecce",
+   "Midtjylland",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gianni-stensness",
+  "name": "Gianni Stensness",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Australia",
+  "current_club": "Viking FK",
+  "career": [
+   "Wellington Phoenix",
+   "Central Coast Mariners",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jesper-daland",
+  "name": "Jesper Daland",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Start",
+   "Cercle Brugge",
+   "Cardiff City",
+   "Fortuna Düsseldorf",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "henrik-heggheim",
+  "name": "Henrik Heggheim",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Brøndby",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "simen-kvia-egeskog",
+  "name": "Simen Kvia-Egeskog",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Skeid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jassem-koleilat",
+  "name": "Jassem Koleilat",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Czechia",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Forge FC",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Czech, Lebanese and Canadian."
+ },
+ {
+  "id": "tyler-pasher",
+  "name": "Tyler Pasher",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Canada",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "PS Kemi",
+   "Pittsburgh Riverhounds",
+   "Sporting Kansas City",
+   "Indy Eleven",
+   "Houston Dynamo",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-vassell",
+  "name": "Peter Vassell",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Jamaica",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Harbour View",
+   "Los Angeles FC",
+   "Indy Eleven",
+   "Hartford Athletic",
+   "Montego Bay United",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia lists him as Peter-Lee Vassell; age and club match."
+ },
+ {
+  "id": "samuel-shashoua",
+  "name": "Samuel Shashoua",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Atlético Baleares",
+   "Tenerife",
+   "Albacete",
+   "Minnesota United",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Tottenham academy graduate (no first-team apps)."
+ },
+ {
+  "id": "romario-williams",
+  "name": "Romario Williams",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Jamaica",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Qadsia",
+   "New Mexico United",
+   "Colorado Springs Switchbacks",
+   "Hartford Athletic",
+   "Indy Eleven",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Kuwait (Qadsia) is not a coded money league."
+ },
+ {
+  "id": "ronaldo-damus",
+  "name": "Ronaldo Damus",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Haiti",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "North Texas SC",
+   "Orange County SC",
+   "GIF Sundsvall",
+   "San Diego Loyal",
+   "Colorado Springs Switchbacks",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thomas-vancaeyezeele",
+  "name": "Thomas Vancaeyezeele",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "French Guiana",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Birmingham Legion",
+   "Tampa Bay Rowdies",
+   "Bassin d'Arcachon",
+   "Hartford Athletic",
+   "Tampa Bay Rowdies",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-mclaughlin",
+  "name": "Ryan McLaughlin",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Northern Ireland",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Oldham Athletic",
+   "Blackpool",
+   "Rochdale",
+   "Morecambe",
+   "St Patrick's Athletic",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeremy-kelly",
+  "name": "Jeremy Kelly",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Colorado Rapids",
+   "Phoenix Rising FC",
+   "Memphis 901",
+   "FC Tulsa",
+   "Crawley Town",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "graham-smith",
+  "name": "Graham Smith",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Sporting Kansas City",
+   "Memphis 901",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miguel-berry",
+  "name": "Miguel Berry",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Columbus Crew",
+   "San Diego Loyal",
+   "D.C. United",
+   "Atlanta United",
+   "LA Galaxy",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "part of San Diego Loyal's walk-off over slurs",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maalique-foster",
+  "name": "Maalique Foster",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Jamaica",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Portmore United",
+   "Alajuelense",
+   "Sacramento Republic",
+   "Colorado Springs Switchbacks",
+   "Indy Eleven",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "douglas-martinez",
+  "name": "Douglas Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Honduras",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Real Monarchs",
+   "Real Salt Lake",
+   "San Diego Loyal",
+   "Sacramento Republic",
+   "Indy Eleven",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "laurent-kissiedou",
+  "name": "Laurent Kissiedou",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Ivory Coast",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Atlanta United 2",
+   "Memphis 901",
+   "FK Pardubice",
+   "Detroit City FC",
+   "FK Příbram",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "khori-bennett",
+  "name": "Khori Bennett",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Jamaica",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Reading United",
+   "Charlotte Independence",
+   "Las Vegas Lights",
+   "Al-Nasr (Kuwait)",
+   "Sacramento Republic",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "little public record; nothing negative found; youth sportsmanship prize",
+  "notes": "No incident codes. 2025 move to Kuwaiti Al-Nasr is outside the money_league list."
+ },
+ {
+  "id": "adrien-perez",
+  "name": "Adrien Perez",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "FC Golden State Force",
+   "Los Angeles FC",
+   "D.C. United",
+   "San Diego Loyal",
+   "Louisville City",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ }
+]

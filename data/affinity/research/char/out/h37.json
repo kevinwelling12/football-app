@@ -1,0 +1,652 @@
+[
+ {
+  "id": "oleksandr-svatok",
+  "name": "Oleksandr Svatok",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oleksandr_Svatok"
+  ]
+ },
+ {
+  "id": "ilie-sanchez",
+  "name": "Ilie Sánchez",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two MLS red cards (2019, 2022), otherwise unremarkable",
+   "VO": "nothing notable found",
+   "CO": "coached an under-14 side during a coaching course; no charity noted",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilie_Sánchez"
+  ]
+ },
+ {
+  "id": "mikkel-desler",
+  "name": "Mikkel Desler",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikkel_Desler"
+  ]
+ },
+ {
+  "id": "samuel-piette",
+  "name": "Samuel Piette",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "investor-ambassador for Montréal Roses to promote women's soccer (2024)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samuel_Piette",
+   "https://en.rosesmtl.ca/news/samuel-piette-joins-the-montréal-roses-as-investor-ambassador"
+  ]
+ },
+ {
+  "id": "nathan-byrne",
+  "name": "Nathan Byrne",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (2013 play-off); nothing else notable",
+   "VO": "target of racist tweets in 2019; no campaign of his own found",
+   "CO": "nothing notable found",
+   "HU": "ended Derby contract under TUPE in 2022, lawful; nothing else notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Byrne"
+  ]
+ },
+ {
+  "id": "harry-toffolo",
+  "name": "Harry Toffolo",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (2017); admitted 375 FA betting-rule breaches, suspended ban 2023",
+   "VO": "Dementia UK ambassador (grandfather had dementia)",
+   "CO": "community events and school visits at Swindon; Dementia UK ambassador",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Toffolo"
+  ]
+ },
+ {
+  "id": "chris-brady",
+  "name": "Chris Brady",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Brady_(soccer)"
+  ]
+ },
+ {
+  "id": "andrew-gutman",
+  "name": "Andrew Gutman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrew_Gutman"
+  ]
+ },
+ {
+  "id": "puso-dithejane",
+  "name": "Puso Dithejane",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puso_Dithejane"
+  ]
+ },
+ {
+  "id": "hamzat-ojediran",
+  "name": "Hamzat Ojediran",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamzat_Ojediran"
+  ]
+ },
+ {
+  "id": "miguel-navarro",
+  "name": "Miguel Navarro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miguel_Navarro_(footballer)"
+  ]
+ },
+ {
+  "id": "keegan-rosenberry",
+  "name": "Keegan Rosenberry",
+  "SP": 8.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "MLS Fair Play Award 2016",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "club captain praised for professionalism; nothing else notable"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keegan_Rosenberry"
+  ]
+ },
+ {
+  "id": "silvan-hefti",
+  "name": "Silvan Hefti",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Silvan_Hefti"
+  ]
+ },
+ {
+  "id": "kye-rowles",
+  "name": "Kye Rowles",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kye_Rowles"
+  ]
+ },
+ {
+  "id": "kimito-nono",
+  "name": "Kimito Nono",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off (two yellows) on J.League Cup debut 2024",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kimito_Nono"
+  ]
+ },
+ {
+  "id": "pavel-bucha",
+  "name": "Pavel Bucha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.8,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2018 contract dispute: left Slavia for rivals Plzeň after refusing extension"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pavel_Bucha"
+  ]
+ },
+ {
+  "id": "roman-celentano",
+  "name": "Roman Celentano",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roman_Celentano"
+  ]
+ },
+ {
+  "id": "obinna-nwobodo",
+  "name": "Obinna Nwobodo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Obinna_Nwobodo"
+  ]
+ },
+ {
+  "id": "shaq-moore",
+  "name": "Shaq Moore",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "left Reus in 2018 over unpaid wages, with four teammates; not a conduct issue"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shaq_Moore"
+  ]
+ },
+ {
+  "id": "artur",
+  "name": "Artur",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "only a yellow-card accumulation ban (2017); nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "Houston captain noted for work ethic and leadership"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Artur_(footballer,_born_1996)"
+  ]
+ },
+ {
+  "id": "agustin-bouzat",
+  "name": "Agustín Bouzat",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Agustín_Bouzat"
+  ]
+ },
+ {
+  "id": "antonio-carlos",
+  "name": "Antônio Carlos",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antônio_Carlos_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "id": "telasco-segovia",
+  "name": "Telasco Segovia",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telasco_Segovia"
+  ]
+ },
+ {
+  "id": "facundo-mura",
+  "name": "Facundo Mura",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Facundo_Mura"
+  ]
+ },
+ {
+  "id": "erik-thommy",
+  "name": "Erik Thommy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "captained Sporting Kansas City in 2025; nothing else notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Erik_Thommy"
+  ]
+ },
+ {
+  "id": "robert-taylor",
+  "name": "Robert Taylor",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "declined a Finland Euro play-off call-up in 2024 for a club match, criticised in Finland"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Taylor_(footballer,_born_1994)"
+  ]
+ },
+ {
+  "id": "eddie-segura",
+  "name": "Eddie Segura",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eddie_Segura"
+  ]
+ },
+ {
+  "id": "mark-delgado",
+  "name": "Mark Delgado",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "moved straight from Galaxy to rivals LAFC (2025); nothing else notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Delgado"
+  ]
+ },
+ {
+  "id": "timothy-tillman",
+  "name": "Timothy Tillman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timothy_Tillman"
+  ]
+ },
+ {
+  "id": "tyler-boyd",
+  "name": "Tyler Boyd",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Boyd_(soccer)"
+  ]
+ },
+ {
+  "id": "yevhen-cheberko",
+  "name": "Yevhen Cheberko",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "refused to play or travel for Osijek in 2023 to force a move, then apologised"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yevhen_Cheberko"
+  ]
+ },
+ {
+  "id": "sergi-palencia",
+  "name": "Sergi Palencia",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card for Barcelona B (2015); cleared by Concacaf of a 2025 discriminatory-language accusation",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Palencia"
+  ]
+ },
+ {
+  "id": "drake-callender",
+  "name": "Drake Callender",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Drake_Callender"
+  ]
+ },
+ {
+  "id": "anthony-markanich",
+  "name": "Anthony Markanich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Markanich"
+  ]
+ },
+ {
+  "id": "joaquin-pereyra",
+  "name": "Joaquín Pereyra",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://es.wikipedia.org/wiki/Joaquín_Pereyra"
+  ]
+ },
+ {
+  "id": "wil-trapp",
+  "name": "Wil Trapp",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "one red card (2014); nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "Crew Humanitarian of the Year 2018 (Habitat for Humanity, Make-A-Wish), MLS finalist; NAMI jersey auction",
+   "HU": "long-time captain and leadership-council head; no feuds found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wil_Trapp",
+   "https://www.columbuscrew.com/news/team-awards-wil-trapp-named-crew-scs-ohiohealth-humanitarian-year"
+  ]
+ }
+]

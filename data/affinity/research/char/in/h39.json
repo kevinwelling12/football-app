@@ -1,0 +1,594 @@
+[
+ {
+  "id": "yohei-takaoka",
+  "name": "Yohei Takaoka",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Japan",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Yokohama FC",
+   "Sagan Tosu",
+   "Yokohama F. Marinos",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emmanuel-sabbi",
+  "name": "Emmanuel Sabbi",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Hobro IK",
+   "Odense Boldklub",
+   "Le Havre",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cheick-sabaly",
+  "name": "Cheick Sabaly",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Senegal",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Metz",
+   "Pau",
+   "Quevilly-Rouen",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia title spells him Cheikh Sabaly; same player (Metz to Vancouver, 2026)."
+ },
+ {
+  "id": "angelina-anderson",
+  "name": "Angelina Anderson",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hannah-bebar",
+  "name": "Hannah Bebar",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordan-silkowitz",
+  "name": "Jordan Silkowitz",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Kansas City Current",
+   "Brisbane Roar (loan)",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "taylor-huff",
+  "name": "Taylor Huff",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "annie-karich",
+  "name": "Annie Karich",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "SC Freiburg",
+   "Club América (loan)",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alba-cano",
+  "name": "Alba Caño",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Barcelona",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "barbara-olivieri",
+  "name": "Bárbara Olivieri",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "Venezuela",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Monterrey",
+   "Houston Dash",
+   "Tigres UANL (loan)",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aissata-traore",
+  "name": "Aïssata Traoré",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Mali",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Beşiktaş (loan)",
+   "Guingamp",
+   "Fleury",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bianca-st-georges",
+  "name": "Bianca St-Georges",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Chicago Red Stars",
+   "North Carolina Courage",
+   "Utah Royals",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "red card and extra ban for gesturing at a referee (2022)",
+  "notes": "No incident codes. Sent off and given an extra NWSL ban and fine for an obscene gesture at the referee (2022); dissent, not violent conduct."
+ },
+ {
+  "id": "nicki-hernandez",
+  "name": "Nicki Hernández",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Mexico",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Club América",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes. Sent off after VAR review in the 2024 W Gold Cup semi-final; the source gives no detail of violent conduct."
+ },
+ {
+  "id": "brianna-pinto",
+  "name": "Brianna Pinto",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "NJ/NY Gotham FC",
+   "North Carolina Courage",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "players' union and Athletes' Council work, diversity advocacy",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aaliyah-farmer",
+  "name": "Aaliyah Farmer",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "Mexico",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Tigres UANL",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; left Tigres after harassment in Mexico (she was the target)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "katie-atkinson",
+  "name": "Katie Atkinson",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Washington Spirit",
+   "Racing Louisville",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. Formerly Katie Lund."
+ },
+ {
+  "id": "delanie-sheehan",
+  "name": "Delanie Sheehan",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "NJ/NY Gotham FC",
+   "Houston Dash",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ayo-oke",
+  "name": "Ayo Oke",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "CF Pachuca",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emma-regan",
+  "name": "Emma Regan",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "HB Køge",
+   "AFC Toronto",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "megan-reid",
+  "name": "Megan Reid",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Canada",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Angel City FC",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mandy-freeman",
+  "name": "Mandy Freeman",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leah-klenke",
+  "name": "Leah Klenke",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "linda-ullmark",
+  "name": "Linda Ullmark",
+  "gender": "W",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kate-faasse",
+  "name": "Kate Faasse",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kiki-van-zanten",
+  "name": "Kiki Van Zanten",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Jamaica",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malia-berkely",
+  "name": "Malia Berkely",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Bordeaux",
+   "North Carolina Courage",
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "clarissa-larisey",
+  "name": "Clarissa Laris­ey",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Houston Dash",
+  "career": [
+   "Valur",
+   "Celtic",
+   "BK Häcken",
+   "Crystal Palace",
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "haley-hopkins",
+  "name": "Haley Hopkins",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "North Carolina Courage",
+   "Kansas City Current"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "elected NWSL Players Association president",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vanessa-dibernardo",
+  "name": "Vanessa DiBernardo",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Chicago Red Stars",
+   "Perth Glory",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "shinomi-koyama",
+  "name": "Shinomi Koyama",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Japan",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Cerezo Osaka Yanmar Ladies",
+   "Djurgårdens IF",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "riley-jackson",
+  "name": "Riley Jackson",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carly-wickenheiser",
+  "name": "Carly Wickenheiser",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Morön BK",
+   "KIF Örebro",
+   "Kristianstads DFF",
+   "BK Häcken",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes. Born in the US, plays for Canada."
+ },
+ {
+  "id": "cori-dyke",
+  "name": "Cori Dyke",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ally-lemos",
+  "name": "Ally Lemos",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "summer-yates",
+  "name": "Summer Yates",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cassandra-bogere",
+  "name": "Cassandra Bogere",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Norway",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Røa",
+   "Brann",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; fastest double-yellow in NWSL history (2026)",
+  "notes": "No incident codes; 9th-minute sending-off for two bookings (March 2026), not violent conduct. Wikipedia says she switched to Sweden in 2026 (ESPN lists Norway)."
+ }
+]

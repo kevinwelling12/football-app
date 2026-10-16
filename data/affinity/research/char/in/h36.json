@@ -1,0 +1,627 @@
+[
+ {
+  "id": "frank-onyeka",
+  "name": "Frank Onyeka",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Nigeria",
+  "current_club": "Coventry City",
+  "career": [
+   "Midtjylland",
+   "Brentford",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aurele-amenda",
+  "name": "Aurèle Amenda",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Switzerland",
+  "current_club": "Coventry City",
+  "career": [
+   "Young Boys",
+   "Eintracht Frankfurt",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "loum-tchaouna",
+  "name": "Loum Tchaouna",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Coventry City",
+  "career": [
+   "Rennes",
+   "Salernitana",
+   "Lazio",
+   "Burnley",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jaydee-canvot",
+  "name": "Jaydee Canvot",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "France",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Toulouse",
+   "Crystal Palace"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "criticised for celebrating a wrongly shown red card to an opponent (2026)",
+  "notes": "No incident codes; celebrated a wrong red card for an opponent in March 2026 (reflected in CH)."
+ },
+ {
+  "id": "tyrique-george",
+  "name": "Tyrique George",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Chelsea",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "merlin-rohl",
+  "name": "Merlin Röhl",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Everton",
+  "career": [
+   "FC Ingolstadt",
+   "SC Freiburg",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josh-king",
+  "name": "Josh King",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "England",
+  "current_club": "Fulham",
+  "career": [
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; academy teenager",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "shea-charles",
+  "name": "Shea Charles",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Northern Ireland",
+  "current_club": "Fulham",
+  "career": [
+   "Manchester City",
+   "Southampton",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-affengruber",
+  "name": "David Affengruber",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Austria",
+  "current_club": "Fulham",
+  "career": [
+   "Sturm Graz",
+   "Elche",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-sessegnon",
+  "name": "Ryan Sessegnon",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Fulham",
+  "career": [
+   "Fulham",
+   "Tottenham Hotspur",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "john-egan",
+  "name": "John Egan",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Republic of Ireland",
+  "current_club": "Hull City",
+  "career": [
+   "Gillingham",
+   "Brentford",
+   "Sheffield United",
+   "Burnley",
+   "Hull City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "respected leader, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "semi-ajayi",
+  "name": "Semi Ajayi",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Nigeria",
+  "current_club": "Hull City",
+  "career": [
+   "Cardiff City",
+   "Rotherham United",
+   "West Bromwich Albion",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oliver-mcburnie",
+  "name": "Oliver McBurnie",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Scotland",
+  "current_club": "Hull City",
+  "career": [
+   "Bradford City",
+   "Swansea City",
+   "Sheffield United",
+   "Las Palmas",
+   "Hull City"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "drink-driving conviction 2020, FA warning over conduct towards fans, assault charge from 2022 pitch invasion (acquitted)",
+  "notes": "criminal_other: convicted of drink-driving in 2020 (£28,500 fine, 16-month ban). Separately acquitted of assault on a fan after the 2022 City Ground pitch invasion (not coded)."
+ },
+ {
+  "id": "nobel-mendy",
+  "name": "Nobel Mendy",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Senegal",
+  "current_club": "Hull City",
+  "career": [
+   "Paris FC",
+   "Real Betis",
+   "Rayo Vallecano",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sorba-thomas",
+  "name": "Sorba Thomas",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Wales",
+  "current_club": "Hull City",
+  "career": [
+   "Boreham Wood",
+   "Huddersfield Town",
+   "Stoke City",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch; unhurt in a car crash in Sept 2026",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-herrington",
+  "name": "Lucas Herrington",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Australia",
+  "current_club": "Hull City",
+  "career": [
+   "Brisbane Roar",
+   "Colorado Rapids",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-gourna-douath",
+  "name": "Lucas Gourna-Douath",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Hull City",
+  "career": [
+   "Saint-Étienne",
+   "Red Bull Salzburg",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; unhurt in a single-car collision in Oct 2026",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mohamed-ali-cho",
+  "name": "Mohamed-Ali Cho",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "France",
+  "current_club": "Hull City",
+  "career": [
+   "Angers",
+   "Real Sociedad",
+   "Nice",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dara-o-shea",
+  "name": "Dara O'Shea",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Republic of Ireland",
+  "current_club": "Ipswich Town",
+  "career": [
+   "West Bromwich Albion",
+   "Burnley",
+   "Ipswich Town"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "clean record, no booking in a full Championship season",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leif-davis",
+  "name": "Leif Davis",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Morecambe",
+   "Leeds United",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fatawu-issahaku",
+  "name": "Fatawu Issahaku",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Ghana",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Sporting CP",
+   "Leicester City",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record; warm farewell to Leicester fans",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kjell-scherpen",
+  "name": "Kjell Scherpen",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Emmen",
+   "Ajax",
+   "Brighton & Hove Albion",
+   "Sturm Graz",
+   "Union Saint-Gilloise",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jacob-greaves",
+  "name": "Jacob Greaves",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Hull City",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-clarke",
+  "name": "Jack Clarke",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Leeds United",
+   "Tottenham Hotspur",
+   "Sunderland",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marcelino-nunez",
+  "name": "Marcelino Núñez",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Chile",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Universidad Católica",
+   "Norwich City",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lewis-miley",
+  "name": "Lewis Miley",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Newcastle United",
+  "career": [
+   "Newcastle United"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "local academy product, nothing negative on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jacob-murphy",
+  "name": "Jacob Murphy",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Newcastle United",
+  "career": [
+   "Norwich City",
+   "Coventry City",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro; apologised for a 2014 loan-spell post",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bazoumana-toure",
+  "name": "Bazoumana Touré",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Ivory Coast",
+  "current_club": "Newcastle United",
+  "career": [
+   "Hammarby",
+   "Hoffenheim",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-mcatee",
+  "name": "James McAtee",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Manchester City",
+   "Sheffield United",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nilson-angulo",
+  "name": "Nilson Angulo",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Ecuador",
+  "current_club": "Sunderland",
+  "career": [
+   "LDU Quito",
+   "Anderlecht",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "danny-ballard",
+  "name": "Danny Ballard",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Northern Ireland",
+  "current_club": "Sunderland",
+  "career": [
+   "Arsenal",
+   "Blackpool",
+   "Millwall",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "trai-hume",
+  "name": "Trai Hume",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Northern Ireland",
+  "current_club": "Sunderland",
+  "career": [
+   "Linfield",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "antonin-kinsky",
+  "name": "Antonín Kinsky",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Czechia",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Dukla Prague",
+   "Slavia Prague",
+   "MFK Vyškov",
+   "FK Pardubice",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "enea-mihaj",
+  "name": "Enea Mihaj",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Albania",
+  "current_club": "Atlanta United",
+  "career": [
+   "Panetolikos",
+   "PAOK",
+   "Famalicão",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "steven-alzate",
+  "name": "Steven Alzate",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Colombia",
+  "current_club": "Atlanta United",
+  "career": [
+   "Leyton Orient",
+   "Brighton & Hove Albion",
+   "Swindon Town",
+   "Standard Liège",
+   "Hull City",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "guilherme-biro",
+  "name": "Guilherme Biro",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Austin FC",
+  "career": [
+   "Coritiba",
+   "Mirassol",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ }
+]

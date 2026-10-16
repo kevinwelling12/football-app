@@ -1,0 +1,601 @@
+[
+ {
+  "id": "reilyn-turner",
+  "name": "Reilyn Turner",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Racing Louisville",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lauren-milliet",
+  "name": "Lauren Milliet",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "North Carolina Courage",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordyn-bloomer",
+  "name": "Jordyn Bloomer",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kayla-fischer",
+  "name": "Kayla Fischer",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "record 10 yellow cards in 2024; hair-pull red, apologised",
+  "notes": "red_card_violence 1: sent off May 2025 for pulling Madison Hammond's hair and dragging her down at a corner; 3-match ban, apologised."
+ },
+ {
+  "id": "ellie-jean",
+  "name": "Ellie Jean",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "FC Nordsjælland",
+   "PSV",
+   "NJ/NY Gotham FC",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ella-hase",
+  "name": "Ella Hase",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Racing Louisville",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Traded to North Carolina Courage on 8 Oct 2026 (ESPN still lists Racing Louisville)."
+ },
+ {
+  "id": "courtney-petersen",
+  "name": "Courtney Petersen",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Orlando Pride",
+   "Houston Dash",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kristen-mcnabb",
+  "name": "Kristen McNabb",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Seattle Reign FC",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lia-godfrey",
+  "name": "Lia Godfrey",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "trinity-byars",
+  "name": "Trinity Byars",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "phoebe-mcclernon",
+  "name": "Phoebe McClernon",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Växjö DFF",
+   "Orlando Pride",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sam-meza",
+  "name": "Sam Meza",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC",
+   "Dallas Trinity FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ainsley-mccammon",
+  "name": "Ainsley McCammon",
+  "gender": "W",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kate-del-fava",
+  "name": "Kate Del Fava",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "Utah Royals",
+   "Kansas City Current",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nuria-rabano",
+  "name": "Nuria Rábano",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "Utah Royals",
+  "career": [
+   "Atlético Arousana",
+   "Deportivo La Coruña",
+   "Real Sociedad",
+   "Barcelona",
+   "VfL Wolfsburg",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kate-wiesner",
+  "name": "Kate Wiesner",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alberto-brignoli",
+  "name": "Alberto Brignoli",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Italy",
+  "current_club": "AEK Athens",
+  "career": [
+   "Juventus",
+   "Benevento",
+   "Palermo",
+   "Empoli",
+   "Panathinaikos",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harold-moukoudi",
+  "name": "Harold Moukoudi",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Cameroon",
+  "current_club": "AEK Athens",
+  "career": [
+   "Le Havre",
+   "Saint-Étienne",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "barnabas-varga",
+  "name": "Barnabás Varga",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Hungary",
+  "current_club": "AEK Athens",
+  "career": [
+   "SV Mattersburg",
+   "SV Lafnitz",
+   "Gyirmót",
+   "Paks",
+   "Ferencváros",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "niccolo-pisilli",
+  "name": "Niccolò Pisilli",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Italy",
+  "current_club": "AS Roma",
+  "career": [
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sondre-brunstad-fet",
+  "name": "Sondre Brunstad Fet",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Aalesund",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "odin-bjrtuft",
+  "name": "Odin Bjørtuft",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Odd",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ulrik-saltnes",
+  "name": "Ulrik Saltnes",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Brønnøysund",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "freddie-potts",
+  "name": "Freddie Potts",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Club Brugge",
+  "career": [
+   "West Ham United",
+   "Wycombe Wanderers",
+   "Portsmouth",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kyriani-sabbe",
+  "name": "Kyriani Sabbe",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "romeo-vermant",
+  "name": "Romeo Vermant",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Club Brugge",
+   "Westerlo"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felix-lemarechal",
+  "name": "Felix Lemarechal",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Club Brugge",
+  "career": [
+   "Monaco",
+   "Brest",
+   "Cercle Brugge",
+   "Strasbourg",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. Moved from Cercle Brugge (loan) to Club Brugge via Strasbourg, not a direct rival move."
+ },
+ {
+  "id": "hugo-siquet",
+  "name": "Hugo Siquet",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Standard Liège",
+   "SC Freiburg",
+   "Cercle Brugge",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. Joined Club Brugge after a Cercle Brugge loan from Freiburg; not coded as a rival move."
+ },
+ {
+  "id": "alex-valle",
+  "name": "Álex Valle",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Como",
+  "career": [
+   "Andorra",
+   "Levante",
+   "Celtic",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaiki",
+  "name": "Kaiki",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Brazil",
+  "current_club": "Como",
+  "career": [
+   "Cruzeiro",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "martim-fernandes",
+  "name": "Martim Fernandes",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Portugal",
+  "current_club": "Porto",
+  "career": [
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes. ESPN lists LB; Wikipedia lists right-back."
+ },
+ {
+  "id": "moura",
+  "name": "Moura",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Portugal",
+  "current_club": "Porto",
+  "career": [
+   "Braga",
+   "Famalicão",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes. Identity: ESPN 'Moura' is Francisco Moura (b. 1999, left-back), matched by age and club; ESPN's SUB position."
+ },
+ {
+  "id": "mika-marmol",
+  "name": "Mika Mármol",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Feyenoord",
+  "career": [
+   "Barcelona",
+   "Andorra",
+   "Las Palmas",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tjark-ernst",
+  "name": "Tjark Ernst",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "Feyenoord",
+  "career": [
+   "Hertha BSC",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nacho-ferri",
+  "name": "Nacho Ferri",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Feyenoord",
+  "career": [
+   "Eintracht Frankfurt",
+   "Kortrijk",
+   "Westerlo",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gaoussou-diarra",
+  "name": "Gaoussou Diarra",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Mali",
+  "current_club": "Feyenoord",
+  "career": [
+   "İstanbulspor",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; rose from a university team in Istanbul",
+  "notes": "No incident codes."
+ }
+]

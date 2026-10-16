@@ -1,0 +1,593 @@
+[
+ {
+  "id": "uno-shiragaki",
+  "name": "Uno Shiragaki",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Japan",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Cerezo Osaka Yanmar Ladies",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maycee-bell",
+  "name": "Maycee Bell",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "NJ/NY Gotham FC",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dani-weatherholt",
+  "name": "Dani Weatherholt",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Orlando Pride",
+   "Melbourne Victory",
+   "OL Reign",
+   "Angel City FC",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "represented players in 2024 CBA talks",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "erica-parkinson",
+  "name": "Erica Parkinson",
+  "gender": "W",
+  "active": true,
+  "born": 2008,
+  "nation": "England",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Valadares Gaia",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ally-schlegel",
+  "name": "Ally Schlegel",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Chicago Red Stars",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hannah-betfort",
+  "name": "Hannah Betfort",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Portland Thorns",
+   "Utah Royals",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "solai-washington",
+  "name": "Solai Washington",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Jamaica",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hannah-anderson",
+  "name": "Hannah Anderson",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Chicago Stars",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julie-doyle",
+  "name": "Julie Doyle",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carolyn-calzada",
+  "name": "Carolyn Calzada",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "katie-o-kane",
+  "name": "Katie O'Kane",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "quincy-mcmahon",
+  "name": "Quincy McMahon",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "San Diego Wave",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sarah-weber",
+  "name": "Sarah Weber",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "makenna-morris",
+  "name": "Makenna Morris",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Washington Spirit",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "macey-hodge",
+  "name": "Macey Hodge",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Angel City",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mimi-van-zanten",
+  "name": "Mimi Van Zanten",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Jamaica",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kimmi-ascanio",
+  "name": "Kimmi Ascanio",
+  "gender": "W",
+  "active": true,
+  "born": 2008,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "melanie-barcenas",
+  "name": "Melanie Barcenas",
+  "gender": "W",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maddie-mercado",
+  "name": "Maddie Mercado",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC",
+   "Carolina Ascent FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sally-menti",
+  "name": "Sally Menti",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "madison-curry",
+  "name": "Madison Curry",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Angel City FC",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryanne-brown",
+  "name": "Ryanne Brown",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emily-mason",
+  "name": "Emily Mason",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cece-delzer",
+  "name": "Cece Delzer",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "Kolbotn",
+   "Racing Louisville",
+   "Kansas City Current",
+   "Houston Dash",
+   "NJ/NY Gotham FC",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ana-tejada",
+  "name": "Ana Tejada",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Utah Royals",
+  "career": [
+   "Logroño",
+   "Real Sociedad",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaleigh-riehl",
+  "name": "Kaleigh Riehl",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "Sky Blue FC",
+   "Paris FC",
+   "Racing Louisville",
+   "San Diego Wave",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tatumn-milazzo",
+  "name": "Tatumn Milazzo",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "Chicago Red Stars",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paige-cronin",
+  "name": "Paige Cronin",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "NJ/NY Gotham FC",
+   "Racing Louisville",
+   "Utah Royals"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "captain; little public record otherwise",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "madison-hammond",
+  "name": "Madison Hammond",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "OL Reign",
+   "Angel City FC",
+   "Utah Royals"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "first Native American in NWSL, active advocate",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paige-metayer",
+  "name": "Paige Metayer",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elisabeth-tse",
+  "name": "Élisabeth Tsé",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "Canada",
+  "current_club": "Washington Spirit",
+  "career": [
+   "GPSO 92 Issy",
+   "Le Havre",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aboubakary-koita",
+  "name": "Aboubakary Koita",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Mauritania",
+  "current_club": "AEK Athens",
+  "career": [
+   "ASV Geel",
+   "Gent",
+   "Kortrijk",
+   "Waasland-Beveren",
+   "Sint-Truiden",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stavros-pilios",
+  "name": "Stavros Pilios",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Albania",
+  "current_club": "AEK Athens",
+  "career": [
+   "PAS Giannina",
+   "Iraklis",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lazaros-rota",
+  "name": "Lazaros Rota",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Greece",
+  "current_club": "AEK Athens",
+  "career": [
+   "Slavoj Trebišov",
+   "Zemplín Michalovce",
+   "Fortuna Sittard",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "filipe-relvas",
+  "name": "Filipe Relvas",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Portugal",
+  "current_club": "AEK Athens",
+  "career": [
+   "Gondomar",
+   "Pedras Rubras",
+   "Portimonense",
+   "Vitória de Guimarães",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "milan-vitalis",
+  "name": "Milán Vitális",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Hungary",
+  "current_club": "AEK Athens",
+  "career": [
+   "Győr",
+   "Dunajská Streda",
+   "Győr",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ }
+]

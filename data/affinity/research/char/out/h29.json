@@ -1,0 +1,650 @@
+[
+ {
+  "id": "pep-biel",
+  "name": "Pep Biel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep_Biel"
+  ]
+ },
+ {
+  "id": "ashley-westwood",
+  "name": "Ashley Westwood",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "one early red at Crewe for squaring up to an opponent; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "spoke to Charlotte FC's high-school Captains Academy leadership programme",
+   "HU": "describes himself as staying out of the limelight, keeping it simple"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ashley_Westwood_(footballer,_born_1990)"
+  ]
+ },
+ {
+  "id": "liel-abada",
+  "name": "Liel Abada",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liel_Abada"
+  ]
+ },
+ {
+  "id": "luca-de-la-torre",
+  "name": "Luca de la Torre",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_de_la_Torre"
+  ]
+ },
+ {
+  "id": "philip-zinckernagel",
+  "name": "Philip Zinckernagel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philip_Zinckernagel"
+  ]
+ },
+ {
+  "id": "robin-lod",
+  "name": "Robin Lod",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Lod"
+  ]
+ },
+ {
+  "id": "mbekezeli-mbokazi",
+  "name": "Mbekezeli Mbokazi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mbekezeli_Mbokazi"
+  ]
+ },
+ {
+  "id": "paxten-aaronson",
+  "name": "Paxten Aaronson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paxten_Aaronson"
+  ]
+ },
+ {
+  "id": "rob-holding",
+  "name": "Rob Holding",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "one career red, two yellows in a 2022 derby",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "frozen out at Palace in 2024 after questioning the manager over a running session"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rob_Holding"
+  ]
+ },
+ {
+  "id": "reggie-cannon",
+  "name": "Reggie Cannon",
+  "SP": 5.5,
+  "VO": 8.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three sending-offs at Boavista, all for fouls",
+   "VO": "condemned fans booing a Black Lives Matter kneel in 2020, refused a club-drafted apology despite racist abuse and death threats",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reggie_Cannon"
+  ]
+ },
+ {
+  "id": "patrick-schulte",
+  "name": "Patrick Schulte",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Schulte"
+  ]
+ },
+ {
+  "id": "steven-moreira",
+  "name": "Steven Moreira",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three red cards in France, 2019-2021, each a three-match ban",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Steven_Moreira"
+  ]
+ },
+ {
+  "id": "sean-johnson",
+  "name": "Sean Johnson",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "spoke on a 2016 Beyond Sport panel on inclusion and diversity in youth soccer",
+   "CO": "regular community outreach and youth-soccer work at Chicago Fire",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Johnson_(soccer)"
+  ]
+ },
+ {
+  "id": "tai-baribo",
+  "name": "Tai Baribo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tai_Baribo"
+  ]
+ },
+ {
+  "id": "louis-munteanu",
+  "name": "Louis Munteanu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "refused to train amid transfer rumours at CFR Cluj in 2025; fined"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louis_Munteanu"
+  ]
+ },
+ {
+  "id": "ramiro",
+  "name": "Ramiro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ramiro_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "id": "guilherme-augusto",
+  "name": "Guilherme Augusto",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guilherme_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "id": "diadie-samassekou",
+  "name": "Diadie Samassekou",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diadie_Samass%C3%A9kou"
+  ]
+ },
+ {
+  "id": "german-berterame",
+  "name": "Germán Berterame",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Germ%C3%A1n_Berterame"
+  ]
+ },
+ {
+  "id": "dayne-st-clair",
+  "name": "Dayne St. Clair",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "long-time Big Brothers Big Sisters Twin Cities mentor and ambassador; 2025 Audi impact award",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dayne_St._Clair"
+  ]
+ },
+ {
+  "id": "jakob-glesnes",
+  "name": "Jakob Glesnes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakob_Glesnes"
+  ]
+ },
+ {
+  "id": "joseph-paintsil",
+  "name": "Joseph Paintsil",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Paintsil"
+  ]
+ },
+ {
+  "id": "mathieu-choiniere",
+  "name": "Mathieu Choinière",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathieu_Choini%C3%A8re"
+  ]
+ },
+ {
+  "id": "ryan-porteous",
+  "name": "Ryan Porteous",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "accepted a violent-conduct charge (2021), several reds incl. Euro 2024 serious foul play",
+   "VO": "nothing notable found",
+   "CO": "pledged to Common Goal in 2020",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Porteous"
+  ]
+ },
+ {
+  "id": "jacob-shaffelburg",
+  "name": "Jacob Shaffelburg",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one career red (second yellow, 2025 Gold Cup), called it his lowest point",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jacob_Shaffelburg"
+  ]
+ },
+ {
+  "id": "kelvin-yeboah",
+  "name": "Kelvin Yeboah",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kelvin_Yeboah"
+  ]
+ },
+ {
+  "id": "alhassan-yusuf",
+  "name": "Alhassan Yusuf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alhassan_Yusuf"
+  ]
+ },
+ {
+  "id": "nicolas-fernandez",
+  "name": "Nicolás Fernández",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Fern%C3%A1ndez_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "matt-freese",
+  "name": "Matt Freese",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "NYCFC City in the Community player ambassador; praised by the club for community work",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Freese"
+  ]
+ },
+ {
+  "id": "thiago-martins",
+  "name": "Thiago Martins",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thiago_Martins_(footballer,_born_1995)"
+  ]
+ },
+ {
+  "id": "aiden-o-neill",
+  "name": "Aiden O'Neill",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card in extra time of the 2023 Asian Cup quarter-final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aiden_O%27Neill"
+  ]
+ },
+ {
+  "id": "james-sands",
+  "name": "James Sands",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Sands"
+  ]
+ },
+ {
+  "id": "maxime-crepeau",
+  "name": "Maxime Crépeau",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fined in 2026 for a slow exit after a handball red card",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxime_Cr%C3%A9peau"
+  ]
+ },
+ {
+  "id": "david-brekalo",
+  "name": "David Brekalo",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in 2021 for shoving a teammate; apologised",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Brekalo"
+  ]
+ },
+ {
+  "id": "martin-ojeda",
+  "name": "Martín Ojeda",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fined by MLS in 2024 for simulation that got an opponent booked",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mart%C3%ADn_Ojeda"
+  ]
+ },
+ {
+  "id": "rafael",
+  "name": "Rafael",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found (Rafael Cabral, goalkeeper)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Cabral"
+  ]
+ }
+]

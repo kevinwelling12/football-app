@@ -1,0 +1,621 @@
+[
+ {
+  "id": "ilay-feingold",
+  "name": "Ilay Feingold",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Israel",
+  "current_club": "New England Revolution",
+  "career": [
+   "Maccabi Haifa",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "agustin-ojeda",
+  "name": "Agustin Ojeda",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Argentina",
+  "current_club": "New York City FC",
+  "career": [
+   "Racing Club",
+   "New York City FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; sent to reserves at Racing for repeated lateness",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tayvon-gray",
+  "name": "Tayvon Gray",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Jamaica",
+  "current_club": "New York City FC",
+  "career": [
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "raul-gustavo",
+  "name": "Raul Gustavo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "New York City FC",
+  "career": [
+   "Corinthians",
+   "Bahia",
+   "Ferencváros",
+   "New York City FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; apologised for pushing an assistant referee",
+  "notes": "red_card_violence 1: sent off for pushing an assistant referee in the face, Corinthians v Argentinos Juniors, Copa Sudamericana, April 2024; he apologised."
+ },
+ {
+  "id": "andres-perea",
+  "name": "Andrés Perea",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "Atlético Nacional",
+   "Orlando City",
+   "Philadelphia Union",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ivan-angulo",
+  "name": "Iván Angulo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Colombia",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Envigado",
+   "Palmeiras",
+   "Portimonense",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "griffin-dorsey",
+  "name": "Griffin Dorsey",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Toronto FC",
+   "Houston Dynamo",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyrese-spicer",
+  "name": "Tyrese Spicer",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Trinidad and Tobago",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Toronto FC",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes (Toronto said his agent sought a much larger contract before the 2025 trade; not coded as a forced transfer)."
+ },
+ {
+  "id": "nathan-harriel",
+  "name": "Nathan Harriel",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Bethlehem Steel",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jovan-lukic",
+  "name": "Jovan Lukic",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Serbia",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Čukarički",
+   "LASK",
+   "Torreense",
+   "Spartak Subotica",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jesus-bueno",
+  "name": "Jesús Bueno",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Venezuela",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Deportivo Lara",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "japhet-sery",
+  "name": "Japhet Sery",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Denmark",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "FC Midtjylland",
+   "SK Brann",
+   "FK Bodø/Glimt",
+   "SK Brann",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "neil-pierre",
+  "name": "Neil Pierre",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Philadelphia Union II",
+   "Philadelphia Union",
+   "Lyngby"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noel-caliskan",
+  "name": "Noel Caliskan",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Portland Timbers",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "philip-quinton",
+  "name": "Philip Quinton",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Columbus Crew",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; academic honours",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-junqua",
+  "name": "Samuel Junqua",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Houston Dynamo",
+   "FC Dallas",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "rival_move 1: after his Houston contract expired he signed directly with Texas Derby rivals FC Dallas (2023)."
+ },
+ {
+  "id": "lukas-engel",
+  "name": "Lukas Engel",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Denmark",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Vejle",
+   "Silkeborg",
+   "Middlesbrough",
+   "FC Cincinnati",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alexandros-katranis",
+  "name": "Alexandros Katranis",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Greece",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Atromitos",
+   "Saint-Étienne",
+   "Atromitos",
+   "Hatayspor",
+   "Piast Gliwice",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ronald-donkor",
+  "name": "Ronald Donkor",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Ghana",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Guidars FC",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jahkeele-marshall-rutty",
+  "name": "Jahkeele Marshall-Rutty",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Canada",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Toronto FC",
+   "CF Montréal",
+   "Charlotte FC",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "rival_move 1: went directly from Toronto FC to rivals CF Montréal (2024), though by club trade rather than his own choice. Audit: a club trade is not the player's choice, so not coded."
+ },
+ {
+  "id": "justin-che",
+  "name": "Justin Che",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Red Bull New York",
+  "career": [
+   "FC Dallas",
+   "Hoffenheim",
+   "Brøndby",
+   "ADO Den Haag",
+   "Patro Eisden",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "manu-duah",
+  "name": "Manu Duah",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Ghana",
+  "current_club": "San Diego FC",
+  "career": [
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeppe-tverskov",
+  "name": "Jeppe Tverskov",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Denmark",
+  "current_club": "San Diego FC",
+  "career": [
+   "B 1903",
+   "Lyngby",
+   "Randers",
+   "OB",
+   "Nordsjælland",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christopher-mcvey",
+  "name": "Christopher McVey",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Sweden",
+  "current_club": "San Diego FC",
+  "career": [
+   "IF Elfsborg",
+   "Inter Miami CF",
+   "D.C. United",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ousseni-bouda",
+  "name": "Ousseni Bouda",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Burkina Faso",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "niko-tsakiris",
+  "name": "Niko Tsakiris",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ian-harkes",
+  "name": "Ian Harkes",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "D.C. United",
+   "Dundee United",
+   "New England Revolution",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dave-romney",
+  "name": "Dave Romney",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "LA Galaxy",
+   "Nashville SC",
+   "New England Revolution",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andy-thomas",
+  "name": "Andy Thomas",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Watford",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. Born in Moscow, raised in London; ESPN lists USA (also holds US citizenship)."
+ },
+ {
+  "id": "paul-rothrock",
+  "name": "Paul Rothrock",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Toronto FC",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hassani-dotson",
+  "name": "Hassani Dotson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Minnesota United",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dante-polvara",
+  "name": "Dante Polvara",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Aberdeen",
+   "Charleston Battery",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-edelman",
+  "name": "Daniel Edelman",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "New York Red Bulls",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christopher-durkin",
+  "name": "Christopher Durkin",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "D.C. United",
+   "Sint-Truiden",
+   "D.C. United",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "conrad-wallem",
+  "name": "Conrad Wallem",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Tønsberg",
+   "Arendal",
+   "Odd",
+   "Slavia Prague",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tomas-totland",
+  "name": "Tomas Totland",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Norway",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Fana",
+   "Sogndal",
+   "Tromsø",
+   "BK Häcken",
+   "St. Louis City SC"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "little public record; fined in 2024 for a mass confrontation",
+  "notes": "No incident codes. Fined by MLS (June 2024) for inciting/escalating a mass confrontation v FC Dallas."
+ }
+]

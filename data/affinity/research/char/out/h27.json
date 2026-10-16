@@ -1,0 +1,649 @@
+[
+ {
+  "id": "phillipp-mwene",
+  "name": "Phillipp Mwene",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phillipp_Mwene"
+  ]
+ },
+ {
+  "id": "stefan-posch",
+  "name": "Stefan Posch",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stefan_Posch"
+  ]
+ },
+ {
+  "id": "danny-da-costa",
+  "name": "Danny da Costa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danny_da_Costa"
+  ]
+ },
+ {
+  "id": "robin-zentner",
+  "name": "Robin Zentner",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Zentner"
+  ]
+ },
+ {
+  "id": "maarten-vandevoordt",
+  "name": "Maarten Vandevoordt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maarten_Vandevoordt"
+  ]
+ },
+ {
+  "id": "brajan-gruda",
+  "name": "Brajan Gruda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "chose Germany over Albania, handled the question politely; nothing else notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brajan_Gruda"
+  ]
+ },
+ {
+  "id": "maxime-esteve",
+  "name": "Maxime Estève",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxime_Est%C3%A8ve"
+  ]
+ },
+ {
+  "id": "niklas-beste",
+  "name": "Niklas Beste",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://de.wikipedia.org/wiki/Niklas_Beste"
+  ]
+ },
+ {
+  "id": "yuito-suzuki",
+  "name": "Yuito Suzuki",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuito_Suzuki"
+  ]
+ },
+ {
+  "id": "yannick-engelhardt",
+  "name": "Yannick Engelhardt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "no Wikipedia page found; nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "id": "lucas-holer",
+  "name": "Lucas Höler",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_H%C3%B6ler"
+  ]
+ },
+ {
+  "id": "kenan-karaman",
+  "name": "Kenan Karaman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "Schalke captain since 2024-25; nothing else notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenan_Karaman"
+  ]
+ },
+ {
+  "id": "maximilian-wober",
+  "name": "Maximilian Wöber",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximilian_W%C3%B6ber"
+  ]
+ },
+ {
+  "id": "vladimir-coufal",
+  "name": "Vladimír Coufal",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 5.8,
+  "why": {
+   "SP": "no notable cards or incidents found",
+   "VO": "nothing notable found",
+   "CO": "West Ham Players' Project award and PFA Community Champion (2023-24): school visits, children's ward visits (club news, via search)",
+   "HU": "removed from Czech camp in Nov 2023 for a reported night out before a qualifier; otherwise low-key"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Coufal"
+  ]
+ },
+ {
+  "id": "ozan-kabak",
+  "name": "Ozan Kabak",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2020 red card, five-match ban and fine for spitting at Augustinsson; apologised, called it an accident",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ozan_Kabak"
+  ]
+ },
+ {
+  "id": "patrick-wimmer",
+  "name": "Patrick Wimmer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Wimmer"
+  ]
+ },
+ {
+  "id": "koki-machida",
+  "name": "Koki Machida",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C5%8Dki_Machida"
+  ]
+ },
+ {
+  "id": "jeff-chabot",
+  "name": "Jeff Chabot",
+  "SP": 5.7,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "Oct 2024 second yellow after a clash with Remberg; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeff_Chabot"
+  ]
+ },
+ {
+  "id": "grischa-promel",
+  "name": "Grischa Prömel",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red and two-match ban in his second Union game (2017); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grischa_Pr%C3%B6mel"
+  ]
+ },
+ {
+  "id": "mitchell-weiser",
+  "name": "Mitchell Weiser",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "has criticised his club's direction (neutral); no causes found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mitchell_Weiser"
+  ]
+ },
+ {
+  "id": "marcus-tavernier",
+  "name": "Marcus Tavernier",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Tavernier"
+  ]
+ },
+ {
+  "id": "djordje-petrovic",
+  "name": "Djordje Petrovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "sat out New England training and a Leagues Cup match in 2023 to push a move"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Petrovi%C4%87_%28footballer%2C_born_1999%29"
+  ]
+ },
+ {
+  "id": "adrien-truffert",
+  "name": "Adrien Truffert",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrien_Truffert"
+  ]
+ },
+ {
+  "id": "rayan",
+  "name": "Rayan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayan_%28footballer%2C_born_2006%29"
+  ]
+ },
+ {
+  "id": "david-brooks",
+  "name": "David Brooks",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "one career red (two yellows, 2018); nothing else notable",
+   "VO": "spoke publicly about beating Hodgkin lymphoma, backing cancer research",
+   "CO": "backed Cancer Research UK's Race for Life (2023)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Brooks_%28footballer%29",
+   "https://www.cambrian-news.co.uk/sport/football/wales-international-david-brooks-who-kicked-cancer-backs-race-for-life-610095"
+  ]
+ },
+ {
+  "id": "kristoffer-ajer",
+  "name": "Kristoffer Ajer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "mentor and ambassador for Equinor's youth-talent campaign in Norway",
+   "HU": "credits part of his success to luck; values education beyond football"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristoffer_Ajer"
+  ]
+ },
+ {
+  "id": "vitaly-janelt",
+  "name": "Vitaly Janelt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "youth disciplinary issues at Leipzig; Frank calls him a fantastic character"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitaly_Janelt"
+  ]
+ },
+ {
+  "id": "keane-lewis-potter",
+  "name": "Keane Lewis-Potter",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keane_Lewis-Potter"
+  ]
+ },
+ {
+  "id": "michael-kayode",
+  "name": "Michael Kayode",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Kayode"
+  ]
+ },
+ {
+  "id": "jaidon-anthony",
+  "name": "Jaidon Anthony",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaidon_Anthony"
+  ]
+ },
+ {
+  "id": "yehor-yarmoliuk",
+  "name": "Yehor Yarmoliuk",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yehor_Yarmoliuk"
+  ]
+ },
+ {
+  "id": "aaron-hickey",
+  "name": "Aaron Hickey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.2,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "played down comparisons with Andy Robertson"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aaron_Hickey"
+  ]
+ },
+ {
+  "id": "olivier-boscagli",
+  "name": "Olivier Boscagli",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivier_Boscagli"
+  ]
+ },
+ {
+  "id": "pascal-struijk",
+  "name": "Pascal Struijk",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in 2021 for the challenge that broke Harvey Elliott's ankle; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pascal_Struijk"
+  ]
+ },
+ {
+  "id": "pep-chavarria",
+  "name": "Pep Chavarría",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep_Chavarr%C3%ADa"
+  ]
+ },
+ {
+  "id": "ethan-pinnock",
+  "name": "Ethan Pinnock",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethan_Pinnock"
+  ]
+ }
+]

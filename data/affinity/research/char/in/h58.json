@@ -1,0 +1,657 @@
+[
+ {
+  "id": "carlos-herrera",
+  "name": "Carlos Herrera",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Mexico",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Monterey Bay FC",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. identity: ESPN lists Chile, age 26; the only Carlos Herrera at Detroit City is the Mexican goalkeeper born 1997 (age 29)."
+ },
+ {
+  "id": "abdoulaye-diop",
+  "name": "Abdoulaye Diop",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Senegal",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Detroit City FC",
+   "Atlanta United 2",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alasanne-ates-diouf",
+  "name": "Alasanne Ates Diouf",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Senegal",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Orlando City B",
+   "Austin Bold FC",
+   "San Antonio FC",
+   "Lexington SC",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. No Wikipedia page; club release used; birth year estimated from ESPN age 26."
+ },
+ {
+  "id": "aeden-stanley",
+  "name": "Aeden Stanley",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Saint Louis FC",
+   "Portland Timbers 2",
+   "Austin FC",
+   "Miami FC",
+   "Indy Eleven",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia spells the name Aedan; same player (born 1999, Detroit No. 3)."
+ },
+ {
+  "id": "jeciel-cedeno",
+  "name": "Jeciel Cedeno",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Ecuador",
+  "current_club": "Detroit City FC",
+  "career": [
+   "New York Red Bulls II",
+   "Hartford Athletic",
+   "Oakland Roots",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ben-morris",
+  "name": "Ben Morris",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Ipswich Town",
+   "GAIS (loan)",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robert-coronado",
+  "name": "Robert Coronado",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Rio Grande Valley FC",
+   "OKC Energy",
+   "Rio Grande Valley FC",
+   "Central Valley Fuego",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabriel-torres",
+  "name": "Gabriel Torres",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Brazil",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "The Villages SC",
+   "Chattanooga FC",
+   "Hartford Athletic",
+   "FC Tulsa",
+   "Phoenix Rising",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. Wikipedia gives conflicting birth dates (both 1996)."
+ },
+ {
+  "id": "kofi-twumasi",
+  "name": "Kofi Twumasi",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Ghana",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Universitatea Cluj",
+   "Rot-Weiß Oberhausen",
+   "VfB Homberg",
+   "Atlanta United 2",
+   "Rhode Island FC",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia says born in Kumasi, Ghana (Ghanaian, US diaspora); same player at El Paso."
+ },
+ {
+  "id": "abraham-romero",
+  "name": "Abraham Romero",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Mexico",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Orange County SC",
+   "Las Vegas Lights",
+   "LAFC",
+   "Columbus Crew",
+   "Colorado Springs Switchbacks",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "chose Mexico over US, later called it immaturity; three red cards (handball/fouls)",
+  "notes": "No incident codes. Red cards were for professional fouls/handling, not violent conduct."
+ },
+ {
+  "id": "noah-dollenmayer",
+  "name": "Noah Dollenmayer",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Dominican Republic",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Los Angeles FC 2",
+   "El Paso Locomotive",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ian-carlo",
+  "name": "Ian Carlo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Brazil",
+  "current_club": "FC Tulsa",
+  "career": [
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. No Wikipedia page; full name Ian Carlos Souza Daniel; earlier Brazilian clubs (Internacional, Ponte Preta, Guarani, ABC) listed by FC Tulsa without years, so omitted from clubs."
+ },
+ {
+  "id": "abdoulaye-cissoko",
+  "name": "Abdoulaye Cissoko",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Les Ulis",
+   "Tacoma Defiance",
+   "San Diego 1904",
+   "Seattle Sounders FC",
+   "Memphis 901",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "delentz-pierre",
+  "name": "Delentz Pierre",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Haiti",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Real Monarchs",
+   "Real Salt Lake",
+   "Colorado Springs Switchbacks",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. Wikipedia gives born November 2000 (25 now; ESPN lists 26)."
+ },
+ {
+  "id": "kalil-elmedkhar",
+  "name": "Kalil ElMedkhar",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "FC Dallas",
+   "North Texas SC",
+   "Loudoun United",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "remi-cabral",
+  "name": "Rémi Cabral",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "FC Tulsa",
+  "career": [
+   "LA Galaxy II",
+   "Colorado Rapids 2",
+   "Colorado Rapids",
+   "Phoenix Rising",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arquimides-ordonez",
+  "name": "Arquímides Ordóñez",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Guatemala",
+  "current_club": "FC Tulsa",
+  "career": [
+   "FC Cincinnati",
+   "Östersund",
+   "Zimbru Chișinău",
+   "Loudoun United",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "antony-siaha",
+  "name": "Antony Siaha",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Cameroon",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "San Diego 1904",
+   "San Diego Loyal",
+   "Monterey Bay FC",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. identity: ESPN lists USA; Wikipedia has him Cameroonian (born Yaoundé); same Hartford goalkeeper, age matches."
+ },
+ {
+  "id": "adrian-diz-pe",
+  "name": "Adrián Diz Pe",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Cuba",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Portland Timbers 2",
+   "Colorado Springs Switchbacks",
+   "Rio Grande Valley FC",
+   "FC Tulsa",
+   "Indy Eleven",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "barry-coffey",
+  "name": "Barry Coffey",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Celtic",
+   "Cliftonville",
+   "Cork City",
+   "Cobh Ramblers",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emmanuel-samadia",
+  "name": "Emmanuel Samadia",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Sierra Leone",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "FC Kallon",
+   "Hapoel Umm al-Fahm",
+   "Hapoel Rishon LeZion",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edward-kizza",
+  "name": "Edward Kizza",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Uganda",
+  "current_club": "Indy Eleven",
+  "career": [
+   "New England Revolution",
+   "New England Revolution II",
+   "Memphis 901",
+   "Pittsburgh Riverhounds",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-pinzon",
+  "name": "Christian Pinzon",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Tapatío",
+   "Rio Grande Valley FC",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. ESPN lists Mexico; Wikipedia calls him American (played in Mexico with Tapatío); same player at the club."
+ },
+ {
+  "id": "johnny-rodriguez",
+  "name": "Johnny Rodriguez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Ventura County Fusion",
+   "Oakland Roots SC",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes; cites his parents as heroes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "themi-antonoglou",
+  "name": "Themi Antonoglou",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Toronto FC",
+   "Valour FC",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-ybarra",
+  "name": "Marc Ybarra",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Pittsburgh Riverhounds",
+   "Rhode Island FC",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes; four-time Academic All-Big Ten",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "giorgio-probo",
+  "name": "Giorgio Probo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Italy",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Virtus Bergamo",
+   "Borgosesia",
+   "HFX Wanderers",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Virtus Bergamo years approximate (Wikipedia gives no dates)."
+ },
+ {
+  "id": "abraham-okyere",
+  "name": "Abraham Okyere",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Ghana",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Al-Hilal United",
+   "Beerschot",
+   "TRAU FC",
+   "KPV",
+   "Haka",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Teenage spell at UAE club Al-Hilal United not coded money_league (small club, early career)."
+ },
+ {
+  "id": "oliver-semmle",
+  "name": "Oliver Semmle",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Lexington SC",
+  "career": [
+   "Louisville City FC",
+   "Philadelphia Union",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kendall-burks",
+  "name": "Kendall Burks",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "Chicago Fire FC",
+   "San Antonio FC",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-firmino",
+  "name": "Nicolas Firmino",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Lexington SC",
+  "career": [
+   "Union Omaha",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. New England Revolution II (2020) and Atlanta United 2 (2022-24) skipped as reserve sides."
+ },
+ {
+  "id": "aaron-molloy",
+  "name": "Aaron Molloy",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Republic of Ireland",
+  "current_club": "Lexington SC",
+  "career": [
+   "Drogheda United",
+   "Forward Madison FC",
+   "Memphis 901",
+   "Charleston Battery",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Portland Timbers 2 (2020) skipped as a reserve side; Lexington move not on Wikipedia yet, ESPN lists him there."
+ },
+ {
+  "id": "noble-okello",
+  "name": "Noble Okello",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Lexington SC",
+  "career": [
+   "Toronto FC",
+   "HB Køge",
+   "Phoenix Rising FC",
+   "Indy Eleven",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. New England Revolution II and Atlanta United 2 (2023-24) skipped as reserve sides. ESPN nation Canada; he switched to Uganda in 2026."
+ },
+ {
+  "id": "milo-yosef",
+  "name": "Milo Yosef",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Lexington SC",
+  "career": [
+   "FC Tulsa",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kwame-awuah",
+  "name": "Kwame Awuah",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Canada",
+  "current_club": "Loudoun United",
+  "career": [
+   "Sigma FC",
+   "New York City FC",
+   "Forge FC",
+   "St. Louis City SC 2",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "boluwatife-akinyode",
+  "name": "Boluwatife Akinyode",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Nigeria",
+  "current_club": "Loudoun United",
+  "career": [
+   "Nashville SC",
+   "Birmingham Legion",
+   "Miami FC",
+   "El Paso Locomotive",
+   "Miami FC",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ }
+]

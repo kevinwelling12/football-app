@@ -1,0 +1,585 @@
+[
+ {
+  "id": "lukas-macnaughton",
+  "name": "Lukas MacNaughton",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Canada",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Alliance United",
+   "Pacific FC",
+   "Toronto FC",
+   "Nashville SC",
+   "D.C. United",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fallou-fall",
+  "name": "Fallou Fall",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Senegal",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Grafičar Beograd",
+   "Reims",
+   "Fredrikstad",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kobe-franklin",
+  "name": "Kobe Franklin",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Canada",
+  "current_club": "Toronto FC",
+  "career": [
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tate-johnson",
+  "name": "Tate Johnson",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Tampa Bay Rowdies",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeevan-badwal",
+  "name": "Jeevan Badwal",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Canada",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Whitecaps FC 2",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bruno-caicedo",
+  "name": "Bruno Caicedo",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Ecuador",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Cumbayá",
+   "Orense",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; once criticised his old club over youth chances",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ralph-priso-mbongue",
+  "name": "Ralph Priso-Mbongue",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Canada",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Toronto FC",
+   "Colorado Rapids",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carina-lageyre",
+  "name": "Carina Lageyre",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "taylor-suarez",
+  "name": "Taylor Suarez",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "savy-king",
+  "name": "Savy King",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Bay FC",
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "karlie-lema",
+  "name": "Karlie Lema",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "caroline-conti",
+  "name": "Caroline Conti",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "keira-barry",
+  "name": "Keira Barry",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "England",
+  "current_club": "Bay FC",
+  "career": [
+   "Manchester United",
+   "Derby County",
+   "Sunderland (loan)",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emerson-elgin",
+  "name": "Emerson Elgin",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Gotham FC",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "laney-rouse",
+  "name": "Laney Rouse",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amelia-white",
+  "name": "Amelia White",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-williams",
+  "name": "Ryan Williams",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "England",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Morecambe",
+   "Inverness Caledonian Thistle",
+   "Ottawa Fury",
+   "Hartford Athletic",
+   "AFC Eskilstuna",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "natalia-staude",
+  "name": "Natalia Staude",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "North Carolina Courage",
+   "Tampa Bay Sun"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia lists her as Talia Staude."
+ },
+ {
+  "id": "mirann-gacioch",
+  "name": "Mirann Gacioch",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alexa-spaanstra",
+  "name": "Alexa Spaanstra",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "Kansas City Current",
+   "Portland Thorns",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "claudia-martinez",
+  "name": "Claudia Martínez",
+  "gender": "W",
+  "active": true,
+  "born": 2008,
+  "nation": "Paraguay",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; teenage forward",
+  "notes": "No incident codes. No Wikipedia page found; ESPN bio only, prior club history unverified."
+ },
+ {
+  "id": "emanuele-lulli",
+  "name": "Emanuele Lulli",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Italy",
+  "current_club": "AS Roma",
+  "career": [
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "villads-nielsen",
+  "name": "Villads Nielsen",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Denmark",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julian-faye-lund",
+  "name": "Julian Faye Lund",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Rosenborg",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "shaqueel-van-persie",
+  "name": "Shaqueel Van Persie",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alemao",
+  "name": "Alemão",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "LASK",
+  "career": [
+   "Portimonense",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identified as João Victor Tornich (b. Nov 2002), centre-back at LASK."
+ },
+ {
+  "id": "lukas-jungwirth",
+  "name": "Lukas Jungwirth",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "souleymane-sagnan",
+  "name": "Souleymane Sagnan",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Mali",
+  "current_club": "Lens",
+  "career": [
+   "Caen",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. French-born; Mali youth international."
+ },
+ {
+  "id": "noah-fernandez",
+  "name": "Noah Fernandez",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Belgium",
+  "current_club": "PSV",
+  "career": [
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rahman-dashdamirov",
+  "name": "Rahman Dashdamirov",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Azerbaijan",
+  "current_club": "Sabah",
+  "career": [
+   "Shamakhi",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aden-mccarthy",
+  "name": "Aden Mccarthy",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "South Africa",
+  "current_club": "Sabah",
+  "career": [
+   "Kaizer Chiefs",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "umarali-rakhmonaliev",
+  "name": "Umarali Rakhmonaliev",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Uzbekistan",
+  "current_club": "Sabah",
+  "career": [
+   "Bunyodkor",
+   "Rubin Kazan",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "patrick-orphe-m-bina",
+  "name": "Patrick Orphe M'Bina",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Gabon",
+  "current_club": "Sabah",
+  "career": [
+   "Beauvais",
+   "Chamalières",
+   "Nîmes",
+   "Maribor",
+   "União de Leiria",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-ferreira",
+  "name": "Lucas Ferreira",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "São Paulo",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-isife",
+  "name": "Samuel Isife",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Nigeria",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Vlašim",
+   "Dukla Prague",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Born year from ESPN age 22 and club years approximate; no Wikipedia page."
+ },
+ {
+  "id": "emmanuel-dennis-ayaosi",
+  "name": "Emmanuel Dennis Ayaosi",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Nigeria",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Karviná",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identity: not the ex-Watford Emmanuel Dennis (now at Brondby); this is Emmanuel Ayaosi, ~21, signed from Karvina 2026 (earlier Dakkada, Nigeria). ESPN gives no nation/age; born year estimated."
+ }
+]

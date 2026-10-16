@@ -1,0 +1,586 @@
+[
+ {
+  "id": "peyton-miller",
+  "name": "Peyton Miller",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nico-cavallo",
+  "name": "Nico Cavallo",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-o-toole",
+  "name": "Kevin O'Toole",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "New York Red Bulls II",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "justin-ellis",
+  "name": "Justin Ellis",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Orlando City B",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luis-otavio",
+  "name": "Luis Otávio",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Brazil",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Internacional",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tiago",
+  "name": "Tiago",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Bahia",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "iago-teodoro",
+  "name": "Iago Teodoro",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Flamengo",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "frankie-westfield",
+  "name": "Frankie Westfield",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Philadelphia Union II",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ezekiel-alladoh",
+  "name": "Ezekiel Alladoh",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Ghana",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Accra Lions",
+   "IF Brommapojkarna",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sergi-solans",
+  "name": "Sergi Solans",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Lane United",
+   "Asheville City SC",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aiden-hezarkhani",
+  "name": "Aiden Hezarkhani",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matthew-dos-santos",
+  "name": "Matthew Dos Santos",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "USA",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; 18 years old",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mohammed-sofo",
+  "name": "Mohammed Sofo",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Ghana",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Guidars FC",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julian-bazan",
+  "name": "Julián Bazán",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Colombia",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Deportivo Pereira",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oscar-verhoeven",
+  "name": "Oscar Verhoeven",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "San Jose Earthquakes",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kieran-sargeant",
+  "name": "Kieran Sargeant",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "Houston Dynamo",
+   "Lexington SC",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "duran-ferree",
+  "name": "Duran Ferree",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "San Diego Loyal",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-vazquez",
+  "name": "David Vazquez",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "Philadelphia Union",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cj-dos-santos",
+  "name": "CJ dos Santos",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Cape Verde",
+  "current_club": "San Diego FC",
+  "career": [
+   "Benfica B",
+   "Inter Miami CF",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ian-murphy",
+  "name": "Ian Murphy",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "San Diego FC",
+  "career": [
+   "FC Cincinnati",
+   "Colorado Rapids",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; ACC academic honour roll",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "beau-leroux",
+  "name": "Beau Leroux",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "reid-roberts",
+  "name": "Reid Roberts",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "preston-judd",
+  "name": "Preston Judd",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "LA Galaxy",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jamar-ricketts",
+  "name": "Jamar Ricketts",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-kikanovic",
+  "name": "Benjamin Kikanovic",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "Reno 1868",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paul-marie",
+  "name": "Paul Marie",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "France",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kalani-kossa-rienzi",
+  "name": "Kalani Kossa-Rienzi",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Crossfire Red",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-musovski",
+  "name": "Daniel Musovski",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Reno 1868 FC",
+   "Los Angeles FC",
+   "Real Salt Lake",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; contract frustration at RSL 2023",
+  "notes": "No incident codes. ESPN lists USA; he plays internationally for North Macedonia."
+ },
+ {
+  "id": "calvin-harris",
+  "name": "Calvin Harris",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "FC Cincinnati",
+   "Colorado Rapids",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wyatt-meyer",
+  "name": "Wyatt Meyer",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Nashville SC",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; Academic All-American",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stefan-cleveland",
+  "name": "Stefan Cleveland",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Chicago Fire",
+   "Seattle Sounders FC",
+   "Austin FC",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jacob-davis",
+  "name": "Jacob Davis",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. Wikipedia lists him as Jake Davis."
+ },
+ {
+  "id": "capita",
+  "name": "Capita",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Angola",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Trofense",
+   "Estrela da Amadora",
+   "Hapoel Jerusalem",
+   "Radomiak Radom",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. Full name Osvaldo Pedro Capemba."
+ },
+ {
+  "id": "jayden-reid",
+  "name": "Jayden Reid",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "New York Red Bulls",
+   "St. Louis City SC",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. identity: ESPN lists Scotland, age 18; the Sporting KC left-back on Wikipedia is American (also Jamaican), born 2001."
+ },
+ {
+  "id": "stephen-afrifa",
+  "name": "Stephen Afrifa",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "One Knoxville SC",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zorhan-bassong",
+  "name": "Zorhan Bassong",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Cercle Brugge",
+   "CF Montréal",
+   "FC Argeș Pitești",
+   "Farul Constanța",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ }
+]

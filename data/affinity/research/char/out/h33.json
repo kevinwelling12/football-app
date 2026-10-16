@@ -1,0 +1,655 @@
+[
+ {
+  "id": "ivan-schranz",
+  "name": "Ivan Schranz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ivan_Schranz"
+  ]
+ },
+ {
+  "id": "tomas-chory",
+  "name": "Tomás Chorý",
+  "SP": 2.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "two six-match bans for violent conduct (striking Heča 2025, elbowing Sørensen 2026); spitting charge not upheld",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "chairman said he could not control his behaviour; briefly removed from first team 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomáš_Chorý"
+  ]
+ },
+ {
+  "id": "david-jurasek",
+  "name": "David Jurásek",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Jurásek"
+  ]
+ },
+ {
+  "id": "geny-catamo",
+  "name": "Geny Catamo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Geny_Catamo"
+  ]
+ },
+ {
+  "id": "sergi-altimira",
+  "name": "Sergi Altimira",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Altimira"
+  ]
+ },
+ {
+  "id": "eduardo-quaresma",
+  "name": "Eduardo Quaresma",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eduardo_Quaresma"
+  ]
+ },
+ {
+  "id": "georgios-vagiannidis",
+  "name": "Georgios Vagiannidis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georgios_Vagiannidis"
+  ]
+ },
+ {
+  "id": "santi-comesana",
+  "name": "Santi Comesaña",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santi_Comesaña"
+  ]
+ },
+ {
+  "id": "sergi-cardona",
+  "name": "Sergi Cardona",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergi_Cardona"
+  ]
+ },
+ {
+  "id": "carlos-romero",
+  "name": "Carlos Romero",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card on his 2018 youth-level debut; nothing else",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Romero_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "pedro-santos",
+  "name": "Pedro Santos",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "MLS fine for simulation 2021; red card for kicking Roldan in the face 2018",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "self-critical in interviews; known as a hard worker"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Santos_(footballer,_born_1988)"
+  ]
+ },
+ {
+  "id": "rafael-czichos",
+  "name": "Rafael Czichos",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Czichos"
+  ]
+ },
+ {
+  "id": "wouter-burger",
+  "name": "Wouter Burger",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wouter_Burger"
+  ]
+ },
+ {
+  "id": "fisnik-asllani",
+  "name": "Fisnik Asllani",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fisnik_Asllani"
+  ]
+ },
+ {
+  "id": "josha-vagnoman",
+  "name": "Josha Vagnoman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josha_Vagnoman"
+  ]
+ },
+ {
+  "id": "finn-jeltsch",
+  "name": "Finn Jeltsch",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finn_Jeltsch"
+  ]
+ },
+ {
+  "id": "lewis-cook",
+  "name": "Lewis Cook",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one straight red as a teenager (2015); nothing else",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "captained England U20 and U21; nothing notable on modesty"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Cook_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "costinha",
+  "name": "Costinha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Costinha_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "chema-andres",
+  "name": "Chema Andrés",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chema_Andrés"
+  ]
+ },
+ {
+  "id": "paolo-di-canio",
+  "name": "Paolo Di Canio",
+  "SP": 3.0,
+  "VO": 1.5,
+  "CO": 5.5,
+  "HU": 3.0,
+  "why": {
+   "SP": "pushed referee Alcock (11-match ban), several reds and touchline rows; FIFA Fair Play award 2001 for stopping play for injured keeper",
+   "VO": "fascist salutes to Lazio fans, called himself 'a fascist, not a racist', Mussolini praise and tattoos",
+   "CO": "helped volunteers clear snow at Swindon; offered own money to keep loan players",
+   "HU": "temperamental; feuds with Trapattoni, Capello, Roeder, Lotito and his own players"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paolo_Di_Canio"
+  ]
+ },
+ {
+  "id": "nuri-sahin",
+  "name": "Nuri Şahin",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "as Antalyaspor coach visited children displaced by the 2023 earthquake",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nuri_Şahin",
+   "https://www.cumhuriyet.com.tr/spor/antalyasporda-nuri-sahinden-depremzede-cocuklara-ziyaret-2050469"
+  ]
+ },
+ {
+  "id": "aritz-aduriz",
+  "name": "Aritz Aduriz",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "waved off a penalty claim against Eibar 2018, praised for sportsmanship; two reds in 2006-07",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aritz_Aduriz",
+   "https://es.wikipedia.org/wiki/Aritz_Aduriz"
+  ]
+ },
+ {
+  "id": "joaquin",
+  "name": "Joaquín",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "famous bond with Betis fans; no charity work found",
+   "HU": "beloved joker who downplays himself; 2006 outburst at the national team set-up, later walked back"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joaquín_(footballer,_born_1981)",
+   "https://outlookindia.com/sports/la-liga-2022-23-charismatic-real-betis-captain-joaquín-sánchez-set-to-retire-news-279785",
+   "https://www.radioagricultura.cl/deportes/hinchas-del-betis-brindan-emotivo-adios-a-joaquin_20230604/",
+   "https://thesefootballtimes.co/2015/09/11/joaquin-and-the-soul-of-real-betis/"
+  ]
+ },
+ {
+  "id": "luca-reggiani",
+  "name": "Luca Reggiani",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off on his Italy debut v Greece 2026",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_Reggiani"
+  ]
+ },
+ {
+  "id": "jean-matteo-bahoya",
+  "name": "Jean-Mattéo Bahoya",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jean-Mattéo_Bahoya"
+  ]
+ },
+ {
+  "id": "freddie-woodman",
+  "name": "Freddie Woodman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Freddie_Woodman"
+  ]
+ },
+ {
+  "id": "antony",
+  "name": "Antony",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.0,
+  "HU": 4.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found; insulting replies drew fan backlash",
+   "HU": "twice replied 'bla bla bla' with a middle finger to a Timbers reporter, May 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antony_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "alexander-aravena",
+  "name": "Alexander Aravena",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexander_Aravena"
+  ]
+ },
+ {
+  "id": "tom-rothe",
+  "name": "Tom Rothe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Rothe"
+  ]
+ },
+ {
+  "id": "derrick-kohn",
+  "name": "Derrick Köhn",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derrick_Köhn"
+  ]
+ },
+ {
+  "id": "andrej-ilic",
+  "name": "Andrej Ilić",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrej_Ilić"
+  ]
+ },
+ {
+  "id": "stanley-nsoki",
+  "name": "Stanley Nsoki",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stanley_Nsoki"
+  ]
+ },
+ {
+  "id": "afonso-moreira",
+  "name": "Afonso Moreira",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Afonso_Moreira"
+  ]
+ },
+ {
+  "id": "christian-kofane",
+  "name": "Christian Kofane",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Kofane"
+  ]
+ },
+ {
+  "id": "moritz-nicolas",
+  "name": "Moritz Nicolas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moritz_Nicolas"
+  ]
+ },
+ {
+  "id": "philipp-sander",
+  "name": "Philipp Sander",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philipp_Sander"
+  ]
+ }
+]

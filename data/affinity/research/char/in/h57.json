@@ -1,0 +1,643 @@
+[
+ {
+  "id": "alen-mustafic",
+  "name": "Alen Mustafic",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Sarajevo",
+   "Slovan Bratislava",
+   "Nitra",
+   "Odense Boldklub",
+   "Śląsk Wrocław",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN gives no nation; Wikipedia: Bosnian."
+ },
+ {
+  "id": "sahmkou-camara",
+  "name": "Sahmkou Camara",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Guinea",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Grasse",
+   "Stade Lausanne Ouchy",
+   "Slavia Prague",
+   "Karviná",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. On a season loan at Slovan from Slavia Prague."
+ },
+ {
+  "id": "arild-stb",
+  "name": "Arild Østbø",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Sarpsborg 08",
+   "Rosenborg",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "herman-haugen",
+  "name": "Herman Haugen",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Raufoss"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dawson-mccartney",
+  "name": "Dawson McCartney",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Played for Portland Timbers 2 in 2022-2023 (B team, left out of clubs)."
+ },
+ {
+  "id": "nico-brown",
+  "name": "Nico Brown",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Jamaica",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Greenville Triumph",
+   "Lexington SC",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia lists him as winger/forward; ESPN as right-back."
+ },
+ {
+  "id": "phanuel-kavita",
+  "name": "Phanuel Kavita",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Rwanda",
+  "current_club": "Birmingham Legion FC",
+  "career": [
+   "Real Salt Lake",
+   "Puerto Rico FC",
+   "Saint Louis FC",
+   "Birmingham Legion FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "little public record; club captain",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabriel-alves",
+  "name": "Gabriel Alves",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Birmingham Legion",
+   "Rhode Island FC",
+   "Tormenta FC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia gives born 2000 (ESPN age 27 implies 1999); same Brazilian defender at Brooklyn."
+ },
+ {
+  "id": "vuk-latinovich",
+  "name": "Vuk Latinovich",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "New York City FC",
+   "FCI Levadia",
+   "GS Ilioupolis",
+   "Sandnes Ulf",
+   "Orange County SC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists Serbia; Wikipedia: American-born of Serbian heritage, same player at Brooklyn."
+ },
+ {
+  "id": "taimu-okiyoshi",
+  "name": "Taimu Okiyoshi",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Japan",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the squad listing; birth year from ESPN age."
+ },
+ {
+  "id": "juan-carlos-obregon-jr",
+  "name": "Juan Carlos Obregón Jr",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Honduras",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Hartford Athletic",
+   "Motagua",
+   "Pittsburgh Riverhounds",
+   "Charlotte Independence",
+   "Westchester SC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malik-pinto",
+  "name": "Malik Pinto",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "FC Cincinnati",
+   "Colorado Rapids 2",
+   "Orange County SC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; Princeton graduate",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jaden-servania",
+  "name": "Jaden Servania",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Puerto Rico",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Birmingham Legion",
+   "North Carolina FC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-mangione",
+  "name": "Peter Mangione",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "FC Cincinnati 2",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; Academic All-American",
+  "notes": "No incident codes. Wikipedia notes his cousin's criminal case; not about him and not scored."
+ },
+ {
+  "id": "abdoulaye-kante",
+  "name": "Abdoulaye Kante",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Bourges",
+   "La Louvière Centre",
+   "Ekenäs IF",
+   "Ilves",
+   "Lahti",
+   "Brooklyn FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; two red cards in 2024",
+  "notes": "No incident codes; two 2024 red cards, reasons not given. identity: ESPN lists age 21; the Brooklyn FC Kanté per Wikipedia was born 2000."
+ },
+ {
+  "id": "antonio-romeo",
+  "name": "Antonio Romeo",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Toronto FC II",
+   "HB Køge",
+   "Valour FC",
+   "Vancouver FC",
+   "Valour FC",
+   "Brooklyn FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; youth sending-off for a slap",
+  "notes": "red_card_violence 1: sent off for slapping an opponent at the 2017 CONCACAF U-17 Championship (per source cited on Wikipedia). Known as Rocco Romeo. Audit: youth-tournament incident from an unopened source, not coded."
+ },
+ {
+  "id": "emilio-ycaza",
+  "name": "Emilio Ycaza",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Reno 1868",
+   "Austin Bold",
+   "Rio Grande Valley FC",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joey-akpunonu",
+  "name": "Joey Akpunonu",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "FC Cincinnati",
+   "Hartford Athletic",
+   "Huntsville City FC",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; Academic All-American",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathan-messer",
+  "name": "Nathan Messer",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "France",
+  "current_club": "Charleston Battery",
+  "career": [
+   "ND Primorje",
+   "Vermont Green FC",
+   "Rhode Island FC",
+   "Portland Hearts of Pine",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists France; Wikipedia: London-born, French mother; same player at Charleston."
+ },
+ {
+  "id": "luis-zamudio",
+  "name": "Luis Zamudio",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "América",
+   "North Texas SC",
+   "Fort Lauderdale CF",
+   "Loudoun United",
+   "D.C. United",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sean-suber",
+  "name": "Sean Suber",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Huntsville City FC",
+   "Pittsburgh Riverhounds",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kirill-pakhomov",
+  "name": "Kirill Pakhomov",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Russia",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the squad listing; birth year from ESPN age."
+ },
+ {
+  "id": "colton-swan",
+  "name": "Colton Swan",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Colorado Rapids 2",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia reports a move to Hibernian in December 2026."
+ },
+ {
+  "id": "wilmer-cabrera",
+  "name": "Wilmer Cabrera",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Colombia",
+  "current_club": "Charleston Battery",
+  "career": [
+   "Rio Grande Valley FC",
+   "Real Cartagena",
+   "Greifswalder FC",
+   "El Paso Locomotive",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. This is Wilmer Cabrera Jr. (born 2000), not the former coach; ESPN lists USA, Wikipedia Colombia (Bogotá-born)."
+ },
+ {
+  "id": "houssou-landry",
+  "name": "Houssou Landry",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Ivory Coast",
+  "current_club": "Charleston Battery",
+  "career": [
+   "ASI d'Abengourou",
+   "Loudoun United",
+   "New Mexico United",
+   "Charleston Battery"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Wikipedia title: Nanan Houssou (Landry Nanan Houssou)."
+ },
+ {
+  "id": "jon-talen-maples",
+  "name": "Jon-Talen Maples",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Brazos Valley Cavalry",
+   "Toronto FC II",
+   "Houston Dynamo 2",
+   "New Mexico United",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mathew-mahoney",
+  "name": "Mathew Mahoney",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Bethlehem Steel",
+   "Sacramento Republic",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia title is 'Matt Mahoney (soccer)'; same player (Switchbacks since 2021, born 1995)."
+ },
+ {
+  "id": "aidan-rocha",
+  "name": "Aidan Rocha",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Loudoun United",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia lists midfielder; ESPN lists right-back."
+ },
+ {
+  "id": "jonas-fjellberg",
+  "name": "Jonas Fjellberg",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Ull/Kisa",
+   "FC Cincinnati",
+   "Rio Grande Valley FC (loan)",
+   "Indy Eleven",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia spells the name Fjeldberg; same player (born 1998, Switchbacks No. 7)."
+ },
+ {
+  "id": "juan-tejada",
+  "name": "Juan Tejada",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Panama",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Tampa Bay Rowdies",
+   "Indy Eleven",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "colin-shutler",
+  "name": "Colin Shutler",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "North Texas SC",
+   "Orange County SC",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-herrera",
+  "name": "Christian Herrera",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Mexico",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Swope Park Rangers",
+   "Orlando City B",
+   "Oakland Roots",
+   "Tacoma Defiance",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. US-born; played youth internationals for both USA and Mexico."
+ },
+ {
+  "id": "devon-amoo-mensah",
+  "name": "Devon Amoo-Mensah",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "FK Älmeboda/Linneryd",
+   "Michigan Stars",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kobe-hernandez-foster",
+  "name": "Kobe Hernandez-Foster",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "LA Galaxy II",
+   "VfL Wolfsburg",
+   "HamKam",
+   "Birmingham Legion",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "haruki-yamazaki",
+  "name": "Haruki Yamazaki",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Japan",
+  "current_club": "Detroit City FC",
+  "career": [
+   "Northern Colorado Hailstorm",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "callum-montgomery",
+  "name": "Callum Montgomery",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Canada",
+  "current_club": "Detroit City FC",
+  "career": [
+   "FC Dallas",
+   "Minnesota United",
+   "Cavalry FC",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,674 @@
+[
+ {
+  "id": "garven-metusala",
+  "name": "Garven Metusala",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Haiti",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "CS St-Hubert",
+   "CS Fabrose",
+   "AS Blainville",
+   "Forge FC",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Born in Canada, plays for Haiti."
+ },
+ {
+  "id": "darren-smith",
+  "name": "Darren Smith",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "South Africa",
+  "current_club": "Detroit City FC",
+  "career": [
+   "SuperSport United",
+   "Ekenäs IF",
+   "FC Honka",
+   "AS FAR",
+   "Inter Turku",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxi-rodriguez",
+  "name": "Maxi Rodriguez",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Detroit City FC",
+  "career": [
+   "San Antonio FC",
+   "Richmond Kickers",
+   "Detroit City FC",
+   "Rhode Island FC",
+   "Detroit City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia 'Maxi Rodriguez (soccer)' is the Argentine (born 1981), not this player; club release used; birth year estimated from ESPN age 31."
+ },
+ {
+  "id": "eric-calvillo",
+  "name": "Eric Calvillo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "El Salvador",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "New York Cosmos",
+   "San Jose Earthquakes",
+   "Reno 1868",
+   "Orange County SC",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tony-alfaro",
+  "name": "Tony Alfaro",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Mexico",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Zacatepec",
+   "Reno 1868",
+   "D.C. United",
+   "New York City FC",
+   "LA Galaxy",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amando-moreno",
+  "name": "Amando Moreno",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "El Salvador",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Tijuana",
+   "Dorados",
+   "New York Red Bulls II",
+   "Chicago Fire",
+   "New Mexico United",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jamie-webber",
+  "name": "Jamie Webber",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "South Africa",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Vasco da Gama (SA)",
+   "Stellenbosch",
+   "SuperSport United",
+   "Sekhukhune United",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "giordano-colli",
+  "name": "Giordano Colli",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Australia",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Bayswater City",
+   "Perth Glory",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matthew-real",
+  "name": "Matthew Real",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Bethlehem Steel",
+   "Philadelphia Union",
+   "Colorado Springs Switchbacks",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eric-dick",
+  "name": "Eric Dick",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Phoenix Rising",
+   "Columbus Crew",
+   "Indy Eleven",
+   "Minnesota United",
+   "Pittsburgh Riverhounds",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aodhan-quinn",
+  "name": "Aodhan Quinn",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Orlando City",
+   "Louisville City",
+   "FC Cincinnati",
+   "Orange County SC",
+   "Phoenix Rising",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aaron-guillen",
+  "name": "Aaron Guillen",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Mexico",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Austin Aztex",
+   "FC Dallas",
+   "North Carolina FC",
+   "Tampa Bay Rowdies",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oalex-anderson",
+  "name": "Oalex Anderson",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "St Vincent and Grenadines",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "System 3",
+   "Grenades FC",
+   "Seattle Sounders FC",
+   "Richmond Kickers",
+   "North Carolina FC",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes; came back from a four-year injury gap",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "manuel-arteaga",
+  "name": "Manuel Arteaga",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Venezuela",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Arouca",
+   "Zamora",
+   "Indy Eleven",
+   "Phoenix Rising FC",
+   "Tampa Bay Rowdies",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. His 2016 Hajduk loan ended without explanation on Wikipedia; a search found nothing adverse."
+ },
+ {
+  "id": "marcus-epps",
+  "name": "Marcus Epps",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "Memphis 901",
+   "San Antonio FC",
+   "Phoenix Rising FC",
+   "FC Tulsa",
+   "Hartford Athletic",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Portland Timbers 2 (2020) skipped as a reserve side."
+ },
+ {
+  "id": "phillip-goodrum",
+  "name": "Phillip Goodrum",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "Memphis 901",
+   "FC Tulsa",
+   "Louisville City FC",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Atlanta United 2 (2020-21) skipped as a reserve side. Search found no discipline issues."
+ },
+ {
+  "id": "javain-brown",
+  "name": "Javain Brown",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Jamaica",
+  "current_club": "Lexington SC",
+  "career": [
+   "Vancouver Whitecaps FC",
+   "Real Salt Lake",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Search found no discipline issues."
+ },
+ {
+  "id": "abdellatif-aboukoura",
+  "name": "Abdellatif Aboukoura",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Egypt",
+  "current_club": "Loudoun United",
+  "career": [
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes. Born in Virginia to Egyptian parents; ESPN lists Egypt, has Egypt youth call-ups."
+ },
+ {
+  "id": "ray-serrano-lopez",
+  "name": "Ray Serrano Lopez",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Tacoma Defiance",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amadou-dia",
+  "name": "Amadou Dia",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Sporting Kansas City",
+   "Montreal Impact",
+   "Phoenix Rising FC",
+   "Sporting Kansas City",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matias-romero",
+  "name": "Matías Romero",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Argentina",
+  "current_club": "Miami FC",
+  "career": [
+   "Argentinos Juniors",
+   "Banfield",
+   "Instituto",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-da-costa",
+  "name": "Rodrigo da Costa",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Brazil",
+  "current_club": "Miami FC",
+  "career": [
+   "FC Tulsa",
+   "Memphis 901",
+   "North Carolina FC",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "omari-glasgow",
+  "name": "Omari Glasgow",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Guyana",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Western Tigers",
+   "Chicago Fire II",
+   "Chicago Fire",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. On loan from Chicago Fire."
+ },
+ {
+  "id": "chris-gloster",
+  "name": "Chris Gloster",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "Hannover 96 II",
+   "Jong PSV",
+   "New York City FC",
+   "Atlanta United 2",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "greg-hurst",
+  "name": "Greg Hurst",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Scotland",
+  "current_club": "New Mexico United",
+  "career": [
+   "St Johnstone",
+   "Stenhousemuir",
+   "Chattanooga Red Wolves",
+   "Union Omaha",
+   "Phoenix Rising FC",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zico-bailey",
+  "name": "Zico Bailey",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Philippines",
+  "current_club": "New Mexico United",
+  "career": [
+   "LA Galaxy II",
+   "Kalmar FF",
+   "FC Helsingør",
+   "FC Cincinnati",
+   "San Antonio FC",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "florian-valot",
+  "name": "Florian Valot",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "France",
+  "current_club": "Oakland Roots",
+  "career": [
+   "New York Red Bulls II",
+   "New York Red Bulls",
+   "FC Cincinnati",
+   "Miami FC",
+   "Loudoun United",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-trejo",
+  "name": "Daniel Trejo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Las Vegas Lights",
+   "Los Angeles FC",
+   "Phoenix Rising FC",
+   "Korona Kielce",
+   "Birmingham Legion",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Identity: ESPN lists USA; Wikipedia (as Danny Trejo) calls him Mexican, born in Morelia and raised in California."
+ },
+ {
+  "id": "stephen-kelly",
+  "name": "Stephen Kelly",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Scotland",
+  "current_club": "Orange County SC",
+  "career": [
+   "Rangers",
+   "Livingston",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "koke-vegas",
+  "name": "Koke Vegas",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Levante B",
+   "Levante",
+   "Alcoyano",
+   "Deportivo La Coruña",
+   "San Diego Loyal",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leo-afonso",
+  "name": "Leo Afonso",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Inter Miami",
+   "Atlanta United",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jojea-kwizera",
+  "name": "Jojea Kwizera",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Rwanda",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Ogden City",
+   "CF Montréal",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zachary-herivaux",
+  "name": "Zachary Herivaux",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Haiti",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "New England Revolution",
+   "San Antonio FC",
+   "Birmingham Legion",
+   "Tampa Bay Rowdies",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dwayne-atkinson",
+  "name": "Dwayne Atkinson",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Jamaica",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Cavalier",
+   "ÍBV",
+   "Cavalier",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michelle-benitez",
+  "name": "Michelle Benítez",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Mexico",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Guadalajara",
+   "Tapatío",
+   "Celaya",
+   "Zacatepec",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jorge-hernandez",
+  "name": "Jorge Hernandez",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Mexico",
+  "current_club": "San Antonio FC",
+  "career": [
+   "LA Galaxy II",
+   "KV Mechelen",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ }
+]

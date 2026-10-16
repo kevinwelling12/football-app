@@ -1,0 +1,648 @@
+[
+ {
+  "id": "granit-xhaka",
+  "name": "Granit Xhaka",
+  "SP": 3.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "many red cards (8+ for club and country by 2016), struck and grabbed opponents",
+   "VO": "2018 eagle gesture was a nationalist/political act (neutral)",
+   "CO": "gave EUR 20,000 to charity as an apology for a red card; otherwise nothing notable found",
+   "HU": "2019 sarcastic gestures and swearing at Arsenal fans, stripped of captaincy; later matured as leader"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Granit_Xhaka"
+  ]
+ },
+ {
+  "id": "micky-van-de-ven",
+  "name": "Micky van de Ven",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; captaincy not a trait"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micky_van_de_Ven"
+  ]
+ },
+ {
+  "id": "hector-herrera",
+  "name": "Héctor Herrera",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off and banned 3 games for spitting towards a referee (MLS 2024); fastest two-yellow UCL dismissal",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Héctor_Herrera"
+  ]
+ },
+ {
+  "id": "cristiana-girelli",
+  "name": "Cristiana Girelli",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristiana_Girelli"
+  ]
+ },
+ {
+  "id": "janine-sonis",
+  "name": "Janine Sonis",
+  "SP": 5.5,
+  "VO": 7.5,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "2026 red card for a VAR-upgraded serious foul; otherwise nothing notable found",
+   "VO": "executive director of Canadian Soccer Players Association; testified to Parliament in 2023 equal-treatment dispute",
+   "CO": "players' association work for teammates; nothing notable found beyond that",
+   "HU": "gave up captaincy to Heaps quietly, says she would be honoured to captain"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Janine_Sonis"
+  ]
+ },
+ {
+  "id": "jaedyn-shaw",
+  "name": "Jaedyn Shaw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; 2024 trade request is neutral"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jaedyn_Shaw"
+  ]
+ },
+ {
+  "id": "tierna-davidson",
+  "name": "Tierna Davidson",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "openly lesbian public figure (visibility), no campaign found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; voted captain by teammates"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tierna_Davidson"
+  ]
+ },
+ {
+  "id": "lizbeth-ovalle",
+  "name": "Lizbeth Ovalle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "answered an abusive fan online with an insult ('naca', 2024)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lizbeth_Ovalle"
+  ]
+ },
+ {
+  "id": "mackenzie-arnold",
+  "name": "Mackenzie Arnold",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "went public with her hearing loss; 2023 partnership to tackle hearing-loss stigma",
+   "CO": "awareness work on hearing loss; nothing notable found otherwise",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mackenzie_Arnold"
+  ]
+ },
+ {
+  "id": "mina-tanaka",
+  "name": "Mina Tanaka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mina_Tanaka"
+  ]
+ },
+ {
+  "id": "esme-morgan",
+  "name": "Esme Morgan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "patron of The Children's Hospital Charity in Sheffield (fundraising for equipment)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Esme_Morgan"
+  ]
+ },
+ {
+  "id": "luka-jovic",
+  "name": "Luka Jovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "broke COVID self-isolation in Serbia 2020, charged, apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Jović"
+  ]
+ },
+ {
+  "id": "domagoj-vida",
+  "name": "Domagoj Vida",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "few notable on-pitch issues; red card v Bayern; 2012 club fine for opening a beer on the team bus",
+   "VO": "'Glory to Ukraine' and 'Belgrade is burning' were political/nationalist (neutral); apologised",
+   "CO": "nothing notable found",
+   "HU": "provocative 2018 World Cup celebration videos, later apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Domagoj_Vida"
+  ]
+ },
+ {
+  "id": "donyell-malen",
+  "name": "Donyell Malen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Donyell_Malen"
+  ]
+ },
+ {
+  "id": "mile-svilar",
+  "name": "Mile Svilar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found; declining a Serbia call-up is neutral",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mile_Svilar"
+  ]
+ },
+ {
+  "id": "marcos-llorente",
+  "name": "Marcos Llorente",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "promotes fringe diet and anti-science sun-exposure views (not an inclusion stance, neutral)",
+   "CO": "nothing notable found",
+   "HU": "preaches unconventional health practices publicly, criticised by doctors"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcos_Llorente"
+  ]
+ },
+ {
+  "id": "lee-kang-in",
+  "name": "Lee Kang-In",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "reported clash with senior players incl. captain Son at the 2024 Asian Cup (later apologised to Son)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lee_Kang-in"
+  ]
+ },
+ {
+  "id": "joan-garcia",
+  "name": "Joan García",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "modest farewell to Espanyol; direct rival move drew threats from fans (not scored here)"
+  },
+  "confidence": "medium",
+  "sources": []
+ },
+ {
+  "id": "florian-thauvin",
+  "name": "Florian Thauvin",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "several red cards, including on debuts for Marseille loan and Tigres",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "skipped training in 2013 to force a move; Tigres ended his contract early"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Florian_Thauvin"
+  ]
+ },
+ {
+  "id": "matvei-safonov",
+  "name": "Matvei Safonov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matvei_Safonov"
+  ]
+ },
+ {
+  "id": "maghnes-akliouche",
+  "name": "Maghnes Akliouche",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maghnes_Akliouche"
+  ]
+ },
+ {
+  "id": "yan-diomande",
+  "name": "Yan Diomande",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yan_Diomande"
+  ]
+ },
+ {
+  "id": "nicolas-pepe",
+  "name": "Nicolas Pépé",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "off-the-ball headbutt red card 2020 (first of career), apologised",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Pépé"
+  ]
+ },
+ {
+  "id": "peter-gulacsi",
+  "name": "Péter Gulácsi",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "backed Hungary's 'Family Is Family' LGBTQ+ campaign in 2021 despite backlash",
+   "CO": "nothing notable found",
+   "HU": "quiet professional, nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Péter_Gulácsi"
+  ]
+ },
+ {
+  "id": "emre-can",
+  "name": "Emre Can",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "combative, physical style; red cards on record",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "outspoken and combative in public"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emre_Can"
+  ]
+ },
+ {
+  "id": "cucho-hernandez",
+  "name": "Cucho Hernández",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "4-match ban for referee comments (2020), ban for offensive language (2022), red for violent conduct",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "suspended by Columbus for a team-policy altercation"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cucho_Hernández"
+  ]
+ },
+ {
+  "id": "deniz-undav",
+  "name": "Deniz Undav",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "publicly affirmed Kurdish identity; target of racist abuse, no campaign found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deniz_Undav"
+  ]
+ },
+ {
+  "id": "frank-rijkaard",
+  "name": "Frank Rijkaard",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "spat at Völler twice at the 1990 World Cup, both sent off; apologised",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "calm, rarely courts controversy"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Rijkaard"
+  ]
+ },
+ {
+  "id": "alessandro-del-piero",
+  "name": "Alessandro Del Piero",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 8.5,
+  "why": {
+   "SP": "six Italian awards for gentlemanly conduct, praised for fair play",
+   "VO": "nothing notable found",
+   "CO": "long charity record: cancer research, L'Aquila, Japan earthquake, 1GOAL education",
+   "HU": "shy captain; stayed with Juventus in Serie B"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Del_Piero"
+  ]
+ },
+ {
+  "id": "ryan-giggs",
+  "name": "Ryan Giggs",
+  "SP": 7.5,
+  "VO": 5.5,
+  "CO": 6.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "never sent off in 24 seasons for United; one Wales red, 2004 elbow ban",
+   "VO": "spoke about racism he faced as a child; no campaign",
+   "CO": "UNICEF UK ambassador from 2006",
+   "HU": "aversion to attention, but 2011 injunction affair scandal (assault charges dropped, not scored)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Giggs"
+  ]
+ },
+ {
+  "id": "didier-drogba",
+  "name": "Didier Drogba",
+  "SP": 4.0,
+  "VO": 8.0,
+  "CO": 9.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "diving reputation, slap red in 2008 UCL final, confronted referee 2009 (UEFA ban)",
+   "VO": "2005 televised plea to end the Ivorian civil war",
+   "CO": "Didier Drogba Foundation, hospital in Abidjan; UNDP goodwill ambassador",
+   "HU": "sulked over a penalty with Lampard; big personality"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Didier_Drogba"
+  ]
+ },
+ {
+  "id": "michael-owen",
+  "name": "Michael Owen",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "no notable disciplinary issues found",
+   "VO": "nothing notable found",
+   "CO": "James Owen Foundation for Stargardt research; eye-hospital marathon donation",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Owen"
+  ]
+ },
+ {
+  "id": "matthias-sammer",
+  "name": "Matthias Sammer",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "uncompromising, fiery style; no notable red cards found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "argumentative, nicknamed 'Motzki'; public criticism of others"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthias_Sammer"
+  ]
+ },
+ {
+  "id": "alan-shearer",
+  "name": "Alan Shearer",
+  "SP": 5.0,
+  "VO": 5.5,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "physical, elbows; two reds (one rescinded); FA cleared him of kicking Lennon",
+   "VO": "joined 2023 MOTD walkout backing Lineker over asylum comments",
+   "CO": "NSPCC ambassador, Alan Shearer Centre respite care, CBE for charity in North East",
+   "HU": "feud with Gullit; otherwise nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alan_Shearer"
+  ]
+ },
+ {
+  "id": "kelly-smith",
+  "name": "Kelly Smith",
+  "SP": 5.5,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "sent off for a gesture at opposition fans (2007)",
+   "VO": "spoke openly about alcohol addiction and depression",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kelly_Smith"
+  ]
+ },
+ {
+  "id": "waldemar-anton",
+  "name": "Waldemar Anton",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; loyalty statement then move angered Stuttgart fans (not scored)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waldemar_Anton"
+  ]
+ }
+]

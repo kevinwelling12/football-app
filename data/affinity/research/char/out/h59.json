@@ -1,0 +1,651 @@
+[
+ {
+  "id": "james-murphy",
+  "name": "James Murphy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Murphy_(soccer,_born_1997)"
+  ]
+ },
+ {
+  "id": "pacifique-niyongabire",
+  "name": "Pacifique Niyongabire",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pacifique_Niyongabire"
+  ]
+ },
+ {
+  "id": "christian-torres",
+  "name": "Christian Torres",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Torres_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "sean-young",
+  "name": "Sean Young",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Young_(soccer)"
+  ]
+ },
+ {
+  "id": "chris-donovan",
+  "name": "Chris Donovan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Donovan_(soccer)"
+  ]
+ },
+ {
+  "id": "jansen-wilson",
+  "name": "Jansen Wilson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jansen_Wilson"
+  ]
+ },
+ {
+  "id": "aiden-mcfadden",
+  "name": "Aiden Mcfadden",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aiden_McFadden"
+  ]
+ },
+ {
+  "id": "jake-morris",
+  "name": "Jake Morris",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_Morris_(soccer)"
+  ]
+ },
+ {
+  "id": "zach-duncan",
+  "name": "Zach Duncan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zach_Duncan"
+  ]
+ },
+ {
+  "id": "manny-perez",
+  "name": "Manny Perez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manny_Perez_(soccer)"
+  ]
+ },
+ {
+  "id": "mukwelle-akale",
+  "name": "Mukwelle Akale",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mukwelle_Akale"
+  ]
+ },
+ {
+  "id": "tola-showunmi",
+  "name": "Tola Showunmi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tola_Showunmi"
+  ]
+ },
+ {
+  "id": "alessandro-milesi",
+  "name": "Alessandro Milesi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; no English article (disambiguation only)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Milesi"
+  ]
+ },
+ {
+  "id": "mason-tunbridge",
+  "name": "Mason Tunbridge",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; no Wikipedia article, club release only",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://www.tormentafc.com/news/2025/12/15/mason-tunbridge-transferred-to-miami-fc/"
+  ]
+ },
+ {
+  "id": "gerald-diaz",
+  "name": "Gerald Díaz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerald_D%C3%ADaz"
+  ]
+ },
+ {
+  "id": "arthur-rogers",
+  "name": "Arthur Rogers",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_Rogers_(footballer)"
+  ]
+ },
+ {
+  "id": "paul-gindiri",
+  "name": "Paul Gindiri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilijah_Paul"
+  ]
+ },
+ {
+  "id": "nico-gordon",
+  "name": "Nico Gordon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one second-yellow red card (2023) on record; otherwise nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Gordon"
+  ]
+ },
+ {
+  "id": "ousman-jabang",
+  "name": "Ousman Jabang",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousman_Jabang"
+  ]
+ },
+ {
+  "id": "niall-reid-stephen",
+  "name": "Niall Reid-Stephen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niall_Reid-Stephen"
+  ]
+ },
+ {
+  "id": "valentin-noel",
+  "name": "Valentin Noël",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valentin_No%C3%ABl"
+  ]
+ },
+ {
+  "id": "dayonn-harris",
+  "name": "Dayonn Harris",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; 2025 USL Comeback Player of the Year after ACL"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dayonn_Harris"
+  ]
+ },
+ {
+  "id": "michael-edwards",
+  "name": "Michael Edwards",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Edwards_(soccer)"
+  ]
+ },
+ {
+  "id": "thomas-mccabe",
+  "name": "Thomas McCabe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_McCabe_(soccer)"
+  ]
+ },
+ {
+  "id": "kendall-mcintosh",
+  "name": "Kendall McIntosh",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 7.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "led Red Bulls players' anti-racism response in 2020 ('Unite, Rethink, Reform')",
+   "CO": "raised funds for NAACP LDF, Black child and HBCU funds; mini-pitch and Newark school work; Red Bulls Humanitarian of the Year 2020",
+   "HU": "led player-driven effort without fame; nothing notable found otherwise"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kendall_McIntosh",
+   "https://www.newyorkredbulls.com/news/new-york-red-bulls-announce-2020-team-awards",
+   "https://oaklandrootsblog.com/2024/12/24/takeaways-from-oakland-roots-signing-gk-kendall-mcintosh/"
+  ]
+ },
+ {
+  "id": "tyler-gibson",
+  "name": "Tyler Gibson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyler_Gibson"
+  ]
+ },
+ {
+  "id": "faysal-bettache",
+  "name": "Faysal Bettache",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faysal_Bettache"
+  ]
+ },
+ {
+  "id": "tom-brewitt",
+  "name": "Tom Brewitt",
+  "SP": 2.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "admitted (2020) deliberately injuring Liverpool youth teammate Daniel Cleary in training; Cleary sued in 2024",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "spoke of the injury on a podcast years later; nothing notable found otherwise"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Brewitt"
+  ]
+ },
+ {
+  "id": "alexander-rando",
+  "name": "Alexander Rando",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexander_Rando"
+  ]
+ },
+ {
+  "id": "christopher-hegardt",
+  "name": "Christopher Hegardt",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 6.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "childhood liver cancer and transplant survivor; open about it to inspire young people, no campaign found",
+   "CO": "Charlotte FC said he was first to volunteer for community work, especially with sick children",
+   "HU": "reluctant to publicise his story, wants to be seen as a player first"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Hegardt",
+   "https://africa.espn.com/football/story/_/id/37630683/chris-hegardt-more-viral-sacha-kljestan-photo-more-cancer-survivor-making-dreams-come-true-charlotte-fc"
+  ]
+ },
+ {
+  "id": "nico-benalcazar",
+  "name": "Nico Benalcazar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Benalcazar"
+  ]
+ },
+ {
+  "id": "lyam-mackinnon",
+  "name": "Lyam Mackinnon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lyam_MacKinnon"
+  ]
+ },
+ {
+  "id": "garrison-tubbs",
+  "name": "Garrison Tubbs",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Garrison_Tubbs"
+  ]
+ },
+ {
+  "id": "ousmane-sylla",
+  "name": "Ousmane Sylla",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousmane_Sylla_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "yaniv-bazini",
+  "name": "Yaniv Bazini",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; no Wikipedia article found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "id": "ryan-doghman",
+  "name": "Ryan Doghman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Doghman"
+  ]
+ }
+]

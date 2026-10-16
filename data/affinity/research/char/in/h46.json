@@ -1,0 +1,621 @@
+[
+ {
+  "id": "sebastien-ibeagha",
+  "name": "Sebastien Ibeagha",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "AC Horsens",
+   "Houston Dynamo",
+   "San Antonio FC",
+   "New York City FC",
+   "Los Angeles FC",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-cappis",
+  "name": "Christian Cappis",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "Hobro IK",
+   "Brøndby",
+   "Viking",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "herman-johansson",
+  "name": "Herman Johansson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Sweden",
+  "current_club": "FC Dallas",
+  "career": [
+   "Friska Viljor",
+   "Sandvikens IF",
+   "Mjällby AIF",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bernard-kamungo",
+  "name": "Bernard Kamungo",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record of conduct; born in a Tanzanian refugee camp, from open tryout to MLS",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jonathan-bond",
+  "name": "Jonathan Bond",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Reading",
+   "Peterborough United",
+   "West Bromwich Albion",
+   "LA Galaxy",
+   "Watford",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lawrence-ennali",
+  "name": "Lawrence Ennali",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Hannover 96",
+   "Rot-Weiss Essen",
+   "Górnik Zabrze",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felipe-andrade",
+  "name": "Felipe Andrade",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Fluminense",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-halter",
+  "name": "Lucas Halter",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Athletico Paranaense",
+   "Goiás",
+   "Botafogo",
+   "Vitória",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "duane-holmes",
+  "name": "Duane Holmes",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Huddersfield Town",
+   "Scunthorpe United",
+   "Derby County",
+   "Huddersfield Town",
+   "Preston North End",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yannick-bright",
+  "name": "Yannick Bright",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Italy",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Arconatese",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "micael",
+  "name": "Micael",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Atlético Mineiro",
+   "Houston Dynamo FC",
+   "Palmeiras",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximiliano-falcon",
+  "name": "Maximiliano Falcón",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Uruguay",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Rentistas",
+   "Colo-Colo",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gonzalo-lujan",
+  "name": "Gonzalo Luján",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Argentina",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "San Lorenzo",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "justin-haak",
+  "name": "Justin Haak",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "LA Galaxy",
+  "career": [
+   "New York City FC",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jt-marcinkowski",
+  "name": "JT Marcinkowski",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "LA Galaxy",
+  "career": [
+   "San Jose Earthquakes",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-sanabria",
+  "name": "Lucas Sanabria",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Uruguay",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Nacional",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes. identity: ESPN lists Paraguay, age 27 (matches Paraguayan Lucas Sanabria b. 1999, still at Libertad); the LA Galaxy No. 8 is the Uruguayan born 2003."
+ },
+ {
+  "id": "julian-aude",
+  "name": "Julián Aude",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Argentina",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Lanús",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elijah-wynder",
+  "name": "Elijah Wynder",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Louisville City",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nkosi-tafari",
+  "name": "Nkosi Tafari",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "FC Dallas",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morris-duggan",
+  "name": "Morris Duggan",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Kirchheimer SC",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jefferson-diaz",
+  "name": "Jefferson Díaz",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Colombia",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Real Cartagena",
+   "Valledupar",
+   "Deportivo Cali",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "owen-gene",
+  "name": "Owen Gene",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Guadeloupe",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Amiens",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. identity: ESPN lists Guadeloupe; Wikipedia gives French (France U20) of Martiniquais and Malagasy descent; club and age match."
+ },
+ {
+  "id": "kyle-duncan",
+  "name": "Kyle Duncan",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Jamaica",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Valenciennes",
+   "New York Red Bulls",
+   "Oostende",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-romero",
+  "name": "Nicolás Romero",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Argentina",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Atlético Tucumán",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxwell-woledzi",
+  "name": "Maxwell Woledzi",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Ghana",
+  "current_club": "Nashville SC",
+  "career": [
+   "Nordsjælland",
+   "Vitória SC",
+   "Fredrikstad",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-lovitz",
+  "name": "Daniel Lovitz",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Nashville SC",
+  "career": [
+   "Toronto FC",
+   "Montreal Impact",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeisson-palacios",
+  "name": "Jeisson Palacios",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Colombia",
+  "current_club": "Nashville SC",
+  "career": [
+   "Atlético Bucaramanga",
+   "Alianza Petrolera",
+   "Santa Fe",
+   "Pafos",
+   "América de Cali",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edvard-tagseth",
+  "name": "Edvard Tagseth",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Norway",
+  "current_club": "Nashville SC",
+  "career": [
+   "Neset",
+   "Rosenborg",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-muyl",
+  "name": "Alex Muyl",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Nashville SC",
+  "career": [
+   "New York Red Bulls",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "william-sands",
+  "name": "William Sands",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "Manhattan SC",
+   "Columbus Crew",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mamadou-fofana",
+  "name": "Mamadou Fofana",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Mali",
+  "current_club": "New England Revolution",
+  "career": [
+   "Alanyaspor",
+   "Bandırmaspor",
+   "Metz",
+   "Amiens",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. identity: ESPN lists France, age 26; Wikipedia's New England Revolution player is Malian, born 1998."
+ },
+ {
+  "id": "brooklyn-raines",
+  "name": "Brooklyn Raines",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "El Paso Locomotive",
+   "Houston Dynamo",
+   "New England Revolution"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; supported a cancer centre",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ethan-kohler",
+  "name": "Ethan Kohler",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "Werder Bremen",
+   "SC Verl",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-polster",
+  "name": "Matt Polster",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "Chicago Fire",
+   "Rangers",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luca-langoni",
+  "name": "Luca Langoni",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Argentina",
+  "current_club": "New England Revolution",
+  "career": [
+   "Boca Juniors",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "griffin-yow",
+  "name": "Griffin Yow",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "D.C. United",
+   "Westerlo",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; said he didn't feel valued at D.C. United",
+  "notes": "No incident codes."
+ }
+]

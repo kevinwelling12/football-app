@@ -1,0 +1,636 @@
+[
+ {
+  "id": "taiwo-awoniyi",
+  "name": "Taiwo Awoniyi",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Nigeria",
+  "current_club": "Coventry City",
+  "career": [
+   "Liverpool",
+   "Union Berlin",
+   "Nottingham Forest",
+   "Coventry City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no incidents; well liked",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyrick-mitchell",
+  "name": "Tyrick Mitchell",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Crystal Palace"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "PFA Community Champion for foundation work",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anan-khalaili",
+  "name": "Anan Khalaili",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Israel",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Maccabi Haifa",
+   "Union Saint-Gilloise",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eddie-nketiah",
+  "name": "Eddie Nketiah",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Arsenal",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "walter-benitez",
+  "name": "Walter Benítez",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Argentina",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Quilmes",
+   "Nice",
+   "PSV Eindhoven",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "axel-disasi",
+  "name": "Axel Disasi",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "France",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Paris FC",
+   "Reims",
+   "Monaco",
+   "Chelsea",
+   "West Ham United",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes. On loan from Chelsea; sent off for a foul in September 2026 (not violent conduct)."
+ },
+ {
+  "id": "honest-ahanor",
+  "name": "Honest Ahanor",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Italy",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Genoa",
+   "Atalanta",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-tarkowski",
+  "name": "James Tarkowski",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Oldham Athletic",
+   "Brentford",
+   "Burnley",
+   "Everton"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "refused to play for Brentford to force a move, later apologised",
+  "notes": "forced_transfer: refused to play for Brentford against Burnley in January 2016 and joined Burnley two weeks later."
+ },
+ {
+  "id": "kiernan-dewsbury-hall",
+  "name": "Kiernan Dewsbury-Hall",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Leicester City",
+   "Luton Town",
+   "Chelsea",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thierno-barry",
+  "name": "Thierno Barry",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Everton",
+  "career": [
+   "Beveren",
+   "Basel",
+   "Villarreal",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; two early red cards at Basel",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vitaliy-mykolenko",
+  "name": "Vitaliy Mykolenko",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ukraine",
+  "current_club": "Everton",
+  "career": [
+   "Dynamo Kyiv",
+   "Everton"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "spoke out over the war in Ukraine",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ainsley-maitland-niles",
+  "name": "Ainsley Maitland-Niles",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Arsenal",
+   "Ipswich Town",
+   "Southampton",
+   "Lyon",
+   "Everton"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "publicly pushed to leave Arsenal on social media (2021)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hayden-hackney",
+  "name": "Hayden Hackney",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Middlesbrough",
+   "Scunthorpe United",
+   "Everton"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "spat at an opponent in 2022, admitted it and was banned six games",
+  "notes": "red_card_violence: spat at an Exeter City opponent while on loan at Scunthorpe (January 2022); admitted it, six-match ban."
+ },
+ {
+  "id": "jake-o-brien",
+  "name": "Jake O'Brien",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Republic of Ireland",
+  "current_club": "Everton",
+  "career": [
+   "Cork City",
+   "Crystal Palace",
+   "RWD Molenbeek",
+   "Lyon",
+   "Everton"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "Diabetes Ireland ambassador",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gonzalo-garcia",
+  "name": "Gonzalo García",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Fulham",
+  "career": [
+   "Real Madrid",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known; academy product, modest public profile",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "timothy-castagne",
+  "name": "Timothy Castagne",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Belgium",
+  "current_club": "Fulham",
+  "career": [
+   "Genk",
+   "Atalanta",
+   "Leicester City",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro; left Atalanta after friction with Gasperini",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-muniz",
+  "name": "Rodrigo Muniz",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Fulham",
+  "career": [
+   "Flamengo",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "konstantinos-tzolakis",
+  "name": "Konstantinos Tzolakis",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Greece",
+  "current_club": "Hull City",
+  "career": [
+   "Olympiacos",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sasa-lukic",
+  "name": "Sasa Lukic",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Serbia",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Partizan",
+   "Torino",
+   "Fulham",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "issa-diop",
+  "name": "Issa Diop",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Morocco",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Toulouse",
+   "West Ham United",
+   "Fulham",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lukas-hornicek",
+  "name": "Lukás Hornícek",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Czechia",
+  "current_club": "Newcastle United",
+  "career": [
+   "Braga",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joe-willock",
+  "name": "Joe Willock",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Newcastle United",
+  "career": [
+   "Arsenal",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amar-dedic",
+  "name": "Amar Dedic",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "Newcastle United",
+  "career": [
+   "Red Bull Salzburg",
+   "Wolfsberger AC",
+   "Marseille",
+   "Benfica",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matias-fernandez-pardo",
+  "name": "Matias Fernandez-Pardo",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Belgium",
+  "current_club": "Newcastle United",
+  "career": [
+   "Gent",
+   "Lille",
+   "Newcastle United"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "little public record; trained apart at Lille while move was settled",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anthony-elanga",
+  "name": "Anthony Elanga",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Sweden",
+  "current_club": "Newcastle United",
+  "career": [
+   "Manchester United",
+   "Nottingham Forest",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "neco-williams",
+  "name": "Neco Williams",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Wales",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Liverpool",
+   "Fulham",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "decent pro; dedicated a World Cup display to his late grandfather",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ola-aina",
+  "name": "Ola Aina",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Nigeria",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Chelsea",
+   "Hull City",
+   "Torino",
+   "Fulham",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "decent pro, national honour in Nigeria",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "liam-delap",
+  "name": "Liam Delap",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Manchester City",
+   "Hull City",
+   "Ipswich Town",
+   "Chelsea",
+   "Nottingham Forest"
+  ],
+  "CH_now": 5.7,
+  "CH_why": "decent pro, plenty of bookings",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "igor-jesus",
+  "name": "Igor Jesus",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Coritiba",
+   "Shabab Al-Ahli",
+   "Botafogo",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "enzo-le-fee",
+  "name": "Enzo Le Fée",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Sunderland",
+  "career": [
+   "Lorient",
+   "Rennes",
+   "Roma",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-roefs",
+  "name": "Robin Roefs",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Netherlands",
+  "current_club": "Sunderland",
+  "career": [
+   "NEC",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noah-sadiki",
+  "name": "Noah Sadiki",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Congo DR",
+  "current_club": "Sunderland",
+  "career": [
+   "Anderlecht",
+   "Union Saint-Gilloise",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wilson-isidor",
+  "name": "Wilson Isidor",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Haiti",
+  "current_club": "Sunderland",
+  "career": [
+   "Monaco",
+   "Lokomotiv Moscow",
+   "Zenit Saint Petersburg",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes (joined Lokomotiv Moscow in January 2022, before the invasion of Ukraine)."
+ },
+ {
+  "id": "omar-alderete",
+  "name": "Omar Alderete",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Paraguay",
+  "current_club": "Sunderland",
+  "career": [
+   "Huracán",
+   "Basel",
+   "Hertha BSC",
+   "Valencia",
+   "Getafe",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brandon-vazquez",
+  "name": "Brandon Vázquez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Austin FC",
+  "career": [
+   "Tijuana",
+   "Atlanta United",
+   "FC Cincinnati",
+   "Monterrey",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kristijan-kahlina",
+  "name": "Kristijan Kahlina",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Croatia",
+  "current_club": "Charlotte FC",
+  "career": [
+   "NK Vinogradar",
+   "NK Lučko",
+   "FC Koper",
+   "HNK Gorica",
+   "Ludogorets Razgrad",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

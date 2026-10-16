@@ -1,0 +1,642 @@
+[
+ {
+  "id": "marcelo-palomino",
+  "name": "Marcelo Palomino",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Houston Dynamo",
+   "Houston Dynamo 2",
+   "AFC Eskilstuna",
+   "GIF Sundsvall",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ethan-zubak",
+  "name": "Ethan Zubak",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "LA Galaxy II",
+   "LA Galaxy",
+   "Nashville SC",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "john-scearce",
+  "name": "John Scearce",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Union Omaha",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jean-eric-moursou",
+  "name": "Jean Eric Moursou",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Cameroon",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Coton Sport",
+   "Valenciennes",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "collin-smith",
+  "name": "Collin Smith",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "North Texas SC",
+   "FC Dallas",
+   "Rhode Island FC",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luke-biasi",
+  "name": "Luke Biasi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Pittsburgh Riverhounds",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pape-boye",
+  "name": "Pape Boye",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Senegal",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-flores",
+  "name": "Daniel Flores",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Mexico",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Real Monarchs",
+   "Tapatío",
+   "Guadalajara",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. identity: ESPN lists Mexico; Wikipedia calls him American (on loan from Guadalajara), age and club match."
+ },
+ {
+  "id": "hope-avayevu",
+  "name": "Hope Avayevu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Ghana",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "North Texas SC",
+   "Ventura County FC",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "damian-rivera",
+  "name": "Damian Rivera",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Guatemala",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "New England Revolution",
+   "Tampa Bay Rowdies",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-campuzano-jimenez",
+  "name": "Nicolás Campuzano Jiménez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Spain",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Manhattan SC",
+   "FC Cincinnati 2",
+   "New England Revolution II",
+   "Lexington SC",
+   "Monterey Bay FC",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-griffin",
+  "name": "Daniel Griffin",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Pittsburgh Riverhounds",
+   "Huntsville City FC",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robbie-mertz",
+  "name": "Robbie Mertz",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Pittsburgh Riverhounds",
+   "Atlanta United 2",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-bassett",
+  "name": "Samuel Bassett",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Colorado Rapids",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "trevor-amann",
+  "name": "Trevor Amann",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Detroit City FC",
+   "Denton Diablos",
+   "Northern Colorado Hailstorm",
+   "Sacramento Republic FC",
+   "FC Tulsa",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brunallergene-etou",
+  "name": "Brunallergene Etou",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Congo",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Drancy",
+   "Monts d'Or Azergues",
+   "Béziers",
+   "Charlotte Independence",
+   "Tampa Bay Rowdies",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "frank-nodarse",
+  "name": "Frank Nodarse",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Cuba",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Storm FC",
+   "Fort Lauderdale CF",
+   "Rio Grande Valley FC",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "grant-d-stoneman",
+  "name": "Grant D. Stoneman",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Lansing Ignite",
+   "San Diego Loyal",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aldair-sanchez",
+  "name": "Aldair Sanchez",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Portland Timbers 2",
+   "Sacramento Republic FC",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "karifa-yao",
+  "name": "Karifa Yao",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "CF Montréal",
+   "Cavalry FC",
+   "Vancouver Whitecaps FC",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "agustin-rodriguez",
+  "name": "Agustín Rodríguez",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Argentina",
+  "current_club": "Lanús",
+  "career": [
+   "Lanús",
+   "Anorthosis Famagusta",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. On loan from Lanús for 2026."
+ },
+ {
+  "id": "noah-fuson",
+  "name": "Noah Fuson",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Forward Madison FC",
+   "Columbus Crew 2",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-crisostomo",
+  "name": "Daniel Crisostomo",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Orange County SC",
+   "Los Angeles FC",
+   "Tampa Bay Rowdies",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jared-timmer",
+  "name": "Jared Timmer",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Flint City Bucks",
+   "Reno 1868 FC",
+   "Indy Eleven",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arturo-rodriguez",
+  "name": "Arturo Rodriguez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "North Texas SC",
+   "Phoenix Rising FC",
+   "Charleston Battery",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michael-maldonado",
+  "name": "Michael Maldonado",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "North Texas SC",
+   "Forward Madison FC",
+   "North Carolina FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "akeem-ward",
+  "name": "Akeem Ward",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "Birmingham Legion FC",
+   "North Carolina FC",
+   "Oakland Roots SC",
+   "Memphis 901 FC",
+   "Colorado Springs Switchbacks",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mitchell-taintor",
+  "name": "Mitchell Taintor",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "Toronto FC II",
+   "Sacramento Republic FC",
+   "San Antonio FC",
+   "Sacramento Republic FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-crognale",
+  "name": "Alex Crognale",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "Columbus Crew",
+   "Birmingham Legion FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emil-cuello",
+  "name": "Emil Cuello",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Argentina",
+  "current_club": "San Antonio FC",
+  "career": [
+   "LA Galaxy",
+   "San Antonio FC",
+   "Sacramento Republic FC",
+   "Phoenix Rising FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-sorto",
+  "name": "Christian Sorto",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "El Salvador",
+  "current_club": "San Antonio FC",
+  "career": [
+   "Rio Grande Valley FC",
+   "Miami FC",
+   "Orange County SC",
+   "Loudoun United",
+   "El Paso Locomotive",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-barbir",
+  "name": "Daniel Barbir",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "Sporting Kansas City II",
+   "Oakland Roots SC",
+   "Indy Eleven",
+   "Miami FC",
+   "Lexington SC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nelson-blanco",
+  "name": "Nelson Blanco",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "El Salvador",
+  "current_club": "San Antonio FC",
+  "career": [
+   "North Carolina FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emil-jaaskelainen",
+  "name": "Emil Jääskeläinen",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Finland",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. St. Louis City 2 (reserve side, 2025) left out of clubs."
+ },
+ {
+  "id": "wan-kuzain",
+  "name": "Wan Kuzain",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Sporting Kansas City",
+   "Rio Grande Valley FC Toros",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. US-born, ESPN lists USA; plays senior football for Malaysia. Reserve sides (Swope Park Rangers 2017-20, St. Louis City 2 2022-25) left out of clubs."
+ },
+ {
+  "id": "wahab-ackwei",
+  "name": "Wahab Ackwei",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Ghana",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Richmond Kickers",
+   "Loudoun United",
+   "Rio Grande Valley FC Toros",
+   "Colorado Springs Switchbacks",
+   "El Paso Locomotive",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. New York Red Bulls II (reserve side, 2018) left out of clubs."
+ }
+]

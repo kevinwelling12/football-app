@@ -1,0 +1,622 @@
+[
+ {
+  "id": "matthew-longstaff",
+  "name": "Matthew Longstaff",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "CF Montréal",
+  "career": [
+   "Newcastle United",
+   "Toronto FC",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "victor-loturi",
+  "name": "Victor Loturi",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "CF Montréal",
+  "career": [
+   "Cavalry FC",
+   "Cavalry FC",
+   "Ross County",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brayan-vera",
+  "name": "Brayan Vera",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Colombia",
+  "current_club": "CF Montréal",
+  "career": [
+   "Lecce",
+   "Cosenza",
+   "América de Cali",
+   "Real Salt Lake",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thomas-gillier",
+  "name": "Thomas Gillier",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Chile",
+  "current_club": "CF Montréal",
+  "career": [
+   "Universidad Católica",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Registered to Bologna, on loan at Montréal."
+ },
+ {
+  "id": "jalen-neal",
+  "name": "Jalen Neal",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "CF Montréal",
+  "career": [
+   "LA Galaxy",
+   "CF Montréal"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "community outreach award at LA Galaxy II",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wikelman-carmona",
+  "name": "Wikelman Carmona",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Venezuela",
+  "current_club": "CF Montréal",
+  "career": [
+   "New York Red Bulls",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-rios",
+  "name": "Daniel Ríos",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Mexico",
+  "current_club": "CF Montréal",
+  "career": [
+   "Nashville SC",
+   "Charlotte FC",
+   "Guadalajara",
+   "Atlanta United",
+   "Vancouver Whitecaps",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "idan-toklomati",
+  "name": "Idan Toklomati",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Israel",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Maccabi Petah Tikva",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "djibril-diani",
+  "name": "Djibril Diani",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "France",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Grasshoppers",
+   "Caen",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-schnegg",
+  "name": "David Schnegg",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Austria",
+  "current_club": "Charlotte FC",
+  "career": [
+   "LASK",
+   "WSG Tirol",
+   "Venezia",
+   "Sturm Graz",
+   "D.C. United",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "henry-kessler",
+  "name": "Henry Kessler",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Charlotte FC",
+  "career": [
+   "New England Revolution",
+   "St. Louis City SC",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "archie-goodwin",
+  "name": "Archie Goodwin",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Australia",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Newcastle Jets",
+   "Adelaide United",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-elliott",
+  "name": "Jack Elliott",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Philadelphia Union",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "d-avilla-dje-tah",
+  "name": "D'Avilla Dje Tah",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Ivory Coast",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Stella Club d'Adjamé",
+   "Al-Hilal United",
+   "União de Leiria",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identity: Wikipedia lists him as Djé D'Avilla, Ivorian, born 2003, at Chicago Fire (ESPN gives no nation)."
+ },
+ {
+  "id": "maren-haile-selassie",
+  "name": "Maren Haile-Selassie",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Switzerland",
+  "current_club": "Chicago Fire",
+  "career": [
+   "FC Zürich",
+   "Neuchâtel Xamax",
+   "FC Lugano",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joshua-atencio",
+  "name": "Joshua Atencio",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Seattle Sounders FC",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "darren-yapi",
+  "name": "Darren Yapi",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Colorado Springs Switchbacks",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "georgi-minoungou",
+  "name": "Georgi Minoungou",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Burkina Faso",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "MFK Vyškov",
+   "Seattle Sounders FC",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; came back after losing sight in one eye",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "loic-williams",
+  "name": "Loic Williams",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "CD Atlético Paso",
+   "CD Tenerife",
+   "Granada CF",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kosi-thompson",
+  "name": "Kosi Thompson",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Canada",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Toronto FC",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sean-zawadzki",
+  "name": "Sean Zawadzki",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malte-amundsen",
+  "name": "Malte Amundsen",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Denmark",
+  "current_club": "Columbus Crew",
+  "career": [
+   "HB Køge",
+   "Rosenborg",
+   "Vejle",
+   "New York City FC",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dylan-chambost",
+  "name": "Dylan Chambost",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Saint-Étienne",
+   "Troyes",
+   "Saint-Étienne",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes; one 2019 red card, reason not given."
+ },
+ {
+  "id": "rudy-camacho",
+  "name": "Rudy Camacho",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "France",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Lyon-Duchère",
+   "Sedan",
+   "Waasland-Beveren",
+   "CF Montréal",
+   "Columbus Crew"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; several red cards",
+  "notes": "Direct red in Sept 2020 for striking Fredy Montero (Vancouver); other reds for fouls/second yellows."
+ },
+ {
+  "id": "mohamed-farsi",
+  "name": "Mohamed Farsi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Algeria",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Cavalry FC",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andres-herrera",
+  "name": "Andres Herrera",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Columbus Crew",
+  "career": [
+   "San Lorenzo",
+   "River Plate",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jamal-thiare",
+  "name": "Jamal Thiaré",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Senegal",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Charleroi",
+   "US Avranches",
+   "Le Havre",
+   "Atlanta United",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "keisuke-kurokawa",
+  "name": "Keisuke Kurokawa",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Japan",
+  "current_club": "D.C. United",
+  "career": [
+   "Gamba Osaka",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joao-peglow",
+  "name": "João Peglow",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "D.C. United",
+  "career": [
+   "Internacional",
+   "Radomiak Radom",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brandon-servania",
+  "name": "Brandon Servania",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "D.C. United",
+  "career": [
+   "FC Dallas",
+   "Toronto FC",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matti-peltola",
+  "name": "Matti Peltola",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Finland",
+  "current_club": "D.C. United",
+  "career": [
+   "HJK Helsinki",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andre-dozzell",
+  "name": "Andre Dozzell",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "D.C. United",
+  "career": [
+   "Ipswich Town",
+   "Queens Park Rangers",
+   "Portsmouth",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes; 2020 red card v Sunderland, reason not given."
+ },
+ {
+  "id": "bryan-ramirez",
+  "name": "Bryan Ramirez",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Ecuador",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Cumbayá",
+   "LDU Quito",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kyle-smith",
+  "name": "Kyle Smith",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Louisville City",
+   "Orlando City",
+   "FC Cincinnati"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "Little public record; fined by MLS for a 2022 Orlando-Austin confrontation",
+  "notes": "red_card_violence 1: sent off for violent conduct (stoppage-time shove) v Bethlehem Steel, Aug 2017, three-match ban. Also fined in 2022 for a confrontation with Austin FC players."
+ },
+ {
+  "id": "nick-hagglund",
+  "name": "Nick Hagglund",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Toronto FC",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "osaze-urhoghide",
+  "name": "Osaze Urhoghide",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "FC Dallas",
+  "career": [
+   "Sheffield Wednesday",
+   "Celtic",
+   "KV Oostende",
+   "Amiens",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes. ESPN lists England; Wikipedia calls him Dutch-born (raised in England, Nigerian parentage); nation kept as given."
+ }
+]

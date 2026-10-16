@@ -1,0 +1,654 @@
+[
+ {
+  "id": "andy-diouf",
+  "name": "Andy Diouf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andy_Diouf"
+  ]
+ },
+ {
+  "id": "carlos-augusto",
+  "name": "Carlos Augusto",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Augusto_(footballer)"
+  ]
+ },
+ {
+  "id": "sasa-kalajdzic",
+  "name": "Sasa Kalajdzic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saša_Kalajdžić"
+  ]
+ },
+ {
+  "id": "robin-risser",
+  "name": "Robin Risser",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Risser"
+  ]
+ },
+ {
+  "id": "nabil-bentaleb",
+  "name": "Nabil Bentaleb",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "five club disciplinary suspensions at Schalke (2019-20), which he partly disputes; admits mistakes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nabil_Bentaleb",
+   "https://www.sport1.de/fussball/bundesliga/2021/06/nabil-bentaleb-spricht-ueber-suspendierungen-und-hoelle-beim-fc-schalke-04"
+  ]
+ },
+ {
+  "id": "alexsandro",
+  "name": "Alexsandro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexsandro_Ribeiro"
+  ]
+ },
+ {
+  "id": "hakon-haraldsson",
+  "name": "Hákon Haraldsson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hákon_Arnar_Haraldsson"
+  ]
+ },
+ {
+  "id": "benjamin-andre",
+  "name": "Benjamin André",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; Lille captain since 2023"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_André"
+  ]
+ },
+ {
+  "id": "mathias-olivera",
+  "name": "Mathías Olivera",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "3-match CONMEBOL ban for fighting in the stands after the 2024 Copa América semi (said he was protecting family; CAS upheld)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathías_Olivera"
+  ]
+ },
+ {
+  "id": "guus-til",
+  "name": "Guus Til",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guus_Til"
+  ]
+ },
+ {
+  "id": "lutsharel-geertruida",
+  "name": "Lutsharel Geertruida",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lutsharel_Geertruida"
+  ]
+ },
+ {
+  "id": "rodrigo-riquelme",
+  "name": "Rodrigo Riquelme",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Riquelme_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "fran-garcia",
+  "name": "Fran García",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fran_García_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "id": "marc-roca",
+  "name": "Marc Roca",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; one red (two yellows) at Bayern in 2020",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Roca"
+  ]
+ },
+ {
+  "id": "mykola-matviyenko",
+  "name": "Mykola Matviyenko",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mykola_Matviyenko"
+  ]
+ },
+ {
+  "id": "andraz-sporar",
+  "name": "Andraz Sporar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andraž_Šporar"
+  ]
+ },
+ {
+  "id": "rui-silva",
+  "name": "Rui Silva",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rui_Silva_(footballer,_born_1994)"
+  ]
+ },
+ {
+  "id": "rodrigo-zalazar",
+  "name": "Rodrigo Zalazar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Zalazar"
+  ]
+ },
+ {
+  "id": "maxi-araujo",
+  "name": "Maxi Araújo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maximiliano_Araújo"
+  ]
+ },
+ {
+  "id": "zeno-debast",
+  "name": "Zeno Debast",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeno_Debast"
+  ]
+ },
+ {
+  "id": "fotis-ioannidis",
+  "name": "Fotis Ioannidis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fotis_Ioannidis"
+  ]
+ },
+ {
+  "id": "renato-veiga",
+  "name": "Renato Veiga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Renato_Veiga"
+  ]
+ },
+ {
+  "id": "tajon-buchanan",
+  "name": "Tajon Buchanan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tajon_Buchanan"
+  ]
+ },
+ {
+  "id": "santiago-mourino",
+  "name": "Santiago Mouriño",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santiago_Mouriño"
+  ]
+ },
+ {
+  "id": "alex-freeman",
+  "name": "Alex Freeman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "in a Nov 2025 scuffle v Paraguay after being put in a headlock; not booked",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Freeman"
+  ]
+ },
+ {
+  "id": "eloy-room",
+  "name": "Eloy Room",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; Curaçao captain, called a locker-room leader"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eloy_Room"
+  ]
+ },
+ {
+  "id": "mark-anthony-kaye",
+  "name": "Mark-Anthony Kaye",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "Black Players for Change member, vocal on racial justice; chose to sit out a 2020 match after the Jacob Blake shooting",
+   "CO": "took part in BPC fundraising",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark-Anthony_Kaye",
+   "https://www.mlssoccer.com/news/lafcs-bob-bradley-mark-anthony-kaye-focused-fight-social-justice"
+  ]
+ },
+ {
+  "id": "adam-hlozek",
+  "name": "Adam Hlozek",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Hložek"
+  ]
+ },
+ {
+  "id": "chris-fuhrich",
+  "name": "Chris Führich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chris_Führich"
+  ]
+ },
+ {
+  "id": "ermedin-demirovic",
+  "name": "Ermedin Demirovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ermedin_Demirović"
+  ]
+ },
+ {
+  "id": "jamie-leweling",
+  "name": "Jamie Leweling",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Leweling"
+  ]
+ },
+ {
+  "id": "ryan-christie",
+  "name": "Ryan Christie",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; one red (two yellows) in 2014",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Christie"
+  ]
+ },
+ {
+  "id": "maxim-de-cuyper",
+  "name": "Maxim De Cuyper",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxim_De_Cuyper"
+  ]
+ },
+ {
+  "id": "jan-bednarek",
+  "name": "Jan Bednarek",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2021 red v Man United rescinded on appeal; normal record",
+   "VO": "spoke publicly in 2022 about his own mental-health struggles",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Bednarek"
+  ]
+ },
+ {
+  "id": "matt-turner",
+  "name": "Matt Turner",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "leads Matt's NEGU Crew (Jessie Rees Foundation), hospital visits to children with cancer",
+   "HU": "walk-on to USMNT story, widely described as humble"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Turner_(soccer)",
+   "https://nersoccer.deltatre.net/news/turning-over-torch-turner-begins-new-era-2019-matts-negu-crew"
+  ]
+ },
+ {
+  "id": "christian-gunter",
+  "name": "Christian Günter",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.3,
+  "why": {
+   "SP": "two reds in a long career at full-back; nothing else notable",
+   "VO": "wore a rainbow captain's armband 'for more tolerance and against exclusion'",
+   "CO": "nothing notable found",
+   "HU": "one-club man at Freiburg, low-key public profile"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Günter",
+   "https://de.wikipedia.org/wiki/Christian_Günter"
+  ]
+ }
+]

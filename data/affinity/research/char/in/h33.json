@@ -1,0 +1,644 @@
+[
+ {
+  "id": "ivan-schranz",
+  "name": "Ivan Schranz",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Slovakia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Spartak Trnava",
+   "Dukla Prague",
+   "AEL Limassol",
+   "Dynamo České Budějovice",
+   "Jablonec",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tomas-chory",
+  "name": "Tomás Chorý",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Sigma Olomouc",
+   "Viktoria Plzeň",
+   "Zulte Waregem",
+   "Slavia Prague"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "repeated suspensions; club chairman criticised his behaviour",
+  "notes": "red_card_violence 2: six-match ban for hitting Slovácko keeper Heča in the groin (Aug 2025); six-match ban for elbowing Sparta's Sørensen (May 2026). Spitting accusation (Apr 2026) not upheld."
+ },
+ {
+  "id": "david-jurasek",
+  "name": "David Jurásek",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Mladá Boleslav",
+   "Slavia Prague",
+   "Benfica",
+   "TSG Hoffenheim",
+   "Beşiktaş",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "geny-catamo",
+  "name": "Geny Catamo",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Mozambique",
+  "current_club": "Sporting CP",
+  "career": [
+   "Amora",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sergi-altimira",
+  "name": "Sergi Altimira",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Sporting CP",
+  "career": [
+   "Sabadell",
+   "Real Betis",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eduardo-quaresma",
+  "name": "Eduardo Quaresma",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Portugal",
+  "current_club": "Sporting CP",
+  "career": [
+   "Sporting CP",
+   "Tondela"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "georgios-vagiannidis",
+  "name": "Georgios Vagiannidis",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Greece",
+  "current_club": "Sporting CP",
+  "career": [
+   "Panathinaikos",
+   "Inter Milan",
+   "Panathinaikos",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "santi-comesana",
+  "name": "Santi Comesaña",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Coruxo",
+   "Rayo Vallecano",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sergi-cardona",
+  "name": "Sergi Cardona",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Gimnàstic",
+   "Las Palmas",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carlos-romero",
+  "name": "Carlos Romero",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Villarreal",
+   "Espanyol"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pedro-santos",
+  "name": "Pedro Santos",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "Portugal",
+  "current_club": "Loudoun United",
+  "career": [
+   "Leixões",
+   "Vitória de Setúbal",
+   "Braga",
+   "Columbus Crew",
+   "D.C. United",
+   "Loudoun United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "fined by MLS for simulation in 2021",
+  "notes": "No incident codes. 2018 red card at Seattle was a high follow-through on a challenge (serious foul play, not off the ball); 2021 MLS simulation fine noted in CH."
+ },
+ {
+  "id": "rafael-czichos",
+  "name": "Rafael Czichos",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Germany",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Rot-Weiss Erfurt",
+   "Holstein Kiel",
+   "1. FC Köln",
+   "Chicago Fire",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wouter-burger",
+  "name": "Wouter Burger",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Netherlands",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Feyenoord",
+   "Basel",
+   "Stoke City",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fisnik-asllani",
+  "name": "Fisnik Asllani",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Kosovo",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "TSG Hoffenheim",
+   "Austria Wien (loan)",
+   "SV Elversberg (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josha-vagnoman",
+  "name": "Josha Vagnoman",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Hamburger SV",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "finn-jeltsch",
+  "name": "Finn Jeltsch",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "1. FC Nürnberg",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lewis-cook",
+  "name": "Lewis Cook",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Leeds United",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "no causes or incidents on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "costinha",
+  "name": "Costinha",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Portugal",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Rio Ave",
+   "Olympiacos",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chema-andres",
+  "name": "Chema Andrés",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Spain",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "VfB Stuttgart",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paolo-di-canio",
+  "name": "Paolo Di Canio",
+  "gender": "M",
+  "active": false,
+  "born": 1968,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "AC Milan",
+   "Celtic",
+   "Sheffield Wednesday",
+   "West Ham United",
+   "Charlton Athletic",
+   "Lazio"
+  ],
+  "CH_now": 2.0,
+  "CH_why": "1.5 fascist salutes, pushed referee",
+  "notes": "Pushed referee Paul Alcock to the ground 1998 (11-match ban); fascist salutes to Lazio ultras 2005 (1-match ban, fine; not coded as racist abuse); dropped by Sky Italia 2016 over fascist-linked tattoo; FIFA Fair Play award 2001."
+ },
+ {
+  "id": "nuri-sahin",
+  "name": "Nuri Şahin",
+  "gender": "M",
+  "active": false,
+  "born": 1988,
+  "nation": "Turkey",
+  "current_club": null,
+  "career": [
+   "Feyenoord",
+   "Real Madrid",
+   "Liverpool",
+   "Borussia Dortmund",
+   "Werder Bremen",
+   "Antalyaspor"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incidents. Bundesliga Player of the Season 2010-11."
+ },
+ {
+  "id": "aritz-aduriz",
+  "name": "Aritz Aduriz",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Athletic Club",
+   "Valladolid",
+   "Athletic Club",
+   "Mallorca",
+   "Valencia",
+   "Athletic Club"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "No incidents."
+ },
+ {
+  "id": "joaquin",
+  "name": "Joaquín",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Betis",
+   "Valencia",
+   "Málaga",
+   "Fiorentina",
+   "Real Betis"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "7.5 adored, humble joker",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luca-reggiani",
+  "name": "Luca Reggiani",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Italy",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Sassuolo (youth)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "jean-matteo-bahoya",
+  "name": "Jean-Mattéo Bahoya",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Leeds United (loan)",
+  "career": [
+   "Angers",
+   "Eintracht Frankfurt",
+   "Leeds United (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "freddie-woodman",
+  "name": "Freddie Woodman",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Newcastle United",
+   "Swansea City (loan)",
+   "Preston North End",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incidents; was on Newcastle's books at the 2021 PIF takeover."
+ },
+ {
+  "id": "antony",
+  "name": "Antony",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Joinville",
+   "Corinthians (loan)",
+   "Arouca",
+   "Portland Timbers"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "-1.5 middle-finger replies to reporter/fans 2026",
+  "notes": "May 2026 twice replied 'Bla bla bla' with middle-finger emoji to a Timbers reporter; no club sanction."
+ },
+ {
+  "id": "alexander-aravena",
+  "name": "Alexander Aravena",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Chile",
+  "current_club": "Portland Timbers (loan)",
+  "career": [
+   "Universidad Católica",
+   "Ñublense (loan)",
+   "Grêmio",
+   "Portland Timbers (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "tom-rothe",
+  "name": "Tom Rothe",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Borussia Dortmund",
+   "Holstein Kiel (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "derrick-kohn",
+  "name": "Derrick Köhn",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Ghana",
+  "current_club": "Union Berlin",
+  "career": [
+   "Bayern Munich II",
+   "Willem II",
+   "Hannover 96",
+   "Galatasaray",
+   "Werder Bremen (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "andrej-ilic",
+  "name": "Andrej Ilić",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Serbia",
+  "current_club": "Union Berlin",
+  "career": [
+   "Napredak Kruševac",
+   "Javor Ivanjica",
+   "RFS",
+   "Vålerenga",
+   "Lille",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "stanley-nsoki",
+  "name": "Stanley Nsoki",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Union Berlin",
+  "career": [
+   "Paris Saint-Germain",
+   "OGC Nice",
+   "Club Brugge",
+   "TSG Hoffenheim",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "afonso-moreira",
+  "name": "Afonso Moreira",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Portugal",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Sporting CP",
+   "Gil Vicente",
+   "Lyon",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-kofane",
+  "name": "Christian Kofane",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Cameroon",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Albacete",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "moritz-nicolas",
+  "name": "Moritz Nicolas",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Borussia Mönchengladbach",
+   "Union Berlin",
+   "VfL Osnabrück",
+   "Viktoria Köln",
+   "Roda JC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "philipp-sander",
+  "name": "Philipp Sander",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Holstein Kiel",
+   "SC Verl",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,663 @@
+[
+ {
+  "id": "pablo-fornals",
+  "name": "Pablo Fornals",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Málaga",
+   "Villarreal",
+   "West Ham United",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-bartra",
+  "name": "Marc Bartra",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Spain",
+  "current_club": "Real Betis",
+  "career": [
+   "Barcelona",
+   "Borussia Dortmund",
+   "Real Betis",
+   "Trabzonspor",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes. Straight red for Trabzonspor in 2022; reason not given."
+ },
+ {
+  "id": "abde-ezzalzouli",
+  "name": "Abde Ezzalzouli",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Morocco",
+  "current_club": "Real Betis",
+  "career": [
+   "Hércules",
+   "Barcelona",
+   "Osasuna",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "troy-parrott",
+  "name": "Troy Parrott",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Republic of Ireland",
+  "current_club": "Real Betis",
+  "career": [
+   "Millwall",
+   "Milton Keynes Dons",
+   "Preston North End",
+   "Excelsior",
+   "AZ Alkmaar",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes. U21 red card in 2019 was a second yellow after Moise Kean pushed him."
+ },
+ {
+  "id": "pape-gueye",
+  "name": "Pape Gueye",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Senegal",
+  "current_club": "Villarreal",
+  "career": [
+   "Le Havre",
+   "Marseille",
+   "Villarreal"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "backed out of a signed Watford deal in 2020; part of Senegal's 2025 final walk-off",
+  "notes": "No incident codes. 2020 Watford contract dispute (he blamed agent advice); Senegal walked off in the 2025 AFCON final and forfeited it."
+ },
+ {
+  "id": "alberto-moleiro",
+  "name": "Alberto Moleiro",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Las Palmas",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ayoze-perez",
+  "name": "Ayoze Pérez",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Tenerife",
+   "Newcastle United",
+   "Leicester City",
+   "Real Betis",
+   "Villarreal"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "dropped by Leicester in 2021 for breaching COVID rules",
+  "notes": "No incident codes. Dropped by Leicester in April 2021 for breaching COVID-19 protocols."
+ },
+ {
+  "id": "georges-mikautadze",
+  "name": "Georges Mikautadze",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Georgia",
+  "current_club": "Villarreal",
+  "career": [
+   "Metz",
+   "Seraing",
+   "Ajax",
+   "Metz",
+   "Lyon",
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes. Chose Lyon over an agreed move to Monaco in 2024."
+ },
+ {
+  "id": "angelo-stiller",
+  "name": "Angelo Stiller",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Bayern Munich",
+   "TSG Hoffenheim",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gianfranco-zola",
+  "name": "Gianfranco Zola",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Napoli",
+   "Parma",
+   "Chelsea",
+   "Cagliari"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "8.5 universally liked, kept promise to Cagliari",
+  "notes": ""
+ },
+ {
+  "id": "kristine-lilly",
+  "name": "Kristine Lilly",
+  "gender": "W",
+  "active": false,
+  "born": 1971,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Boston Breakers",
+   "Boston Breakers"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "pioneer, humble",
+  "notes": "Part of the 1995-96 pay holdout. Trophies: World Cups 1991, 1999 + 6 CONCACAF titles."
+ },
+ {
+  "id": "robbie-fowler",
+  "name": "Robbie Fowler",
+  "gender": "M",
+  "active": false,
+  "born": 1975,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Liverpool",
+   "Cardiff City",
+   "Blackburn Rovers",
+   "North Queensland Fury",
+   "Perth Glory",
+   "Muangthong United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "6 dockers solidarity and Seaman honesty, offset by homophobic taunts at Le Saux",
+  "notes": "1999: 4-match ban for line-snorting celebration and 2-match ban for homophobic gestures at Graeme Le Saux (homophobic, so not coded as racist abuse); 1997 dockers T-shirt, fined by UEFA."
+ },
+ {
+  "id": "jurgen-kohler",
+  "name": "Jürgen Kohler",
+  "gender": "M",
+  "active": false,
+  "born": 1965,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Waldhof Mannheim",
+   "1. FC Köln",
+   "Bayern Munich",
+   "Juventus",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "ian-wright",
+  "name": "Ian Wright",
+  "gender": "M",
+  "active": false,
+  "born": 1963,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Crystal Palace",
+   "Arsenal",
+   "West Ham United",
+   "Nottingham Forest",
+   "Celtic",
+   "Burnley"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "+2.5 anti-racism, domestic-abuse advocacy",
+  "notes": "2000: manhandled fourth official in tunnel (charge dropped); jailed as a young adult for driving offences before turning pro."
+ },
+ {
+  "id": "carney-chukwuemeka",
+  "name": "Carney Chukwuemeka",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Austria",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Aston Villa",
+   "Chelsea",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "james-trafford",
+  "name": "James Trafford",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Manchester City",
+   "Accrington Stanley (loan)",
+   "Bolton Wanderers (loan)",
+   "Burnley",
+   "Manchester City",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline, low-key",
+  "notes": "No incident codes; Man City (Abu Dhabi-owned) academy/squad, English league."
+ },
+ {
+  "id": "daniel-james",
+  "name": "Daniel James",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Wales",
+  "current_club": "Leeds United",
+  "career": [
+   "Hull City",
+   "Swansea City",
+   "Shrewsbury Town (loan)",
+   "Manchester United",
+   "Leeds United",
+   "Fulham (loan)"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "+0.5 community award",
+  "notes": ""
+ },
+ {
+  "id": "frederik-rnnow",
+  "name": "Frederik Rønnow",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Denmark",
+  "current_club": "Union Berlin",
+  "career": [
+   "AC Horsens",
+   "Esbjerg fB (loan)",
+   "Brøndby IF",
+   "Eintracht Frankfurt",
+   "Schalke 04 (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "jeong-woo-yeong",
+  "name": "Jeong Woo-yeong",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "South Korea",
+  "current_club": "Union Berlin",
+  "career": [
+   "Incheon United (youth)",
+   "Bayern Munich",
+   "SC Freiburg",
+   "Bayern Munich II (loan)",
+   "VfB Stuttgart",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes; Bundesliga 2019 counted (1 app for Bayern)."
+ },
+ {
+  "id": "andras-schafer",
+  "name": "András Schäfer",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Hungary",
+  "current_club": "Union Berlin",
+  "career": [
+   "Haladás (youth)",
+   "MTK Budapest",
+   "Genoa",
+   "Chievo (loan)",
+   "DAC Dunajská Streda",
+   "Union Berlin"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "+0.5 gave ~€37k to save Haladás, two red cards for rough play",
+  "notes": "Two red cards for rough play (2024, 2026), not off-ball violence; donated to save boyhood club Haladás."
+ },
+ {
+  "id": "michel-aebischer",
+  "name": "Michel Aebischer",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Switzerland",
+  "current_club": "Union Berlin",
+  "career": [
+   "Young Boys",
+   "Bologna",
+   "Pisa (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "robert-skov",
+  "name": "Robert Skov",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Denmark",
+  "current_club": "Union Berlin",
+  "career": [
+   "Silkeborg IF",
+   "FC Copenhagen",
+   "TSG Hoffenheim",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "tobin-heath",
+  "name": "Tobin Heath",
+  "gender": "W",
+  "active": false,
+  "born": 1988,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Sky Blue FC",
+   "Paris Saint-Germain",
+   "Portland Thorns",
+   "Manchester United",
+   "Arsenal",
+   "OL Reign"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "equal-pay plaintiff, no issues",
+  "notes": "Plaintiff in USWNT 2019 equal-pay lawsuit (settled 2022). Recount: major_trophies 6: WC 2015/2019, NWSL 2013/2017, CONCACAF 2014/2018; Olympics and Shields not counted."
+ },
+ {
+  "id": "facundo-medina",
+  "name": "Facundo Medina",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Argentina",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Talleres",
+   "RC Lens",
+   "Marseille",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "combative, card-heavy defender; see notes",
+  "notes": "Arrested in Arras, France, Dec 2021 after an ex-partner alleged violence; prosecutors said he partially admitted it and offered a guilty-plea procedure (CRPC); final outcome not found."
+ },
+ {
+  "id": "ezequiel-fernandez",
+  "name": "Ezequiel Fernández",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Argentina",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Boca Juniors",
+   "Tigre",
+   "Al-Qadsiah",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "Moved from Boca Juniors to Saudi Pro League club Al-Qadsiah in 2024, then to Leverkusen a year later."
+ },
+ {
+  "id": "robert-andrich",
+  "name": "Robert Andrich",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Dynamo Dresden",
+   "Wehen Wiesbaden",
+   "1. FC Heidenheim",
+   "Union Berlin",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathaniel-brown",
+  "name": "Nathaniel Brown",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "1. FC Nürnberg",
+   "Eintracht Frankfurt",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josip-stanisic",
+  "name": "Josip Stanisic",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Croatia",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Bayern Munich",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tom-bischof",
+  "name": "Tom Bischof",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "TSG Hoffenheim",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tim-kleindienst",
+  "name": "Tim Kleindienst",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Energie Cottbus",
+   "SC Freiburg",
+   "1. FC Heidenheim",
+   "KAA Gent",
+   "1. FC Heidenheim",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-koch",
+  "name": "Robin Koch",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Eintracht Trier",
+   "1. FC Kaiserslautern",
+   "SC Freiburg",
+   "Leeds United",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "raphael-onyedika",
+  "name": "Raphael Onyedika",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Nigeria",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "FC Midtjylland",
+   "FC Fredericia",
+   "Club Brugge",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noah-atubolu",
+  "name": "Noah Atubolu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "SC Freiburg",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.6,
+  "CH_why": "community coaching in schools, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "can-uzun",
+  "name": "Can Uzun",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Türkiye",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "1. FC Nürnberg",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabian-rieder",
+  "name": "Fabian Rieder",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Switzerland",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Young Boys",
+   "Stade Rennais",
+   "VfB Stuttgart",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michael-gregoritsch",
+  "name": "Michael Gregoritsch",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Austria",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Hamburger SV",
+   "FC Augsburg",
+   "Schalke 04",
+   "SC Freiburg",
+   "Brøndby",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "public stand against the far right; briefly dropped in 2019 after saying he wanted out, then apologised",
+  "notes": "No incident codes."
+ }
+]

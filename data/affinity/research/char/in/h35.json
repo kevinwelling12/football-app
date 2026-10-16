@@ -1,0 +1,632 @@
+[
+ {
+  "id": "lukas-petkov",
+  "name": "Lukas Petkov",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Bulgaria",
+  "current_club": "SV Elversberg",
+  "career": [
+   "FC Augsburg",
+   "SC Verl",
+   "Greuther Fürth",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-kristof",
+  "name": "Nicolas Kristof",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Austria",
+  "current_club": "SV Elversberg",
+  "career": [
+   "Astoria Walldorf",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lukasz-poreba",
+  "name": "Lukasz Poreba",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Poland",
+  "current_club": "SV Elversberg",
+  "career": [
+   "Zagłębie Lubin",
+   "RC Lens",
+   "Hamburger SV",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felix-keidel",
+  "name": "Felix Keidel",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "FC Ingolstadt",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cole-campbell",
+  "name": "Cole Campbell",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "SV Elversberg",
+  "career": [
+   "Borussia Dortmund",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; publicly committed to the USA over Iceland",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noel-futkeu",
+  "name": "Noel Futkeu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Rot-Weiss Essen",
+   "Schwarz-Weiß Essen",
+   "Eintracht Frankfurt",
+   "Greuther Fürth",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nikola-katic",
+  "name": "Nikola Katic",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "Schalke 04",
+  "career": [
+   "Slaven Belupo",
+   "Rangers",
+   "Hajduk Split",
+   "FC Zürich",
+   "Plymouth Argyle",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "soufian-el-faouzi",
+  "name": "Soufian El-Faouzi",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Morocco",
+  "current_club": "Schalke 04",
+  "career": [
+   "Alemannia Aachen",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adil-aouchiche",
+  "name": "Adil Aouchiche",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Algeria",
+  "current_club": "Schalke 04",
+  "career": [
+   "Saint-Étienne",
+   "Lorient",
+   "Sunderland",
+   "Portsmouth",
+   "Aberdeen",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "satoshi-tanaka",
+  "name": "Satoshi Tanaka",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Japan",
+  "current_club": "Schalke 04",
+  "career": [
+   "Shonan Bellmare",
+   "KV Kortrijk",
+   "Sanfrecce Hiroshima",
+   "Fortuna Düsseldorf",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "moussa-sylla",
+  "name": "Moussa Sylla",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Mali",
+  "current_club": "Schalke 04",
+  "career": [
+   "Monaco",
+   "FC Utrecht",
+   "Caen",
+   "Pau",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dejan-ljubicic",
+  "name": "Dejan Ljubicic",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "Schalke 04",
+  "career": [
+   "Rapid Wien",
+   "1. FC Köln",
+   "Dinamo Zagreb",
+   "Schalke 04"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "convicted in 2021 for throwing bottles at a mosque in 2018",
+  "notes": "criminal_other: sentenced in Bosnia (Aug 2021) to a fine for throwing bottles at a mosque in Kiseljak in 2018 (per Wikipedia; single source checked)."
+ },
+ {
+  "id": "junior-adamu",
+  "name": "Junior Adamu",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Austria",
+  "current_club": "Schalke 04",
+  "career": [
+   "FC Liefering",
+   "Red Bull Salzburg",
+   "St. Gallen",
+   "SC Freiburg",
+   "Celtic",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "junior-dina-ebimbe",
+  "name": "Junior Dina Ebimbe",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Cameroon",
+  "current_club": "Schalke 04",
+  "career": [
+   "Paris Saint-Germain",
+   "Le Havre",
+   "Dijon",
+   "Eintracht Frankfurt",
+   "Brest",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leon-avdullahu",
+  "name": "Leon Avdullahu",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Kosovo",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Basel",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adam-daghim",
+  "name": "Adam Daghim",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Denmark",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "AGF",
+   "Red Bull Salzburg",
+   "VfL Wolfsburg (loan)",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tim-lemperle",
+  "name": "Tim Lemperle",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "1. FC Köln",
+   "Greuther Fürth (loan)",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; red card on final day of 2025-26",
+  "notes": "No incident codes (2026 red card, nature not reported as violent)."
+ },
+ {
+  "id": "albian-hajdari",
+  "name": "Albian Hajdari",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Kosovo",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Lugano",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dzenan-pejcinovic",
+  "name": "Dzenan Pejcinovic",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "VfL Wolfsburg",
+   "Fortuna Düsseldorf (loan)",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ramon-hendriks",
+  "name": "Ramon Hendriks",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Netherlands",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Feyenoord",
+   "NAC Breda (loan)",
+   "Vitesse (loan)",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leo-sauer",
+  "name": "Leo Sauer",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Slovakia",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Žilina",
+   "Feyenoord",
+   "NAC Breda (loan)",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ludovit-reis",
+  "name": "Ludovit Reis",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Werder Bremen",
+  "career": [
+   "FC Groningen",
+   "VfL Osnabrück",
+   "Hamburger SV",
+   "Club Brugge",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; Werder asked fans to stop online abuse after his move",
+  "notes": "No incident codes. Joined Werder from Club Brugge a year after leaving Hamburg, so not a direct rival move."
+ },
+ {
+  "id": "amos-pieper",
+  "name": "Amos Pieper",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Arminia Bielefeld",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marco-grull",
+  "name": "Marco Grüll",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Austria",
+  "current_club": "Werder Bremen",
+  "career": [
+   "TSV St. Johann",
+   "SV Ried",
+   "Rapid Wien",
+   "Werder Bremen"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "joined homophobic chants after the 2024 Vienna derby; banned and apologised",
+  "notes": "Banned two matches (plus suspended ban) by the Austrian Bundesliga for homophobic chants after the Feb 2024 derby; he apologised. Coded under racist_abuse as discriminatory abuse."
+ },
+ {
+  "id": "arthur",
+  "name": "Arthur",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Brazil",
+  "current_club": "Werder Bremen",
+  "career": [
+   "América Mineiro",
+   "Bayer Leverkusen",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cedric-itten",
+  "name": "Cedric Itten",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Switzerland",
+  "current_club": "Werder Bremen",
+  "career": [
+   "FC St. Gallen",
+   "Rangers",
+   "Greuther Fürth",
+   "Young Boys",
+   "Fortuna Düsseldorf",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adam-smith",
+  "name": "Adam Smith",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "England",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Torquay United",
+   "AFC Bournemouth",
+   "Milton Keynes Dons",
+   "Millwall",
+   "Tottenham Hotspur",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "long-serving club stalwart with a clean record; no causes on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "diego-gomez",
+  "name": "Diego Gómez",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Mexico",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Necaxa",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "charalambos-kostoulas",
+  "name": "Charalambos Kostoulas",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Greece",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Olympiacos",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malick-yalcouye",
+  "name": "Malick Yalcouyé",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Mali",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "IFK Goteborg",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record (questions raised online about his age, unproven)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josh-acheampong",
+  "name": "Josh Acheampong",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jay-da-silva",
+  "name": "Jay Da Silva",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Wales",
+  "current_club": "Coventry City",
+  "career": [
+   "Charlton Athletic",
+   "Bristol City",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bobby-thomas",
+  "name": "Bobby Thomas",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Coventry City",
+  "career": [
+   "Burnley",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carl-rushworth",
+  "name": "Carl Rushworth",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Coventry City",
+  "career": [
+   "Brighton & Hove Albion",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "praised as a great character; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-rudoni",
+  "name": "Jack Rudoni",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Coventry City",
+  "career": [
+   "AFC Wimbledon",
+   "Huddersfield Town",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "caleb-yirenkyi",
+  "name": "Caleb Yirenkyi",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Ghana",
+  "current_club": "Coventry City",
+  "career": [
+   "Nordsjælland",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

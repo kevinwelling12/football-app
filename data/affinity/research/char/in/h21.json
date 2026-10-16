@@ -1,0 +1,622 @@
+[
+ {
+  "id": "ellyes-skhiri",
+  "name": "Ellyes Skhiri",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Tunisia",
+  "current_club": "1. FC Köln",
+  "career": [
+   "Montpellier",
+   "1. FC Köln",
+   "Eintracht Frankfurt",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "said-el-mala",
+  "name": "Said El Mala",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Germany",
+  "current_club": "1. FC Köln",
+  "career": [
+   "Viktoria Köln",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "terem-moffi",
+  "name": "Terem Moffi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Nigeria",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Riteriai",
+   "Kortrijk",
+   "Lorient",
+   "Nice",
+   "Porto",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known; was attacked by Nice fans in 2025",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabio-vieira",
+  "name": "Fabio Vieira",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Portugal",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Porto",
+   "Arsenal",
+   "Porto",
+   "Hamburger SV"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes known; several reckless-challenge red cards",
+  "notes": "No incident codes; red cards were for dangerous challenges or second yellows, not off-ball violence."
+ },
+ {
+  "id": "patson-daka",
+  "name": "Patson Daka",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Zambia",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Kafue Celtic",
+   "Red Bull Salzburg",
+   "Leicester City",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaishu-sano",
+  "name": "Kaishu Sano",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Japan",
+  "current_club": "Mainz 05",
+  "career": [
+   "Machida Zelvia",
+   "Kashima Antlers",
+   "Mainz 05"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "2024 sexual-assault arrest (not indicted), apologised",
+  "notes": "Arrested in Tokyo in July 2024 on suspicion of sexual assault; released and prosecutors declined to indict; he publicly apologised in 2025. Not coded: never charged."
+ },
+ {
+  "id": "lee-jae-sung",
+  "name": "Lee Jae-Sung",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "South Korea",
+  "current_club": "Mainz 05",
+  "career": [
+   "Jeonbuk Hyundai Motors",
+   "Holstein Kiel",
+   "Mainz 05"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "praised for professionalism; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "antonio-nusa",
+  "name": "Antonio Nusa",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Norway",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Stabæk",
+   "Club Brugge",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ridle-baku",
+  "name": "Ridle Baku",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Mainz 05",
+   "VfL Wolfsburg",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "neil-el-aynaoui",
+  "name": "Neil El Aynaoui",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Morocco",
+  "current_club": "RB Leipzig (loan from Roma)",
+  "career": [
+   "AS Nancy",
+   "RC Lens",
+   "Roma",
+   "RB Leipzig (loan from Roma)"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "nothing negative known; played the AFCON final on with an eye injury",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-seiwald",
+  "name": "Nicolas Seiwald",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Austria",
+  "current_club": "RB Leipzig",
+  "career": [
+   "FC Liefering",
+   "Red Bull Salzburg",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-henrichs",
+  "name": "Benjamin Henrichs",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Bayer Leverkusen",
+   "AS Monaco",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximilian-eggestein",
+  "name": "Maximilian Eggestein",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "SC Freiburg",
+  "career": [
+   "Werder Bremen",
+   "SC Freiburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "philipp-lienhart",
+  "name": "Philipp Lienhart",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Austria",
+  "current_club": "SC Freiburg",
+  "career": [
+   "Rapid Wien",
+   "Real Madrid",
+   "SC Freiburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "loris-karius",
+  "name": "Loris Karius",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "Schalke 04",
+  "career": [
+   "Mainz 05",
+   "Liverpool",
+   "Beşiktaş",
+   "Union Berlin",
+   "Newcastle United",
+   "Schalke 04"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "apologised to fans after the 2018 final, endured death threats with dignity",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oliver-baumann",
+  "name": "Oliver Baumann",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Germany",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "SC Freiburg",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "captain, steady and respected, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximilian-mittelstadt",
+  "name": "Maximilian Mittelstädt",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Hertha BSC",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bilal-el-khannouss",
+  "name": "Bilal El Khannouss",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Morocco",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Genk",
+   "Leicester City",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "antonio-silva",
+  "name": "António Silva",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Portugal",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Benfica",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or incidents on record",
+  "notes": "No incident codes. Two red cards in 2023 (one for a two-footed tackle), both in-play fouls."
+ },
+ {
+  "id": "justin-kluivert",
+  "name": "Justin Kluivert",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Netherlands",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Ajax",
+   "AS Roma",
+   "RB Leipzig",
+   "OGC Nice",
+   "Valencia",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or incidents on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "myles-lewis-skelly",
+  "name": "Myles Lewis-Skelly",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Arsenal"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "copied Haaland's celebration after scoring against City",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ian-maatsen",
+  "name": "Ian Maatsen",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Netherlands",
+  "current_club": "Aston Villa",
+  "career": [
+   "Chelsea",
+   "Charlton Athletic",
+   "Coventry City",
+   "Burnley",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-schade",
+  "name": "Kevin Schade",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "Brentford",
+  "career": [
+   "SC Freiburg",
+   "Brentford"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "off-the-ball red card v Villa 2026, otherwise quiet",
+  "notes": "Straight red v Aston Villa (Feb 2026) for an off-the-ball incident with Matty Cash, described as stamping back at him."
+ },
+ {
+  "id": "mikkel-damsgaard",
+  "name": "Mikkel Damsgaard",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Denmark",
+  "current_club": "Brentford",
+  "career": [
+   "FC Nordsjaelland",
+   "Sampdoria",
+   "Brentford"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bart-verbruggen",
+  "name": "Bart Verbruggen",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Netherlands",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Anderlecht",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luka-vuskovic",
+  "name": "Luka Vuskovic",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Croatia",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Hajduk Split",
+   "Westerlo",
+   "Hamburger SV",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yasin-ayari",
+  "name": "Yasin Ayari",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Sweden",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "AIK",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lewis-dunk",
+  "name": "Lewis Dunk",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "England",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "popular local captain, no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mats-wieffer",
+  "name": "Mats Wieffer",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Netherlands",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "FC Twente",
+   "Excelsior",
+   "Feyenoord",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "romeo-lavia",
+  "name": "Romeo Lavia",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Belgium",
+  "current_club": "Chelsea",
+  "career": [
+   "Southampton",
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jorrel-hato",
+  "name": "Jorrel Hato",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Netherlands",
+  "current_club": "Chelsea",
+  "career": [
+   "Ajax",
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malo-gusto",
+  "name": "Malo Gusto",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Chelsea",
+  "career": [
+   "Lyon",
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "danny-welbeck",
+  "name": "Danny Welbeck",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Manchester United",
+   "Arsenal",
+   "Watford",
+   "Brighton & Hove Albion",
+   "Chelsea"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "humble, respected professional; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jrgen-strand-larsen",
+  "name": "Jørgen Strand Larsen",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Sarpsborg 08",
+   "Groningen",
+   "Celta Vigo",
+   "Wolverhampton Wanderers",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "quinten-timber",
+  "name": "Quinten Timber",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Netherlands",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Utrecht",
+   "Feyenoord",
+   "Marseille",
+   "Crystal Palace"
+  ],
+  "CH_now": 5.7,
+  "CH_why": "publicly criticised coach Van Persie, which ended his Feyenoord spell",
+  "notes": "No incident codes; public row with Feyenoord coach in January 2026 preceded his exit."
+ },
+ {
+  "id": "dean-henderson",
+  "name": "Dean Henderson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Manchester United",
+   "Shrewsbury Town",
+   "Sheffield United",
+   "Crystal Palace"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "hospice fundraiser; 2018 ban after altercation with a fan, public complaints at Man Utd",
+  "notes": "No incident codes; three-match ban in 2018 after an altercation with an opposing supporter (reflected in CH)."
+ }
+]

@@ -1,0 +1,635 @@
+[
+ {
+  "id": "luca-sirch",
+  "name": "Luca Sirch",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "FC Memmingen",
+   "Lokomotive Leipzig",
+   "1. FC Kaiserslautern",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maurice-krattenmacher",
+  "name": "Maurice Krattenmacher",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "SpVgg Unterhaching",
+   "Bayern Munich",
+   "SSV Ulm",
+   "Hertha BSC",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hasan-kurucay",
+  "name": "Hasan Kurucay",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Türkiye",
+  "current_club": "Schalke 04",
+  "career": [
+   "Florø",
+   "Strømmen",
+   "HamKam",
+   "Eintracht Braunschweig",
+   "OH Leuven",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "timo-becker",
+  "name": "Timo Becker",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "Schalke 04",
+  "career": [
+   "Rot-Weiss Essen",
+   "Schalke 04",
+   "Hansa Rostock",
+   "Holstein Kiel",
+   "Schalke 04"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bambase-conte",
+  "name": "Bambasé Conté",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "TSG Hoffenheim",
+   "Karlsruher SC (loan)",
+   "SV Elversberg (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabian-bredlow",
+  "name": "Fabian Bredlow",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "Liefering (loan)",
+   "Hallescher FC",
+   "1. FC Nürnberg",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "george-hemmings",
+  "name": "George Hemmings",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "England",
+  "current_club": "Aston Villa",
+  "career": [
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jannik-schuster",
+  "name": "Jannik Schuster",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Austria",
+  "current_club": "Brentford",
+  "career": [
+   "Red Bull Salzburg",
+   "Brentford"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-grimes",
+  "name": "Matt Grimes",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Coventry City",
+  "career": [
+   "Exeter City",
+   "Swansea City",
+   "Coventry City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, credits the fans; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ephron-mason-clark",
+  "name": "Ephron Mason-Clark",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Jamaica",
+  "current_club": "Coventry City",
+  "career": [
+   "Barnet",
+   "Peterborough United",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "milan-van-ewijk",
+  "name": "Milan van Ewijk",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Coventry City",
+  "career": [
+   "ADO Den Haag",
+   "Heerenveen",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brandon-thomas-asante",
+  "name": "Brandon Thomas-Asante",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Ghana",
+  "current_club": "Coventry City",
+  "career": [
+   "Milton Keynes Dons",
+   "Salford City",
+   "West Bromwich Albion",
+   "Coventry City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ellis-simms",
+  "name": "Ellis Simms",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Coventry City",
+  "career": [
+   "Everton",
+   "Coventry City"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; shirt tribute to injured teammate Sakamoto (2024)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harrison-armstrong",
+  "name": "Harrison Armstrong",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cesar-palacios",
+  "name": "César Palacios",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Spain",
+  "current_club": "Fulham",
+  "career": [
+   "Real Madrid",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lewie-coyle",
+  "name": "Lewie Coyle",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Hull City",
+  "career": [
+   "Leeds United",
+   "Fleetwood Town",
+   "Hull City"
+  ],
+  "CH_now": 5.2,
+  "CH_why": "Hull-born captain; in 2025 a video appeared to show him in a street fight outside a pub (not charged)",
+  "notes": "No incident codes. May 2025 street-fight video: club investigated; another man was charged, Coyle was not."
+ },
+ {
+  "id": "ryan-giles",
+  "name": "Ryan Giles",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Hull City",
+  "career": [
+   "Luton Town",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "regan-slater",
+  "name": "Regan Slater",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "England",
+  "current_club": "Hull City",
+  "career": [
+   "Sheffield United",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mohamed-belloumi",
+  "name": "Mohamed Belloumi",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Algeria",
+  "current_club": "Hull City",
+  "career": [
+   "MC Oran",
+   "Farense",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elliot-stroud",
+  "name": "Elliot Stroud",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Sweden",
+  "current_club": "Hull City",
+  "career": [
+   "IK Oddevold",
+   "Mjällby AIF",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-crooks",
+  "name": "Matt Crooks",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "England",
+  "current_club": "Hull City",
+  "career": [
+   "Rangers",
+   "Northampton Town",
+   "Rotherham United",
+   "Middlesbrough",
+   "Real Salt Lake",
+   "Hull City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable; Middlesbrough fans' favourite",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emersonn",
+  "name": "Emersonn",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Brazil",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Athletico Paranaense",
+   "Göztepe",
+   "Toulouse",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "abdoul-ouattara",
+  "name": "Abdoul Ouattara",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Strasbourg",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-walton",
+  "name": "Christian Walton",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Brighton & Hove Albion",
+   "Wigan Athletic",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sean-steur",
+  "name": "Sean Steur",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Netherlands",
+  "current_club": "Newcastle United",
+  "career": [
+   "Ajax",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jair-paula",
+  "name": "Jair Paula",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Santos",
+   "Botafogo",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-hoyos",
+  "name": "Lucas Hoyos",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Argentina",
+  "current_club": "Atlanta United",
+  "career": [
+   "Instituto",
+   "Atlético de Rafaela",
+   "Instituto",
+   "Vélez Sarsfield",
+   "Newell's Old Boys",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tristan-muyumba",
+  "name": "Tristan Muyumba",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Atlanta United",
+  "career": [
+   "Monaco",
+   "Cercle Brugge",
+   "Toulon",
+   "Guingamp",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fafa-picault",
+  "name": "Fafà Picault",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Haiti",
+  "current_club": "Atlanta United",
+  "career": [
+   "FC Dallas",
+   "Houston Dynamo",
+   "Nashville SC",
+   "Vancouver Whitecaps",
+   "Inter Miami",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "spoke about racism he faced; offensive-language ban handled by the code",
+  "notes": "racist_abuse 2: MLS suspended him three games in 2018 under its offensive/discriminatory language policy (preseason scrimmage); he said the word was taken out of context."
+ },
+ {
+  "id": "jon-gallagher",
+  "name": "Jon Gallagher",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Republic of Ireland",
+  "current_club": "Austin FC",
+  "career": [
+   "Atlanta United",
+   "Aberdeen",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joseph-rosales",
+  "name": "Joseph Rosales",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Honduras",
+  "current_club": "Austin FC",
+  "career": [
+   "Independiente de La Chorrera",
+   "Minnesota United",
+   "Austin FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "apologised for escalating a 2025 clash; ban handled by the code",
+  "notes": "racist_abuse 2: MLS banned him three matches in 2025 under its non-discrimination policy after a clash with Vancouver's Emmanuel Sabbi; he denies using discriminatory language but apologised and did not appeal."
+ },
+ {
+  "id": "brendan-hines-ike",
+  "name": "Brendan Hines-Ike",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Austin FC",
+  "career": [
+   "Örebro SK",
+   "Kortrijk",
+   "D.C. United",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christian-ramirez",
+  "name": "Christian Ramírez",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Austin FC",
+  "career": [
+   "Los Angeles FC",
+   "Houston Dynamo",
+   "Aberdeen",
+   "Columbus Crew",
+   "LA Galaxy",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "besard-sabovic",
+  "name": "Besard Sabovic",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Sweden",
+  "current_club": "Austin FC",
+  "career": [
+   "Djurgårdens IF",
+   "Mjällby",
+   "Kayserispor",
+   "Khimki",
+   "Djurgårdens IF",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luca-petrasso",
+  "name": "Luca Petrasso",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "CF Montréal",
+  "career": [
+   "Toronto FC",
+   "Orlando City",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "prince-owusu",
+  "name": "Prince Owusu",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Ghana",
+  "current_club": "CF Montréal",
+  "career": [
+   "Arminia Bielefeld",
+   "SC Paderborn",
+   "Erzgebirge Aue",
+   "Jahn Regensburg",
+   "Toronto FC",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

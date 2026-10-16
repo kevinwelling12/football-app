@@ -1,0 +1,620 @@
+[
+ {
+  "id": "tim-skarke",
+  "name": "Tim Skarke",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "1. FC Heidenheim",
+   "SV Darmstadt 98",
+   "Union Berlin",
+   "Schalke 04 (loan)",
+   "SV Darmstadt 98 (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "marin-ljubicic",
+  "name": "Marin Ljubičić",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Croatia",
+  "current_club": "Union Berlin",
+  "career": [
+   "Hajduk Split",
+   "LASK",
+   "Union Berlin",
+   "Fortuna Düsseldorf (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "wael-mohya",
+  "name": "Wael Mohya",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Germany",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "keita-kosugi",
+  "name": "Keita Kosugi",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Japan",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Djurgårdens IF",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elias-baum",
+  "name": "Elias Baum",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Eintracht Frankfurt",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noel-aseko",
+  "name": "Noël Aséko",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Bayern Munich",
+   "Hannover 96",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ayoube-amaimouni",
+  "name": "Ayoube Amaimouni",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Morocco",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "SpVgg Erkenschwick",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; rose from the fifth tier via Hoffenheim II",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "calvin-brackelmann",
+  "name": "Calvin Brackelmann",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "FC Augsburg",
+  "career": [
+   "SV Rödinghausen",
+   "VfB Lübeck",
+   "FC Ingolstadt 04",
+   "SC Paderborn 07",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arijon-ibrahimovic",
+  "name": "Arijon Ibrahimovic",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Bayern Munich",
+   "Frosinone",
+   "1. FC Heidenheim",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-ribeiro",
+  "name": "Rodrigo Ribeiro",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Portugal",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Sporting CP",
+   "Nottingham Forest",
+   "AVS",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jahmai-simpson-pusey",
+  "name": "Jahmai Simpson-Pusey",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "England",
+  "current_club": "1. FC Köln",
+  "career": [
+   "Manchester City",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "linton-maina",
+  "name": "Linton Maina",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "1. FC Köln",
+  "career": [
+   "Hannover 96",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tom-krauss",
+  "name": "Tom Krauss",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "1. FC Köln",
+  "career": [
+   "1. FC Nürnberg",
+   "Schalke 04",
+   "Mainz 05",
+   "Luton Town",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jan-thielmann",
+  "name": "Jan Thielmann",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "1. FC Köln",
+  "career": [
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "martin-adeline",
+  "name": "Martin Adeline",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Reims",
+   "Annecy",
+   "Troyes",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabio-gruber",
+  "name": "Fabio Gruber",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Peru",
+  "current_club": "Mainz 05",
+  "career": [
+   "SC Verl",
+   "1. FC Nürnberg",
+   "Mainz 05"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; praised for character",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kacper-potulski",
+  "name": "Kacper Potulski",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Poland",
+  "current_club": "Mainz 05",
+  "career": [
+   "Mainz 05"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ransford-yeboah-konigsdorffer",
+  "name": "Ransford-Yeboah Königsdörffer",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Ghana",
+  "current_club": "Mainz 05",
+  "career": [
+   "Dynamo Dresden",
+   "Hamburger SV",
+   "Mainz 05"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tidiam-gomis",
+  "name": "Tidiam Gomis",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "France",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Caen",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andrija-maksimovic",
+  "name": "Andrija Maksimovic",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Serbia",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Red Star Belgrade",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "raphael-obermair",
+  "name": "Raphael Obermair",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Philippines",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "TSV 1860 Rosenheim",
+   "Sturm Graz",
+   "Carl Zeiss Jena",
+   "1. FC Magdeburg",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nahuel-nicolas-noll",
+  "name": "Nahuel Nicolas Noll",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Greuther Fürth",
+   "Hannover 96",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "santiago-castaneda",
+  "name": "Santiago Castaneda",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Tampa Bay Rowdies",
+   "MSV Duisburg",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "laurin-ulrich",
+  "name": "Laurin Ulrich",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "VfB Stuttgart",
+   "1. FC Magdeburg",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "laurin-curda",
+  "name": "Laurin Curda",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "TSG Balingen",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mattes-hansen",
+  "name": "Mattes Hansen",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jano-horst",
+  "name": "Jano Horst",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Preußen Münster",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. Identity: ESPN lists him as Jano Horst; Wikipedia name is Jano ter Horst (born 19 June 2002)."
+ },
+ {
+  "id": "tjark-scheller",
+  "name": "Tjark Scheller",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "FC St. Pauli",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rayan-philippe",
+  "name": "Rayan Philippe",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Dijon",
+   "AS Nancy",
+   "Swift Hesperange",
+   "Eintracht Braunschweig",
+   "Hamburger SV",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "steffen-tigges",
+  "name": "Steffen Tigges",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "VfL Osnabrück",
+   "Borussia Dortmund",
+   "1. FC Köln",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oliver-batista-meier",
+  "name": "Oliver Batista Meier",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "SC Heerenveen",
+   "Dynamo Dresden",
+   "Grasshoppers",
+   "SSV Ulm",
+   "Preußen Münster",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximilian-rohr",
+  "name": "Maximilian Rohr",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "SSV Reutlingen",
+   "SGV Freiberg",
+   "Carl Zeiss Jena",
+   "Hamburger SV",
+   "SC Paderborn",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lasse-gunther",
+  "name": "Lasse Günther",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "FC Augsburg",
+   "Jahn Regensburg",
+   "Wehen Wiesbaden",
+   "Karlsruher SC",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lukas-finn-pinckert",
+  "name": "Lukas Finn Pinckert",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "SV Elversberg",
+  "career": [
+   "Viktoria Berlin",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; praised for taking responsibility",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-mokwa",
+  "name": "David Mokwa",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "France",
+  "current_club": "SV Elversberg",
+  "career": [
+   "TSG Hoffenheim",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jan-gyamerah",
+  "name": "Jan Gyamerah",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Ghana",
+  "current_club": "SV Elversberg",
+  "career": [
+   "VfL Bochum",
+   "Hamburger SV",
+   "1. FC Nürnberg",
+   "1. FC Kaiserslautern",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ }
+]

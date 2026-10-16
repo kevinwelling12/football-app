@@ -1,0 +1,650 @@
+[
+ {
+  "id": "karim-adeyemi",
+  "name": "Karim Adeyemi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.8,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "skipped U21 Euro for Club World Cup, called a mistake by DFB; apologised for weapon purchase"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karim_Adeyemi"
+  ]
+ },
+ {
+  "id": "sergino-dest",
+  "name": "Sergiño Dest",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2023 sent off, two yellows in 20 seconds after arguing with referee and teammates",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergiño_Dest"
+  ]
+ },
+ {
+  "id": "hany-mukhtar",
+  "name": "Hany Mukhtar",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "spoke against hate at a United Against Hate Day event",
+   "CO": "volunteered at a Nashville after-school centre targeted by neo-Nazis",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hany_Mukhtar"
+  ]
+ },
+ {
+  "id": "darwin-nunez",
+  "name": "Darwin Núñez",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "2022 red card for headbutting Andersen; 2024 fought fans in the stands (5-match ban)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "no public apology found for the stands brawl"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Darwin_Núñez"
+  ]
+ },
+ {
+  "id": "paul-scholes",
+  "name": "Paul Scholes",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.8,
+  "HU": 9.0,
+  "why": {
+   "SP": "97 Premier League yellows, several reds; Wenger called him not a fair player",
+   "VO": "nothing notable found",
+   "CO": "backs University Academy 92 for local students; testimonial",
+   "HU": "shunned celebrity, famously reserved"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Scholes"
+  ]
+ },
+ {
+  "id": "roy-keane",
+  "name": "Roy Keane",
+  "SP": 2.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 3.0,
+  "why": {
+   "SP": "admitted intending to hurt Haaland; stamp on Southgate, elbow on McAteer, about 11 United reds",
+   "VO": "nothing notable found",
+   "CO": "2006 testimonial proceeds to Irish Guide Dogs for the Blind",
+   "HU": "Saipan feud with McCarthy; publicly criticised teammates and club"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roy_Keane"
+  ]
+ },
+ {
+  "id": "raul",
+  "name": "Raúl",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "never sent off in his career, rarely booked; 2013 Qatar Stars League Fair Play Award",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "disciplined captain; 1999 shushing gesture at Camp Nou, 2006 falling-out with Aragonés"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raúl_(footballer)"
+  ]
+ },
+ {
+  "id": "juan-roman-riquelme",
+  "name": "Juan Román Riquelme",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "pay protest against Macri is club politics, neutral",
+   "CO": "nothing notable found",
+   "HU": "repeated clashes with managers (Van Gaal, Maradona) and teammate Cáceres; ear-cupping gesture at president"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juan_Román_Riquelme"
+  ]
+ },
+ {
+  "id": "xabi-alonso",
+  "name": "Xabi Alonso",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "criticised for rash challenges and needless bookings; red in 2015",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "seen by teammates as quiet and friendly"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xabi_Alonso"
+  ]
+ },
+ {
+  "id": "fernando-torres",
+  "name": "Fernando Torres",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "2012 second yellow for diving; red for two-footed tackle in 2011",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "generally quiet; said he wanted to be the most important player in the world (2008)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fernando_Torres"
+  ]
+ },
+ {
+  "id": "mats-hummels",
+  "name": "Mats Hummels",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 8.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "publicly joined Common Goal early (2017)",
+   "CO": "pledged 1% of salary to Common Goal; charity matches",
+   "HU": "outspoken; 2018 post-match remarks drew criticism"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mats_Hummels"
+  ]
+ },
+ {
+  "id": "henrik-larsson",
+  "name": "Henrik Larsson",
+  "SP": 7.0,
+  "VO": 6.0,
+  "CO": 6.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "known for discipline and professionalism",
+   "VO": "spoke about racism he faced at school",
+   "CO": "Soccer Aid for UNICEF, tribute and charity matches",
+   "HU": "kept promise to return to Helsingborg; widely praised for professionalism"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Henrik_Larsson"
+  ]
+ },
+ {
+  "id": "ronald-koeman",
+  "name": "Ronald Koeman",
+  "SP": 5.0,
+  "VO": 5.5,
+  "CO": 6.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "Euro 1988: mimed wiping his backside with Thon's shirt",
+   "VO": "nothing notable found",
+   "CO": "ambassador for an anti-smoking campaign",
+   "HU": "provocative toward opponents at times"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronald_Koeman"
+  ]
+ },
+ {
+  "id": "harry-wilson",
+  "name": "Harry Wilson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Wilson_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "noah-okafor",
+  "name": "Noah Okafor",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2026 public break with Switzerland coach Yakin, quit national team"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Okafor"
+  ]
+ },
+ {
+  "id": "conor-bradley",
+  "name": "Conor Bradley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found (hospital visits not confirmed)",
+   "HU": "press profiles describe him as humble"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conor_Bradley"
+  ]
+ },
+ {
+  "id": "cafu",
+  "name": "Cafu",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "seen as disciplined; one qualifier red cost him the captaincy",
+   "VO": "Bolsonaro support is general politics, neutral",
+   "CO": "Fundação Cafu (2001-2019) served hundreds of children in Jardim Irene",
+   "HU": "cheerful; faced the press after the 2006 exit"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cafu"
+  ]
+ },
+ {
+  "id": "sergio-busquets",
+  "name": "Sergio Busquets",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "2010 feigned injury got Motta sent off; defended play-acting as smart",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "low-profile, called underrated"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergio_Busquets"
+  ]
+ },
+ {
+  "id": "paolo-rossi",
+  "name": "Paolo Rossi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paolo_Rossi"
+  ]
+ },
+ {
+  "id": "marcel-desailly",
+  "name": "Marcel Desailly",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in the 1998 World Cup final (two yellows)",
+   "VO": "backs 1GOAL Education for All",
+   "CO": "UNICEF Ghana ambassador, OrphanAid Africa, youth sports complex in Ghana",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcel_Desailly"
+  ]
+ },
+ {
+  "id": "johan-neeskens",
+  "name": "Johan Neeskens",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "hard man-marker; 13 fouls on Van Himst in 1973 called a disgrace",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "suspended by Cosmos for unexplained absences"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johan_Neeskens"
+  ]
+ },
+ {
+  "id": "gunter-netzer",
+  "name": "Günter Netzer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "rebel image; brought himself on in the 1973 Cup final against coach's wishes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Günter_Netzer"
+  ]
+ },
+ {
+  "id": "paul-gascoigne",
+  "name": "Paul Gascoigne",
+  "SP": 2.5,
+  "VO": 6.0,
+  "CO": 6.5,
+  "HU": 3.0,
+  "why": {
+   "SP": "sectarian flute gestures; elbow broke Boateng's arm; mocked a referee; reckless fouls",
+   "VO": "open about addiction and mental health in his books, no campaigning",
+   "CO": "Soccer Aid, SOS Children's Village visit, Robson Foundation match; known as generous",
+   "HU": "called himself G8, 'stands for great'; wrecked Hoddle's room in 1998"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Gascoigne"
+  ]
+ },
+ {
+  "id": "javier-zanetti",
+  "name": "Javier Zanetti",
+  "SP": 9.0,
+  "VO": 6.5,
+  "CO": 9.5,
+  "HU": 9.0,
+  "why": {
+   "SP": "only two red cards in a career of nearly 20 years",
+   "VO": "SOS Children's Villages and Special Olympics ambassador",
+   "CO": "founded Fundación PUPI for poor children (2001)",
+   "HU": "calm leader, no feuds, worked odd jobs after rejection"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Javier_Zanetti"
+  ]
+ },
+ {
+  "id": "just-fontaine",
+  "name": "Just Fontaine",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "co-founded the French players' union (1961) against lifetime contracts",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Just_Fontaine"
+  ]
+ },
+ {
+  "id": "josip-juranovic",
+  "name": "Josip Juranović",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josip_Juranović"
+  ]
+ },
+ {
+  "id": "adrianna-franch",
+  "name": "Adrianna Franch",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "openly gay; honoured Briana Scurry on her shirt (2019 SheBelieves)",
+   "CO": "nothing notable found as an adult",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrianna_Franch"
+  ]
+ },
+ {
+  "id": "lo-eau-labonta",
+  "name": "Lo'eau LaBonta",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "celebration mocking a hamstring injury (2022)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "'Celly Queen', elaborate showy celebrations"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lo'eau_LaBonta"
+  ]
+ },
+ {
+  "id": "claire-hutton",
+  "name": "Claire Hutton",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Claire_Hutton"
+  ]
+ },
+ {
+  "id": "aleix-garcia",
+  "name": "Aleix García",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleix_García"
+  ]
+ },
+ {
+  "id": "edmond-tapsoba",
+  "name": "Edmond Tapsoba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "donated masks, gloves and sanitiser to an Ouagadougou market in the pandemic",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edmond_Tapsoba"
+  ]
+ },
+ {
+  "id": "miguel-gutierrez",
+  "name": "Miguel Gutiérrez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miguel_Gutiérrez_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "malik-tillman",
+  "name": "Malik Tillman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malik_Tillman"
+  ]
+ },
+ {
+  "id": "lucas-vazquez",
+  "name": "Lucas Vázquez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Vázquez"
+  ]
+ },
+ {
+  "id": "aleksandar-pavlovic",
+  "name": "Aleksandar Pavlovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleksandar_Pavlović_(footballer)"
+  ]
+ },
+ {
+  "id": "lennart-karl",
+  "name": "Lennart Karl",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2026 named Real Madrid his dream club at a Bayern fan event, apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lennart_Karl"
+  ]
+ }
+]

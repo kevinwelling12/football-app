@@ -1,0 +1,650 @@
+[
+ {
+  "id": "tomas-chancalay",
+  "name": "Tomás Chancalay",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tomás_Chancalay"
+  ]
+ },
+ {
+  "id": "michael-boxall",
+  "name": "Michael Boxall",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one MLS red card for a foul (2023 Leagues Cup); otherwise nothing notable",
+   "VO": "reported an alleged racial slur v Qatar (2023); team walked off with him",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Boxall"
+  ]
+ },
+ {
+  "id": "nectarios-triantis",
+  "name": "Nectarios Triantis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nectarios_Triantis"
+  ]
+ },
+ {
+  "id": "bongokuhle-hlongwane",
+  "name": "Bongokuhle Hlongwane",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bongokuhle_Hlongwane"
+  ]
+ },
+ {
+  "id": "brian-schwake",
+  "name": "Brian Schwake",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Schwake"
+  ]
+ },
+ {
+  "id": "ahmed-qasim",
+  "name": "Ahmed Qasim",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found (Wikipedia spells him Ahmed Qasem)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ahmed_Qasem"
+  ]
+ },
+ {
+  "id": "patrick-yazbek",
+  "name": "Patrick Yazbek",
+  "SP": 4.0,
+  "VO": 4.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "banned two matches by MLS (2024) for an anti-gay slur after a foul call",
+   "VO": "slur breached MLS anti-discrimination policy; no public apology found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Yazbek"
+  ]
+ },
+ {
+  "id": "warren-madrigal",
+  "name": "Warren Madrigal",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Warren_Madrigal"
+  ]
+ },
+ {
+  "id": "dor-turgeman",
+  "name": "Dor Turgeman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dor_Turgeman"
+  ]
+ },
+ {
+  "id": "jackson-yueill",
+  "name": "Jackson Yueill",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackson_Yueill"
+  ]
+ },
+ {
+  "id": "diego-fagundez",
+  "name": "Diego Fagundez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "left New England over a contract offer (2020); nothing notable on conduct"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Fagúndez"
+  ]
+ },
+ {
+  "id": "keaton-parks",
+  "name": "Keaton Parks",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keaton_Parks"
+  ]
+ },
+ {
+  "id": "kai-trewin",
+  "name": "Kai Trewin",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Trewin"
+  ]
+ },
+ {
+  "id": "robin-jansson",
+  "name": "Robin Jansson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "Orlando captain since 2024; nothing notable on humility"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Jansson"
+  ]
+ },
+ {
+  "id": "braian-ojeda",
+  "name": "Braian Ojeda",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Braian_Ojeda"
+  ]
+ },
+ {
+  "id": "adrian-marin",
+  "name": "Adrián Marín",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one sending-off at Gil Vicente (2022), cause not stated; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adrián_Marín_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "milan-iloski",
+  "name": "Milan Iloski",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_Iloski"
+  ]
+ },
+ {
+  "id": "bruno-damiani",
+  "name": "Bruno Damiani",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "gave his $200,000 transfer share to Nacional's youth teams (2025)",
+   "HU": "credited Nacional for his career when giving the money"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruno_Damiani"
+  ]
+ },
+ {
+  "id": "danley-jean-jacques",
+  "name": "Danley Jean Jacques",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card for a tackle at Metz (2022), four-match ban",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danley_Jean_Jacques"
+  ]
+ },
+ {
+  "id": "indiana-vassilev",
+  "name": "Indiana Vassilev",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indiana_Vassilev"
+  ]
+ },
+ {
+  "id": "morgan-guilavogui",
+  "name": "Morgan Guilavogui",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morgan_Guilavogui"
+  ]
+ },
+ {
+  "id": "justen-glad",
+  "name": "Justen Glad",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justen_Glad"
+  ]
+ },
+ {
+  "id": "dominik-marczuk",
+  "name": "Dominik Marczuk",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominik_Marczuk"
+  ]
+ },
+ {
+  "id": "adri-mehmeti",
+  "name": "Adri Mehmeti",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adri_Mehmeti"
+  ]
+ },
+ {
+  "id": "onni-valakari",
+  "name": "Onni Valakari",
+  "SP": 6.0,
+  "VO": 4.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "praised Andrew Tate in a 2024 interview (Trump praise neutral)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Onni_Valakari"
+  ]
+ },
+ {
+  "id": "anibal-godoy",
+  "name": "Aníbal Godoy",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found in a long career",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long-time Panama captain; nothing notable on humility"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aníbal_Godoy"
+  ]
+ },
+ {
+  "id": "daniel-munie",
+  "name": "Daniel Munie",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "never booked in his college career at Indiana",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Munie"
+  ]
+ },
+ {
+  "id": "ronaldo-vieira",
+  "name": "Ronaldo Vieira",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card at Leeds (2017), apologised for it",
+   "VO": "target of racist abuse by Roma fans (2019); no public stance found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ronaldo_Vieira_(footballer,_born_1998)"
+  ]
+ },
+ {
+  "id": "alex-roldan",
+  "name": "Alex Roldan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Roldan"
+  ]
+ },
+ {
+  "id": "jackson-ragen",
+  "name": "Jackson Ragen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jackson_Ragen"
+  ]
+ },
+ {
+  "id": "lasse-berg-johnsen",
+  "name": "Lasse Berg Johnsen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lasse_Berg_Johnsen"
+  ]
+ },
+ {
+  "id": "shapi-suleymanov",
+  "name": "Shapi Suleymanov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Magomed-Shapi_Suleymanov"
+  ]
+ },
+ {
+  "id": "emir-karic",
+  "name": "Emir Karic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emir_Karić"
+  ]
+ },
+ {
+  "id": "carlo-holse",
+  "name": "Carlo Holse",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlo_Holse"
+  ]
+ },
+ {
+  "id": "daniel-salloi",
+  "name": "Dániel Sallói",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dániel_Sallói"
+  ]
+ },
+ {
+  "id": "benjamin-kuscevic",
+  "name": "Benjamín Kuscevic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamín_Kuscevic"
+  ]
+ }
+]

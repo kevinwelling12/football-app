@@ -1,0 +1,644 @@
+[
+ {
+  "id": "jan-paul-van-hecke",
+  "name": "Jan Paul van Hecke",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "NAC Breda",
+   "Brighton & Hove Albion",
+   "SC Heerenveen",
+   "Blackburn Rovers",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-bentancur",
+  "name": "Rodrigo Bentancur",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Uruguay",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Boca Juniors",
+   "Juventus",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "nothing else notable beyond the coded incidents",
+  "notes": "FA seven-match ban and £100,000 fine (2024) for a racist remark about teammate Son Heung-min; sent off for headbutting Luke Shaw at Old Trafford (Oct 2026)."
+ },
+ {
+  "id": "dominic-solanke",
+  "name": "Dominic Solanke",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Chelsea",
+   "Vitesse",
+   "Liverpool",
+   "AFC Bournemouth",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mateus-fernandes",
+  "name": "Mateus Fernandes",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Portugal",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Sporting CP",
+   "Estoril",
+   "Southampton",
+   "West Ham United",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "savio",
+  "name": "Sávio",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Brazil",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Atlético Mineiro",
+   "PSV",
+   "Girona",
+   "Manchester City",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miguel-almiron",
+  "name": "Miguel Almirón",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Paraguay",
+  "current_club": "Atlanta United",
+  "career": [
+   "Cerro Porteño",
+   "Lanús",
+   "Atlanta United",
+   "Newcastle United",
+   "Atlanta United"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "humble roots, but sent off for diving (2019) and booked for simulation and sent off in a confrontation at the 2026 World Cup",
+  "notes": "No incident codes; the diving and World Cup red card (covering mouth in a confrontation) are reflected in CH."
+ },
+ {
+  "id": "junior-alonso",
+  "name": "Júnior Alonso",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Paraguay",
+  "current_club": "Atlanta United",
+  "career": [
+   "Lille",
+   "Boca Juniors",
+   "Atlético Mineiro",
+   "Krasnodar",
+   "Atlético Mineiro",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andre-gomes",
+  "name": "André Gomes",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Portugal",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Benfica",
+   "Valencia",
+   "Barcelona",
+   "Everton",
+   "Lille",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record beyond one ban",
+  "notes": "Three-match retrospective ban in April 2019 for standing on Aleksandar Mitrović's leg (Everton v Fulham)."
+ },
+ {
+  "id": "josef-martinez",
+  "name": "Josef Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Venezuela",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Atlanta United",
+   "Inter Miami",
+   "CF Montréal",
+   "San Jose Earthquakes",
+   "Tijuana",
+   "Columbus Crew"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "fell out with Atlanta coaches in 2021-22",
+  "notes": "No incident codes; 2021 red after altercation with Victor Wanyama not described as violent conduct."
+ },
+ {
+  "id": "sergio-reguilon",
+  "name": "Sergio Reguilón",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Real Madrid",
+   "Sevilla",
+   "Tottenham Hotspur",
+   "Atlético Madrid",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maya-yoshida",
+  "name": "Maya Yoshida",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "Japan",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Nagoya Grampus",
+   "VVV-Venlo",
+   "Southampton",
+   "Sampdoria",
+   "Schalke 04",
+   "LA Galaxy"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "charity work and players' union presidency; one heated exchange with Saudi fans",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kyogo-furuhashi",
+  "name": "Kyogo Furuhashi",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Japan",
+  "current_club": "LA Galaxy",
+  "career": [
+   "FC Gifu",
+   "Vissel Kobe",
+   "Celtic",
+   "Rennes",
+   "Birmingham City",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues known, well liked at Celtic; little on causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andre-blake",
+  "name": "Andre Blake",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Jamaica",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Philadelphia Union"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "Jamaica captain; no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eric-maxim-choupo-moting",
+  "name": "Eric Maxim Choupo-Moting",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Cameroon",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Mainz 05",
+   "Schalke 04",
+   "Stoke City",
+   "Paris Saint-Germain",
+   "Bayern Munich",
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ary-borges",
+  "name": "Ary Borges",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Angel City FC",
+  "career": [
+   "Sport Recife",
+   "São Paulo",
+   "Palmeiras",
+   "Racing Louisville",
+   "Angel City FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "spoke on racism and on conditions at the Copa América",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sveindis-jonsdottir",
+  "name": "Sveindís Jónsdóttir",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Iceland",
+  "current_club": "Angel City FC",
+  "career": [
+   "Keflavík",
+   "Breiðablik",
+   "VfL Wolfsburg",
+   "Kristianstads DFF",
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ally-sentnor",
+  "name": "Ally Sentnor",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Utah Royals",
+   "Kansas City Current",
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julia-grosso",
+  "name": "Julia Grosso",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Juventus",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordyn-huitema",
+  "name": "Jordyn Huitema",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Paris Saint-Germain",
+   "Seattle Reign FC",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. Out since July 2026 ACL tear."
+ },
+ {
+  "id": "midge-purce",
+  "name": "Midge Purce",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Boston Breakers",
+   "Portland Thorns",
+   "Gotham FC"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "co-founded Black Women's Players Collective, equal-pay advocate",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emily-sonnett",
+  "name": "Emily Sonnett",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Portland Thorns",
+   "Orlando Pride",
+   "Washington Spirit",
+   "OL Reign",
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jane-campbell",
+  "name": "Jane Campbell",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "little public record; volunteers as a college coach",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "avery-patterson",
+  "name": "Avery Patterson",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lisa-boattin",
+  "name": "Lisa Boattin",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Houston Dash",
+  "career": [
+   "Venezia",
+   "Pordenone",
+   "Brescia",
+   "Juventus",
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "croix-bethune",
+  "name": "Croix Bethune",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Washington Spirit",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kailen-sheridan",
+  "name": "Kailen Sheridan",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "Canada",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "NJ/NY Gotham FC",
+   "San Diego Wave",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ashley-sanchez",
+  "name": "Ashley Sanchez",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Washington Spirit",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "feli-rauch",
+  "name": "Feli Rauch",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "North Carolina Courage",
+  "career": [
+   "Turbine Potsdam",
+   "VfL Wolfsburg",
+   "North Carolina Courage"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known (came out publicly in 2023)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oihane-hernandez",
+  "name": "Oihane Hernández",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Spain",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Athletic Club",
+   "Real Madrid",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luana",
+  "name": "Luana",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "Brazil",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Centro Olímpico",
+   "Avaldsnes",
+   "Hwacheon KSPO",
+   "Paris Saint-Germain",
+   "Corinthians",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "came back from Hodgkin lymphoma, otherwise little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emma-sears",
+  "name": "Emma Sears",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "perle-morroni",
+  "name": "Perle Morroni",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Paris Saint-Germain",
+   "Lyon",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues found; spoke out on France camp conditions under Diacre (neutral)",
+  "notes": "Moved directly from PSG to rivals Lyon in 2021 (free transfer); coded rival_move."
+ },
+ {
+  "id": "ludmila",
+  "name": "Ludmila",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Brazil",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "São José",
+   "Atlético Madrid",
+   "Chicago Stars FC",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "no causes found; 2024 sending-off for a fight with an opponent",
+  "notes": "Red card for violent conduct (striking/hair pulling) with Rosemonde Kouassi, Oct 2024; three-match ban upheld on appeal."
+ },
+ {
+  "id": "sofia-huerta",
+  "name": "Sofia Huerta",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Chicago Red Stars",
+   "Houston Dash",
+   "Sydney FC",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tara-rudd",
+  "name": "Tara Rudd",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sofia-cantore",
+  "name": "Sofia Cantore",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Italy",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Fiammamonza",
+   "Juventus",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ }
+]

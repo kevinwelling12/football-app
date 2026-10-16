@@ -1,0 +1,18 @@
+[
+ {
+  "id": "mekhi-gray",
+  "name": "Mekhi Gray",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Jamaica",
+  "current_club": "Union Berlin",
+  "career": [
+   "BFC Dynamo (youth)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents. Union Berlin youth since 2020; senior years counted from first-team contract; senior appearances unconfirmed."
+ }
+]

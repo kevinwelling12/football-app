@@ -1,0 +1,584 @@
+[
+ {
+  "id": "joel-sangwa",
+  "name": "Joel Sangwa",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "FC Tulsa",
+  "career": [
+   "Huntsville City FC",
+   "FC Tulsa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. No Wikipedia page; birth year from age 27 given by FC Tulsa."
+ },
+ {
+  "id": "makel-rasheed",
+  "name": "Makel Rasheed",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Huntsville City",
+   "Tormenta FC",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Born year estimated from ESPN age; years at Huntsville approximate."
+ },
+ {
+  "id": "nathaniel-jones",
+  "name": "Nathaniel Jones",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Colorado Rapids 2024 skipped (played for the reserve side)."
+ },
+ {
+  "id": "nykolas-sessock",
+  "name": "Nykolas Sessock",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. No Wikipedia page; club roster gives born 17 Jun 2000, Philadelphia; Inter Miami II 2023-24 from the club's Wikipedia stats table. Join year at Las Vegas not found; 2026 used."
+ },
+ {
+  "id": "blake-pope",
+  "name": "Blake Pope",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Charlotte Independence",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. North Texas SC (2022) and Portland Timbers 2 (2023-25) skipped as reserve sides."
+ },
+ {
+  "id": "benjamin-ofeimu",
+  "name": "Benjamin Ofeimu",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Birmingham Legion",
+   "Miami FC",
+   "Indy Eleven",
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Philadelphia Union II (2018-20) skipped as a reserve side; Las Vegas move not yet on Wikipedia, ESPN lists him there."
+ },
+ {
+  "id": "charlie-lanphier",
+  "name": "Charlie Lanphier",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. No Wikipedia page; club roster gives born 7 Jul 2003, Sammamish WA. Join year not found; 2026 used."
+ },
+ {
+  "id": "blaine-ferri",
+  "name": "Blaine Ferri",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "Fort Lauderdale CF",
+   "North Texas SC",
+   "FC Tulsa",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. Fort Lauderdale CF and North Texas SC were MLS reserve sides in USL League One; kept as his early senior clubs."
+ },
+ {
+  "id": "xavier-zengue",
+  "name": "Xavier Zengue",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. No Wikipedia page; born year estimated from ESPN age 25. Join year not found; 2026 used."
+ },
+ {
+  "id": "jacob-greene",
+  "name": "Jacob Greene",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "D.C. United",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. identity: ESPN lists age 21; the only Jacob Greene at Lexington (Wikipedia) was born March 2003 (23) and plays for Trinidad and Tobago. Loudoun United and Columbus Crew 2 skipped as reserve sides."
+ },
+ {
+  "id": "braudilio-rodrigues",
+  "name": "Braudílio Rodrigues",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Guinea-Bissau",
+  "current_club": "Lexington SC",
+  "career": [
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. No Wikipedia page; born year estimated from ESPN age 26. Join year not found; 2026 used."
+ },
+ {
+  "id": "tarik-scott",
+  "name": "Tarik Scott",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "FC Dallas",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes; came back from torn ACL",
+  "notes": "No incident codes. ESPN lists Jamaica; he is US-born, Jamaica youth international."
+ },
+ {
+  "id": "richard-aman",
+  "name": "Richard Aman",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; listed as Richie Aman in the Loudoun squad. Born year from ESPN age."
+ },
+ {
+  "id": "noah-adnan",
+  "name": "Noah Adnan",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age."
+ },
+ {
+  "id": "salvatore-mazzaferro",
+  "name": "Salvatore Mazzaferro",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Canada",
+  "current_club": "Loudoun United",
+  "career": [
+   "Austin FC II",
+   "Atlanta United 2",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ethan-bandre",
+  "name": "Ethan Bandré",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Sporting Kansas City II",
+   "Colorado Rapids 2",
+   "Tampa Bay Rowdies",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jacob-erlandson",
+  "name": "Jacob Erlandson",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Columbus Crew 2",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edward-davis",
+  "name": "Edward Davis",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; listed as Eddy Davis III, on loan from Philadelphia Union. Born year from ESPN age."
+ },
+ {
+  "id": "jack-panayotou",
+  "name": "Jack Panayotou",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Loudoun United",
+  "career": [
+   "New England Revolution",
+   "Rhode Island FC",
+   "Hartford Athletic",
+   "Loudoun United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "evan-davila",
+  "name": "Evan Davila",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age."
+ },
+ {
+  "id": "angelo-calfo",
+  "name": "Angelo Calfo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Miami FC",
+  "career": [
+   "Flower City Union",
+   "Weston Bears",
+   "Texoma FC",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "riyon-tori",
+  "name": "Riyon Tori",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Japan",
+  "current_club": "Miami FC",
+  "career": [
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Earlier clubs not confirmed; born year estimated from ESPN age 25."
+ },
+ {
+  "id": "thomas-musto",
+  "name": "Thomas Musto",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Miami FC",
+  "career": [
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Earlier career not confirmed; born year estimated from ESPN age 22."
+ },
+ {
+  "id": "joel-garcia-jr",
+  "name": "Joel Garcia Jr.",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "The Town FC",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kelsey-egwu",
+  "name": "Kelsey Egwu",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Canada",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "FC Edmonton",
+   "FC London",
+   "JK Narva Trans",
+   "Valour FC",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fernando-delgado",
+  "name": "Fernando Delgado",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Mexico",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "Real Monarchs",
+   "Birmingham Legion",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "belmar-joseph",
+  "name": "Belmar Joseph",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Haiti",
+  "current_club": "Monterey Bay FC",
+  "career": [
+   "FC Sion",
+   "Monterey Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. On loan from FC Sion; born in the US."
+ },
+ {
+  "id": "cristian-nava",
+  "name": "Cristian Nava",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; came back from two ACL injuries and a brief retirement",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joseph-quiah",
+  "name": "Joseph Quiah",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Liberia",
+  "current_club": "New Mexico United",
+  "career": [
+   "Paynesville FC",
+   "LISCR FC",
+   "Toronto FC II",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mouhamadou-war",
+  "name": "Mouhamadou War",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Japan",
+  "current_club": "Orange County SC",
+  "career": [
+   "Blaublitz Akita",
+   "Los Angeles Force",
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adrian-pelayo",
+  "name": "Adrian Pelayo",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Mexico",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "North Carolina FC",
+   "Whitecaps FC 2",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gunnar-studenthofft",
+  "name": "Gunnar Studenthofft",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Cayman Islands",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Huntsville City",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN spells the name Studenthofft; Wikipedia Studenhofft."
+ },
+ {
+  "id": "victor-souza",
+  "name": "Victor Souza",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "New England Revolution II",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. identity: ESPN lists Brazil, age 34; the Riverhounds' No. 5 Victor Souza is a Queens-born American born 2001 (club bio; Wikipedia squad list shows USA)."
+ },
+ {
+  "id": "owen-mikoy",
+  "name": "Owen Mikoy",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "charles-ahl",
+  "name": "Charles Ahl",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "perrin-barnes",
+  "name": "Perrin Barnes",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Huntsville City FC",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ }
+]

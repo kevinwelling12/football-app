@@ -1,0 +1,645 @@
+[
+ {
+  "id": "takehiro-tomiyasu",
+  "name": "Takehiro Tomiyasu",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Japan",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Avispa Fukuoka",
+   "Sint-Truiden",
+   "Bologna",
+   "Arsenal",
+   "Ajax",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "quiet, respected pro; small pandemic gestures",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jarrad-branthwaite",
+  "name": "Jarrad Branthwaite",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Carlisle United",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brennan-johnson",
+  "name": "Brennan Johnson",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Wales",
+  "current_club": "Everton",
+  "career": [
+   "Nottingham Forest",
+   "Lincoln City",
+   "Tottenham Hotspur",
+   "Crystal Palace",
+   "Everton"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues; handled heavy online abuse calmly",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bernd-leno",
+  "name": "Bernd Leno",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Germany",
+  "current_club": "Fulham",
+  "career": [
+   "Bayer Leverkusen",
+   "Arsenal",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "calvin-bassey",
+  "name": "Calvin Bassey",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Nigeria",
+  "current_club": "Fulham",
+  "career": [
+   "Rangers",
+   "Ajax",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oscar-bobb",
+  "name": "Oscar Bobb",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Norway",
+  "current_club": "Fulham",
+  "career": [
+   "Manchester City",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing known; little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sander-berge",
+  "name": "Sander Berge",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Fulham",
+  "career": [
+   "Asker",
+   "Vålerenga",
+   "Genk",
+   "Sheffield United",
+   "Burnley",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joachim-andersen",
+  "name": "Joachim Andersen",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Denmark",
+  "current_club": "Fulham",
+  "career": [
+   "Twente",
+   "Sampdoria",
+   "Lyon",
+   "Crystal Palace",
+   "Fulham"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julio-enciso",
+  "name": "Julio Enciso",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Paraguay",
+  "current_club": "Ipswich Town",
+  "career": [
+   "Libertad",
+   "Brighton & Hove Albion",
+   "Strasbourg",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "abdukodir-khusanov",
+  "name": "Abdukodir Khusanov",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Uzbekistan",
+  "current_club": "Manchester City",
+  "career": [
+   "Energetik-BGU",
+   "Lens",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "senne-lammens",
+  "name": "Senne Lammens",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Belgium",
+  "current_club": "Manchester United",
+  "career": [
+   "Club Brugge",
+   "Royal Antwerp",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "patrick-dorgu",
+  "name": "Patrick Dorgu",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Denmark",
+  "current_club": "Manchester United",
+  "career": [
+   "Lecce",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes (Feb 2025 red card v Ipswich was for a reckless tackle, not violent conduct)."
+ },
+ {
+  "id": "leny-yoro",
+  "name": "Leny Yoro",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Manchester United",
+  "career": [
+   "Lille",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lewis-hall",
+  "name": "Lewis Hall",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "England",
+  "current_club": "Newcastle United",
+  "career": [
+   "Chelsea",
+   "Newcastle United"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "boyhood Newcastle fan, no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harvey-barnes",
+  "name": "Harvey Barnes",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Newcastle United",
+  "career": [
+   "Leicester City",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nico-gonzalez",
+  "name": "Nico González",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Newcastle United",
+  "career": [
+   "Barcelona",
+   "Valencia",
+   "Porto",
+   "Manchester City",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matz-sels",
+  "name": "Matz Sels",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Belgium",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Lierse",
+   "Gent",
+   "Newcastle United",
+   "Anderlecht",
+   "Strasbourg",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "xaver-schlager",
+  "name": "Xaver Schlager",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Red Bull Salzburg",
+   "Wolfsburg",
+   "RB Leipzig",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ousmane-diomande",
+  "name": "Ousmane Diomande",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Ivory Coast",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Midtjylland",
+   "Sporting CP",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nordi-mukiele",
+  "name": "Nordi Mukiele",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Sunderland",
+  "career": [
+   "Laval",
+   "Montpellier",
+   "RB Leipzig",
+   "Paris Saint-Germain",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "reinildo-mandava",
+  "name": "Reinildo Mandava",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Mozambique",
+  "current_club": "Sunderland",
+  "career": [
+   "Ferroviário da Beira",
+   "GD Maputo",
+   "Belenenses SAD",
+   "Lille",
+   "Atlético Madrid",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brian-brobbey",
+  "name": "Brian Brobbey",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Netherlands",
+  "current_club": "Sunderland",
+  "career": [
+   "Ajax",
+   "RB Leipzig",
+   "Ajax",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-danso",
+  "name": "Kevin Danso",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Austria",
+  "current_club": "Sunderland",
+  "career": [
+   "FC Augsburg",
+   "RC Lens",
+   "Tottenham Hotspur",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; asked to leave Spurs in 2026 for game time",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malick-fofana",
+  "name": "Malick Fofana",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Belgium",
+  "current_club": "Sunderland",
+  "career": [
+   "Gent",
+   "Lyon",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mathys-tel",
+  "name": "Mathys Tel",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Rennes",
+   "Bayern Munich",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "destiny-udogie",
+  "name": "Destiny Udogie",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Italy",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Hellas Verona",
+   "Udinese",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alexey-miranchuk",
+  "name": "Alexey Miranchuk",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Russia",
+  "current_club": "Atlanta United",
+  "career": [
+   "Lokomotiv Moscow",
+   "Atalanta",
+   "Torino",
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "facundo-torres",
+  "name": "Facundo Torres",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Uruguay",
+  "current_club": "Austin FC",
+  "career": [
+   "Peñarol",
+   "Orlando City",
+   "Palmeiras",
+   "Austin FC"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "fined by MLS for simulation (2023) that got an opponent booked",
+  "notes": "No incident codes; the 2023 simulation fine is reflected in CH."
+ },
+ {
+  "id": "myrto-uzuni",
+  "name": "Myrto Uzuni",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Albania",
+  "current_club": "Austin FC",
+  "career": [
+   "Apolonia",
+   "Laçi",
+   "Lokomotiva Zagreb",
+   "Ferencváros",
+   "Granada",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tim-ream",
+  "name": "Tim Ream",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "USA",
+  "current_club": "Charlotte FC",
+  "career": [
+   "New York Red Bulls",
+   "Bolton Wanderers",
+   "Fulham",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "seen as a leader and mentor; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jonathan-bamba",
+  "name": "Jonathan Bamba",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Ivory Coast",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Saint-Étienne",
+   "Lille",
+   "Celta Vigo",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zack-steffen",
+  "name": "Zack Steffen",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Columbus Crew",
+   "Manchester City",
+   "Fortuna Düsseldorf",
+   "Middlesbrough",
+   "Colorado Rapids"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "co-founded a racial-equality foundation",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brais-mendez",
+  "name": "Brais Méndez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Celta Vigo",
+   "Real Sociedad",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-denkey",
+  "name": "Kévin Denkey",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Togo",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Nîmes",
+   "Cercle Brugge",
+   "FC Cincinnati"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "Club humanitarian of the year, bicycle donation to schoolchildren",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "petar-musa",
+  "name": "Petar Musa",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Croatia",
+  "current_club": "FC Dallas",
+  "career": [
+   "NK Zagreb",
+   "Slavia Prague",
+   "Benfica",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; booked for words to an opponent in 2024, otherwise no issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mateusz-bogusz",
+  "name": "Mateusz Bogusz",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Poland",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Ruch Chorzów",
+   "Leeds United",
+   "Ibiza",
+   "Los Angeles FC",
+   "Cruz Azul",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ }
+]

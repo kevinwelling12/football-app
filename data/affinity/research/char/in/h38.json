@@ -1,0 +1,643 @@
+[
+ {
+  "id": "tomas-chancalay",
+  "name": "Tomás Chancalay",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Argentina",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Colón",
+   "Racing Club",
+   "Al-Wasl",
+   "New England Revolution",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes; 2022-23 spell at UAE club Al-Wasl was a loan from Racing, not coded as money_league."
+ },
+ {
+  "id": "michael-boxall",
+  "name": "Michael Boxall",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "New Zealand",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Auckland City",
+   "Vancouver Whitecaps FC",
+   "Wellington Phoenix",
+   "SuperSport United",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "team walked off with him after alleged racial abuse vs Qatar (2023); no issues",
+  "notes": "No incident codes. He was the alleged target, not the perpetrator, of racial abuse in the 2023 Qatar friendly."
+ },
+ {
+  "id": "nectarios-triantis",
+  "name": "Nectarios Triantis",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Greece",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Western Sydney Wanderers",
+   "Central Coast Mariners",
+   "Sunderland",
+   "Hibernian",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bongokuhle-hlongwane",
+  "name": "Bongokuhle Hlongwane",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "South Africa",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Maritzburg United",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brian-schwake",
+  "name": "Brian Schwake",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Nashville SC",
+  "career": [
+   "Livingston",
+   "Linlithgow Rose",
+   "Edinburgh City",
+   "Greenock Morton",
+   "CD Castellón",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ahmed-qasim",
+  "name": "Ahmed Qasim",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Iraq",
+  "current_club": "Nashville SC",
+  "career": [
+   "Motala AIF",
+   "IF Elfsborg",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Wikipedia spells him Ahmed Qasem; club, age and nation match."
+ },
+ {
+  "id": "patrick-yazbek",
+  "name": "Patrick Yazbek",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Australia",
+  "current_club": "Nashville SC",
+  "career": [
+   "Sydney FC",
+   "Viking",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "slur incident covered by code; otherwise little public record",
+  "notes": "racist_abuse 2: banned two matches by MLS (Aug 2024) for an anti-gay slur v Austin FC; ordered into a restorative programme."
+ },
+ {
+  "id": "warren-madrigal",
+  "name": "Warren Madrigal",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Costa Rica",
+  "current_club": "Nashville SC",
+  "career": [
+   "Deportivo Saprissa",
+   "Valencia",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dor-turgeman",
+  "name": "Dor Turgeman",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Israel",
+  "current_club": "New England Revolution",
+  "career": [
+   "Maccabi Tel Aviv",
+   "Beitar Tel Aviv Bat Yam",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jackson-yueill",
+  "name": "Jackson Yueill",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "San Jose Earthquakes",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "diego-fagundez",
+  "name": "Diego Fagundez",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Uruguay",
+  "current_club": "New England Revolution",
+  "career": [
+   "New England Revolution",
+   "Austin FC",
+   "LA Galaxy",
+   "New England Revolution"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; left New England after a contract dispute",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "keaton-parks",
+  "name": "Keaton Parks",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "New York City FC",
+  "career": [
+   "Varzim",
+   "Benfica",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kai-trewin",
+  "name": "Kai Trewin",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Australia",
+  "current_club": "New York City FC",
+  "career": [
+   "Brisbane Roar",
+   "Melbourne City",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-jansson",
+  "name": "Robin Jansson",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Sweden",
+  "current_club": "Orlando City SC",
+  "career": [
+   "BK Häcken",
+   "Bengtsfors IF",
+   "IK Oddevold",
+   "AIK",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "braian-ojeda",
+  "name": "Braian Ojeda",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Paraguay",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Olimpia",
+   "Defensa y Justicia",
+   "Nottingham Forest",
+   "Real Salt Lake",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adrian-marin",
+  "name": "Adrián Marín",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Alavés",
+   "Granada",
+   "Famalicão",
+   "Gil Vicente",
+   "Braga",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes (2022 sending-off, cause not stated)."
+ },
+ {
+  "id": "milan-iloski",
+  "name": "Milan Iloski",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Real Salt Lake",
+   "Orange County SC",
+   "FC Nordsjælland",
+   "San Diego FC",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bruno-damiani",
+  "name": "Bruno Damiani",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Uruguay",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Nacional",
+   "Boston River",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.8,
+  "CH_why": "reported donation to his old club's youth teams",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "danley-jean-jacques",
+  "name": "Danley Jean Jacques",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Haiti",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Don Bosco FC",
+   "Metz",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes (2022 red card was for a tackle)."
+ },
+ {
+  "id": "indiana-vassilev",
+  "name": "Indiana Vassilev",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Aston Villa",
+   "Cheltenham Town",
+   "Inter Miami",
+   "St. Louis City SC",
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morgan-guilavogui",
+  "name": "Morgan Guilavogui",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Guinea",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Paris FC",
+   "RC Lens",
+   "FC St. Pauli",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "justen-glad",
+  "name": "Justen Glad",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record of causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dominik-marczuk",
+  "name": "Dominik Marczuk",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Poland",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Podlasie Biała Podlaska",
+   "Stal Rzeszów",
+   "Jagiellonia Białystok",
+   "Real Salt Lake",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adri-mehmeti",
+  "name": "Adri Mehmeti",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "USA",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; 17 years old",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "onni-valakari",
+  "name": "Onni Valakari",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Finland",
+  "current_club": "San Diego FC",
+  "career": [
+   "TPS",
+   "Tromsø",
+   "Pafos",
+   "San Diego FC"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "fined for late conscription enrolment; praised Andrew Tate and Trump in 2024 interview",
+  "notes": "No incident codes. 2024 Finnish court fine for late conscription enrolment and praise of Andrew Tate/Trump noted in CH, not coded."
+ },
+ {
+  "id": "anibal-godoy",
+  "name": "Aníbal Godoy",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Panama",
+  "current_club": "San Diego FC",
+  "career": [
+   "Chepo",
+   "Honvéd",
+   "San Jose Earthquakes",
+   "Nashville SC",
+   "San Diego FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "respected veteran, no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-munie",
+  "name": "Daniel Munie",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; never booked in college",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ronaldo-vieira",
+  "name": "Ronaldo Vieira",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Guinea-Bissau",
+  "current_club": "San Jose Earthquakes",
+  "career": [
+   "Leeds United",
+   "Sampdoria",
+   "San Jose Earthquakes"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues; target of racist taunts in 2019",
+  "notes": "No incident codes. 2017 red card at Leeds (he apologised) not violent conduct."
+ },
+ {
+  "id": "alex-roldan",
+  "name": "Alex Roldan",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "El Salvador",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Washington Crossfire",
+   "OSA FC",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jackson-ragen",
+  "name": "Jackson Ragen",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Tacoma Defiance",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lasse-berg-johnsen",
+  "name": "Lasse Berg Johnsen",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Norway",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "Viking FK",
+   "Tromsdalen",
+   "Raufoss",
+   "Randers FC",
+   "Malmö FF",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "shapi-suleymanov",
+  "name": "Shapi Suleymanov",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Russia",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "FC Krasnodar",
+   "Giresunspor",
+   "Hapoel Be'er Sheva",
+   "Aris Thessaloniki",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emir-karic",
+  "name": "Emir Karic",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "Sporting Kansas City",
+  "career": [
+   "LASK",
+   "Rheindorf Altach",
+   "SV Darmstadt",
+   "Sturm Graz",
+   "Sporting Kansas City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. ESPN lists Austria; he switched to Bosnia and Herzegovina in 2025."
+ },
+ {
+  "id": "carlo-holse",
+  "name": "Carlo Holse",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Denmark",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Copenhagen",
+   "Esbjerg fB",
+   "Rosenborg",
+   "Samsunspor",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-salloi",
+  "name": "Dániel Sallói",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Hungary",
+  "current_club": "Toronto FC",
+  "career": [
+   "Újpest",
+   "Sporting Kansas City",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-kuscevic",
+  "name": "Benjamín Kuscevic",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Chile",
+  "current_club": "Toronto FC",
+  "career": [
+   "Universidad Católica",
+   "Palmeiras",
+   "Coritiba",
+   "Fortaleza",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. On loan at Toronto from Fortaleza."
+ }
+]

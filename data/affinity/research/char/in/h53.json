@@ -1,0 +1,650 @@
+[
+ {
+  "id": "cristian-parano",
+  "name": "Cristian Parano",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Argentina",
+  "current_club": "San Antonio FC",
+  "career": [
+   "San Martín de San Juan",
+   "San Antonio FC",
+   "Paços de Ferreira",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordan-rossiter",
+  "name": "Jordan Rossiter",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Rangers",
+   "Fleetwood Town",
+   "Bristol Rovers",
+   "Shrewsbury Town",
+   "Waterford",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record beyond football; helped coach at Bristol Rovers while injured",
+  "notes": "red_card_violence 1: three-match ban in August 2022 (Bristol Rovers) after admitting an FA violent-conduct charge for an incident the referee missed."
+ },
+ {
+  "id": "ryan-edwards",
+  "name": "Ryan Edwards",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Plymouth Argyle",
+   "Blackpool",
+   "Dundee United",
+   "Chennaiyin",
+   "Falkirk",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against. Survived testicular cancer.",
+  "notes": "No incident codes. Indian Super League move is not a money_league case."
+ },
+ {
+  "id": "edgardo-rito",
+  "name": "Edgardo Rito",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Venezuela",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Yaracuyanos",
+   "Patriotas Boyacá",
+   "Oakland Roots",
+   "Hartford Athletic",
+   "Phoenix Rising FC",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Loans (Mineros, Patriotas, Metropolitanos, NY Red Bulls II, Caracas) left out of clubs."
+ },
+ {
+  "id": "nathan-dossantos",
+  "name": "Nathan Dossantos",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Woodbridge Strikers",
+   "Sigma FC",
+   "Pittsburgh Riverhounds SC",
+   "Charleston Battery",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matt-myers",
+  "name": "Matt Myers",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Charleston Battery",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Identity: ESPN's Matt Myers is Wikipedia's MD Myers (Matthew Dylan Myers), Tampa No. 9, born 2001. NYCFC II (reserve side) left out of clubs."
+ },
+ {
+  "id": "jahmali-waite",
+  "name": "Jahmali Waite",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Jamaica",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Pittsburgh Riverhounds SC",
+   "El Paso Locomotive",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Bethlehem Steel (reserve side) and amateur sides left out of clubs."
+ },
+ {
+  "id": "russell-cicerone",
+  "name": "Russell Cicerone",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "FC Cincinnati",
+   "Saint Louis FC",
+   "Pittsburgh Riverhounds SC",
+   "Sacramento Republic FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Portland Timbers 2 (reserve side) and amateur sides left out of clubs."
+ },
+ {
+  "id": "augustine-williams",
+  "name": "Augustine Williams",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Sierra Leone",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "LA Galaxy II",
+   "LA Galaxy",
+   "Charleston Battery",
+   "Indy Eleven",
+   "Pittsburgh Riverhounds",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michee-ngalina",
+  "name": "Michee Ngalina",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Congo DR",
+  "current_club": "Hartford Athletic",
+  "career": [
+   "Bethlehem Steel",
+   "Philadelphia Union",
+   "Colorado Springs Switchbacks",
+   "Göztepe",
+   "Hartford Athletic"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-blake",
+  "name": "Jack Blake",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Scotland",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Minnesota United",
+   "Jacksonville Armada",
+   "Tampa Bay Rowdies",
+   "Real Monarchs",
+   "San Diego Loyal",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes. Born in Nottingham; plays for Scotland via grandfather per Wikipedia."
+ },
+ {
+  "id": "kipp-keller",
+  "name": "Kipp Keller",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "New Mexico United",
+  "career": [
+   "Austin FC",
+   "FC Cincinnati",
+   "Minnesota United",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bobosi-byaruhanga",
+  "name": "Bobosi Byaruhanga",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Uganda",
+  "current_club": "Oakland Roots",
+  "career": [
+   "Vipers",
+   "MFK Vyškov",
+   "Austin FC II",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "neveal-hackshaw",
+  "name": "Neveal Hackshaw",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Trinidad and Tobago",
+  "current_club": "Oakland Roots",
+  "career": [
+   "North East Stars",
+   "Charleston Battery",
+   "Indy Eleven",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "roman-weidenfeller",
+  "name": "Roman Weidenfeller",
+  "gender": "M",
+  "active": false,
+  "born": 1980,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "1. FC Kaiserslautern",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "4.5 2007 slur at Asamoah (he admitted a homophobic insult",
+  "notes": "2007: Asamoah alleged racist abuse; DFB 3-match ban and fine for an insult, racism not proven, he admitted a homophobic insult and apologised."
+ },
+ {
+  "id": "sebastian-kehl",
+  "name": "Sebastian Kehl",
+  "gender": "M",
+  "active": false,
+  "born": 1980,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Hannover 96",
+   "SC Freiburg",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "6 no causes, 2001 Bayern-advance episode",
+  "notes": "2001: took a signing advance from Bayern, then joined Dortmund; clubs settled."
+ },
+ {
+  "id": "brian-mcbride",
+  "name": "Brian McBride",
+  "gender": "M",
+  "active": false,
+  "born": 1972,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Columbus Crew",
+   "Preston North End",
+   "Everton",
+   "Fulham",
+   "Chicago Fire"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "eric-wynalda",
+  "name": "Eric Wynalda",
+  "gender": "M",
+  "active": false,
+  "born": 1969,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "VfL Bochum",
+   "San Jose Clash",
+   "Miami Fusion",
+   "León",
+   "Chicago Fire",
+   "New England Revolution"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "4.5 big ego, 1990 red card",
+  "notes": "Recount: major_trophies 1: Gold Cup 1991."
+ },
+ {
+  "id": "darlington-nagbe",
+  "name": "Darlington Nagbe",
+  "gender": "M",
+  "active": false,
+  "born": 1990,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Portland Timbers",
+   "Atlanta United",
+   "Columbus Crew"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 quiet, humble",
+  "notes": ""
+ },
+ {
+  "id": "cam-lindley",
+  "name": "Cam Lindley",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Wilmington Hammerheads",
+   "Orlando City",
+   "Indy Eleven",
+   "San Antonio FC",
+   "Colorado Springs Switchbacks",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paco-craig",
+  "name": "Paco Craig",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "England",
+  "current_club": "Indy Eleven",
+  "career": [
+   "Bishop's Stortford",
+   "Louisville City",
+   "Wycombe Wanderers",
+   "Miami FC",
+   "North Carolina FC",
+   "Indy Eleven"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against; a few suspensions",
+  "notes": "No incident codes. Sent off in the 2016 Eastern Conference final (extra time); not described as violent conduct."
+ },
+ {
+  "id": "clint-mathis",
+  "name": "Clint Mathis",
+  "gender": "M",
+  "active": false,
+  "born": 1976,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "MetroStars",
+   "Hannover 96",
+   "Real Salt Lake",
+   "Colorado Rapids",
+   "Ergotelis",
+   "LA Galaxy"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "5 party-boy reputation",
+  "notes": "No incidents; party-boy reputation. Recount: major_trophies 1: Gold Cup 2002."
+ },
+ {
+  "id": "justin-lerma",
+  "name": "Justin Lerma",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Ecuador",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Independiente del Valle",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "patrick-drewes",
+  "name": "Patrick Drewes",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Würzburger Kickers",
+   "VfL Bochum",
+   "SV Sandhausen",
+   "Karlsruher SC",
+   "VfL Bochum",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "kaua-prates",
+  "name": "Kauã Prates",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Brazil",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Cruzeiro",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "alex-cairns",
+  "name": "Alex Cairns",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Stalybridge Celtic (loan)",
+   "Chesterfield",
+   "Rotherham United",
+   "Fleetwood Town",
+   "Salford City",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents."
+ },
+ {
+  "id": "alex-bonetig",
+  "name": "Alex Bonetig",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Australia",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Western Sydney Wanderers",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents; little public profile."
+ },
+ {
+  "id": "linus-guther",
+  "name": "Linus Güther",
+  "gender": "M",
+  "active": true,
+  "born": 2010,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Energie Cottbus (youth)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "allie-long",
+  "name": "Allie Long",
+  "gender": "W",
+  "active": false,
+  "born": 1987,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Portland Thorns",
+   "Seattle Reign / OL Reign",
+   "NJ/NY Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incidents."
+ },
+ {
+  "id": "jan-leszczynski",
+  "name": "Jan Leszczynski",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Poland",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Legia Warsaw",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeremiaha-maluze",
+  "name": "Jeremiaha Maluze",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stefano-marino",
+  "name": "Stefano Marino",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Karlsruher SC",
+   "FC Astoria Walldorf (loan)",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. Hannover 96 II (2024-25) left out as a reserve team."
+ },
+ {
+  "id": "jonah-sticker",
+  "name": "Jonah Sticker",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "SC Paderborn 07",
+  "career": [
+   "Viktoria Köln",
+   "SC Paderborn 07"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "francis-ikechukwu-onyeka",
+  "name": "Francis-Ikechukwu Onyeka",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Germany",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Bayer Leverkusen",
+   "VfL Bochum",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noah-darvich",
+  "name": "Noah Darvich",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "FC Barcelona B",
+   "VfB Stuttgart",
+   "SV Elversberg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jon-bell",
+  "name": "Jon Bell",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Jamaica",
+  "current_club": "Austin FC",
+  "career": [
+   "New England Revolution",
+   "St. Louis City SC",
+   "Seattle Sounders FC",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ }
+]

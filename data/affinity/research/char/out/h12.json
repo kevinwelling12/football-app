@@ -1,0 +1,650 @@
+[
+ {
+  "id": "rafael-leao",
+  "name": "Rafael Leão",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "booked for simulation in two Euro 2024 matches; 2022 red for a reckless high kick",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "sulked when substituted (2026); fell out with several coaches"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o"
+  ]
+ },
+ {
+  "id": "alessandro-bastoni",
+  "name": "Alessandro Bastoni",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "Feb 2026 exaggerated contact got Kalulu sent off, mimed a card and celebrated; red in 2026 WC playoff final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "publicly admitted exaggerating and apologised for his behaviour"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessandro_Bastoni"
+  ]
+ },
+ {
+  "id": "marcus-thuram",
+  "name": "Marcus Thuram",
+  "SP": 3.5,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "spat at Stefan Posch (2020, six-match ban); booked for diving in 2022 WC final",
+   "VO": "took a knee and dedicated a goal to George Floyd protests (2020)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marcus_Thuram"
+  ]
+ },
+ {
+  "id": "hakan-calhanoglu",
+  "name": "Hakan Çalhanoglu",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "two second-yellow reds, nothing violent",
+   "VO": "political posts (Erdoğan referendum, Syria-offensive salute) treated as general politics",
+   "CO": "2025 reforestation project after Turkish wildfires",
+   "HU": "public spats with Hamburg director, Son Heung-min and Gökhan Töre; FIFA ban for contract breach"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
+  ]
+ },
+ {
+  "id": "olivier-giroud",
+  "name": "Olivier Giroud",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "red for a headbutt on Onuoha (2014); red for arguing with referee (2023)",
+   "VO": "outspoken Christian faith, neutral",
+   "CO": "ambassador for Monaco Humanitarian Collective's children's heart surgery",
+   "HU": "gracious about exits, seen as a dressing-room link; 2014 infidelity apology"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olivier_Giroud"
+  ]
+ },
+ {
+  "id": "desire-doue",
+  "name": "Désiré Doué",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one second-yellow red for France U21, otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "coach called him 'a dream' off the pitch; otherwise nothing notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Dou%C3%A9"
+  ]
+ },
+ {
+  "id": "johan-cruyff",
+  "name": "Johan Cruyff",
+  "SP": 4.5,
+  "VO": 4.5,
+  "CO": 9.0,
+  "HU": 3.0,
+  "why": {
+   "SP": "frequent protests at referees; sent off at Málaga and escorted off by police; first Dutch international sent off",
+   "VO": "largely apolitical; disparaging remarks about a female and a Surinamese-born Ajax board member",
+   "CO": "Cruyff Foundation for disadvantaged and disabled children, 200+ Cruyff Courts, Special Olympics ambassador",
+   "HU": "described as arrogant know-it-all; feuds with Michels, Keizer, Núñez, Van Gaal, Ajax board"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johan_Cruyff"
+  ]
+ },
+ {
+  "id": "alfredo-di-stefano",
+  "name": "Alfredo Di Stéfano",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "led 1948 Argentine players' strike, treated as labour dispute",
+   "CO": "nothing notable found",
+   "HU": "domineering; publicly criticised coach Muñoz before 1964 final; clashed with Didi"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano"
+  ]
+ },
+ {
+  "id": "philippe-coutinho",
+  "name": "Philippe Coutinho",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "one red (dissent plus a foul, 2015), otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "shy; transfer request to force Barcelona move; ear-covering celebration vs Man United"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philippe_Coutinho"
+  ]
+ },
+ {
+  "id": "crystal-dunn",
+  "name": "Crystal Dunn",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "USWNT union officer in equal-pay fight; co-founded Black Women's Player Collective; backs Common Goal anti-racism project",
+   "CO": "backs Common Goal anti-racism training; maternal-health education",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crystal_Dunn"
+  ]
+ },
+ {
+  "id": "alessia-russo",
+  "name": "Alessia Russo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessia_Russo"
+  ]
+ },
+ {
+  "id": "leah-williamson",
+  "name": "Leah Williamson",
+  "SP": 6.0,
+  "VO": 9.0,
+  "CO": 8.0,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "Stonewall armband at Euro 2022; endometriosis and period awareness; first England women's player to address the UN; girls' PE letter",
+   "CO": "Willow Foundation ambassador; visited Zaatari refugee camp for Coaching for Life; hometown pitch",
+   "HU": "rejects the 'activist' label as just normal behaviour"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leah_Williamson"
+  ]
+ },
+ {
+  "id": "fridolina-rolfo",
+  "name": "Fridolina Rolfö",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "helped a teammate through mental-health struggles, otherwise nothing notable",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fridolina_Rolf%C3%B6"
+  ]
+ },
+ {
+  "id": "giulia-gwinn",
+  "name": "Giulia Gwinn",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giulia_Gwinn"
+  ]
+ },
+ {
+  "id": "ibrahima-konate",
+  "name": "Ibrahima Konaté",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "no reds on record; praised for no silly tackles",
+   "VO": "target of racist abuse (2026), no own campaign found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ibrahima_Konat%C3%A9"
+  ]
+ },
+ {
+  "id": "hugo-ekitike",
+  "name": "Hugo Ekitiké",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for removing his shirt after a winner while booked (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Ekitik%C3%A9"
+  ]
+ },
+ {
+  "id": "ferenc-puskas",
+  "name": "Ferenc Puskás",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "FIFA/SOS Charity ambassador; Honvéd fundraising tour after 1956; charity friendly for South Liverpool",
+   "HU": "jovial and simple by colleagues' accounts; Kopa said he was hard on teammates early on"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s"
+  ]
+ },
+ {
+  "id": "gerd-muller",
+  "name": "Gerd Müller",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "1974 protest over players' wives barred from banquet, treated as neutral",
+   "CO": "nothing notable found",
+   "HU": "Beckenbauer, Rummenigge, Hoeneß all call him modest and reserved"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerd_M%C3%BCller"
+  ]
+ },
+ {
+  "id": "lev-yashin",
+  "name": "Lev Yashin",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "no disciplinary issues found; opponents spoke warmly of him",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "on winning the Ballon d'Or said he was not the best keeper and named Beara"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lev_Yashin"
+  ]
+ },
+ {
+  "id": "marco-van-basten",
+  "name": "Marco van Basten",
+  "SP": 5.5,
+  "VO": 4.5,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "physical, many fouls per a former referee",
+   "VO": "'Sieg Heil' on live TV (2019), apologised; backed lifting Iran's ban on women in stadiums",
+   "CO": "nothing notable found",
+   "HU": "feuds with Sacchi, Van Nistelrooy, Seedorf"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_van_Basten"
+  ]
+ },
+ {
+  "id": "romario",
+  "name": "Romário",
+  "SP": 3.0,
+  "VO": 7.0,
+  "CO": 6.0,
+  "HU": 2.5,
+  "why": {
+   "SP": "punched Simeone (five-game ban), kicked an opponent, attacked a fan",
+   "VO": "disability-rights advocate as legislator (from earlier research); campaigned against 2014 WC corruption",
+   "CO": "disability advocacy work in Congress (earlier research)",
+   "HU": "'short on humility'; feuds with Edmundo, Aragonés, Cruyff, Bebeto; dropped for indiscipline"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rom%C3%A1rio"
+  ]
+ },
+ {
+  "id": "gianluigi-buffon",
+  "name": "Gianluigi Buffon",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "red for dissent vs Real Madrid 2018 and ban for attacking the referee afterwards; said he wouldn't help a referee on a missed goal",
+   "VO": "88 shirt (2000) and ultras ties offset by Respect Diversity programme and openness on depression",
+   "CO": "auctioned his armband after matches for charity; UN World Food Programme goodwill ambassador",
+   "HU": "declined the No. 1 shirt and captaincy on 2019 return; praised as a leader"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianluigi_Buffon"
+  ]
+ },
+ {
+  "id": "thierry-henry",
+  "name": "Thierry Henry",
+  "SP": 4.5,
+  "VO": 8.5,
+  "CO": 7.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "double handball setting up the 2009 Ireland winner, later said a replay was fairest; 2002 WC red for a dangerous slide",
+   "VO": "launched Stand Up Speak Up after Aragonés slur; Time 100; spoke on online bullying and his depression",
+   "CO": "UNICEF-FIFA squad; cystic fibrosis charities; charity matches",
+   "HU": "admitted 'screaming for the ball' hurt Arsenal; reputation for aloofness"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thierry_Henry"
+  ]
+ },
+ {
+  "id": "jamie-vardy",
+  "name": "Jamie Vardy",
+  "SP": 3.5,
+  "VO": 5.5,
+  "CO": 7.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "sent off for diving 2016 and banned for his reaction; several reds for challenges; taunted home fans at Sheffield United",
+   "VO": "signed and gave a Rainbow Laces flag to Leicester's LGBT+ fans; 2015 casino slur handled elsewhere",
+   "CO": "V9 Academy for non-League players; ambassador for a special school",
+   "HU": "turned around his early drinking; brash public persona"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamie_Vardy"
+  ]
+ },
+ {
+  "id": "emily-fox",
+  "name": "Emily Fox",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emily_Fox_(soccer)"
+  ]
+ },
+ {
+  "id": "chloe-kelly",
+  "name": "Chloe Kelly",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "booked for the shirt-off Euro 2022 celebration, otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "confident ('what pressure?!'); public statements on her Man City exit; apologised for live swearing"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chloe_Kelly"
+  ]
+ },
+ {
+  "id": "dayot-upamecano",
+  "name": "Dayot Upamecano",
+  "SP": 5.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two reds in four days in Feb 2024, one straight",
+   "VO": "condemned racist abuse aimed at him (2024)",
+   "CO": "nothing notable found",
+   "HU": "shy, worked through a stutter"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dayot_Upamecano"
+  ]
+ },
+ {
+  "id": "david-raya",
+  "name": "David Raya",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Raya"
+  ]
+ },
+ {
+  "id": "bruno-guimaraes",
+  "name": "Bruno Guimarães",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "often booked per earlier research; no reds found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es"
+  ]
+ },
+ {
+  "id": "eberechi-eze",
+  "name": "Eberechi Eze",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "Eze Foundation for London school children; free Eze Invitational; PFA Community Champion 2026",
+   "HU": "spoke of being 'humbled'; credits his South East London roots"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eberechi_Eze"
+  ]
+ },
+ {
+  "id": "jack-grealish",
+  "name": "Jack Grealish",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for diving (2015); three-match ban for stamping on Coady (2016)",
+   "VO": "nothing notable found",
+   "CO": "WC celebration for a fan with cerebral palsy; praised for time with fans",
+   "HU": "called 'so humble' by Gündoğan, but repeated partying and careless-driving convictions"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Grealish"
+  ]
+ },
+ {
+  "id": "marc-guehi",
+  "name": "Marc Guéhi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "one second-yellow red, nothing notable",
+   "VO": "wrote religious messages on the rainbow armband (2024), treated as faith",
+   "CO": "nothing notable found",
+   "HU": "described as 'extremely humble' and low-maintenance; calm captain"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Gu%C3%A9hi"
+  ]
+ },
+ {
+  "id": "elliot-anderson",
+  "name": "Elliot Anderson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elliot_Anderson"
+  ]
+ },
+ {
+  "id": "matheus-cunha",
+  "name": "Matheus Cunha",
+  "SP": 2.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "elbowed an Ipswich staff member and pulled off his glasses (2024); red for kicking out at Kerkez (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "calls himself a 'maverick'; emotional"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matheus_Cunha"
+  ]
+ },
+ {
+  "id": "bryan-mbeumo",
+  "name": "Bryan Mbeumo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bryan_Mbeumo"
+  ]
+ },
+ {
+  "id": "lisandro-martinez",
+  "name": "Lisandro Martínez",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "red for pulling Calvert-Lewin's hair (2026); 'The Butcher', aggressive style",
+   "VO": "Falklands banner after 2026 WC semi treated as politics",
+   "CO": "nothing notable found",
+   "HU": "combative; held provocative banner after beating England"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez"
+  ]
+ }
+]

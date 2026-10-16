@@ -1,0 +1,651 @@
+[
+ {
+  "id": "luca-sirch",
+  "name": "Luca Sirch",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_Sirch"
+  ]
+ },
+ {
+  "id": "maurice-krattenmacher",
+  "name": "Maurice Krattenmacher",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maurice_Krattenmacher"
+  ]
+ },
+ {
+  "id": "hasan-kurucay",
+  "name": "Hasan Kurucay",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hasan_Kuruçay"
+  ]
+ },
+ {
+  "id": "timo-becker",
+  "name": "Timo Becker",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timo_Becker"
+  ]
+ },
+ {
+  "id": "bambase-conte",
+  "name": "Bambasé Conté",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bambasé_Conté"
+  ]
+ },
+ {
+  "id": "fabian-bredlow",
+  "name": "Fabian Bredlow",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabian_Bredlow"
+  ]
+ },
+ {
+  "id": "george-hemmings",
+  "name": "George Hemmings",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Hemmings"
+  ]
+ },
+ {
+  "id": "jannik-schuster",
+  "name": "Jannik Schuster",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jannik_Schuster"
+  ]
+ },
+ {
+  "id": "matt-grimes",
+  "name": "Matt Grimes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "captain at Swansea and Coventry; said he felt \"a bit of an imposter\" next to long-suffering fans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Grimes"
+  ]
+ },
+ {
+  "id": "ephron-mason-clark",
+  "name": "Ephron Mason-Clark",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ephron_Mason-Clark"
+  ]
+ },
+ {
+  "id": "milan-van-ewijk",
+  "name": "Milan van Ewijk",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_van_Ewijk"
+  ]
+ },
+ {
+  "id": "brandon-thomas-asante",
+  "name": "Brandon Thomas-Asante",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one career red card, for a reckless foul on a goalkeeper (2020)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandon_Thomas-Asante"
+  ]
+ },
+ {
+  "id": "ellis-simms",
+  "name": "Ellis Simms",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "held up injured teammate Sakamoto's shirt after scoring (2024)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ellis_Simms"
+  ]
+ },
+ {
+  "id": "harrison-armstrong",
+  "name": "Harrison Armstrong",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harrison_Armstrong_(footballer)"
+  ]
+ },
+ {
+  "id": "cesar-palacios",
+  "name": "César Palacios",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/César_Palacios_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "lewie-coyle",
+  "name": "Lewie Coyle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "one red card (2017), nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "regular on hospital visits; launched Hull Hometown Heroes campaign with his brother (2026)",
+   "HU": "Hull-born captain; 2025 video appeared to show him in a street fight (not charged)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewie_Coyle"
+  ]
+ },
+ {
+  "id": "ryan-giles",
+  "name": "Ryan Giles",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Giles"
+  ]
+ },
+ {
+  "id": "regan-slater",
+  "name": "Regan Slater",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Regan_Slater"
+  ]
+ },
+ {
+  "id": "mohamed-belloumi",
+  "name": "Mohamed Belloumi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mohamed_Belloumi"
+  ]
+ },
+ {
+  "id": "elliot-stroud",
+  "name": "Elliot Stroud",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elliot_Stroud"
+  ]
+ },
+ {
+  "id": "matt-crooks",
+  "name": "Matt Crooks",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card, rescinded on appeal (2021)",
+   "VO": "has spoken publicly about living with epilepsy",
+   "CO": "works with epilepsy charity; vice chair and trustee of the Jordan Sinnott Foundation",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Crooks"
+  ]
+ },
+ {
+  "id": "emersonn",
+  "name": "Emersonn",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emersonn"
+  ]
+ },
+ {
+  "id": "abdoul-ouattara",
+  "name": "Abdoul Ouattara",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdoul_Ouattara"
+  ]
+ },
+ {
+  "id": "christian-walton",
+  "name": "Christian Walton",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Walton"
+  ]
+ },
+ {
+  "id": "sean-steur",
+  "name": "Sean Steur",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "praised for composure at 17; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Steur"
+  ]
+ },
+ {
+  "id": "jair-paula",
+  "name": "Jair Paula",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found (Wikipedia lists him as Jair Cunha)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jair_Cunha"
+  ]
+ },
+ {
+  "id": "lucas-hoyos",
+  "name": "Lucas Hoyos",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Hoyos"
+  ]
+ },
+ {
+  "id": "tristan-muyumba",
+  "name": "Tristan Muyumba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tristan_Muyumba"
+  ]
+ },
+ {
+  "id": "fafa-picault",
+  "name": "Fafà Picault",
+  "SP": 5.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three-match MLS ban for offensive language in a 2018 scrimmage",
+   "VO": "has spoken about racism he faced in Sardinia",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fafà_Picault"
+  ]
+ },
+ {
+  "id": "jon-gallagher",
+  "name": "Jon Gallagher",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jon_Gallagher"
+  ]
+ },
+ {
+  "id": "joseph-rosales",
+  "name": "Joseph Rosales",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three-match MLS ban for discriminatory language toward Sabbi (2025); denied it but apologised",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joseph_Rosales"
+  ]
+ },
+ {
+  "id": "brendan-hines-ike",
+  "name": "Brendan Hines-Ike",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brendan_Hines-Ike"
+  ]
+ },
+ {
+  "id": "christian-ramirez",
+  "name": "Christian Ramírez",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "mental health advocate; 2025 Kids Mental Health Foundation award, Latino awareness work",
+   "CO": "off-season youth camps for underserved communities; community owner of Minnesota Aurora",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christian_Ramirez_(soccer,_born_1991)",
+   "https://www.kidsmentalhealthfoundation.org/support-kmhf/champions/christian-ramirez"
+  ]
+ },
+ {
+  "id": "besard-sabovic",
+  "name": "Besard Sabovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Besard_Šabović"
+  ]
+ },
+ {
+  "id": "luca-petrasso",
+  "name": "Luca Petrasso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luca_Petrasso"
+  ]
+ },
+ {
+  "id": "prince-owusu",
+  "name": "Prince Owusu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prince_Owusu_(footballer,_born_January_1997)"
+  ]
+ }
+]

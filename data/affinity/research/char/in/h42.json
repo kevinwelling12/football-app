@@ -1,0 +1,668 @@
+[
+ {
+  "id": "thomas-mcnamara",
+  "name": "Thomas McNamara",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Brooklyn FC",
+  "career": [
+   "Chivas USA",
+   "New York City FC",
+   "Houston Dynamo",
+   "New England Revolution",
+   "Las Vegas Lights",
+   "Brooklyn FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "patrick-burner",
+  "name": "Patrick Burner",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Martinique",
+  "current_club": "Colorado Springs Switchbacks",
+  "career": [
+   "Nice",
+   "Nîmes",
+   "North Carolina FC",
+   "Colorado Springs Switchbacks"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "little public record; visited his boyhood club's youth players",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-mendez",
+  "name": "Alex Méndez",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "LA Galaxy II",
+   "Jong Ajax",
+   "Vizela",
+   "FC Juárez",
+   "Tampa Bay Rowdies",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rubio-rubin",
+  "name": "Rubio Rubín",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Guatemala",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Dorados",
+   "San Diego Loyal",
+   "Real Salt Lake",
+   "Querétaro",
+   "Charleston Battery",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arturo-ortiz",
+  "name": "Arturo Ortiz",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Mexico",
+  "current_club": "El Paso Locomotive",
+  "career": [
+   "Leones Negros",
+   "Correcaminos",
+   "Leones Negros",
+   "Pumas UNAM",
+   "FC Juárez",
+   "El Paso Locomotive"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "taylor-davila",
+  "name": "Taylor Davila",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "LA Galaxy II",
+   "Rio Grande Valley FC",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kyle-adams",
+  "name": "Kyle Adams",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "New Zealand",
+  "current_club": "Louisville City",
+  "career": [
+   "Rio Grande Valley FC",
+   "Real Monarchs",
+   "San Diego Loyal",
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sean-totsch",
+  "name": "Sean Totsch",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Rochester Rhinos",
+   "Louisville City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "club stalwart, captain; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "niko-hamalainen",
+  "name": "Niko Hamalainen",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Finland",
+  "current_club": "New Mexico United",
+  "career": [
+   "Botafogo",
+   "RWDM",
+   "HJK",
+   "KuPS",
+   "Haugesund",
+   "New Mexico United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "spoke in a 2020 interview about his experiences with US police as a Black man; otherwise little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dominique-badji",
+  "name": "Dominique Badji",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Senegal",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Nashville SC",
+   "Colorado Rapids",
+   "FC Cincinnati",
+   "Bandırmaspor",
+   "D.C. United",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "albert-dikwa-lega",
+  "name": "Albert Dikwa Lega",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Cameroon",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Orlando City B",
+   "Saint Louis FC",
+   "Pittsburgh Riverhounds",
+   "Rhode Island FC",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "memo-rodriguez",
+  "name": "Memo Rodríguez",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Houston Dynamo",
+   "LA Galaxy",
+   "Austin FC",
+   "Sporting Kansas City",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "santiago-patino",
+  "name": "Santiago Patino",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Colombia",
+  "current_club": "San Antonio FC",
+  "career": [
+   "San Antonio FC",
+   "Avaí",
+   "San Antonio FC",
+   "Ho Chi Minh City FC",
+   "Al-Merrikh",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kieran-sadlier",
+  "name": "Kieran Sadlier",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Republic of Ireland",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Cork City",
+   "Doncaster Rovers",
+   "Rotherham United",
+   "Bolton Wanderers",
+   "Wycombe Wanderers",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mats-rots",
+  "name": "Mats Rots",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Netherlands",
+  "current_club": "TSG Hoffenheim",
+  "career": [
+   "Twente",
+   "Heracles Almelo (loan)",
+   "TSG Hoffenheim"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "olivier-deman",
+  "name": "Olivier Deman",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Belgium",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Cercle Brugge",
+   "Werder Bremen",
+   "Royal Antwerp"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "karl-hein",
+  "name": "Karl Hein",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Estonia",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Arsenal",
+   "Real Valladolid",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chuki",
+  "name": "Chuki",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Real Valladolid",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eren-dinkci",
+  "name": "Eren Dinkci",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Türkiye",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Werder Bremen",
+   "1. FC Heidenheim",
+   "SC Freiburg",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "youri-regeer",
+  "name": "Youri Regeer",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Netherlands",
+  "current_club": "Werder Bremen",
+  "career": [
+   "Ajax",
+   "FC Twente",
+   "Ajax",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "james-hill",
+  "name": "James Hill",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "AFC Bournemouth",
+  "career": [
+   "Fleetwood Town",
+   "AFC Bournemouth"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joel-sonora",
+  "name": "Joel Soñora",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Miami FC",
+  "career": [
+   "Marítimo",
+   "Juárez",
+   "Huracán",
+   "Independiente Rivadavia",
+   "Colón",
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-wilson",
+  "name": "Peter Wilson",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Liberia",
+  "current_club": "Oakland Roots",
+  "career": [
+   "GIF Sundsvall",
+   "Sheriff Tiraspol",
+   "Podbeskidzie",
+   "Olympiakos Nicosia",
+   "Jerv",
+   "Oakland Roots"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing known against",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ihsan-sacko",
+  "name": "Ihsan Sacko",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "Strasbourg",
+   "Nice",
+   "Avranches",
+   "Thun",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "peter-rakovsky",
+  "name": "Peter Rakovsky",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "Phoenix Rising FC",
+  "career": [
+   "1. FC Nürnberg",
+   "Lierse",
+   "Lahti",
+   "Orange County SC",
+   "Phoenix Rising FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. identity: ESPN lists Peter Rakovsky; the Phoenix Rising goalkeeper is Patrick Rakovsky (born 1993, German), matching club, nation and age."
+ },
+ {
+  "id": "michael-bradley",
+  "name": "Michael Bradley",
+  "gender": "M",
+  "active": false,
+  "born": 1987,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Heerenveen",
+   "Borussia Mönchengladbach",
+   "Aston Villa",
+   "Chievo",
+   "Roma",
+   "Toronto FC"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 private, team-first",
+  "notes": "No incidents. Trophies: MLS Cup and Supporters' Shield 2017, Gold Cups 2007/2017. Recount: major_trophies 3: MLS Cup 2017, Gold Cups 2007/2017; Shield not counted."
+ },
+ {
+  "id": "kasey-keller",
+  "name": "Kasey Keller",
+  "gender": "M",
+  "active": false,
+  "born": 1969,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Rayo Vallecano",
+   "Tottenham Hotspur",
+   "Southampton",
+   "Borussia Mönchengladbach",
+   "Fulham",
+   "Seattle Sounders"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": "Recount: major_trophies 3: Gold Cups 2002, 2005, 2007; League Cup and Open Cups not counted."
+ },
+ {
+  "id": "joseba-etxeberria",
+  "name": "Joseba Etxeberria",
+  "gender": "M",
+  "active": false,
+  "born": 1977,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Sociedad",
+   "Athletic Club"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "7.5 unpaid final season",
+  "notes": "1995 move from Real Sociedad to Athletic via release clause; audit dropped it as a rival move. Played final season unpaid."
+ },
+ {
+  "id": "xabi-prieto",
+  "name": "Xabi Prieto",
+  "gender": "M",
+  "active": false,
+  "born": 1983,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Sociedad"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "scott-brown",
+  "name": "Scott Brown",
+  "gender": "M",
+  "active": false,
+  "born": 1985,
+  "nation": "Scotland",
+  "current_club": null,
+  "career": [
+   "Hibernian",
+   "Celtic",
+   "Aberdeen"
+  ],
+  "CH_now": 4.25,
+  "CH_why": "4 provocative wind-ups, mocking rivals",
+  "notes": ""
+ },
+ {
+  "id": "claudio-reyna",
+  "name": "Claudio Reyna",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Bayer Leverkusen",
+   "Wolfsburg",
+   "Rangers",
+   "Sunderland",
+   "Manchester City",
+   "New York Red Bulls"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "5 2022 pressure on US Soccer and Berhalter disclosure",
+  "notes": "2022 pressured US Soccer over son's treatment; 2023 report called conduct 'bullying', no policy breach."
+ },
+ {
+  "id": "tab-ramos",
+  "name": "Tab Ramos",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Figueres",
+   "Real Betis",
+   "Tigres UANL",
+   "MetroStars"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "diego-valeri",
+  "name": "Diego Valeri",
+  "gender": "M",
+  "active": false,
+  "born": 1986,
+  "nation": "Argentina",
+  "current_club": null,
+  "career": [
+   "Lanús",
+   "Porto",
+   "Almería",
+   "Lanús",
+   "Portland Timbers",
+   "Lanús"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "8 humble, community work",
+  "notes": ""
+ },
+ {
+  "id": "samuele-inacio",
+  "name": "Samuele Inácio",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Italy",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Atalanta (youth)",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "vitezslav-jaros",
+  "name": "Vítězslav Jaroš",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Czech Republic",
+  "current_club": "Liverpool",
+  "career": [
+   "Liverpool",
+   "St Patrick's Athletic (loan)",
+   "Notts County (loan)",
+   "Stockport County (loan)",
+   "Sturm Graz (loan)",
+   "Ajax (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": ""
+ },
+ {
+  "id": "joao-ortiz",
+  "name": "Joao Ortiz",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Ecuador",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Clan Juvenil",
+   "Deportivo Cuenca",
+   "Delfín",
+   "LDU Quito",
+   "Independiente del Valle",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ }
+]

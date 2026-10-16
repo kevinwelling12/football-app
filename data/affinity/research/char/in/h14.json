@@ -1,0 +1,650 @@
+[
+ {
+  "id": "jimmy-greaves",
+  "name": "Jimmy Greaves",
+  "gender": "M",
+  "active": false,
+  "born": 1940,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Tottenham Hotspur",
+   "West Ham United",
+   "Brentwood",
+   "Chelmsford City",
+   "Barnet",
+   "Woodford Town"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 humble, candid on alcoholism",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "michael-laudrup",
+  "name": "Michael Laudrup",
+  "gender": "M",
+  "active": false,
+  "born": 1964,
+  "nation": "Denmark",
+  "current_club": null,
+  "career": [
+   "Lazio",
+   "Juventus",
+   "Barcelona",
+   "Real Madrid",
+   "Vissel Kobe",
+   "Ajax"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 quit national team over coach 1990-93, defended Qatar",
+  "notes": "Moved directly Barcelona to Real Madrid 1994; as coach took jobs at Qatari clubs Lekhwiya (2014-15) and Al-Rayyan (2016-18); quit Denmark team 1990-93 over a dispute with the coach. Recount: money_league 0: Qatari jobs were as coach only."
+ },
+ {
+  "id": "gordon-banks",
+  "name": "Gordon Banks",
+  "gender": "M",
+  "active": false,
+  "born": 1937,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Chesterfield",
+   "Leicester City",
+   "Stoke City",
+   "Fort Lauderdale Strikers"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "+2 modest, gracious, Stoke president",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "denis-law",
+  "name": "Denis Law",
+  "gender": "M",
+  "active": false,
+  "born": 1940,
+  "nation": "Scotland",
+  "current_club": null,
+  "career": [
+   "Huddersfield Town",
+   "Manchester City",
+   "Torino",
+   "Manchester United",
+   "Manchester City"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 legacy trust, dementia openness, offset by fiery temper",
+  "notes": "1967 sent off for fighting Ian Ure (long suspension); released by Man United 1973 and joined Man City."
+ },
+ {
+  "id": "gunnar-nordahl",
+  "name": "Gunnar Nordahl",
+  "gender": "M",
+  "active": false,
+  "born": 1921,
+  "nation": "Sweden",
+  "current_club": null,
+  "career": [
+   "Hörnefors IF",
+   "Degerfors IF",
+   "IFK Norrköping",
+   "AC Milan",
+   "Roma",
+   "Karlstad BIK"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 humble fireman, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carlos-alberto",
+  "name": "Carlos Alberto",
+  "gender": "M",
+  "active": false,
+  "born": 1944,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Botafogo",
+   "Fluminense",
+   "Flamengo",
+   "New York Cosmos",
+   "California Surf",
+   "New York Cosmos"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "+0.5 public service, no issues",
+  "notes": "Moved from Fluminense to arch-rival Flamengo (1977). Coached Azerbaijan 2004-05."
+ },
+ {
+  "id": "gianni-rivera",
+  "name": "Gianni Rivera",
+  "gender": "M",
+  "active": false,
+  "born": 1943,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Alessandria",
+   "AC Milan"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 public service, offset by bans for attacking referees",
+  "notes": "No incident codes; early-1970s ban for public statements against referees (not a coded category)."
+ },
+ {
+  "id": "gheorghe-hagi",
+  "name": "Gheorghe Hagi",
+  "gender": "M",
+  "active": false,
+  "born": 1965,
+  "nation": "Romania",
+  "current_club": null,
+  "career": [
+   "Sportul Studențesc",
+   "Steaua București",
+   "Real Madrid",
+   "Brescia",
+   "Barcelona",
+   "Galatasaray"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "5 fiery temper, positive academy work (2000 punch scored separately)",
+  "notes": "2000 UEFA Cup final red card for punching Tony Adams; 1987 move to Steaua linked to Ceaușescu family."
+ },
+ {
+  "id": "oleg-blokhin",
+  "name": "Oleg Blokhin",
+  "gender": "M",
+  "active": false,
+  "born": 1952,
+  "nation": "Ukraine (Soviet Union)",
+  "current_club": null,
+  "career": [
+   "Dynamo Kyiv",
+   "Vorwärts Steyr",
+   "Aris Limassol"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "4.5 outbursts at journalists and officials, MP while national coach",
+  "notes": "No incident codes. Ukrainian MP 1998-2006 (first on the Communist list) while national coach; confrontational with journalists as coach."
+ },
+ {
+  "id": "dino-zoff",
+  "name": "Dino Zoff",
+  "gender": "M",
+  "active": false,
+  "born": 1942,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Udinese",
+   "Mantova",
+   "Napoli",
+   "Juventus"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "+2 dignified, quiet professional, resigned on principle 2000",
+  "notes": ""
+ },
+ {
+  "id": "matthias-sindelar",
+  "name": "Matthias Sindelar",
+  "gender": "M",
+  "active": false,
+  "born": 1903,
+  "nation": "Austria",
+  "current_club": null,
+  "career": [
+   "Hertha Wien",
+   "Austria Wien"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "5 refused German team but 1938 Aryanised café purchase, role disputed",
+  "notes": "1938: bought a Jewish-owned café through Nazi 'Aryanisation' at a below-value price; his role and knowledge are disputed. Declined to play for Germany after the Anschluss. Recount: major_trophies 1: Austrian title 1926 only; Mitropa Cups not counted."
+ },
+ {
+  "id": "roberto-carlos",
+  "name": "Roberto Carlos",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Inter",
+   "Real Madrid",
+   "Fenerbahçe",
+   "Corinthians",
+   "Anzhi Makhachkala",
+   "Delhi Dynamos"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 betting ambassadorships, 2017 child-support order",
+  "notes": "No incident codes. 2017 Rio court ordered 3 months' jail over unpaid child support (civil, not detained); paid ambassador for betting firms; walked off after banana thrown at him 2011."
+ },
+ {
+  "id": "gigi-riva",
+  "name": "Gigi Riva",
+  "gender": "M",
+  "active": false,
+  "born": 1944,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Legnano",
+   "Cagliari"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "8 humble, private, Sardinian loyalty",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "patrick-vieira",
+  "name": "Patrick Vieira",
+  "gender": "M",
+  "active": false,
+  "born": 1976,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Cannes",
+   "AC Milan",
+   "Arsenal",
+   "Juventus",
+   "Inter",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 Diambars, anti-racism voice vs 1999 spitting ban, combative, 2022 fan clash",
+  "notes": "Spat at Neil Ruddock 1999 (6-match ban); 2022 as Palace manager kicked out at a goading Everton fan (no action); ended career at Abu Dhabi-owned Man City and worked for City Football Group 2011-18; Diambars academy in Senegal since 2003. Recount: major_trophies 9: Confederations Cup not counted (WC, Euro, Serie A 1996 Milan, 3 PL, 3 Serie A Inter). Recount: red_card_violence 2: adds 2022 kick at a goading Everton fan on the pitch (as Palace manager)."
+ },
+ {
+  "id": "hugo-sanchez",
+  "name": "Hugo Sánchez",
+  "gender": "M",
+  "active": false,
+  "born": 1958,
+  "nation": "Mexico",
+  "current_club": null,
+  "career": [
+   "América",
+   "Rayo Vallecano",
+   "Atlante",
+   "LASK Linz",
+   "Dallas Burn",
+   "Atlético Celaya"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "4.5 outspoken, polemics, arrogant reputation",
+  "notes": "rival_move: Atlético Madrid to Real Madrid in 1985."
+ },
+ {
+  "id": "christine-sinclair",
+  "name": "Christine Sinclair",
+  "gender": "W",
+  "active": false,
+  "born": 1983,
+  "nation": "Canada",
+  "current_club": null,
+  "career": [
+   "FC Gold Pride",
+   "Western New York Flash",
+   "Portland Thorns"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "equal-pay fight, abuse accountability, humble",
+  "notes": "No incidents; led 2023 Canada pay-equity dispute, testified to Parliament."
+ },
+ {
+  "id": "birgit-prinz",
+  "name": "Birgit Prinz",
+  "gender": "W",
+  "active": false,
+  "born": 1977,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "1. FFC Frankfurt",
+   "Carolina Courage"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "humble, few causes",
+  "notes": "No incidents."
+ },
+ {
+  "id": "racheal-kundananji",
+  "name": "Racheal Kundananji",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Zambia",
+  "current_club": "Bay FC",
+  "career": [
+   "Madrid CFF",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incidents."
+ },
+ {
+  "id": "patrik-schick",
+  "name": "Patrik Schick",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Czechia",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Sparta Prague",
+   "Sampdoria",
+   "Roma",
+   "RB Leipzig",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "moussa-diaby",
+  "name": "Moussa Diaby",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Paris Saint-Germain",
+   "Crotone",
+   "Bayer Leverkusen",
+   "Aston Villa",
+   "Al-Ittihad",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "Joined Saudi club Al-Ittihad from Aston Villa in 2024 (reported ~€55-60m) after one Villa season; returned to Leverkusen Sept 2026."
+ },
+ {
+  "id": "jonathan-tah",
+  "name": "Jonathan Tah",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Hamburger SV",
+   "Fortuna Düsseldorf",
+   "Bayer Leverkusen",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ismael-saibari",
+  "name": "Ismael Saibari",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Morocco",
+  "current_club": "Bayern Munich",
+  "career": [
+   "PSV",
+   "Bayern Munich"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "banned by CAF for the AFCON 2025 final towel incident with Mendy, later apologised",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matthias-ginter",
+  "name": "Matthias Ginter",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "SC Freiburg",
+  "career": [
+   "SC Freiburg",
+   "Borussia Dortmund",
+   "Borussia Mönchengladbach",
+   "SC Freiburg"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "own foundation for disadvantaged children; no red card in his career",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mikel-merino",
+  "name": "Mikel Merino",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Arsenal",
+  "career": [
+   "Osasuna",
+   "Borussia Dortmund",
+   "Newcastle United",
+   "Real Sociedad",
+   "Arsenal"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "respected, no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pau-torres",
+  "name": "Pau Torres",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Aston Villa",
+  "career": [
+   "Villarreal",
+   "Málaga",
+   "Aston Villa"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "igor-thiago",
+  "name": "Igor Thiago",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Brentford",
+  "career": [
+   "Cruzeiro",
+   "Ludogorets",
+   "Club Brugge",
+   "Brentford"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "overcame hard upbringing; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pedro-neto",
+  "name": "Pedro Neto",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Portugal",
+  "current_club": "Chelsea",
+  "career": [
+   "Lazio",
+   "Wolverhampton Wanderers",
+   "Chelsea"
+  ],
+  "CH_now": 5.3,
+  "CH_why": "pushed a ball boy at PSG in March 2026, apologised, UEFA warning",
+  "notes": "No incident codes; March 2026 push on a PSG ball boy (apologised, UEFA warning only) reflected in CH."
+ },
+ {
+  "id": "joao-pedro",
+  "name": "João Pedro",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Chelsea",
+  "career": [
+   "Fluminense",
+   "Watford",
+   "Brighton & Hove Albion",
+   "Chelsea"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "no notable incidents; refused to celebrate against boyhood club Fluminense",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "exequiel-palacios",
+  "name": "Exequiel Palacios",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Ipswich Town",
+  "career": [
+   "River Plate",
+   "Bayer Leverkusen",
+   "Ipswich Town"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matheus-nunes",
+  "name": "Matheus Nunes",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Portugal",
+  "current_club": "Manchester City",
+  "career": [
+   "Ericeirense",
+   "Estoril",
+   "Sporting CP",
+   "Wolverhampton Wanderers",
+   "Manchester City"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no other issues; skipped training to force move (coded)",
+  "notes": "forced_transfer: missed two days of Wolves training in Aug 2023 to force his move to Manchester City; fined."
+ },
+ {
+  "id": "iliman-ndiaye",
+  "name": "Iliman Ndiaye",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Senegal",
+  "current_club": "Manchester City",
+  "career": [
+   "Sheffield United",
+   "Marseille",
+   "Everton",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nico-o-reilly",
+  "name": "Nico O'Reilly",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "England",
+  "current_club": "Manchester City",
+  "career": [
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "youri-tielemans",
+  "name": "Youri Tielemans",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Belgium",
+  "current_club": "Manchester United",
+  "career": [
+   "Anderlecht",
+   "Monaco",
+   "Leicester City",
+   "Aston Villa",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues; apologised to Villa fans over United remarks",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luke-shaw",
+  "name": "Luke Shaw",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Manchester United",
+  "career": [
+   "Southampton",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noussair-mazraoui",
+  "name": "Noussair Mazraoui",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Morocco",
+  "current_club": "Manchester United",
+  "career": [
+   "Ajax",
+   "Bayern Munich",
+   "Manchester United"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "refused to wear Pride jacket (2024); 2023 Gaza post controversy",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "benjamin-sesko",
+  "name": "Benjamin Sesko",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Slovenia",
+  "current_club": "Manchester United",
+  "career": [
+   "FC Liefering (loan)",
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ }
+]

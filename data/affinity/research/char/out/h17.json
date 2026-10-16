@@ -1,0 +1,661 @@
+[
+ {
+  "id": "konrad-laimer",
+  "name": "Konrad Laimer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Konrad_Laimer"
+  ]
+ },
+ {
+  "id": "kou-itakura",
+  "name": "Kou Itakura",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found; popular with Schalke fans",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kō_Itakura"
+  ]
+ },
+ {
+  "id": "jonathan-burkardt",
+  "name": "Jonathan Burkardt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Burkardt"
+  ]
+ },
+ {
+  "id": "ritsu-doan",
+  "name": "Ritsu Doan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ritsu_Dōan"
+  ]
+ },
+ {
+  "id": "yussuf-poulsen",
+  "name": "Yussuf Poulsen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.3,
+  "why": {
+   "SP": "one early red card, otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found (co-owns a Copenhagen café)",
+   "HU": "long-serving, low-key club leader"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yussuf_Poulsen"
+  ]
+ },
+ {
+  "id": "nadiem-amiri",
+  "name": "Nadiem Amiri",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nadiem_Amiri"
+  ]
+ },
+ {
+  "id": "willi-orban",
+  "name": "Willi Orbán",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "normal card record for a centre-back",
+   "VO": "nothing notable found",
+   "CO": "registered DKMS donor; gave stem cells to a blood-cancer patient mid-season 2023",
+   "HU": "long-time captain, low-key public profile"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Willi_Orbán"
+  ]
+ },
+ {
+  "id": "david-raum",
+  "name": "David Raum",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Raum"
+  ]
+ },
+ {
+  "id": "castello-lukeba",
+  "name": "Castello Lukeba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Castello_Lukeba"
+  ]
+ },
+ {
+  "id": "vincenzo-grifo",
+  "name": "Vincenzo Grifo",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off 2019 for grabbing Abraham's face in a melee after Abraham felled his coach",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vincenzo_Grifo"
+  ]
+ },
+ {
+  "id": "niclas-fullkrug",
+  "name": "Niclas Füllkrug",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.3,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "sent a message and signed shirt to a fan he injured in a Euro 2024 warm-up",
+   "HU": "seen as down to earth; took less money to return to Bremen"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niclas_Füllkrug",
+   "https://www.bundesliga.com/en/bundesliga/news/bundesliga-borussia-dortmund-werder-bremen-niclas-fullkrug-26479",
+   "https://www.infranken.de/lk/erlangenhoechstadt/beim-warmmachen-nationalstuermer-niclas-fuellkrug-schiesst-deutschland-fan-ins-krankenhaus-hymne-auf-der-trage-mitgesungen-art-5884333,PRINT"
+  ]
+ },
+ {
+  "id": "riccardo-calafiori",
+  "name": "Riccardo Calafiori",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Riccardo_Calafiori"
+  ]
+ },
+ {
+  "id": "ezri-konsa",
+  "name": "Ezri Konsa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found (heritage interview in PL No Room For Racism series)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ezri_Konsa",
+   "https://premierleague.com/news/3952813"
+  ]
+ },
+ {
+  "id": "christos-tzolis",
+  "name": "Christos Tzolis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christos_Tzolis"
+  ]
+ },
+ {
+  "id": "nicolas-jackson",
+  "name": "Nicolas Jackson",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two 2025 reds: elbow on Botman (serious foul play) and a reckless Club World Cup challenge",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Jackson"
+  ]
+ },
+ {
+  "id": "ross-barkley",
+  "name": "Ross Barkley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.3,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2019 drunken taxi-fare altercation; says he has since stopped drinking"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ross_Barkley"
+  ]
+ },
+ {
+  "id": "joao-gomes",
+  "name": "João Gomes",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "combative; reds on FA Cup debut 2024 and for kicking out at Rutter on Villa debut 2026",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/João_Gomes_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "caoimhin-kelleher",
+  "name": "Caoimhín Kelleher",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caoimhín_Kelleher"
+  ]
+ },
+ {
+  "id": "mamadou-sangare",
+  "name": "Mamadou Sangare",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red early in a 2024 Conference League quarter-final for Rapid",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mamadou_Sangaré"
+  ]
+ },
+ {
+  "id": "ferdi-kadioglu",
+  "name": "Ferdi Kadioglu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferdi_Kadıoğlu"
+  ]
+ },
+ {
+  "id": "maxence-lacroix",
+  "name": "Maxence Lacroix",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red v Man United 2025, otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxence_Lacroix"
+  ]
+ },
+ {
+  "id": "levi-colwill",
+  "name": "Levi Colwill",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "associate director of Sholing FC; funds its stand, 3G pitch, cheap family tickets and free youth training",
+   "HU": "gives back to hometown club quietly"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levi_Colwill",
+   "https://premierleague.com/news/4271836",
+   "https://sholingfc.co.uk/?p=516"
+  ]
+ },
+ {
+  "id": "wesley-fofana",
+  "name": "Wesley Fofana",
+  "SP": 5.3,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "two Premier League reds in 2025-26",
+   "VO": "publicly posts and condemns racist abuse he receives (2025, 2026), calls for real action",
+   "CO": "nothing notable found",
+   "HU": "publicly attacked Leicester over his transfer; repeat driving bans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wesley_Fofana_(footballer)",
+   "https://www.skysports.com/football/news/12040/13510606/wesley-fofana-and-hannibal-subjected-to-racist-abuse-after-chelseas-draw-against-burnley",
+   "https://www.si.com/soccer/chelsea-burnley-stars-racially-abused-social-media/app/"
+  ]
+ },
+ {
+  "id": "daichi-kamada",
+  "name": "Daichi Kamada",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found (disputed Lazio contract claims)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daichi_Kamada"
+  ]
+ },
+ {
+  "id": "adam-wharton",
+  "name": "Adam Wharton",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Wharton"
+  ]
+ },
+ {
+  "id": "yeremy-pino",
+  "name": "Yéremy Pino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yeremy_Pino"
+  ]
+ },
+ {
+  "id": "jordan-pickford",
+  "name": "Jordan Pickford",
+  "SP": 4.8,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "wind-ups and time-wasting reputation; reckless 2020 challenge that injured Van Dijk",
+   "VO": "nothing notable found",
+   "CO": "£5,000 to Sunderland causes in the pandemic; signed boots for a children's Christmas raffle",
+   "HU": "combative persona; 2019 alleged street fracas, 2026 careless-driving plea"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Pickford",
+   "https://shieldsgazette.com/news/people/england-star-jordan-pickford-donates-football-boots-to-south-shields-cause-helping-give-disadvantaged-children-a-better-christmas-3945389"
+  ]
+ },
+ {
+  "id": "kobbie-mainoo",
+  "name": "Kobbie Mainoo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "club and youth coach describe him as humble and grounded"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kobbie_Mainoo",
+   "https://uk.sports.yahoo.com/news/obviously-did-something-club-gave-070007652.html"
+  ]
+ },
+ {
+  "id": "harry-maguire",
+  "name": "Harry Maguire",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable on the pitch",
+   "VO": "joined United players condemning racist abuse of teammates",
+   "CO": "PFA Community Champion 2020-21; patron of Sheffield Children's Hospital charity; food parcels for elderly in Mosborough",
+   "HU": "handled abuse and lost captaincy with dignity; 2020 Mykonos conviction"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harry_Maguire",
+   "https://www.manutd.com/en/news/detail/man-utd-duo-harry-maguire-and-amy-turner-named-pfa-community-champions-2020-2021",
+   "https://bigissue.com/community-partnerships/harry-maguire-sets-up-food-package-network-for-elderly-people-in-his-hometown"
+  ]
+ },
+ {
+  "id": "diogo-dalot",
+  "name": "Diogo Dalot",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for arguing with the referee v Liverpool, Dec 2023",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diogo_Dalot"
+  ]
+ },
+ {
+  "id": "sven-botman",
+  "name": "Sven Botman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sven_Botman"
+  ]
+ },
+ {
+  "id": "malick-thiaw",
+  "name": "Malick Thiaw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Thiaw"
+  ]
+ },
+ {
+  "id": "murillo",
+  "name": "Murillo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Murillo_(footballer)"
+  ]
+ },
+ {
+  "id": "daniel-munoz",
+  "name": "Daniel Muñoz",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red within a minute of Colombia debut; elbow on Ugarte saw him sent off in the 2024 Copa semi",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Muñoz_(footballer)"
+  ]
+ },
+ {
+  "id": "nikola-milenkovic",
+  "name": "Nikola Milenkovic",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "early-career red and four-match ban for a heavy foul at Partizan",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikola_Milenković"
+  ]
+ },
+ {
+  "id": "thomas-meunier",
+  "name": "Thomas Meunier",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "outspoken in interviews; worked as a postman before turning pro; 2012 speeding fine"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thomas_Meunier"
+  ]
+ }
+]

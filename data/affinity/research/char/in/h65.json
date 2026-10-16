@@ -1,0 +1,586 @@
+[
+ {
+  "id": "eliot-goldthorp",
+  "name": "Eliot Goldthorp",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Bradford City",
+   "Farsley Celtic",
+   "Des Moines Menace",
+   "Whitecaps FC 2",
+   "Lexington SC",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jackson-walti",
+  "name": "Jackson Walti",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Austin FC II",
+   "Colorado Rapids 2",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kelp-lasse",
+  "name": "Kelp Lasse",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Fortuna Köln",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. ESPN name order reversed: Lasse Kelp."
+ },
+ {
+  "id": "nicholas-scardina",
+  "name": "Nicholas Scardina",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Portland Timbers 2",
+   "Charlotte FC",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hugo-bacharach",
+  "name": "Hugo Bacharach",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Flint City Bucks",
+   "Minnesota United FC",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amos-shapiro-thompson",
+  "name": "Amos Shapiro-Thompson",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Rhode Island FC",
+  "career": [
+   "Legia Warsaw II",
+   "Western Mass Pioneers",
+   "New York Red Bulls II",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yutaro-tsukada",
+  "name": "Yutaro Tsukada",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Japan",
+  "current_club": "Orlando City",
+  "career": [
+   "Orlando City B",
+   "Orlando City",
+   "Rhode Island FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. On loan from Orlando City for 2026."
+ },
+ {
+  "id": "forster-ajago",
+  "name": "Forster Ajago",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Ghana",
+  "current_club": "Sacramento Republic FC",
+  "career": [
+   "Nashville SC",
+   "Real Salt Lake",
+   "Sacramento Republic FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joseph-batrouni",
+  "name": "Joseph Batrouni",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "San Antonio FC",
+  "career": [
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "santiago-suarez",
+  "name": "Santiago Suarez",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "New England Revolution",
+  "career": [
+   "New England Revolution",
+   "Birmingham Legion FC",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucio-berron",
+  "name": "Lucio Berrón",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Argentina",
+  "current_club": "San Antonio FC",
+  "career": [
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "curt-calov",
+  "name": "Curt Calov",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Minnesota United FC 2",
+  "career": [
+   "Minnesota United FC 2",
+   "San Antonio FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harvey-neville",
+  "name": "Harvey Neville",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Inter Miami",
+   "Phoenix Rising FC",
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Fort Lauderdale CF and Portland Timbers 2 (reserve sides) and a 2025 loan to San Antonio left out of clubs."
+ },
+ {
+  "id": "tyshawn-rose",
+  "name": "Tyshawn Rose",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. No Wikipedia page; club announcement only (age 25, birth year estimated). North Texas SC and Huntsville City FC are MLS reserve sides, left out of clubs."
+ },
+ {
+  "id": "rafferty-pedder",
+  "name": "Rafferty Pedder",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. No Wikipedia page; club bio only (born 2002, Maidstone). QPR years not confirmed, Oxford City and Tacoma Defiance (reserve side) left out of clubs."
+ },
+ {
+  "id": "antonio-gomez",
+  "name": "Antonio Gomez",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Sporting JAX",
+  "career": [
+   "Sporting JAX"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. No Wikipedia page; club releases only (age 24, from Las Vegas). On loan from Austin FC II (reserve side, 2024-25, left out of clubs)."
+ },
+ {
+  "id": "sebastian-cruz",
+  "name": "Sebastian Cruz",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Sporting Kansas City",
+   "AV Alta FC",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. Sporting KC II (reserve side) left out of clubs."
+ },
+ {
+  "id": "brian-schaefer",
+  "name": "Brian Schaefer",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes. On loan from FC Cincinnati 2 (reserve side); short 2025 loan to Indy Eleven skipped."
+ },
+ {
+  "id": "karsen-henderlong",
+  "name": "Karsen Henderlong",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Tampa Bay Rowdies",
+  "career": [
+   "Indy Eleven",
+   "FC Naples",
+   "Tampa Bay Rowdies"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known for or against.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felipe-rodriguez",
+  "name": "Felipe Rodriguez",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Uruguay",
+  "current_club": "Miami FC",
+  "career": [
+   "Miami FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia page found; earlier career not confirmed; born year estimated from ESPN age 22."
+ },
+ {
+  "id": "nat-borchers",
+  "name": "Nat Borchers",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Colorado Rapids",
+   "Odd Grenland",
+   "Real Salt Lake",
+   "Portland Timbers"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 character, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "will-johnson",
+  "name": "Will Johnson",
+  "gender": "M",
+  "active": false,
+  "born": 1987,
+  "nation": "Canada",
+  "current_club": null,
+  "career": [
+   "Chicago Fire",
+   "Heerenveen",
+   "Real Salt Lake",
+   "Portland Timbers",
+   "Toronto FC",
+   "Orlando City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 no issues or causes",
+  "notes": "Recount: major_trophies 3: MLS Cups 2009, 2015, 2017 only."
+ },
+ {
+  "id": "mussa-kaba",
+  "name": "Mussa Kaba",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents. Dortmund since U11; first professional contract May 2026."
+ },
+ {
+  "id": "harvey-davies",
+  "name": "Harvey Davies",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Liverpool",
+  "career": [
+   "Liverpool",
+   "Crewe Alexandra (loan)",
+   "Crawley Town (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes; one_club = only Liverpool contract, clubs_count includes two season loans."
+ },
+ {
+  "id": "gage-guerra",
+  "name": "Gage Guerra",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Portland Timbers",
+  "career": [
+   "Army Black Knights (college)",
+   "Louisville Cardinals (college)",
+   "Portland Timbers 2",
+   "Portland Timbers"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "andrik-markgraf",
+  "name": "Andrik Markgraf",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents; no senior competitive appearance found."
+ },
+ {
+  "id": "cooper-sanchez",
+  "name": "Cooper Sanchez",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "USA",
+  "current_club": "Atlanta United",
+  "career": [
+   "Atlanta United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ervin-torres",
+  "name": "Ervin Torres",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Austin FC",
+  "career": [
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carson-locker",
+  "name": "Carson Locker",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Las Vegas Lights FC",
+  "career": [
+   "Las Vegas Lights FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. No Wikipedia page; only the club roster (born 8 Oct 2007). Join year not found; 2026 used."
+ },
+ {
+  "id": "malcolm-fry",
+  "name": "Malcolm Fry",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Lexington SC",
+  "career": [
+   "New England Revolution",
+   "Lexington SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known incidents or causes",
+  "notes": "No incident codes. At Lexington on loan from New England (Revolution contract runs through 2026)."
+ },
+ {
+  "id": "brandon-dayes",
+  "name": "Brandon Dayes",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "USA",
+  "current_club": "Louisville City",
+  "career": [
+   "Louisville City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. No Wikipedia article; only the club squad list. Born year from ESPN age."
+ },
+ {
+  "id": "efren-solis",
+  "name": "Efren Solis",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyson-espy",
+  "name": "Tyson Espy",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "USA",
+  "current_club": "Orange County SC",
+  "career": [
+   "Orange County SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximiliano-viera",
+  "name": "Maximiliano Viera",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Pittsburgh Riverhounds",
+  "career": [
+   "Chicago Fire 2",
+   "Pittsburgh Riverhounds"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes. Chicago Fire 2 years approximate (club bio gives none); Wikipedia's Maximiliano Viera is a different, Uruguayan player."
+ },
+ {
+  "id": "jack-jewsbury",
+  "name": "Jack Jewsbury",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Kansas City Wizards",
+   "Portland Timbers"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 humble, stayed in Portland",
+  "notes": "No incident codes; MLS Cup 2015 counted as league title."
+ },
+ {
+  "id": "silas-ostrzinski",
+  "name": "Silas Ostrzinski",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ }
+]

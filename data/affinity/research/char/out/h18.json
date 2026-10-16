@@ -1,0 +1,655 @@
+[
+ {
+  "id": "jan-paul-van-hecke",
+  "name": "Jan Paul van Hecke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red for a reckless challenge (Blackburn, 2021); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Paul_van_Hecke"
+  ]
+ },
+ {
+  "id": "rodrigo-bentancur",
+  "name": "Rodrigo Bentancur",
+  "SP": 3.5,
+  "VO": 4.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "sent off for violent conduct, headbutting Luke Shaw (Oct 2026)",
+   "VO": "seven-match FA ban and £100,000 fine for a racist remark about Son (2024)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Bentancur"
+  ]
+ },
+ {
+  "id": "dominic-solanke",
+  "name": "Dominic Solanke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "accepted Euro 2024 omission gracefully"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominic_Solanke"
+  ]
+ },
+ {
+  "id": "mateus-fernandes",
+  "name": "Mateus Fernandes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mateus_Fernandes_(footballer)"
+  ]
+ },
+ {
+  "id": "savio",
+  "name": "Sávio",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sávio_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "miguel-almiron",
+  "name": "Miguel Almirón",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for diving (2019), booked for simulation and sent off in a confrontation at the 2026 World Cup, studs red (2019)",
+   "VO": "nothing notable found",
+   "CO": "founded Sembrando Felicidad (meals for hospitals, Asunción); gave $50,000 to Atlanta youth and childhood-cancer charities (2025)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miguel_Almirón",
+   "https://www.atlutd.com/news/miguel-almiron-visits-agape-youth-and-family-center-cure-childhood-cancer-after-donations"
+  ]
+ },
+ {
+  "id": "junior-alonso",
+  "name": "Júnior Alonso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Júnior_Alonso"
+  ]
+ },
+ {
+  "id": "andre-gomes",
+  "name": "André Gomes",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three-match ban for standing on Mitrović's leg (2019)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/André_Gomes"
+  ]
+ },
+ {
+  "id": "josef-martinez",
+  "name": "Josef Martínez",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "sent off after an altercation with Victor Wanyama (2021)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "publicly questioned teammates' commitment; fell out with Atlanta and was frozen out"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josef_Martínez",
+   "https://fantasy.mlssoccer.com/news/josef-martinez-calls-out-atlanta-united-players-front-office"
+  ]
+ },
+ {
+  "id": "sergio-reguilon",
+  "name": "Sergio Reguilón",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sergio_Reguilón"
+  ]
+ },
+ {
+  "id": "maya-yoshida",
+  "name": "Maya Yoshida",
+  "SP": 5.5,
+  "VO": 6.0,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three red cards incl. an unprofessional foul (2012); otherwise unremarkable for a centre-back",
+   "VO": "speaks on each Hiroshima and Nagasaki anniversary; Japan players' union president (neutral)",
+   "CO": "pledged 1% of salary to the Saints Foundation; bought 10,000 masks for Genoa hospitals (2020)",
+   "HU": "takes responsibility for errors; angrily confronted Saudi fans (2021)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maya_Yoshida"
+  ]
+ },
+ {
+  "id": "kyogo-furuhashi",
+  "name": "Kyogo Furuhashi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "teammate O'Riley called him the nicest man he has met; cheerful, hard-working"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyogo_Furuhashi",
+   "https://planetsport.com/soccer/news/matt-oriley-blown-away-celtic-star-kyogo-furuhashis-relentless-positivity"
+  ]
+ },
+ {
+  "id": "andre-blake",
+  "name": "Andre Blake",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "runs the Andre Blake Foundation; patron of the Sigma Run for Jamaican hospitals and a deaf school",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andre_Blake",
+   "http://past.jamaica-gleaner.com/article/sports/20231213/sigma-run-names-blake-clayton-2024-patrons"
+  ]
+ },
+ {
+  "id": "eric-maxim-choupo-moting",
+  "name": "Eric Maxim Choupo-Moting",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Maxim_Choupo-Moting"
+  ]
+ },
+ {
+  "id": "ary-borges",
+  "name": "Ary Borges",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "said on first call-up she wanted to help fight racism; criticised Copa América conditions (neutral)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ary_Borges"
+  ]
+ },
+ {
+  "id": "sveindis-jonsdottir",
+  "name": "Sveindís Jónsdóttir",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sveindís_Jane_Jónsdóttir"
+  ]
+ },
+ {
+  "id": "ally-sentnor",
+  "name": "Ally Sentnor",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ally_Sentnor"
+  ]
+ },
+ {
+  "id": "julia-grosso",
+  "name": "Julia Grosso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "modest in interviews, surprised young girls look up to her"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julia_Grosso"
+  ]
+ },
+ {
+  "id": "jordyn-huitema",
+  "name": "Jordyn Huitema",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordyn_Huitema"
+  ]
+ },
+ {
+  "id": "midge-purce",
+  "name": "Midge Purce",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "outspoken equal-pay advocate, spoke at the White House (2021)",
+   "CO": "co-founded and sits on the board of the Black Women's Player Collective, a nonprofit for Black girls in sport",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Midge_Purce"
+  ]
+ },
+ {
+  "id": "emily-sonnett",
+  "name": "Emily Sonnett",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emily_Sonnett"
+  ]
+ },
+ {
+  "id": "jane-campbell",
+  "name": "Jane Campbell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "volunteer coach at Rice University (2025)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jane_Campbell_(soccer)"
+  ]
+ },
+ {
+  "id": "avery-patterson",
+  "name": "Avery Patterson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Avery_Patterson"
+  ]
+ },
+ {
+  "id": "lisa-boattin",
+  "name": "Lisa Boattin",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lisa_Boattin"
+  ]
+ },
+ {
+  "id": "croix-bethune",
+  "name": "Croix Bethune",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Croix_Bethune"
+  ]
+ },
+ {
+  "id": "kailen-sheridan",
+  "name": "Kailen Sheridan",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kailen_Sheridan"
+  ]
+ },
+ {
+  "id": "ashley-sanchez",
+  "name": "Ashley Sanchez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ashley_Sanchez"
+  ]
+ },
+ {
+  "id": "feli-rauch",
+  "name": "Feli Rauch",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "came out publicly as a lesbian (2023)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felicitas_Rauch"
+  ]
+ },
+ {
+  "id": "oihane-hernandez",
+  "name": "Oihane Hernández",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oihane_Hernández"
+  ]
+ },
+ {
+  "id": "luana",
+  "name": "Luana",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luana_(footballer)"
+  ]
+ },
+ {
+  "id": "emma-sears",
+  "name": "Emma Sears",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emma_Sears"
+  ]
+ },
+ {
+  "id": "perle-morroni",
+  "name": "Perle Morroni",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "withdrew from France squad over camp conditions (neutral)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perle_Morroni"
+  ]
+ },
+ {
+  "id": "ludmila",
+  "name": "Ludmila",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three-match ban for a fight with Rosemonde Kouassi (2024)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ludmila_(footballer)"
+  ]
+ },
+ {
+  "id": "sofia-huerta",
+  "name": "Sofia Huerta",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "spoke on systemic racism and her own mental health struggles (2020)",
+   "CO": "auction raised over $12,000 for therapy access for Black women and girls (2020)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Huerta",
+   "https://reignfc.com/news/2020/6/12/sofia-huerta-auctioning-off-gear-for-charity-r8pf6"
+  ]
+ },
+ {
+  "id": "tara-rudd",
+  "name": "Tara Rudd",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tara_Rudd"
+  ]
+ },
+ {
+  "id": "sofia-cantore",
+  "name": "Sofia Cantore",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sofia_Cantore"
+  ]
+ }
+]

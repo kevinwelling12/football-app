@@ -1,0 +1,658 @@
+[
+ {
+  "id": "pablo-fornals",
+  "name": "Pablo Fornals",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pablo_Fornals"
+  ]
+ },
+ {
+  "id": "marc-bartra",
+  "name": "Marc Bartra",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one straight red at Trabzonspor (2022), otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Bartra"
+  ]
+ },
+ {
+  "id": "abde-ezzalzouli",
+  "name": "Abde Ezzalzouli",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abde_Ezzalzouli"
+  ]
+ },
+ {
+  "id": "troy-parrott",
+  "name": "Troy Parrott",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "only red was a U21 second yellow after Kean pushed him in the face",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Troy_Parrott"
+  ]
+ },
+ {
+  "id": "pape-gueye",
+  "name": "Pape Gueye",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "part of Senegal's walk-off protest in the 2025 AFCON final, ruled a forfeit; described as aggressive and highly competitive",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2020 Watford U-turn blamed on agent advice; otherwise nothing notable"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pape_Gueye"
+  ]
+ },
+ {
+  "id": "alberto-moleiro",
+  "name": "Alberto Moleiro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alberto_Moleiro"
+  ]
+ },
+ {
+  "id": "ayoze-perez",
+  "name": "Ayoze Pérez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; dropped by Leicester in 2021 for a COVID-protocol breach (off-pitch)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ayoze_P%C3%A9rez"
+  ]
+ },
+ {
+  "id": "georges-mikautadze",
+  "name": "Georges Mikautadze",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card, overturned on appeal (2023-24)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Georges_Mikautadze"
+  ]
+ },
+ {
+  "id": "angelo-stiller",
+  "name": "Angelo Stiller",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; was the target of an opponent's mocking in 2025, not the instigator",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angelo_Stiller",
+   "https://de.wikipedia.org/wiki/Angelo_Stiller",
+   "https://www.flashscore.com/news/soccer-europa-league-go-ahead-eagles-fine-edvardsen-for-mocking-appearance-of-stuttgart-s-stiller/dEx1SM9N"
+  ]
+ },
+ {
+  "id": "gianfranco-zola",
+  "name": "Gianfranco Zola",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 9.0,
+  "why": {
+   "SP": "known for fair play; Scirea and Facchetti prizes, Fair Play Menarini career award; 1994 World Cup red seen as harsh",
+   "VO": "nothing notable found",
+   "CO": "charity matches incl. Soccer Aid 2006; OBE",
+   "HU": "universally liked, applauded by both sets of fans; gave up three months' salary leaving Cagliari as coach"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianfranco_Zola",
+   "https://www.fairplaymenarini.com/en/hall-of-fame/2026/gianfranco-zola"
+  ]
+ },
+ {
+  "id": "kristine-lilly",
+  "name": "Kristine Lilly",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "USWNT 1995-96 pay holdout per earlier notes (her role not confirmed in sources opened)",
+   "CO": "helps run a youth soccer camp with Hamm and Venturini-Hoch",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristine_Lilly"
+  ]
+ },
+ {
+  "id": "robbie-fowler",
+  "name": "Robbie Fowler",
+  "SP": 4.0,
+  "VO": 4.0,
+  "CO": 6.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "banned for homophobic gestures at Le Saux and a provocative celebration (1999); told the referee Seaman had not fouled him (1996)",
+   "VO": "homophobic taunts at Le Saux; dockers T-shirt (labour cause, neutral)",
+   "CO": "Hillsborough charity match, charity golf days for an ichthyosis charity, Soccer Aid",
+   "HU": "nothing notable either way; public feud with Houllier in his autobiography"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robbie_Fowler"
+  ]
+ },
+ {
+  "id": "jurgen-kohler",
+  "name": "Jürgen Kohler",
+  "SP": 6.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "hard-tackling but fair stopper; straight red for a penalty-area trip in the 2002 UEFA Cup final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "noted for professionalism and leadership; nothing on modesty"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/J%C3%BCrgen_Kohler"
+  ]
+ },
+ {
+  "id": "ian-wright",
+  "name": "Ian Wright",
+  "SP": 3.5,
+  "VO": 8.5,
+  "CO": 7.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "poor disciplinary record; trashed the referee's room after a red card at West Ham",
+   "VO": "exposed racist abuse and pressed platforms to act; documentary on childhood domestic abuse; backs women's football",
+   "CO": "Football Behind Bars for young offenders; OBE for services to charity",
+   "HU": "flamboyant celebrations; open about his vulnerabilities"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ian_Wright",
+   "https://www.voice-online.co.uk/sport/football/2020/05/12/im-fighting-this-one-all-the-way-says-ian-wright/"
+  ]
+ },
+ {
+  "id": "carney-chukwuemeka",
+  "name": "Carney Chukwuemeka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carney_Chukwuemeka"
+  ]
+ },
+ {
+  "id": "james-trafford",
+  "name": "James Trafford",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Trafford"
+  ]
+ },
+ {
+  "id": "daniel-james",
+  "name": "Daniel James",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card, for a challenge on Kovačić (2022)",
+   "VO": "nothing notable found",
+   "CO": "Swansea City Community Champion 2018-19",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_James_(footballer)"
+  ]
+ },
+ {
+  "id": "frederik-rnnow",
+  "name": "Frederik Rønnow",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one sending-off in 2016-17 Europa League qualifiers; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frederik_R%C3%B8nnow"
+  ]
+ },
+ {
+  "id": "jeong-woo-yeong",
+  "name": "Jeong Woo-yeong",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeong_Woo-yeong"
+  ]
+ },
+ {
+  "id": "andras-schafer",
+  "name": "András Schäfer",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "two red cards for rough play (2024, 2026), the second widely criticised",
+   "VO": "nothing notable found",
+   "CO": "donated about 37,500 euros to save boyhood club Haladás from bankruptcy (2024)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andr%C3%A1s_Sch%C3%A4fer"
+  ]
+ },
+ {
+  "id": "michel-aebischer",
+  "name": "Michel Aebischer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michel_Aebischer"
+  ]
+ },
+ {
+  "id": "robert-skov",
+  "name": "Robert Skov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Skov"
+  ]
+ },
+ {
+  "id": "tobin-heath",
+  "name": "Tobin Heath",
+  "SP": 6.0,
+  "VO": 8.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "2019 equal-pay plaintiff, spoke at the White House on equal pay, honoured for the advocacy; came out publicly in 2022",
+   "CO": "Grassroot Soccer global ambassador, visited programmes in South Africa and Zambia",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tobin_Heath",
+   "https://justwomenssports.com/reads/tobin-heath-white-house-uswnt-soccer-equal-pay"
+  ]
+ },
+ {
+  "id": "facundo-medina",
+  "name": "Facundo Medina",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "combative, card-heavy defender per earlier notes (not confirmed in sources opened); 2021 violence case partly admitted is off-pitch, not scored here",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Facundo_Medina",
+   "https://de.wikipedia.org/wiki/Facundo_Medina",
+   "https://www.c5n.com/deportes/la-denuncia-violencia-genero-que-salpica-facundo-medina-convocado-al-mundial-2026-n239283"
+  ]
+ },
+ {
+  "id": "ezequiel-fernandez",
+  "name": "Ezequiel Fernández",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "stoppage-time red card on his Leverkusen debut (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ezequiel_Fern%C3%A1ndez_(footballer)"
+  ]
+ },
+ {
+  "id": "robert-andrich",
+  "name": "Robert Andrich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robert_Andrich"
+  ]
+ },
+ {
+  "id": "nathaniel-brown",
+  "name": "Nathaniel Brown",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathaniel_Brown_(footballer)"
+  ]
+ },
+ {
+  "id": "josip-stanisic",
+  "name": "Josip Stanisic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josip_Stani%C5%A1i%C4%87"
+  ]
+ },
+ {
+  "id": "tom-bischof",
+  "name": "Tom Bischof",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tom_Bischof"
+  ]
+ },
+ {
+  "id": "tim-kleindienst",
+  "name": "Tim Kleindienst",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Kleindienst"
+  ]
+ },
+ {
+  "id": "robin-koch",
+  "name": "Robin Koch",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "known for an unglamorous, off-the-grid lifestyle; avoided living on his father's name"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Koch"
+  ]
+ },
+ {
+  "id": "raphael-onyedika",
+  "name": "Raphael Onyedika",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Raphael_Onyedika"
+  ]
+ },
+ {
+  "id": "noah-atubolu",
+  "name": "Noah Atubolu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "voluntary social year at SC Freiburg; coached the club's ball schools with primary schools",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Atubolu"
+  ]
+ },
+ {
+  "id": "can-uzun",
+  "name": "Can Uzun",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Can_Uzun"
+  ]
+ },
+ {
+  "id": "fabian-rieder",
+  "name": "Fabian Rieder",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabian_Rieder"
+  ]
+ },
+ {
+  "id": "michael-gregoritsch",
+  "name": "Michael Gregoritsch",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "urged Austrians to reject far-right ideas after racist chants at Euro 2024, drawing criticism",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found (2019 episode not confirmed in sources opened)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Gregoritsch",
+   "https://www.sport1.de/news/fussball/em/2024/07/rechtsextreme-vorfalle-gregoritsch-mit-eindringlichem-appell"
+  ]
+ }
+]

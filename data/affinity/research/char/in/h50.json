@@ -1,0 +1,636 @@
+[
+ {
+  "id": "kervin-arriaga",
+  "name": "Kervin Arriaga",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Honduras",
+  "current_club": "AEK Athens",
+  "career": [
+   "Marathón",
+   "Minnesota United",
+   "Partizan",
+   "Real Zaragoza",
+   "Levante",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zini",
+  "name": "Zini",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Angola",
+  "current_club": "AEK Athens",
+  "career": [
+   "1º de Agosto",
+   "AEK Athens",
+   "Levadiakos"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "xavi-espart",
+  "name": "Xavi Espart",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andreas-helmersen",
+  "name": "Andreas Helmersen",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Rosenborg",
+   "Ranheim",
+   "Raufoss",
+   "Egersund",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joshua-kitolano",
+  "name": "Joshua Kitolano",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Odd",
+   "Sparta Rotterdam",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sondre-auklend",
+  "name": "Sondre Auklend",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Viking",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ole-didrik-blomberg",
+  "name": "Ole Didrik Blomberg",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Gneist",
+   "Åsane",
+   "Brann",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fredrik-sjvold",
+  "name": "Fredrik Sjøvold",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Tiller",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ola-brynhildsen",
+  "name": "Ola Brynhildsen",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Stabæk",
+   "Molde",
+   "Midtjylland",
+   "Toronto FC",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mamadou-diakhon",
+  "name": "Mamadou Diakhon",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Senegal",
+  "current_club": "Club Brugge",
+  "career": [
+   "Reims",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jan-virgili",
+  "name": "Jan Virgili",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Spain",
+  "current_club": "Club Brugge",
+  "career": [
+   "Mallorca",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thijs-kraaijeveld",
+  "name": "Thijs Kraaijeveld",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists CD-L; Wikipedia lists midfielder."
+ },
+ {
+  "id": "sascha-horvath",
+  "name": "Sascha Horvath",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "Austria Wien",
+   "Sturm Graz",
+   "Dynamo Dresden",
+   "TSV Hartberg",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "george-bello",
+  "name": "George Bello",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "LASK",
+  "career": [
+   "Atlanta United",
+   "Arminia Bielefeld",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "xavier-mbuyamba",
+  "name": "Xavier Mbuyamba",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Netherlands",
+  "current_club": "LASK",
+  "career": [
+   "MVV",
+   "Volendam",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kasper-jrgensen",
+  "name": "Kasper Jørgensen",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Denmark",
+  "current_club": "LASK",
+  "career": [
+   "Lyngby",
+   "AaB",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "melayro-bogarde",
+  "name": "Melayro Bogarde",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Suriname",
+  "current_club": "LASK",
+  "career": [
+   "TSG Hoffenheim",
+   "PEC Zwolle",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "moses-usor",
+  "name": "Moses Usor",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Nigeria",
+  "current_club": "LASK",
+  "career": [
+   "Slavia Prague",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "florian-flecker",
+  "name": "Florian Flecker",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "Wolfsberger AC",
+   "TSV Hartberg",
+   "Union Berlin",
+   "Würzburger Kickers",
+   "TSV Hartberg",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pierre-ganiou",
+  "name": "Pierre Ganiou",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Annecy",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identity: also known as Ismaëlo Ganiou; no Wikipedia page; ESPN lists France and a Burkina Faso spell, nation unconfirmed."
+ },
+ {
+  "id": "kyllian-antonio",
+  "name": "Kyllian Antonio",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andrija-bulatovic",
+  "name": "Andrija Bulatovic",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Montenegro",
+  "current_club": "Lens",
+  "career": [
+   "Kom",
+   "Rudar Pljevlja",
+   "Budućnost Podgorica",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "basar-onal",
+  "name": "Basar Önal",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Türkiye",
+  "current_club": "Lille",
+  "career": [
+   "De Graafschap",
+   "NEC Nijmegen",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stas-pokatilov",
+  "name": "Stas Pokatilov",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Kazakhstan",
+  "current_club": "Sabah",
+  "career": [
+   "Shakhter Karagandy",
+   "Aktobe",
+   "Kairat",
+   "Aktobe",
+   "Tobol",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "veljko-simic",
+  "name": "Veljko Simic",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Serbia",
+  "current_club": "Sabah",
+  "career": [
+   "Zemun",
+   "Red Star Belgrade",
+   "Vojvodina",
+   "Omonia",
+   "Sivasspor",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "akim-zedadka",
+  "name": "Akim Zedadka",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Algeria",
+  "current_club": "Sabah",
+  "career": [
+   "Clermont",
+   "Lille",
+   "Auxerre",
+   "Real Zaragoza",
+   "Piast Gliwice",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ivan-lepinjica",
+  "name": "Ivan Lepinjica",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Croatia",
+  "current_club": "Sabah",
+  "career": [
+   "Zadar",
+   "Rijeka",
+   "Arminia Bielefeld",
+   "Slaven Belupo",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaheem-parris",
+  "name": "Kaheem Parris",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Jamaica",
+  "current_club": "Sabah",
+  "career": [
+   "Cavalier",
+   "Krka",
+   "Koper",
+   "Dynamo Kyiv",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joy-lance-mickels",
+  "name": "Joy-Lance Mickels",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Rwanda",
+  "current_club": "Sabah",
+  "career": [
+   "Wacker Nordhausen",
+   "Carl Zeiss Jena",
+   "MVV Maastricht",
+   "Sabah",
+   "Al-Faisaly",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "money_league: left Sabah in 2023 for Saudi First Division club Al-Faisaly for one season, then returned."
+ },
+ {
+  "id": "aleksey-isayev",
+  "name": "Aleksey Isayev",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Azerbaijan",
+  "current_club": "Sabah",
+  "career": [
+   "Zenit St. Petersburg",
+   "Yenisey Krasnoyarsk",
+   "Sumgayit",
+   "Sabah",
+   "Qarabağ",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "du-queiroz",
+  "name": "Du Queiroz",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Sabah",
+  "career": [
+   "Corinthians",
+   "Zenit St. Petersburg",
+   "Grêmio",
+   "Sport Recife",
+   "Orenburg",
+   "Sabah"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes. On loan at Sabah from Zenit (Zenit listed with to: null)."
+ },
+ {
+  "id": "oleh-ocheretko",
+  "name": "Oleh Ocheretko",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Ukraine",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk",
+   "Mariupol",
+   "Dnipro-1",
+   "Karpaty Lviv"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "isaque",
+  "name": "Isaque",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Fluminense",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dmytro-kryskiv",
+  "name": "Dmytro Kryskiv",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Ukraine",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk",
+   "Metalist 1925 Kharkiv"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "newertton",
+  "name": "Newertton",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes. Wikipedia spells the name Newerton (Shakhtar No. 11)."
+ },
+ {
+  "id": "tomas-vlcek",
+  "name": "Tomás Vlcek",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Slavia Prague",
+   "Ústí nad Labem",
+   "Vysočina Jihlava",
+   "Pardubice"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

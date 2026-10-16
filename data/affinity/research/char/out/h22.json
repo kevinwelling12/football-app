@@ -1,0 +1,654 @@
+[
+ {
+  "id": "takehiro-tomiyasu",
+  "name": "Takehiro Tomiyasu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.2,
+  "HU": 6.0,
+  "why": {
+   "SP": "two career dismissals, both second yellows; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "donated 1,000 masks to Avispa academy and gave up a month's salary at Bologna in 2020",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Takehiro_Tomiyasu"
+  ]
+ },
+ {
+  "id": "jarrad-branthwaite",
+  "name": "Jarrad Branthwaite",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jarrad_Branthwaite"
+  ]
+ },
+ {
+  "id": "brennan-johnson",
+  "name": "Brennan Johnson",
+  "SP": 5.9,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "first career red card in a 2025 Champions League match; otherwise clean",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "stepped off social media after heavy abuse in 2024, no public feud"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brennan_Johnson"
+  ]
+ },
+ {
+  "id": "bernd-leno",
+  "name": "Bernd Leno",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bernd_Leno"
+  ]
+ },
+ {
+  "id": "calvin-bassey",
+  "name": "Calvin Bassey",
+  "SP": 5.8,
+  "VO": 6.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red on his Ajax debut in 2022; otherwise nothing notable",
+   "VO": "publicly shared racist and homophobic abuse he received in 2025",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Calvin_Bassey",
+   "https://www.wsls.com/sports/2025/03/04/fulham-condemns-vile-racist-and-homophobic-online-abuse-aimed-at-defender-bassey"
+  ]
+ },
+ {
+  "id": "oscar-bobb",
+  "name": "Oscar Bobb",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oscar_Bobb"
+  ]
+ },
+ {
+  "id": "sander-berge",
+  "name": "Sander Berge",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sander_Berge"
+  ]
+ },
+ {
+  "id": "joachim-andersen",
+  "name": "Joachim Andersen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card for two yellows in 2020; normal record for a centre-back",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joachim_Andersen_(footballer)"
+  ]
+ },
+ {
+  "id": "julio-enciso",
+  "name": "Julio Enciso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "abdukodir-khusanov",
+  "name": "Abdukodir Khusanov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abdukodir_Khusanov"
+  ]
+ },
+ {
+  "id": "senne-lammens",
+  "name": "Senne Lammens",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Senne_Lammens"
+  ]
+ },
+ {
+  "id": "patrick-dorgu",
+  "name": "Patrick Dorgu",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for a reckless tackle v Ipswich in 2025; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Dorgu"
+  ]
+ },
+ {
+  "id": "leny-yoro",
+  "name": "Leny Yoro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.6,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "described as quiet and reserved; coaches praise his maturity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leny_Yoro"
+  ]
+ },
+ {
+  "id": "lewis-hall",
+  "name": "Lewis Hall",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lewis_Hall_(footballer)"
+  ]
+ },
+ {
+  "id": "harvey-barnes",
+  "name": "Harvey Barnes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Harvey_Barnes"
+  ]
+ },
+ {
+  "id": "nico-gonzalez",
+  "name": "Nico González",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_Gonz%C3%A1lez_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "id": "matz-sels",
+  "name": "Matz Sels",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matz_Sels"
+  ]
+ },
+ {
+  "id": "xaver-schlager",
+  "name": "Xaver Schlager",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xaver_Schlager"
+  ]
+ },
+ {
+  "id": "ousmane-diomande",
+  "name": "Ousmane Diomande",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ousmane_Diomande"
+  ]
+ },
+ {
+  "id": "nordi-mukiele",
+  "name": "Nordi Mukiele",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nordi_Mukiele"
+  ]
+ },
+ {
+  "id": "reinildo-mandava",
+  "name": "Reinildo Mandava",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "red card for two bookings v Arsenal in 2026; normal for a defender",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reinildo_Mandava"
+  ]
+ },
+ {
+  "id": "brian-brobbey",
+  "name": "Brian Brobbey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_Brobbey"
+  ]
+ },
+ {
+  "id": "kevin-danso",
+  "name": "Kevin Danso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Danso"
+  ]
+ },
+ {
+  "id": "malick-fofana",
+  "name": "Malick Fofana",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Fofana"
+  ]
+ },
+ {
+  "id": "mathys-tel",
+  "name": "Mathys Tel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mathys_Tel"
+  ]
+ },
+ {
+  "id": "destiny-udogie",
+  "name": "Destiny Udogie",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Destiny_Udogie"
+  ]
+ },
+ {
+  "id": "alexey-miranchuk",
+  "name": "Alexey Miranchuk",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aleksei_Miranchuk"
+  ]
+ },
+ {
+  "id": "facundo-torres",
+  "name": "Facundo Torres",
+  "SP": 4.6,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fined by MLS in 2023 for simulation that got an opponent booked",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Facundo_Torres"
+  ]
+ },
+ {
+  "id": "myrto-uzuni",
+  "name": "Myrto Uzuni",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Myrto_Uzuni"
+  ]
+ },
+ {
+  "id": "tim-ream",
+  "name": "Tim Ream",
+  "SP": 6.0,
+  "VO": 6.8,
+  "CO": 6.8,
+  "HU": 6.4,
+  "why": {
+   "SP": "no cards or incidents of note in a long career",
+   "VO": "speaks openly about his childhood anxiety to help children talk about mental health",
+   "CO": "hosts mental-health sessions for children with Virtual Soccer Schools",
+   "HU": "coaches praised his attitude; quiet leader, US captain at the 2026 World Cup"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Ream",
+   "https://www.nbcchicago.com/world-cup/tim-ream-usmnt-captain-mental-health-struggles/"
+  ]
+ },
+ {
+  "id": "jonathan-bamba",
+  "name": "Jonathan Bamba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Bamba"
+  ]
+ },
+ {
+  "id": "zack-steffen",
+  "name": "Zack Steffen",
+  "SP": 6.0,
+  "VO": 7.5,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "co-founded VOYCENOW after 2020 protests to unite athletes speaking out on racial inequality",
+   "CO": "foundation supports low-income kids with education, sport and mental health via Boys & Girls Clubs",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zack_Steffen",
+   "https://www.mlssoccer.com/news/colorado-rapids-goalkeeper-zack-steffen-drives-community-forward"
+  ]
+ },
+ {
+  "id": "brais-mendez",
+  "name": "Brais Méndez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brais_M%C3%A9ndez"
+  ]
+ },
+ {
+  "id": "kevin-denkey",
+  "name": "Kévin Denkey",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "FC Cincinnati 2025 Humanitarian of the Year; gave 150 bikes and helmets to schoolchildren",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C3%A9vin_Denkey",
+   "https://www.fccincinnati.com/news/kevin-denkey-named-fc-cincinnati-humanitarian-of-the-year-presented-by-procter-gamble"
+  ]
+ },
+ {
+  "id": "petar-musa",
+  "name": "Petar Musa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Petar_Musa"
+  ]
+ },
+ {
+  "id": "mateusz-bogusz",
+  "name": "Mateusz Bogusz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mateusz_Bogusz"
+  ]
+ }
+]

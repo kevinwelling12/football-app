@@ -105,6 +105,8 @@ Same framework as clubs (web/players.js on the shared engine `fitPairs` in web/a
   split into Sportsmanship, Speaks out, Community, Humility (research/char/BRIEF.md; researched for the 359 players he
   has answered on, merged by scripts/affinity/merge_char.py; others get the brief's low-information values).
   Held out: 67.4% -> 69.0% (log loss 0.595 -> 0.583); American alone 68.4%. Weights: speaks out +1.6, character +1.2,
-  humility +1.0, community +1.0, American +0.8, sportsmanship +0.2. Next: research the four for the other ~1,980 players.
+  humility +1.0, community +1.0, American +0.8, sportsmanship +0.2. 2026-10-16: the other 1,981 researched too (56 batches; all 2,340 players now have the four; 1,671 low confidence,
+  mostly squad players with no public record, who keep the neutral values). Held-out unchanged (69.0%): it changes
+  how unanswered players rank (top new names: Kendall McIntosh, Reggie Cannon, DeAndre Yedlin, Tim Ream, Kanté).
 - Analysis: Settings > Copy my player picks (and club picks), then
   `node scripts/affinity/analyze_players.mjs player_picks.json club_picks.json`.

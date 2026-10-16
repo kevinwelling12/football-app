@@ -1,0 +1,655 @@
+[
+ {
+  "id": "karim-adeyemi",
+  "name": "Karim Adeyemi",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Germany",
+  "current_club": "Barcelona",
+  "career": [
+   "SpVgg Unterhaching",
+   "Red Bull Salzburg",
+   "Borussia Dortmund",
+   "Barcelona"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "2025 court fine over buying a prohibited weapon",
+  "notes": "2025: penalty order (EUR 450k) for buying a prohibited weapon (knuckle-duster with taser) online; apologised; no criminal record entry."
+ },
+ {
+  "id": "sergino-dest",
+  "name": "Sergiño Dest",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "PSV",
+  "career": [
+   "Ajax",
+   "Barcelona",
+   "AC Milan (loan)",
+   "PSV"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "no issues on record",
+  "notes": ""
+ },
+ {
+  "id": "hany-mukhtar",
+  "name": "Hany Mukhtar",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Nashville SC",
+  "career": [
+   "Hertha BSC",
+   "Benfica",
+   "Brøndby",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "darwin-nunez",
+  "name": "Darwin Núñez",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Uruguay",
+  "current_club": "Al-Diriyah",
+  "career": [
+   "Peñarol",
+   "Almería",
+   "Benfica",
+   "Liverpool",
+   "Al-Hilal",
+   "Al-Diriyah"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "2024 stands brawl",
+  "notes": "2022 headbutt on Andersen (red card, 3-match ban); 2024 exchanged punches with fans in stands after Copa América semi (5-match ban); joined Al-Hilal (Saudi PIF) 2025."
+ },
+ {
+  "id": "paul-scholes",
+  "name": "Paul Scholes",
+  "gender": "M",
+  "active": false,
+  "born": 1974,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "humble, shunned celebrity, minus reckless tackling",
+  "notes": "No incident codes; reputation for reckless tackles (many yellow cards)."
+ },
+ {
+  "id": "roy-keane",
+  "name": "Roy Keane",
+  "gender": "M",
+  "active": false,
+  "born": 1971,
+  "nation": "Ireland",
+  "current_club": null,
+  "career": [
+   "Cobh Ramblers",
+   "Nottingham Forest",
+   "Manchester United",
+   "Celtic"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "abrasive, Saipan walkout, MUTV rant",
+  "notes": "Admitted deliberate tackle on Haaland 2001 (5-match ban, fine); arrested 1999 over alleged assault on a woman in a bar (dropped); charged with assault 2004, acquitted 2005; walked out of Ireland's 2002 World Cup camp."
+ },
+ {
+  "id": "raul",
+  "name": "Raúl",
+  "gender": "M",
+  "active": false,
+  "born": 1977,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Madrid",
+   "Schalke 04",
+   "Al Sadd",
+   "New York Cosmos"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "humble, clean",
+  "notes": "Joined Qatari club Al Sadd in 2012 (Qatar Stars League 2013); also NASL title with Cosmos 2015."
+ },
+ {
+  "id": "juan-roman-riquelme",
+  "name": "Juan Román Riquelme",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "Argentina",
+  "current_club": null,
+  "career": [
+   "Boca Juniors",
+   "Barcelona",
+   "Villarreal",
+   "Boca Juniors"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes, feuds with coaches",
+  "notes": "No incident codes; Boca president 2023-. Argentine league titles (5) from general record."
+ },
+ {
+  "id": "xabi-alonso",
+  "name": "Xabi Alonso",
+  "gender": "M",
+  "active": false,
+  "born": 1981,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Real Sociedad",
+   "Eibar",
+   "Liverpool",
+   "Real Madrid",
+   "Bayern Munich"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "7 understated, classy",
+  "notes": "Charged in Spain with image-rights tax fraud; acquitted, confirmed by Supreme Court 2023 (tax_fraud 0)."
+ },
+ {
+  "id": "fernando-torres",
+  "name": "Fernando Torres",
+  "gender": "M",
+  "active": false,
+  "born": 1984,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Atlético Madrid",
+   "Liverpool",
+   "Chelsea",
+   "AC Milan",
+   "Atlético Madrid",
+   "Sagan Tosu"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "6.5 shy, well liked",
+  "notes": "Transfer request Jan 2011 to force move from Liverpool to Chelsea."
+ },
+ {
+  "id": "mats-hummels",
+  "name": "Mats Hummels",
+  "gender": "M",
+  "active": false,
+  "born": 1988,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Bayern Munich",
+   "Borussia Dortmund",
+   "Bayern Munich",
+   "Borussia Dortmund",
+   "Roma"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "7 Common Goal, outspoken",
+  "notes": "2016: left as Dortmund captain for rival Bayern (returned 2019). First German player in Common Goal (1% of wages)."
+ },
+ {
+  "id": "henrik-larsson",
+  "name": "Henrik Larsson",
+  "gender": "M",
+  "active": false,
+  "born": 1971,
+  "nation": "Sweden",
+  "current_club": null,
+  "career": [
+   "Helsingborg",
+   "Feyenoord",
+   "Celtic",
+   "Barcelona",
+   "Helsingborg",
+   "Manchester United"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "8 humble, widely respected",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ronald-koeman",
+  "name": "Ronald Koeman",
+  "gender": "M",
+  "active": false,
+  "born": 1963,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Groningen",
+   "Ajax",
+   "PSV",
+   "Barcelona",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 no issues or causes",
+  "notes": "No incidents. Played for Ajax, PSV and Feyenoord (Ajax to PSV 1986 direct; not coded as bitter-rival move)."
+ },
+ {
+  "id": "harry-wilson",
+  "name": "Harry Wilson",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Wales",
+  "current_club": "Leeds United",
+  "career": [
+   "Hull City (loan)",
+   "Derby County (loan)",
+   "AFC Bournemouth (loan)",
+   "Cardiff City (loan)",
+   "Fulham",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "noah-okafor",
+  "name": "Noah Okafor",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Switzerland",
+  "current_club": "Leeds United",
+  "career": [
+   "Basel",
+   "Red Bull Salzburg",
+   "AC Milan",
+   "Napoli (loan)",
+   "Leeds United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "public break with Swiss coach",
+  "notes": "No incident codes. Sep 2026 refused to play for Switzerland under coach Murat Yakin. Trophies include Serie A 2025 on half-season loan at Napoli."
+ },
+ {
+  "id": "conor-bradley",
+  "name": "Conor Bradley",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Northern Ireland",
+  "current_club": "Liverpool",
+  "career": [
+   "Dungannon Swifts (youth)",
+   "Liverpool",
+   "Bolton Wanderers (loan)"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble, children's hospital visits, dignified after father's death",
+  "notes": "No incidents."
+ },
+ {
+  "id": "cafu",
+  "name": "Cafu",
+  "gender": "M",
+  "active": false,
+  "born": 1970,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "São Paulo",
+   "Real Zaragoza",
+   "Juventude",
+   "Palmeiras",
+   "Roma",
+   "AC Milan"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "+1 Jardim Irene foundation, warm persona (Qatar role separate)",
+  "notes": "Ambassador for Qatar's 2022 World Cup Supreme Committee; 2019 civil debt seizures (no criminal case). Recount: major_trophies 11: adds Cup Winners' Cup 1995 (Zaragoza)."
+ },
+ {
+  "id": "sergio-busquets",
+  "name": "Sergio Busquets",
+  "gender": "M",
+  "active": false,
+  "born": 1988,
+  "nation": "Spain",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "Inter Miami"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "5 2010 Motta play-acting, gamesmanship (2011 allegation dismissed, separate)",
+  "notes": "2011: Real Madrid alleged he called Marcelo 'mono'; UEFA dismissed for lack of evidence, he denied it. 2010 feigned-injury episode vs Inter (no sanction). Recount: major_trophies 15: Supporters' Shield not counted."
+ },
+ {
+  "id": "paolo-rossi",
+  "name": "Paolo Rossi",
+  "gender": "M",
+  "active": false,
+  "born": 1956,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Como",
+   "Vicenza",
+   "Perugia",
+   "Juventus",
+   "AC Milan",
+   "Hellas Verona"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "7 humble, gracious (Totonero ban separate)",
+  "notes": "Totonero betting scandal 1980: sporting tribunal ban of three years cut to two; he always denied involvement; no criminal conviction."
+ },
+ {
+  "id": "marcel-desailly",
+  "name": "Marcel Desailly",
+  "gender": "M",
+  "active": false,
+  "born": 1968,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Nantes",
+   "Marseille",
+   "AC Milan",
+   "Chelsea",
+   "Al-Gharafa",
+   "Qatar SC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 UNICEF/OrphanAid, anti-racism voice, offset by contested paternity denials (violence allegation separate)",
+  "notes": "Ex-partner's 2013 police record (main courante) alleging violence, reported in a paternity suit; no charge or ruling. Ended career in Qatar (Al-Gharafa, Qatar SC)."
+ },
+ {
+  "id": "johan-neeskens",
+  "name": "Johan Neeskens",
+  "gender": "M",
+  "active": false,
+  "born": 1951,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "RCH Heemstede",
+   "Ajax",
+   "Barcelona",
+   "New York Cosmos",
+   "Groningen",
+   "FC Baar"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "6 decent pro, no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gunter-netzer",
+  "name": "Günter Netzer",
+  "gender": "M",
+  "active": false,
+  "born": 1944,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Borussia Mönchengladbach",
+   "Real Madrid",
+   "Grasshoppers"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 rebellious, defied his coach, no causes",
+  "notes": "No incident codes; substituted himself on in the 1973 Cup final; later Infront (FIFA TV rights) executive."
+ },
+ {
+  "id": "paul-gascoigne",
+  "name": "Paul Gascoigne",
+  "gender": "M",
+  "active": false,
+  "born": 1967,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Rangers",
+   "Middlesbrough",
+   "Everton",
+   "Burnley",
+   "Gansu Tianma",
+   "Boston United"
+  ],
+  "CH_now": 3.0,
+  "CH_why": "3 sectarian flute gestures and song, drink-driving, reckless tackles, some credit for mental-health openness (racist offence and assault on his wife scored separately)",
+  "notes": "Admitted assaulting then-wife 1996 (no prosecution); acquitted of sexual assault 2019; pleaded guilty 2016 to racially aggravated public order offence (fined); drink-driving conviction 2010; sectarian gestures/songs (fined 1998); moved to Chinese club Gansu Tianma 2003."
+ },
+ {
+  "id": "javier-zanetti",
+  "name": "Javier Zanetti",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "Argentina",
+  "current_club": null,
+  "career": [
+   "Talleres (RE)",
+   "Banfield",
+   "Inter Milan"
+  ],
+  "CH_now": 9.0,
+  "CH_why": "+3 PUPI foundation, sportsmanship, humility",
+  "notes": "No incident codes; Fundación PUPI since 2001; 2005 Inter donation to Zapatista community projects."
+ },
+ {
+  "id": "just-fontaine",
+  "name": "Just Fontaine",
+  "gender": "M",
+  "active": false,
+  "born": 1933,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "USM Casablanca",
+   "Nice",
+   "Reims"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "+2 founded players' union UNFP",
+  "notes": "Co-founded and first president of the French players' union UNFP (1961) against lifetime contracts."
+ },
+ {
+  "id": "josip-juranovic",
+  "name": "Josip Juranović",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Croatia",
+  "current_club": "Union Berlin",
+  "career": [
+   "NK Dubrava",
+   "Hajduk Split",
+   "Legia Warsaw",
+   "Celtic",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adrianna-franch",
+  "name": "Adrianna Franch",
+  "gender": "W",
+  "active": true,
+  "born": 1990,
+  "nation": "USA",
+  "current_club": "Birmingham City",
+  "career": [
+   "Portland Thorns",
+   "Kansas City Current",
+   "Birmingham City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incidents."
+ },
+ {
+  "id": "lo-eau-labonta",
+  "name": "Lo'eau LaBonta",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "FC Kansas City",
+   "Utah Royals",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no causes on record, exuberant",
+  "notes": ""
+ },
+ {
+  "id": "claire-hutton",
+  "name": "Claire Hutton",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Kansas City Current",
+   "Bay FC"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no issues",
+  "notes": "No incidents."
+ },
+ {
+  "id": "aleix-garcia",
+  "name": "Aleix García",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Spain",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Girona",
+   "Mouscron",
+   "Dinamo București",
+   "Eibar",
+   "Girona",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edmond-tapsoba",
+  "name": "Edmond Tapsoba",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Burkina Faso",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Salitas",
+   "US Ouagadougou",
+   "Vitória de Guimarães",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "helped his home city during the pandemic, no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miguel-gutierrez",
+  "name": "Miguel Gutiérrez",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Real Madrid",
+   "Girona",
+   "Napoli",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malik-tillman",
+  "name": "Malik Tillman",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Bayern Munich",
+   "Rangers",
+   "PSV",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-vazquez",
+  "name": "Lucas Vázquez",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Spain",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Espanyol",
+   "Real Madrid",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aleksandar-pavlovic",
+  "name": "Aleksandar Pavlovic",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lennart-karl",
+  "name": "Lennart Karl",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Bayern Munich"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "no causes; apologised after saying he dreamed of Real Madrid",
+  "notes": "No incident codes."
+ }
+]

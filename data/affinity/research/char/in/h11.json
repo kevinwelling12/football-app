@@ -1,0 +1,641 @@
+[
+ {
+  "id": "cristiano-ronaldo",
+  "name": "Cristiano Ronaldo",
+  "gender": "M",
+  "active": true,
+  "born": 1985,
+  "nation": "Portugal",
+  "current_club": "Al-Nassr",
+  "career": [
+   "Sporting CP",
+   "Manchester United",
+   "Real Madrid",
+   "Juventus",
+   "Manchester United",
+   "Al-Nassr"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "hospital donations vs self-promotion, obscene gesture 2024, United walkout interview",
+  "notes": "Rape allegation (Mayorga): no charges 2019, civil suit dismissed 2022; an out-of-court payment (about $375k, 2010) was widely reported; Spanish tax-fraud conviction 2019 (plea deal, suspended sentence, fine); 2022 knocked phone from a 14-year-old fan's hand (police caution, FA ban); Al-Nassr (PIF) 2023; reported paid PIF deal to promote Saudi World Cup bid."
+ },
+ {
+  "id": "ada-hegerberg",
+  "name": "Ada Hegerberg",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "Norway",
+  "current_club": "Lyon / OL Lyonnes",
+  "career": [
+   "Kolbotn",
+   "Stabæk",
+   "Turbine Potsdam",
+   "Lyon / OL Lyonnes"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "Norway boycott, gender-equality voice",
+  "notes": "No incidents; boycotted Norway 2017-22 over treatment of the women's game."
+ },
+ {
+  "id": "lucy-bronze",
+  "name": "Lucy Bronze",
+  "gender": "W",
+  "active": true,
+  "born": 1991,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Liverpool",
+   "Manchester City",
+   "Lyon",
+   "Manchester City",
+   "Barcelona",
+   "Chelsea"
+  ],
+  "CH_now": 7.25,
+  "CH_why": "neurodiversity openness",
+  "notes": "Advocacy on neurodiversity after disclosing autism and ADHD."
+ },
+ {
+  "id": "vivianne-miedema",
+  "name": "Vivianne Miedema",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Netherlands",
+  "current_club": "Manchester City",
+  "career": [
+   "SC Heerenveen",
+   "Bayern Munich",
+   "Arsenal",
+   "Manchester City"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "welfare voice, Aramco letter",
+  "notes": "Signed 2024 player letter urging FIFA to end Aramco sponsorship; joined Abu Dhabi-owned Man City 2024."
+ },
+ {
+  "id": "pernille-harder",
+  "name": "Pernille Harder",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "Denmark",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Linköpings FC",
+   "VfL Wolfsburg",
+   "Chelsea",
+   "Bayern Munich"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "led pay strike, LGBTQ visibility",
+  "notes": "No incidents. Led Denmark players' 2017 strike over pay; LGBTQ visibility. UEFA Women's Player of the Year 2018, 2020."
+ },
+ {
+  "id": "caroline-graham-hansen",
+  "name": "Caroline Graham Hansen",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "Norway",
+  "current_club": "Barcelona",
+  "career": [
+   "Stabæk",
+   "Tyresö FF",
+   "VfL Wolfsburg",
+   "Barcelona"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "outspoken on welfare",
+  "notes": "No incidents."
+ },
+ {
+  "id": "thibaut-courtois",
+  "name": "Thibaut Courtois",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Belgium",
+  "current_club": "Real Madrid",
+  "career": [
+   "Genk",
+   "Chelsea",
+   "Atlético Madrid",
+   "Real Madrid"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "spats with Belgium coach, forced Chelsea exit",
+  "notes": "2018 skipped Chelsea training to force a move to Real Madrid; public spat with Belgium coach 2023; joined Real Madrid from Chelsea (not directly from Atletico)."
+ },
+ {
+  "id": "ousmane-dembele",
+  "name": "Ousmane Dembélé",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Rennes",
+   "Borussia Dortmund",
+   "Barcelona",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "Dortmund strike (b08 separate), sulky past",
+  "notes": "Skipped Dortmund training in 2017 to force a move to Barcelona; 2021 video mocking Asian hotel staff, apologised."
+ },
+ {
+  "id": "n-golo-kante",
+  "name": "N'Golo Kanté",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "France",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Boulogne",
+   "Caen",
+   "Leicester City",
+   "Chelsea",
+   "Al-Ittihad",
+   "Fenerbahçe"
+  ],
+  "CH_now": 8.25,
+  "CH_why": "widely praised humility and kindness",
+  "notes": "Joined Saudi club Al-Ittihad (PIF-owned) in 2023; trophies include Saudi Pro League 2025."
+ },
+ {
+  "id": "bernardo-silva",
+  "name": "Bernardo Silva",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Portugal",
+  "current_club": "Real Madrid",
+  "career": [
+   "Benfica",
+   "Monaco",
+   "Manchester City",
+   "Real Madrid"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "Mendy tweet 2019",
+  "notes": "2019 tweet comparing Mendy to Conguitos mascot: FA 1-match ban and fine, no racist intent found, apologised."
+ },
+ {
+  "id": "jan-oblak",
+  "name": "Jan Oblak",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Slovenia",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Olimpija",
+   "Benfica",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "no causes or issues of note",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wendie-renard",
+  "name": "Wendie Renard",
+  "gender": "W",
+  "active": true,
+  "born": 1990,
+  "nation": "France",
+  "current_club": "Lyon / OL Lyonnes",
+  "career": [
+   "Lyon / OL Lyonnes"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "protest of France set-up",
+  "notes": "Withdrew from France squad Feb 2023 in protest at the set-up under Diacre."
+ },
+ {
+  "id": "bunny-shaw",
+  "name": "Bunny Shaw",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Jamaica",
+  "current_club": "Manchester City",
+  "career": [
+   "Bordeaux",
+   "Manchester City"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "pay fight, anti-racism",
+  "notes": "No incidents; Reggae Girlz pay dispute with Jamaican FA. Man City (Abu Dhabi-owned) since 2021."
+ },
+ {
+  "id": "barbra-banda",
+  "name": "Barbra Banda",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Zambia",
+  "current_club": "Orlando Pride",
+  "career": [
+   "EDF Logroño",
+   "Shanghai Shengli",
+   "Orlando Pride"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "humble pioneer",
+  "notes": "Excluded from 2022 WAFCON on gender-eligibility grounds (not misconduct). Played in China (Shanghai Shengli) 2020-24."
+ },
+ {
+  "id": "temwa-chawinga",
+  "name": "Temwa Chawinga",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "Malawi",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Kvarnsvedens IK",
+   "Jiangsu / Wuhan Jianghan",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no causes on record",
+  "notes": "Recount: money_league 1: played for Wuhan Jianghan (China) 2020-23. Recount: major_trophies 4: 4 Chinese Women's Super League titles 2020-23; NWSL Shield not counted."
+ },
+ {
+  "id": "ederson",
+  "name": "Ederson",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Brazil",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Ribeirão",
+   "Rio Ave",
+   "Benfica",
+   "Manchester City",
+   "Fenerbahçe"
+  ],
+  "CH_now": 4.8,
+  "CH_why": "2026 derby red, insulted referee and struck VAR monitor (3-match ban), apologised",
+  "notes": "No incident codes; April 2026 second yellow vs Galatasaray then insulted referee and struck VAR monitor (equipment, not a person), banned 3 matches."
+ },
+ {
+  "id": "khvicha-kvaratskhelia",
+  "name": "Khvicha Kvaratskhelia",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Georgia",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Dinamo Tbilisi",
+   "Rubin Kazan",
+   "Dinamo Batumi",
+   "Napoli",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues of note",
+  "notes": "Refused Napoli renewal and pushed for a January 2025 move to PSG. Recount: major_trophies 6: Serie A 2023 and 2025, Ligue 1 2025 and 2026, UCL 2025 and 2026."
+ },
+ {
+  "id": "ruben-dias",
+  "name": "Rúben Dias",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Portugal",
+  "current_club": "Manchester City",
+  "career": [
+   "Benfica",
+   "Manchester City"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "no causes or issues of note",
+  "notes": "At Abu Dhabi-owned Manchester City since 2020 (English club, not coded as money_league)."
+ },
+ {
+  "id": "vitinha",
+  "name": "Vitinha",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Portugal",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Porto",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues of note",
+  "notes": "At Qatar-owned PSG since 2022 (French club, not coded as money_league)."
+ },
+ {
+  "id": "mallory-swanson",
+  "name": "Mallory Swanson",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Chicago Red Stars / Chicago Stars",
+  "career": [
+   "Washington Spirit",
+   "Chicago Red Stars / Chicago Stars"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no causes on record",
+  "notes": ""
+ },
+ {
+  "id": "lauren-james",
+  "name": "Lauren James",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Arsenal",
+   "Manchester United",
+   "Chelsea"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "spoke on racist abuse (2023 stamp applied separately)",
+  "notes": "2023 World Cup: red card for stamping on Michelle Alozie, 2-match ban, apologised; spoke out about racist online abuse."
+ },
+ {
+  "id": "lena-oberdorf",
+  "name": "Lena Oberdorf",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "SGS Essen",
+   "VfL Wolfsburg",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "Moved from Wolfsburg to direct title rival Bayern (2024)."
+ },
+ {
+  "id": "victor-osimhen",
+  "name": "Victor Osimhen",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Nigeria",
+  "current_club": "Galatasaray",
+  "career": [
+   "Wolfsburg",
+   "Charleroi",
+   "Lille",
+   "Napoli",
+   "Galatasaray"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "decent pro, Napoli TikTok row was the club's doing",
+  "notes": "2023 fallout with Napoli after club TikTok mocked him; frozen out 2024."
+ },
+ {
+  "id": "roberto-firmino",
+  "name": "Roberto Firmino",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Brazil",
+  "current_club": "Al-Sadd",
+  "career": [
+   "Figueirense",
+   "Hoffenheim",
+   "Liverpool",
+   "Al-Ahli",
+   "Al-Sadd"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "7.5 humble, joyful, no issues",
+  "notes": "Joined Saudi Al-Ahli (PIF-owned) 2023, then Qatari Al-Sadd 2025."
+ },
+ {
+  "id": "debinha",
+  "name": "Debinha",
+  "gender": "W",
+  "active": true,
+  "born": 1991,
+  "nation": "Brazil",
+  "current_club": "Kansas City Current",
+  "career": [
+   "North Carolina Courage",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no causes on record",
+  "notes": "Recount: money_league 1: played for Dalian Quanjian (China) Feb 2016-Jan 2017."
+ },
+ {
+  "id": "asisat-oshoala",
+  "name": "Asisat Oshoala",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Nigeria",
+  "current_club": "Al Hilal",
+  "career": [
+   "Liverpool",
+   "Arsenal",
+   "Dalian Quanjian",
+   "Barcelona",
+   "Bay FC",
+   "Al Hilal"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "foundation",
+  "notes": "Moved to Dalian Quanjian (China, 2017) and Al Hilal (Saudi PIF-owned, 2025)."
+ },
+ {
+  "id": "mary-earps",
+  "name": "Mary Earps",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "London City Lionesses",
+  "career": [
+   "Reading",
+   "VfL Wolfsburg",
+   "Manchester United",
+   "Paris Saint-Germain",
+   "London City Lionesses"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "GK-shirt campaign, minus memoir friction",
+  "notes": "2023 campaign that made Nike sell her goalkeeper shirt."
+ },
+ {
+  "id": "christopher-nkunku",
+  "name": "Christopher Nkunku",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "RB Leipzig (loan from AC Milan)",
+  "career": [
+   "Paris Saint-Germain",
+   "RB Leipzig",
+   "Chelsea",
+   "AC Milan",
+   "RB Leipzig (loan from AC Milan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "emiliano-martinez",
+  "name": "Emiliano Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Argentina",
+  "current_club": "Chelsea",
+  "career": [
+   "Arsenal",
+   "Aston Villa",
+   "Chelsea"
+  ],
+  "CH_now": 3.0,
+  "CH_why": "gamesmanship, mocking opponents, obscene trophy gestures; FIFA two-match ban 2024",
+  "notes": "No incident codes; 2024 FIFA ban for an obscene gesture and striking a TV camera after a match (apologised) reflected in CH."
+ },
+ {
+  "id": "rayan-cherki",
+  "name": "Rayan Cherki",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "Manchester City",
+  "career": [
+   "Lyon",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no incidents; past questions about attitude at Lyon",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josko-gvardiol",
+  "name": "Josko Gvardiol",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Croatia",
+  "current_club": "Manchester City",
+  "career": [
+   "Dinamo Zagreb",
+   "RB Leipzig",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-de-paul",
+  "name": "Rodrigo De Paul",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Argentina",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Racing Club",
+   "Valencia",
+   "Udinese",
+   "Atlético Madrid",
+   "Inter Miami CF"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "publicly minimised Argentina's 2024 racist chant about France as a joke",
+  "notes": "No incident codes; not shown taking part in the 2024 chant, but defended Enzo Fernández and called it a joke (reported via web search)."
+ },
+ {
+  "id": "sandra-panos",
+  "name": "Sandra Paños",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Levante",
+   "Barcelona",
+   "Club América",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues; part of Las 15 protest for better national-team conditions",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cristian-romero",
+  "name": "Cristian Romero",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Belgrano",
+   "Genoa",
+   "Juventus",
+   "Atalanta",
+   "Tottenham Hotspur",
+   "Atlético Madrid"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "repeat dismissals, confronted referee (FA ban), Malvinas banner 2026, public spats with Spurs board",
+  "notes": "red_card_violence: sent off Dec 2025 for kicking out at Konaté, then banned extra match for confronting the referee. Audit: board criticism and the Malvinas banner treated as neutral (CH 4.0)."
+ },
+ {
+  "id": "dani-olmo",
+  "name": "Dani Olmo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Dinamo Zagreb",
+   "RB Leipzig",
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no conduct issues known; caught in Barça registration saga",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pau-cubarsi",
+  "name": "Pau Cubarsí",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ }
+]

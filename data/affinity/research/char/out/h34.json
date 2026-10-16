@@ -1,0 +1,653 @@
+[
+ {
+  "id": "hugo-bolin",
+  "name": "Hugo Bolin",
+  "SP": 6.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "praised for a full-effort defensive run against hometown Elfsborg with the 2023 title at stake",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "credited his Degerfors coach for his development"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Bolin"
+  ]
+ },
+ {
+  "id": "lukas-ullrich",
+  "name": "Lukas Ullrich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_Ullrich"
+  ]
+ },
+ {
+  "id": "isac-lidberg",
+  "name": "Isac Lidberg",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off late in his 2017 Superettan debut; nothing else notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isac_Lidberg"
+  ]
+ },
+ {
+  "id": "daiki-hashioka",
+  "name": "Daiki Hashioka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daiki_Hashioka"
+  ]
+ },
+ {
+  "id": "lilian-brassier",
+  "name": "Lilian Brassier",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lilian_Brassier"
+  ]
+ },
+ {
+  "id": "younes-ebnoutalib",
+  "name": "Younes Ebnoutalib",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Younes_Ebnoutalib"
+  ]
+ },
+ {
+  "id": "han-noah-massengo",
+  "name": "Han-Noah Massengo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Han-Noah_Massengo"
+  ]
+ },
+ {
+  "id": "robin-fellhauer",
+  "name": "Robin Fellhauer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Fellhauer"
+  ]
+ },
+ {
+  "id": "hennes-behrens",
+  "name": "Hennes Behrens",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hennes_Behrens"
+  ]
+ },
+ {
+  "id": "noahkai-banks",
+  "name": "Noahkai Banks",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noahkai_Banks"
+  ]
+ },
+ {
+  "id": "mert-komur",
+  "name": "Mert Kömür",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mert_Kömür"
+  ]
+ },
+ {
+  "id": "marvin-schwabe",
+  "name": "Marvin Schwäbe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvin_Schwäbe"
+  ]
+ },
+ {
+  "id": "luka-lochoshvili",
+  "name": "Luka Lochoshvili",
+  "SP": 9.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.2,
+  "why": {
+   "SP": "kept unconscious opponent Georg Teigl breathing in 2022; FIFA Fair Play Award",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found beyond quiet handling of the award"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luka_Lochoshvili"
+  ]
+ },
+ {
+  "id": "alessio-castro-montes",
+  "name": "Alessio Castro-Montes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alessio_Castro-Montes"
+  ]
+ },
+ {
+  "id": "gideon-mensah",
+  "name": "Gideon Mensah",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gideon_Mensah_(footballer,_born_1998)"
+  ]
+ },
+ {
+  "id": "mikey-moore",
+  "name": "Mikey Moore",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikey_Moore"
+  ]
+ },
+ {
+  "id": "marius-bulter",
+  "name": "Marius Bulter",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marius_Bülter"
+  ]
+ },
+ {
+  "id": "ragnar-ache",
+  "name": "Ragnar Ache",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ragnar_Ache"
+  ]
+ },
+ {
+  "id": "thijs-dallinga",
+  "name": "Thijs Dallinga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thijs_Dallinga"
+  ]
+ },
+ {
+  "id": "daniel-heuer-fernandes",
+  "name": "Daniel Heuer Fernandes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Heuer_Fernandes"
+  ]
+ },
+ {
+  "id": "nicolai-remberg",
+  "name": "Nicolai Remberg",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolai_Remberg"
+  ]
+ },
+ {
+  "id": "jordan-torunarigha",
+  "name": "Jordan Torunarigha",
+  "SP": 5.8,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in 2020 cup tie amid racist abuse from the crowd; otherwise nothing notable",
+   "VO": "reported racist abuse (2020 cup, 2021 Olympic warm-up); appeared in documentary Schwarze Adler on Black players in Germany",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Torunarigha",
+   "https://www.si.com/soccer/2020/02/05/jordan-torunarigha-racial-abuse-schalke-hertha-berlin",
+   "https://www.herthabsc.com/en/news/2020/02/1300-hertha_x0027_s-stance-on-the-racist-incidents-in-the-pokal-match"
+  ]
+ },
+ {
+  "id": "phillip-tietz",
+  "name": "Phillip Tietz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phillip_Tietz"
+  ]
+ },
+ {
+  "id": "anthony-caci",
+  "name": "Anthony Caci",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Caci"
+  ]
+ },
+ {
+  "id": "alexander-schwolow",
+  "name": "Alexander Schwolow",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexander_Schwolow"
+  ]
+ },
+ {
+  "id": "eric-martel",
+  "name": "Eric Martel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Martel"
+  ]
+ },
+ {
+  "id": "ezechiel-banzuzi",
+  "name": "Ezechiel Banzuzi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.7,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "briefly demoted at NAC in 2022 over a social post hinting at a move"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ezechiel_Banzuzi"
+  ]
+ },
+ {
+  "id": "igor-matanovic",
+  "name": "Igor Matanovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Matanović"
+  ]
+ },
+ {
+  "id": "mio-backhaus",
+  "name": "Mio Backhaus",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mio_Backhaus"
+  ]
+ },
+ {
+  "id": "derry-scherhant",
+  "name": "Derry Scherhant",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derry_Scherhant"
+  ]
+ },
+ {
+  "id": "jordy-makengo",
+  "name": "Jordy Makengo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordy_Makengo"
+  ]
+ },
+ {
+  "id": "philipp-treu",
+  "name": "Philipp Treu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philipp_Treu"
+  ]
+ },
+ {
+  "id": "lukas-kubler",
+  "name": "Lukas Kübler",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_Kübler"
+  ]
+ },
+ {
+  "id": "keisuke-goto",
+  "name": "Keisuke Goto",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.6,
+  "why": {
+   "SP": "exuberant celebration against parent club Anderlecht in April 2026 angered its players",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "said he only wanted to share the win with fans; no apology reported"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Keisuke_Goto",
+   "https://sporza.be/nl/2026/04/23/-als-je-scoort-mag-je-toch-vieren-voor-je-ploeg-uitbundige-goto-wordt-de-levieten-gelezen-door-anderlecht-spelers~1776980186062/"
+  ]
+ },
+ {
+  "id": "marvin-pieringer",
+  "name": "Marvin Pieringer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvin_Pieringer"
+  ]
+ },
+ {
+  "id": "gabriel-vidovic",
+  "name": "Gabriel Vidovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Vidović"
+  ]
+ }
+]

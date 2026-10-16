@@ -1,0 +1,650 @@
+[
+ {
+  "id": "sebastian-blanco",
+  "name": "Sebastián Blanco",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "Timbers 2019 Stand Together Community MVP, noted for engaging community work",
+   "HU": "described as charming and engaging; nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastián_Blanco"
+  ]
+ },
+ {
+  "id": "sam-hiatt",
+  "name": "Sam Hiatt",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sam_Hiatt"
+  ]
+ },
+ {
+  "id": "briana-scurry",
+  "name": "Briana Scurry",
+  "SP": 6.0,
+  "VO": 8.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "concussion/TBI advocate, testified to Congress twice; openly gay pioneer, LGBTQ youth keynotes",
+   "CO": "volunteered for AIDS education and Make-A-Wish; speaks to students",
+   "HU": "nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Briana_Scurry"
+  ]
+ },
+ {
+  "id": "matt-le-tissier",
+  "name": "Matt Le Tissier",
+  "SP": 4.5,
+  "VO": 3.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "admitted a 1995 spread bet on the first throw-in and trying to kick the ball out to win it",
+   "VO": "refused BLM badge at Sky; vaccine misinformation and Bucha 'lies' retweet",
+   "CO": "regular guest at charity golf days and fundraisers (cancer, children)",
+   "HU": "one-club loyalty; nothing notable found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matt_Le_Tissier"
+  ]
+ },
+ {
+  "id": "gabriel-gudmundsson",
+  "name": "Gabriel Gudmundsson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Gudmundsson"
+  ]
+ },
+ {
+  "id": "tarik-muharemovic",
+  "name": "Tarik Muharemović",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "fouled, not sanctioned, in the 2026 World Cup loss to the USA; nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tarik_Muharemović"
+  ]
+ },
+ {
+  "id": "joe-rodon",
+  "name": "Joe Rodon",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Rodon"
+  ]
+ },
+ {
+  "id": "sean-longstaff",
+  "name": "Sean Longstaff",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "helped lead a Foundation wellbeing session on opening up about mental health",
+   "CO": "Newcastle United Foundation ambassador, 2018/19 PFA Community Champion, children's cancer ward visits",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sean_Longstaff"
+  ]
+ },
+ {
+  "id": "melvin-bard",
+  "name": "Melvin Bard",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melvin_Bard"
+  ]
+ },
+ {
+  "id": "ilia-gruev",
+  "name": "Ilia Gruev",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ilia_Gruev_(footballer,_born_2000)"
+  ]
+ },
+ {
+  "id": "felix-uduokhai",
+  "name": "Felix Uduokhai",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felix_Uduokhai"
+  ]
+ },
+ {
+  "id": "marvin-friedrich",
+  "name": "Marvin Friedrich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marvin_Friedrich"
+  ]
+ },
+ {
+  "id": "oliver-burke",
+  "name": "Oliver Burke",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Burke"
+  ]
+ },
+ {
+  "id": "leopold-querfeld",
+  "name": "Leopold Querfeld",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leopold_Querfeld"
+  ]
+ },
+ {
+  "id": "sydney-collins",
+  "name": "Sydney Collins",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sydney_Collins"
+  ]
+ },
+ {
+  "id": "mark-flekken",
+  "name": "Mark Flekken",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "publicly criticised the team's mentality after the Aug 2026 Elversberg loss, while saying he would not blame everyone"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mark_Flekken"
+  ]
+ },
+ {
+  "id": "ibrahim-maza",
+  "name": "Ibrahim Maza",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ibrahim_Maza"
+  ]
+ },
+ {
+  "id": "kevin-diks",
+  "name": "Kevin Diks",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (two yellows, 2017); nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Diks"
+  ]
+ },
+ {
+  "id": "joe-scally",
+  "name": "Joe Scally",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Scally"
+  ]
+ },
+ {
+  "id": "robin-hack",
+  "name": "Robin Hack",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Hack"
+  ]
+ },
+ {
+  "id": "franck-honorat",
+  "name": "Franck Honorat",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franck_Honorat"
+  ]
+ },
+ {
+  "id": "kevin-stoger",
+  "name": "Kevin Stöger",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kevin_Stöger"
+  ]
+ },
+ {
+  "id": "fares-chaibi",
+  "name": "Farès Chaïbi",
+  "SP": 6.0,
+  "VO": 4.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "refused to play in the 2023 Ligue 1 anti-homophobia rainbow-number shirt; no personal reason stated",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Farès_Chaïbi"
+  ]
+ },
+ {
+  "id": "finn-dahmen",
+  "name": "Finn Dahmen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finn_Dahmen"
+  ]
+ },
+ {
+  "id": "chrislain-matsima",
+  "name": "Chrislain Matsima",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chrislain_Matsima"
+  ]
+ },
+ {
+  "id": "marius-wolf",
+  "name": "Marius Wolf",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marius_Wolf"
+  ]
+ },
+ {
+  "id": "seol-young-woo",
+  "name": "Seol Young-Woo",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "announced legal action against online abuse after the 2026 World Cup",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seol_Young-woo"
+  ]
+ },
+ {
+  "id": "jeffrey-gouweleeuw",
+  "name": "Jeffrey Gouweleeuw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long-serving Augsburg captain; nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeffrey_Gouweleeuw"
+  ]
+ },
+ {
+  "id": "isak-johannesson",
+  "name": "Ísak Jóhannesson",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ísak_Bergmann_Jóhannesson"
+  ]
+ },
+ {
+  "id": "nicolas-capaldo",
+  "name": "Nicolás Capaldo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolás_Capaldo"
+  ]
+ },
+ {
+  "id": "albert-sambi-lokonga",
+  "name": "Albert Sambi Lokonga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Sambi_Lokonga"
+  ]
+ },
+ {
+  "id": "albert-grnbaek",
+  "name": "Albert Grønbaek",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albert_Grønbæk"
+  ]
+ },
+ {
+  "id": "david-mller-wolfe",
+  "name": "David Møller Wolfe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Møller_Wolfe"
+  ]
+ },
+ {
+  "id": "sebastiaan-bornauw",
+  "name": "Sebastiaan Bornauw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastiaan_Bornauw"
+  ]
+ },
+ {
+  "id": "zakaria-el-ouahdi",
+  "name": "Zakaria El Ouahdi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zakaria_El_Ouahdi"
+  ]
+ },
+ {
+  "id": "sheraldo-becker",
+  "name": "Sheraldo Becker",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheraldo_Becker"
+  ]
+ }
+]

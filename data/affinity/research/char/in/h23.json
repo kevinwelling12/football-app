@@ -1,0 +1,648 @@
+[
+ {
+  "id": "aaron-long",
+  "name": "Aaron Long",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Seattle Sounders FC 2",
+   "New York Red Bulls II",
+   "New York Red Bulls",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes. Briefly a Portland Timbers draftee and on loan at Sacramento Republic in 2014 (no first-team games), omitted from clubs."
+ },
+ {
+  "id": "cristian-espinoza",
+  "name": "Cristian Espinoza",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Argentina",
+  "current_club": "Nashville SC",
+  "career": [
+   "Villarreal",
+   "Alavés",
+   "Real Valladolid",
+   "Boca Juniors",
+   "San Jose Earthquakes",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andy-najar",
+  "name": "Andy Nájar",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Honduras",
+  "current_club": "Nashville SC",
+  "career": [
+   "D.C. United",
+   "Anderlecht",
+   "Los Angeles FC",
+   "D.C. United",
+   "Olimpia",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sam-surridge",
+  "name": "Sam Surridge",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Nashville SC",
+  "career": [
+   "Yeovil Town",
+   "Oldham Athletic",
+   "Swansea City",
+   "Stoke City",
+   "Nottingham Forest",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes on record; Stoke red card covered by code",
+  "notes": "red_card_violence 1: straight red at Stoke v Peterborough (Nov 2021) for lashing out at/headbutting Josh Knight off the ball."
+ },
+ {
+  "id": "carles-gil",
+  "name": "Carles Gil",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Spain",
+  "current_club": "New England Revolution",
+  "career": [
+   "Valencia",
+   "Elche",
+   "Aston Villa",
+   "Deportivo La Coruña",
+   "New England Revolution"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no causes or issues found; long-serving captain respected by supporters",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hannes-wolf",
+  "name": "Hannes Wolf",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Austria",
+  "current_club": "New York City FC",
+  "career": [
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Borussia Mönchengladbach",
+   "Swansea City",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxi-moralez",
+  "name": "Maxi Morález",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "Argentina",
+  "current_club": "New York City FC",
+  "career": [
+   "Vélez Sarsfield",
+   "Atalanta",
+   "León",
+   "New York City FC",
+   "Racing Club",
+   "New York City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eduard-atuesta",
+  "name": "Eduard Atuesta",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Colombia",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Independiente Medellín",
+   "Los Angeles FC",
+   "Palmeiras",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marco-pasalic",
+  "name": "Marco Pasalic",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Croatia",
+  "current_club": "Orlando City SC",
+  "career": [
+   "Borussia Dortmund",
+   "HNK Rijeka",
+   "Orlando City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cavan-sullivan",
+  "name": "Cavan Sullivan",
+  "gender": "M",
+  "active": true,
+  "born": 2009,
+  "nation": "USA",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "Philadelphia Union"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "2026 red card after a scuffle was rescinded; nothing else on record",
+  "notes": "No incident codes (August 2026 red card rescinded)."
+ },
+ {
+  "id": "kai-wagner",
+  "name": "Kai Wagner",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "Philadelphia Union",
+  "career": [
+   "SSV Ulm",
+   "Würzburger Kickers",
+   "Philadelphia Union",
+   "Birmingham City",
+   "Philadelphia Union"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "accepted responsibility and did restorative work after 2023 slur",
+  "notes": "racist_abuse 2: MLS suspended him three matches in 2023 for an anti-Asian slur at Bobby Wood; he admitted it."
+ },
+ {
+  "id": "deandre-yedlin",
+  "name": "DeAndre Yedlin",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "Sunderland",
+   "Newcastle United",
+   "Galatasaray",
+   "Inter Miami CF",
+   "FC Cincinnati",
+   "Real Salt Lake"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "spoke out on racism and police brutality",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "diego-luna",
+  "name": "Diego Luna",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Real Salt Lake",
+  "career": [
+   "El Paso Locomotive",
+   "Real Salt Lake"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues; praised for character by Pochettino",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "julian-hall",
+  "name": "Julian Hall",
+  "gender": "M",
+  "active": true,
+  "born": 2008,
+  "nation": "USA",
+  "current_club": "Red Bull New York",
+  "career": [
+   "Red Bull New York"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; teenager",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anders-dreyer",
+  "name": "Anders Dreyer",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Denmark",
+  "current_club": "San Diego FC",
+  "career": [
+   "Brighton & Hove Albion",
+   "Midtjylland",
+   "Rubin Kazan",
+   "Midtjylland",
+   "Anderlecht",
+   "San Diego FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "albert-rusnak",
+  "name": "Albert Rusnák",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Slovakia",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "Manchester City",
+   "SC Cambuur",
+   "FC Groningen",
+   "Real Salt Lake",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No issues known; early-career Oldham loan ended after reportedly refusing a reserve match",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jesus-ferreira",
+  "name": "Jesús Ferreira",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Seattle Sounders FC",
+  "career": [
+   "FC Dallas",
+   "Seattle Sounders FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no issues known",
+  "notes": "No incident codes. Traded by Dallas, not a forced move."
+ },
+ {
+  "id": "walker-zimmerman",
+  "name": "Walker Zimmerman",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Toronto FC",
+  "career": [
+   "FC Dallas",
+   "Los Angeles FC",
+   "Nashville SC",
+   "Toronto FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "funded a college scholarship, no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "josh-sargent",
+  "name": "Josh Sargent",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Toronto FC",
+  "career": [
+   "Werder Bremen",
+   "Norwich City",
+   "Toronto FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "made himself unavailable at Norwich amid a transfer bid",
+  "notes": "forced_transfer: in January 2026 he made himself unavailable for Norwich's FA Cup tie after a Toronto FC bid; Norwich called it unacceptable, sale completed in February."
+ },
+ {
+  "id": "ryan-gauld",
+  "name": "Ryan Gauld",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Scotland",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Dundee United",
+   "Sporting CP",
+   "Vitória de Setúbal",
+   "Aves",
+   "Farense",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues known; club captain",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "casey-murphy",
+  "name": "Casey Murphy",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Montpellier",
+   "OL Reign",
+   "North Carolina Courage",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record on conduct; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nichelle-prince",
+  "name": "Nichelle Prince",
+  "gender": "W",
+  "active": true,
+  "born": 1995,
+  "nation": "Canada",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Houston Dash",
+   "Kansas City Current",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record on conduct; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "amanda-gutierres",
+  "name": "Amanda Gutierres",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Embu das Artes",
+   "Foz Cataratas",
+   "Santos",
+   "Bordeaux",
+   "Palmeiras",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lilly-reale",
+  "name": "Lilly Reale",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Gotham FC",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yazmeen-ryan",
+  "name": "Yazmeen Ryan",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Portland Thorns FC",
+   "NJ/NY Gotham FC",
+   "Houston Dash",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. 2022 champion with Portland Thorns."
+ },
+ {
+  "id": "jaelin-howell",
+  "name": "Jaelin Howell",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Racing Louisville",
+   "Seattle Reign",
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bruninha",
+  "name": "Bruninha",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Gotham FC",
+  "career": [
+   "Internacional",
+   "Santos",
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sarah-puntigam",
+  "name": "Sarah Puntigam",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "Austria",
+  "current_club": "Houston Dash",
+  "career": [
+   "Bayern Munich",
+   "SC Kriens",
+   "SC Freiburg",
+   "Montpellier",
+   "1. FC Köln",
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "allysha-chapman",
+  "name": "Allysha Chapman",
+  "gender": "W",
+  "active": true,
+  "born": 1989,
+  "nation": "Canada",
+  "current_club": "Houston Dash",
+  "career": [
+   "Houston Dash",
+   "Boston Breakers",
+   "Houston Dash"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes known; swore at Australia's coach on a live mic at the 2023 World Cup",
+  "notes": "No incident codes. 2023 World Cup verbal outburst at an opposing coach, reflected in CH only."
+ },
+ {
+  "id": "michelle-cooper",
+  "name": "Michelle Cooper",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hailie-mace",
+  "name": "Hailie Mace",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Orlando Pride",
+  "career": [
+   "FC Rosengård",
+   "North Carolina Courage",
+   "Kansas City Current",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "angelina",
+  "name": "Angelina",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Brazil",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Santos",
+   "Palmeiras",
+   "OL Reign",
+   "Orlando Pride"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "taylor-flint",
+  "name": "Taylor Flint",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Orlando Pride",
+   "San Diego Wave",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes; straight red for serious foul play on loan at Duisburg (2020), a tackle rather than violent conduct."
+ },
+ {
+  "id": "kenza-dali",
+  "name": "Kenza Dali",
+  "gender": "W",
+  "active": true,
+  "born": 1991,
+  "nation": "France",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Lyon",
+   "Dijon",
+   "West Ham United",
+   "Everton",
+   "Aston Villa",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues found; open about family hardships",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "claudia-dickey",
+  "name": "Claudia Dickey",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mia-fishel",
+  "name": "Mia Fishel",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Tigres UANL",
+   "Chelsea",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues found; published a children's book",
+  "notes": "No incident codes."
+ }
+]

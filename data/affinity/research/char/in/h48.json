@@ -1,0 +1,603 @@
+[
+ {
+  "id": "jeong-sang-bin",
+  "name": "Jeong Sang-Bin",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "South Korea",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Suwon Samsung Bluewings",
+   "Wolverhampton Wanderers",
+   "Grasshopper Club Zürich",
+   "Minnesota United",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. ESPN gives no nation; Wikipedia: South Korean."
+ },
+ {
+  "id": "rafael-santos",
+  "name": "Rafael Santos",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Brazil",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Chapecoense",
+   "Ponte Preta",
+   "Coritiba",
+   "Orlando City SC",
+   "Colorado Rapids",
+   "St. Louis City SC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; fined in 2024 for slow exit after a red card",
+  "notes": "No incident codes. Fined by MLS in 2024 for not leaving the field promptly after a second yellow (not violent conduct)."
+ },
+ {
+  "id": "alexandru-matan",
+  "name": "Alexandru Matan",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Romania",
+  "current_club": "St. Louis City SC",
+  "career": [
+   "Viitorul Constanța",
+   "Voluntari",
+   "Columbus Crew",
+   "Dibba Al-Hisn",
+   "Panetolikos",
+   "St. Louis City SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "money_league: brief 2025 spell (3 apps) at UAE club Dibba Al-Hisn after leaving Columbus."
+ },
+ {
+  "id": "luka-gavran",
+  "name": "Luka Gavran",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Canada",
+  "current_club": "Toronto FC",
+  "career": [
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alonso-coello",
+  "name": "Alonso Coello",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Spain",
+  "current_club": "Toronto FC",
+  "career": [
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "derrick-etienne-jr",
+  "name": "Derrick Etienne Jr.",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Haiti",
+  "current_club": "Toronto FC",
+  "career": [
+   "New York Red Bulls",
+   "Columbus Crew",
+   "Atlanta United",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "theo-corbeanu",
+  "name": "Theo Corbeanu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Canada",
+  "current_club": "Toronto FC",
+  "career": [
+   "Wolverhampton Wanderers",
+   "Granada",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "raheem-edwards",
+  "name": "Raheem Edwards",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Canada",
+  "current_club": "Toronto FC",
+  "career": [
+   "Minnesota United",
+   "Los Angeles FC",
+   "LA Galaxy",
+   "CF Montréal",
+   "New York Red Bulls",
+   "Toronto FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mathias-laborda",
+  "name": "Mathías Laborda",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Uruguay",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Nacional",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "edier-ocampo",
+  "name": "Édier Ocampo",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Colombia",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Atlético Nacional",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "criticised for an early celebration in a youth shoot-out; otherwise little record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oliver-larraz",
+  "name": "Oliver Larraz",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Vancouver Whitecaps",
+  "career": [
+   "Colorado Rapids",
+   "Vancouver Whitecaps"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "evelyn-shores",
+  "name": "Evelyn Shores",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maiara-niehues",
+  "name": "Maiara Niehues",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "Brazil",
+  "current_club": "Angel City FC",
+  "career": [
+   "Chapecoense",
+   "Internacional",
+   "Sporting CP",
+   "Angel City FC"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "two red cards in 2026; otherwise little public record",
+  "notes": "red_card_violence 1: sent off on 2 May 2026 for striking Utah's Cloé Lacasse; extra one-match ban for Major Game Misconduct."
+ },
+ {
+  "id": "nealy-martin",
+  "name": "Nealy Martin",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Racing Louisville",
+   "Gotham FC",
+   "Angel City FC"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "little public record; SEC Scholar-Athlete of the Year",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "riley-tiernan",
+  "name": "Riley Tiernan",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Angel City FC",
+  "career": [
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "prisca-chilufya",
+  "name": "Prisca Chilufya",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Zambia",
+  "current_club": "Angel City FC",
+  "career": [
+   "BIIK Kazygurt",
+   "Tomiris-Turan",
+   "Fatih Karagümrük",
+   "FC Juárez",
+   "Orlando Pride",
+   "Angel City FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joelle-anderson",
+  "name": "Joelle Anderson",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Houston Dash",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maddie-moreau",
+  "name": "Maddie Moreau",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alex-pfeiffer",
+  "name": "Alex Pfeiffer",
+  "gender": "W",
+  "active": true,
+  "born": 2007,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Kansas City Current",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dorian-bailey",
+  "name": "Dorian Bailey",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Bay FC",
+  "career": [
+   "Washington Spirit",
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sammy-smith",
+  "name": "Sammy Smith",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "FHL",
+   "Breiðablik",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "aleigh-gambone",
+  "name": "Aleigh Gambone",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Boston Legacy FC",
+  "career": [
+   "Fortuna Hjørring",
+   "Glasgow City",
+   "1. FC Nürnberg (loan)",
+   "Boston Legacy FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nadia-gomes",
+  "name": "Nádia Gomes",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Portugal",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Orlando Pride",
+   "San Francisco Glens",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jenna-bike",
+  "name": "Jenna Bike",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "NJ/NY Gotham FC",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tessa-dellarose",
+  "name": "Tessa Dellarose",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Pittsburgh Riveters",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ryan-gareis",
+  "name": "Ryan Gareis",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Houston Dash",
+   "Chicago Stars FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. Now goes by Ryan Connaughton on Wikipedia."
+ },
+ {
+  "id": "bea-franklin",
+  "name": "Bea Franklin",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "Chicago Stars FC",
+  "career": [
+   "Chicago Stars FC"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "little public record; one-game suspension for misconduct in 2024",
+  "notes": "No incident codes. One-game suspension (misconduct, June 2024), nature not specified."
+ },
+ {
+  "id": "devin-lynch",
+  "name": "Devin Lynch",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "natasha-flint",
+  "name": "Natasha Flint",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "England",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Blackburn Rovers",
+   "Leicester City",
+   "Liverpool",
+   "Celtic",
+   "Tampa Bay Sun",
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes. Briefly at Liverpool (2023)."
+ },
+ {
+  "id": "natalie-means",
+  "name": "Natalie Means",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yuna-mccormack",
+  "name": "Yuna McCormack",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "olivia-thomas",
+  "name": "Olivia Thomas",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Denver Summit FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sofia-cook",
+  "name": "Sofia Cook",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paige-nielsen",
+  "name": "Paige Nielsen",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Houston Dash",
+  "career": [
+   "Seattle Reign",
+   "Western Sydney Wanderers",
+   "Suwon UDC",
+   "Washington Spirit",
+   "Angel City FC",
+   "Houston Dash"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabrielle-robinson",
+  "name": "Gabrielle Robinson",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Kansas City Current"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "little public record; one ejection for a hard foul in 2025",
+  "notes": "No incident codes (2025 ejection was for a hard tackle, not off-ball violence)."
+ },
+ {
+  "id": "bayley-feist",
+  "name": "Bayley Feist",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Kansas City Current",
+  "career": [
+   "Washington Spirit",
+   "Kansas City Current"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ }
+]

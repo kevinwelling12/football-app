@@ -1,0 +1,612 @@
+[
+ {
+  "id": "marie-muller",
+  "name": "Marie Müller",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Portland Thorns",
+  "career": [
+   "SC Freiburg",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nina-nijstad",
+  "name": "Nina Nijstad",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "Netherlands",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Heerenveen",
+   "PSV",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "arin-wright",
+  "name": "Arin Wright",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Racing Louisville",
+  "career": [
+   "Chicago Red Stars",
+   "Racing Louisville"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kennedy-wesley",
+  "name": "Kennedy Wesley",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gia-corley",
+  "name": "Gia Corley",
+  "gender": "W",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Bayern Munich",
+   "TSG Hoffenheim",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Born in Tacoma, raised in Germany, Germany youth international; called up by USA U-23 in 2025, so ESPN's USA fits."
+ },
+ {
+  "id": "laurina-fazer",
+  "name": "Laurina Fazer",
+  "gender": "W",
+  "active": true,
+  "born": 2003,
+  "nation": "France",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "Paris Saint-Germain",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dudinha",
+  "name": "Dudinha",
+  "gender": "W",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "San Diego Wave FC",
+  "career": [
+   "São Paulo",
+   "San Diego Wave FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ACL injury June 2026."
+ },
+ {
+  "id": "maddie-dahlien",
+  "name": "Maddie Dahlien",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordyn-bugg",
+  "name": "Jordyn Bugg",
+  "gender": "W",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nerilia-mondesir",
+  "name": "Nérilia Mondésir",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Haiti",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Montpellier",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "narumi-miura",
+  "name": "Narumi Miura",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Japan",
+  "current_club": "Utah Royals",
+  "career": [
+   "Tokyo Verdy Beleza",
+   "North Carolina Courage",
+   "Washington Spirit",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mandy-mcglynn",
+  "name": "Mandy McGlynn",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Utah Royals",
+  "career": [
+   "NJ/NY Gotham FC",
+   "Piteå IF",
+   "NJ/NY Gotham FC",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miyabi-moriya",
+  "name": "Miyabi Moriya",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Japan",
+  "current_club": "Utah Royals",
+  "career": [
+   "INAC Kobe Leonessa",
+   "Angel City FC",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sandy-maciver",
+  "name": "Sandy MacIver",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "Scotland",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Everton",
+   "Manchester City",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hal-hershfelt",
+  "name": "Hal Hershfelt",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rosemonde-kouassi",
+  "name": "Rosemonde Kouassi",
+  "gender": "W",
+  "active": true,
+  "born": 2001,
+  "nation": "Ivory Coast",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Hapoel Ra'anana",
+   "Africa Sports",
+   "Fleury",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record otherwise; red card coded separately",
+  "notes": "red_card_violence 1: sent off Oct 2024 for striking Ludmila (fist to the back) after Ludmila pulled her hair; 2-match ban."
+ },
+ {
+  "id": "razvan-marin",
+  "name": "Razvan Marin",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Romania",
+  "current_club": "AEK Athens",
+  "career": [
+   "Viitorul Constanța",
+   "Standard Liège",
+   "Ajax",
+   "Cagliari",
+   "Empoli",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mijat-gacinovic",
+  "name": "Mijat Gacinovic",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Serbia",
+  "current_club": "AEK Athens",
+  "career": [
+   "Vojvodina",
+   "Eintracht Frankfurt",
+   "TSG Hoffenheim",
+   "Panathinaikos",
+   "AEK Athens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No known issues; little on causes",
+  "notes": "No incident codes. Moved Panathinaikos (loan) to AEK, rivals, but via Hoffenheim not directly; not coded."
+ },
+ {
+  "id": "gerard-martin",
+  "name": "Gerard Martín",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Cornellà",
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-bernal",
+  "name": "Marc Bernal",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nikita-haykin",
+  "name": "Nikita Haykin",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Russia",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Nacional",
+   "Marbella",
+   "Bnei Yehuda",
+   "Hapoel Kfar Saba",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "spoke out against Putin and the war, backs aid to Ukraine",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fredrik-andre-bjrkan",
+  "name": "Fredrik André Bjørkan",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Bodø/Glimt",
+   "Hertha BSC",
+   "Feyenoord",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joaquin-seys",
+  "name": "Joaquin Seys",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lee-han-beom",
+  "name": "Lee Han-Beom",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "South Korea",
+  "current_club": "Club Brugge",
+  "career": [
+   "FC Seoul",
+   "Midtjylland",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes. identity: ESPN lists South Africa; the only Lee Han-beom at Club Brugge is South Korean (born 2002)."
+ },
+ {
+  "id": "jacobo-ramon",
+  "name": "Jacobo Ramón",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Spain",
+  "current_club": "Como",
+  "career": [
+   "Real Madrid",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "assane-diao",
+  "name": "Assane Diao",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Senegal",
+  "current_club": "Como",
+  "career": [
+   "Real Betis",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luis-milla",
+  "name": "Luis Milla",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Spain",
+  "current_club": "Como",
+  "career": [
+   "SS Reyes",
+   "Fuenlabrada",
+   "Tenerife",
+   "Granada",
+   "Getafe",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maximo-perrone",
+  "name": "Máximo Perrone",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Argentina",
+  "current_club": "Como",
+  "career": [
+   "Vélez Sarsfield",
+   "Manchester City",
+   "Las Palmas",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-oliver-kempf",
+  "name": "Marc-Oliver Kempf",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Como",
+  "career": [
+   "Eintracht Frankfurt",
+   "SC Freiburg",
+   "VfB Stuttgart",
+   "Hertha BSC",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "william-gomes",
+  "name": "William Gomes",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Brazil",
+  "current_club": "Porto",
+  "career": [
+   "São Paulo",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pablo-rosario",
+  "name": "Pablo Rosario",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Dominican Republic",
+  "current_club": "Porto",
+  "career": [
+   "Almere City",
+   "PSV",
+   "Nice",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes. Born in Amsterdam; switched from Netherlands to Dominican Republic internationally (2025)."
+ },
+ {
+  "id": "alberto-costa",
+  "name": "Alberto Costa",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Portugal",
+  "current_club": "Porto",
+  "career": [
+   "Vitória de Guimarães",
+   "Juventus",
+   "Porto"
+  ],
+  "CH_now": 5.8,
+  "CH_why": "accused of spitting by an opponent in 2026, denied; case closed for lack of evidence",
+  "notes": "No incident codes; 2026 spitting accusation by Famalicão's Sorriso denied and closed by the federation (no evidence), so not coded."
+ },
+ {
+  "id": "zaidu-sanusi",
+  "name": "Zaidu Sanusi",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Nigeria",
+  "current_club": "Porto",
+  "career": [
+   "Mirandela",
+   "Santa Clara",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "archie-brown",
+  "name": "Archie Brown",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Lausanne-Sport",
+   "Gent",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ismail-yuksek",
+  "name": "Ismail Yüksek",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Türkiye",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Gölcükspor",
+   "Adana Demirspor",
+   "Bursaspor",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "oguz-aydin",
+  "name": "Oguz Aydin",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Türkiye",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Bucaspor",
+   "Alanyaspor",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ }
+]

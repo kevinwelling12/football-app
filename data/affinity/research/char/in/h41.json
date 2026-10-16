@@ -1,0 +1,629 @@
+[
+ {
+  "id": "javi-lopez",
+  "name": "Javi López",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Feyenoord",
+  "career": [
+   "Alavés",
+   "Real Sociedad",
+   "Real Oviedo",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. ESPN lists AM-L; Wikipedia lists left-back (on loan from Real Sociedad)."
+ },
+ {
+  "id": "christoph-lang",
+  "name": "Christoph Lang",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Austria",
+  "current_club": "LASK",
+  "career": [
+   "Sturm Graz",
+   "SV Ried",
+   "TSV Hartberg",
+   "Rapid Wien",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andres-andrade",
+  "name": "Andrés Andrade",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Panama",
+  "current_club": "LASK",
+  "career": [
+   "San Francisco",
+   "LASK",
+   "Arminia Bielefeld",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robert-ljubicic",
+  "name": "Robert Ljubicic",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Croatia",
+  "current_club": "LASK",
+  "career": [
+   "St. Pölten",
+   "Rapid Wien",
+   "Dinamo Zagreb",
+   "AEK Athens",
+   "LASK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identity: ESPN lists Austria; born in Vienna, he plays for Croatia (Wikipedia). On loan from AEK Athens."
+ },
+ {
+  "id": "matthieu-udol",
+  "name": "Matthieu Udol",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Metz",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yassine-titraoui",
+  "name": "Yassine Titraoui",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Algeria",
+  "current_club": "Lens",
+  "career": [
+   "Paradou AC",
+   "Charleroi",
+   "Lens"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes. Wikipedia spells the name Yacine Titraoui."
+ },
+ {
+  "id": "ethan-mbappe",
+  "name": "Ethan Mbappé",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Paris Saint-Germain",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ngal-ayel-mukau",
+  "name": "Ngal'ayel Mukau",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Congo DR",
+  "current_club": "Lille",
+  "career": [
+   "Mechelen",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gaetan-perrin",
+  "name": "Gaetan Perrin",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Lyon",
+   "Orléans",
+   "Auxerre",
+   "Krasnodar",
+   "Lille"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rafa-marin",
+  "name": "Rafa Marín",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Napoli",
+  "career": [
+   "Real Madrid",
+   "Alavés (loan)",
+   "Napoli",
+   "Villarreal (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alisson-santos",
+  "name": "Alisson Santos",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Napoli",
+  "career": [
+   "Vitória",
+   "Figueirense (loan)",
+   "União de Leiria (loan)",
+   "Sporting CP",
+   "Napoli"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kodai-sano",
+  "name": "Kodai Sano",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Japan",
+  "current_club": "PSV",
+  "career": [
+   "Fagiano Okayama",
+   "NEC Nijmegen",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "paul-wanner",
+  "name": "Paul Wanner",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Austria",
+  "current_club": "PSV",
+  "career": [
+   "Bayern Munich",
+   "SV Elversberg (loan)",
+   "1. FC Heidenheim (loan)",
+   "PSV"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "Turned down a Germany call-up, saying he wanted to earn it on merit",
+  "notes": "No incident codes. Switched from Germany youth teams to Austria (approved March 2026)."
+ },
+ {
+  "id": "sven-mijnans",
+  "name": "Sven Mijnans",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "PSV",
+  "career": [
+   "Sparta Rotterdam",
+   "AZ",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "esmir-bajraktarevic",
+  "name": "Esmir Bajraktarevic",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "PSV",
+  "career": [
+   "New England Revolution",
+   "PSV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing known against him",
+  "notes": "No incident codes. US-born; one senior US cap in a friendly, then switched to Bosnia and Herzegovina in 2024."
+ },
+ {
+  "id": "facundo-bernal",
+  "name": "Facundo Bernal",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Uruguay",
+  "current_club": "Real Betis",
+  "career": [
+   "Defensor Sporting",
+   "Fluminense",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes. ESPN lists him at RM; Wikipedia calls him a defensive midfielder."
+ },
+ {
+  "id": "tymoteusz-puchacz",
+  "name": "Tymoteusz Puchacz",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Poland",
+  "current_club": "Sabah",
+  "career": [
+   "Trabzonspor",
+   "Panathinaikos",
+   "1. FC Kaiserslautern",
+   "Holstein Kiel",
+   "Plymouth Argyle",
+   "Sabah"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "No causes known; pulled out of an agreed loan to GKS Katowice on deadline day 2025.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vinicius-augusto",
+  "name": "Vinicius Augusto",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Shakhtar Donetsk",
+   "Real Madrid Castilla"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes. Identity: Wikipedia title Vinicius Tobias (full name Vinícius Augusto Tobías da Silva); age, nation and club match."
+ },
+ {
+  "id": "pedrinho",
+  "name": "Pedrinho",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Vitória",
+   "Athletico Paranaense",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Dismissed by Athletico in 2023 after being named in a betting-scheme probe; acquitted by the STJD.",
+  "notes": "No incident codes: named in Brazil's 2023 Operação Penalidade Máxima (alleged paid yellow card, 2022), dismissed by Athletico, reportedly acquitted by the STJD; not coded. Wikipedia lists him as Pedro Henrique, No. 13."
+ },
+ {
+  "id": "marlon-gomes",
+  "name": "Marlon Gomes",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Vasco da Gama",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "alisson-santana",
+  "name": "Alisson Santana",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Atlético Mineiro",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaua-elias",
+  "name": "Kauã Elias",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Brazil",
+  "current_club": "Shakhtar Donetsk",
+  "career": [
+   "Fluminense",
+   "Shakhtar Donetsk"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; nothing negative known.",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mojmir-chytil",
+  "name": "Mojmír Chytil",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Sigma Olomouc",
+   "Pardubice",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "stepan-chaloupek",
+  "name": "Stepán Chaloupek",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Czechia",
+  "current_club": "Slavia Prague",
+  "career": [
+   "Teplice",
+   "Slavia Prague"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cristian-martinez",
+  "name": "Cristian Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Panama",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Chicago Fire",
+   "Las Vegas Lights",
+   "Cádiz",
+   "Plaza Amador",
+   "Ironi Kiryat Shmona",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no known issues",
+  "notes": "No incident codes. Short loans (Al-Jandal, Najran, Recreativo, Monagas) omitted; Cádiz spell was with the B team."
+ },
+ {
+  "id": "tigran-barseghyan",
+  "name": "Tigran Barseghyan",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Armenia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Mika",
+   "Gandzasar Kapan",
+   "Vardar",
+   "Kaisar",
+   "Astana",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "headbutt red card for Armenia, otherwise little record",
+  "notes": "red_card_violence 1: sent off for headbutting Ireland's Finn Azaz in a World Cup qualifier (Oct 2025)."
+ },
+ {
+  "id": "cesar-blackman",
+  "name": "César Blackman",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Panama",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Chorrillo",
+   "DAC Dunajská Streda",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "dominik-takac",
+  "name": "Dominik Takac",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Slovakia",
+  "current_club": "Slovan Bratislava",
+  "career": [
+   "Spartak Trnava",
+   "Slovan Bratislava"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "issa-doumbia",
+  "name": "Issa Doumbia",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Italy",
+  "current_club": "Sporting CP",
+  "career": [
+   "AlbinoLeffe",
+   "Venezia",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ivan-fresneda",
+  "name": "Iván Fresneda",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Spain",
+  "current_club": "Sporting CP",
+  "career": [
+   "Real Valladolid",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luis-guilherme",
+  "name": "Luis Guilherme",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Brazil",
+  "current_club": "Sporting CP",
+  "career": [
+   "Palmeiras",
+   "West Ham United",
+   "Sporting CP"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zlatko-tripic",
+  "name": "Zlatko Tripic",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Start",
+   "Greuther Fürth",
+   "Sheriff Tiraspol",
+   "Viking FK",
+   "Göztepe",
+   "Viking FK"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no issues on record; captain",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joe-bell",
+  "name": "Joe Bell",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "New Zealand",
+  "current_club": "Viking FK",
+  "career": [
+   "Viking FK",
+   "Brøndby",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "erik-botheim",
+  "name": "Erik Botheim",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Rosenborg",
+   "Bodø/Glimt",
+   "Krasnodar",
+   "Salernitana",
+   "Malmö FF",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "henrik-falchener",
+  "name": "Henrik Falchener",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Norway",
+  "current_club": "Viking FK",
+  "career": [
+   "Sandefjord",
+   "Ørn Horten",
+   "Egersund",
+   "Viking FK"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pau-navarro",
+  "name": "Pau Navarro",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Spain",
+  "current_club": "Villarreal",
+  "career": [
+   "Villarreal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable on record",
+  "notes": "No incident codes."
+ }
+]

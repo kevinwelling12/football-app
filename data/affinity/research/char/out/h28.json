@@ -1,0 +1,655 @@
+[
+ {
+  "id": "taiwo-awoniyi",
+  "name": "Taiwo Awoniyi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "own foundation in Kwara (food aid, boots for 350 kids), renovated classrooms at old schools, paid hospital bills in Ilorin; PFA Community Champion 2024/25",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taiwo_Awoniyi",
+   "https://www.thisdaylive.com/2023/06/09/taiwo-awoniyi-makes-surprise-visit-to-igh-pays-bills-for-patients/"
+  ]
+ },
+ {
+  "id": "tyrick-mitchell",
+  "name": "Tyrick Mitchell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "PFA Community Champion 2022-23 for Palace for Life Foundation work (GAME ON programme)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tyrick_Mitchell"
+  ]
+ },
+ {
+  "id": "anan-khalaili",
+  "name": "Anan Khalaili",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anan_Khalaili"
+  ]
+ },
+ {
+  "id": "eddie-nketiah",
+  "name": "Eddie Nketiah",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 6.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "one red card (2020), the first of his career",
+   "VO": "spoke against discrimination at a Kick It Out school workshop (Leeds)",
+   "CO": "school visit; still supports his grassroots club Hillyfielders",
+   "HU": "Arteta called him a role model for his attitude"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eddie_Nketiah",
+   "https://www.leedsunited.com/en/news/duo-surprise-local-school-during-kio-workshop"
+  ]
+ },
+ {
+  "id": "walter-benitez",
+  "name": "Walter Benítez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walter_Benítez_(footballer)"
+  ]
+ },
+ {
+  "id": "axel-disasi",
+  "name": "Axel Disasi",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off for a foul (Sept 2026), otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Axel_Disasi"
+  ]
+ },
+ {
+  "id": "honest-ahanor",
+  "name": "Honest Ahanor",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Honest_Ahanor"
+  ]
+ },
+ {
+  "id": "james-tarkowski",
+  "name": "James Tarkowski",
+  "SP": 5.7,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "two early-career red cards (2014, 2015)",
+   "VO": "nothing notable found",
+   "CO": "Alder Hey hospital visit; reported 2026 honour for Everton in the Community work (unconfirmed detail)",
+   "HU": "refused to play for Brentford (2016) to force a move, later apologised"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/James_Tarkowski",
+   "https://www.evertoninthecommunity.org/"
+  ]
+ },
+ {
+  "id": "kiernan-dewsbury-hall",
+  "name": "Kiernan Dewsbury-Hall",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red card (two yellows, 2023)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiernan_Dewsbury-Hall"
+  ]
+ },
+ {
+  "id": "thierno-barry",
+  "name": "Thierno Barry",
+  "SP": 5.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two red cards in a week at Basel (2023), one straight",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Thierno_Barry_(footballer,_born_2002)"
+  ]
+ },
+ {
+  "id": "vitaliy-mykolenko",
+  "name": "Vitaliy Mykolenko",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "publicly challenged Russia captain Dzyuba over silence on civilian deaths (2022)",
+   "CO": "nothing notable found",
+   "HU": "that callout used crude language"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vitaliy_Mykolenko"
+  ]
+ },
+ {
+  "id": "ainsley-maitland-niles",
+  "name": "Ainsley Maitland-Niles",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.3,
+  "why": {
+   "SP": "one red card (two yellows, 2019)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "asked publicly on Instagram to leave Arsenal (2021)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ainsley_Maitland-Niles"
+  ]
+ },
+ {
+  "id": "hayden-hackney",
+  "name": "Hayden Hackney",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.8,
+  "HU": 6.0,
+  "why": {
+   "SP": "spat at an opponent (2022), admitted it, six-match ban",
+   "VO": "nothing notable found",
+   "CO": "took part in an Everton in the Community CPR session",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hayden_Hackney",
+   "https://www.evertoninthecommunity.org/"
+  ]
+ },
+ {
+  "id": "jake-o-brien",
+  "name": "Jake O'Brien",
+  "SP": 6.0,
+  "VO": 5.5,
+  "CO": 7.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "raises type 1 diabetes awareness",
+   "CO": "Diabetes Ireland ambassador",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jake_O'Brien_(footballer)"
+  ]
+ },
+ {
+  "id": "gonzalo-garcia",
+  "name": "Gonzalo García",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gonzalo_García_(footballer,_born_2004)"
+  ]
+ },
+ {
+  "id": "timothy-castagne",
+  "name": "Timothy Castagne",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.8,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "left Atalanta saying there was no good relationship with Gasperini"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timothy_Castagne"
+  ]
+ },
+ {
+  "id": "rodrigo-muniz",
+  "name": "Rodrigo Muniz",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Muniz_(Brazilian_footballer)"
+  ]
+ },
+ {
+  "id": "konstantinos-tzolakis",
+  "name": "Konstantinos Tzolakis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Konstantinos_Tzolakis"
+  ]
+ },
+ {
+  "id": "sasa-lukic",
+  "name": "Sasa Lukic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "skipped training and a match at Torino (2022) to push for a move, apologised, lost the captaincy"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saša_Lukić",
+   "https://www.open.online/2022/08/19/calciomercato-torino-juric-perdona-lukic"
+  ]
+ },
+ {
+  "id": "issa-diop",
+  "name": "Issa Diop",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "two red cards in a season and 25 yellows in three seasons at Toulouse",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found (a 2023 custody report over alleged threats has no reported outcome; not scored)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Issa_Diop_(footballer)"
+  ]
+ },
+ {
+  "id": "lukas-hornicek",
+  "name": "Lukás Hornícek",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukáš_Horníček"
+  ]
+ },
+ {
+  "id": "joe-willock",
+  "name": "Joe Willock",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joe_Willock"
+  ]
+ },
+ {
+  "id": "amar-dedic",
+  "name": "Amar Dedic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "proceeds from a jersey went to the Krajina region (2023)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amar_Dedić"
+  ]
+ },
+ {
+  "id": "matias-fernandez-pardo",
+  "name": "Matias Fernandez-Pardo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo"
+  ]
+ },
+ {
+  "id": "anthony-elanga",
+  "name": "Anthony Elanga",
+  "SP": 6.0,
+  "VO": 5.3,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "reported racist abuse at a Sweden U21 match (2021); no campaign beyond that",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anthony_Elanga"
+  ]
+ },
+ {
+  "id": "neco-williams",
+  "name": "Neco Williams",
+  "SP": 6.3,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "declined to celebrate a goal against former club Liverpool",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neco_Williams"
+  ]
+ },
+ {
+  "id": "ola-aina",
+  "name": "Ola Aina",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ola_Aina"
+  ]
+ },
+ {
+  "id": "liam-delap",
+  "name": "Liam Delap",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "self-described aggressive style, playing 'on the edge'; no reds on record",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liam_Delap"
+  ]
+ },
+ {
+  "id": "igor-jesus",
+  "name": "Igor Jesus",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Jesus_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "enzo-le-fee",
+  "name": "Enzo Le Fée",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Enzo_Le_Fée"
+  ]
+ },
+ {
+  "id": "robin-roefs",
+  "name": "Robin Roefs",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "coached goalkeepers at his boyhood club VV Heeswijk (2021-22)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Robin_Roefs"
+  ]
+ },
+ {
+  "id": "noah-sadiki",
+  "name": "Noah Sadiki",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Sadiki"
+  ]
+ },
+ {
+  "id": "wilson-isidor",
+  "name": "Wilson Isidor",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wilson_Isidor"
+  ]
+ },
+ {
+  "id": "omar-alderete",
+  "name": "Omar Alderete",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Omar_Alderete"
+  ]
+ },
+ {
+  "id": "brandon-vazquez",
+  "name": "Brandon Vázquez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandon_Vázquez"
+  ]
+ },
+ {
+  "id": "kristijan-kahlina",
+  "name": "Kristijan Kahlina",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kristijan_Kahlina"
+  ]
+ }
+]

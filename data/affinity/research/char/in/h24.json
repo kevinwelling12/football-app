@@ -1,0 +1,633 @@
+[
+ {
+  "id": "angharad-james-turner",
+  "name": "Angharad James-Turner",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Wales",
+  "current_club": "Seattle Reign FC",
+  "career": [
+   "Everton",
+   "Reading",
+   "North Carolina Courage",
+   "Orlando Pride",
+   "Tottenham Hotspur",
+   "Seattle Reign FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "cloe-lacasse",
+  "name": "Cloé Lacasse",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "Canada",
+  "current_club": "Utah Royals",
+  "career": [
+   "ÍBV",
+   "Benfica",
+   "Arsenal",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kiana-palacios",
+  "name": "Kiana Palacios",
+  "gender": "W",
+  "active": true,
+  "born": 1996,
+  "nation": "Mexico",
+  "current_club": "Utah Royals",
+  "career": [
+   "Real Sociedad",
+   "Club América",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gabrielle-carle",
+  "name": "Gabrielle Carle",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "Canada",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Kristianstads DFF",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucia-di-guglielmo",
+  "name": "Lucia Di Guglielmo",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "Italy",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Castelfranco",
+   "Empoli",
+   "Roma",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gianluca-mancini",
+  "name": "Gianluca Mancini",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Italy",
+  "current_club": "AS Roma",
+  "career": [
+   "Perugia",
+   "Atalanta",
+   "AS Roma"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Waved a 'rat' flag at Lazio fans after 2024 derby; fined EUR 5,000, apologised",
+  "notes": "No incident codes. 2024 'rat' flag mocking Lazio fans: fined EUR 5,000, apologised; fan mockery, not discriminatory abuse (reflected in CH)."
+ },
+ {
+  "id": "bryan-cristante",
+  "name": "Bryan Cristante",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Italy",
+  "current_club": "AS Roma",
+  "career": [
+   "AC Milan",
+   "Benfica",
+   "Pescara",
+   "Atalanta",
+   "AS Roma"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "Captain, no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wesley",
+  "name": "Wesley",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Brazil",
+  "current_club": "AS Roma",
+  "career": [
+   "Flamengo",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matias-soule",
+  "name": "Matìas Soulè",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Argentina",
+  "current_club": "AS Roma",
+  "career": [
+   "Juventus",
+   "Frosinone",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leonardo-balerdi",
+  "name": "Leonardo Balerdi",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Argentina",
+  "current_club": "AS Roma",
+  "career": [
+   "Boca Juniors",
+   "Borussia Dortmund",
+   "Marseille",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "rodrigo-mora",
+  "name": "Rodrigo Mora",
+  "gender": "M",
+  "active": true,
+  "born": 2007,
+  "nation": "Portugal",
+  "current_club": "AS Roma",
+  "career": [
+   "Porto",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no known issues",
+  "notes": "No incident codes. A 2025 move to Al-Ittihad collapsed over Porto's demands; never moved, not coded."
+ },
+ {
+  "id": "giuliano-simeone",
+  "name": "Giuliano Simeone",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Argentina",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Atlético Madrid",
+   "Real Zaragoza",
+   "Alavés"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marc-pubill",
+  "name": "Marc Pubill",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Levante",
+   "Almería",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pablo-barrios",
+  "name": "Pablo Barrios",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "johnny-cardoso",
+  "name": "Johnny Cardoso",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Internacional",
+   "Real Betis",
+   "Atlético Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jens-petter-hauge",
+  "name": "Jens Petter Hauge",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Norway",
+  "current_club": "Bodø/Glimt",
+  "career": [
+   "Bodø/Glimt",
+   "Aalesund",
+   "AC Milan",
+   "Eintracht Frankfurt",
+   "Gent",
+   "Bodø/Glimt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little on conduct in sources; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brandon-mechele",
+  "name": "Brandon Mechele",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Belgium",
+  "current_club": "Club Brugge",
+  "career": [
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro; honorary citizen of Bredene",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hugo-vetlesen",
+  "name": "Hugo Vetlesen",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Norway",
+  "current_club": "Club Brugge",
+  "career": [
+   "Stabæk",
+   "Bodø/Glimt",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolo-tresoldi",
+  "name": "Nicolo Tresoldi",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Germany",
+  "current_club": "Club Brugge",
+  "career": [
+   "Hannover 96",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carlos-forbs",
+  "name": "Carlos Forbs",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Portugal",
+  "current_club": "Club Brugge",
+  "career": [
+   "Ajax",
+   "Wolverhampton Wanderers",
+   "Club Brugge"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yan-couto",
+  "name": "Yan Couto",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Como",
+  "career": [
+   "Coritiba",
+   "Girona",
+   "Braga",
+   "Girona",
+   "Borussia Dortmund",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anastasios-douvikas",
+  "name": "Anastasios Douvikas",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Greece",
+  "current_club": "Como",
+  "career": [
+   "Asteras Tripolis",
+   "Volos",
+   "Utrecht",
+   "Celta Vigo",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-da-cunha",
+  "name": "Lucas Da Cunha",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "France",
+  "current_club": "Como",
+  "career": [
+   "Rennes",
+   "Nice",
+   "Lausanne-Sport",
+   "Clermont",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jean-butez",
+  "name": "Jean Butez",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "France",
+  "current_club": "Como",
+  "career": [
+   "Lille",
+   "Mouscron",
+   "Antwerp",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxence-caqueret",
+  "name": "Maxence Caqueret",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Como",
+  "career": [
+   "Lyon",
+   "Como"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pepe",
+  "name": "Pepê",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Brazil",
+  "current_club": "Porto",
+  "career": [
+   "Foz do Iguaçu",
+   "Grêmio",
+   "Porto"
+  ],
+  "CH_now": 5.6,
+  "CH_why": "sent off in 2020 Gre-Nal brawl after trading insults (1-match ban); otherwise clean",
+  "notes": "No incident codes; one-match ban for the 2020 Gre-Nal mass brawl (insults/provocation, not violent conduct per reports)."
+ },
+ {
+  "id": "jakub-kiwior",
+  "name": "Jakub Kiwior",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Poland",
+  "current_club": "Porto",
+  "career": [
+   "Železiarne Podbrezová",
+   "Žilina",
+   "Spezia",
+   "Arsenal",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hwang-in-beom",
+  "name": "Hwang In-Beom",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "South Korea",
+  "current_club": "Porto",
+  "career": [
+   "Vancouver Whitecaps",
+   "Rubin Kazan",
+   "Olympiacos",
+   "Red Star Belgrade",
+   "Feyenoord",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no incidents; 2023 contract dispute with Olympiacos",
+  "notes": "No incident codes; left Olympiacos after a 2023 contract-length dispute (not a strike)."
+ },
+ {
+  "id": "alan-varela",
+  "name": "Alan Varela",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Argentina",
+  "current_club": "Porto",
+  "career": [
+   "Boca Juniors",
+   "Porto"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vedat-muriqi",
+  "name": "Vedat Muriqi",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Kosovo",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Gençlerbirliği",
+   "Çaykur Rizespor",
+   "Fenerbahçe",
+   "Lazio",
+   "Mallorca",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record beyond football; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "irfan-can-kahveci",
+  "name": "Irfan Can Kahveci",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Türkiye",
+  "current_club": "Fenerbahçe",
+  "career": [
+   "Gençlerbirliği",
+   "İstanbul Başakşehir",
+   "Fenerbahçe"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no incidents",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jerry-st-juste",
+  "name": "Jerry St. Juste",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Netherlands",
+  "current_club": "Feyenoord",
+  "career": [
+   "Heerenveen",
+   "Feyenoord",
+   "Mainz 05",
+   "Sporting CP",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; frozen out at Sporting in 2025 after refusing moves",
+  "notes": "No incident codes. Sent off in the 2024 Taça de Portugal final; not recorded as violent conduct."
+ },
+ {
+  "id": "anis-hadj-moussa",
+  "name": "Anis Hadj Moussa",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Algeria",
+  "current_club": "Feyenoord",
+  "career": [
+   "Charleroi",
+   "Patro Eisden",
+   "Feyenoord"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yunus-akgun",
+  "name": "Yunus Akgün",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Türkiye",
+  "current_club": "Galatasaray",
+  "career": [
+   "Galatasaray",
+   "Adana Demirspor",
+   "Leicester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "roland-sallai",
+  "name": "Roland Sallai",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Hungary",
+  "current_club": "Galatasaray",
+  "career": [
+   "Puskás Akadémia",
+   "APOEL",
+   "SC Freiburg",
+   "Galatasaray"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "turned down a big Saudi offer in 2023 to stay at Freiburg",
+  "notes": "No incident codes. Sent off vs Ireland (Sept 2025) for reasons not given on Wikipedia; not coded."
+ },
+ {
+  "id": "alexey-batrakov",
+  "name": "Alexey Batrakov",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Russia",
+  "current_club": "Galatasaray",
+  "career": [
+   "Lokomotiv Moscow",
+   "Galatasaray"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ }
+]

@@ -1,0 +1,657 @@
+[
+ {
+  "id": "angharad-james-turner",
+  "name": "Angharad James-Turner",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "openly married to Amy Turner; no public advocacy found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angharad_James_(footballer)"
+  ]
+ },
+ {
+  "id": "cloe-lacasse",
+  "name": "Cloé Lacasse",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "called her own 2021 Olympic hopes ambitious; otherwise nothing notable"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clo%C3%A9_Lacasse"
+  ]
+ },
+ {
+  "id": "kiana-palacios",
+  "name": "Kiana Palacios",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiana_Palacios"
+  ]
+ },
+ {
+  "id": "gabrielle-carle",
+  "name": "Gabrielle Carle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabrielle_Carle"
+  ]
+ },
+ {
+  "id": "lucia-di-guglielmo",
+  "name": "Lucia Di Guglielmo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucia_Di_Guglielmo"
+  ]
+ },
+ {
+  "id": "gianluca-mancini",
+  "name": "Gianluca Mancini",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "waved a 'rat' flag at Lazio fans after the 2024 derby; fined EUR 5,000",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "apologised for the flag celebration"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianluca_Mancini",
+   "https://insideworldfootball.com/2024/04/10/romas-mancini-escapes-fine-rat-flag-incident",
+   "https://ansa.it/english/news/sports/2024/04/09/soccer-mancini-fined-5000-euro-for-lazio-rat-flag_94ffa3c2-47b0-4049-8bef-4011d9514d3c.html"
+  ]
+ },
+ {
+  "id": "bryan-cristante",
+  "name": "Bryan Cristante",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "2022 Roma initiative donating kit to a grassroots club in Bastogi",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bryan_Cristante",
+   "https://sport.sky.it/calcio/serie-a/2022/10/19/cristante-roma-bastogi-iniziativa"
+  ]
+ },
+ {
+  "id": "wesley",
+  "name": "Wesley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wesley_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "id": "matias-soule",
+  "name": "Matìas Soulè",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mat%C3%ADas_Soul%C3%A9"
+  ]
+ },
+ {
+  "id": "leonardo-balerdi",
+  "name": "Leonardo Balerdi",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "several red cards at Marseille (shove on a through striker, early second yellow vs Lyon)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leonardo_Balerdi",
+   "https://www.getfootballnewsfrance.com/2024/marseille-captain-to-miss-strasbourg-fixture-through-suspension/"
+  ]
+ },
+ {
+  "id": "rodrigo-mora",
+  "name": "Rodrigo Mora",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rodrigo_Mora_(footballer,_born_2007)"
+  ]
+ },
+ {
+  "id": "giuliano-simeone",
+  "name": "Giuliano Simeone",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "reported tunnel scuffle with Ben White over the club crest (single source)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giuliano_Simeone",
+   "https://www.fanpage.it/sport/calcio/ben-white-provoca-simeone-calpestando-lo-stemma-dellatletico-scontro-nel-tunnel-degli-spogliatoi/"
+  ]
+ },
+ {
+  "id": "marc-pubill",
+  "name": "Marc Pubill",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marc_Pubill"
+  ]
+ },
+ {
+  "id": "pablo-barrios",
+  "name": "Pablo Barrios",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pablo_Barrios_(footballer)"
+  ]
+ },
+ {
+  "id": "johnny-cardoso",
+  "name": "Johnny Cardoso",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Johnny_Cardoso"
+  ]
+ },
+ {
+  "id": "jens-petter-hauge",
+  "name": "Jens Petter Hauge",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jens_Petter_Hauge"
+  ]
+ },
+ {
+  "id": "brandon-mechele",
+  "name": "Brandon Mechele",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "honorary citizen of Bredene (2019), reason not given",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brandon_Mechele"
+  ]
+ },
+ {
+  "id": "hugo-vetlesen",
+  "name": "Hugo Vetlesen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Vetlesen"
+  ]
+ },
+ {
+  "id": "nicolo-tresoldi",
+  "name": "Nicolo Tresoldi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicol%C3%B2_Tresoldi"
+  ]
+ },
+ {
+  "id": "carlos-forbs",
+  "name": "Carlos Forbs",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Forbs"
+  ]
+ },
+ {
+  "id": "yan-couto",
+  "name": "Yan Couto",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yan_Couto"
+  ]
+ },
+ {
+  "id": "anastasios-douvikas",
+  "name": "Anastasios Douvikas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anastasios_Douvikas"
+  ]
+ },
+ {
+  "id": "lucas-da-cunha",
+  "name": "Lucas Da Cunha",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lucas_Da_Cunha"
+  ]
+ },
+ {
+  "id": "jean-butez",
+  "name": "Jean Butez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red for a handball outside the box (2018); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jean_Butez"
+  ]
+ },
+ {
+  "id": "maxence-caqueret",
+  "name": "Maxence Caqueret",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maxence_Caqueret"
+  ]
+ },
+ {
+  "id": "pepe",
+  "name": "Pepê",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one of eight sent off in the 2020 Gre-Nal brawl",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pep%C3%AA_(footballer,_born_1997)"
+  ]
+ },
+ {
+  "id": "jakub-kiwior",
+  "name": "Jakub Kiwior",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jakub_Kiwior"
+  ]
+ },
+ {
+  "id": "hwang-in-beom",
+  "name": "Hwang In-Beom",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2023 contract-length dispute with Olympiacos; not a conduct issue"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hwang_In-beom"
+  ]
+ },
+ {
+  "id": "alan-varela",
+  "name": "Alan Varela",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alan_Varela"
+  ]
+ },
+ {
+  "id": "vedat-muriqi",
+  "name": "Vedat Muriqi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "donated about EUR 15,000 to 2023 Turkey-Syria earthquake relief",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vedat_Muriqi",
+   "https://amp.majorcadailybulletin.com/sport/real-mallorca/2023/02/08/110201/turkey-syria-earthquake-real-mallorca-player-donates-fund.html"
+  ]
+ },
+ {
+  "id": "irfan-can-kahveci",
+  "name": "Irfan Can Kahveci",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C4%B0rfan_Can_Kahveci"
+  ]
+ },
+ {
+  "id": "jerry-st-juste",
+  "name": "Jerry St. Juste",
+  "SP": 5.7,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in the 2024 Taca de Portugal final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "reportedly refused agreed transfers in 2025; neutral"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jerry_St._Juste"
+  ]
+ },
+ {
+  "id": "anis-hadj-moussa",
+  "name": "Anis Hadj Moussa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Anis_Hadj_Moussa"
+  ]
+ },
+ {
+  "id": "yunus-akgun",
+  "name": "Yunus Akgün",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yunus_Akg%C3%BCn"
+  ]
+ },
+ {
+  "id": "roland-sallai",
+  "name": "Roland Sallai",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "straight red for a rash challenge vs Ireland (2025); captain said not deliberate",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "chose to stay at Freiburg over a large Saudi offer"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roland_Sallai",
+   "https://rte.ie/sport/soccer/2025/0907/1532223-hungary-boss-rossi-slams-referees-performance/"
+  ]
+ },
+ {
+  "id": "alexey-batrakov",
+  "name": "Alexey Batrakov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alexey_Batrakov"
+  ]
+ }
+]

@@ -1,0 +1,644 @@
+[
+ {
+  "id": "sebastian-blanco",
+  "name": "Sebastián Blanco",
+  "gender": "M",
+  "active": true,
+  "born": 1988,
+  "nation": "Argentina",
+  "current_club": "Real Pilar",
+  "career": [
+   "Metalist Kharkiv",
+   "West Bromwich Albion",
+   "San Lorenzo",
+   "Portland Timbers",
+   "San Lorenzo",
+   "Real Pilar"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "6.5 no issues or causes",
+  "notes": ""
+ },
+ {
+  "id": "sam-hiatt",
+  "name": "Sam Hiatt",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Portland Thorns",
+  "career": [
+   "OL Reign / Seattle Reign",
+   "Portland Thorns"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "League title = 2022 NWSL Shield with OL Reign. Recount: major_trophies 0: NWSL Shield not counted."
+ },
+ {
+  "id": "briana-scurry",
+  "name": "Briana Scurry",
+  "gender": "W",
+  "active": false,
+  "born": 1971,
+  "nation": "USA",
+  "current_club": null,
+  "career": [
+   "Atlanta Beat",
+   "Washington Freedom"
+  ],
+  "CH_now": 8.5,
+  "CH_why": "concussion advocacy, pioneer for Black/LGBTQ athletes",
+  "notes": "No incidents."
+ },
+ {
+  "id": "matt-le-tissier",
+  "name": "Matt Le Tissier",
+  "gender": "M",
+  "active": false,
+  "born": 1968,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Southampton"
+  ],
+  "CH_now": 3.75,
+  "CH_why": "4 vaccine misinformation and Bucha denial",
+  "notes": "Spread COVID vaccine misinformation (2021) and Bucha 'false flag' posts (2022); resigned as Southampton ambassador."
+ },
+ {
+  "id": "gabriel-gudmundsson",
+  "name": "Gabriel Gudmundsson",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Sweden",
+  "current_club": "Leeds United",
+  "career": [
+   "Halmstads BK",
+   "Groningen",
+   "Lille",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "tarik-muharemovic",
+  "name": "Tarik Muharemović",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Bosnia and Herzegovina",
+  "current_club": "Leeds United",
+  "career": [
+   "Wolfsberger AC",
+   "Juventus Next Gen",
+   "Sassuolo",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "joe-rodon",
+  "name": "Joe Rodon",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Wales",
+  "current_club": "Leeds United",
+  "career": [
+   "Swansea City",
+   "Cheltenham Town (loan)",
+   "Tottenham Hotspur",
+   "Rennes (loan)",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sean-longstaff",
+  "name": "Sean Longstaff",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Leeds United",
+  "career": [
+   "Newcastle United",
+   "Kilmarnock (loan)",
+   "Blackpool (loan)",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "At Newcastle through the 2021 Saudi PIF takeover until 2025 (not coded as money_league)."
+ },
+ {
+  "id": "melvin-bard",
+  "name": "Melvin Bard",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Leeds United (loan)",
+  "career": [
+   "Lyon",
+   "Nice",
+   "Leeds United (loan)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents. No senior France caps (3 Olympic caps)."
+ },
+ {
+  "id": "ilia-gruev",
+  "name": "Ilia Gruev",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Bulgaria",
+  "current_club": "Leeds United",
+  "career": [
+   "Werder Bremen",
+   "Leeds United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "felix-uduokhai",
+  "name": "Felix Uduokhai",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Erzgebirge Aue (youth)",
+   "1860 Munich",
+   "VfL Wolfsburg",
+   "FC Augsburg",
+   "Beşiktaş",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "marvin-friedrich",
+  "name": "Marvin Friedrich",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "Union Berlin",
+  "career": [
+   "Schalke 04",
+   "FC Augsburg",
+   "Union Berlin",
+   "Borussia Mönchengladbach",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "oliver-burke",
+  "name": "Oliver Burke",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Scotland",
+  "current_club": "Union Berlin",
+  "career": [
+   "Alavés (loan)",
+   "Sheffield United",
+   "Millwall (loan)",
+   "Werder Bremen",
+   "Birmingham City (loan)",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": "No incidents. Title: 2019 Scottish Premiership on half-season Celtic loan."
+ },
+ {
+  "id": "leopold-querfeld",
+  "name": "Leopold Querfeld",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Austria",
+  "current_club": "Union Berlin",
+  "career": [
+   "Rapid Wien",
+   "Union Berlin"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "baseline",
+  "notes": ""
+ },
+ {
+  "id": "sydney-collins",
+  "name": "Sydney Collins",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Canada",
+  "current_club": "Bay FC",
+  "career": [
+   "Bay FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little on record",
+  "notes": ""
+ },
+ {
+  "id": "mark-flekken",
+  "name": "Mark Flekken",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Netherlands",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Alemannia Aachen",
+   "Greuther Fürth",
+   "MSV Duisburg",
+   "SC Freiburg",
+   "Brentford",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 5.7,
+  "CH_why": "nothing notable; publicly blamed teammates' mentality after a 2026 defeat",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ibrahim-maza",
+  "name": "Ibrahim Maza",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Algeria",
+  "current_club": "Bayer Leverkusen",
+  "career": [
+   "Hertha BSC",
+   "Bayer Leverkusen"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-diks",
+  "name": "Kevin Diks",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Indonesia",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Vitesse",
+   "Fiorentina",
+   "Feyenoord",
+   "AGF",
+   "Copenhagen",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joe-scally",
+  "name": "Joe Scally",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "USA",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "New York City FC",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robin-hack",
+  "name": "Robin Hack",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "TSG Hoffenheim",
+   "1. FC Nürnberg",
+   "Arminia Bielefeld",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; decent pro, nothing known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "franck-honorat",
+  "name": "Franck Honorat",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "France",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Nice",
+   "Clermont",
+   "Saint-Étienne",
+   "Brest",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kevin-stoger",
+  "name": "Kevin Stöger",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Austria",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "SC Paderborn",
+   "VfL Bochum",
+   "Fortuna Düsseldorf",
+   "Mainz 05",
+   "VfL Bochum",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fares-chaibi",
+  "name": "Farès Chaïbi",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Algeria",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Toulouse",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "refused to play in Ligue 1's 2023 anti-homophobia rainbow kit",
+  "notes": "No incident codes; refused the 2023 Ligue 1 rainbow kit (reflected in CH)."
+ },
+ {
+  "id": "finn-dahmen",
+  "name": "Finn Dahmen",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Mainz 05",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "chrislain-matsima",
+  "name": "Chrislain Matsima",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "FC Augsburg",
+  "career": [
+   "AS Monaco",
+   "Clermont",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marius-wolf",
+  "name": "Marius Wolf",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Germany",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Hannover 96",
+   "Eintracht Frankfurt",
+   "Borussia Dortmund",
+   "Hertha BSC",
+   "1. FC Köln",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "seol-young-woo",
+  "name": "Seol Young-Woo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "South Korea",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Ulsan HD",
+   "Red Star Belgrade",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.1,
+  "CH_why": "nothing notable; pursued legal action against online abuse",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jeffrey-gouweleeuw",
+  "name": "Jeffrey Gouweleeuw",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Netherlands",
+  "current_club": "FC Augsburg",
+  "career": [
+   "Heerenveen",
+   "AZ",
+   "FC Augsburg"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "respected captain, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "isak-johannesson",
+  "name": "Ísak Jóhannesson",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Iceland",
+  "current_club": "1. FC Köln",
+  "career": [
+   "ÍA",
+   "IFK Norrköping",
+   "Copenhagen",
+   "Fortuna Düsseldorf",
+   "1. FC Köln"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "Moved directly from Fortuna Düsseldorf to Rhine-derby rivals 1. FC Köln in 2025."
+ },
+ {
+  "id": "nicolas-capaldo",
+  "name": "Nicolás Capaldo",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Boca Juniors",
+   "Red Bull Salzburg",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "albert-sambi-lokonga",
+  "name": "Albert Sambi Lokonga",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Belgium",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Anderlecht",
+   "Arsenal",
+   "Luton Town",
+   "Sevilla",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "albert-grnbaek",
+  "name": "Albert Grønbaek",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Denmark",
+  "current_club": "Hamburger SV",
+  "career": [
+   "AGF",
+   "Bodø/Glimt",
+   "Rennes",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-mller-wolfe",
+  "name": "David Møller Wolfe",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Norway",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Brann",
+   "AZ",
+   "Wolverhampton Wanderers",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sebastiaan-bornauw",
+  "name": "Sebastiaan Bornauw",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Belgium",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Anderlecht",
+   "1. FC Köln",
+   "VfL Wolfsburg",
+   "Leeds United",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "zakaria-el-ouahdi",
+  "name": "Zakaria El Ouahdi",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Morocco",
+  "current_club": "Hamburger SV",
+  "career": [
+   "RWDM Brussels",
+   "Genk",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sheraldo-becker",
+  "name": "Sheraldo Becker",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Suriname",
+  "current_club": "Mainz 05",
+  "career": [
+   "PEC Zwolle",
+   "ADO Den Haag",
+   "Union Berlin",
+   "Real Sociedad",
+   "Osasuna",
+   "Mainz 05"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ }
+]

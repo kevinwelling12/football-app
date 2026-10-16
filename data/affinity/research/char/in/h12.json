@@ -1,0 +1,648 @@
+[
+ {
+  "id": "rafael-leao",
+  "name": "Rafael Leão",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Portugal",
+  "current_club": "Galatasaray",
+  "career": [
+   "Sporting CP",
+   "Lille",
+   "AC Milan",
+   "Galatasaray"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "simulation bookings at Euro 2024, frustration when substituted",
+  "notes": "No incident codes. Ended his Sporting contract after the 2018 Alcochete attack (CAS ruled it a breach; not coded as forced transfer given the attack). 2022 red for kicking Ferrari's head in a bicycle-kick attempt treated as reckless play, not off-ball violence."
+ },
+ {
+  "id": "alessandro-bastoni",
+  "name": "Alessandro Bastoni",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Italy",
+  "current_club": "Internazionale",
+  "career": [
+   "Atalanta",
+   "Parma",
+   "Internazionale"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "Feb 2026 theatrical fall got Kalulu sent off, mimed a card and celebrated; later apologised for his behaviour",
+  "notes": "Since June 2026 under formal investigation (indagato, not charged) in a Milan child-prostitution probe over a 2020 encounter with a 17-year-old; he denies it and the girl told investigators she took no money. Not coded until charged."
+ },
+ {
+  "id": "marcus-thuram",
+  "name": "Marcus Thuram",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "France",
+  "current_club": "Internazionale",
+  "career": [
+   "Sochaux",
+   "Guingamp",
+   "Borussia Mönchengladbach",
+   "Internazionale"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "took a knee for George Floyd in 2020; booked for diving in the 2022 World Cup final",
+  "notes": "red_card_violence 1: spat at Stefan Posch (Dec 2020), sent off, six-match ban and fine."
+ },
+ {
+  "id": "hakan-calhanoglu",
+  "name": "Hakan Çalhanoglu",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Türkiye",
+  "current_club": "Internazionale",
+  "career": [
+   "Karlsruher SC",
+   "Hamburger SV",
+   "Bayer Leverkusen",
+   "AC Milan",
+   "Internazionale"
+  ],
+  "CH_now": 4.0,
+  "CH_why": "publicly backed Turkey's 2019 Syria offensive with a military salute and posted for Erdoğan's 2017 referendum; met Inter ultras against club advice (FIGC ban, 2025); FIFA ban 2017 for Trabzonspor contract breach",
+  "notes": "rival_move 1: joined Inter directly from AC Milan on a free in 2021."
+ },
+ {
+  "id": "olivier-giroud",
+  "name": "Olivier Giroud",
+  "gender": "M",
+  "active": true,
+  "born": 1986,
+  "nation": "France",
+  "current_club": "Lille",
+  "career": [
+   "Montpellier",
+   "Arsenal",
+   "Chelsea",
+   "AC Milan",
+   "Los Angeles FC",
+   "Lille"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "charity for children's heart surgery and persecuted Christians; 2014 infidelity apology",
+  "notes": "red_card_violence: sent off for a headbutt on Nedum Onuoha in 2014, three-match ban."
+ },
+ {
+  "id": "desire-doue",
+  "name": "Désiré Doué",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "France",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Rennes",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes. Second-yellow red card for France U21 in 2023, not violent conduct."
+ },
+ {
+  "id": "johan-cruyff",
+  "name": "Johan Cruyff",
+  "gender": "M",
+  "active": false,
+  "born": 1947,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Barcelona",
+   "Los Angeles Aztecs",
+   "Washington Diplomats",
+   "Levante",
+   "Ajax",
+   "Feyenoord"
+  ],
+  "CH_now": 6.75,
+  "CH_why": "Cruyff Foundation courts, but combative and feud-prone",
+  "notes": "rival_move: joined Feyenoord from Ajax in 1983 after Ajax did not renew him."
+ },
+ {
+  "id": "alfredo-di-stefano",
+  "name": "Alfredo Di Stéfano",
+  "gender": "M",
+  "active": false,
+  "born": 1926,
+  "nation": "Spain/Argentina",
+  "current_club": null,
+  "career": [
+   "River Plate",
+   "Huracán",
+   "Millonarios",
+   "Real Madrid",
+   "Espanyol"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "domineering dressing-room boss, no causes",
+  "notes": "No incidents (1963 kidnapping in Venezuela, he was the victim)."
+ },
+ {
+  "id": "philippe-coutinho",
+  "name": "Philippe Coutinho",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Brazil",
+  "current_club": "Santos",
+  "career": [
+   "Barcelona",
+   "Bayern Munich",
+   "Aston Villa",
+   "Al-Duhail",
+   "Vasco da Gama",
+   "Santos"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "5.5 no causes",
+  "notes": "Transfer request and absence in 2017 while Liverpool refused Barcelona bids; 2023-24 loan to Qatari club Al-Duhail."
+ },
+ {
+  "id": "crystal-dunn",
+  "name": "Crystal Dunn",
+  "gender": "W",
+  "active": true,
+  "born": 1992,
+  "nation": "USA",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Washington Spirit",
+   "Chelsea",
+   "North Carolina Courage",
+   "Portland Thorns",
+   "NJ/NY Gotham FC",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "equal pay, racial justice, mothers' rights",
+  "notes": "No incidents; plaintiff in 2019 USWNT equal-pay lawsuit; joined Qatar-owned PSG 2025 (French club). Recount: major_trophies 6: WC 2019, NWSL 2018/2019/2022, CONCACAF 2018, W Gold Cup 2024."
+ },
+ {
+  "id": "alessia-russo",
+  "name": "Alessia Russo",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Chelsea",
+   "Manchester United",
+   "Arsenal"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no causes on record",
+  "notes": "No incidents."
+ },
+ {
+  "id": "leah-williamson",
+  "name": "Leah Williamson",
+  "gender": "W",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Arsenal"
+  ],
+  "CH_now": 8.75,
+  "CH_why": "white-shorts change, LGBTQ ally",
+  "notes": "Campaigned on white shorts and periods; LGBTQ allyship; public about endometriosis."
+ },
+ {
+  "id": "fridolina-rolfo",
+  "name": "Fridolina Rolfö",
+  "gender": "W",
+  "active": true,
+  "born": 1993,
+  "nation": "Sweden",
+  "current_club": "Manchester United",
+  "career": [
+   "Linköpings FC",
+   "Bayern Munich",
+   "VfL Wolfsburg",
+   "Barcelona",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "humble, no causes on record",
+  "notes": ""
+ },
+ {
+  "id": "giulia-gwinn",
+  "name": "Giulia Gwinn",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Germany",
+  "current_club": "Bayern Munich",
+  "career": [
+   "SC Freiburg",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no causes on record",
+  "notes": "No incident codes; Bundesliga count (2021, 2023-2025) from general record, research said only 'titles'."
+ },
+ {
+  "id": "ibrahima-konate",
+  "name": "Ibrahima Konaté",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "France",
+  "current_club": "Real Madrid",
+  "career": [
+   "Sochaux",
+   "RB Leipzig",
+   "Liverpool",
+   "Real Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes; ran down contract, left Liverpool for Real Madrid on a free 2026. PL count unsure (research says 2, moments list only 2025)."
+ },
+ {
+  "id": "hugo-ekitike",
+  "name": "Hugo Ekitiké",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Liverpool",
+  "career": [
+   "Reims",
+   "Paris Saint-Germain",
+   "Eintracht Frankfurt",
+   "Liverpool"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "thin record, baseline",
+  "notes": "No incident codes; played for Qatar-owned PSG 2022-24 (French league, not coded as money_league)."
+ },
+ {
+  "id": "ferenc-puskas",
+  "name": "Ferenc Puskás",
+  "gender": "M",
+  "active": false,
+  "born": 1927,
+  "nation": "Hungary",
+  "current_club": null,
+  "career": [
+   "Budapest Honvéd",
+   "Real Madrid"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "jovial, popular, no issues",
+  "notes": ""
+ },
+ {
+  "id": "gerd-muller",
+  "name": "Gerd Müller",
+  "gender": "M",
+  "active": false,
+  "born": 1945,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "TSV 1861 Nördlingen",
+   "Bayern Munich",
+   "Fort Lauderdale Strikers"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "shy and modest, no causes",
+  "notes": ""
+ },
+ {
+  "id": "lev-yashin",
+  "name": "Lev Yashin",
+  "gender": "M",
+  "active": false,
+  "born": 1929,
+  "nation": "Soviet Union",
+  "current_club": null,
+  "career": [
+   "Dynamo Moscow"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "humble, no issues",
+  "notes": ""
+ },
+ {
+  "id": "marco-van-basten",
+  "name": "Marco van Basten",
+  "gender": "M",
+  "active": false,
+  "born": 1964,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Ajax",
+   "AC Milan"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "2020 'Sieg Heil' TV remark, apologised",
+  "notes": "2020: said 'Sieg Heil' on live Dutch TV; apologised, pay docked. Recount: racist_abuse 0: 'Sieg Heil' remark is a Nazi/fascist act, kept in notes."
+ },
+ {
+  "id": "romario",
+  "name": "Romário",
+  "gender": "M",
+  "active": false,
+  "born": 1966,
+  "nation": "Brazil",
+  "current_club": null,
+  "career": [
+   "Flamengo",
+   "Valencia",
+   "Flamengo",
+   "Vasco da Gama",
+   "Fluminense",
+   "Vasco da Gama"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "disability advocacy as legislator, minus ego and feuds",
+  "notes": "2007 positive test for finasteride, 120-day ban overturned on appeal 2008 (doping coded 0); brief 2003 spell at Qatari club Al Sadd (not in research clubs list); advocate for people with disabilities, later senator. Recount: money_league 0: Al Sadd 2003 was a three-month loan (3 apps), under a season."
+ },
+ {
+  "id": "gianluigi-buffon",
+  "name": "Gianluigi Buffon",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Parma",
+   "Juventus",
+   "Paris Saint-Germain",
+   "Juventus",
+   "Parma"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "gracious to opponents, minus '88' shirt and fascist slogan in 2000",
+  "notes": "2000 wore '88' shirt and used fascist slogan 'Boia chi molla' (changed number, claimed ignorance); 2006 betting investigation, cleared; played for Qatar-owned PSG 2018-19 (French club). Recount: racist_abuse 0: '88' shirt and 'Boia chi molla' are fascist, kept in notes."
+ },
+ {
+  "id": "thierry-henry",
+  "name": "Thierry Henry",
+  "gender": "M",
+  "active": false,
+  "born": 1977,
+  "nation": "France",
+  "current_club": null,
+  "career": [
+   "Monaco",
+   "Juventus",
+   "Arsenal",
+   "Barcelona",
+   "New York Red Bulls",
+   "Arsenal"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "anti-racism stance, minus aloofness and Ireland handball",
+  "notes": "2009 handball setting up France's World Cup play-off winner vs Ireland, admitted."
+ },
+ {
+  "id": "jamie-vardy",
+  "name": "Jamie Vardy",
+  "gender": "M",
+  "active": true,
+  "born": 1987,
+  "nation": "England",
+  "current_club": "Cremonese",
+  "career": [
+   "Stocksbridge Park Steels",
+   "FC Halifax Town",
+   "Fleetwood Town",
+   "Leicester City",
+   "Cremonese"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "4.5 brash, taunting (racist abuse and assault applied separately)",
+  "notes": "2007 street assault conviction (tag/curfew); 2015 filmed racially abusing a man in a casino, fined by club and apologised. Recount: red_card_violence 0: 2007 street assault was off-pitch (counted in criminal_other only)."
+ },
+ {
+  "id": "emily-fox",
+  "name": "Emily Fox",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Arsenal",
+  "career": [
+   "Racing Louisville",
+   "North Carolina Courage",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "Recount: major_trophies 3: UWCL 2025, CONCACAF 2022, W Gold Cup 2024; Olympics not counted."
+ },
+ {
+  "id": "chloe-kelly",
+  "name": "Chloe Kelly",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Arsenal",
+   "Everton",
+   "Manchester City",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "confident, public dispute with City",
+  "notes": "2025 public statement accusing Man City of obstructing her loan; not a strike."
+ },
+ {
+  "id": "dayot-upamecano",
+  "name": "Dayot Upamecano",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "France",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues beyond facing racist abuse himself",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-raya",
+  "name": "David Raya",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "Arsenal",
+  "career": [
+   "Blackburn Rovers",
+   "Brentford",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "bruno-guimaraes",
+  "name": "Bruno Guimarães",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Brazil",
+  "current_club": "Arsenal",
+  "career": [
+   "Audax",
+   "Athletico Paranaense",
+   "Lyon",
+   "Newcastle United",
+   "Arsenal"
+  ],
+  "CH_now": 5.7,
+  "CH_why": "passionate, often booked; asked to leave as Newcastle captain",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eberechi-eze",
+  "name": "Eberechi Eze",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Queens Park Rangers",
+   "Crystal Palace",
+   "Arsenal"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, rebuilt career after academy releases",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jack-grealish",
+  "name": "Jack Grealish",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Aston Villa",
+   "Notts County",
+   "Manchester City",
+   "Everton"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "warm with fans with disabilities, but lockdown breaches, nights out, driving bans",
+  "notes": "criminal_other: careless driving convictions (2020 lockdown crash into parked cars, plus a 90mph incident), nine-month ban, £82k fine. red_card_violence: three-match ban for a stamp (2016). Audit: motoring offences are coded only for drink-driving or harm to someone; reflected in CH."
+ },
+ {
+  "id": "marc-guehi",
+  "name": "Marc Guéhi",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Manchester City",
+  "career": [
+   "Chelsea",
+   "Swansea City",
+   "Crystal Palace",
+   "Manchester City"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "calm, respected leader; wrote religious messages on rainbow armband (2024)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "elliot-anderson",
+  "name": "Elliot Anderson",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "England",
+  "current_club": "Manchester City",
+  "career": [
+   "Newcastle United",
+   "Bristol Rovers",
+   "Nottingham Forest",
+   "Manchester City"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matheus-cunha",
+  "name": "Matheus Cunha",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Brazil",
+  "current_club": "Manchester United",
+  "career": [
+   "Sion",
+   "RB Leipzig",
+   "Hertha BSC",
+   "Atlético Madrid",
+   "Wolverhampton Wanderers",
+   "Manchester United"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "emotional; temper incidents (coded)",
+  "notes": "red_card_violence 2: elbowed an Ipswich staff member and pulled off his glasses after a match (Dec 2024; two-match ban, £80,000 fine); sent off for violent conduct for kicking out at Milos Kerkez and aiming a headbutt in the FA Cup fifth round at Bournemouth (1 Mar 2025), then refused to leave the pitch; FA added an improper-conduct charge."
+ },
+ {
+  "id": "bryan-mbeumo",
+  "name": "Bryan Mbeumo",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Cameroon",
+  "current_club": "Manchester United",
+  "career": [
+   "Troyes",
+   "Brentford",
+   "Manchester United"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lisandro-martinez",
+  "name": "Lisandro Martínez",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Manchester United",
+  "career": [
+   "Newell's Old Boys",
+   "Defensa y Justicia",
+   "Ajax",
+   "Manchester United"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "combative; held up a Falklands banner after the 2026 WC semi",
+  "notes": "red_card_violence 1: straight red for pulling Dominic Calvert-Lewin's hair v Leeds (13 Apr 2026), three-match ban."
+ }
+]

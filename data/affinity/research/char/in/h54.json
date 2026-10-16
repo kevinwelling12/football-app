@@ -1,0 +1,592 @@
+[
+ {
+  "id": "dawid-bugaj",
+  "name": "Dawid Bugaj",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Poland",
+  "current_club": "CF Montréal",
+  "career": [
+   "Lechia Gdańsk",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "efrain-morales",
+  "name": "Efraín Morales",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Bolivia",
+  "current_club": "CF Montréal",
+  "career": [
+   "Atlanta United",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hennadii-synchuk",
+  "name": "Hennadii Synchuk",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Ukraine",
+  "current_club": "CF Montréal",
+  "career": [
+   "Metalist Kharkiv",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "fabian-herbers",
+  "name": "Fabian Herbers",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "CF Montréal",
+  "career": [
+   "Philadelphia Union",
+   "Chicago Fire",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "morrison-agyemang",
+  "name": "Morrison Agyemang",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Ghana",
+  "current_club": "Charlotte FC",
+  "career": [
+   "HNK Šibenik",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "brandt-bronico",
+  "name": "Brandt Bronico",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Chicago Fire",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jonathan-dean",
+  "name": "Jonathan Dean",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Birmingham Legion",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "leonardo-barroso",
+  "name": "Leonardo Barroso",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Portugal",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mauricio-pineda",
+  "name": "Mauricio Pineda",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wayne-frederick",
+  "name": "Wayne Frederick",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Trinidad and Tobago",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nico-hansen",
+  "name": "Nico Hansen",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Denmark",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Swansea City",
+   "Atherton Collieries",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Identity: Wikipedia page is Nicolas Defreitas-Hansen, US-born of a Danish father, Rapids goalkeeper, born 2001."
+ },
+ {
+  "id": "taha-habroune",
+  "name": "Taha Habroune",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Columbus Crew",
+  "career": [
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sekou-tidiany-bangoura",
+  "name": "Sékou Tidiany Bangoura",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Guinea",
+  "current_club": "Columbus Crew",
+  "career": [
+   "İstanbul Başakşehir",
+   "Jammerbugt FC",
+   "Tuzlaspor",
+   "Hapoel Ironi Kiryat Shmona",
+   "Columbus Crew"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lucas-bartlett",
+  "name": "Lucas Bartlett",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "D.C. United",
+  "career": [
+   "FC Dallas",
+   "St. Louis City SC",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jackson-hopkins",
+  "name": "Jackson Hopkins",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "D.C. United",
+  "career": [
+   "Loudoun United",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jared-stroud",
+  "name": "Jared Stroud",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "D.C. United",
+  "career": [
+   "New York Red Bulls",
+   "Austin FC",
+   "St. Louis City SC",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-gidi",
+  "name": "Samuel Gidi",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Slovakia",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "MŠK Žilina",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ender-echenique",
+  "name": "Ender Echenique",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Venezuela",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Aragua",
+   "Caracas",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "gerardo-valenzuela",
+  "name": "Gerardo Valenzuela",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tom-barlow",
+  "name": "Tom Barlow",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "New York Red Bulls",
+   "Chicago Fire",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ayoub-jabbari",
+  "name": "Ayoub Jabbari",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Morocco",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Racing Santander",
+   "Paris FC",
+   "Grenoble",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kaick",
+  "name": "Kaick",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "Brazil",
+  "current_club": "FC Dallas",
+  "career": [
+   "Grêmio",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joaquin-valiente",
+  "name": "Joaquín Valiente",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Uruguay",
+  "current_club": "FC Dallas",
+  "career": [
+   "Defensor Sporting",
+   "Barcelona SC",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "logan-farrington",
+  "name": "Logan Farrington",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nolan-norris",
+  "name": "Nolan Norris",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ran-binyamin",
+  "name": "Ran Binyamin",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Israel",
+  "current_club": "FC Dallas",
+  "career": [
+   "Hapoel Tel Aviv",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "patrickson-delgado",
+  "name": "Patrickson Delgado",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Ecuador",
+  "current_club": "FC Dallas",
+  "career": [
+   "Independiente del Valle",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "franco-negri",
+  "name": "Franco Negri",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Argentina",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Belgrano",
+   "Newell's Old Boys",
+   "Godoy Cruz",
+   "Inter Miami CF",
+   "San Diego FC",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ibrahim-aliyu",
+  "name": "Ibrahim Aliyu",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Nigeria",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Lokomotiva Zagreb",
+   "Houston Dynamo FC",
+   "Columbus Crew",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ian-fray",
+  "name": "Ian Fray",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Jamaica",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mateo-silvetti",
+  "name": "Mateo Silvetti",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Argentina",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Newell's Old Boys",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "john-nelson",
+  "name": "John Nelson",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "LA Galaxy",
+  "career": [
+   "FC Dallas",
+   "FC Cincinnati",
+   "St. Louis City SC",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "carlos-garces",
+  "name": "Carlos Garcés",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Colombia",
+  "current_club": "LA Galaxy",
+  "career": [
+   "Deportivo Pereira",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes. Also listed as Emiro Garcés (Carlos Emiro Garcés Torres)."
+ },
+ {
+  "id": "mamadou-dieng",
+  "name": "Mamadou Dieng",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "Senegal",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Hartford Athletic",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "matthew-corcoran",
+  "name": "Matthew Corcoran",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "USA",
+  "current_club": "Nashville SC",
+  "career": [
+   "North Texas SC",
+   "Birmingham Legion FC",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "reed-baker-whiting",
+  "name": "Reed Baker-Whiting",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "USA",
+  "current_club": "Nashville SC",
+  "career": [
+   "Seattle Sounders FC",
+   "Nashville SC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ }
+]

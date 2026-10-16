@@ -1,0 +1,649 @@
+[
+ {
+  "id": "granit-xhaka",
+  "name": "Granit Xhaka",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Switzerland",
+  "current_club": "Sunderland",
+  "career": [
+   "Basel",
+   "Borussia Mönchengladbach",
+   "Arsenal",
+   "Bayer Leverkusen",
+   "Sunderland"
+  ],
+  "CH_now": 4.2,
+  "CH_why": "eagle gesture vs Serbia 2018 (fined), 2019 outburst at Arsenal fans; many red cards",
+  "notes": "Accepted a Lucerne penalty order (suspended fine) in 2026 for obtaining a fake COVID-19 vaccination certificate in 2022; admitted and apologised."
+ },
+ {
+  "id": "micky-van-de-ven",
+  "name": "Micky van de Ven",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Netherlands",
+  "current_club": "Tottenham Hotspur",
+  "career": [
+   "Volendam",
+   "VfL Wolfsburg",
+   "Tottenham Hotspur"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "no controversies; trusted with the captaincy",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hector-herrera",
+  "name": "Héctor Herrera",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Mexico",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Pachuca",
+   "Porto",
+   "Atlético Madrid",
+   "Houston Dynamo FC",
+   "Toluca",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 4.5,
+  "CH_why": "spat toward a referee in 2024 MLS playoffs",
+  "notes": "red_card_violence: straight red and 3-match MLS ban for spitting at a referee (Nov 2024)."
+ },
+ {
+  "id": "cristiana-girelli",
+  "name": "Cristiana Girelli",
+  "gender": "W",
+  "active": true,
+  "born": 1990,
+  "nation": "Italy",
+  "current_club": "Bay FC (loan from Juventus)",
+  "career": [
+   "Bardolino",
+   "Brescia",
+   "Juventus",
+   "Bay FC (loan from Juventus)"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record on conduct; nothing negative",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "janine-sonis",
+  "name": "Janine Sonis",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Canada",
+  "current_club": "Denver Summit FC",
+  "career": [
+   "Houston Dash",
+   "Sky Blue FC",
+   "Manchester City",
+   "Portland Thorns FC",
+   "Racing Louisville",
+   "Denver Summit FC"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "players' association leader, equal-treatment advocacy",
+  "notes": "No incident codes. Red card in Denver's first match (March 2026) was a VAR-upgraded tackle (serious foul play), not off-the-ball violence. Formerly Janine Beckie; 2022 champion with Portland Thorns."
+ },
+ {
+  "id": "jaedyn-shaw",
+  "name": "Jaedyn Shaw",
+  "gender": "W",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "San Diego Wave",
+   "North Carolina Courage",
+   "Gotham FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record off the pitch",
+  "notes": "No incident codes. Requested a trade from San Diego in 2024 (club statement); not a strike or forced move."
+ },
+ {
+  "id": "tierna-davidson",
+  "name": "Tierna Davidson",
+  "gender": "W",
+  "active": true,
+  "born": 1998,
+  "nation": "USA",
+  "current_club": "Gotham FC",
+  "career": [
+   "Chicago Red Stars",
+   "Gotham FC"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "openly lesbian public figure; voted captain by teammates",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lizbeth-ovalle",
+  "name": "Lizbeth Ovalle",
+  "gender": "W",
+  "active": true,
+  "born": 1999,
+  "nation": "Mexico",
+  "current_club": "Orlando Pride",
+  "career": [
+   "Tigres UANL",
+   "Orlando Pride"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "traded insults with an abusive fan online (2024), otherwise little public record",
+  "notes": "No incident codes; in October 2024 she answered a fan's online insult by calling her 'naca' (Excelsior)."
+ },
+ {
+  "id": "mackenzie-arnold",
+  "name": "Mackenzie Arnold",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Australia",
+  "current_club": "Portland Thorns",
+  "career": [
+   "Canberra United",
+   "Western Sydney Wanderers",
+   "Perth Glory",
+   "Brisbane Roar",
+   "West Ham United",
+   "Portland Thorns"
+  ],
+  "CH_now": 7.0,
+  "CH_why": "open about hearing loss to reduce stigma",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mina-tanaka",
+  "name": "Mina Tanaka",
+  "gender": "W",
+  "active": true,
+  "born": 1994,
+  "nation": "Japan",
+  "current_club": "Utah Royals",
+  "career": [
+   "Tokyo Verdy Beleza",
+   "INAC Kobe Leonessa",
+   "Bayer Leverkusen",
+   "Utah Royals"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "esme-morgan",
+  "name": "Esme Morgan",
+  "gender": "W",
+  "active": true,
+  "born": 2000,
+  "nation": "England",
+  "current_club": "Washington Spirit",
+  "career": [
+   "Manchester City",
+   "Washington Spirit"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "luka-jovic",
+  "name": "Luka Jovic",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Serbia",
+  "current_club": "AEK Athens",
+  "career": [
+   "Eintracht Frankfurt",
+   "Real Madrid",
+   "Eintracht Frankfurt",
+   "Fiorentina",
+   "AC Milan",
+   "AEK Athens"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Broke COVID self-isolation in 2020, charged, apologised",
+  "notes": "No incident codes. Charged in Serbia in 2020 for breaking COVID self-isolation; apologised; outcome reportedly a fine, not confirmed, so not coded (reflected in CH)."
+ },
+ {
+  "id": "domagoj-vida",
+  "name": "Domagoj Vida",
+  "gender": "M",
+  "active": true,
+  "born": 1989,
+  "nation": "Croatia",
+  "current_club": "AEK Athens",
+  "career": [
+   "Osijek",
+   "Bayer Leverkusen",
+   "Dinamo Zagreb",
+   "Dynamo Kyiv",
+   "Beşiktaş",
+   "AEK Athens"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "Political 'Glory to Ukraine' video at 2018 World Cup (apologised); 2012 beer-on-bus fine",
+  "notes": "No incident codes. 2011 media match-fixing claims after Lyon 7-1 Dinamo: UEFA took no action, not coded."
+ },
+ {
+  "id": "donyell-malen",
+  "name": "Donyell Malen",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Netherlands",
+  "current_club": "AS Roma",
+  "career": [
+   "PSV Eindhoven",
+   "Borussia Dortmund",
+   "Aston Villa",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No known issues; little on causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mile-svilar",
+  "name": "Mile Svilar",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Serbia",
+  "current_club": "AS Roma",
+  "career": [
+   "Anderlecht",
+   "Benfica",
+   "AS Roma"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "No known issues; declined Serbia call-up in 2024 (neutral)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "marcos-llorente",
+  "name": "Marcos Llorente",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Spain",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Real Madrid",
+   "Alavés",
+   "Atlético Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "criticised by doctors for promoting fringe diet and sun-exposure claims",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "lee-kang-in",
+  "name": "Lee Kang-In",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "South Korea",
+  "current_club": "Atlético Madrid",
+  "career": [
+   "Valencia",
+   "Mallorca",
+   "Paris Saint-Germain",
+   "Atlético Madrid"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "reported clash with senior players incl. Son at 2024 Asian Cup",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joan-garcia",
+  "name": "Joan García",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Spain",
+  "current_club": "Barcelona",
+  "career": [
+   "Espanyol",
+   "Barcelona"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no conduct issues known",
+  "notes": "rival_move: went directly from Espanyol to Barcelona (release clause, 2025); return to Espanyol needed extra security."
+ },
+ {
+  "id": "florian-thauvin",
+  "name": "Florian Thauvin",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "France",
+  "current_club": "Lens",
+  "career": [
+   "Marseille",
+   "Newcastle United",
+   "Marseille",
+   "Tigres UANL",
+   "Udinese",
+   "Lens"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no causes known; Tigres ended his contract early, reason unstated",
+  "notes": "forced_transfer: skipped training in a 2013 contract dispute to force his move from Lille to Marseille."
+ },
+ {
+  "id": "matvei-safonov",
+  "name": "Matvei Safonov",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Russia",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Krasnodar",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, no causes or issues on record",
+  "notes": "No incident codes. Court-ordered alimony in a 2024 family case is a private matter, not coded."
+ },
+ {
+  "id": "maghnes-akliouche",
+  "name": "Maghnes Akliouche",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "Paris Saint-Germain",
+  "career": [
+   "Monaco",
+   "Paris Saint-Germain"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yan-diomande",
+  "name": "Yan Diomande",
+  "gender": "M",
+  "active": true,
+  "born": 2006,
+  "nation": "Ivory Coast",
+  "current_club": "Real Madrid",
+  "career": [
+   "Leganés",
+   "RB Leipzig",
+   "Real Madrid"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no causes or issues",
+  "notes": "No incident codes. Played for US amateur side AS Frenzi before turning pro."
+ },
+ {
+  "id": "nicolas-pepe",
+  "name": "Nicolas Pépé",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Ivory Coast",
+  "current_club": "Villarreal",
+  "career": [
+   "Orléans",
+   "Lille",
+   "Arsenal",
+   "Nice",
+   "Trabzonspor",
+   "Villarreal"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "apologised after a 2020 headbutt red card",
+  "notes": "red_card_violence 1: straight red for an off-the-ball headbutt on Ezgjan Alioski (Leeds v Arsenal, Nov 2020), three-match ban; he apologised."
+ },
+ {
+  "id": "peter-gulacsi",
+  "name": "Péter Gulácsi",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Hungary",
+  "current_club": "Villarreal",
+  "career": [
+   "Liverpool",
+   "Hull City",
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Villarreal"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "stood up for LGBTQ+ families in Hungary despite backlash",
+  "notes": "No incident codes. Liverpool youth/reserve keeper 2008-2013 (no senior apps)."
+ },
+ {
+  "id": "emre-can",
+  "name": "Emre Can",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Bayern Munich",
+   "Bayer Leverkusen",
+   "Liverpool",
+   "Juventus",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 5.25,
+  "CH_why": "outspoken, combative",
+  "notes": ""
+ },
+ {
+  "id": "cucho-hernandez",
+  "name": "Cucho Hernández",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Colombia",
+  "current_club": "Real Betis",
+  "career": [
+   "Watford",
+   "Columbus Crew",
+   "Real Betis"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no issues on record",
+  "notes": ""
+ },
+ {
+  "id": "deniz-undav",
+  "name": "Deniz Undav",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "VfB Stuttgart",
+  "career": [
+   "SV Meppen",
+   "Union Saint-Gilloise",
+   "Brighton",
+   "VfB Stuttgart"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "outspoken, no issues",
+  "notes": ""
+ },
+ {
+  "id": "frank-rijkaard",
+  "name": "Frank Rijkaard",
+  "gender": "M",
+  "active": false,
+  "born": 1962,
+  "nation": "Netherlands",
+  "current_club": null,
+  "career": [
+   "Ajax",
+   "Sporting CP",
+   "Real Zaragoza",
+   "AC Milan",
+   "Ajax"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "calm and humble, no causes",
+  "notes": "1990 WC spat at Völler, both sent off (apologised, reconciled); Saudi Arabia national-team head coach 2011-13 (national team, not a club). Recount: money_league 0: Saudi job was national-team coach."
+ },
+ {
+  "id": "alessandro-del-piero",
+  "name": "Alessandro Del Piero",
+  "gender": "M",
+  "active": false,
+  "born": 1974,
+  "nation": "Italy",
+  "current_club": null,
+  "career": [
+   "Padova",
+   "Juventus",
+   "Sydney FC",
+   "Delhi Dynamos"
+  ],
+  "CH_now": 8.0,
+  "CH_why": "gentleman, humble",
+  "notes": "No incidents; stayed with Juventus in Serie B after 2006 Calciopoli."
+ },
+ {
+  "id": "ryan-giggs",
+  "name": "Ryan Giggs",
+  "gender": "M",
+  "active": false,
+  "born": 1973,
+  "nation": "Wales",
+  "current_club": null,
+  "career": [
+   "Manchester United"
+  ],
+  "CH_now": 4.75,
+  "CH_why": "2011 injunction scandal, no causes (abuse charge handled separately)",
+  "notes": "Charged 2020 with assault and coercive control of ex-partner; hung jury 2022, charges dropped 2023. 2011 privacy injunction over an affair."
+ },
+ {
+  "id": "didier-drogba",
+  "name": "Didier Drogba",
+  "gender": "M",
+  "active": false,
+  "born": 1978,
+  "nation": "Ivory Coast",
+  "current_club": null,
+  "career": [
+   "Chelsea",
+   "Shanghai Shenhua",
+   "Galatasaray",
+   "Chelsea",
+   "Montreal Impact",
+   "Phoenix Rising"
+  ],
+  "CH_now": 7.75,
+  "CH_why": "peace plea and foundation, minus diving and referee rant",
+  "notes": "2008 UCL final red card for slapping Vidić; 2009 referee rant (UEFA ban); admitted diving 2006; joined Shanghai Shenhua (China) 2012."
+ },
+ {
+  "id": "michael-owen",
+  "name": "Michael Owen",
+  "gender": "M",
+  "active": false,
+  "born": 1979,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Liverpool",
+   "Real Madrid",
+   "Newcastle United",
+   "Manchester United",
+   "Stoke City"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "5.5 reserved, no causes",
+  "notes": "Joined Manchester United in 2009, not directly from Liverpool (via Real Madrid and Newcastle), so not coded as a rival move; let Liverpool contract run down in 2004."
+ },
+ {
+  "id": "matthias-sammer",
+  "name": "Matthias Sammer",
+  "gender": "M",
+  "active": false,
+  "born": 1967,
+  "nation": "Germany",
+  "current_club": null,
+  "career": [
+   "Dynamo Dresden",
+   "VfB Stuttgart",
+   "Inter",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 5.75,
+  "CH_why": "5.5 fiery, no causes",
+  "notes": ""
+ },
+ {
+  "id": "alan-shearer",
+  "name": "Alan Shearer",
+  "gender": "M",
+  "active": false,
+  "born": 1970,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Southampton",
+   "Blackburn Rovers",
+   "Newcastle United"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "6.5 foundation, blunt, physical edge",
+  "notes": "1998 accused of deliberately kicking Neil Lennon; cleared by FA commission (not counted)."
+ },
+ {
+  "id": "kelly-smith",
+  "name": "Kelly Smith",
+  "gender": "W",
+  "active": false,
+  "born": 1978,
+  "nation": "England",
+  "current_club": null,
+  "career": [
+   "Arsenal",
+   "Philadelphia Charge",
+   "Arsenal",
+   "Boston Breakers",
+   "Arsenal"
+  ],
+  "CH_now": 7.5,
+  "CH_why": "mental-health openness",
+  "notes": "Spoke openly about alcoholism and depression; mental-health advocacy."
+ },
+ {
+  "id": "waldemar-anton",
+  "name": "Waldemar Anton",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Borussia Dortmund",
+  "career": [
+   "Hannover 96",
+   "VfB Stuttgart",
+   "Borussia Dortmund"
+  ],
+  "CH_now": 6.25,
+  "CH_why": "humble, no issues",
+  "notes": "Left Stuttgart as captain via release clause for Dortmund 2024."
+ }
+]

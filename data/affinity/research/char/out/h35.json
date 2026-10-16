@@ -1,0 +1,652 @@
+[
+ {
+  "id": "lukas-petkov",
+  "name": "Lukas Petkov",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lukas_Petkov"
+  ]
+ },
+ {
+  "id": "nicolas-kristof",
+  "name": "Nicolas Kristof",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nicolas_Kristof"
+  ]
+ },
+ {
+  "id": "lukasz-poreba",
+  "name": "Lukasz Poreba",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Łukasz_Poręba"
+  ]
+ },
+ {
+  "id": "felix-keidel",
+  "name": "Felix Keidel",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Felix_Keidel"
+  ]
+ },
+ {
+  "id": "cole-campbell",
+  "name": "Cole Campbell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; disciplined by Dortmund in 2024 for breaking a camp curfew (minor)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cole_Campbell"
+  ]
+ },
+ {
+  "id": "noel-futkeu",
+  "name": "Noel Futkeu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noel_Futkeu"
+  ]
+ },
+ {
+  "id": "nikola-katic",
+  "name": "Nikola Katic",
+  "SP": 5.8,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off on his Schalke debut in 2025; no other disciplinary record found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nikola_Katić"
+  ]
+ },
+ {
+  "id": "soufian-el-faouzi",
+  "name": "Soufian El-Faouzi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Soufiane_El-Faouzi"
+  ]
+ },
+ {
+  "id": "adil-aouchiche",
+  "name": "Adil Aouchiche",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adil_Aouchiche"
+  ]
+ },
+ {
+  "id": "satoshi-tanaka",
+  "name": "Satoshi Tanaka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Satoshi_Tanaka"
+  ]
+ },
+ {
+  "id": "moussa-sylla",
+  "name": "Moussa Sylla",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moussa_Sylla_(footballer,_born_1999)"
+  ]
+ },
+ {
+  "id": "dejan-ljubicic",
+  "name": "Dejan Ljubicic",
+  "SP": 6.0,
+  "VO": 4.0,
+  "CO": 5.5,
+  "HU": 5.8,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "fined in Bosnia (2021) for throwing bottles at a mosque in Kiseljak in 2018",
+   "CO": "nothing notable found",
+   "HU": "no public account of remorse found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dejan_Ljubičić",
+   "https://de.wikipedia.org/wiki/Dejan_Ljubičić"
+  ]
+ },
+ {
+  "id": "junior-adamu",
+  "name": "Junior Adamu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Junior_Adamu"
+  ]
+ },
+ {
+  "id": "junior-dina-ebimbe",
+  "name": "Junior Dina Ebimbe",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Junior_Dina_Ebimbe"
+  ]
+ },
+ {
+  "id": "leon-avdullahu",
+  "name": "Leon Avdullahu",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leon_Avdullahu"
+  ]
+ },
+ {
+  "id": "adam-daghim",
+  "name": "Adam Daghim",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; has spoken of learning to control frustration early in his career"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Daghim"
+  ]
+ },
+ {
+  "id": "tim-lemperle",
+  "name": "Tim Lemperle",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; a reported 2026 red card not detailed in sources",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tim_Lemperle"
+  ]
+ },
+ {
+  "id": "albian-hajdari",
+  "name": "Albian Hajdari",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albian_Hajdari"
+  ]
+ },
+ {
+  "id": "dzenan-pejcinovic",
+  "name": "Dzenan Pejcinovic",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dženan_Pejčinović"
+  ]
+ },
+ {
+  "id": "ramon-hendriks",
+  "name": "Ramon Hendriks",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ramon_Hendriks"
+  ]
+ },
+ {
+  "id": "leo-sauer",
+  "name": "Leo Sauer",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leo_Sauer"
+  ]
+ },
+ {
+  "id": "ludovit-reis",
+  "name": "Ludovit Reis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.2,
+  "why": {
+   "SP": "youngest Eredivisie player sent off (two yellows, 2017); nothing since",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "handled online abuse after his Werder move calmly, saying he understood rival fans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ludovit_Reis"
+  ]
+ },
+ {
+  "id": "amos-pieper",
+  "name": "Amos Pieper",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Amos_Pieper"
+  ]
+ },
+ {
+  "id": "marco-grull",
+  "name": "Marco Grüll",
+  "SP": 5.0,
+  "VO": 3.0,
+  "CO": 5.5,
+  "HU": 5.8,
+  "why": {
+   "SP": "mocked derby opponents with chants in Feb 2024; banned two matches plus suspended ban",
+   "VO": "joined homophobic chants after the 2024 Vienna derby; apologised and attended anti-discrimination workshop",
+   "CO": "nothing notable found",
+   "HU": "publicly admitted he failed his role-model duty"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marco_Grüll",
+   "https://de.wikipedia.org/wiki/Marco_Grüll"
+  ]
+ },
+ {
+  "id": "arthur",
+  "name": "Arthur",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arthur_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "id": "cedric-itten",
+  "name": "Cedric Itten",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cedric_Itten"
+  ]
+ },
+ {
+  "id": "adam-smith",
+  "name": "Adam Smith",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one sending-off (two yellows, 2010); otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; long-serving Bournemouth captain"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Smith_(footballer,_born_1991)"
+  ]
+ },
+ {
+  "id": "diego-gomez",
+  "name": "Diego Gómez",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found (Diego Esaú Gómez Medina, Phoenix Rising)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diego_Gómez_(footballer,_born_2003)"
+  ]
+ },
+ {
+  "id": "charalambos-kostoulas",
+  "name": "Charalambos Kostoulas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charalampos_Kostoulas"
+  ]
+ },
+ {
+  "id": "malick-yalcouye",
+  "name": "Malick Yalcouyé",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; online age questions unproven, not coded"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malick_Yalcouyé"
+  ]
+ },
+ {
+  "id": "josh-acheampong",
+  "name": "Josh Acheampong",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found; a 2024 contract stand-off, resolved"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Josh_Acheampong"
+  ]
+ },
+ {
+  "id": "jay-da-silva",
+  "name": "Jay Da Silva",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jay_Dasilva"
+  ]
+ },
+ {
+  "id": "bobby-thomas",
+  "name": "Bobby Thomas",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobby_Thomas_(footballer)"
+  ]
+ },
+ {
+  "id": "carl-rushworth",
+  "name": "Carl Rushworth",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.2,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "called a top professional and great character by Frank Lampard; fan and teammate awards at Swansea"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carl_Rushworth"
+  ]
+ },
+ {
+  "id": "jack-rudoni",
+  "name": "Jack Rudoni",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Rudoni"
+  ]
+ },
+ {
+  "id": "caleb-yirenkyi",
+  "name": "Caleb Yirenkyi",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caleb_Yirenkyi"
+  ]
+ }
+]

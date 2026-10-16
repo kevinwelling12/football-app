@@ -1,0 +1,660 @@
+[
+ {
+  "id": "jimmy-greaves",
+  "name": "Jimmy Greaves",
+  "SP": 6.5,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "one career red card (1963 attempted punch); otherwise clean record",
+   "VO": "spoke openly about his alcoholism and recovery",
+   "CO": "nothing notable found beyond usual appearances",
+   "HU": "relaxed, self-deprecating public persona"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jimmy_Greaves"
+  ]
+ },
+ {
+  "id": "michael-laudrup",
+  "name": "Michael Laudrup",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "elegant, clean player; no notable disciplinary record",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "praised as unselfish; quit Denmark team 1990-93 over coach dispute"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michael_Laudrup"
+  ]
+ },
+ {
+  "id": "gordon-banks",
+  "name": "Gordon Banks",
+  "SP": 7.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "clean goalkeeper, no notable incidents",
+   "VO": "nothing notable found",
+   "CO": "Stoke City president; long-time public ambassador for the game",
+   "HU": "widely remembered as modest and gracious"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gordon_Banks"
+  ]
+ },
+ {
+  "id": "denis-law",
+  "name": "Denis Law",
+  "SP": 4.5,
+  "VO": 5.5,
+  "CO": 8.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "fiery; several dismissals incl. 1967 fight with Ian Ure",
+   "VO": "public about his dementia diagnosis",
+   "CO": "founded Denis Law Legacy Trust (2012); Football Aid patron; CBE for charity",
+   "HU": "refused to celebrate goal that hurt old club United"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denis_Law"
+  ]
+ },
+ {
+  "id": "gunnar-nordahl",
+  "name": "Gunnar Nordahl",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "remembered as a quiet, humble man (former fireman)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gunnar_Nordahl"
+  ]
+ },
+ {
+  "id": "carlos-alberto",
+  "name": "Carlos Alberto",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "no notable playing incidents; as Azerbaijan coach 2005 assaulted an official",
+   "VO": "nothing notable found (Rio councillor 1989-93, politics neutral)",
+   "CO": "public service as city councillor; 2014 World Cup ambassador",
+   "HU": "forceful leader who criticised everyone, Pelé included"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Carlos_Alberto_Torres"
+  ]
+ },
+ {
+  "id": "gianni-rivera",
+  "name": "Gianni Rivera",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "'Il Signorino' style, but record ban for protesting a penalty and three-month ban for attacking referees",
+   "VO": "nothing notable found (later politician, neutral)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gianni_Rivera"
+  ]
+ },
+ {
+  "id": "gheorghe-hagi",
+  "name": "Gheorghe Hagi",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 4.0,
+  "why": {
+   "SP": "described as aggressive and unsportsmanlike; red for punching Tony Adams in 2000 UEFA Cup final",
+   "VO": "nothing notable found",
+   "CO": "founded Viitorul and one of SE Europe's largest youth academies",
+   "HU": "called rebellious and arrogant; clashes with managers and officials"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gheorghe_Hagi"
+  ]
+ },
+ {
+  "id": "oleg-blokhin",
+  "name": "Oleg Blokhin",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 3.5,
+  "why": {
+   "SP": "nothing notable found as a player",
+   "VO": "nothing notable found (MP 1998-2006, politics neutral)",
+   "CO": "nothing notable found",
+   "HU": "as coach challenged a journalist to 'go outside' at Euro 2012; frequent outbursts"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oleg_Blokhin",
+   "https://skysports.com/football/news/23824/7828756/blokhin-furious-with-officials"
+  ]
+ },
+ {
+  "id": "dino-zoff",
+  "name": "Dino Zoff",
+  "SP": 8.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 8.5,
+  "why": {
+   "SP": "praised for correct behaviour; no notable incidents in a 20-year career",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "serious, reserved, dignified; resigned as Italy coach after Berlusconi's criticism"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dino_Zoff"
+  ]
+ },
+ {
+  "id": "matthias-sindelar",
+  "name": "Matthias Sindelar",
+  "SP": 6.5,
+  "VO": 5.5,
+  "CO": 4.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "refused to play for Germany after the Anschluss; motives disputed",
+   "CO": "1938 bought an 'Aryanised' café from a Jewish owner later murdered",
+   "HU": "described as unpolitical and quiet"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthias_Sindelar",
+   "https://de.wikipedia.org/wiki/Matthias_Sindelar"
+  ]
+ },
+ {
+  "id": "roberto-carlos",
+  "name": "Roberto Carlos",
+  "SP": 6.5,
+  "VO": 5.5,
+  "CO": 6.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "hard tackler but known as a clean player",
+   "VO": "walked off after a banana was thrown at him in Russia (2011)",
+   "CO": "Soccer Aid; Football for Friendship children's programme ambassador",
+   "HU": "flamboyant celebrity profile, Bugatti gift from Anzhi owner"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roberto_Carlos"
+  ]
+ },
+ {
+  "id": "gigi-riva",
+  "name": "Gigi Riva",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "punched an opponent in a Mitropa Cup match; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "founded Sardinia's first football school (1976); stayed in Cagliari",
+   "HU": "reserved; turned down Juventus money out of loyalty"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gigi_Riva",
+   "https://it.wikipedia.org/wiki/Gigi_Riva"
+  ]
+ },
+ {
+  "id": "patrick-vieira",
+  "name": "Patrick Vieira",
+  "SP": 3.5,
+  "VO": 7.0,
+  "CO": 7.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "many reds; spat at Neil Ruddock (6-match ban); kicked out at Everton fan 2022",
+   "VO": "criticised UEFA for weak action on racism and was fined for it",
+   "CO": "co-founded Diambars academy in Senegal (2003); famine fundraiser",
+   "HU": "combative; tunnel bust-up with Roy Keane"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Vieira"
+  ]
+ },
+ {
+  "id": "hugo-sanchez",
+  "name": "Hugo Sánchez",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 3.5,
+  "why": {
+   "SP": "sent off for dissent on Real Madrid debut; otherwise nothing notable",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "arrogant reputation; long feuds with La Volpe and Beenhakker"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hugo_Sánchez",
+   "https://es.wikipedia.org/wiki/Hugo_Sánchez"
+  ]
+ },
+ {
+  "id": "christine-sinclair",
+  "name": "Christine Sinclair",
+  "SP": 5.0,
+  "VO": 8.5,
+  "CO": 7.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "four-match ban for abusing referee after 2012 Olympic semi",
+   "VO": "led Canada pay-equity fight, testified to Parliament; pushed for women's league",
+   "CO": "multiple sclerosis fundraising and awareness since 2017",
+   "HU": "described as highly private and low-key"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christine_Sinclair"
+  ]
+ },
+ {
+  "id": "birgit-prinz",
+  "name": "Birgit Prinz",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "works as sport psychologist with Hoffenheim youth",
+   "HU": "declined Perugia men's team offer as a publicity stunt; private"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Birgit_Prinz",
+   "https://de.wikipedia.org/wiki/Birgit_Prinz"
+  ]
+ },
+ {
+  "id": "racheal-kundananji",
+  "name": "Racheal Kundananji",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racheal_Kundananji"
+  ]
+ },
+ {
+  "id": "patrik-schick",
+  "name": "Patrik Schick",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "trademark muscle-flex celebration"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrik_Schick"
+  ]
+ },
+ {
+  "id": "moussa-diaby",
+  "name": "Moussa Diaby",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "eight-match youth ban for foul play at PSG",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Moussa_Diaby"
+  ]
+ },
+ {
+  "id": "jonathan-tah",
+  "name": "Jonathan Tah",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "speaks about racism he faced, incl. after 2026 World Cup abuse",
+   "CO": "Bayer 04 anti-racism school workshop",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jonathan_Tah",
+   "https://de.wikipedia.org/wiki/Jonathan_Tah",
+   "https://bayer04.de/en-us/news/social-commitment/bayer-04-is-wiesdorf-school-workshop-with-tah-on-racism"
+  ]
+ },
+ {
+  "id": "ismael-saibari",
+  "name": "Ismael Saibari",
+  "SP": 3.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "CAF ban and fine for blocking Mendy's towel in AFCON 2025 final",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ismael_Saibari"
+  ]
+ },
+ {
+  "id": "matthias-ginter",
+  "name": "Matthias Ginter",
+  "SP": 8.5,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.5,
+  "why": {
+   "SP": "very few fouls; never sent off in his career",
+   "VO": "nothing notable found",
+   "CO": "chairs Matthias Ginter Stiftung for disadvantaged children in Freiburg",
+   "HU": "quiet professional"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matthias_Ginter",
+   "https://de.wikipedia.org/wiki/Matthias_Ginter"
+  ]
+ },
+ {
+  "id": "mikel-merino",
+  "name": "Mikel Merino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mikel_Merino"
+  ]
+ },
+ {
+  "id": "pau-torres",
+  "name": "Pau Torres",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pau_Torres"
+  ]
+ },
+ {
+  "id": "igor-thiago",
+  "name": "Igor Thiago",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "humble route from manual work after his father's death"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Igor_Thiago"
+  ]
+ },
+ {
+  "id": "pedro-neto",
+  "name": "Pedro Neto",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "pushed a PSG ball boy (Mar 2026), UEFA added a booking",
+   "VO": "nothing notable found",
+   "CO": "apologised and gave the ball boy his shirt",
+   "HU": "publicly admitted fault"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Neto",
+   "https://prod.beinsports.com/en-us/soccer/uefa-champions-league/articles/pedro-neto-regrets-pushing-psg-ball-boy-2026-03-12"
+  ]
+ },
+ {
+  "id": "joao-pedro",
+  "name": "João Pedro",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "three-match ban for violent conduct vs Brentford (2025)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "refused to celebrate against boyhood club Fluminense"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/João_Pedro_(footballer,_born_2001)"
+  ]
+ },
+ {
+  "id": "exequiel-palacios",
+  "name": "Exequiel Palacios",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Exequiel_Palacios"
+  ]
+ },
+ {
+  "id": "matheus-nunes",
+  "name": "Matheus Nunes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.0,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "2024 Madrid arrest for taking a man's phone over a photo; outcome unreported",
+   "HU": "skipped Wolves training to force move to City"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Matheus_Nunes",
+   "https://kfm.co.ug/man-citys-nunes-briefly-arrested-in-spain-over-alleged-phone-robbery"
+  ]
+ },
+ {
+  "id": "iliman-ndiaye",
+  "name": "Iliman Ndiaye",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iliman_Ndiaye"
+  ]
+ },
+ {
+  "id": "nico-o-reilly",
+  "name": "Nico O'Reilly",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nico_O'Reilly"
+  ]
+ },
+ {
+  "id": "youri-tielemans",
+  "name": "Youri Tielemans",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "high challenge on Callum Wilson ruled a missed red (2019)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "respected, unifying captain of Belgium"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Youri_Tielemans"
+  ]
+ },
+ {
+  "id": "luke-shaw",
+  "name": "Luke Shaw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luke_Shaw"
+  ]
+ },
+ {
+  "id": "noussair-mazraoui",
+  "name": "Noussair Mazraoui",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "declined rainbow jacket for religious reasons; 2023 Gaza post, then apologised",
+   "CO": "met Munich's Jewish community after the post",
+   "HU": "clash with Morocco coach Halilhodžić (2021)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noussair_Mazraoui"
+  ]
+ },
+ {
+  "id": "benjamin-sesko",
+  "name": "Benjamin Sesko",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_Šeško"
+  ]
+ }
+]

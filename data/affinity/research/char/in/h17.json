@@ -1,0 +1,636 @@
+[
+ {
+  "id": "konrad-laimer",
+  "name": "Konrad Laimer",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Austria",
+  "current_club": "Bayern Munich",
+  "career": [
+   "Red Bull Salzburg",
+   "RB Leipzig",
+   "Bayern Munich"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kou-itakura",
+  "name": "Kou Itakura",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Japan",
+  "current_club": "Borussia Mönchengladbach",
+  "career": [
+   "Kawasaki Frontale",
+   "Groningen",
+   "Schalke 04",
+   "Borussia Mönchengladbach",
+   "Ajax",
+   "Borussia Mönchengladbach"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jonathan-burkardt",
+  "name": "Jonathan Burkardt",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Germany",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Mainz 05",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ritsu-doan",
+  "name": "Ritsu Doan",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Japan",
+  "current_club": "Eintracht Frankfurt",
+  "career": [
+   "Gamba Osaka",
+   "FC Groningen",
+   "PSV Eindhoven",
+   "Arminia Bielefeld",
+   "SC Freiburg",
+   "Eintracht Frankfurt"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing notable either way",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yussuf-poulsen",
+  "name": "Yussuf Poulsen",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Denmark",
+  "current_club": "Hamburger SV",
+  "career": [
+   "Lyngby",
+   "RB Leipzig",
+   "Hamburger SV"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "respected leader, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nadiem-amiri",
+  "name": "Nadiem Amiri",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Germany",
+  "current_club": "Mainz 05",
+  "career": [
+   "TSG Hoffenheim",
+   "Bayer Leverkusen",
+   "Genoa",
+   "Mainz 05"
+  ],
+  "CH_now": 6.2,
+  "CH_why": "nothing notable; collapsed Leeds move 2023, kept his word to Mainz fans 2026",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "willi-orban",
+  "name": "Willi Orbán",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "Hungary",
+  "current_club": "RB Leipzig",
+  "career": [
+   "1. FC Kaiserslautern",
+   "RB Leipzig"
+  ],
+  "CH_now": 7.3,
+  "CH_why": "donated stem cells mid-season 2023; respected leader",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "david-raum",
+  "name": "David Raum",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Germany",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Greuther Fürth",
+   "TSG Hoffenheim",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "castello-lukeba",
+  "name": "Castello Lukeba",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "France",
+  "current_club": "RB Leipzig",
+  "career": [
+   "Lyon",
+   "RB Leipzig"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "vincenzo-grifo",
+  "name": "Vincenzo Grifo",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Italy",
+  "current_club": "SC Freiburg",
+  "career": [
+   "TSG Hoffenheim",
+   "FSV Frankfurt",
+   "SC Freiburg",
+   "Borussia Mönchengladbach",
+   "TSG Hoffenheim",
+   "SC Freiburg"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "nothing known beyond the 2019 melee (coded)",
+  "notes": "Sent off (VAR) in Nov 2019 for grabbing Frankfurt's David Abraham in the face during the melee after Abraham knocked over coach Streich; reported three-match ban."
+ },
+ {
+  "id": "niclas-fullkrug",
+  "name": "Niclas Füllkrug",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Germany",
+  "current_club": "Werder Bremen",
+  "career": [
+   "1. FC Nürnberg",
+   "Hannover 96",
+   "Werder Bremen",
+   "Borussia Dortmund",
+   "West Ham United",
+   "Werder Bremen"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "down-to-earth fan favourite, took a pay cut to return to Bremen; no causes on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "riccardo-calafiori",
+  "name": "Riccardo Calafiori",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Italy",
+  "current_club": "Arsenal",
+  "career": [
+   "Roma",
+   "Basel",
+   "Bologna",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ezri-konsa",
+  "name": "Ezri Konsa",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "England",
+  "current_club": "Arsenal",
+  "career": [
+   "Charlton Athletic",
+   "Brentford",
+   "Aston Villa",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable causes or issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "christos-tzolis",
+  "name": "Christos Tzolis",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Greece",
+  "current_club": "Arsenal",
+  "career": [
+   "PAOK",
+   "Norwich City",
+   "Twente",
+   "Fortuna Düsseldorf",
+   "Club Brugge",
+   "Arsenal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nicolas-jackson",
+  "name": "Nicolas Jackson",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Senegal",
+  "current_club": "Aston Villa",
+  "career": [
+   "Mirandés",
+   "Villarreal",
+   "Chelsea",
+   "Bayern Munich",
+   "Aston Villa"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "two red cards in 2025 incl. an elbow on Botman",
+  "notes": "No incident codes; May 2025 red for an elbow on Botman was ruled serious foul play in an aerial challenge, not off the ball."
+ },
+ {
+  "id": "ross-barkley",
+  "name": "Ross Barkley",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Aston Villa",
+  "career": [
+   "Everton",
+   "Chelsea",
+   "Aston Villa",
+   "Nice",
+   "Luton Town",
+   "Aston Villa"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "2019 taxi-fare altercation and nightclub episodes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joao-gomes",
+  "name": "João Gomes",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Brazil",
+  "current_club": "Aston Villa",
+  "career": [
+   "Flamengo",
+   "Wolverhampton Wanderers",
+   "Aston Villa"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "combative; sent off for kicking out on Villa debut",
+  "notes": "red_card_violence: sent off for violent conduct (kicking out at Rutter) on Villa debut, Aug 2026."
+ },
+ {
+  "id": "caoimhin-kelleher",
+  "name": "Caoimhín Kelleher",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Republic of Ireland",
+  "current_club": "Brentford",
+  "career": [
+   "Liverpool",
+   "Brentford"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "respected, humble backup who stayed ready; no issues",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mamadou-sangare",
+  "name": "Mamadou Sangare",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Mali",
+  "current_club": "Brentford",
+  "career": [
+   "Rapid Wien",
+   "RC Lens",
+   "Brentford"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, little public record beyond football",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ferdi-kadioglu",
+  "name": "Ferdi Kadioglu",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Türkiye",
+  "current_club": "Brighton & Hove Albion",
+  "career": [
+   "NEC Nijmegen",
+   "Fenerbahce",
+   "Brighton & Hove Albion"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "maxence-lacroix",
+  "name": "Maxence Lacroix",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Chelsea",
+  "career": [
+   "Sochaux",
+   "VfL Wolfsburg",
+   "Crystal Palace",
+   "Chelsea"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no notable incidents or causes",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "levi-colwill",
+  "name": "Levi Colwill",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "England",
+  "current_club": "Chelsea",
+  "career": [
+   "Huddersfield Town",
+   "Brighton & Hove Albion",
+   "Chelsea"
+  ],
+  "CH_now": 6.3,
+  "CH_why": "no incidents; backs his local grassroots club",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wesley-fofana",
+  "name": "Wesley Fofana",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "France",
+  "current_club": "Chelsea",
+  "career": [
+   "Saint-Étienne",
+   "Leicester City",
+   "Chelsea"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "speaks out on racist abuse he receives; repeat speeding and a 2025 dangerous-driving conviction",
+  "notes": "Lesser offence: 2025 two-year ban for eight speeding offences and a dangerous-driving conviction (18-month community order); no drink or injury involved."
+ },
+ {
+  "id": "daichi-kamada",
+  "name": "Daichi Kamada",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Japan",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Sagan Tosu",
+   "Eintracht Frankfurt",
+   "Lazio",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro; disputed Lazio claim he wanted a bonus to extend",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "adam-wharton",
+  "name": "Adam Wharton",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "England",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Blackburn Rovers",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yeremy-pino",
+  "name": "Yéremy Pino",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Spain",
+  "current_club": "Crystal Palace",
+  "career": [
+   "Villarreal",
+   "Crystal Palace"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "jordan-pickford",
+  "name": "Jordan Pickford",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "England",
+  "current_club": "Everton",
+  "career": [
+   "Sunderland",
+   "Everton"
+  ],
+  "CH_now": 5.0,
+  "CH_why": "wind-ups and edge; 2019 alleged fracas, 2026 careless-driving plea, reckless tackle on Van Dijk",
+  "notes": "No incident codes; pleaded guilty to driving without due care (April 2026 incident, case pending); 2019 street fracas investigated with no reported outcome."
+ },
+ {
+  "id": "kobbie-mainoo",
+  "name": "Kobbie Mainoo",
+  "gender": "M",
+  "active": true,
+  "born": 2005,
+  "nation": "England",
+  "current_club": "Manchester United",
+  "career": [
+   "Manchester United"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "humble, no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "harry-maguire",
+  "name": "Harry Maguire",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "England",
+  "current_club": "Manchester United",
+  "career": [
+   "Sheffield United",
+   "Hull City",
+   "Leicester City",
+   "Manchester United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "handled abuse and losing captaincy with dignity; Mykonos case coded",
+  "notes": "criminal_other: convicted in Greece of assault, resisting arrest and attempted bribery after a 2020 Mykonos incident; appeal rejected March 2026 (suspended sentence)."
+ },
+ {
+  "id": "diogo-dalot",
+  "name": "Diogo Dalot",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Portugal",
+  "current_club": "Manchester United",
+  "career": [
+   "Porto",
+   "Manchester United",
+   "AC Milan (loan)",
+   "Manchester United"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "no off-field issues; one red for dissent (Dec 2023)",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "sven-botman",
+  "name": "Sven Botman",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "Netherlands",
+  "current_club": "Newcastle United",
+  "career": [
+   "Heerenveen",
+   "Lille",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "malick-thiaw",
+  "name": "Malick Thiaw",
+  "gender": "M",
+  "active": true,
+  "born": 2001,
+  "nation": "Germany",
+  "current_club": "Newcastle United",
+  "career": [
+   "Schalke 04",
+   "AC Milan",
+   "Newcastle United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "murillo",
+  "name": "Murillo",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Brazil",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Corinthians",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "daniel-munoz",
+  "name": "Daniel Muñoz",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Colombia",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Águilas Doradas",
+   "Atlético Nacional",
+   "Genk",
+   "Crystal Palace",
+   "Nottingham Forest"
+  ],
+  "CH_now": 5.7,
+  "CH_why": "fiery, combative competitor",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nikola-milenkovic",
+  "name": "Nikola Milenkovic",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Serbia",
+  "current_club": "Nottingham Forest",
+  "career": [
+   "Partizan",
+   "Fiorentina",
+   "Nottingham Forest"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "decent pro, nothing notable on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "thomas-meunier",
+  "name": "Thomas Meunier",
+  "gender": "M",
+  "active": true,
+  "born": 1991,
+  "nation": "Belgium",
+  "current_club": "Sunderland",
+  "career": [
+   "Club Brugge",
+   "Paris Saint-Germain",
+   "Borussia Dortmund",
+   "Trabzonspor",
+   "Lille",
+   "Sunderland"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "outspoken but nothing serious; old speeding fine",
+  "notes": "No incident codes."
+ }
+]

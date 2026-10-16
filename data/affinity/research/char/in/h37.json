@@ -1,0 +1,654 @@
+[
+ {
+  "id": "oleksandr-svatok",
+  "name": "Oleksandr Svatok",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Ukraine",
+  "current_club": "Austin FC",
+  "career": [
+   "Dnipro",
+   "Zorya Luhansk",
+   "Hajduk Split",
+   "Dnipro-1",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "ilie-sanchez",
+  "name": "Ilie Sánchez",
+  "gender": "M",
+  "active": true,
+  "born": 1990,
+  "nation": "Spain",
+  "current_club": "Austin FC",
+  "career": [
+   "Barcelona B",
+   "1860 Munich",
+   "Elche",
+   "Sporting Kansas City",
+   "Los Angeles FC",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mikkel-desler",
+  "name": "Mikkel Desler",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "Denmark",
+  "current_club": "Austin FC",
+  "career": [
+   "OB",
+   "Haugesund",
+   "Toulouse",
+   "Austin FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, decent pro",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "samuel-piette",
+  "name": "Samuel Piette",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Canada",
+  "current_club": "CF Montréal",
+  "career": [
+   "Fortuna Düsseldorf",
+   "Racing de Ferrol",
+   "Izarra",
+   "CF Montréal"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "nathan-byrne",
+  "name": "Nathan Byrne",
+  "gender": "M",
+  "active": true,
+  "born": 1992,
+  "nation": "England",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Swindon Town",
+   "Wolverhampton Wanderers",
+   "Wigan Athletic",
+   "Derby County",
+   "Charlotte FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes; target of racist tweets in 2019",
+  "notes": "No incident codes. Cancelled his Derby contract under TUPE after administration (2022); not coded as a forced transfer."
+ },
+ {
+  "id": "harry-toffolo",
+  "name": "Harry Toffolo",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "England",
+  "current_club": "Charlotte FC",
+  "career": [
+   "Scunthorpe United",
+   "Doncaster Rovers",
+   "Lincoln City",
+   "Huddersfield Town",
+   "Nottingham Forest",
+   "Charlotte FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "Dementia UK ambassador; FA betting ban (375 breaches)",
+  "notes": "No incident codes. Admitted 375 FA betting-rule breaches (2014–17); five-month suspended ban and fine in 2023. Betting, not fixing."
+ },
+ {
+  "id": "chris-brady",
+  "name": "Chris Brady",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "USA",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "andrew-gutman",
+  "name": "Andrew Gutman",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "Chicago Fire",
+  "career": [
+   "Celtic",
+   "FC Cincinnati",
+   "Atlanta United",
+   "New York Red Bulls",
+   "Colorado Rapids",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "no causes or issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "puso-dithejane",
+  "name": "Puso Dithejane",
+  "gender": "M",
+  "active": true,
+  "born": 2004,
+  "nation": "South Africa",
+  "current_club": "Chicago Fire",
+  "career": [
+   "TS Galaxy",
+   "Chicago Fire"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "hamzat-ojediran",
+  "name": "Hamzat Ojediran",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Nigeria",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "KF Egnatia",
+   "Debreceni VSC",
+   "RC Lens",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "miguel-navarro",
+  "name": "Miguel Navarro",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Venezuela",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Deportivo La Guaira",
+   "Chicago Fire",
+   "Colorado Rapids",
+   "Talleres",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes. Currently at Colorado on loan from Talleres."
+ },
+ {
+  "id": "keegan-rosenberry",
+  "name": "Keegan Rosenberry",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Colorado Rapids",
+  "career": [
+   "Philadelphia Union",
+   "Colorado Rapids"
+  ],
+  "CH_now": 6.5,
+  "CH_why": "MLS Fair Play Award winner; no issues on record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "silvan-hefti",
+  "name": "Silvan Hefti",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Switzerland",
+  "current_club": "D.C. United",
+  "career": [
+   "St. Gallen",
+   "Young Boys",
+   "Genoa",
+   "Hamburger SV",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kye-rowles",
+  "name": "Kye Rowles",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Australia",
+  "current_club": "D.C. United",
+  "career": [
+   "Brisbane Roar",
+   "Central Coast Mariners",
+   "Heart of Midlothian",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "kimito-nono",
+  "name": "Kimito Nono",
+  "gender": "M",
+  "active": true,
+  "born": 2002,
+  "nation": "Japan",
+  "current_club": "D.C. United",
+  "career": [
+   "Kashima Antlers",
+   "D.C. United"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; no issues known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "pavel-bucha",
+  "name": "Pavel Bucha",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Czechia",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Slavia Prague",
+   "Viktoria Plzeň",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "roman-celentano",
+  "name": "Roman Celentano",
+  "gender": "M",
+  "active": true,
+  "born": 2000,
+  "nation": "USA",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "obinna-nwobodo",
+  "name": "Obinna Nwobodo",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Nigeria",
+  "current_club": "FC Cincinnati",
+  "career": [
+   "Inter Enugu",
+   "Enugu Rangers",
+   "Újpest",
+   "Göztepe",
+   "FC Cincinnati"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; no conduct issues found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "shaq-moore",
+  "name": "Shaq Moore",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "USA",
+  "current_club": "FC Dallas",
+  "career": [
+   "Levante",
+   "Reus",
+   "Tenerife",
+   "Nashville SC",
+   "FC Dallas"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "Little public record; left Reus over unpaid wages in 2018",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "artur",
+  "name": "Artur",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Brazil",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "São Paulo",
+   "Columbus Crew",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "agustin-bouzat",
+  "name": "Agustín Bouzat",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Argentina",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Liniers",
+   "Boca Juniors",
+   "Defensa y Justicia",
+   "Vélez Sarsfield",
+   "Colo-Colo",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "antonio-carlos",
+  "name": "Antônio Carlos",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "Brazil",
+  "current_club": "Houston Dynamo FC",
+  "career": [
+   "Ponte Preta",
+   "Palmeiras",
+   "Orlando City SC",
+   "Fluminense",
+   "Sport Recife",
+   "Houston Dynamo FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "telasco-segovia",
+  "name": "Telasco Segovia",
+  "gender": "M",
+  "active": true,
+  "born": 2003,
+  "nation": "Venezuela",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Deportivo Lara",
+   "Casa Pia",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "facundo-mura",
+  "name": "Facundo Mura",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "Argentina",
+  "current_club": "Inter Miami CF",
+  "career": [
+   "Estudiantes",
+   "Racing Club",
+   "Inter Miami CF"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "erik-thommy",
+  "name": "Erik Thommy",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Germany",
+  "current_club": "LA Galaxy",
+  "career": [
+   "FC Augsburg",
+   "Jahn Regensburg",
+   "VfB Stuttgart",
+   "Fortuna Düsseldorf",
+   "Sporting Kansas City",
+   "LA Galaxy"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "robert-taylor",
+  "name": "Robert Taylor",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "Finland",
+  "current_club": "LA Galaxy",
+  "career": [
+   "AIK",
+   "Tromsø",
+   "Brann",
+   "Inter Miami",
+   "Austin FC",
+   "LA Galaxy"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; declined a 2024 Finland play-off call-up to focus on club",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "eddie-segura",
+  "name": "Eddie Segura",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "Colombia",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Deportivo Pereira",
+   "Atlético Huila",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "mark-delgado",
+  "name": "Mark Delgado",
+  "gender": "M",
+  "active": true,
+  "born": 1995,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Chivas USA",
+   "Toronto FC",
+   "LA Galaxy",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "rival_move: went straight from LA Galaxy (MLS Cup 2024) to El Trafico rivals LAFC for 2025."
+ },
+ {
+  "id": "timothy-tillman",
+  "name": "Timothy Tillman",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Bayern Munich II",
+   "Greuther Fürth",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "tyler-boyd",
+  "name": "Tyler Boyd",
+  "gender": "M",
+  "active": true,
+  "born": 1994,
+  "nation": "USA",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Vitória de Guimarães",
+   "Tondela",
+   "Beşiktaş",
+   "LA Galaxy",
+   "Nashville SC",
+   "Los Angeles FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record, nothing negative known",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "yevhen-cheberko",
+  "name": "Yevhen Cheberko",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Ukraine",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Dnipro",
+   "Zorya Luhansk",
+   "LASK",
+   "Osijek",
+   "Columbus Crew",
+   "Los Angeles FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; refused to play for Osijek in 2023, then apologised",
+  "notes": "forced_transfer: April 2023 refused to play or travel for Osijek amid foreign-club interest; fined and suspended, apologised, and joined Columbus that summer."
+ },
+ {
+  "id": "sergi-palencia",
+  "name": "Sergi Palencia",
+  "gender": "M",
+  "active": true,
+  "born": 1996,
+  "nation": "Spain",
+  "current_club": "Los Angeles FC",
+  "career": [
+   "Barcelona B",
+   "Bordeaux",
+   "Saint-Étienne",
+   "Leganés",
+   "Los Angeles FC"
+  ],
+  "CH_now": 5.5,
+  "CH_why": "little public record; cleared by Concacaf of a 2025 discriminatory-language accusation",
+  "notes": "No incident codes. Feb 2025 accusation of discriminatory language by Chidozie Awaziem; Concacaf cleared him in March 2025 (found the word not used), so not coded."
+ },
+ {
+  "id": "drake-callender",
+  "name": "Drake Callender",
+  "gender": "M",
+  "active": true,
+  "born": 1997,
+  "nation": "USA",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Inter Miami CF",
+   "Charlotte FC",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "anthony-markanich",
+  "name": "Anthony Markanich",
+  "gender": "M",
+  "active": true,
+  "born": 1999,
+  "nation": "USA",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Colorado Rapids",
+   "St. Louis City SC",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "joaquin-pereyra",
+  "name": "Joaquín Pereyra",
+  "gender": "M",
+  "active": true,
+  "born": 1998,
+  "nation": "Argentina",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Rosario Central",
+   "Famalicão",
+   "Atlético Tucumán",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "little public record; nothing negative found",
+  "notes": "No incident codes."
+ },
+ {
+  "id": "wil-trapp",
+  "name": "Wil Trapp",
+  "gender": "M",
+  "active": true,
+  "born": 1993,
+  "nation": "USA",
+  "current_club": "Minnesota United FC",
+  "career": [
+   "Columbus Crew",
+   "Inter Miami CF",
+   "Minnesota United FC"
+  ],
+  "CH_now": 6.0,
+  "CH_why": "respected leader; no causes found on record",
+  "notes": "No incident codes."
+ }
+]

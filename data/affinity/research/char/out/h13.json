@@ -1,0 +1,650 @@
+[
+ {
+  "id": "sandro-tonali",
+  "name": "Sandro Tonali",
+  "SP": 5.0,
+  "VO": 5.5,
+  "CO": 5.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "10-month ban (2023) for betting on matches incl. his own clubs', plus FA suspended ban",
+   "VO": "gambling-addiction talks were part of his ban; otherwise nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "took a pay cut to join Milan; no arrogance on record"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sandro_Tonali"
+  ]
+ },
+ {
+  "id": "pedro-porro",
+  "name": "Pedro Porro",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pedro_Porro"
+  ]
+ },
+ {
+  "id": "emil-forsberg",
+  "name": "Emil Forsberg",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2018 violent-conduct red and three-match ban vs Hoffenheim (disputed)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Emil_Forsberg"
+  ]
+ },
+ {
+  "id": "timo-werner",
+  "name": "Timo Werner",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2016 dive to win a penalty vs Schalke, later admitted and said sorry",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timo_Werner"
+  ]
+ },
+ {
+  "id": "guro-reiten",
+  "name": "Guro Reiten",
+  "SP": 6.0,
+  "VO": 7.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "came out publicly as a lesbian after the 2022 Oslo Pride shooting",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guro_Reiten"
+  ]
+ },
+ {
+  "id": "ademola-lookman",
+  "name": "Ademola Lookman",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2025 public statement against Atalanta and skipped training to force a move; called stubborn at Everton"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ademola_Lookman"
+  ]
+ },
+ {
+  "id": "alejandro-grimaldo",
+  "name": "Alejandro Grimaldo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red as a Barcelona B player in 2015; otherwise nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alejandro_Grimaldo"
+  ]
+ },
+ {
+  "id": "milan-skriniar",
+  "name": "Milan Skriniar",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "lost Inter captaincy after a PSG pre-contract; otherwise nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Milan_Škriniar"
+  ]
+ },
+ {
+  "id": "manuel-akanji",
+  "name": "Manuel Akanji",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one red (2023) in a long career; nothing else notable",
+   "VO": "has spoken publicly about racist abuse and backed walking off as a team",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manuel_Akanji"
+  ]
+ },
+ {
+  "id": "piotr-zielinski",
+  "name": "Piotr Zielinski",
+  "SP": 7.5,
+  "VO": 5.0,
+  "CO": 8.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "Premio Gentleman Fairplay award 2026",
+   "VO": "nothing notable found",
+   "CO": "founded and funds two children's homes in Lower Silesia (Father Albert Medal)",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Piotr_Zieliński"
+  ]
+ },
+ {
+  "id": "benjamin-pavard",
+  "name": "Benjamin Pavard",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Benjamin_Pavard"
+  ]
+ },
+ {
+  "id": "willian-pacho",
+  "name": "Willian Pacho",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Willian_Pacho"
+  ]
+ },
+ {
+  "id": "george-best",
+  "name": "George Best",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 3.5,
+  "why": {
+   "SP": "sent off for punching Medina (1968) and vs Chelsea; FA misconduct fine",
+   "VO": "nothing notable found (united-Ireland team view is politics)",
+   "CO": "nothing notable found",
+   "HU": "confidence bordering on arrogance; walked out on United, missed training repeatedly"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Best"
+  ]
+ },
+ {
+  "id": "rivaldo",
+  "name": "Rivaldo",
+  "SP": 3.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.0,
+  "why": {
+   "SP": "2002 World Cup face-clutching dive got an opponent sent off; FIFA fine",
+   "VO": "nothing notable found (Bolsonaro support is politics)",
+   "CO": "nothing notable found",
+   "HU": "feuds with Van Gaal and Olympiacos, four-finger taunt; credited teammates at times"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rivaldo"
+  ]
+ },
+ {
+  "id": "kaka",
+  "name": "Kaká",
+  "SP": 7.0,
+  "VO": 5.0,
+  "CO": 8.5,
+  "HU": 8.0,
+  "why": {
+   "SP": "few reds (two second-yellows, one straight); clean reputation",
+   "VO": "nothing notable found beyond faith",
+   "CO": "youngest UN WFP ambassador (2004); Time 100 partly for off-pitch work; relief fundraiser",
+   "HU": "took no wages while injured at Milan; no feuds on record"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaká"
+  ]
+ },
+ {
+  "id": "roberto-baggio",
+  "name": "Roberto Baggio",
+  "SP": 8.5,
+  "VO": 8.0,
+  "CO": 7.5,
+  "HU": 7.5,
+  "why": {
+   "SP": "refused a penalty vs Fiorentina; ceded a 1990 penalty to Schillaci",
+   "VO": "Man of Peace award (2010) for human-rights activism",
+   "CO": "FAO goodwill ambassador since 2002",
+   "HU": "quiet Buddhist; clashes with several coaches over playing time"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roberto_Baggio"
+  ]
+ },
+ {
+  "id": "franco-baresi",
+  "name": "Franco Baresi",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "suspended for the 1994 final; no notable fouls on record",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "one-club captain known for professionalism; Fulham exit after tension with Tigana"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Franco_Baresi"
+  ]
+ },
+ {
+  "id": "xavi",
+  "name": "Xavi",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "sent off for dissent as Barcelona coach (2024); nothing notable as a player",
+   "VO": "nothing notable found (Qatar comments are politics)",
+   "CO": "FIFA Ebola-awareness campaign; usual appearances",
+   "HU": "Guardiola called him humble and loyal"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Xavi_(footballer,_born_1980)"
+  ]
+ },
+ {
+  "id": "andres-iniesta",
+  "name": "Andrés Iniesta",
+  "SP": 8.5,
+  "VO": 7.0,
+  "CO": 7.5,
+  "HU": 9.5,
+  "why": {
+   "SP": "clean record; standing ovations from rival fans incl. Bernabéu",
+   "VO": "spoke publicly about his depression (2018)",
+   "CO": "Hokkaido earthquake donation; rescued boyhood club Albacete and paid wages",
+   "HU": "shy, reserved; no feuds or arrogance"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andrés_Iniesta"
+  ]
+ },
+ {
+  "id": "zico",
+  "name": "Zico",
+  "SP": 5.5,
+  "VO": 6.5,
+  "CO": 8.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "suspensions for clashes with referees at Udinese",
+   "VO": "as players' union head fought for players' pay and against the passe system",
+   "CO": "Centro de Futebol Zico and Golaço Social football schools for low-income children",
+   "HU": "disciplined and hardworking; nothing negative"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zico_(footballer)"
+  ]
+ },
+ {
+  "id": "michelle-akers",
+  "name": "Michelle Akers",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 6.0,
+  "why": {
+   "SP": "aggressive, physical style; no incidents found",
+   "VO": "nothing notable found",
+   "CO": "runs a horse-rescue ranch; Orlando Pride community outreach",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michelle_Akers"
+  ]
+ },
+ {
+  "id": "sun-wen",
+  "name": "Sun Wen",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found (CFA vice-president for women's football)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sun_Wen_(footballer)"
+  ]
+ },
+ {
+  "id": "abby-dahlkemper",
+  "name": "Abby Dahlkemper",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "one of the 2019 USWNT equal-pay plaintiffs",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abby_Dahlkemper"
+  ]
+ },
+ {
+  "id": "giovanni-di-lorenzo",
+  "name": "Giovanni Di Lorenzo",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "Napoli captain; nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Giovanni_Di_Lorenzo"
+  ]
+ },
+ {
+  "id": "kenan-yldz",
+  "name": "Kenan Yıldız",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenan_Yıldız"
+  ]
+ },
+ {
+  "id": "ruud-gullit",
+  "name": "Ruud Gullit",
+  "SP": 6.0,
+  "VO": 9.0,
+  "CO": 5.5,
+  "HU": 4.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "dedicated 1987 Ballon d'Or to jailed Mandela; anti-apartheid song; spoke on racism",
+   "CO": "nothing notable found",
+   "HU": "called arrogant by Bates; walked out on the Dutch 1994 camp; clashes with Shearer, Lee"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ruud_Gullit"
+  ]
+ },
+ {
+  "id": "lothar-matthaus",
+  "name": "Lothar Matthäus",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 3.5,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "tore off 1999 runners-up medal; feuds with Klinsmann and Vogts; media-hungry"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lothar_Matthäus"
+  ]
+ },
+ {
+  "id": "fabio-cannavaro",
+  "name": "Fabio Cannavaro",
+  "SP": 6.5,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "no cards in 690 minutes at the 2006 World Cup; occasional reds",
+   "VO": "nothing notable found",
+   "CO": "co-founded Fondazione Cannavaro Ferrara (Naples hospital, at-risk youth)",
+   "HU": "calm leader; nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fabio_Cannavaro"
+  ]
+ },
+ {
+  "id": "samuel-eto-o",
+  "name": "Samuel Eto'o",
+  "SP": 4.5,
+  "VO": 8.0,
+  "CO": 6.0,
+  "HU": 3.5,
+  "why": {
+   "SP": "refused to come on as a sub (2007); fined for taunting Real Madrid fans",
+   "VO": "tried to walk off over racist chants (2005); pushed for tougher punishments",
+   "CO": "paid for travelling Mallorca fans' meals; Ebola-awareness work",
+   "HU": "feuds with Ronaldinho and Guardiola; headbutted a reporter; 2022 kneeing incident"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samuel_Eto'o"
+  ]
+ },
+ {
+  "id": "george-weah",
+  "name": "George Weah",
+  "SP": 5.5,
+  "VO": 7.0,
+  "CO": 9.0,
+  "HU": 5.5,
+  "why": {
+   "SP": "1996 tunnel headbutt on Costa (6-match ban); FIFA Fair Play Award 1996",
+   "VO": "anti-racism initiatives; record as president mixed",
+   "CO": "largely funded Liberia's team; UNICEF ambassador; youth club tied to school (Arthur Ashe award)",
+   "HU": "cut his own salary; dismissive of critics, diploma-mill degree"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Weah"
+  ]
+ },
+ {
+  "id": "philipp-lahm",
+  "name": "Philipp Lahm",
+  "SP": 9.0,
+  "VO": 8.0,
+  "CO": 8.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "retired without a red card",
+   "VO": "Tolerantia prize for work against homophobia; spoke on gay players",
+   "CO": "Philipp Lahm Foundation for underprivileged children; SOS Children's Villages, AIDS-day ambassador",
+   "HU": "private, modest about awards; book criticising former coaches"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philipp_Lahm"
+  ]
+ },
+ {
+  "id": "arjen-robben",
+  "name": "Arjen Robben",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 5.5,
+  "why": {
+   "SP": "diving reputation; admitted dives (2011, 2014) and apologised once",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "early criticism for selfishness; no feuds"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arjen_Robben"
+  ]
+ },
+ {
+  "id": "gabriel-batistuta",
+  "name": "Gabriel Batistuta",
+  "SP": 7.5,
+  "VO": 5.0,
+  "CO": 6.0,
+  "HU": 8.0,
+  "why": {
+   "SP": "praised for fair play; no reds on record",
+   "VO": "nothing notable found",
+   "CO": "plays in charity matches",
+   "HU": "low-profile family man; refused to celebrate against Fiorentina"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gabriel_Batistuta"
+  ]
+ },
+ {
+  "id": "karl-heinz-rummenigge",
+  "name": "Karl-Heinz Rummenigge",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found (50+1 view is club politics)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge"
+  ]
+ },
+ {
+  "id": "shinji-kagawa",
+  "name": "Shinji Kagawa",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 7.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "Common Goal 1% pledge; Tohoku school visit; watch auction for Save the Children",
+   "HU": "quiet; no feuds on record"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shinji_Kagawa"
+  ]
+ },
+ {
+  "id": "oliver-kahn",
+  "name": "Oliver Kahn",
+  "SP": 4.5,
+  "VO": 5.0,
+  "CO": 6.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "1999 kick at Chapuisat and bite at Herrlich; UEFA Fair Play Award 2001 for consoling Cañizares",
+   "VO": "nothing notable found",
+   "CO": "supports street-football and youth-prevention charities",
+   "HU": "big ego and Lehmann feud; took blame for 2002 final error"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oliver_Kahn"
+  ]
+ }
+]

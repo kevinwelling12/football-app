@@ -1,0 +1,654 @@
+[
+ {
+  "id": "cristian-parano",
+  "name": "Cristian Parano",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cristian_Parano"
+  ]
+ },
+ {
+  "id": "jordan-rossiter",
+  "name": "Jordan Rossiter",
+  "SP": 5.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "three-match violent-conduct ban in 2022, admitted the FA charge",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan_Rossiter"
+  ]
+ },
+ {
+  "id": "ryan-edwards",
+  "name": "Ryan Edwards",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "one sending-off (2015), otherwise nothing notable",
+   "VO": "survived testicular cancer; no public campaign found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ryan_Edwards_(footballer,_born_1993)"
+  ]
+ },
+ {
+  "id": "edgardo-rito",
+  "name": "Edgardo Rito",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edgardo_Rito"
+  ]
+ },
+ {
+  "id": "nathan-dossantos",
+  "name": "Nathan Dossantos",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nathan_Dossantos"
+  ]
+ },
+ {
+  "id": "matt-myers",
+  "name": "Matt Myers",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found (Wikipedia: MD Myers, Tampa Bay)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/MD_Myers"
+  ]
+ },
+ {
+  "id": "jahmali-waite",
+  "name": "Jahmali Waite",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jahmali_Waite"
+  ]
+ },
+ {
+  "id": "russell-cicerone",
+  "name": "Russell Cicerone",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Russell_Cicerone"
+  ]
+ },
+ {
+  "id": "augustine-williams",
+  "name": "Augustine Williams",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Augustine_Williams_(footballer)"
+  ]
+ },
+ {
+  "id": "michee-ngalina",
+  "name": "Michee Ngalina",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Michee_Ngalina"
+  ]
+ },
+ {
+  "id": "jack-blake",
+  "name": "Jack Blake",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jack_Blake"
+  ]
+ },
+ {
+  "id": "kipp-keller",
+  "name": "Kipp Keller",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kipp_Keller"
+  ]
+ },
+ {
+  "id": "bobosi-byaruhanga",
+  "name": "Bobosi Byaruhanga",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bobosi_Byaruhanga"
+  ]
+ },
+ {
+  "id": "neveal-hackshaw",
+  "name": "Neveal Hackshaw",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neveal_Hackshaw"
+  ]
+ },
+ {
+  "id": "roman-weidenfeller",
+  "name": "Roman Weidenfeller",
+  "SP": 4.5,
+  "VO": 4.0,
+  "CO": 6.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "2007 DFB three-match ban and fine for insulting Asamoah; by his account a homophobic slur",
+   "VO": "2011 remark read as a jibe at Löw's supposed homosexuality",
+   "CO": "supports roterkeil.net against child prostitution; BVB ambassador",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roman_Weidenfeller",
+   "https://de.wikipedia.org/wiki/Roman_Weidenfeller"
+  ]
+ },
+ {
+  "id": "sebastian-kehl",
+  "name": "Sebastian Kehl",
+  "SP": 6.0,
+  "VO": 6.0,
+  "CO": 7.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "no cards or incidents noted; 2001 Bayern advance (returned) is off-field",
+   "VO": "patron of a \"Schule ohne Rassismus\" school since 2003",
+   "CO": "roterkeil.net ambassador, Stiftung Jugendfußball and DFL Stiftung boards, charity matches; Hessian order of merit",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sebastian_Kehl",
+   "https://de.wikipedia.org/wiki/Sebastian_Kehl"
+  ]
+ },
+ {
+  "id": "brian-mcbride",
+  "name": "Brian McBride",
+  "SP": 8.0,
+  "VO": 5.0,
+  "CO": 7.5,
+  "HU": 6.5,
+  "why": {
+   "SP": "MLS Fair Play Award 2003; no cards or bans noted",
+   "VO": "nothing notable found",
+   "CO": "first spokesman of the Central Ohio Diabetes Association, gave $100 per US goal and assist",
+   "HU": "fan favourite and Fulham captain, bar named after him; no showboating noted"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brian_McBride"
+  ]
+ },
+ {
+  "id": "eric-wynalda",
+  "name": "Eric Wynalda",
+  "SP": 4.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 3.5,
+  "why": {
+   "SP": "\"Eric the Red Card\"; first US player sent off at a World Cup (1990, retaliation)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "long run of public feuds as a pundit (Bradley, Bedoya, Gomez/Lalas), belittled others' careers (press reports via search)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eric_Wynalda"
+  ]
+ },
+ {
+  "id": "darlington-nagbe",
+  "name": "Darlington Nagbe",
+  "SP": 9.0,
+  "VO": 6.0,
+  "CO": 7.0,
+  "HU": 8.5,
+  "why": {
+   "SP": "MLS Fair Play Award 2013, 2015, 2019; one booking in 2013, none in 2015",
+   "VO": "ambassador for On Our Sleeves (children's mental health)",
+   "CO": "Boys and Girls Club of Central Ohio, hospital and youth clinic visits",
+   "HU": "called \"a humble soul\" by Valeri; quiet, family-first"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Darlington_Nagbe",
+   "https://www.mlssoccer.com/news/columbus-crew-s-darlington-nagbe-drives-community-forward"
+  ]
+ },
+ {
+  "id": "cam-lindley",
+  "name": "Cam Lindley",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cam_Lindley"
+  ]
+ },
+ {
+  "id": "paco-craig",
+  "name": "Paco Craig",
+  "SP": 5.5,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "sent off in 2016 conference final extra time; suspensions 2017 and 2018",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paco_Craig_(English_footballer)"
+  ]
+ },
+ {
+  "id": "clint-mathis",
+  "name": "Clint Mathis",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 4.5,
+  "why": {
+   "SP": "no cards or bans noted",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "2004 tapped his watch at his coach after scoring; showy celebrations (mohawk, I love NY shirt)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Clint_Mathis"
+  ]
+ },
+ {
+  "id": "justin-lerma",
+  "name": "Justin Lerma",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Justin_Lerma"
+  ]
+ },
+ {
+  "id": "patrick-drewes",
+  "name": "Patrick Drewes",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found; hit by a thrown lighter at Union Berlin in 2024 (victim)",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Patrick_Drewes"
+  ]
+ },
+ {
+  "id": "kaua-prates",
+  "name": "Kauã Prates",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kau%C3%A3_Prates"
+  ]
+ },
+ {
+  "id": "alex-cairns",
+  "name": "Alex Cairns",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Cairns"
+  ]
+ },
+ {
+  "id": "alex-bonetig",
+  "name": "Alex Bonetig",
+  "SP": 6.2,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "school Sportsman of the Year 2020; no pro incidents found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alex_Bonetig"
+  ]
+ },
+ {
+  "id": "linus-guther",
+  "name": "Linus Güther",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Linus_G%C3%BCther",
+   "https://de.wikipedia.org/wiki/Linus_G%C3%BCther"
+  ]
+ },
+ {
+  "id": "allie-long",
+  "name": "Allie Long",
+  "SP": 6.0,
+  "VO": 6.5,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "one of the 28 plaintiffs in the 2019 USWNT equal-pay lawsuit (Reign FC release, via search)",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allie_Long"
+  ]
+ },
+ {
+  "id": "jan-leszczynski",
+  "name": "Jan Leszczynski",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan_Leszczy%C5%84ski_(footballer,_born_2007)"
+  ]
+ },
+ {
+  "id": "jeremiaha-maluze",
+  "name": "Jeremiaha Maluze",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeremiaha_Maluze"
+  ]
+ },
+ {
+  "id": "stefano-marino",
+  "name": "Stefano Marino",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stefano_Marino"
+  ]
+ },
+ {
+  "id": "jonah-sticker",
+  "name": "Jonah Sticker",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://de.wikipedia.org/wiki/Jonah_Sticker"
+  ]
+ },
+ {
+  "id": "francis-ikechukwu-onyeka",
+  "name": "Francis-Ikechukwu Onyeka",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Francis_Onyeka"
+  ]
+ },
+ {
+  "id": "noah-darvich",
+  "name": "Noah Darvich",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Noah_Darvich"
+  ]
+ },
+ {
+  "id": "jon-bell",
+  "name": "Jon Bell",
+  "SP": 6.0,
+  "VO": 5.0,
+  "CO": 5.5,
+  "HU": 6.0,
+  "why": {
+   "SP": "nothing notable found",
+   "VO": "nothing notable found",
+   "CO": "nothing notable found",
+   "HU": "nothing notable found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jon_Bell"
+  ]
+ }
+]
