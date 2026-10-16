@@ -97,5 +97,9 @@ Same framework as clubs (web/players.js on the shared engine `fitPairs` in web/a
   driving without a licence and the like are lesser, not serious (Reus); a club trade isn't joining a rival.
 - 711 picks (355 answered): 66% of held-out picks. Character +1.9, serious wrongdoing −1.25 (−0.67 before minor
   offences moved out), legacy +0.9, money move −0.8, team player +0.6; greatness and loyalty ~0.
+- 1,561 picks (914 answered; 83% of the latest 561 answered vs 45% before the knowledge-based picker): 68% of held-out
+  picks. Character +2.3, serious wrongdoing −0.9, team player +0.8, played for your club +0.5, joy to watch +0.4; loyalty
+  and lesser offences ~0. Above their traits: Donovan, Foudy, Rice, Schlotterbeck, Wambach, Saka; below: Nmecha, Hakimi,
+  Subotić, Dybala, Enzo Fernández.
 - Analysis: Settings > Copy my player picks (and club picks), then
   `node scripts/affinity/analyze_players.mjs player_picks.json club_picks.json`.
