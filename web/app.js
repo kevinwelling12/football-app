@@ -268,6 +268,51 @@ function matchRow(k, m, { showLeague = false, withDay = false } = {}) {
 }
 const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].name}</div>`;
 
+// ------------------------------------------------------------------ watch guide
+// The next two days' matches in the competitions Kevin watches, ranked by a watch score 0-100:
+// your club playing 40, how far the result moves your clubs' chances 20 (your clubs' own matches too), Affinity of the two clubs 15,
+// stakes for both sides 15, quality 10 (strength within the league x the league's level, and closeness).
+const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl'];
+const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55 };
+function watchList() {
+  const now = Date.now(), fav = favIds(), byDay = new Map();
+  for (const k of WATCH) if (D[k]) for (const m of matchesOf(k)) {
+    if (isPlayed(m) || m.st === 'canc' || m.st === 'ppd') continue;
+    if (m.st !== 'live' && Date.parse(m.t) < now - 3 * 36e5) continue;
+    const dk = dayKey(m.t); if (dk < dayKey(now)) continue;
+    (byDay.get(dk) || byDay.set(dk, []).get(dk)).push([k, m]);
+  }
+  const days = [...byDay.keys()].sort().slice(0, 2); if (!days.length) return [];
+  const pct = {}; // each club's strength within its league, 0 (weakest) to 1
+  for (const k of WATCH) if (D[k]) { const ts = D[k].teams.map((t, i) => [i, t.elo || 1500]).sort((a, b) => a[1] - b[1]); pct[k] = {}; ts.forEach(([i], n) => (pct[k][i] = n / Math.max(1, ts.length - 1))); }
+  return days.map(dk => ({ dk, rows: byDay.get(dk).map(([k, m]) => {
+    const L = D[k], H = L.teams[m.h], A = L.teams[m.a], f = fixInfo(k, m.id);
+    const mine = fav.has(H.id) || fav.has(A.id);
+    // absolute, so leagues compare: a 25-point swing in a play-off race is about 0.4 (full marks)
+    const moves = Math.min(1, favImp(f) / 0.4);
+    const af = [H, A].map(t => (fav.has(t.id) ? 100 : affOf(t.id) ?? 50)), aff = (0.6 * Math.max(...af) + 0.4 * Math.min(...af)) / 100;
+    const stakes = f ? stakesOf(k, f, false) / 10 : 0;
+    const p = f?.p, close = p ? 1 - Math.abs(p[0] - p[2]) : 0.5;
+    const quality = LEVEL[k] * (0.7 * (pct[k][m.h] + pct[k][m.a]) / 2 + 0.3 * close);
+    const score = Math.round(40 * mine + 20 * moves + 15 * aff + 15 * stakes + 10 * quality);
+    const why = [];
+    if (mine) why.push('your club');
+    if (moves && f.fav.best && f.fav.best.sw >= 0.05) { const b = f.fav.best; why.push(`${mine ? 'swings' : 'moves'} ${L.teams[b.t].s}'s ${zoneName(k, b.key).toLowerCase()} odds ${Math.round(b.sw * 100)} pts`); }
+    if (!mine && Math.max(...af) >= 70) why.push(`Affinity ${Math.round(Math.max(...af))}`);
+    if (stakes >= 0.7) why.push('high stakes');
+    if (quality >= 0.65) why.push('top quality');
+    else if (close >= 0.8 && quality >= 0.5) why.push('close match');
+    return { k, m, score, why };
+  }).sort((a, b) => b.score - a.score || a.m.t.localeCompare(b.m.t)) }));
+}
+function watchGuide() {
+  const days = watchList(); if (!days.length) return '';
+  // the next two days with matches to watch, five best each
+  return `<div class="section"><h2>Watch guide</h2><span class="aside">best first · score of 100</span></div><div class="card row-gap">${days.map(w =>
+    `<div class="lg-label">${esc(dayLabel(w.dk))}</div>` + w.rows.slice(0, 5).map(x =>
+      matchRow(x.k, x.m, { showLeague: true }) + `<div class="small muted watch-why"><b class="watch-score">${x.score}</b>${esc(x.why.join(' · ') || 'nothing special')}</div>`).join('')).join('')}</div>`;
+}
+
 // ------------------------------------------------------------------ Today
 function viewToday() {
   const now = Date.now(), fav = favIds(), out = [];
@@ -279,6 +324,7 @@ function viewToday() {
   }
   const todays = []; for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) if (dayKey(m.t) === dayKey(now)) todays.push([k, m]);
   out.push(featureCard('Match of the day', featured(todays, 'day:' + dayKey(now))));
+  out.push(watchGuide());
   if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap">${cards.join('')}</div>`);
   // live
   const live = [];

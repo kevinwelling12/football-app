@@ -197,3 +197,5 @@ tr.me td.club span { font-weight: 600; }
 .stakes { display: inline-block; width: 34px; height: 4px; border-radius: 2px; background: var(--card2); margin: 0 6px 0 0; vertical-align: 2px; overflow: hidden; }
 .stakes i { display: block; height: 100%; background: var(--muted); border-radius: 2px; }
 .section .aside .tiny.muted { margin-right: 8px; }
+.watch-why { padding: 0 16px 12px 82px; margin-top: -4px; }
+.watch-score { display: inline-block; min-width: 24px; margin-right: 8px; color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
