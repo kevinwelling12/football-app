@@ -199,3 +199,10 @@ tr.me td.club span { font-weight: 600; }
 .section .aside .tiny.muted { margin-right: 8px; }
 .watch-why { padding: 0 16px 12px 82px; margin-top: -4px; }
 .watch-score { display: inline-block; min-width: 24px; margin-right: 8px; color: var(--fg); font-weight: 600; font-variant-numeric: tabular-nums; }
+/* Today: compact club rows, the watch list's top pick a touch larger */
+.compact-clubs .club-card { grid-template-columns: 30px 1fr auto; gap: 10px; padding: 10px 16px; }
+.compact-clubs .club-card .crest.lg, .compact-clubs .club-card img { width: 28px; height: 28px; }
+.compact-clubs .club-card .meta { font-size: 12.5px; }
+.compact-clubs .big-num { font-size: 17px; }
+.watch-top .mrow { padding-top: 14px; }
+.watch-top .watch-why { color: var(--fg); opacity: .8; }

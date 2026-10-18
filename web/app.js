@@ -13,7 +13,7 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg') || 'mls', sub: localGet('sub') || 'table' };
-const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {} };
+const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
 const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
@@ -306,49 +306,46 @@ function watchList() {
   }).sort((a, b) => b.score - a.score || a.m.t.localeCompare(b.m.t)) }));
 }
 function watchGuide() {
-  const days = watchList(); if (!days.length) return '';
-  // the next two days with matches to watch, five best each
-  return `<div class="section"><h2>Watch guide</h2><span class="aside">best first · score of 100</span></div><div class="card row-gap">${days.map(w =>
-    `<div class="lg-label">${esc(dayLabel(w.dk))}</div>` + w.rows.slice(0, 5).map(x =>
-      matchRow(x.k, x.m, { showLeague: true }) + `<div class="small muted watch-why"><b class="watch-score">${x.score}</b>${esc(x.why.join(' · ') || 'nothing special')}</div>`).join('')).join('')}</div>`;
+  const w = watchList()[0]; if (!w || !w.rows.length) return '';
+  // one day (today, or the next day with matches): the best match large with its stakes, then four more
+  const [top, ...rest] = w.rows, f = fixInfo(top.k, top.m.id), fav = favImp(f) > 0, stakes = f ? stakesOf(top.k, f, fav) : null;
+  const why = x => `<div class="small muted watch-why"><b class="watch-score">${x.score}</b>${esc(x.why.join(' · ') || 'nothing special')}</div>`;
+  const meter = stakes != null ? `<span class="stakes" title="Stakes ${stakes} of 10"><i style="width:${stakes * 10}%"></i></span><span class="tiny muted">stakes ${stakes}/10</span>` : '';
+  return `<div class="section"><h2>Watch ${dayKey(w.dk) === dayKey(Date.now()) ? 'today' : esc(dayLabel(w.dk).toLowerCase())}</h2><span class="aside">${meter}</span></div>
+    <div class="card row-gap"><div class="watch-top">${matchRow(top.k, top.m, { showLeague: true })}${why(top)}</div>${rest.filter(x => x.why.length).slice(0, 4).map(x => matchRow(x.k, x.m, { showLeague: true }) + why(x)).join('')}</div>`;
 }
 
 // ------------------------------------------------------------------ Today
+// Live (while on) · Watch (the day's best matches, best first) · Your clubs (compact) · Matches (one day at a time)
 function viewToday() {
   const now = Date.now(), fav = favIds(), out = [];
-  // your clubs
+  const live = [];
+  for (const k of ORDER) if (D[k] && !quiet(k)) for (const m of matchesOf(k)) if (m.st === 'live') live.push([k, m]);
+  if (live.length) out.push(`<div class="section"><h2><span class="live-dot"></span>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
+  out.push(watchGuide());
   const cards = [], seen = new Set();
   for (const k of HOME_ORDER) {
     const L = D[k]; if (!L) continue;
     L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
   }
-  const todays = []; for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) if (dayKey(m.t) === dayKey(now)) todays.push([k, m]);
-  out.push(featureCard('Match of the day', featured(todays, 'day:' + dayKey(now))));
-  out.push(watchGuide());
-  if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap">${cards.join('')}</div>`);
-  // live
-  const live = [];
-  for (const k of ORDER) if (D[k] && !quiet(k)) for (const m of matchesOf(k)) if (m.st === 'live') live.push([k, m]);
-  if (live.length) out.push(`<div class="section"><h2>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
-  // the next three match days (today included, with its results)
+  if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.join('')}</div>`);
+  // matches: today and the next two match days, one at a time
   const byDay = new Map();
   for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) {
-    const t = Date.parse(m.t); if (t < now - 18 * 36e5 && dayKey(t) !== dayKey(now)) continue;
-    if (m.st === 'live' && !quiet(k)) continue;
-    const dk = dayKey(t); (byDay.get(dk) || byDay.set(dk, []).get(dk)).push([k, m]);
+    const dk = dayKey(m.t); if (dk < dayKey(now)) continue;
+    (byDay.get(dk) || byDay.set(dk, []).get(dk)).push([k, m]);
   }
-  const days = [...byDay.keys()].sort().filter(d => d >= dayKey(now)).slice(0, 3);
-  for (const dk of days) {
-    const list = byDay.get(dk);
-    const of = k => list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t));
-    const block = k => { const ms = of(k); return ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : ''; };
-    // leagues without one of your clubs fold into one line until opened
-    const extra = ORDER.filter(k => quiet(k) && of(k).length), open = ui.more[dk];
-    const more = extra.length ? (open ? extra.map(block).join('') : '')
-      + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + of(k).length, 0)} more: ${extra.map(k => LEAGUES[k].name).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
-    out.push(`<div class="section"><h2>${dayLabel(dk)}</h2><span class="aside">${list.length} matches</span></div><div class="card">${ORDER.filter(k => !quiet(k)).map(block).join('')}${more}</div>`);
-  }
-  if (!days.length) out.push('<div class="empty">No matches in the next few days.</div>');
+  const days = [...byDay.keys()].sort().slice(0, 3);
+  if (!days.length) { out.push('<div class="empty">No matches in the next few days.</div>'); return out.join(''); }
+  const dk = days.includes(ui.tday) ? ui.tday : days[0], list = byDay.get(dk);
+  const of = k => list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t));
+  const block = k => { const ms = of(k); return ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : ''; };
+  const extra = ORDER.filter(k => quiet(k) && of(k).length), open = ui.more[dk];
+  const more = extra.length ? (open ? extra.map(block).join('') : '')
+    + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + of(k).length, 0)} more: ${extra.map(k => LEAGUES[k].tag).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
+  const tabs = days.map(d => `<button class="${d === dk ? 'on' : ''}" data-tday="${d}">${esc(dayLabel(d))}</button>`).join('');
+  const main = ORDER.filter(k => !quiet(k)).map(block).join('');
+  out.push(`<div class="section"><h2>Matches</h2><span class="toggle">${tabs}</span></div><div class="card">${main || (extra.length ? '' : '<div class="empty small">None</div>')}${more}</div>`);
   return out.join('');
 }
 
@@ -386,7 +383,7 @@ function clubCard(k, i) {
   const where = `${ord(st.pos)}${rules.groups ? ' in the ' + st.group.replace(/ern$/, '') : ''} · ${st.pts} pts`;
   let nx = '';
   if (next) { const opp = L.teams[next.h === i ? next.a : next.h]; nx = `${next.st === 'live' ? 'Live' : dayLabel(dayKey(next.t)) + ' ' + fmtTime(next.t)} · ${next.h === i ? 'vs' : 'at'} ${esc(opp.s)}`; }
-  return `<button class="club-card" data-club="${k}:${i}">${crest(t, 'lg')}<div><div><b>${esc(t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span></div><div class="meta">${where}</div><div class="meta">${nx}</div></div>
+  return `<button class="club-card" data-club="${k}:${i}">${crest(t, 'lg')}<div><div><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div></div>
     ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</button>`;
 }
 
@@ -977,7 +974,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -997,6 +994,7 @@ document.addEventListener('click', e => {
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }
+  if (t.dataset.tday) { ui.tday = t.dataset.tday; render(); return; }
   if (t.dataset.plg) { ui.plg = t.dataset.plg === 'all' ? null : t.dataset.plg; render(); return; }
   if (t.dataset.match) { const [k, id] = t.dataset.match.split(':'); matchSheet(k, id); return; }
   if (t.dataset.club) { const [k, i] = t.dataset.club.split(':'); clubSheet(k, +i); return; }
