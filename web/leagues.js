@@ -63,7 +63,7 @@ export const LEAGUES = {
   usl: {
     name: 'USL Championship', short: 'USL', tag: 'USL', region: 'USA', season: '2026', color: '#FB8500',
     // official order: head-to-head points and goal difference, in-conference points per game, wins, goal difference, goals
-    tiebreak: ['pts', 'h2h', 'w', 'gd', 'gf'], groups: true,
+    tiebreak: ['pts', 'h2h', 'cppg', 'w', 'gd', 'gf'], groups: true,
     zones: [
       { key: 'shield', label: "Players' Shield", short: 'Shield', from: 1, to: 1, scope: 'all', tone: 'gold' },
       { key: 'home', label: 'Home quarterfinal', short: 'Top 4', from: 1, to: 4, scope: 'group', tone: 'good' },

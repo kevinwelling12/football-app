@@ -19,15 +19,22 @@ export function prepare(L, entries = {}, live = {}) {
 export const regular = matches => matches.filter(m => !m.stage);
 
 // ---------------------------------------------------------------- tables
-export function blankRow(i) { return { i, p: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0, awayGf: 0, form: [] }; }
-export function addResult(T, m, hs = m.hs, as = m.as) {
+export function blankRow(i) { return { i, p: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0, awayGf: 0, cp: 0, cpts: 0, form: [] }; }
+// in-conference points per game (USL), scaled to fit a 1024 slot of the sort key
+export const ppgKey = (cpts, cp) => (cp ? Math.round(cpts / cp * 341) : 0);
+// conf: both clubs in the same conference (counts toward in-conference points per game)
+export function addResult(T, m, hs = m.hs, as = m.as, conf = false) {
   const H = T[m.h], A = T[m.a];
-  H.p++; A.p++; H.gf += hs; H.ga += as; A.gf += as; A.ga += hs; A.awayGf += as; H.gd = H.gf - H.ga; A.gd = A.gf - A.ga;
+  H.p++; A.p++;
+  if (conf) { H.cp++; A.cp++; H.cpts += hs > as ? 3 : hs === as ? 1 : 0; A.cpts += as > hs ? 3 : hs === as ? 1 : 0; } H.gf += hs; H.ga += as; A.gf += as; A.ga += hs; A.awayGf += as; H.gd = H.gf - H.ga; A.gd = A.gf - A.ga;
   if (hs > as) { H.w++; A.l++; H.pts += 3; H.form.push('W'); A.form.push('L'); }
   else if (hs < as) { A.w++; H.l++; A.pts += 3; H.form.push('L'); A.form.push('W'); }
   else { H.d++; A.d++; H.pts++; A.pts++; H.form.push('D'); A.form.push('D'); }
 }
-export const sortKey = (r, tb) => tb.reduce((k, c) => k * 1024 + (c === 'gd' ? r.gd + 512 : c === 'h2h' ? (r.h2h || 0) : r[c]), 0);
+const crit = (r, c) => (c === 'gd' ? r.gd + 512 : c === 'h2h' ? (r.h2h || 0) : c === 'cppg' ? ppgKey(r.cpts, r.cp) : r[c]);
+// criterion by criterion (six criteria packed into one number would run past a double's 53 bits)
+export const compareRows = (x, y, tb) => { for (const c of tb) { const d = crit(x, c) - crit(y, c); if (d) return d; } return 0; };
+export const sameConf = (L, m) => L.teams[m.h].g != null && L.teams[m.h].g === L.teams[m.a].g;
 
 // Head-to-head points and goal difference among clubs level on everything before 'h2h' in the tiebreak order
 // (points, or points and goal difference). complete: only once every match between the tied clubs is played
@@ -52,19 +59,19 @@ function h2hKeys(rows, matches, tb, complete = false) {
 
 export function standings(L, matches, rules) {
   const T = L.teams.map((_, i) => blankRow(i));
-  for (const m of regular(matches)) if (isPlayed(m)) addResult(T, m);
+  const conf = rules.tiebreak.includes('cppg');
+  for (const m of regular(matches)) if (isPlayed(m)) addResult(T, m, m.hs, m.as, conf && sameConf(L, m));
   for (const a of L.adjust || []) { T[a.i].pts += a.pts; T[a.i].adj = (T[a.i].adj || 0) + a.pts; }
   const groups = groupsOf(L, rules);
   if (rules.tiebreak.includes('h2h')) for (const g of groups) h2hKeys(g.idx.map(i => T[i]), regular(matches), rules.tiebreak, rules.h2hComplete);
-  const key = r => sortKey(r, rules.tiebreak);
   // level on everything: alphabetical by the name shown (UEFA's rule too, by abbreviated name; matters before a league
   // phase starts, when every club is level)
   const nm = i => L.teams[i].s || L.teams[i].n, byName = (x, y) => nm(x.i).localeCompare(nm(y.i));
   for (const g of groups) {
-    const rows = g.idx.map(i => T[i]).sort((x, y) => key(y) - key(x) || byName(x, y));
+    const rows = g.idx.map(i => T[i]).sort((x, y) => compareRows(y, x, rules.tiebreak) || byName(x, y));
     rows.forEach((r, k) => { r.pos = k + 1; r.group = g.name; });
   }
-  const all = [...T].sort((x, y) => key(y) - key(x) || byName(x, y));
+  const all = [...T].sort((x, y) => compareRows(y, x, rules.tiebreak) || byName(x, y));
   all.forEach((r, k) => { r.opos = k + 1; if (!rules.groups) r.pos = k + 1; });
   return { rows: T, groups };
 }
@@ -243,10 +250,11 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7, focus = []
   gridCache.clear();
   const r = rng(seed), N = L.teams.length, tb = rules.tiebreak;
   const reg = regular(matches);
-  const base = L.teams.map((_, i) => blankRow(i));
-  for (const m of reg) if (isPlayed(m)) addResult(base, m);
+  const base = L.teams.map((_, i) => blankRow(i)), conf = tb.includes('cppg');
+  for (const m of reg) if (isPlayed(m)) addResult(base, m, m.hs, m.as, conf && sameConf(L, m));
   for (const a of L.adjust || []) base[a.i].pts += a.pts;
   const rem = reg.filter(m => !isPlayed(m) && m.st !== 'canc' && m.lh);
+  const remConf = rem.map(m => conf && sameConf(L, m));
   const cdfs = rem.map(m => m.st === 'live' ? cdf(liveGrid(m.lh, m.la, m.min ?? 45, m.rc, L.P.rho)) : cdf(matchGrid(m, L.P)));
   const groups = groupsOf(L, rules);
   const maxPos = Math.max(...groups.map(g => g.idx.length));
@@ -256,6 +264,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7, focus = []
   const zone = {}; for (const z of rules.zones) zone[z.key] = new Float64Array(N);
   const rounds = {};
   const pts = new Float64Array(N), w = new Float64Array(N), gd = new Float64Array(N), gf = new Float64Array(N), agf = new Float64Array(N);
+  const cp = new Float64Array(N), cpts = new Float64Array(N);
   const resultCount = rem.map(() => new Float64Array(3));
   const key = new Float64Array(N);
   // match importance: for each remaining match, how often each side lands in each zone (and wins the title/cup)
@@ -267,7 +276,7 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7, focus = []
   const cond = rem.map(() => new Float64Array(3 * 2 * Z));
   const F = focus.length, condF = rem.map(() => new Float64Array(3 * F * Z));
   for (let s = 0; s < sims; s++) {
-    for (let i = 0; i < N; i++) { pts[i] = base[i].pts; w[i] = base[i].w; gd[i] = base[i].gd; gf[i] = base[i].gf; agf[i] = base[i].awayGf; }
+    for (let i = 0; i < N; i++) { pts[i] = base[i].pts; w[i] = base[i].w; gd[i] = base[i].gd; gf[i] = base[i].gf; agf[i] = base[i].awayGf; cp[i] = base[i].cp; cpts[i] = base[i].cpts; }
     for (let j = 0; j < rem.length; j++) {
       const m = rem[j], k = sample(cdfs[j], r());
       let hs = (k / W) | 0, as = k % W;
@@ -275,10 +284,11 @@ export function simulate(L, rules, matches, { sims = 10000, seed = 7, focus = []
       gf[m.h] += hs; gf[m.a] += as; gd[m.h] += hs - as; gd[m.a] += as - hs; agf[m.a] += as;
       const o = hs > as ? 0 : hs === as ? 1 : 2; res[j] = o; resultCount[j][o]++;
       if (o === 0) { pts[m.h] += 3; w[m.h]++; } else if (o === 2) { pts[m.a] += 3; w[m.a]++; } else { pts[m.h]++; pts[m.a]++; }
+      if (remConf[j]) { cp[m.h]++; cp[m.a]++; cpts[m.h] += o === 0 ? 3 : o === 1 ? 1 : 0; cpts[m.a] += o === 2 ? 3 : o === 1 ? 1 : 0; }
     }
     for (let i = 0; i < N; i++) {
       let k = 0;
-      for (const c of tb) if (c !== 'h2h') k = k * 1024 + (c === 'pts' ? pts[i] : c === 'w' ? w[i] : c === 'gd' ? gd[i] + 512 : c === 'gf' ? gf[i] : agf[i]);
+      for (const c of tb) if (c !== 'h2h') k = k * 1024 + (c === 'pts' ? pts[i] : c === 'w' ? w[i] : c === 'gd' ? gd[i] + 512 : c === 'gf' ? gf[i] : c === 'cppg' ? ppgKey(cpts[i], cp[i]) : agf[i]);
       key[i] = k + r() * 0.5;
       ptsSum[i] += pts[i]; const hm = ptsHist[i]; hm.set(pts[i], (hm.get(pts[i]) || 0) + 1);
     }
