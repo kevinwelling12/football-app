@@ -307,11 +307,10 @@ function watchList() {
 }
 function watchGuide() {
   const w = watchList()[0]; if (!w || !w.rows.length) return '';
-  // one day (today, or the next day with matches): the best match large with its stakes, then four more
-  const [top, ...rest] = w.rows, f = fixInfo(top.k, top.m.id), fav = favImp(f) > 0, stakes = f ? stakesOf(top.k, f, fav) : null;
+  // one day (today, or the next day with matches): the best match first, then up to four more with a reason
+  const [top, ...rest] = w.rows;
   const why = x => `<div class="small muted watch-why"><b class="watch-score">${x.score}</b>${esc(x.why.join(' · ') || 'nothing special')}</div>`;
-  const meter = stakes != null ? `<span class="stakes" title="Stakes ${stakes} of 10"><i style="width:${stakes * 10}%"></i></span><span class="tiny muted">stakes ${stakes}/10</span>` : '';
-  return `<div class="section"><h2>Watch ${dayKey(w.dk) === dayKey(Date.now()) ? 'today' : esc(dayLabel(w.dk).toLowerCase())}</h2><span class="aside">${meter}</span></div>
+  return `<div class="section"><h2>Watch ${dayKey(w.dk) === dayKey(Date.now()) ? 'today' : esc(dayLabel(w.dk).toLowerCase())}</h2></div>
     <div class="card row-gap"><div class="watch-top">${matchRow(top.k, top.m, { showLeague: true })}${why(top)}</div>${rest.filter(x => x.why.length).slice(0, 4).map(x => `<div>${matchRow(x.k, x.m, { showLeague: true })}${why(x)}</div>`).join('')}</div>`;
 }
 

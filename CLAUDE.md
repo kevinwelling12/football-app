@@ -61,7 +61,7 @@ With Kevin's clubs in the competition (Today: any of the day's leagues) importan
 his clubs' chances (sim `focus`, fixtures[].fav; moves under 3 points are noise and don't count), whether or not they
 play; 0.85 × that + 0.15 × closeness. No club of his, or nothing on the day moves them: the usual pick. The card shows
 stakes 0–10 (against the biggest remaining match in that competition, same measure).
-Today (redesigned 2026-10-18): Live (only while on) · Watch (the day's best: top pick large with stakes, up to four
+Today (redesigned 2026-10-18): Live (only while on) · Watch (the day's best: top pick first, up to four
 more that have a reason) · Your clubs (compact) · Matches (one day at a time, Today/Tomorrow/next chips; quiet
 leagues folded). Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
 Watch list (app.js watchList): the next days with matches in UCL, EPL, BL, LL, MLS, NWSL, USL,
