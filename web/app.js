@@ -325,11 +325,11 @@ function viewToday() {
   const cards = [], seen = new Set();
   for (const k of HOME_ORDER) {
     const L = D[k]; if (!L) continue;
-    L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push([nextMatch(k, i), clubCard(k, i)]); } });
+    L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push([nextMatch(t.id), clubCard(k, i)]); } });
   }
   // soonest next match first (live counts as now); clubs with none left go last
-  const when = m => !m ? Infinity : m.st === 'live' ? 0 : Date.parse(m.t);
-  cards.sort((x, y) => when(x[0]) - when(y[0]));
+  const at = n => n ? kickAt(n.m) : Infinity;
+  cards.sort((x, y) => at(x[0]) - at(y[0]));
   if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.map(c => c[1]).join('')}</div>`);
   // matches: today and the next two match days, one at a time
   const byDay = new Map();
@@ -377,15 +377,25 @@ function headline(k, i) {
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
 }
 
-const nextMatch = (k, i) => matchesOf(k).find(m => (m.h === i || m.a === i) && !isPlayed(m) && m.st !== 'canc');
+// a club's next match in any competition shown (Liverpool: Premier League or Champions League), live counts as now
+const kickAt = m => m.st === 'live' ? 0 : Date.parse(m.t);
+function nextMatch(id) {
+  let best = null;
+  for (const k of ORDER) {
+    const i = D[k]?.teams.findIndex(t => t.id === id); if (i == null || i < 0) continue;
+    const m = matchesOf(k).find(m => (m.h === i || m.a === i) && !isPlayed(m) && m.st !== 'canc');
+    if (m && (!best || kickAt(m) < kickAt(best.m))) best = { k, i, m };
+  }
+  return best;
+}
 function clubCard(k, i) {
   const L = D[k], t = L.teams[i], ms = matchesOf(k), rules = LEAGUES[k];
   const st = standings(L, ms, rules).rows[i];
-  const next = nextMatch(k, i);
+  const nm = nextMatch(t.id);
   const hl = headline(k, i);
   const where = `${ord(st.pos)}${rules.groups ? ' in the ' + st.group.replace(/ern$/, '') : ''} · ${st.pts} pts`;
   let nx = '';
-  if (next) { const opp = L.teams[next.h === i ? next.a : next.h]; nx = `${next.st === 'live' ? 'Live' : dayLabel(dayKey(next.t)) + ' ' + fmtTime(next.t)} · ${next.h === i ? 'vs' : 'at'} ${esc(opp.s)}`; }
+  if (nm) { const { m: next, i: j } = nm, opp = D[nm.k].teams[next.h === j ? next.a : next.h]; nx = `${next.st === 'live' ? 'Live' : dayLabel(dayKey(next.t)) + ' ' + fmtTime(next.t)} · ${next.h === j ? 'vs' : 'at'} ${esc(opp.s)}${nm.k !== k ? ` <span class="faint">${LEAGUES[nm.k].tag}</span>` : ''}`; }
   return `<button class="club-card" data-club="${k}:${i}">${crest(t, 'lg')}<div><div><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div></div>
     ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</button>`;
 }
