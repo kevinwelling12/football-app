@@ -253,7 +253,7 @@ function matchRow(k, m, { showLeague = false, withDay = false } = {}) {
   else if (played) time = m.st === 'pen' ? 'Pens' : m.st === 'aet' ? 'AET' : 'FT';
   else if (m.st === 'ppd') time = 'Ppd'; else if (m.st === 'canc') time = 'Canc';
   else time = fmtTime(m.t);
-  if (withDay && !played && !live && dayKey(m.t) !== dayKey(Date.now())) time = `<div class="tiny">${new Date(m.t).toLocaleDateString([], { weekday: 'short' })}</div>${time}`;
+  if (withDay && !played && !live && dayKey(m.t) !== dayKey(Date.now())) time = `<div class="tiny">${new Date(m.t).toLocaleDateString([], { weekday: 'short' })} ${new Date(m.t).getDate()}</div>${time}`;
   const wl = side => (played ? (Math.sign(m.hs - m.as) * (side === 'h' ? 1 : -1) > 0 ? 'win' : m.hs === m.as ? '' : 'lose') : '');
   let right = '';
   if (played || live) right = `<div class="mside"><b class="score">${m.hs}</b><b class="score">${m.as}</b></div>`;
@@ -928,17 +928,19 @@ function playerQuizSheet() {
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
-// a club's ties in the domestic cups: the next one and the last result in each
-function cupRows(id) {
-  const out = [];
-  for (const c of CUPS) {
-    const L = D[c]; if (!L) continue;
-    const j = L.teams.findIndex(t => t.id === id); if (j < 0) continue;
-    const ms = matchesOf(c).filter(m => m.h === j || m.a === j);
-    const next = ms.find(m => !isPlayed(m) && m.st !== 'canc'), last = ms.filter(isPlayed).at(-1);
-    for (const m of [next, last]) if (m) out.push(matchRow(c, m, { showLeague: true, withDay: true }));
+// A club's schedule across every competition (league, UEFA cup, domestic cups): the next five and the last five,
+// tagged with the competition when it isn't the club's league (home).
+function scheduleOf(id, home) {
+  const all = [];
+  for (const k of ALL) {
+    const j = D[k]?.teams.findIndex(t => t.id === id); if (j == null || j < 0) continue;
+    for (const m of matchesOf(k)) if ((m.h === j || m.a === j) && m.st !== 'canc') all.push([k, m]);
   }
-  return out;
+  all.sort((a, b) => a[1].t.localeCompare(b[1].t));
+  const row = ([k, m]) => matchRow(k, m, { showLeague: k !== home, withDay: true });
+  const next = all.filter(x => !isPlayed(x[1])).slice(0, 5), last = all.filter(x => isPlayed(x[1])).slice(-5).reverse();
+  return (next.length ? `<div class="block"><h4>Next</h4><div class="row-gap">${next.map(row).join('')}</div></div>` : '')
+    + (last.length ? `<div class="block"><h4>Recent</h4><div class="row-gap">${last.map(row).join('')}</div></div>` : '');
 }
 function clubSheet(k, i, keep = false) {
   // a club tapped in a cup tie opens under its league; a club from below the leagues shown gets its cup ties only
@@ -946,7 +948,7 @@ function clubSheet(k, i, keep = false) {
     const t = D[k].teams[i], h = clubTeam(t.id); if (h) return clubSheet(h[0], h[1], keep);
     sheetCtx = { type: 'club', k, i };
     return openSheet(`<div class="vs" style="grid-template-columns:auto 1fr;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">Elo ${t.elo} · from a league not shown here</div></div></div>
-      <div class="block"><h4>Cups</h4><div class="row-gap">${cupRows(t.id).join('')}</div></div>`, { keep });
+      ${scheduleOf(t.id, null)}`, { keep });
   }
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
   sheetCtx = { type: 'club', k, i };
@@ -974,12 +976,7 @@ function clubSheet(k, i, keep = false) {
     const P = playerAffinity(), ps = Object.entries(PLAYERS).filter(([, p]) => p.clubs.some(c => c[1] === t.id)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]);
     if (ps.length) html += `<div class="block"><h4>Players who played here</h4><div class="kv3">${ps.slice(0, 8).map(([id, p, v]) => `<div data-player="${id}" class="click" style="color:var(--fg)">${esc(p.n)}<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(pWhyLine(id))}</div></div><div>${Math.round(v)}</div><div class="muted small">${p.act ? (p.cur === undefined ? '' : esc(p.cur || '')) : 'retired'}</div>`).join('')}</div></div>`;
   }
-  const mine = ms.filter(m => m.h === i || m.a === i);
-  const next = mine.filter(m => !isPlayed(m) && m.st !== 'canc').slice(0, 4), last = mine.filter(isPlayed).slice(-4).reverse();
-  if (next.length) html += `<div class="block"><h4>Next</h4><div class="row-gap">${next.map(m => matchRow(k, m)).join('')}</div></div>`;
-  const cups = cupRows(t.id);
-  if (cups.length) html += `<div class="block"><h4>Cups</h4><div class="row-gap">${cups.join('')}</div></div>`;
-  if (last.length) html += `<div class="block"><h4>Recent</h4><div class="row-gap">${last.map(m => matchRow(k, m)).join('')}</div></div>`;
+  html += scheduleOf(t.id, k);
   openSheet(html, { keep });
 }
 
