@@ -9,7 +9,7 @@ import { LEAGUES, TRACKED, currentSeason } from './lib/leagues.mjs';
 import { fetchSeason, getJSON, pool } from './lib/espn.mjs';
 import { loadPool, POOLS, poolOf, played, dayNum } from './lib/history.mjs';
 import { Elo, fitShotModel, fitStrength, rates } from './lib/ratings.mjs';
-import { matchGrid, bestPick, grid, outcomes } from '../web/engine.js';
+import { matchGrid, bestPick, grid, outcomes, HOUSE, HOUSE_NEUTRAL } from '../web/engine.js';
 import { walkForward, DEFAULT } from './backtest.mjs';
 
 const arg = (n, d) => { const i = process.argv.indexOf('--' + n); return i < 0 ? d : process.argv[i + 1]; };
@@ -124,12 +124,12 @@ async function publish() {
           if (m.o) out.o = m.o;
           // the prediction as of now; frozen once the match kicks off
           if (m.st === 'pre' || m.st === 'ppd') {
-            const g2 = matchGrid({ lh, la, o: m.o }, Pm), b = bestPick(g2);
-            m.pk = { pH: +b.H.toFixed(3), pD: +b.D.toFixed(3), pA: +b.A.toFixed(3), pick: b.pick, lh: out.lh, la: out.la, mkt: m.o ? 1 : 0, at: today.toISOString().slice(0, 10) };
+            const g2 = matchGrid({ lh, la, o: m.o }, Pm), b = bestPick(g2), hp = bestPick(g2, m.n ? HOUSE_NEUTRAL : HOUSE).pick;
+            m.pk = { pH: +b.H.toFixed(3), pD: +b.D.toFixed(3), pA: +b.A.toFixed(3), pick: b.pick, hp, lh: out.lh, la: out.la, mkt: m.o ? 1 : 0, at: today.toISOString().slice(0, 10) };
           }
         } else if ((!m.pk || m.pk.wf) && wf.has(m.id)) {
-          const p = wf.get(m.id), r = outcomes(grid(p.lh, p.la, rho, drawK)), b = bestPick(grid(p.lh, p.la, rho, drawK));
-          m.pk = { pH: +r.H.toFixed(3), pD: +r.D.toFixed(3), pA: +r.A.toFixed(3), pick: b.pick, lh: +p.lh.toFixed(3), la: +p.la.toFixed(3), mkt: 0, wf: 1 };
+          const p = wf.get(m.id), g2 = grid(p.lh, p.la, rho, drawK), r = outcomes(g2), b = bestPick(g2), hp = bestPick(g2, m.n ? HOUSE_NEUTRAL : HOUSE).pick;
+          m.pk = { pH: +r.H.toFixed(3), pD: +r.D.toFixed(3), pA: +r.A.toFixed(3), pick: b.pick, hp, lh: +p.lh.toFixed(3), la: +p.la.toFixed(3), mkt: 0, wf: 1 };
         }
         if (m.o && !out.o) out.o = m.o;
         if (m.pk) out.pk = m.pk;

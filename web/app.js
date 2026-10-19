@@ -1,7 +1,7 @@
 // Football: page shell, data, live scores, views. Views are plain template strings rendered into #view.
 import { LEAGUES, ORDER, MAIN, FAVORITES } from './leagues.js';
 import { prepare, standings, isPlayed, regular, simulate } from './sim.js';
-import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, W } from './engine.js';
+import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, pkGrid, HOUSE, HOUSE_NEUTRAL, W } from './engine.js';
 import { statuses, scenarios as scenFor, describe } from './clinch.js';
 import { parseEvent } from './espn.js';
 import { store, initSync, signIn, signOut } from './store.js';
@@ -646,17 +646,19 @@ function viewPicks() {
     if (!isPlayed(m) && m.st !== 'canc' && m.st !== 'live' && m.lh && Date.parse(m.t) - now < 8 * 864e5) up.push([k, m]);
     if (isPlayed(m) && m.pk && !m.mine) done.push([k, m]);
   }
-  let html = `<div class="section"><h2>FotMob picks</h2><span class="aside">2 pts result · +1 exact</span></div>`;
-  // record
-  const rec = {}; let P = 0, N = 0, R = 0, X = 0;
+  let html = `<div class="section"><h2>Record</h2><span class="aside">points a match</span></div>`;
+  // record: each match scored twice, the FotMob pick under FotMob scoring and the House pick under House rules
+  const rec = {}; let P = 0, Q = 0, N = 0, R = 0, X = 0;
   for (const [k, m] of done) {
     const pts = pickPoints(m.pk.pick, m.hs, m.as); if (pts == null) continue;
-    const r = rec[k] || (rec[k] = { n: 0, p: 0, res: 0, ex: 0 });
-    r.n++; r.p += pts; r.res += pts > 0; r.ex += pts === 3; N++; P += pts; R += pts > 0; X += pts === 3;
+    const hq = pickPoints(housePick(D[k], m), m.hs, m.as, houseRules(m)) ?? 0, ex = exactHit(m.pk.pick, m);
+    const r = rec[k] || (rec[k] = { n: 0, p: 0, q: 0 });
+    r.n++; r.p += pts; r.q += hq; N++; P += pts; Q += hq; R += pts > 0; X += ex;
   }
-  html += `<div class="card"><div class="stats"><div class="stat"><b>${N ? (P / N).toFixed(2) : '–'}</b><span>points a match</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
-    <table><tr><th class="club">This season</th><th>Matches</th><th>Pts</th><th>Per match</th></tr>${ORDER.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td>${rec[k].p}</td><td class="pts">${(rec[k].p / rec[k].n).toFixed(2)}</td></tr>`).join('')}</table></div>
-    <p class="note">The record uses the pick the model would have made before each match (picks from before this app existed were worked out from data available at the time, without betting lines).</p>`;
+  const per = (x, n) => n ? (x / n).toFixed(2) : '–';
+  html += `<div class="card"><div class="stats four"><div class="stat"><b>${per(P, N)}</b><span>FotMob avg</span></div><div class="stat"><b>${per(Q, N)}</b><span>House avg</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
+    <table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ORDER.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table></div>
+    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw or away win 4, +2 for the exact score (both wins 3 at a neutral venue), so the best pick isn't always the favourite. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
   // upcoming by day
   const byDay = new Map(); for (const x of up) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
   for (const [d, list] of [...byDay].sort()) {
@@ -671,11 +673,21 @@ function viewPicks() {
   return html;
 }
 function pickRow(k, m) {
-  const L = D[k], H = L.teams[m.h], A = L.teams[m.a], g = gridFor(L, m), b = bestPick(g);
+  const L = D[k], H = L.teams[m.h], A = L.teams[m.a], g = gridFor(L, m), b = bestPick(g), hb = bestPick(g, houseRules(m));
   const mine = store.get().picks[m.id];
-  return `<button class="pick" data-match="${k}:${m.id}"><div class="mteams"><div class="tm">${crest(H)}<span>${esc(H.s)}</span></div><div class="tm">${crest(A)}<span>${esc(A.s)}</span></div><div class="tiny faint">${fmtTime(m.t)}${m.o ? ' · with betting line' : ''}</div></div>
-    <div><div class="big">${b.pick[0]}–${b.pick[1]}</div><div class="ev">${b.ev.toFixed(2)} exp. pts${mine ? ` · yours ${mine[0]}–${mine[1]}` : ''}</div></div></button>`;
+  return `<button class="pick" data-match="${k}:${m.id}"><div class="mteams"><div class="tm">${crest(H)}<span>${esc(H.s)}</span></div><div class="tm">${crest(A)}<span>${esc(A.s)}</span></div><div class="tiny faint">${fmtTime(m.t)}${m.o ? ' · with betting line' : ''}${mine ? ` · yours ${mine[0]}–${mine[1]}` : ''}</div></div>
+    <div><div class="ev">FotMob</div><div class="big">${b.pick[0]}–${b.pick[1]}</div><div class="ev">${b.ev.toFixed(2)} pts</div></div>
+    <div><div class="ev">House</div><div class="big">${hb.pick[0]}–${hb.pick[1]}</div><div class="ev">${hb.ev.toFixed(2)} pts</div></div></button>`;
 }
+// House rules for a match, and the House pick frozen before kickoff (older frozen predictions only kept the FotMob
+// pick; the House pick is worked out from the same frozen chances)
+const houseRules = m => m.n ? HOUSE_NEUTRAL : HOUSE;
+function housePick(L, m) {
+  if (m.pk.hp) return m.pk.hp;
+  return m.pk.lh == null ? null : bestPick(pkGrid(m.pk, L.P.rho, L.P.drawK), houseRules(m)).pick;
+}
+const exactHit = (pick, m) => pick != null && pick[0] === m.hs && pick[1] === m.as;
+const ptsCls = (pick, pts, m) => exactHit(pick, m) ? 'exact' : pts ? 'hit' : 'miss';
 
 // ------------------------------------------------------------------ Clubs
 function viewClubs() {
@@ -769,13 +781,15 @@ function matchSheet(k, id) {
   }
   // pick
   if (!played && m.lh && !live) {
-    const b = bestPick(gridFor(L, m));
-    html += `<div class="block"><h4>FotMob pick</h4><div class="kv"><div>Best pick</div><div style="font-weight:700;font-size:18px">${b.pick[0]}–${b.pick[1]}</div><div></div><div class="muted">${b.ev.toFixed(2)} pts</div>
-      ${b.top.slice(1, 4).map(x => `<div class="faint">or</div><div>${x.h}–${x.a}</div><div></div><div class="faint">${x.ev.toFixed(2)} pts</div>`).join('')}</div>
-      <p class="note" style="margin:8px 18px">Expected points = 2 × chance of the result + 1 × chance of the exact score.</p></div>`;
+    const g = gridFor(L, m), b = bestPick(g), S = houseRules(m), hb = bestPick(g, S);
+    const opts = x => `<div style="font-weight:700;font-size:18px">${x.pick[0]}–${x.pick[1]}</div><div></div><div class="muted">${x.ev.toFixed(2)} pts</div>
+      ${x.top.slice(1, 3).map(y => `<div class="faint">or</div><div>${y.h}–${y.a}</div><div></div><div class="faint">${y.ev.toFixed(2)} pts</div>`).join('')}`;
+    html += `<div class="block"><h4>Best pick</h4><div class="kv"><div>FotMob</div>${opts(b)}<div>House rules</div>${opts(hb)}</div>
+      <p class="note" style="margin:8px 18px">Expected points. FotMob: 2 × chance of the result + 1 × chance of the exact score. House rules: ${S.H} × chance of a home win, ${S.D} × a draw, ${S.A} × an away win, + ${S.exact} × chance of the exact score.</p></div>`;
   } else if (played && m.pk) {
-    const pts = pickPoints(m.pk.pick, m.hs, m.as);
-    html += `<div class="block"><h4>Pick</h4><div class="kv"><div>Model pick${m.pk.wf ? ' (worked out after)' : ''}</div><div style="font-weight:700">${m.pk.pick[0]}–${m.pk.pick[1]}</div><div></div><div class="${pts === 3 ? 'exact' : pts ? 'hit' : 'miss'}">${pts} pts</div></div></div>`;
+    const pts = pickPoints(m.pk.pick, m.hs, m.as), hp = housePick(L, m), hq = pickPoints(hp, m.hs, m.as, houseRules(m));
+    html += `<div class="block"><h4>Pick${m.pk.wf ? ' (worked out after)' : ''}</h4><div class="kv"><div>FotMob</div><div style="font-weight:700">${m.pk.pick[0]}–${m.pk.pick[1]}</div><div></div><div class="${ptsCls(m.pk.pick, pts, m)}">${pts} pts</div>
+      ${hp ? `<div>House rules</div><div style="font-weight:700">${hp[0]}–${hp[1]}</div><div></div><div class="${ptsCls(hp, hq, m)}">${hq} pts</div>` : ''}</div></div>`;
   }
   if (m.sh) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div><div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div></div></div>`;
   // your entry

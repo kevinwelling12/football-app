@@ -74,21 +74,32 @@ export function matchGrid(m, P) {
   return blend(model, marketGrid(m.o, m.lh, m.la, P.rho), P.mktW);
 }
 
-// FotMob Predict: 2 points for the right result, +1 for the exact score. Best pick = argmax 2 P(result) + P(exact).
-export const FOTMOB = { result: 2, exact: 1 };
+// Scoring rules: points for the right result by outcome (home win, draw, away win), plus a bonus for the exact score.
+// FotMob Predict pays every result 2 and +1 for the exact score. House rules pay the harder calls double: home win 2,
+// draw or away win 4, exact +2 (both wins 3 at a neutral venue), so the best pick isn't always the favourite.
+export const FOTMOB = { H: 2, D: 2, A: 2, exact: 1 };
+export const HOUSE = { H: 2, D: 4, A: 4, exact: 2 }, HOUSE_NEUTRAL = { H: 3, D: 4, A: 3, exact: 2 };
+const res = (h, a) => h > a ? 'H' : h < a ? 'A' : 'D';
+// Best pick = argmax S[result] P(result) + S.exact P(exact).
 export function bestPick(g, S = FOTMOB) {
   const r = outcomes(g), list = [];
   for (let h = 0; h <= 6; h++) for (let a = 0; a <= 6; a++) {
-    const p = g[h * W + a], pr = h > a ? r.H : h === a ? r.D : r.A;
-    list.push({ h, a, p, ev: S.result * pr + S.exact * p });
+    const p = g[h * W + a], o = res(h, a);
+    list.push({ h, a, p, ev: S[o] * r[o] + S.exact * p });
   }
   list.sort((x, y) => y.ev - x.ev);
   return { pick: [list[0].h, list[0].a], ev: list[0].ev, top: list.slice(0, 4), ...r };
 }
 export function pickPoints(pick, hs, as, S = FOTMOB) {
   if (pick == null || hs == null) return null;
-  const ok = Math.sign(pick[0] - pick[1]) === Math.sign(hs - as);
-  return ok ? S.result + (pick[0] === hs && pick[1] === as ? S.exact : 0) : 0;
+  const o = res(hs, as);
+  return res(pick[0], pick[1]) === o ? S[o] + (pick[0] === hs && pick[1] === as ? S.exact : 0) : 0;
+}
+// The grid behind a frozen prediction (pk): rates' grid scaled to the frozen home/draw/away chances
+export function pkGrid(pk, rho = 0, drawK = 1) {
+  const g = grid(pk.lh, pk.la, rho, drawK), r = outcomes(g);
+  for (let h = 0; h <= KMAX; h++) for (let a = 0; a <= KMAX; a++) g[h * W + a] *= h > a ? pk.pH / r.H : h === a ? pk.pD / r.D : pk.pA / r.A;
+  return g;
 }
 
 // Remaining-goals grid for a match in progress: rates scaled by time left, red cards change both sides' rates.
