@@ -85,14 +85,15 @@ async function publish() {
       if (!S) continue;
       // if ESPN's standings fail (it sometimes refuses GitHub's runners), keep the conferences already published
       const was = Object.fromEntries((read(`web/data/${k}.json`)?.teams || []).map(t => [t.id, t]));
-      const { g, rank } = await groupsFor(k).catch(e => { report.push(`${k}: standings ${e.message}, kept last conferences`); return { g: {}, rank: {} }; });
+      const ko = LEAGUES[k].ko; // domestic cup: no table, every club drawn counts
+      const { g, rank } = ko ? { g: {}, rank: {} } : await groupsFor(k).catch(e => { report.push(`${k}: standings ${e.message}, kept last conferences`); return { g: {}, rank: {} }; });
       for (const id in was) { if (!g[id] && was[id].g) g[id] = was[id].g; if (rank[id] == null && was[id].espnRank != null) rank[id] = was[id].espnRank; }
       // Liga MX: only the current tournament (Apertura or Clausura) is published, so the table is that tournament's
       const tour = LEAGUES[k].split ? currentTournament(S.matches) : null;
       const SM = tour ? S.matches.filter(m => m.tn === tour) : S.matches;
-      // clubs: those with at least 4 matches this season in this competition
+      // clubs: those with at least 4 matches this season in this competition (any, in a cup)
       const games = {}; for (const m of SM) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
-      const ids = Object.keys(S.teams).filter(id => games[id] >= 4);
+      const ids = Object.keys(S.teams).filter(id => games[id] >= (ko ? 1 : 4));
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
       const noTraits = [];
       const teams = ids.map(id => {
@@ -102,9 +103,9 @@ async function publish() {
         else noTraits.push(`${t.n} (${id})`);
         return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
       });
-      if (noTraits.length) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
+      if (noTraits.length && !ko) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;
-      const base = (fit.base[k] || [1.5, 1.2]).map(x => +x.toFixed(4));
+      const bk = LEAGUES[k].base || k, base = (fit.base[bk] || [1.5, 1.2]).map(x => +x.toFixed(4));
       const Pm = { rho, drawK, mktW };
       // walk-forward predictions for played matches that have none yet (first run of a season)
       const missing = SM.some(m => played(m) && (!m.pk || m.pk.wf) && !m.stage);
@@ -116,7 +117,7 @@ async function publish() {
       const matches = [];
       for (const m of SM) {
         if (idx[m.h] == null || idx[m.a] == null) continue;
-        const [lh, la] = rates(fit, { ...m, lg: k }, elo.R, P);
+        const [lh, la] = rates(fit, { ...m, lg: bk }, elo.R, P);
         const out = { id: m.id, t: m.t, h: idx[m.h], a: idx[m.a], st: m.st };
         for (const f of ['hs', 'as', 'stage', 'leg', 'series', 'n', 'so', 'sh', 'sot', 'tv', 'clock']) if (m[f] != null) out[f] = m[f];
         if (!played(m) && m.st !== 'canc') {

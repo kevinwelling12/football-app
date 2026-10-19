@@ -1,5 +1,5 @@
 // Every ESPN league the scripts read. `track` = shown in the app; the rest only feed the ratings
-// (cross-league Elo for the UEFA cups, 2. Bundesliga for promoted clubs).
+// (cross-league Elo for the UEFA cups, 2. Bundesliga for promoted clubs, League One and Two for cup ties).
 // season = ESPN's season year: European seasons are named by the year they start (2026 = 2026-27). Liga MX too since
 // 2023 (2026 = Apertura 2026 + Clausura 2027); 2016-2021 were calendar years and 2022 ran Jan 2022 to May 2023.
 // probes = month-days asked to find a season's calendar (the first whose season year matches wins).
@@ -17,10 +17,18 @@ export const LEAGUES = {
   mex:  { espn: 'mex.1', track: true, split: true, name: 'Liga MX', probes: ['0815', '0301', '1015'] },
   uel:  { espn: 'uefa.europa', track: true, euro: true, uefa: true, name: 'Europa League' },
   uecl: { espn: 'uefa.europa.conf', track: true, euro: true, uefa: true, name: 'Conference League' },
+  // domestic cups (ko: knockout, fetched a calendar year per request; shown in the app beside the leagues, not as pages).
+// base: the league whose home/away goal rates a cup tie uses (a cup's own are skewed: amateur hosts lose heavily)
+  flc:  { espn: 'eng.league_cup', track: true, euro: true, cup: true, ko: true, base: 'epl', name: 'Carabao Cup' },
+  fac:  { espn: 'eng.fa', track: true, euro: true, cup: true, ko: true, base: 'epl', name: 'FA Cup' },
+  dfb:  { espn: 'ger.dfb_pokal', track: true, euro: true, cup: true, ko: true, base: 'bl', name: 'DFB-Pokal' },
+  usoc: { espn: 'usa.open', track: true, cup: true, ko: true, base: 'mls', name: 'U.S. Open Cup' },
   // rating-only
   por:  { espn: 'por.1', euro: true }, ned: { espn: 'ned.1', euro: true }, bel: { espn: 'bel.1', euro: true },
   sco:  { espn: 'sco.1', euro: true }, tur: { espn: 'tur.1', euro: true },
   ger2: { espn: 'ger.2', euro: true },
+  // League One and Two: the clubs English cup draws bring in (3. Liga isn't on ESPN; its clubs are rated from cup matches)
+  eng3: { espn: 'eng.3', euro: true }, eng4: { espn: 'eng.4', euro: true },
   // rating-only, Americas: the matches that put MLS and Liga MX clubs on one scale
   lcup: { espn: 'concacaf.leagues.cup', cup: true, probes: ['0801', '0725', '0901'] },
   ccc:  { espn: 'concacaf.champions', cup: true, probes: ['0315', '0901', '1015', '0215'] },

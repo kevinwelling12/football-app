@@ -2,12 +2,15 @@
 // attack/defence fit whose targets mix goals with a shots-based expected-goals proxy, regressed toward an
 // Elo-based prior. Everything here is walk-forward safe: a fit at day D only reads matches before D.
 import { played, hasShots } from './history.mjs';
-import { isCup } from './leagues.mjs';
+import { isCup, LEAGUES } from './leagues.mjs';
 
 // ---------------------------------------------------------------- Elo
 // Starting level for a club's first appearance, by league (Europe is one pool linked by UEFA matches).
+const ENG3 = 1380, ENG4 = 1260, NONLEAGUE = 1150, GER3 = 1250, USOC = 1300; // checked against 2,044 cup ties 2019-25
 const ELO_START = { epl: 1650, esp: 1630, ger: 1610, bl: 1610, ita: 1610, fra: 1570, por: 1530, ned: 1520,
-  bel: 1480, tur: 1480, sco: 1440, eng2: 1470, ger2: 1450, ucl: 1450, uel: 1400, uecl: 1350, lcup: 1450, ccc: 1350 };
+  bel: 1480, tur: 1480, sco: 1440, eng2: 1470, ger2: 1450, ucl: 1450, uel: 1400, uecl: 1350, lcup: 1450, ccc: 1350,
+  // a club whose first match is a domestic cup tie is from below the leagues we load (3. Liga, non-league, amateurs)
+  eng3: ENG3, eng4: ENG4, flc: ENG4, fac: NONLEAGUE, dfb: GER3, usoc: USOC };
 
 // Incremental, so a walk-forward test can read ratings as of any day: elo.add(m) in time order, elo.R = ratings now.
 export class Elo {
@@ -28,7 +31,7 @@ export class Elo {
     const dr = R[m.h] - R[m.a] + (m.n ? 0 : this.HFA), we = 1 / (1 + 10 ** (-dr / 400));
     const gd = Math.abs(m.hs - m.as), W = m.hs > m.as ? 1 : m.hs === m.as ? 0.5 : 0;
     const G = gd <= 1 ? 1 : gd === 2 ? 1.5 : (11 + gd) / 8;
-    const d = this.K * G * (uefa ? 1.25 : 1) * (W - we);
+    const d = this.K * G * (uefa && !LEAGUES[m.lg].ko ? 1.25 : 1) * (W - we);
     R[m.h] += d; R[m.a] -= d;
   }
 }

@@ -1,5 +1,5 @@
-// ESPN public scoreboard API (site.api.espn.com: free, no key, unofficial). One day per request;
-// date ranges answer 400. Responses are parsed into compact match records (see docs/data.md).
+// ESPN public scoreboard API (site.api.espn.com: free, no key, unofficial). One day per request (or a whole
+// calendar year, 'YYYY'); date ranges answer 400. Responses are parsed into compact match records (see docs/data.md).
 import { LEAGUES } from './leagues.mjs';
 
 const BASE = 'https://site.api.espn.com/apis/site/v2/sports/soccer';
@@ -29,7 +29,7 @@ export async function pool(items, n, fn) {
 }
 
 const ymd = d => d.toISOString().slice(0, 10).replace(/-/g, '');
-export const scoreboard = (key, day) => getJSON(`${BASE}/${LEAGUES[key].espn}/scoreboard?dates=${day}&limit=200`);
+export const scoreboard = (key, day) => getJSON(`${BASE}/${LEAGUES[key].espn}/scoreboard?dates=${day}&limit=1000`);
 
 // Match days of a season. Domestic leagues list them in the calendar; UEFA calendars are stage ranges,
 // so every Tuesday-Thursday in them is asked (plus the final's weekend day).
@@ -60,8 +60,10 @@ import { parseEvent, teamRecord } from '../../web/espn.js';
 export { parseEvent, teamRecord };
 
 // Fetch a whole season: {teams: {id: record}, matches: [...]}, sorted by kickoff.
+// Domestic cups ask for whole calendar years ('2026' answers every match that year; a European season spans two).
 export async function fetchSeason(key, season, { concurrency = 8, days } = {}) {
-  days = days || await seasonDays(key, season);
+  const L = LEAGUES[key];
+  days = days || (L.ko ? (L.euro ? [`${season}`, `${season + 1}`] : [`${season}`]) : await seasonDays(key, season));
   const teams = {}, byId = new Map();
   await pool(days, concurrency, async day => {
     const d = await scoreboard(key, day); if (!d) return;

@@ -1,12 +1,12 @@
 // Loads history/<league>/<season>.json into rating pools. A pool is a set of leagues whose clubs meet each other:
-// Europe (domestic leagues + UEFA cups, linked by European nights and promotion); the Americas ('mls': MLS and Liga MX,
-// linked by the Leagues Cup and the Concacaf Champions Cup); NWSL; USL.
+// Europe (domestic leagues, domestic and UEFA cups, linked by European nights, cup ties and promotion); the Americas
+// ('mls': MLS and Liga MX, linked by the Leagues Cup and the Concacaf Champions Cup, plus the U.S. Open Cup); NWSL; USL.
 import fs from 'node:fs';
 import { LEAGUES, isCup } from './leagues.mjs';
 
 export const POOLS = {
   eur: Object.keys(LEAGUES).filter(k => LEAGUES[k].euro),
-  mls: ['mls', 'mex', 'lcup', 'ccc'], nwsl: ['nwsl'], usl: ['usl'],
+  mls: ['mls', 'mex', 'lcup', 'ccc', 'usoc'], nwsl: ['nwsl'], usl: ['usl'],
 };
 export const poolOf = k => Object.keys(POOLS).find(p => POOLS[p].includes(k));
 

@@ -166,7 +166,20 @@ export const LEAGUES = {
     columns: ['r16', 'ko', 'champ'],
   },
 };
+// Domestic cups (ko: knockout ties, no table): never a league page, shown beside the league in base (Today, club cards,
+// the Cups page under Leagues). et: extra time before penalties (true, or 'final' for the Carabao Cup, whose earlier
+// rounds go straight to penalties).
+const cup = (name, tag, base, color, et = true) => ({ name, short: name, tag, region: base === 'mls' ? 'USA' : 'Europe', ko: true, base, color, et, zones: [] });
+Object.assign(LEAGUES, {
+  flc: cup('Carabao Cup', 'Carabao', 'epl', '#2A9D8F', 'final'),
+  fac: cup('FA Cup', 'FA Cup', 'epl', '#C9A227'),
+  dfb: cup('DFB-Pokal', 'Pokal', 'bl', '#A8B2C1'),
+  usoc: cup('U.S. Open Cup', 'Open Cup', 'mls', '#E76F51'),
+});
+export const CUPS = ['flc', 'fac', 'dfb', 'usoc'];
 export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'uel', 'uecl'];
+// every competition with a data file: leagues, each followed by its domestic cups
+export const ALL = ORDER.flatMap(k => [k, ...CUPS.filter(c => LEAGUES[c].base === k)]);
 // Kevin's own competitions (the rest are shown more quietly on Today)
 export const MAIN = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
 export const FAVORITES = ['Liverpool', 'Borussia Dortmund', 'Sacramento Republic FC', 'Portland Timbers', 'Portland Thorns FC'];

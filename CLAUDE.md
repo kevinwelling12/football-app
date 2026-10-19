@@ -7,7 +7,11 @@ is the reference for anything "we did before": its docs/preferences.md holds the
 A static web app (GitHub Pages) for thirteen competitions: Kevin's six (Premier League, Bundesliga, Champions League, MLS,
 NWSL, USL Championship) and, since 2026-10-13, La Liga, Serie A, Ligue 1, the EFL Championship, Liga MX, the Europa League
 and the Conference League (no club of his there;
-on Today they fold into one "N more" line per day unless he follows a club in them). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns.
+on Today they fold into one "N more" line per day unless he follows a club in them). Domestic cups since 2026-10-19:
+Carabao Cup, FA Cup, DFB-Pokal, U.S. Open Cup (leagues.js CUPS, `ko`): no league pages; his clubs' ties (and
+semi-finals, finals) show on Today, club cards and club sheets, the rest fold into "more"; Leagues > Cups lists each
+cup's current round; the match sheet adds "To go through" (engine.js advance: extra time, then penalties; Carabao
+straight to penalties before the final). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns.
 Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide, dark scheme, no horizontal overflow.
 
 ## Layout
@@ -22,7 +26,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
       worker.js          runs sim + proofs + scenarios off the main thread
       data/<k>.json      published per league by scripts/sync.mjs (teams with ratings, matches with model rates, odds, frozen picks)
       logos/             crests (<espnId>-d.png dark, <espnId>.png light), from scripts/logos.py
-    history/<k>/<season>.json   ESPN history, 2016 on, 21 leagues (13 shown + 8 that only feed ratings, incl. Leagues Cup `lcup` and Concacaf Champions Cup `ccc`; scripts/lib/leagues.mjs `track`). Liga MX files hold both tournaments (`tn` 'A2026'/'C2027'); sync publishes only the current one. odds/ = football-data.co.uk CSVs
+    history/<k>/<season>.json   ESPN history, 2016 on, 27 competitions (13 leagues + 4 domestic cups shown, 10 that only feed ratings, incl. Leagues Cup `lcup`, Concacaf Champions Cup `ccc`, League One/Two `eng3`/`eng4`; scripts/lib/leagues.mjs `track`). Cups are fetched a calendar year per request (`dates=YYYY`); a cup tie uses its base league's home/away rates (`base`). Liga MX files hold both tournaments (`tn` 'A2026'/'C2027'); sync publishes only the current one. odds/ = football-data.co.uk CSVs
     model/params.json    tuned parameters + backtest results (scripts/backtest.mjs --tune)
     data/affinity/traits.json  researched Affinity traits per club (ESPN id); the score is computed in the page (docs/affinity.md)
     scripts/             backfill.mjs, sync.mjs, backtest.mjs, logos.py, serve.mjs, lib/
@@ -73,7 +77,7 @@ The match sheet shows the swings as "What's at stake".
 ## Working agreements (carried over from the old app)
 - Plain, short replies. Show what changed and the concrete effect (numbers, examples). No hype.
 - Never overwrite results Kevin entered. His entries win over ESPN in the app; disagreements are shown, not resolved.
-- FotMob Predict: a predicted score per match, 90 minutes only; 2 points for the result, +1 for the exact score. Never scrape FotMob (or Opta).
+- FotMob Predict: a predicted score per match, 90 minutes only; 2 points for the result, +1 for the exact score. Never scrape FotMob (or Opta). After extra time the 90-minute score isn't known: a draw pick gets the result points, no exact bonus (app.js ptsFor).
 - House rules (Picks page, beside FotMob): home win 2, draw or away win 4, +2 exact (both wins 3 at a neutral venue); engine.js HOUSE, frozen as `pk.hp`.
 - Terminology: "Affinity", "Matches" (not Games), "Race", "Scenarios".
 - Design: clean and quiet. Neutral surfaces, a competition's colour only as a small accent, numbers first. Less on screen beats more.

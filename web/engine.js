@@ -102,6 +102,20 @@ export function pkGrid(pk, rho = 0, drawK = 1) {
   return g;
 }
 
+// A knockout tie: chance the home side goes through. g = this match's grid (the rest of it, when live), carry = goals
+// already in (a first leg's, the live score), level after 90 = extra time (a third of a match at the pre-match rates
+// lh, la) when et, then penalties as a coin flip.
+export function advance(g, lh, la, { et = true, carry = [0, 0] } = {}) {
+  let p = 0, tie = 0;
+  for (let h = 0; h <= KMAX; h++) for (let a = 0; a <= KMAX; a++) {
+    const q = g[h * W + a], d = h + carry[0] - a - carry[1];
+    if (d > 0) p += q; else if (d === 0) tie += q;
+  }
+  let t = 0.5;
+  if (et) { const e = grid(lh / 3, la / 3), r = outcomes(e); t = r.H + r.D / 2; }
+  return p + tie * t;
+}
+
 // Remaining-goals grid for a match in progress: rates scaled by time left, red cards change both sides' rates.
 export function liveGrid(lh, la, minute, rc = [0, 0], rho = 0) {
   const left = Math.max(0.01, (95 - Math.min(minute, 94)) / 95);

@@ -1,7 +1,7 @@
 // Football: page shell, data, live scores, views. Views are plain template strings rendered into #view.
-import { LEAGUES, ORDER, MAIN, FAVORITES } from './leagues.js';
+import { LEAGUES, ORDER, MAIN, FAVORITES, CUPS, ALL } from './leagues.js';
 import { prepare, standings, isPlayed, regular, simulate } from './sim.js';
-import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, pkGrid, HOUSE, HOUSE_NEUTRAL, W } from './engine.js';
+import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, pkGrid, advance, FOTMOB, HOUSE, HOUSE_NEUTRAL, W } from './engine.js';
 import { statuses, scenarios as scenFor, describe } from './clinch.js';
 import { parseEvent } from './espn.js';
 import { store, initSync, signIn, signOut } from './store.js';
@@ -89,7 +89,7 @@ async function loadData() {
   fetch('data/traits.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { TRAITS = t; render(); }).catch(() => {});
   fetch('data/rivals.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { RIVALS = t; AFF = null; render(); }).catch(() => {});
   fetch('data/players.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { PLAYERS = t; PAFF = null; render(); }).catch(() => {});
-  await Promise.all(ORDER.map(async k => {
+  await Promise.all(ALL.map(async k => {
     const r = await fetch(`data/${k}.json`, { cache: 'no-cache' });
     if (r.ok) { const L = await r.json(); L.byId = new Map(L.matches.map(m => [m.id, m])); D[k] = L; }
   }));
@@ -127,6 +127,7 @@ function getWorker() {
 }
 const simStamp = k => JSON.stringify([entriesFor(k), LIVE[k] || {}, D[k]?.updated, [...favIds()]]);
 function runSim(k) {
+  if (LEAGUES[k].ko) return; // cups have no table to simulate
   const stamp = simStamp(k);
   if (SIM[k] && (SIM[k].stamp === stamp || SIM[k].running === stamp)) return;
   SIM[k] = { ...(SIM[k] || {}), running: stamp };
@@ -149,10 +150,11 @@ function runSim(k) {
 }
 
 // ------------------------------------------------------------------ live scores from ESPN
-const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1', uel: 'uefa.europa', uecl: 'uefa.europa.conf' };
+const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1', uel: 'uefa.europa', uecl: 'uefa.europa.conf',
+  flc: 'eng.league_cup', fac: 'eng.fa', dfb: 'ger.dfb_pokal', usoc: 'usa.open' };
 async function pollLive() {
   const now = Date.now();
-  for (const k of ORDER) {
+  for (const k of ALL) {
     const L = D[k]; if (!L) continue;
     // everything that has kicked off (up to 4 days back) without a result in the published data, not only matches on
     // now: if a scheduled sync fails, finished matches still get their scores here; finals are fetched once
@@ -177,7 +179,7 @@ async function pollLive() {
         }
       } catch { /* offline: manual entry still works */ }
     }
-    if (changed) { runSim(k); render(); }
+    if (changed) { if (!LEAGUES[k].ko) runSim(k); render(); }
   }
 }
 
@@ -272,8 +274,8 @@ const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:
 // The next two days' matches in the competitions Kevin watches, ranked by a watch score 0-100:
 // your club playing 40, how far the result moves your clubs' chances 20 (your clubs' own matches too), Affinity of the two clubs 15,
 // stakes for both sides 15, quality 10 (strength within the league x the league's level, and closeness).
-const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl'];
-const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55 };
+const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl', 'flc', 'fac', 'dfb', 'usoc'];
+const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
 function watchList() {
   const now = Date.now(), fav = favIds(), byDay = new Map();
   for (const k of WATCH) if (D[k]) for (const m of matchesOf(k)) {
@@ -319,7 +321,7 @@ function watchGuide() {
 function viewToday() {
   const now = Date.now(), fav = favIds(), out = [];
   const live = [];
-  for (const k of ORDER) if (D[k] && !quiet(k)) for (const m of matchesOf(k)) if (m.st === 'live') live.push([k, m]);
+  for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) if (m.st === 'live' && (LEAGUES[k].ko ? cupShown(k, m) : !quiet(k))) live.push([k, m]);
   if (live.length) out.push(`<div class="section"><h2><span class="live-dot"></span>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
   out.push(watchGuide());
   const cards = [], seen = new Set();
@@ -333,7 +335,7 @@ function viewToday() {
   if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.map(c => c[1]).join('')}</div>`);
   // matches: today and the next two match days, one at a time
   const byDay = new Map();
-  for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) {
+  for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) {
     const dk = dayKey(m.t); if (dk < dayKey(now)) continue;
     (byDay.get(dk) || byDay.set(dk, []).get(dk)).push([k, m]);
   }
@@ -341,16 +343,21 @@ function viewToday() {
   if (!days.length) { out.push('<div class="empty">No matches in the next few days.</div>'); return out.join(''); }
   const dk = days.includes(ui.tday) ? ui.tday : days[0], list = byDay.get(dk);
   const of = k => list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t));
-  const block = k => { const ms = of(k); return ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : ''; };
-  const extra = ORDER.filter(k => quiet(k) && of(k).length), open = ui.more[dk];
-  const more = extra.length ? (open ? extra.map(block).join('') : '')
-    + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + of(k).length, 0)} more: ${extra.map(k => LEAGUES[k].tag).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
+  // shown in full: Kevin's leagues and leagues with a club of his; from a cup only his clubs' ties and the last rounds
+  const mainOf = k => LEAGUES[k].ko ? of(k).filter(x => cupShown(k, x[1])) : quiet(k) ? [] : of(k);
+  const restOf = k => LEAGUES[k].ko ? of(k).filter(x => !cupShown(k, x[1])) : quiet(k) ? of(k) : [];
+  const block = (k, ms) => (ms.length ? lgLabel(k) + ms.map(([, m]) => matchRow(k, m)).join('') : '');
+  const extra = ALL.filter(k => restOf(k).length), open = ui.more[dk];
+  const more = extra.length ? (open ? extra.map(k => block(k, restOf(k))).join('') : '')
+    + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + restOf(k).length, 0)} more: ${extra.map(k => LEAGUES[k].tag).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
   const tabs = days.map(d => `<button class="${d === dk ? 'on' : ''}" data-tday="${d}">${esc(dayLabel(d))}</button>`).join('');
-  const main = ORDER.filter(k => !quiet(k)).map(block).join('');
+  const main = ALL.map(k => block(k, mainOf(k))).join('');
   out.push(`<div class="section"><h2>Matches</h2><span class="toggle">${tabs}</span></div><div class="card">${main || (extra.length ? '' : '<div class="empty small">None</div>')}${more}</div>`);
   return out.join('');
 }
 
+// a cup tie shown in full: one of your clubs plays, or a semi-final or final
+function cupShown(k, m) { const fav = favIds(), L = D[k]; return fav.has(L.teams[m.h].id) || fav.has(L.teams[m.a].id) || /^(semi-?finals?|final)$/.test(m.stage || ''); }
 // a league shown quietly on Today: not one of Kevin's six and none of your clubs in it
 function quiet(k) { if (MAIN.includes(k)) return false; const fav = favIds(); return !(D[k]?.teams || []).some(t => fav.has(t.id)); }
 
@@ -381,7 +388,7 @@ function headline(k, i) {
 const kickAt = m => m.st === 'live' ? 0 : Date.parse(m.t);
 function nextMatch(id) {
   let best = null;
-  for (const k of ORDER) {
+  for (const k of ALL) {
     const i = D[k]?.teams.findIndex(t => t.id === id); if (i == null || i < 0) continue;
     const m = matchesOf(k).find(m => (m.h === i || m.a === i) && !isPlayed(m) && m.st !== 'canc');
     if (m && (!best || kickAt(m) < kickAt(best.m))) best = { k, i, m };
@@ -402,6 +409,7 @@ function clubCard(k, i) {
 
 // ------------------------------------------------------------------ League views
 function viewLeague() {
+  if (route.lg === 'cups') return viewCups();
   const k = route.lg, L = D[k]; if (!L) return '<div class="spinner">Loading…</div>';
   runSim(k);
   if (route.sub === 'matches') return viewMatches(k);
@@ -409,6 +417,22 @@ function viewLeague() {
   if (route.sub === 'scenarios') return viewScenarios(k);
   if (route.sub === 'affinity') return viewLeagueAffinity(k);
   return viewTable(k);
+}
+
+// Cups page: each domestic cup's current round (the next one, or the last played), your clubs' ties first
+const stageName = st => { const x = (st || '').replace(/^rd-of/, 'round-of').replace(/-+/g, ' ').replace(/finals$/, 'final').replace(/quarterfinal/, 'quarter-final').replace(/semifinal/, 'semi-final'); return x ? x[0].toUpperCase() + x.slice(1) : ''; };
+function viewCups() {
+  const fav = favIds();
+  return CUPS.map(c => {
+    const L = D[c], head = `<div class="section"><h2>${LEAGUES[c].name}</h2>`;
+    if (!L) return `${head}</div><div class="card"><div class="empty small">No ${LEAGUES[c].base === 'mls' ? '' : '2026–27 '}matches published yet.</div></div>`;
+    const ms = matchesOf(c), next = ms.find(m => !isPlayed(m) && m.st !== 'canc'), last = ms.filter(isPlayed).at(-1);
+    const stage = (next || last)?.stage, round = ms.filter(m => m.stage === stage);
+    const mine = m => fav.has(L.teams[m.h].id) || fav.has(L.teams[m.a].id);
+    round.sort((a, b) => mine(b) - mine(a) || a.t.localeCompare(b.t));
+    const won = !next && stage === 'final' && last ? (() => { const w = last.so ? (last.so[0] > last.so[1] ? last.h : last.a) : last.hs > last.as ? last.h : last.a; return `won by ${esc(L.teams[w].s)}`; })() : '';
+    return `${head}<span class="aside">${esc(stageName(stage))}${won ? ' · ' + won : ''}</span></div><div class="card row-gap">${round.map(m => matchRow(c, m, { withDay: true })).join('') || '<div class="empty small">None</div>'}</div>`;
+  }).join('') + `<p class="note">Your clubs' ties also show on Today and on their club cards; other ties fold into "more". Chances are for 90 minutes; a tie's chance to go through is on its match sheet.</p>`;
 }
 
 function viewMatches(k) {
@@ -655,7 +679,7 @@ function describeLines(sc) {
 // ------------------------------------------------------------------ Picks
 function viewPicks() {
   const now = Date.now(), up = [], done = [];
-  for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) {
+  for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) {
     if (m.stage && !m.lh && !m.pk) continue;
     if (!isPlayed(m) && m.st !== 'canc' && m.st !== 'live' && m.lh && Date.parse(m.t) - now < 8 * 864e5) up.push([k, m]);
     if (isPlayed(m) && m.pk && !m.mine) done.push([k, m]);
@@ -664,20 +688,20 @@ function viewPicks() {
   // record: each match scored twice, the FotMob pick under FotMob scoring and the House pick under House rules
   const rec = {}; let P = 0, Q = 0, N = 0, R = 0, X = 0;
   for (const [k, m] of done) {
-    const pts = pickPoints(m.pk.pick, m.hs, m.as); if (pts == null) continue;
-    const hq = pickPoints(housePick(D[k], m), m.hs, m.as, houseRules(m)) ?? 0, ex = exactHit(m.pk.pick, m);
+    const pts = ptsFor(m.pk.pick, k, m); if (pts == null) continue;
+    const hq = ptsFor(housePick(D[k], m), k, m, houseRules(m)) ?? 0, ex = exactHit(m.pk.pick, k, m);
     const r = rec[k] || (rec[k] = { n: 0, p: 0, q: 0 });
     r.n++; r.p += pts; r.q += hq; N++; P += pts; Q += hq; R += pts > 0; X += ex;
   }
   const per = (x, n) => n ? (x / n).toFixed(2) : '–';
   html += `<div class="card"><div class="stats four"><div class="stat"><b>${per(P, N)}</b><span>FotMob avg</span></div><div class="stat"><b>${per(Q, N)}</b><span>House avg</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
-    <table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ORDER.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table></div>
-    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw or away win 4, +2 for the exact score (both wins 3 at a neutral venue), so the best pick isn't always the favourite. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
+    <table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ALL.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table></div>
+    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw or away win 4, +2 for the exact score (both wins 3 at a neutral venue), so the best pick isn't always the favourite. Picks are for 90 minutes. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
   // upcoming by day
   const byDay = new Map(); for (const x of up) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
   for (const [d, list] of [...byDay].sort()) {
     html += `<div class="section"><h2>${dayLabel(d)}</h2></div><div class="card">`;
-    for (const k of ORDER) {
+    for (const k of ALL) {
       const ms = list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t)); if (!ms.length) continue;
       html += lgLabel(k) + ms.map(([, m]) => pickRow(k, m)).join('');
     }
@@ -700,8 +724,29 @@ function housePick(L, m) {
   if (m.pk.hp) return m.pk.hp;
   return m.pk.lh == null ? null : bestPick(pkGrid(m.pk, L.P.rho, L.P.drawK), houseRules(m)).pick;
 }
-const exactHit = (pick, m) => pick != null && pick[0] === m.hs && pick[1] === m.as;
-const ptsCls = (pick, pts, m) => exactHit(pick, m) ? 'exact' : pts ? 'hit' : 'miss';
+// Picks are for 90 minutes. After extra time the 90-minute result was a draw but its score isn't in the data, so a
+// draw pick gets the result points and no exact bonus. (MLS best-of-three games and Carabao Cup ties before the final
+// go straight to penalties: their score is the 90-minute score.)
+const etOf = (k, m) => !m.series && (LEAGUES[k].et === 'final' ? m.stage === 'final' : true);
+const at90 = (k, m) => (m.st === 'aet' || (m.st === 'pen' && etOf(k, m)) ? null : [m.hs, m.as]);
+function ptsFor(pick, k, m, S = FOTMOB) {
+  if (pick == null || m.hs == null) return null;
+  const s = at90(k, m);
+  return s ? pickPoints(pick, s[0], s[1], S) : pick[0] === pick[1] ? S.D : 0;
+}
+const exactHit = (pick, k, m) => { const s = at90(k, m); return pick != null && !!s && pick[0] === s[0] && pick[1] === s[1]; };
+const ptsCls = (pick, pts, k, m) => exactHit(pick, k, m) ? 'exact' : pts ? 'hit' : 'miss';
+// Domestic cup tie: chance the home side goes through (a second leg counts the first; none for a first leg)
+function throughOf(k, m) {
+  if (!LEAGUES[k].ko || isPlayed(m) || !m.lh || m.leg === 1) return null;
+  let carry = [0, 0];
+  if (m.leg === 2) {
+    const l1 = matchesOf(k).find(x => x.leg === 1 && x.h === m.a && x.a === m.h && isPlayed(x)); if (!l1) return null;
+    carry = [l1.as, l1.hs];
+  }
+  if (m.st === 'live') carry = [carry[0] + m.hs, carry[1] + m.as];
+  return advance(gridFor(D[k], m), m.lh, m.la, { et: etOf(k, m), carry });
+}
 
 // ------------------------------------------------------------------ Clubs
 function viewClubs() {
@@ -777,14 +822,17 @@ function matchSheet(k, id) {
     html += `<div class="block"><h4>${played ? 'Before kickoff' : live ? 'From here' : 'Chances'}</h4>
       <div class="tri"><i class="h" style="width:${p.H * 100}%"></i><i class="d" style="width:${p.D * 100}%"></i><i class="a" style="width:${p.A * 100}%"></i></div>
       <div class="tri-labels"><span><b>${pctTxt(p.H)}</b> ${esc(H.a)}</span><span><b>${pctTxt(p.D)}</b> Draw</span><span><b>${pctTxt(p.A)}</b> ${esc(A.a)}</span></div>`;
+    const thr = throughOf(k, m);
+    const thrRow = thr == null ? '' : `<div>To go through</div><div><b>${pctTxt(thr)}</b></div><div></div><div><b>${pctTxt(1 - thr)}</b></div>`;
+    const thrNote = thr == null ? '' : `<p class="note" style="margin:6px 18px 0">To go through: ${etOf(k, m) ? 'level after 90 minutes goes to extra time, then penalties' : 'level after 90 minutes goes straight to penalties'}${m.leg === 2 ? ', on aggregate' : ''}.</p>`;
     if (!played && !live && m.lh) {
       const model = outcomes(dcGrid(m.lh, m.la, L.P.rho, L.P.drawK)), mk = m.o ? marketProbs(m.o) : null;
       html += `<div class="kv" style="margin-top:12px"><div class="hd">&nbsp;</div><div class="hd">${esc(H.a)}</div><div class="hd">Draw</div><div class="hd">${esc(A.a)}</div>
         <div>Our model</div><div>${pctTxt(model.H)}</div><div>${pctTxt(model.D)}</div><div>${pctTxt(model.A)}</div>
         ${mk ? `<div>${esc(m.o.p || 'Market')}</div><div>${pctTxt(mk.H)}</div><div>${pctTxt(mk.D)}</div><div>${pctTxt(mk.A)}</div>` : ''}
         <div>Expected goals</div><div>${m.lh.toFixed(2)}</div><div></div><div>${m.la.toFixed(2)}</div>
-        <div>Elo</div><div>${H.elo}</div><div></div><div>${A.elo}</div></div>`;
-    }
+        <div>Elo</div><div>${H.elo}</div><div></div><div>${A.elo}</div>${thrRow}</div>${thrNote}`;
+    } else if (thrRow) html += `<div class="kv" style="margin-top:12px"><div class="hd">&nbsp;</div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div>${thrRow}</div>${thrNote}`;
     html += '</div>';
   }
   // what's at stake
@@ -801,9 +849,9 @@ function matchSheet(k, id) {
     html += `<div class="block"><h4>Best pick</h4><div class="kv"><div>FotMob</div>${opts(b)}<div>House rules</div>${opts(hb)}</div>
       <p class="note" style="margin:8px 18px">Expected points. FotMob: 2 × chance of the result + 1 × chance of the exact score. House rules: ${S.H} × chance of a home win, ${S.D} × a draw, ${S.A} × an away win, + ${S.exact} × chance of the exact score.</p></div>`;
   } else if (played && m.pk) {
-    const pts = pickPoints(m.pk.pick, m.hs, m.as), hp = housePick(L, m), hq = pickPoints(hp, m.hs, m.as, houseRules(m));
-    html += `<div class="block"><h4>Pick${m.pk.wf ? ' (worked out after)' : ''}</h4><div class="kv"><div>FotMob</div><div style="font-weight:700">${m.pk.pick[0]}–${m.pk.pick[1]}</div><div></div><div class="${ptsCls(m.pk.pick, pts, m)}">${pts} pts</div>
-      ${hp ? `<div>House rules</div><div style="font-weight:700">${hp[0]}–${hp[1]}</div><div></div><div class="${ptsCls(hp, hq, m)}">${hq} pts</div>` : ''}</div></div>`;
+    const pts = ptsFor(m.pk.pick, k, m), hp = housePick(L, m), hq = ptsFor(hp, k, m, houseRules(m));
+    html += `<div class="block"><h4>Pick${m.pk.wf ? ' (worked out after)' : ''}</h4><div class="kv"><div>FotMob</div><div style="font-weight:700">${m.pk.pick[0]}–${m.pk.pick[1]}</div><div></div><div class="${ptsCls(m.pk.pick, pts, k, m)}">${pts} pts</div>
+      ${hp ? `<div>House rules</div><div style="font-weight:700">${hp[0]}–${hp[1]}</div><div></div><div class="${ptsCls(hp, hq, k, m)}">${hq} pts</div>` : ''}</div></div>`;
   }
   if (m.sh) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div><div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div></div></div>`;
   // your entry
@@ -880,7 +928,26 @@ function playerQuizSheet() {
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
+// a club's ties in the domestic cups: the next one and the last result in each
+function cupRows(id) {
+  const out = [];
+  for (const c of CUPS) {
+    const L = D[c]; if (!L) continue;
+    const j = L.teams.findIndex(t => t.id === id); if (j < 0) continue;
+    const ms = matchesOf(c).filter(m => m.h === j || m.a === j);
+    const next = ms.find(m => !isPlayed(m) && m.st !== 'canc'), last = ms.filter(isPlayed).at(-1);
+    for (const m of [next, last]) if (m) out.push(matchRow(c, m, { showLeague: true, withDay: true }));
+  }
+  return out;
+}
 function clubSheet(k, i, keep = false) {
+  // a club tapped in a cup tie opens under its league; a club from below the leagues shown gets its cup ties only
+  if (LEAGUES[k].ko) {
+    const t = D[k].teams[i], h = clubTeam(t.id); if (h) return clubSheet(h[0], h[1], keep);
+    sheetCtx = { type: 'club', k, i };
+    return openSheet(`<div class="vs" style="grid-template-columns:auto 1fr;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">Elo ${t.elo} · from a league not shown here</div></div></div>
+      <div class="block"><h4>Cups</h4><div class="row-gap">${cupRows(t.id).join('')}</div></div>`, { keep });
+  }
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
   sheetCtx = { type: 'club', k, i };
   const b = L.base, avg = (b[0] + b[1]) / 2;
@@ -910,6 +977,8 @@ function clubSheet(k, i, keep = false) {
   const mine = ms.filter(m => m.h === i || m.a === i);
   const next = mine.filter(m => !isPlayed(m) && m.st !== 'canc').slice(0, 4), last = mine.filter(isPlayed).slice(-4).reverse();
   if (next.length) html += `<div class="block"><h4>Next</h4><div class="row-gap">${next.map(m => matchRow(k, m)).join('')}</div></div>`;
+  const cups = cupRows(t.id);
+  if (cups.length) html += `<div class="block"><h4>Cups</h4><div class="row-gap">${cups.join('')}</div></div>`;
   if (last.length) html += `<div class="block"><h4>Recent</h4><div class="row-gap">${last.map(m => matchRow(k, m)).join('')}</div></div>`;
   openSheet(html, { keep });
 }
@@ -959,19 +1028,21 @@ function settingsSheet(keep = false) {
 function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'picks', 'clubs'].includes(p[0]) ? p[0] : 'today';
-  if (tab === 'league') { if (LEAGUES[p[1]]) route.lg = p[1]; if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') route.lg = p[1]; if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
   const titles = { today: 'Today', picks: 'Picks', clubs: 'Clubs' };
-  $('#title').textContent = route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
-  document.documentElement.style.setProperty('--accent', route.tab === 'league' ? LEAGUES[route.lg].color : 'var(--fg)');
+  const cupsPage = route.tab === 'league' && route.lg === 'cups';
+  $('#title').textContent = cupsPage ? 'Cups' : route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
+  document.documentElement.style.setProperty('--accent', route.tab === 'league' && !cupsPage ? LEAGUES[route.lg].color : 'var(--fg)');
   document.querySelectorAll('#tabbar a').forEach(a => a.classList.toggle('on', a.dataset.tab === route.tab));
   $('#tabbar a[data-tab=league]').href = `#/league/${route.lg}/${route.sub}`;
   const chips = $('#chips'), seg = $('#seg');
-  chips.hidden = seg.hidden = route.tab !== 'league';
+  chips.hidden = route.tab !== 'league'; seg.hidden = route.tab !== 'league' || cupsPage;
   if (route.tab === 'league') {
-    morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join(''));
+    morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join('')
+      + `<a class="chip ${cupsPage ? 'on' : ''}" href="#/league/cups">Cups</a>`);
     // keep the selected league's chip in view (the row scrolls sideways on a phone)
     const on = chips.querySelector('.chip.on');
     if (on && chips.dataset.lg !== route.lg) {
