@@ -12,7 +12,7 @@ const $ = s => document.querySelector(s);
 const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
-let route = { tab: 'today', lg: localGet('lg') || 'mls', sub: localGet('sub') || 'table' };
+let route = { tab: 'today', lg: localGet('lg'), sub: localGet('sub') || 'table', club: null };
 const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
@@ -323,16 +323,10 @@ function viewToday() {
   const live = [];
   for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) if (m.st === 'live' && (LEAGUES[k].ko ? cupShown(k, m) : !quiet(k))) live.push([k, m]);
   if (live.length) out.push(`<div class="section"><h2><span class="live-dot"></span>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
+  // your clubs, soonest next match first (live counts as now); each card opens the club page
+  const mine = myClubs();
+  if (mine.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${mine.map(c => clubCard(c.k, c.i)).join('')}</div>`);
   out.push(watchGuide());
-  const cards = [], seen = new Set();
-  for (const k of HOME_ORDER) {
-    const L = D[k]; if (!L) continue;
-    L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push([nextMatch(t.id), clubCard(k, i)]); } });
-  }
-  // soonest next match first (live counts as now); clubs with none left go last
-  const at = n => n ? kickAt(n.m) : Infinity;
-  cards.sort((x, y) => at(x[0]) - at(y[0]));
-  if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.map(c => c[1]).join('')}</div>`);
   // matches: today and the next two match days, one at a time
   const byDay = new Map();
   for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) {
@@ -342,7 +336,9 @@ function viewToday() {
   const days = [...byDay.keys()].sort().slice(0, 3);
   if (!days.length) { out.push('<div class="empty">No matches in the next few days.</div>'); return out.join(''); }
   const dk = days.includes(ui.tday) ? ui.tday : days[0], list = byDay.get(dk);
-  const of = k => list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t));
+  const isMine = ([k, m]) => fav.has(D[k].teams[m.h].id) || fav.has(D[k].teams[m.a].id);
+  const pinned = list.filter(isMine).sort((a, b) => a[1].t.localeCompare(b[1].t));
+  const of = k => list.filter(x => x[0] === k && !isMine(x)).sort((a, b) => a[1].t.localeCompare(b[1].t));
   // shown in full: Kevin's leagues and leagues with a club of his; from a cup only his clubs' ties and the last rounds
   const mainOf = k => LEAGUES[k].ko ? of(k).filter(x => cupShown(k, x[1])) : quiet(k) ? [] : of(k);
   const restOf = k => LEAGUES[k].ko ? of(k).filter(x => !cupShown(k, x[1])) : quiet(k) ? of(k) : [];
@@ -351,7 +347,7 @@ function viewToday() {
   const more = extra.length ? (open ? extra.map(k => block(k, restOf(k))).join('') : '')
     + `<button class="more-row" data-more="${dk}"><span>${open ? 'Fewer' : `${extra.reduce((n, k) => n + restOf(k).length, 0)} more: ${extra.map(k => LEAGUES[k].tag).join(', ')}`}</span><span class="faint">${open ? '▴' : '▾'}</span></button>` : '';
   const tabs = days.map(d => `<button class="${d === dk ? 'on' : ''}" data-tday="${d}">${esc(dayLabel(d))}</button>`).join('');
-  const main = ALL.map(k => block(k, mainOf(k))).join('');
+  const main = (pinned.length ? `<div class="lg-label"><span class="fav">★</span>Your clubs</div>${pinned.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}` : '') + ALL.map(k => block(k, mainOf(k))).join('');
   out.push(`<div class="section"><h2>Matches</h2><span class="toggle">${tabs}</span></div><div class="card">${main || (extra.length ? '' : '<div class="empty small">None</div>')}${more}</div>`);
   return out.join('');
 }
@@ -401,10 +397,19 @@ function clubCard(k, i) {
   const nm = nextMatch(t.id);
   const hl = headline(k, i);
   const where = `${ord(st.pos)}${rules.groups ? ' in the ' + st.group.replace(/ern$/, '') : ''} · ${st.pts} pts`;
+  const tagOf = x => (x.k !== k ? ` <span class="faint">${LEAGUES[x.k].tag}</span>` : '');
+  const side = x => { const { m, i: j } = x, home = m.h === j; return { home, opp: D[x.k].teams[home ? m.a : m.h], gf: home ? m.hs : m.as, ga: home ? m.as : m.hs }; };
   let nx = '';
-  if (nm) { const { m: next, i: j } = nm, opp = D[nm.k].teams[next.h === j ? next.a : next.h]; nx = `${next.st === 'live' ? 'Live' : dayLabel(dayKey(next.t)) + ' ' + fmtTime(next.t)} · ${next.h === j ? 'vs' : 'at'} ${esc(opp.s)}${nm.k !== k ? ` <span class="faint">${LEAGUES[nm.k].tag}</span>` : ''}`; }
-  return `<button class="club-card" data-club="${k}:${i}">${crest(t, 'lg')}<div><div><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div></div>
-    ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</button>`;
+  if (nm) {
+    const { home, opp, gf, ga } = side(nm), m = nm.m;
+    nx = m.st === 'live' ? `<span class="live">${esc(m.clock || (m.min ? m.min + "'" : 'Live'))}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(nm)}`
+      : `${dayLabel(dayKey(m.t))} ${fmtTime(m.t)} · ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(nm)}`;
+  }
+  const lm = lastMatch(t.id);
+  let lx = '';
+  if (lm) { const { home, opp, gf, ga } = side(lm), r = gf > ga ? 'W' : gf < ga ? 'L' : 'D'; lx = `<span class="res ${r}">${r}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(lm)}`; }
+  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
+    ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
 }
 
 // ------------------------------------------------------------------ League views
@@ -489,6 +494,8 @@ function viewTable(k) {
   const scope = rules.groups ? 'group' : 'all', proj = mode === 'proj' && S;
   const tbtn = (m, label) => `<button data-tmode="${m}" class="${(m === 'proj' ? proj : m === mode && !proj) ? 'on' : ''}">${label}</button>`;
   let html = `<div class="section"><h2>${proj ? 'Projected finish' : live ? 'As it stands' : 'Standings'}</h2><span class="toggle">${tbtn('now', 'Now')}${liveNow.length ? tbtn('live', '<span class="live-dot"></span>Live') : ''}${tbtn('proj', 'Projected')}</span></div>`;
+  const favRows = L.teams.filter(t => fav.has(t.id));
+  if (favRows.length && L.teams.length > 12) html += `<div class="jump">${favRows.map(t => `<button data-jump="row-${k}-${t.id}">${crest(t)}${esc(t.s)} ↓</button>`).join('')}</div>`;
   for (const g of st.groups) {
     let rows = g.idx.map(i => st.rows[i]);
     if (proj) rows = rows.slice().sort((a, b) => S.teams[a.i].avgPos - S.teams[b.i].avgPos);
@@ -508,8 +515,9 @@ function viewTable(k) {
       }
       const name = `<td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${fav.has(t.id) ? '<span class="faint">★</span>' : ''}${live ? '' : tagHtml(clinchTag(rules, R, r.i))}${extra}</div></td>`;
       const z = `style="--z:${zoneColor(rules, pos, scope)}"`;
-      if (proj) return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td class="pts">${Math.round(T.pts)}</td><td class="wide muted">${T.ptsRange[0]}–${T.ptsRange[1]}</td><td class="muted">${T.avgPos.toFixed(1)}</td></tr>`;
-      return `<tr class="${cls}" data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td>${r.p}</td><td class="wide">${r.w}</td><td class="wide">${r.d}</td><td class="wide">${r.l}</td><td class="wide">${r.gf}</td><td class="wide">${r.ga}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
+      const rid = fav.has(t.id) ? ` id="row-${k}-${t.id}"` : '';
+      if (proj) return `<tr class="${cls}"${rid} data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td class="pts">${Math.round(T.pts)}</td><td class="wide muted">${T.ptsRange[0]}–${T.ptsRange[1]}</td><td class="muted">${T.avgPos.toFixed(1)}</td></tr>`;
+      return `<tr class="${cls}"${rid} data-club="${k}:${r.i}"><td class="pos" ${z}>${pos}</td>${name}<td>${r.p}</td><td class="wide">${r.w}</td><td class="wide">${r.d}</td><td class="wide">${r.l}</td><td class="wide">${r.gf}</td><td class="wide">${r.ga}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
     }).join('');
     html += `<div class="card" style="margin-bottom:10px"><table>${head}${body}</table></div>`;
   }
@@ -701,8 +709,11 @@ function viewPicks() {
   const byDay = new Map(); for (const x of up) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
   for (const [d, list] of [...byDay].sort()) {
     html += `<div class="section"><h2>${dayLabel(d)}</h2></div><div class="card">`;
+    const fav = favIds(), isMine = ([k, m]) => fav.has(D[k].teams[m.h].id) || fav.has(D[k].teams[m.a].id);
+    const pinned = list.filter(isMine).sort((a, b) => a[1].t.localeCompare(b[1].t));
+    if (pinned.length) html += `<div class="lg-label"><span class="fav">★</span>Your clubs</div>` + pinned.map(([k, m]) => pickRow(k, m)).join('');
     for (const k of ALL) {
-      const ms = list.filter(x => x[0] === k).sort((a, b) => a[1].t.localeCompare(b[1].t)); if (!ms.length) continue;
+      const ms = list.filter(x => x[0] === k && !isMine(x)).sort((a, b) => a[1].t.localeCompare(b[1].t)); if (!ms.length) continue;
       html += lgLabel(k) + ms.map(([, m]) => pickRow(k, m)).join('');
     }
     html += '</div>';
@@ -749,13 +760,18 @@ function throughOf(k, m) {
 }
 
 // ------------------------------------------------------------------ Clubs
+// Clubs tab: a page for one of your clubs (crest chips switch between them; #/clubs opens the one that plays next),
+// then Explore: power ratings and Affinity, or Players
 function viewClubs() {
-  const fav = favIds();
-  let html = `<div class="section" style="margin-top:6px"><span class="toggle"><button data-ctab="clubs" class="${ui.ctab !== 'players' ? 'on' : ''}">Clubs</button><button data-ctab="players" class="${ui.ctab === 'players' ? 'on' : ''}">Players</button></span></div>`;
+  const fav = favIds(), my = myClubs();
+  let html = '';
+  if (my.length) {
+    const sel = my.find(c => slugOf(c.t) === route.club) || my[0];
+    html += `<nav class="club-chips">${my.map(c => `<a class="cchip ${c === sel ? 'on' : ''}" href="#/clubs/${slugOf(c.t)}">${crest(c.t)}<span>${esc(clubLabel(c.t, my))}</span></a>`).join('')}</nav>
+      <div class="card club-page">${clubBody(sel.k, sel.i, true)}</div>`;
+  } else html += `<div class="card"><div class="empty">No clubs followed yet: tap ☆ on any club.</div></div>`;
+  html += `<div class="section"><h2>Explore</h2><span class="toggle"><button data-ctab="clubs" class="${ui.ctab !== 'players' ? 'on' : ''}">Clubs</button><button data-ctab="players" class="${ui.ctab === 'players' ? 'on' : ''}">Players</button></span></div>`;
   if (ui.ctab === 'players') return html + viewPlayers();
-  const cards = [], seen = new Set();
-  for (const k of HOME_ORDER) if (D[k]) D[k].teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
-  html += `<div class="section"><h2>Your clubs</h2><span class="aside">tap ☆ on any club to follow</span></div><div class="card row-gap">${cards.join('') || '<div class="empty">None yet.</div>'}</div>`;
   // ratings: Europe is one Elo scale (linked through UEFA matches), MLS and Liga MX another (Leagues Cup, Concacaf
   // Champions Cup); NWSL and USL each their own
   const POOLS = { eur: HOME_ORDER.filter(k => LEAGUES[k].region === 'Europe') }, PN = { eur: 'Europe' };
@@ -928,6 +944,56 @@ function playerQuizSheet() {
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
+// The competitions with a table a club is in, its league first: [[k, index], ...]
+function compsOf(id, home) {
+  const out = [];
+  for (const k of [home, ...ORDER.filter(x => x !== home)]) { const j = D[k]?.teams.findIndex(t => t.id === id); if (j != null && j >= 0) out.push([k, j]); }
+  return out;
+}
+// The club's rows of a table: three places either side (in its conference where there are conferences)
+function miniTable(k, i) {
+  const L = D[k], rules = LEAGUES[k], st = standings(L, matchesOf(k), rules), R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
+  const g = st.groups.find(g => g.idx.includes(i)), rows = g.idx.map(j => st.rows[j]).sort((a, b) => a.pos - b.pos);
+  const at = rows.findIndex(r => r.i === i), from = Math.max(0, Math.min(at - 3, rows.length - 7)), scope = rules.groups ? 'group' : 'all';
+  const body = rows.slice(from, from + 7).map(r => {
+    const t = L.teams[r.i], n = rows.indexOf(r) + 1;
+    return `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${r.i}"><td class="pos" style="--z:${zoneColor(rules, n, scope)}">${n}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span>${tagHtml(clinchTag(rules, R, r.i))}</div></td><td>${r.p}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
+  }).join('');
+  return `<div class="block"><h4>${esc(rules.name)}${g.name ? ' · ' + esc(g.name) : ''} <a class="faint small" style="float:right;text-transform:none;letter-spacing:0" href="#/league/${k}/table">Full table ›</a></h4><table><tr><th>#</th><th class="club">Club</th><th>P</th><th>GD</th><th>Pts</th></tr>${body}</table></div>`;
+}
+// What's at stake in the club's next match (league or UEFA cup, from the simulation)
+function stakesBlock(id) {
+  const nm = nextMatch(id); if (!nm) return '';
+  const fi = fixInfo(nm.k, nm.m.id), sw = fi?.swings?.filter(s => (nm.m.h === nm.i) === !s.side) || [];
+  if (!sw.length) return ''; // the match itself is first in the schedule below
+  const opp = D[nm.k].teams[nm.m.h === nm.i ? nm.m.a : nm.m.h];
+  return `<div class="block"><h4>At stake ${nm.m.h === nm.i ? 'vs' : 'at'} ${esc(opp.s)} · ${esc(dayLabel(dayKey(nm.m.t)))}</h4><div class="kv"><div class="hd"></div><div class="hd">Win</div><div class="hd">Draw</div><div class="hd">Loss</div>
+    ${sw.map(s => { const x = stakeLine(nm.k, nm.m, s); return `<div>${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
+}
+// Your clubs, soonest next match first (live counts as now): [{id, k, i, t, nm}]
+function myClubs() {
+  const out = [];
+  for (const id of favIds()) { const h = clubTeam(id); if (h) out.push({ id, k: h[0], i: h[1], t: h[2], nm: nextMatch(id) }); }
+  const at = c => (c.nm ? kickAt(c.nm.m) : Infinity);
+  return out.sort((a, b) => at(a) - at(b) || a.t.n.localeCompare(b.t.n));
+}
+const slugOf = t => t.n.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+// short name, made unique among your clubs (two Portlands: Timbers, Thorns)
+function clubLabel(t, mine) {
+  if (mine.filter(c => c.t.s === t.s).length < 2) return t.s;
+  return t.n.replace(/\s+FC$/, '').split(' ').slice(1).join(' ') || t.s;
+}
+// A club's last result in any competition: [k, m, index]
+function lastMatch(id) {
+  let best = null;
+  for (const k of ALL) {
+    const i = D[k]?.teams.findIndex(t => t.id === id); if (i == null || i < 0) continue;
+    const m = matchesOf(k).filter(m => (m.h === i || m.a === i) && isPlayed(m)).at(-1);
+    if (m && (!best || m.t > best.m.t)) best = { k, i, m };
+  }
+  return best;
+}
+
 // A club's schedule across every competition (league, UEFA cup, domestic cups): the next five and the last five,
 // tagged with the competition when it isn't the club's league (home).
 function scheduleOf(id, home) {
@@ -943,29 +1009,44 @@ function scheduleOf(id, home) {
     + (last.length ? `<div class="block"><h4>Recent</h4><div class="row-gap">${last.map(row).join('')}</div></div>` : '');
 }
 function clubSheet(k, i, keep = false) {
-  // a club tapped in a cup tie opens under its league; a club from below the leagues shown gets its cup ties only
-  if (LEAGUES[k].ko) {
-    const t = D[k].teams[i], h = clubTeam(t.id); if (h) return clubSheet(h[0], h[1], keep);
-    sheetCtx = { type: 'club', k, i };
-    return openSheet(`<div class="vs" style="grid-template-columns:auto 1fr;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">Elo ${t.elo} · from a league not shown here</div></div></div>
-      ${scheduleOf(t.id, null)}`, { keep });
+  // a club tapped in a cup tie opens under its league
+  if (LEAGUES[k].ko) { const h = clubTeam(D[k].teams[i].id); if (h) [k, i] = h; }
+  sheetCtx = { type: 'club', k, i };
+  openSheet(clubBody(k, i), { keep });
+}
+// Everything about a club: the sheet and the club page (Clubs tab) share it. k = its league (home).
+function clubBody(k, i, page = false) {
+  if (LEAGUES[k].ko) { // a club from below the leagues shown: its cup ties only
+    const t = D[k].teams[i];
+    return `<div class="vs" style="grid-template-columns:auto 1fr;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">Elo ${t.elo} · from a league not shown here</div></div></div>
+      ${scheduleOf(t.id, null)}`;
   }
   const L = D[k], t = L.teams[i], rules = LEAGUES[k], ms = matchesOf(k), st = standings(L, ms, rules).rows[i], R = SIM[k]?.sim ? SIM[k] : null, fav = favIds();
-  sheetCtx = { type: 'club', k, i };
   const b = L.base, avg = (b[0] + b[1]) / 2;
   let html = `<div class="vs" style="grid-template-columns:auto 1fr auto;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">${LEAGUES[k].name} · ${ord(st.pos)}${rules.groups ? ' in the ' + esc(st.group.replace(/ern$/, '')) : ''} · ${st.pts} pts ${tagHtml(clinchTag(rules, R, i))}</div></div><button class="star ${fav.has(t.id) ? 'on' : ''}" data-star="${t.id}" aria-label="Follow">${fav.has(t.id) ? '★' : '☆'}</button></div>`;
-  html += `<div class="kv"><div>Elo</div><div>${t.elo}</div><div></div><div></div>
+  const stats = `<div class="block"><h4>Strength</h4><div class="kv"><div>Elo</div><div>${t.elo}</div><div></div><div></div>
     <div>Attack</div><div>${(avg * t.A).toFixed(2)}</div><div></div><div class="muted small">goals / match</div>
     <div>Defence</div><div>${(avg * t.D).toFixed(2)}</div><div></div><div class="muted small">conceded</div>
     ${TRAITS[t.id] ? `<div>Affinity</div><div>${affOf(t.id) == null ? '★' : Math.round(affOf(t.id))}</div><div></div><div class="muted small">${affOf(t.id) == null ? 'your club' : 'of 100'}</div>` : ''}
-    <div>Form</div><div style="grid-column:span 3;text-align:right;padding-right:18px">${(st.form || []).slice(-5).join(' ') || '–'}</div></div>`;
+    <div>Form</div><div style="grid-column:span 3;text-align:right;padding-right:18px">${(st.form || []).slice(-5).join(' ') || '–'}</div></div></div>`;
+  html += stakesBlock(t.id);
+  const comps = compsOf(t.id, k);
+  // one line per competition: each zone's chance (short label), the post-season rounds, projected points
+  const chances = comps.map(([k2, j]) => {
+    const R2 = SIM[k2]?.sim ? SIM[k2] : null; if (!R2) return '';
+    const r2 = LEAGUES[k2], T = R2.sim.teams[j], out = postOut(r2, R2, j);
+    const chip = (label, v) => `<span class="zc"><b>${v}</b> ${esc(label)}</span>`;
+    const zs = r2.zones.map(z => chip(z.tone === 'bad' ? 'Down' : z.short, pct(T.zone[z.key], R2.status[z.key]?.[j]) + (R2.status[z.key]?.[j] ? '' : '%')));
+    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => chip(roundName(r2, r), out ? pct(p, 'out') : pct(p) + '%'));
+    const pp = k2 === k ? [chip(`pts (${T.ptsRange[0]}–${T.ptsRange[1]})`, Math.round(T.pts))] : [];
+    return `<div class="comp-ch"><div class="small muted">${esc(r2.name)}</div><div class="zcs">${[...zs, ...rs, ...pp].join('')}</div></div>`;
+  }).join('');
+  if (chances) html += `<div class="block"><h4>Chances</h4>${chances}</div>`;
+  html += comps.map(([k2, j]) => miniTable(k2, j)).join('');
+  html += scheduleOf(t.id, k) + stats;
   if (R) {
-    const T = R.sim.teams[i];
-    const zs = rules.zones.map(z => `<div>${esc(z.label)}</div><div>${pct(T.zone[z.key], R.status[z.key]?.[i])}${R.status[z.key]?.[i] ? '' : '%'}</div><div></div><div></div>`).join('');
-    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => `<div>${roundName(rules, r)}</div><div>${postOut(rules, R, i) ? pct(p, 'out') : pct(p) + '%'}</div><div></div><div></div>`).join('');
-    const dist = T.pos.slice(1), mx = Math.max(...dist);
-    html += `<div class="block"><h4>Chances</h4><div class="kv">${zs}${rs}<div>Projected points</div><div>${Math.round(T.pts)}</div><div></div><div class="muted small">${T.ptsRange[0]}–${T.ptsRange[1]}</div></div></div>
-      <div class="block"><h4>Finishing position</h4><div class="dist">${dist.map(p => `<i style="height:${mx ? p / mx * 100 : 0}%"></i>`).join('')}</div><div class="dist-axis">${dist.map((_, n) => `<span>${(n + 1) % (dist.length > 20 ? 5 : 1) === 0 || n === 0 ? n + 1 : ''}</span>`).join('')}</div></div>`;
+    const T = R.sim.teams[i], dist = T.pos.slice(1), mx = Math.max(...dist);
+    html += `<div class="block"><h4>Finishing position${comps.length > 1 ? ` · ${rules.tag}` : ''}</h4><div class="dist">${dist.map(p => `<i style="height:${mx ? p / mx * 100 : 0}%"></i>`).join('')}</div><div class="dist-axis">${dist.map((_, n) => `<span>${(n + 1) % (dist.length > 20 ? 5 : 1) === 0 || n === 0 ? n + 1 : ''}</span>`).join('')}</div></div>`;
   }
   if (TRAITS[t.id]) {
     const tr = AF.withGeo(TRAITS[t.id]), r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
@@ -976,8 +1057,7 @@ function clubSheet(k, i, keep = false) {
     const P = playerAffinity(), ps = Object.entries(PLAYERS).filter(([, p]) => p.clubs.some(c => c[1] === t.id)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]);
     if (ps.length) html += `<div class="block"><h4>Players who played here</h4><div class="kv3">${ps.slice(0, 8).map(([id, p, v]) => `<div data-player="${id}" class="click" style="color:var(--fg)">${esc(p.n)}<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(pWhyLine(id))}</div></div><div>${Math.round(v)}</div><div class="muted small">${p.act ? (p.cur === undefined ? '' : esc(p.cur || '')) : 'retired'}</div>`).join('')}</div></div>`;
   }
-  html += scheduleOf(t.id, k);
-  openSheet(html, { keep });
+  return html;
 }
 
 function quizSheet() {
@@ -1025,10 +1105,16 @@ function settingsSheet(keep = false) {
 function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'picks', 'clubs'].includes(p[0]) ? p[0] : 'today';
-  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') route.lg = p[1]; if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'clubs') route.club = p[1] || null;
+  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
+  // the Leagues tab opens where you left it; the first time, on the first competition with a club of yours
+  if ((!LEAGUES[route.lg] && route.lg !== 'cups') || route.lgAuto) {
+    const fav = favIds(); route.lg = ORDER.find(k => (D[k]?.teams || []).some(t => fav.has(t.id))) || 'epl';
+    route.lgAuto = !Object.keys(D).length; // decided again once the data is in
+  }
   const titles = { today: 'Today', picks: 'Picks', clubs: 'Clubs' };
   const cupsPage = route.tab === 'league' && route.lg === 'cups';
   $('#title').textContent = cupsPage ? 'Cups' : route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
@@ -1038,8 +1124,12 @@ function chrome() {
   const chips = $('#chips'), seg = $('#seg');
   chips.hidden = route.tab !== 'league'; seg.hidden = route.tab !== 'league' || cupsPage;
   if (route.tab === 'league') {
-    morph(chips, ORDER.map(k => `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`).join('')
-      + `<a class="chip ${cupsPage ? 'on' : ''}" href="#/league/cups">Cups</a>`);
+    // your clubs' competitions first (cups too, when one of them is in one), then the rest
+    const fav = favIds(), has = k => (D[k]?.teams || []).some(t => fav.has(t.id));
+    const chip = k => k === 'cups' ? `<a class="chip ${cupsPage ? 'on' : ''}" href="#/league/cups">Cups</a>`
+      : `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`;
+    const all = [...ORDER, 'cups'], mineC = all.filter(k => (k === 'cups' ? CUPS.some(has) : has(k))), rest = all.filter(k => !mineC.includes(k));
+    morph(chips, mineC.map(chip).join('') + (mineC.length && rest.length ? '<span class="chip-sep"></span>' : '') + rest.map(chip).join(''));
     // keep the selected league's chip in view (the row scrolls sideways on a phone)
     const on = chips.querySelector('.chip.on');
     if (on && chips.dataset.lg !== route.lg) {
@@ -1069,7 +1159,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -1087,6 +1177,7 @@ document.addEventListener('click', e => {
   }
   if (t.dataset.more) { ui.more[t.dataset.more] = !ui.more[t.dataset.more]; render(); return; }
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
+  if (t.dataset.jump) { document.getElementById(t.dataset.jump)?.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }
   if (t.dataset.tday) { ui.tday = t.dataset.tday; render(); return; }

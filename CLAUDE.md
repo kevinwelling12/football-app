@@ -16,7 +16,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
-      app.js             shell, routing (#/today, #/league/<k>/<matches|table|odds|scenarios|affinity>, #/picks, #/clubs), views, sheets
+      app.js             shell, routing (#/today, #/league/<k>/<matches|table|odds|scenarios|affinity>, #/picks, #/clubs/<club-slug>), views, sheets
       engine.js          scoreline grids (Dixon-Coles), market blend, FotMob pick, live grids, RNG; shared with Node
       sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups, mls, nwsl, usl, efl = Championship promotion, mex)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios
@@ -65,9 +65,15 @@ With Kevin's clubs in the competition (Today: any of the day's leagues) importan
 his clubs' chances (sim `focus`, fixtures[].fav; moves under 3 points are noise and don't count), whether or not they
 play; 0.85 × that + 0.15 × closeness. No club of his, or nothing on the day moves them: the usual pick. The card shows
 stakes 0–10 (against the biggest remaining match in that competition, same measure).
-Today (redesigned 2026-10-18): Live (only while on) · Watch (the day's best: top pick first, up to four
-more that have a reason) · Your clubs (compact) · Matches (one day at a time, Today/Tomorrow/next chips; quiet
-leagues folded). Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
+Today (redesigned 2026-10-18, club-first 2026-10-19): Live (only while on) · Your clubs (cards: next match or live
+score, last result, the chance in doubt; each opens the club page) · Watch (the day's best: top pick first, up to four
+more that have a reason) · Matches (one day at a time, Today/Tomorrow/next chips; your clubs' matches pinned first;
+quiet leagues folded).
+Navigation is built around his clubs, treated equally (always ordered by next kickoff, app.js myClubs): the Clubs tab
+is a club page (crest chips switch clubs; at stake next match, chances per competition, mini tables, one schedule
+across competitions, strength, Affinity, players; the same body as the club sheet, clubBody) with Explore (ratings,
+Affinity, Players) below; Leagues chips list his clubs' competitions first, then a divider, and open on the first of
+them until he picks one; long tables offer jump links to his clubs; Picks pins his clubs' matches first each day. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
 Watch list (app.js watchList): the next days with matches in UCL, EPL, BL, LL, MLS, NWSL, USL,
 ranked by a watch score of 100: your club playing 40, how far the result moves your clubs' chances 20 (absolute,
 full marks at ~25 pts in a play-off race), Affinity of the two clubs 15, stakes 15, quality 10 (Elo rank within the
