@@ -325,9 +325,12 @@ function viewToday() {
   const cards = [], seen = new Set();
   for (const k of HOME_ORDER) {
     const L = D[k]; if (!L) continue;
-    L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push(clubCard(k, i)); } });
+    L.teams.forEach((t, i) => { if (fav.has(t.id) && !seen.has(t.id)) { seen.add(t.id); cards.push([nextMatch(k, i), clubCard(k, i)]); } });
   }
-  if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.join('')}</div>`);
+  // soonest next match first (live counts as now); clubs with none left go last
+  const when = m => !m ? Infinity : m.st === 'live' ? 0 : Date.parse(m.t);
+  cards.sort((x, y) => when(x[0]) - when(y[0]));
+  if (cards.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${cards.map(c => c[1]).join('')}</div>`);
   // matches: today and the next two match days, one at a time
   const byDay = new Map();
   for (const k of ORDER) if (D[k]) for (const m of matchesOf(k)) {
@@ -374,10 +377,11 @@ function headline(k, i) {
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
 }
 
+const nextMatch = (k, i) => matchesOf(k).find(m => (m.h === i || m.a === i) && !isPlayed(m) && m.st !== 'canc');
 function clubCard(k, i) {
   const L = D[k], t = L.teams[i], ms = matchesOf(k), rules = LEAGUES[k];
   const st = standings(L, ms, rules).rows[i];
-  const next = ms.find(m => (m.h === i || m.a === i) && !isPlayed(m) && m.st !== 'canc');
+  const next = nextMatch(k, i);
   const hl = headline(k, i);
   const where = `${ord(st.pos)}${rules.groups ? ' in the ' + st.group.replace(/ern$/, '') : ''} · ${st.pts} pts`;
   let nx = '';
