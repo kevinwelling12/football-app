@@ -376,7 +376,7 @@ function headline(k, i) {
   if (best) return best;
   if (postOut(rules, SIM[k], i)) return null;
   if (t.rounds.up != null) return { p: t.rounds.up, label: 'Promotion' };
-  const champ = t.rounds.champ; if (champ != null) return { p: champ, label: rules.playoffs?.type === 'ucl' ? 'Win it' : 'Champion' };
+  const champ = t.rounds.champ; if (champ != null) return { p: champ, label: rules.playoffs?.type === 'ucl' ? 'Win it' : 'Title' };
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
 }
 
@@ -396,7 +396,7 @@ function clubCard(k, i) {
   const st = standings(L, ms, rules).rows[i];
   const nm = nextMatch(t.id);
   const hl = headline(k, i);
-  const where = `${ord(st.pos)}${rules.groups ? ' in the ' + st.group.replace(/ern$/, '') : ''} · ${st.pts} pts`;
+  const where = `${ord(st.pos)} · ${st.pts} pts`; // one line on a phone (in a conference: the place in it; the club page names it)
   const tagOf = x => (x.k !== k ? ` <span class="faint">${LEAGUES[x.k].tag}</span>` : '');
   const side = x => { const { m, i: j } = x, home = m.h === j; return { home, opp: D[x.k].teams[home ? m.a : m.h], gf: home ? m.hs : m.as, ga: home ? m.as : m.hs }; };
   let nx = '';
@@ -408,7 +408,7 @@ function clubCard(k, i) {
   const lm = lastMatch(t.id);
   let lx = '';
   if (lm) { const { home, opp, gf, ga } = side(lm), r = gf > ga ? 'W' : gf < ga ? 'L' : 'D'; lx = `<span class="res ${r}">${r}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(lm)}`; }
-  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
+  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
     ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
 }
 

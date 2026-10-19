@@ -227,3 +227,5 @@ a.club-card { color: inherit; text-decoration: none; }
 .zcs { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
 .zc { font-size: 13px; color: var(--muted); background: var(--card2); border-radius: 8px; padding: 4px 8px; }
 .zc b { color: var(--fg); font-weight: 650; }
+.club-card .cc-top { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.club-card > div { min-width: 0; }
