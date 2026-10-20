@@ -312,7 +312,7 @@ function watchGuide() {
   // one day (today, or the next day with matches): the best match first, then up to four more with a reason
   const [top, ...rest] = w.rows;
   const why = x => `<div class="small muted watch-why"><b class="watch-score">${x.score}</b>${esc(x.why.join(' · ') || 'nothing special')}</div>`;
-  return `<div class="section"><h2>Watch ${dayKey(w.dk) === dayKey(Date.now()) ? 'today' : esc(dayLabel(w.dk).toLowerCase())}</h2></div>
+  return `<div class="section"><h2>Watch ${w.dk === dayKey(Date.now()) ? 'today' : esc(dayLabel(w.dk).toLowerCase())}</h2></div>
     <div class="card row-gap"><div class="watch-top">${matchRow(top.k, top.m, { showLeague: true })}${why(top)}</div>${rest.filter(x => x.why.length).slice(0, 4).map(x => `<div>${matchRow(x.k, x.m, { showLeague: true })}${why(x)}</div>`).join('')}</div>`;
 }
 
