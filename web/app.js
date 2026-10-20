@@ -272,8 +272,8 @@ const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:
 
 // ------------------------------------------------------------------ watch guide
 // The next two days' matches in the competitions Kevin watches, ranked by a watch score 0-100:
-// your club playing 40, how far the result moves your clubs' chances 20 (your clubs' own matches too), Affinity of the two clubs 15,
-// stakes for both sides 15, quality 10 (strength within the league x the league's level, and closeness).
+// your club playing 40, stakes for both sides 20, quality 20 (strength within the league x the league's level, and
+// closeness), how far the result moves your clubs' chances 10 (your clubs' own matches too), Affinity of the two clubs 10.
 const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl', 'flc', 'fac', 'dfb', 'usoc'];
 const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
 function watchList() {
@@ -296,7 +296,7 @@ function watchList() {
     const stakes = f ? stakesOf(k, f, false) / 10 : 0;
     const p = f?.p, close = p ? 1 - Math.abs(p[0] - p[2]) : 0.5;
     const quality = LEVEL[k] * (0.7 * (pct[k][m.h] + pct[k][m.a]) / 2 + 0.3 * close);
-    const score = Math.round(40 * mine + 20 * moves + 15 * aff + 15 * stakes + 10 * quality);
+    const score = Math.round(40 * mine + 20 * stakes + 20 * quality + 10 * moves + 10 * aff);
     const why = [];
     if (mine) why.push('your club');
     if (moves && f.fav.best && f.fav.best.sw >= 0.05) { const b = f.fav.best; why.push(`${mine ? 'swings' : 'moves'} ${L.teams[b.t].s}'s ${zoneName(k, b.key).toLowerCase()} odds ${Math.round(b.sw * 100)} pts`); }

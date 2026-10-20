@@ -74,10 +74,10 @@ is a club page (crest chips switch clubs; at stake next match, chances per compe
 across competitions, strength, Affinity, players; the same body as the club sheet, clubBody) with Explore (ratings,
 Affinity, Players) below; Leagues chips list his clubs' competitions first, then a divider, and open on the first of
 them until he picks one; long tables offer jump links to his clubs; Picks pins his clubs' matches first each day. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
-Watch list (app.js watchList): the next days with matches in UCL, EPL, BL, LL, MLS, NWSL, USL,
-ranked by a watch score of 100: your club playing 40, how far the result moves your clubs' chances 20 (absolute,
-full marks at ~25 pts in a play-off race), Affinity of the two clubs 15, stakes 15, quality 10 (Elo rank within the
-league × league level, plus closeness); the reasons are shown under each match.
+Watch list (app.js watchList): the next days with matches in UCL, EPL, BL, LL, MLS, NWSL, USL and the four cups,
+ranked by a watch score of 100 (weights 2026-10-20): your club playing 40, stakes 20, quality 20 (Elo rank within the
+league × league level, plus closeness), how far the result moves your clubs' chances 10 (absolute, full marks at
+~25 pts in a play-off race), Affinity of the two clubs 10; the reasons are shown under each match.
 The match sheet shows the swings as "What's at stake".
 
 ## Working agreements (carried over from the old app)
