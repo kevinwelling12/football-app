@@ -13,7 +13,7 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg'), sub: localGet('sub') || 'table', club: null };
-const ui = { tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
+const ui = { pklg: localGet('pklg') || 'all', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
 const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
@@ -692,10 +692,18 @@ function viewPicks() {
     if (!isPlayed(m) && m.st !== 'canc' && m.st !== 'live' && m.lh && Date.parse(m.t) - now < 8 * 864e5) up.push([k, m]);
     if (isPlayed(m) && m.pk && !m.mine) done.push([k, m]);
   }
-  let html = `<div class="section"><h2>Record</h2><span class="aside">points a match</span></div>`;
+  // league filter (remembered): every competition with picks, yours first, then the rest
+  const fav = favIds(), has = k => D[k].teams.some(t => fav.has(t.id));
+  const comps = ALL.filter(k => up.some(x => x[0] === k) || done.some(x => x[0] === k));
+  const sel = comps.includes(ui.pklg) ? ui.pklg : 'all', inLg = k => sel === 'all' || k === sel;
+  const mineC = comps.filter(has), rest = comps.filter(k => !has(k));
+  const chip = k => `<button class="chip ${sel === k ? 'on' : ''}" data-pklg="${k}">${k === 'all' ? 'All' : LEAGUES[k].tag}</button>`;
+  let html = `<nav class="chips" style="padding:4px 0 6px">${chip('all')}${mineC.map(chip).join('')}${mineC.length && rest.length ? '<span class="chip-sep"></span>' : ''}${rest.map(chip).join('')}</nav>`;
+  html += `<div class="section"><h2>Record${sel === 'all' ? '' : ' · ' + esc(LEAGUES[sel].name)}</h2><span class="aside">points a match</span></div>`;
   // record: each match scored twice, the FotMob pick under FotMob scoring and the House pick under House rules
   const rec = {}; let P = 0, Q = 0, N = 0, R = 0, X = 0;
   for (const [k, m] of done) {
+    if (!inLg(k)) continue;
     const pts = ptsFor(m.pk.pick, k, m); if (pts == null) continue;
     const hq = ptsFor(housePick(D[k], m), k, m, houseRules(m)) ?? 0, ex = exactHit(m.pk.pick, k, m);
     const r = rec[k] || (rec[k] = { n: 0, p: 0, q: 0 });
@@ -703,13 +711,13 @@ function viewPicks() {
   }
   const per = (x, n) => n ? (x / n).toFixed(2) : '–';
   html += `<div class="card"><div class="stats four"><div class="stat"><b>${per(P, N)}</b><span>FotMob avg</span></div><div class="stat"><b>${per(Q, N)}</b><span>House avg</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
-    <table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ALL.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table></div>
+    ${sel !== 'all' ? `<div class="small muted" style="padding:0 16px 12px">${N} matches</div>` : `<table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ALL.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table>`}</div>
     <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw 5, away win 6, +3 for the exact score (either win 4 at a neutral venue), so the best pick isn't always the favourite. Picks are for 90 minutes. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
   // upcoming by day
-  const byDay = new Map(); for (const x of up) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
+  const byDay = new Map(); for (const x of up.filter(x => inLg(x[0]))) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
   for (const [d, list] of [...byDay].sort()) {
     html += `<div class="section"><h2>${dayLabel(d)}</h2></div><div class="card">`;
-    const fav = favIds(), isMine = ([k, m]) => fav.has(D[k].teams[m.h].id) || fav.has(D[k].teams[m.a].id);
+    const isMine = ([k, m]) => fav.has(D[k].teams[m.h].id) || fav.has(D[k].teams[m.a].id);
     const pinned = list.filter(isMine).sort((a, b) => a[1].t.localeCompare(b[1].t));
     if (pinned.length) html += `<div class="lg-label"><span class="fav">★</span>Your clubs</div>` + pinned.map(([k, m]) => pickRow(k, m)).join('');
     for (const k of ALL) {
@@ -718,7 +726,7 @@ function viewPicks() {
     }
     html += '</div>';
   }
-  if (!up.length) html += '<div class="empty">No upcoming matches in the next week.</div>';
+  if (!byDay.size) html += '<div class="empty">No upcoming matches in the next week.</div>';
   return html;
 }
 function pickRow(k, m) {
@@ -1159,7 +1167,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-pklg],[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -1177,6 +1185,7 @@ document.addEventListener('click', e => {
   }
   if (t.dataset.more) { ui.more[t.dataset.more] = !ui.more[t.dataset.more]; render(); return; }
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
+  if (t.dataset.pklg) { ui.pklg = t.dataset.pklg; localSet('pklg', ui.pklg); render(); return; }
   if (t.dataset.jump) { document.getElementById(t.dataset.jump)?.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.plist) { ui.plist = t.dataset.plist; render(); return; }
