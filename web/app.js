@@ -273,7 +273,8 @@ const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:
 // ------------------------------------------------------------------ watch guide
 // The next two days' matches in the competitions Kevin watches, ranked by a watch score 0-100:
 // your club playing 40, stakes for both sides 20, quality 20 (strength within the league x the league's level, and
-// closeness), how far the result moves your clubs' chances 10 (your clubs' own matches too), Affinity of the two clubs 10.
+// closeness), how far the result moves your clubs' chances 10 (your clubs' own matches too), Affinity 10: 5 for the two
+// clubs' total (two you like) and 5 for the difference (one you like against one you don't).
 const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl', 'flc', 'fac', 'dfb', 'usoc'];
 const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
 function watchList() {
@@ -292,15 +293,18 @@ function watchList() {
     const mine = fav.has(H.id) || fav.has(A.id);
     // absolute, so leagues compare: a 25-point swing in a play-off race is about 0.4 (full marks)
     const moves = Math.min(1, favImp(f) / 0.4);
-    const af = [H, A].map(t => (fav.has(t.id) ? 100 : affOf(t.id) ?? 50)), aff = (0.6 * Math.max(...af) + 0.4 * Math.min(...af)) / 100;
+    const af = [H, A].map(t => (fav.has(t.id) ? 100 : affOf(t.id) ?? 50)), hi = Math.max(...af), lo = Math.min(...af);
+    // total: two clubs you like; difference: a club you like against one you don't
+    const affSum = (hi + lo) / 200, affGap = (hi - lo) / 100;
     const stakes = f ? stakesOf(k, f, false) / 10 : 0;
     const p = f?.p, close = p ? 1 - Math.abs(p[0] - p[2]) : 0.5;
     const quality = LEVEL[k] * (0.7 * (pct[k][m.h] + pct[k][m.a]) / 2 + 0.3 * close);
-    const score = Math.round(40 * mine + 20 * stakes + 20 * quality + 10 * moves + 10 * aff);
+    const score = Math.round(40 * mine + 20 * stakes + 20 * quality + 10 * moves + 5 * affSum + 5 * affGap);
     const why = [];
     if (mine) why.push('your club');
     if (moves && f.fav.best && f.fav.best.sw >= 0.05) { const b = f.fav.best; why.push(`${mine ? 'swings' : 'moves'} ${L.teams[b.t].s}'s ${zoneName(k, b.key).toLowerCase()} odds ${Math.round(b.sw * 100)} pts`); }
-    if (!mine && Math.max(...af) >= 70) why.push(`Affinity ${Math.round(Math.max(...af))}`);
+    if (!mine && hi - lo >= 30) why.push(`Affinity ${Math.round(hi)} v ${Math.round(lo)}`);
+    else if (!mine && hi >= 70) why.push(`Affinity ${Math.round(hi)}${lo >= 70 ? ` & ${Math.round(lo)}` : ''}`);
     if (stakes >= 0.7) why.push('high stakes');
     if (quality >= 0.65) why.push('top quality');
     else if (close >= 0.8 && quality >= 0.5) why.push('close match');
