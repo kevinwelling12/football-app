@@ -75,8 +75,8 @@ across competitions, strength, Affinity, players; the same body as the club shee
 Affinity, Players) below; Leagues chips list his clubs' competitions first, then a divider, and open on the first of
 them until he picks one; long tables offer jump links to his clubs; Picks pins his clubs' matches first each day. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
 Watch list (app.js watchList): the next days with matches in UCL, EPL, BL, LL, MLS, NWSL, USL and the four cups,
-ranked by a watch score of 100 (weights 2026-10-20): your club playing 40, stakes 20, quality 20 (Elo rank within the
-league × league level, plus closeness), how far the result moves your clubs' chances 10 (absolute, full marks at
+ranked by a watch score of 100 (weights 2026-10-20): your club playing 40, stakes 15 (not rounded), quality 25 (the weaker
+club's Elo rank within the league × league level, plus closeness), how far the result moves your clubs' chances 10 (absolute, full marks at
 ~25 pts in a play-off race), Affinity 10 (5 × the two clubs' total, 5 × their difference: a club he likes against
 one he doesn't); the reasons are shown under each match.
 The match sheet shows the swings as "What's at stake".
