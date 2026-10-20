@@ -84,7 +84,7 @@ The match sheet shows the swings as "What's at stake".
 - Plain, short replies. Show what changed and the concrete effect (numbers, examples). No hype.
 - Never overwrite results Kevin entered. His entries win over ESPN in the app; disagreements are shown, not resolved.
 - FotMob Predict: a predicted score per match, 90 minutes only; 2 points for the result, +1 for the exact score. Never scrape FotMob (or Opta). After extra time the 90-minute score isn't known: a draw pick gets the result points, no exact bonus (app.js ptsFor).
-- House rules (Picks page, beside FotMob): home win 2, draw or away win 4, +2 exact (both wins 3 at a neutral venue); engine.js HOUSE, frozen as `pk.hp`.
+- House rules (Picks page, beside FotMob; v2 since 2026-10-20): home win 2, draw 5, away win 6, +3 exact (either win 4 at a neutral venue); engine.js HOUSE, frozen as `pk.hp` with its version `pk.hv` (older picks are worked out again from their frozen chances).
 - Terminology: "Affinity", "Matches" (not Games), "Race", "Scenarios".
 - Design: clean and quiet. Neutral surfaces, a competition's colour only as a small accent, numbers first. Less on screen beats more.
 - Crests: ESPN has a few on white squares (Sacramento Republic, Phoenix, San Antonio); scripts/logos.py clears them. Check new clubs.

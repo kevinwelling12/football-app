@@ -704,7 +704,7 @@ function viewPicks() {
   const per = (x, n) => n ? (x / n).toFixed(2) : '–';
   html += `<div class="card"><div class="stats four"><div class="stat"><b>${per(P, N)}</b><span>FotMob avg</span></div><div class="stat"><b>${per(Q, N)}</b><span>House avg</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
     <table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ALL.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table></div>
-    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw or away win 4, +2 for the exact score (both wins 3 at a neutral venue), so the best pick isn't always the favourite. Picks are for 90 minutes. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
+    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw 5, away win 6, +3 for the exact score (either win 4 at a neutral venue), so the best pick isn't always the favourite. Picks are for 90 minutes. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
   // upcoming by day
   const byDay = new Map(); for (const x of up) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
   for (const [d, list] of [...byDay].sort()) {
@@ -732,7 +732,7 @@ function pickRow(k, m) {
 // pick; the House pick is worked out from the same frozen chances)
 const houseRules = m => m.n ? HOUSE_NEUTRAL : HOUSE;
 function housePick(L, m) {
-  if (m.pk.hp) return m.pk.hp;
+  if (m.pk.hp && m.pk.hv === HOUSE.v) return m.pk.hp;
   return m.pk.lh == null ? null : bestPick(pkGrid(m.pk, L.P.rho, L.P.drawK), houseRules(m)).pick;
 }
 // Picks are for 90 minutes. After extra time the 90-minute result was a draw but its score isn't in the data, so a

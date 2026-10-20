@@ -75,10 +75,11 @@ export function matchGrid(m, P) {
 }
 
 // Scoring rules: points for the right result by outcome (home win, draw, away win), plus a bonus for the exact score.
-// FotMob Predict pays every result 2 and +1 for the exact score. House rules pay the harder calls double: home win 2,
-// draw or away win 4, exact +2 (both wins 3 at a neutral venue), so the best pick isn't always the favourite.
+// FotMob Predict pays every result 2 and +1 for the exact score. House rules pay the harder calls more: home win 2,
+// draw 5, away win 6, exact +3 (either win 4 at a neutral venue), so the best pick isn't always the favourite.
+// v: the House rules' version; a pick frozen under another version is worked out again from its frozen chances.
 export const FOTMOB = { H: 2, D: 2, A: 2, exact: 1 };
-export const HOUSE = { H: 2, D: 4, A: 4, exact: 2 }, HOUSE_NEUTRAL = { H: 3, D: 4, A: 3, exact: 2 };
+export const HOUSE = { H: 2, D: 5, A: 6, exact: 3, v: 2 }, HOUSE_NEUTRAL = { H: 4, D: 5, A: 4, exact: 3, v: 2 };
 const res = (h, a) => h > a ? 'H' : h < a ? 'A' : 'D';
 // Best pick = argmax S[result] P(result) + S.exact P(exact).
 export function bestPick(g, S = FOTMOB) {
