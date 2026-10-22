@@ -277,7 +277,9 @@ const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:
 // clubs' total (two you like) and 5 for the difference (one you like against one you don't).
 // every competition in the app (Kevin, 2026-10-22: the top matches whatever the league); the league's level scales quality
 const WATCH = [...ORDER, ...CUPS];
-const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, ita: 0.9, fra: 0.85, uel: 0.8, mls: 0.7, nwsl: 0.7, eng2: 0.6, mex: 0.6, uecl: 0.6, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
+// Kevin's order (2026-10-22): UCL and EPL top, MLS and Bundesliga just behind, then NWSL and USL; the rest my call;
+// Ligue 1 low (no good way to watch it)
+const LEVEL = { ucl: 1, epl: 1, mls: 0.9, bl: 0.9, nwsl: 0.8, usl: 0.75, fac: 0.7, esp: 0.7, flc: 0.65, dfb: 0.65, uel: 0.65, usoc: 0.6, ita: 0.6, eng2: 0.5, uecl: 0.5, mex: 0.45, fra: 0.3 };
 function watchList() {
   const now = Date.now(), fav = favIds(), byDay = new Map();
   for (const k of WATCH) if (D[k]) for (const m of matchesOf(k)) {
