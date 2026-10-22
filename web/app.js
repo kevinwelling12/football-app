@@ -271,12 +271,13 @@ function matchRow(k, m, { showLeague = false, withDay = false } = {}) {
 const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].name}</div>`;
 
 // ------------------------------------------------------------------ watch guide
-// The next two days' matches in the competitions Kevin watches, ranked by a watch score 0-100:
+// The next two days' matches in every competition, ranked by a watch score 0-100:
 // your club playing 40, stakes for both sides 15, quality 25 (the weaker club's strength within the league x the
 // league's level, and closeness), how far the result moves your clubs' chances 10 (your clubs' own matches too), Affinity 10: 5 for the two
 // clubs' total (two you like) and 5 for the difference (one you like against one you don't).
-const WATCH = ['ucl', 'epl', 'bl', 'esp', 'mls', 'nwsl', 'usl', 'flc', 'fac', 'dfb', 'usoc'];
-const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, mls: 0.7, nwsl: 0.7, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
+// every competition in the app (Kevin, 2026-10-22: the top matches whatever the league); the league's level scales quality
+const WATCH = [...ORDER, ...CUPS];
+const LEVEL = { ucl: 1, epl: 0.95, esp: 0.9, bl: 0.9, ita: 0.9, fra: 0.85, uel: 0.8, mls: 0.7, nwsl: 0.7, eng2: 0.6, mex: 0.6, uecl: 0.6, usl: 0.55, fac: 0.8, flc: 0.75, dfb: 0.75, usoc: 0.5 };
 function watchList() {
   const now = Date.now(), fav = favIds(), byDay = new Map();
   for (const k of WATCH) if (D[k]) for (const m of matchesOf(k)) {
