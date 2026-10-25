@@ -300,7 +300,8 @@ function watchList() {
     // total: two clubs you like; difference: a club you like against one you don't
     const affSum = (hi + lo) / 200, affGap = (hi - lo) / 100;
     // stakes 0-1, not rounded: the match's importance against the biggest remaining match in that competition
-    const stakes = f ? Math.min(1, f.imp / Math.max(...(SIM[k]?.sim?.fixtures || []).map(x => x.imp), 1e-9)) : 0;
+    const stakes = f ? Math.min(1, f.imp / Math.max(...(SIM[k]?.sim?.fixtures || []).map(x => x.imp), 1e-9))
+      : m.stage && !LEAGUES[k].ko && knockout(k, m) ? 1 : 0; // a play-off knockout: win or go home
     const p = f?.p, close = p ? 1 - Math.abs(p[0] - p[2]) : 0.5;
     // the weaker club's strength: a big match needs two strong clubs
     const quality = LEVEL[k] * (0.7 * Math.min(pct[k][m.h], pct[k][m.a]) + 0.3 * close);
@@ -764,9 +765,11 @@ function ptsFor(pick, k, m, S = FOTMOB) {
 }
 const exactHit = (pick, k, m) => { const s = at90(k, m); return pick != null && !!s && pick[0] === s[0] && pick[1] === s[1]; };
 const ptsCls = (pick, pts, k, m) => exactHit(pick, k, m) ? 'exact' : pts ? 'hit' : 'miss';
-// Domestic cup tie: chance the home side goes through (a second leg counts the first; none for a first leg)
+// Knockout tie (domestic cup, or a single-match play-off round: USL, NWSL, MLS past round one): chance the home side
+// goes through. A second leg counts the first; none for a first leg or a best-of-three game.
+const knockout = (k, m) => LEAGUES[k].ko || (!!m.stage && !m.series && (m.leg === 2 || ['usl', 'nwsl', 'mls'].includes(k)));
 function throughOf(k, m) {
-  if (!LEAGUES[k].ko || isPlayed(m) || !m.lh || m.leg === 1) return null;
+  if (!knockout(k, m) || isPlayed(m) || !m.lh || m.leg === 1) return null;
   let carry = [0, 0];
   if (m.leg === 2) {
     const l1 = matchesOf(k).find(x => x.leg === 1 && x.h === m.a && x.a === m.h && isPlayed(x)); if (!l1) return null;
@@ -982,8 +985,12 @@ function miniTable(k, i) {
 function stakesBlock(id) {
   const nm = nextMatch(id); if (!nm) return '';
   const fi = fixInfo(nm.k, nm.m.id), sw = fi?.swings?.filter(s => (nm.m.h === nm.i) === !s.side) || [];
-  if (!sw.length) return ''; // the match itself is first in the schedule below
   const opp = D[nm.k].teams[nm.m.h === nm.i ? nm.m.a : nm.m.h];
+  if (!sw.length) { // a knockout: what's at stake is going through
+    const thr = throughOf(nm.k, nm.m); if (thr == null) return ''; // the match itself is first in the schedule below
+    const p = nm.m.h === nm.i ? thr : 1 - thr;
+    return `<div class="block"><h4>${esc(nm.m.stage ? stageName(nm.m.stage.replace(/^.*---/, '')) : 'Next')} ${nm.m.h === nm.i ? 'vs' : 'at'} ${esc(opp.s)} · ${esc(dayLabel(dayKey(nm.m.t)))}</h4><div class="kv"><div>To go through</div><div><b>${pctTxt(p)}</b></div><div></div><div class="muted small">${etOf(nm.k, nm.m) ? 'extra time, then penalties' : 'penalties if level'}</div></div></div>`;
+  }
   return `<div class="block"><h4>At stake ${nm.m.h === nm.i ? 'vs' : 'at'} ${esc(opp.s)} · ${esc(dayLabel(dayKey(nm.m.t)))}</h4><div class="kv"><div class="hd"></div><div class="hd">Win</div><div class="hd">Draw</div><div class="hd">Loss</div>
     ${sw.map(s => { const x = stakeLine(nm.k, nm.m, s); return `<div>${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
 }
