@@ -192,7 +192,10 @@ export function scenarios(L, rules, matches, t, z, { maxOthers = 6, windowDays =
       if (!good.length) continue;
       const bucket = kind === 'in' ? res.clinch : res.elim;
       if (good.length === combos.length) { bucket[label] = []; continue; }
-      bucket[label] = conditions(combos, kind, others).map(conj => conj.map(([j, set]) => phrase(L, others[j], set)));
+      // no short condition (three results or fewer) guarantees it: say so rather than leave the list empty, which
+      // means "whatever happens elsewhere"
+      const conds = conditions(combos, kind, others).map(conj => conj.map(([j, set]) => phrase(L, others[j], set)));
+      bucket[label] = conds.length ? conds : [[kind === 'in' ? 'enough other results go their way' : 'enough other results go against them']];
     }
   }
   if (!Object.keys(res.clinch).length && !Object.keys(res.elim).length) return null;
