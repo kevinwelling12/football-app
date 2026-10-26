@@ -1,0 +1,13 @@
+{
+  "_note": "Official fixtures ESPN hasn't listed yet (scripts/sync.mjs mergeFixtures). Each one is used only until ESPN lists a match between the same clubs within three days; then ESPN's wins. Source: uslchampionship.com/news_article/show/1369096 (2026-10-26). Times UTC; higher seed at home.",
+  "matches": [
+    { "t": "2026-10-30T22:30Z", "h": "17832", "a": "17827", "stage": "eastern-conference-playoffs---quarterfinals", "tv": "ESPN+" },
+    { "t": "2026-10-30T23:00Z", "h": "9729", "a": "22164", "stage": "eastern-conference-playoffs---quarterfinals", "tv": "ESPN+" },
+    { "t": "2026-10-30T23:30Z", "h": "17361", "a": "18159", "stage": "eastern-conference-playoffs---quarterfinals", "tv": "ESPN+" },
+    { "t": "2026-10-31T00:00Z", "h": "19179", "a": "19411", "stage": "eastern-conference-playoffs---quarterfinals", "tv": "CBS Sports Golazo Network" },
+    { "t": "2026-10-31T01:00Z", "h": "19407", "a": "18265", "stage": "western-conference-playoffs---quarterfinals", "tv": "ESPN+" },
+    { "t": "2026-11-01T19:00Z", "h": "21822", "a": "17830", "stage": "western-conference-playoffs---quarterfinals", "tv": "CBS Sports Network" },
+    { "t": "2026-11-01T23:00Z", "h": "19408", "a": "17850", "stage": "western-conference-playoffs---quarterfinals", "tv": "CBS Sports Network" },
+    { "t": "2026-11-02T02:00Z", "h": "17828", "a": "18446", "stage": "western-conference-playoffs---quarterfinals", "tv": "ESPN+" }
+  ]
+}

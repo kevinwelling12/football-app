@@ -58,6 +58,21 @@ async function fetchAll() {
   }
 }
 
+// Official fixtures ESPN hasn't listed yet (data/fixtures/<league>.json): added as scheduled matches until ESPN lists a
+// match between the same clubs within three days, then dropped so ESPN's record (results, odds) takes over.
+function mergeFixtures(S, fx) {
+  if (!fx) return;
+  const fid = f => `fx-${f.h}-${f.a}-${f.t.slice(0, 10)}`;
+  const espn = S.matches.filter(m => !m.fx), near = (x, y) => Math.abs(Date.parse(x.t) - Date.parse(y.t)) < 3 * 864e5;
+  const listed = f => espn.some(m => ((m.h === f.h && m.a === f.a) || (m.h === f.a && m.a === f.h)) && near(m, f));
+  S.matches = S.matches.filter(m => !m.fx || (!listed(m) && fx.matches.some(f => fid(f) === m.id)));
+  for (const f of fx.matches) {
+    if (listed(f) || S.matches.some(m => m.id === fid(f))) continue;
+    S.matches.push({ id: fid(f), fx: 1, t: f.t, h: f.h, a: f.a, st: 'pre', stage: f.stage, ...(f.tv ? { tv: f.tv } : {}) });
+  }
+  S.matches.sort((x, y) => x.t.localeCompare(y.t) || x.id.localeCompare(y.id));
+}
+
 // Conference membership (and ESPN's own order, for checking our tiebreakers).
 async function groupsFor(k) {
   const d = await getJSON(`https://site.api.espn.com/apis/v2/sports/soccer/${LEAGUES[k].espn}/standings?season=${currentSeason(k)}`);
@@ -83,6 +98,7 @@ async function publish() {
     for (const k of POOLS[pl].filter(x => LEAGUES[x].track)) {
       const season = currentSeason(k), file = fileOf(k, season), S = read(file);
       if (!S) continue;
+      mergeFixtures(S, read(`data/fixtures/${k}.json`));
       // if ESPN's standings fail (it sometimes refuses GitHub's runners), keep the conferences already published
       const was = Object.fromEntries((read(`web/data/${k}.json`)?.teams || []).map(t => [t.id, t]));
       const ko = LEAGUES[k].ko; // domestic cup: no table, every club drawn counts

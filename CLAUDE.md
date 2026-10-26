@@ -36,6 +36,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 - `node scripts/sync.mjs` refetch + republish (`--no-fetch` to republish only). `python3 scripts/logos.py` for new clubs' crests.
 - `node scripts/backtest.mjs [--pool eur|mls|nwsl|usl] [--tune]` walk-forward backtest; --tune writes model/params.json (~25 min).
 - `node scripts/backfill.mjs [--only k] [--from 2016] [--force]` history download (one request per match day).
+- data/fixtures/<k>.json: official fixtures ESPN hasn't listed yet (e.g. USL play-offs); sync adds them (`fx`) until ESPN lists the same clubs within three days.
 - GitHub Actions: sync.yml four times a day commits history/ + web/data + web/logos and redeploys; pages.yml deploys web/.
 
 ## Model (docs/model.md)
