@@ -238,7 +238,7 @@ a.club-card { color: inherit; text-decoration: none; }
 .bcell { display: flex; align-items: center; padding: 4px 0; }
 .bx { width: 100%; background: var(--card); border-radius: 10px; padding: 4px 5px; }
 .bx.click { cursor: pointer; }
-.bl { display: grid; grid-template-columns: 8px 16px minmax(0, 1fr) auto; align-items: center; gap: 3px; font-size: 12.5px; padding: 2px 0; min-width: 0; }
+.bl { display: grid; grid-template-columns: 11px 16px minmax(0, 1fr) auto; align-items: center; gap: 3px; font-size: 12.5px; padding: 2px 0; min-width: 0; }
 .bl .crest { width: 15px; height: 15px; }
 .bl .sd { font-size: 9px; color: var(--faint); text-align: right; }
 .bl .ab { overflow: hidden; text-overflow: clip; white-space: nowrap; font-weight: 600; }
@@ -251,3 +251,4 @@ a.club-card { color: inherit; text-decoration: none; }
 .bw { font-size: 10.5px; color: var(--faint); padding-top: 2px; }
 .wild { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 10px; margin-bottom: 8px; max-width: 220px; }
 .bfinal { max-width: 160px; margin: 0 auto 6px; }
+.bpre { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-bottom: 12px; }

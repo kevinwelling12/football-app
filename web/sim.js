@@ -187,14 +187,17 @@ function bracket(type, L, r, seeds, pts, matches) {
       po.push(play(y1, x1, () => twoLegs(L, r, y1, x1, base)), play(y2, x2, () => twoLegs(L, r, y2, x2, base)));
     }
     mark('r16', [...s.slice(0, 8), ...po]);
-    // Round of 16: 1/2 v play-off winners from 15-18, 3/4 v 13/14 & 19/20, 5/6 v 11/12 & 21/22, 7/8 v 9/10 & 23/24
-    const r16 = [];
-    for (const [top, k] of [[0, 3], [2, 2], [4, 1], [6, 0]]) {
+    // Round of 16: 1/2 v play-off winners from 15-18, 3/4 v 13/14 & 19/20, 5/6 v 11/12 & 21/22, 7/8 v 9/10 & 23/24.
+    // The draw puts one club of each pair (and one of the two matching play-off winners) in each half of the bracket;
+    // in a half the 1/2 tie meets the 7/8 tie in the quarter-finals and the 3/4 tie meets the 5/6 tie, so 1 and 2 can
+    // only meet in the final. po: [9/10 v 23/24 (two ties), 11/12 v 21/22, 13/14 v 19/20, 15/16 v 17/18]
+    const halves = [[], []];
+    for (const [top, k] of [[0, 3], [6, 0], [2, 2], [4, 1]]) {
       const [a1, a2] = pick2(s[top], s[top + 1]), [b1, b2] = pick2(po[2 * k], po[2 * k + 1]);
-      r16.push(play(b1, a1, () => twoLegs(L, r, b1, a1, base)), play(b2, a2, () => twoLegs(L, r, b2, a2, base)));
+      halves[0].push(play(b1, a1, () => twoLegs(L, r, b1, a1, base))); halves[1].push(play(b2, a2, () => twoLegs(L, r, b2, a2, base)));
     }
-    mark('qf', r16);
-    const qf = [0, 2, 4, 6].map(j => { const [x, y] = pick2(r16[j], r16[j + 1]); return play(x, y, () => twoLegs(L, r, x, y, base)); });
+    mark('qf', [...halves[0], ...halves[1]]);
+    const qf = halves.flatMap(h => [play(h[0], h[1], () => twoLegs(L, r, ...pick2(h[0], h[1]), base)), play(h[2], h[3], () => twoLegs(L, r, ...pick2(h[2], h[3]), base))]);
     mark('sf', qf);
     const sf = [0, 2].map(j => { const [x, y] = pick2(qf[j], qf[j + 1]); return play(x, y, () => twoLegs(L, r, x, y, base)); });
     mark('final', sf);

@@ -16,9 +16,9 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
-      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS; app.js BRACKET), #/picks, #/clubs/<club-slug>), views, sheets
+      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS play-offs and the three UEFA cups' knockouts; app.js BRACKET), #/picks, #/clubs/<club-slug>), views, sheets
       engine.js          scoreline grids (Dixon-Coles), market blend, FotMob pick, live grids, RNG; shared with Node
-      sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups, mls, nwsl, usl, efl = Championship promotion, mex)
+      sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups: halves drawn from the seed pairs, 1/2 v 7/8 paths in the quarter-finals, mls, nwsl, usl, efl = Championship promotion, mex)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios
       leagues.js         zones, tiebreakers, playoff formats, colours, ORDER (all thirteen) and MAIN (Kevin's six); `cup` = UEFA cups (a club belongs to its domestic league when shown), default favourites
       espn.js            ESPN event -> match record (sync scripts and live polling share it)

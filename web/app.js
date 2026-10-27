@@ -451,104 +451,113 @@ function viewCups() {
   }).join('') + `<p class="note">Your clubs' ties also show on Today and on their club cards; other ties fold into "more". Chances are for 90 minutes; a tie's chance to go through is on its match sheet.</p>`;
 }
 
-// ------------------------------------------------------------------ Bracket (fixed play-off brackets: USL, NWSL, MLS)
-// A tie is two slots; a slot is a seed (number, 0-based) or the winner of an earlier tie {t: [round, index]}.
-// key: the simulation round reached by winning that round's ties (sim.js bracket marks), for the chances shown.
+// ------------------------------------------------------------------ Bracket (USL, NWSL, MLS play-offs; UEFA knockouts)
+// A tie is two slots. A slot is a seed (0-based place), {top: i} (the half's i-th seeded club), {pre: i} (the winner of
+// the group's i-th preliminary tie: MLS wild card, UEFA knockout play-off) or {t: [round, index]} (an earlier tie's
+// winner). key: the simulation round reached by winning that round's ties (sim.js bracket marks), for the chances shown.
 const W_ = (r, i) => ({ t: [r, i] });
+const SEMIS = [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]];
 const BRACKET = {
   usl: { conf: true, rounds: [
     { name: 'Quarter-finals', key: 'csf', ties: [[0, 7], [3, 4], [1, 6], [2, 5]] },
-    { name: 'Semi-finals', key: 'cf', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+    { name: 'Semi-finals', key: 'cf', ties: SEMIS },
     { name: 'Conference final', key: 'final', ties: [[W_(1, 0), W_(1, 1)]] }] },
   nwsl: { conf: false, rounds: [
     { name: 'Quarter-finals', key: 'sf', ties: [[0, 7], [3, 4], [1, 6], [2, 5]] },
-    { name: 'Semi-finals', key: 'final', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+    { name: 'Semi-finals', key: 'final', ties: SEMIS },
     { name: 'Final', key: 'champ', ties: [[W_(1, 0), W_(1, 1)]] }] },
-  mls: { conf: true, wild: { key: 'r1', tie: [7, 8] }, rounds: [
-    { name: 'Round One', key: 'csf', ties: [[0, { wild: 1 }], [3, 4], [1, 6], [2, 5]] },
-    { name: 'Semi-finals', key: 'cf', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+  mls: { conf: true, pre: { name: 'Wild card', key: 'r1', ties: () => [[7, 8]] }, rounds: [
+    { name: 'Round One', key: 'csf', ties: [[0, { pre: 0 }], [3, 4], [1, 6], [2, 5]] },
+    { name: 'Semi-finals', key: 'cf', ties: SEMIS },
     { name: 'Conference final', key: 'final', ties: [[W_(1, 0), W_(1, 1)]] }] },
+  // UEFA cups: two halves, each with one club of every top pair (1/2, 3/4, 5/6, 7/8) and the matching knockout
+  // play-off winners; the draw decides which, so until then one half is shown with 1, 8, 4, 5 and the other with
+  // 2, 7, 3, 6 (play-offs 9/10 v 23/24 ... 15/16 v 17/18 likewise split)
+  ucl: { halves: [
+    { name: 'Path of No. 1', tops: [0, 7, 3, 4], pre: [[15, 16], [8, 23], [12, 19], [11, 20]] },
+    { name: 'Path of No. 2', tops: [1, 6, 2, 5], pre: [[14, 17], [9, 22], [13, 18], [10, 21]] }],
+    pre: { name: 'Knockout play-offs', key: 'r16' }, final: { key: 'champ', reach: 'final', neutral: true }, rounds: [
+    { name: 'Round of 16', key: 'qf', ties: [[{ top: 0 }, { pre: 0 }], [{ top: 1 }, { pre: 1 }], [{ top: 2 }, { pre: 2 }], [{ top: 3 }, { pre: 3 }]] },
+    { name: 'Quarter-finals', key: 'sf', ties: SEMIS },
+    { name: 'Semi-finals', key: 'final', ties: [[W_(1, 0), W_(1, 1)]] }] },
 };
-// The winner of the matches played so far between x and y in the post-season (a best-of-three counts games), or null
+// The winner of the matches played so far between x and y in the knockouts (best of three counts games; two legs
+// count goals), or null
 function tieWinner(k, x, y) {
   const ms = matchesOf(k).filter(m => m.stage && ((m.h === x && m.a === y) || (m.h === y && m.a === x)));
   const won = m => (!isPlayed(m) ? null : m.so ? (m.so[0] > m.so[1] ? m.h : m.a) : m.hs > m.as ? m.h : m.hs < m.as ? m.a : null);
   if (ms.some(m => m.series)) { const w = ms.map(won); return w.filter(v => v === x).length >= 2 ? x : w.filter(v => v === y).length >= 2 ? y : null; }
-  const last = ms.filter(isPlayed).at(-1); return last && !ms.some(m => !isPlayed(m) && m.t > last.t) ? won(last) : null;
+  if (ms.some(m => !isPlayed(m))) return null;
+  const last = ms.at(-1); if (!last) return null;
+  if (ms.length > 1 && !last.so) { let gx = 0, gy = 0; for (const m of ms) { gx += m.h === x ? m.hs : m.as; gy += m.h === x ? m.as : m.hs; } return gx > gy ? x : gy > gx ? y : null; }
+  return won(last);
 }
+const tieMatches = (k, a, b) => (a == null || b == null ? [] : matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))).sort((x, y) => x.t.localeCompare(y.t)));
 function viewBracket(k) {
   const L = D[k], rules = LEAGUES[k], B = BRACKET[rules.playoffs.type], S = SIM[k]?.sim, fav = favIds();
   const st = standings(L, matchesOf(k), rules), regDone = !regular(matchesOf(k)).some(m => !isPlayed(m) && m.st !== 'canc');
-  let groups = B.conf ? st.groups.map(g => ({ name: g.name, seeds: g.idx.map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => r.i) }))
-    : [{ name: '', seeds: st.groups.flatMap(g => g.idx).map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => r.i) }];
-  groups.sort((a, b) => b.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)) - a.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)));
+  const order = gi => gi.map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => r.i);
+  const all = order(st.groups.flatMap(g => g.idx));
+  let groups = B.halves ? B.halves.map(h => ({ ...h, seeds: all }))
+    : B.conf ? st.groups.map(g => ({ name: g.name, seeds: order(g.idx) })) : [{ name: '', seeds: all }];
+  if (B.conf) groups.sort((a, b) => b.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)) - a.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)));
   const reach = (i, key) => S?.teams[i]?.rounds?.[key];
-  const seedOf = new Map(); groups.forEach(g => g.seeds.forEach((i, n) => seedOf.set(i, n + 1)));
-  // resolve every tie of one group: {slots: [[team or null, candidates]], winner, match}
+  const seedOf = new Map(); for (const g of groups) g.seeds.forEach((i, n) => seedOf.set(i, n + 1));
+  const known = i => ({ team: i, cands: [i] });
+  const winnerSlot = (T, key) => ({ team: T.winner, cands: T.winner != null ? [T.winner] : T.slots.flatMap(x => x.cands), key });
+  const mkTie = (slots, key) => { const [a, b] = slots.map(x => x.team), match = tieMatches(k, a, b); return { slots, match, key, winner: match.length ? tieWinner(k, a, b) : null }; };
+  // resolve every tie of one group (conference, half or the whole league)
   const solve = g => {
+    const pre = B.pre ? (g.pre || B.pre.ties()).map(([x, y]) => mkTie([known(g.seeds[x]), known(g.seeds[y])], B.pre.key)) : [];
     const res = [];
-    const wildW = B.wild ? tieWinner(k, g.seeds[B.wild.tie[0]], g.seeds[B.wild.tie[1]]) : null;
-    const slot = (sl, r, key) => {
-      if (typeof sl === 'number') return { team: g.seeds[sl], cands: [g.seeds[sl]] };
-      if (sl.wild) { const c = B.wild.tie.map(n => g.seeds[n]); return { team: wildW, cands: wildW != null ? [wildW] : c, key: B.wild.key }; }
-      const T = res[sl.t[0]][sl.t[1]];
-      return { team: T.winner, cands: T.winner != null ? [T.winner] : T.slots.flatMap(x => x.cands), key: B.rounds[sl.t[0]].key };
-    };
-    B.rounds.forEach((R, r) => {
-      res[r] = R.ties.map(tie => {
-        const slots = tie.map(sl => slot(sl, r));
-        const [a, b] = slots.map(x => x.team);
-        const winner = a != null && b != null ? tieWinner(k, a, b) : null;
-        const match = a != null && b != null ? matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))).sort((x, y) => x.t.localeCompare(y.t)) : [];
-        return { slots, winner, match, key: R.key };
-      });
-    });
-    return { res, wildW };
+    const slot = sl => typeof sl === 'number' ? known(g.seeds[sl]) : sl.top != null ? known(g.seeds[g.tops[sl.top]])
+      : sl.pre != null ? winnerSlot(pre[sl.pre], B.pre.key) : winnerSlot(res[sl.t[0]][sl.t[1]], B.rounds[sl.t[0]].key);
+    B.rounds.forEach((R, r) => { res[r] = R.ties.map(tie => mkTie(tie.map(slot), R.key)); });
+    return { pre, res };
   };
   // one line of a tie box: a known club (seed, crest, abbreviation, score or chance to win the tie) or, before it's
   // known, the likeliest club to get there (faint, with that chance)
-  const line = (x, T, side) => {
-    const known = x.team != null;
-    let i = known ? x.team : x.cands.slice().sort((p, q) => (reach(q, x.key) ?? 0) - (reach(p, x.key) ?? 0))[0];
+  const line = (x, T) => {
+    const isKnown = x.team != null;
+    const i = isKnown ? x.team : x.cands.slice().sort((p, q) => (reach(q, x.key) ?? 0) - (reach(p, x.key) ?? 0))[0];
     if (i == null) return `<div class="bl tbd">TBD</div>`;
-    const t = L.teams[i], ms = T.match, last = ms.filter(isPlayed).at(-1), live = ms.find(m => m.st === 'live');
+    const t = L.teams[i], ms = T.match, live = ms.find(m => m.st === 'live');
+    const goals = m => (m.h === i ? m.hs : m.as);
     let v = '';
-    if (live) v = `<span class="live">${live.h === i ? live.hs : live.as}</span>`;
-    else if (T.winner != null && last) v = ms.some(m => m.series) ? String(ms.filter(m => isPlayed(m) && (m.so ? (m.so[0] > m.so[1]) === (m.h === i) : (m.h === i ? m.hs > m.as : m.as > m.hs))).length)
-      : `${last.h === i ? last.hs : last.as}${last.so ? `<small>(${last.h === i ? last.so[0] : last.so[1]})</small>` : ''}`;
-    else if (known) { const p = reach(i, T.key); v = p == null ? '' : pctTxt(p); }
+    if (live) v = `<span class="live">${ms.filter(m => isPlayed(m) || m.st === 'live').reduce((n, m) => n + goals(m), 0)}</span>`;
+    else if (T.winner != null) {
+      const last = ms.filter(isPlayed).at(-1);
+      v = ms.some(m => m.series) ? String(ms.filter(m => isPlayed(m) && (m.so ? (m.so[0] > m.so[1]) === (m.h === i) : (m.h === i ? m.hs > m.as : m.as > m.hs))).length)
+        : `${ms.filter(isPlayed).reduce((n, m) => n + goals(m), 0)}${last?.so ? `<small>(${last.h === i ? last.so[0] : last.so[1]})</small>` : ''}`;
+    } else if (isKnown) { const p = reach(i, T.key); v = p == null ? '' : pctTxt(p); }
     else { const p = reach(i, x.key); v = p == null ? '' : `<span class="faint">${pctTxt(p)}</span>`; }
-    const cls = [known ? '' : 'tbd', T.winner != null ? (T.winner === i ? 'win' : 'lose') : '', fav.has(t.id) ? 'me' : ''].join(' ');
+    const cls = [isKnown ? '' : 'tbd', T.winner != null ? (T.winner === i ? 'win' : 'lose') : '', fav.has(t.id) ? 'me' : ''].join(' ');
     return `<div class="bl ${cls}"><span class="sd">${seedOf.get(i) ?? ''}</span>${crest(t)}<span class="ab">${esc(t.a || t.s)}</span><span class="v">${v}</span></div>`;
   };
+  const short = t => { const l = dayLabel(dayKey(t)); return /^(Today|Tomorrow|Yesterday)$/.test(l) ? l : `${new Date(t).toLocaleDateString([], { weekday: 'short' })} ${new Date(t).getDate()}`; };
   const box = T => {
     const m = T.match.find(m => !isPlayed(m)) || T.match.at(-1);
-    const short = t => { const d = dayKey(t), l = dayLabel(d); return /^(Today|Tomorrow|Yesterday)$/.test(l) ? l : `${new Date(t).toLocaleDateString([], { weekday: 'short' })} ${new Date(t).getDate()}`; };
     const when = m && !isPlayed(m) && m.st !== 'live' ? `<div class="bw">${esc(short(m.t))} · ${fmtTime(m.t)}</div>` : '';
-    return `<div class="bx${m ? ' click' : ''}"${m ? ` data-match="${k}:${m.id}"` : ''}>${line(T.slots[0], T, 0)}${line(T.slots[1], T, 1)}${when}</div>`;
+    return `<div class="bx${m ? ' click' : ''}"${m ? ` data-match="${k}:${m.id}"` : ''}>${line(T.slots[0], T)}${line(T.slots[1], T)}${when}</div>`;
   };
-  let html = regDone ? '' : `<p class="note" style="margin-top:4px">The regular season isn't over: seeds as the table stands now, chances from the simulation.</p>`;
+  let html = regDone ? '' : `<p class="note" style="margin-top:4px">${B.halves ? "The league phase isn't over" : "The regular season isn't over"}: seeds as the table stands now, chances from the simulation.</p>`;
   const finals = [];
   for (const g of groups) {
-    const { res } = solve(g);
-    if (B.conf) html += `<div class="section"><h2>${esc(g.name)}</h2></div>`;
-    if (B.wild) {
-      const a = g.seeds[B.wild.tie[0]], b = g.seeds[B.wild.tie[1]], w = tieWinner(k, a, b);
-      const T = { slots: [{ team: a, cands: [a] }, { team: b, cands: [b] }], winner: w, match: matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))), key: B.wild.key };
-      html += `<div class="wild"><span class="small muted">Wild card</span>${box(T)}</div>`;
-    }
+    const { pre, res } = solve(g);
+    if (groups.length > 1) html += `<div class="section"><h2>${esc(g.name)}</h2></div>`;
+    if (pre.length === 1) html += `<div class="wild"><span class="small muted">${esc(B.pre.name)}</span>${box(pre[0])}</div>`;
+    else if (pre.length) html += `<div class="bhead" style="grid-template-columns:1fr"><span>${esc(B.pre.name)}</span></div><div class="bpre">${pre.map(box).join('')}</div>`;
     html += `<div class="bracket"><div class="bhead">${B.rounds.map(R => `<span>${esc(R.name)}</span>`).join('')}</div><div class="bgrid">`
       + res.map((ties, r) => ties.map((T, n) => `<div class="bcell" style="grid-column:${r + 1};grid-row:${n * (4 / ties.length) + 1} / span ${4 / ties.length}">${box(T)}</div>`).join('')).join('')
       + '</div></div>';
     finals.push(res.at(-1)[0]);
   }
-  if (B.conf) { // the final: the two conference winners, hosted by the better regular-season record
-    const sl = finals.map(T => ({ team: T.winner, cands: T.winner != null ? [T.winner] : T.slots.flatMap(x => x.cands), key: 'final' }));
-    const [a, b] = sl.map(x => x.team);
-    const T = { slots: sl, winner: a != null && b != null ? tieWinner(k, a, b) : null, match: a != null && b != null ? matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))) : [], key: 'champ' };
-    html += `<div class="section"><h2>Final</h2></div><div class="bfinal">${box(T)}</div>`;
+  if (groups.length > 1) { // the final: the winners of the two conferences or halves
+    const F = B.final || { key: 'champ', reach: 'final' };
+    html += `<div class="section"><h2>Final</h2></div><div class="bfinal">${box(mkTie(finals.map(T => winnerSlot(T, F.reach)), F.key))}</div>`;
   }
-  html += `<p class="note">Fixed bracket, no reseeding; the higher seed hosts. Percentages: ${regDone ? "a club's chance to win that tie" : "a club's chance to reach the next round, from the simulated seasons (seeds can still change)"}; faint: the likeliest club to reach a slot not yet decided, and its chance. Tap a tie for its match.</p>`;
+  const pct_ = regDone ? "a club's chance to win that tie" : "a club's chance to reach the next round, from the simulated seasons (seeds can still change)";
+  html += `<p class="note">${B.halves ? 'The draw decides which club of each pair (1/2, 3/4, 5/6, 7/8) and which matching play-off winner goes into each half; until then the halves are shown as 1, 8, 4, 5 and 2, 7, 3, 6. In a half the 1/2 tie meets the 7/8 tie in the quarter-finals, so 1 and 2 can only meet in the final. Two legs, a single final.' : 'Fixed bracket, no reseeding; the higher seed hosts.'} Percentages: ${pct_}; faint: the likeliest club to reach a slot not yet decided, and its chance. Tap a tie for its match.</p>`;
   return html;
 }
 
