@@ -16,7 +16,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
-      app.js             shell, routing (#/today, #/league/<k>/<matches|table|odds|scenarios|affinity>, #/picks, #/clubs/<club-slug>), views, sheets
+      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS; app.js BRACKET), #/picks, #/clubs/<club-slug>), views, sheets
       engine.js          scoreline grids (Dixon-Coles), market blend, FotMob pick, live grids, RNG; shared with Node
       sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups, mls, nwsl, usl, efl = Championship promotion, mex)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios

@@ -229,3 +229,25 @@ a.club-card { color: inherit; text-decoration: none; }
 .zc b { color: var(--fg); font-weight: 650; }
 .club-card .cc-top { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .club-card > div { min-width: 0; }
+
+/* ---------- bracket: rounds side by side (three columns fit 375px), ties centred against the round before */
+.bracket { margin-bottom: 8px; }
+.bhead, .bgrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 8px; }
+.bhead span { font-size: 11px; color: var(--faint); text-transform: uppercase; letter-spacing: .06em; padding: 0 2px 6px; }
+.bgrid { grid-template-rows: repeat(4, auto); }
+.bcell { display: flex; align-items: center; padding: 4px 0; }
+.bx { width: 100%; background: var(--card); border-radius: 10px; padding: 4px 5px; }
+.bx.click { cursor: pointer; }
+.bl { display: grid; grid-template-columns: 8px 16px minmax(0, 1fr) auto; align-items: center; gap: 3px; font-size: 12.5px; padding: 2px 0; min-width: 0; }
+.bl .crest { width: 15px; height: 15px; }
+.bl .sd { font-size: 9px; color: var(--faint); text-align: right; }
+.bl .ab { overflow: hidden; text-overflow: clip; white-space: nowrap; font-weight: 600; }
+.bl .v { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.bl .v small { font-size: 10px; margin-left: 1px; }
+.bl.tbd .ab { color: var(--faint); font-weight: 500; }
+.bl.lose .ab, .bl.lose .v { color: var(--faint); }
+.bl.win .v { color: var(--fg); font-weight: 700; }
+.bl.me .ab { color: var(--gold); }
+.bw { font-size: 10.5px; color: var(--faint); padding-top: 2px; }
+.wild { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: 10px; margin-bottom: 8px; max-width: 220px; }
+.bfinal { max-width: 160px; margin: 0 auto 6px; }

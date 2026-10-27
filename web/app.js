@@ -430,6 +430,7 @@ function viewLeague() {
   if (route.sub === 'matches') return viewMatches(k);
   if (route.sub === 'odds') return viewOdds(k);
   if (route.sub === 'scenarios') return viewScenarios(k);
+  if (route.sub === 'bracket' && BRACKET[LEAGUES[k].playoffs?.type]) return viewBracket(k);
   if (route.sub === 'affinity') return viewLeagueAffinity(k);
   return viewTable(k);
 }
@@ -448,6 +449,107 @@ function viewCups() {
     const won = !next && stage === 'final' && last ? (() => { const w = last.so ? (last.so[0] > last.so[1] ? last.h : last.a) : last.hs > last.as ? last.h : last.a; return `won by ${esc(L.teams[w].s)}`; })() : '';
     return `${head}<span class="aside">${esc(stageName(stage))}${won ? ' · ' + won : ''}</span></div><div class="card row-gap">${round.map(m => matchRow(c, m, { withDay: true })).join('') || '<div class="empty small">None</div>'}</div>`;
   }).join('') + `<p class="note">Your clubs' ties also show on Today and on their club cards; other ties fold into "more". Chances are for 90 minutes; a tie's chance to go through is on its match sheet.</p>`;
+}
+
+// ------------------------------------------------------------------ Bracket (fixed play-off brackets: USL, NWSL, MLS)
+// A tie is two slots; a slot is a seed (number, 0-based) or the winner of an earlier tie {t: [round, index]}.
+// key: the simulation round reached by winning that round's ties (sim.js bracket marks), for the chances shown.
+const W_ = (r, i) => ({ t: [r, i] });
+const BRACKET = {
+  usl: { conf: true, rounds: [
+    { name: 'Quarter-finals', key: 'csf', ties: [[0, 7], [3, 4], [1, 6], [2, 5]] },
+    { name: 'Semi-finals', key: 'cf', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+    { name: 'Conference final', key: 'final', ties: [[W_(1, 0), W_(1, 1)]] }] },
+  nwsl: { conf: false, rounds: [
+    { name: 'Quarter-finals', key: 'sf', ties: [[0, 7], [3, 4], [1, 6], [2, 5]] },
+    { name: 'Semi-finals', key: 'final', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+    { name: 'Final', key: 'champ', ties: [[W_(1, 0), W_(1, 1)]] }] },
+  mls: { conf: true, wild: { key: 'r1', tie: [7, 8] }, rounds: [
+    { name: 'Round One', key: 'csf', ties: [[0, { wild: 1 }], [3, 4], [1, 6], [2, 5]] },
+    { name: 'Semi-finals', key: 'cf', ties: [[W_(0, 0), W_(0, 1)], [W_(0, 2), W_(0, 3)]] },
+    { name: 'Conference final', key: 'final', ties: [[W_(1, 0), W_(1, 1)]] }] },
+};
+// The winner of the matches played so far between x and y in the post-season (a best-of-three counts games), or null
+function tieWinner(k, x, y) {
+  const ms = matchesOf(k).filter(m => m.stage && ((m.h === x && m.a === y) || (m.h === y && m.a === x)));
+  const won = m => (!isPlayed(m) ? null : m.so ? (m.so[0] > m.so[1] ? m.h : m.a) : m.hs > m.as ? m.h : m.hs < m.as ? m.a : null);
+  if (ms.some(m => m.series)) { const w = ms.map(won); return w.filter(v => v === x).length >= 2 ? x : w.filter(v => v === y).length >= 2 ? y : null; }
+  const last = ms.filter(isPlayed).at(-1); return last && !ms.some(m => !isPlayed(m) && m.t > last.t) ? won(last) : null;
+}
+function viewBracket(k) {
+  const L = D[k], rules = LEAGUES[k], B = BRACKET[rules.playoffs.type], S = SIM[k]?.sim, fav = favIds();
+  const st = standings(L, matchesOf(k), rules), regDone = !regular(matchesOf(k)).some(m => !isPlayed(m) && m.st !== 'canc');
+  let groups = B.conf ? st.groups.map(g => ({ name: g.name, seeds: g.idx.map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => r.i) }))
+    : [{ name: '', seeds: st.groups.flatMap(g => g.idx).map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => r.i) }];
+  groups.sort((a, b) => b.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)) - a.seeds.slice(0, 9).some(i => fav.has(L.teams[i].id)));
+  const reach = (i, key) => S?.teams[i]?.rounds?.[key];
+  const seedOf = new Map(); groups.forEach(g => g.seeds.forEach((i, n) => seedOf.set(i, n + 1)));
+  // resolve every tie of one group: {slots: [[team or null, candidates]], winner, match}
+  const solve = g => {
+    const res = [];
+    const wildW = B.wild ? tieWinner(k, g.seeds[B.wild.tie[0]], g.seeds[B.wild.tie[1]]) : null;
+    const slot = (sl, r, key) => {
+      if (typeof sl === 'number') return { team: g.seeds[sl], cands: [g.seeds[sl]] };
+      if (sl.wild) { const c = B.wild.tie.map(n => g.seeds[n]); return { team: wildW, cands: wildW != null ? [wildW] : c, key: B.wild.key }; }
+      const T = res[sl.t[0]][sl.t[1]];
+      return { team: T.winner, cands: T.winner != null ? [T.winner] : T.slots.flatMap(x => x.cands), key: B.rounds[sl.t[0]].key };
+    };
+    B.rounds.forEach((R, r) => {
+      res[r] = R.ties.map(tie => {
+        const slots = tie.map(sl => slot(sl, r));
+        const [a, b] = slots.map(x => x.team);
+        const winner = a != null && b != null ? tieWinner(k, a, b) : null;
+        const match = a != null && b != null ? matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))).sort((x, y) => x.t.localeCompare(y.t)) : [];
+        return { slots, winner, match, key: R.key };
+      });
+    });
+    return { res, wildW };
+  };
+  // one line of a tie box: a known club (seed, crest, abbreviation, score or chance to win the tie) or, before it's
+  // known, the likeliest club to get there (faint, with that chance)
+  const line = (x, T, side) => {
+    const known = x.team != null;
+    let i = known ? x.team : x.cands.slice().sort((p, q) => (reach(q, x.key) ?? 0) - (reach(p, x.key) ?? 0))[0];
+    if (i == null) return `<div class="bl tbd">TBD</div>`;
+    const t = L.teams[i], ms = T.match, last = ms.filter(isPlayed).at(-1), live = ms.find(m => m.st === 'live');
+    let v = '';
+    if (live) v = `<span class="live">${live.h === i ? live.hs : live.as}</span>`;
+    else if (T.winner != null && last) v = ms.some(m => m.series) ? String(ms.filter(m => isPlayed(m) && (m.so ? (m.so[0] > m.so[1]) === (m.h === i) : (m.h === i ? m.hs > m.as : m.as > m.hs))).length)
+      : `${last.h === i ? last.hs : last.as}${last.so ? `<small>(${last.h === i ? last.so[0] : last.so[1]})</small>` : ''}`;
+    else if (known) { const p = reach(i, T.key); v = p == null ? '' : pctTxt(p); }
+    else { const p = reach(i, x.key); v = p == null ? '' : `<span class="faint">${pctTxt(p)}</span>`; }
+    const cls = [known ? '' : 'tbd', T.winner != null ? (T.winner === i ? 'win' : 'lose') : '', fav.has(t.id) ? 'me' : ''].join(' ');
+    return `<div class="bl ${cls}"><span class="sd">${seedOf.get(i) ?? ''}</span>${crest(t)}<span class="ab">${esc(t.a || t.s)}</span><span class="v">${v}</span></div>`;
+  };
+  const box = T => {
+    const m = T.match.find(m => !isPlayed(m)) || T.match.at(-1);
+    const short = t => { const d = dayKey(t), l = dayLabel(d); return /^(Today|Tomorrow|Yesterday)$/.test(l) ? l : `${new Date(t).toLocaleDateString([], { weekday: 'short' })} ${new Date(t).getDate()}`; };
+    const when = m && !isPlayed(m) && m.st !== 'live' ? `<div class="bw">${esc(short(m.t))} · ${fmtTime(m.t)}</div>` : '';
+    return `<div class="bx${m ? ' click' : ''}"${m ? ` data-match="${k}:${m.id}"` : ''}>${line(T.slots[0], T, 0)}${line(T.slots[1], T, 1)}${when}</div>`;
+  };
+  let html = regDone ? '' : `<p class="note" style="margin-top:4px">The regular season isn't over: seeds as the table stands now, chances from the simulation.</p>`;
+  const finals = [];
+  for (const g of groups) {
+    const { res } = solve(g);
+    if (B.conf) html += `<div class="section"><h2>${esc(g.name)}</h2></div>`;
+    if (B.wild) {
+      const a = g.seeds[B.wild.tie[0]], b = g.seeds[B.wild.tie[1]], w = tieWinner(k, a, b);
+      const T = { slots: [{ team: a, cands: [a] }, { team: b, cands: [b] }], winner: w, match: matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))), key: B.wild.key };
+      html += `<div class="wild"><span class="small muted">Wild card</span>${box(T)}</div>`;
+    }
+    html += `<div class="bracket"><div class="bhead">${B.rounds.map(R => `<span>${esc(R.name)}</span>`).join('')}</div><div class="bgrid">`
+      + res.map((ties, r) => ties.map((T, n) => `<div class="bcell" style="grid-column:${r + 1};grid-row:${n * (4 / ties.length) + 1} / span ${4 / ties.length}">${box(T)}</div>`).join('')).join('')
+      + '</div></div>';
+    finals.push(res.at(-1)[0]);
+  }
+  if (B.conf) { // the final: the two conference winners, hosted by the better regular-season record
+    const sl = finals.map(T => ({ team: T.winner, cands: T.winner != null ? [T.winner] : T.slots.flatMap(x => x.cands), key: 'final' }));
+    const [a, b] = sl.map(x => x.team);
+    const T = { slots: sl, winner: a != null && b != null ? tieWinner(k, a, b) : null, match: a != null && b != null ? matchesOf(k).filter(m => m.stage && ((m.h === a && m.a === b) || (m.h === b && m.a === a))) : [], key: 'champ' };
+    html += `<div class="section"><h2>Final</h2></div><div class="bfinal">${box(T)}</div>`;
+  }
+  html += `<p class="note">Fixed bracket, no reseeding; the higher seed hosts. Percentages: ${regDone ? "a club's chance to win that tie" : "a club's chance to reach the next round, from the simulated seasons (seeds can still change)"}; faint: the likeliest club to reach a slot not yet decided, and its chance. Tap a tie for its match.</p>`;
+  return html;
 }
 
 function viewMatches(k) {
@@ -1130,7 +1232,7 @@ function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'picks', 'clubs'].includes(p[0]) ? p[0] : 'today';
   if (tab === 'clubs') route.club = p[1] || null;
-  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
@@ -1161,7 +1263,9 @@ function chrome() {
       const a = on.getBoundingClientRect(), c = chips.getBoundingClientRect();
       if (a.left < c.left || a.right > c.right) chips.scrollLeft += a.left - c.left - 16;
     }
-    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ['odds', 'Race'], ['scenarios', 'Scenarios'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
+    const hasBracket = !!BRACKET[LEAGUES[route.lg]?.playoffs?.type];
+    if (route.sub === 'bracket' && !hasBracket) route.sub = 'table';
+    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ...(hasBracket ? [['bracket', 'Bracket']] : []), ['odds', 'Race'], ['scenarios', 'Scenarios'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
   }
   const st = store.status(); $('#sync-dot').className = 'sync-dot' + (st === 'synced' ? ' on' : st === 'error' ? ' err' : '');
 }
