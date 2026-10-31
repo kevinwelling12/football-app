@@ -173,9 +173,9 @@ async function pollLive() {
         for (const e of d.events || []) {
           const p = parseEvent(e); if (!p || !L.byId.has(p.m.id)) continue;
           const m = p.m; if (m.st === 'pre') continue;
-          const v = { st: m.st, hs: m.hs, as: m.as, min: m.min, rc: m.rc, clock: m.clock };
+          const v = { st: m.st, hs: m.hs, as: m.as, min: m.min, rc: m.rc, clock: m.clock, ...(m.so ? { so: m.so } : {}) }; // so: the shootout, which decides a tie level after extra time
           const cur = LIVE[k]?.[m.id];
-          if (!cur || cur.hs !== v.hs || cur.as !== v.as || cur.st !== v.st || cur.min !== v.min) { (LIVE[k] = LIVE[k] || {})[m.id] = v; changed = true; }
+          if (!cur || cur.hs !== v.hs || cur.as !== v.as || cur.st !== v.st || cur.min !== v.min || String(cur.so) !== String(v.so)) { (LIVE[k] = LIVE[k] || {})[m.id] = v; changed = true; }
         }
       } catch { /* offline: manual entry still works */ }
     }
@@ -254,9 +254,11 @@ function matchRow(k, m, { showLeague = false, withDay = false } = {}) {
   else if (m.st === 'ppd') time = 'Ppd'; else if (m.st === 'canc') time = 'Canc';
   else time = fmtTime(m.t);
   if (withDay && !played && !live && dayKey(m.t) !== dayKey(Date.now())) time = `<div class="tiny">${new Date(m.t).toLocaleDateString([], { weekday: 'short' })} ${new Date(m.t).getDate()}</div>${time}`;
-  const wl = side => (played ? (Math.sign(m.hs - m.as) * (side === 'h' ? 1 : -1) > 0 ? 'win' : m.hs === m.as ? '' : 'lose') : '');
+  // the winner: on goals, or for a match level after extra time on the shootout
+  const diff = m.hs !== m.as || !m.so ? m.hs - m.as : m.so[0] - m.so[1];
+  const wl = side => (played ? (Math.sign(diff) * (side === 'h' ? 1 : -1) > 0 ? 'win' : diff === 0 ? '' : 'lose') : '');
   let right = '';
-  if (played || live) right = `<div class="mside"><b class="score">${m.hs}</b><b class="score">${m.as}</b></div>`;
+  if (played || live) right = `<div class="mside"><b class="score">${m.hs}${m.so ? `<small class="so">(${m.so[0]})</small>` : ''}</b><b class="score">${m.as}${m.so ? `<small class="so">(${m.so[1]})</small>` : ''}</b></div>`;
   else if (m.lh) {
     const p = probsFor(L, m);
     const lead = p.H >= p.A ? [H.a, p.H] : [A.a, p.A];
