@@ -370,8 +370,13 @@ function cupShown(k, m) { const fav = favIds(), L = D[k]; return fav.has(L.teams
 function quiet(k) { if (MAIN.includes(k)) return false; const fav = favIds(); return !(D[k]?.teams || []).some(t => fav.has(t.id)); }
 
 // proven out of the post-season (eliminated from the widest place that goes on): its post-season chances show as –
-function postOut(rules, R, i) {
-  if (!rules.playoffs || !R?.status) return false;
+// out of the post-season, proven: missed it (clinch proof) or lost a knockout tie already decided
+function postOut(k, i) {
+  const rules = LEAGUES[k], R = SIM[k];
+  if (!rules.playoffs) return false;
+  const opps = new Set(matchesOf(k).filter(m => m.stage && isPlayed(m) && (m.h === i || m.a === i)).map(m => (m.h === i ? m.a : m.h)));
+  for (const y of opps) if (tieWinner(k, i, y) === y) return true;
+  if (!R?.status) return false;
   const widest = rules.zones.filter(z => z.tone !== 'bad' && z.tone !== 'warn').reduce((a, z) => (!a || z.to > a.to ? z : a), null);
   return !!widest && R.status[widest.key]?.[i] === 'out';
 }
@@ -386,7 +391,7 @@ function headline(k, i) {
     if (!best || Math.abs(p - 0.5) < Math.abs(best.p - 0.5)) best = { p, label: z.tone === 'bad' ? 'Relegation' : z.short };
   }
   if (best) return best;
-  if (postOut(rules, SIM[k], i)) return null;
+  if (postOut(k, i)) return null;
   if (t.rounds.up != null) return { p: t.rounds.up, label: 'Promotion' };
   const champ = t.rounds.champ; if (champ != null) return { p: champ, label: rules.playoffs?.type === 'ucl' ? 'Win it' : 'Title' };
   const title = t.zone.title ?? t.zone.shield; return title != null ? { p: title, label: 'Title' } : null;
@@ -671,7 +676,7 @@ function viewOdds(k) {
       const t = L.teams[i], T = S.teams[i];
       const cells = cols.map(c => {
         const isZone = rules.zones.some(z => z.key === c);
-        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : postOut(rules, R, i) ? 'out' : null;
+        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : postOut(k, i) ? 'out' : null;
         const z = rules.zones.find(z => z.key === c), tone = z ? toneVar(z.tone) : 'var(--gold)';
         const heat = status ? 0 : p * 0.32;
         return `<td class="pct"><span class="heat" style="background:${tone};opacity:${heat}"></span><b>${pct(p, status)}</b></td>`;
@@ -1171,7 +1176,7 @@ function clubBody(k, i, page = false) {
   // one line per competition: each zone's chance (short label), the post-season rounds, projected points
   const chances = comps.map(([k2, j]) => {
     const R2 = SIM[k2]?.sim ? SIM[k2] : null; if (!R2) return '';
-    const r2 = LEAGUES[k2], T = R2.sim.teams[j], out = postOut(r2, R2, j);
+    const r2 = LEAGUES[k2], T = R2.sim.teams[j], out = postOut(k2, j);
     const chip = (label, v) => `<span class="zc"><b>${v}</b> ${esc(label)}</span>`;
     const zs = r2.zones.map(z => chip(z.tone === 'bad' ? 'Down' : z.short, pct(T.zone[z.key], R2.status[z.key]?.[j]) + (R2.status[z.key]?.[j] ? '' : '%')));
     const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => chip(roundName(r2, r), out ? pct(p, 'out') : pct(p) + '%'));
