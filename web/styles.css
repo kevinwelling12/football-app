@@ -17,7 +17,9 @@
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; overscroll-behavior-y: none; }
-body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.4 var(--font); font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; padding-bottom: calc(72px + var(--safe-b)); }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.4 var(--font); font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
+/* the tab bar is sticky, last in the page, not fixed: iOS home-screen apps (iOS 27) sometimes let fixed elements scroll with the page */
+#view { flex: 1 0 auto; width: 100%; box-sizing: border-box; }
 button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
 a { color: inherit; text-decoration: none; }
 img { display: block; }
@@ -185,7 +187,7 @@ tr.me td.club span { font-weight: 600; }
 .star { font-size: 20px; color: var(--faint); padding: 6px; } .star.on { color: var(--gold); }
 
 /* ---------- tab bar */
-.tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 30; display: flex; justify-content: center; gap: 0; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px); border-top: 1px solid var(--line); padding: 6px 8px calc(6px + var(--safe-b)); }
+.tabbar { position: sticky; bottom: 0; margin-top: 16px; z-index: 30; display: flex; justify-content: center; gap: 0; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px); border-top: 1px solid var(--line); padding: 6px 8px calc(6px + var(--safe-b)); }
 .tabbar a { flex: 1; max-width: 140px; display: grid; justify-items: center; gap: 2px; padding: 4px 0; color: var(--faint); font-size: 10.5px; font-weight: 500; }
 .tabbar svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .tabbar a.on { color: var(--fg); }

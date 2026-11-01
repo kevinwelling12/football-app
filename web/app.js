@@ -955,7 +955,7 @@ function openSheet(html, { keep = false } = {}) {
   if (open && keep) { morph($('#sheet-body'), html); return; }
   $('#sheet-body').innerHTML = html; $('#sheet').hidden = false; $('#scrim').hidden = false; $('#sheet').scrollTop = 0; document.body.style.overflow = 'hidden';
 }
-function closeSheet() { $('#sheet').classList.remove('qopen'); $('#sheet').hidden = true; $('#scrim').hidden = true; document.body.style.overflow = ''; sheetCtx = null; pinSoon(); }
+function closeSheet() { $('#sheet').classList.remove('qopen'); $('#sheet').hidden = true; $('#scrim').hidden = true; document.body.style.overflow = ''; sheetCtx = null; }
 let sheetCtx = null;
 
 function matchSheet(k, id) {
@@ -1370,20 +1370,6 @@ $('#scrim').addEventListener('click', closeSheet);
 $('#settings-btn').addEventListener('click', () => settingsSheet());
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeSheet(); });
 window.addEventListener('hashchange', () => { parseHash(); closeSheet(); window.scrollTo(0, 0); render(); });
-// iOS home-screen apps sometimes lay out fixed elements against a stale, shorter viewport (after the keyboard, a
-// sheet or a return from the background), which leaves the tab bar floating mid-screen. Re-lay it out on those
-// events and, if it still doesn't end at the visible bottom, shift it there.
-function pinTabbar() {
-  const bar = $('#tabbar'), vv = window.visualViewport; if (!bar) return;
-  bar.style.transform = ''; bar.style.display = 'none'; void bar.offsetHeight; bar.style.display = '';
-  if (!vv || Math.abs(vv.scale - 1) > 0.01) return; // pinch-zoomed: fixed elements follow the page, leave it
-  const gap = Math.round(vv.height + vv.offsetTop - bar.getBoundingClientRect().bottom);
-  if (Math.abs(gap) > 2) bar.style.transform = `translateY(${gap}px)`;
-}
-var pinT = 0; function pinSoon() { clearTimeout(pinT); pinT = setTimeout(pinTabbar, 120); }
-for (const e of ['resize', 'orientationchange', 'pageshow', 'focusout']) window.addEventListener(e, pinSoon);
-document.addEventListener('visibilitychange', () => { if (!document.hidden) pinSoon(); });
-window.visualViewport?.addEventListener('resize', pinSoon);
 store.on(() => { for (const k of ORDER) if (D[k] && SIM[k]) runSim(k); render(); });
 
 // ------------------------------------------------------------------ pull to refresh
