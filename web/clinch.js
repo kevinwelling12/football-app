@@ -35,6 +35,21 @@ function zoneStatus(z, t, peers, pts, left) {
   return null;
 }
 
+// The same with total wins as the first tiebreaker (MLS): a rival level on points is above t only if it can also have
+// at least t's wins (t losing the rest for 'in'); it is surely above when it already has more wins than t can reach
+// (t winning the rest for 'out'). Other tiebreakers (goal difference) still count against t both ways.
+function zoneStatusW(z, t, peers, pts, left, wins) {
+  if (!wins) return zoneStatus(z, t, peers, pts, left);
+  const max = i => pts[i] + 3 * left[i], M = max(t), Wt = wins[t] + left[t];
+  // level on points only at its maximum, which means winning every match left
+  const canPass = i => max(i) > pts[t] || (max(i) === pts[t] && wins[i] + left[i] >= wins[t]);
+  let canCatch = 0, surelyAbove = 0;
+  for (const i of peers) { if (i === t) continue; if (canPass(i)) canCatch++; if (pts[i] > M || (pts[i] === M && wins[i] > Wt)) surelyAbove++; }
+  if (canCatch < z.to && surelyAbove >= z.from - 1) return 'in';
+  if (surelyAbove >= z.to || canCatch < z.from - 1) return 'out';
+  return null;
+}
+
 // ---- exact-ish proofs with remaining fixtures (rivals that still meet can't all win)
 // Relaxations keep both proofs sound: for "clinched" a match may hand its 3 points out in any split (more outcomes than
 // real football), for "eliminated" a match hands out only 2 (every real result gives at least that). If even the relaxed
@@ -158,11 +173,11 @@ export function statuses(L, rules, matches, sim) {
 }
 
 const OUTS = ['H', 'D', 'A'];
-const apply = (pts, left, m, o) => { left[m.h]--; left[m.a]--; if (o === 'H') pts[m.h] += 3; else if (o === 'A') pts[m.a] += 3; else { pts[m.h]++; pts[m.a]++; } };
+const apply = (pts, left, m, o, wins) => { left[m.h]--; left[m.a]--; if (o === 'H') { pts[m.h] += 3; if (wins) wins[m.h]++; } else if (o === 'A') { pts[m.a] += 3; if (wins) wins[m.a]++; } else { pts[m.h]++; pts[m.a]++; } };
 
 // Scenario text for club t and zone z in its next round. Returns null when nothing can change this round.
 export function scenarios(L, rules, matches, t, z, { maxOthers = 6, windowDays = 4 } = {}) {
-  const { pts, left } = table(L, matches);
+  const { pts, left, wins: w } = table(L, matches), wins = rules.tiebreak[1] === 'w' ? w : null;
   const peers = peersFor(L, rules, z, t);
   const now = zoneStatus(z, t, peers, pts, left);
   if (now) return { already: now };
@@ -182,10 +197,10 @@ export function scenarios(L, rules, matches, t, z, { maxOthers = 6, windowDays =
     const combos = [];
     const n = others.length, total = 3 ** n;
     for (let c = 0; c < total; c++) {
-      const p = pts.slice(), lf = left.slice(); apply(p, lf, mine, tOut(o));
+      const p = pts.slice(), lf = left.slice(), wn = wins && wins.slice(); apply(p, lf, mine, tOut(o), wn);
       const asg = []; let x = c;
-      for (let j = 0; j < n; j++) { const oo = OUTS[x % 3]; x = (x / 3) | 0; asg.push(oo); apply(p, lf, others[j], oo); }
-      combos.push({ asg, s: zoneStatus(z, t, peers, p, lf) });
+      for (let j = 0; j < n; j++) { const oo = OUTS[x % 3]; x = (x / 3) | 0; asg.push(oo); apply(p, lf, others[j], oo, wn); }
+      combos.push({ asg, s: zoneStatusW(z, t, peers, p, lf, wn) });
     }
     for (const kind of ['in', 'out']) {
       const good = combos.filter(c => c.s === kind);
