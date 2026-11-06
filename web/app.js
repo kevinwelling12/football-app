@@ -197,7 +197,7 @@ function affPicks() {
 }
 // Cities Kevin loves (2026-11-07; "location, location, location" for San Diego FC): every club within 60 km gets the
 // "A city you love" feature, fitted from his picks like any trait
-const LOVE_CITIES = { 'San Diego': [32.72, -117.16], Portland: [45.52, -122.68], Seattle: [47.61, -122.33] };
+const LOVE_CITIES = { 'San Diego': [32.72, -117.16], Portland: [45.52, -122.68], Seattle: [47.61, -122.33], Austin: [30.27, -97.74] }; // Austin: "by far the best city in Texas"
 function loveIds() {
   const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
   return new Set(Object.entries(TRAITS).filter(([, c]) => c.ll && Object.values(LOVE_CITIES).some(ll => km(ll, c.ll) < 60)).map(([id]) => id));
