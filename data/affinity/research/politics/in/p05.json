@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "17832",
+  "name": "Louisville City FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Community work; Racing Louisville abuse-coach case in 2021",
+   "voice": "Supporters' group influential but no formal power",
+   "city": "Louisville's main club, strong local pride",
+   "stewardship": "Local owner Soccer Holdings built the stadium",
+   "terrace": "The Coopers (2013) predate the club, strongest in USL"
+  }
+ },
+ {
+  "espn_id": "18159",
+  "name": "Miami FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "No local bond, lowest crowds in USL",
+   "stewardship": "Riccardo Silva, private",
+   "terrace": "Dade Brigade, tiny"
+  }
+ },
+ {
+  "espn_id": "21370",
+  "name": "Monterey Bay",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "Regional club, modest bond",
+   "stewardship": "Regional businessman Ray Beshoff",
+   "terrace": "Several small supporter groups"
+  }
+ },
+ {
+  "espn_id": "19408",
+  "name": "New Mexico United",
+  "league": "usl",
+  "notes": {
+   "conscience": "Somos Unidos Foundation, community work",
+   "voice": "None",
+   "city": "Statewide identity",
+   "stewardship": "Local owner Peter Trevisani",
+   "terrace": "The Curse and four other groups, known in USL"
+  }
+ },
+ {
+  "espn_id": "20687",
+  "name": "Oakland Roots",
+  "league": "usl",
+  "notes": {
+   "conscience": "Common Goal pledge, Justice Fund; mission-driven",
+   "voice": "Community investor structure",
+   "city": "Oakland identity and pride",
+   "stewardship": "Founders and community investors",
+   "terrace": "La Union 1852 groups"
+  }
+ },
+ {
+  "espn_id": "18455",
+  "name": "Orange County SC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "Weak local bond",
+   "stewardship": "James Keston, stable",
+   "terrace": "County Line Coalition"
+  }
+ },
+ {
+  "espn_id": "17850",
+  "name": "Phoenix Rising FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "2020 homophobic slur case",
+   "voice": "None",
+   "city": "Weak bond",
+   "stewardship": "Pablo Prichard",
+   "terrace": "Los Bandidos"
+  }
+ },
+ {
+  "espn_id": "17827",
+  "name": "Pittsburgh Riverhounds",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "Small Pittsburgh bond",
+   "stewardship": "Tuffy Shallenberger, local",
+   "terrace": "Steel Army (2007)"
+  }
+ },
+ {
+  "espn_id": "22164",
+  "name": "Rhode Island FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing found either way (estimate)",
+   "voice": "none documented",
+   "city": "the state's pro soccer club, new but popular",
+   "stewardship": "local owners Brett Johnson and ex-player Michael Parkhurst",
+   "terrace": "Rhode Island Defiance 1636 supporters, young group"
+  }
+ },
+ {
+  "espn_id": "17828",
+  "name": "Sacramento Republic FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "tribal-nation ownership, community work",
+   "voice": "TBB lobbied city council for the stadium and the MLS bid; no ownership stake or documented formal club consultation",
+   "city": "the city's soccer club, beloved but behind the Kings",
+   "stewardship": "Wilton Rancheria majority, privately financed Railyards stadium 2028",
+   "terrace": "Tower Bridge Battalion (since 2013, a couple thousand behind the goal with capos and drums), known across USL, not beyond"
+  }
+ },
+ {
+  "espn_id": "18265",
+  "name": "San Antonio FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing found either way",
+   "voice": "none",
+   "city": "Spurs city, the club a secondary attraction",
+   "stewardship": "Spurs Sports & Entertainment, stable",
+   "terrace": "Crocketteers and Mission City Firm"
+  }
+ },
+ {
+  "espn_id": "131578",
+  "name": "Sporting JAX",
+  "league": "usl",
+  "notes": {
+   "conscience": "women's team launched before the men",
+   "voice": "none",
+   "city": "new club in an NFL city",
+   "stewardship": "local owners Caplin, Tebow, Taylor",
+   "terrace": "no established group"
+  }
+ },
+ {
+  "espn_id": "17361",
+  "name": "Tampa Bay Rowdies",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing notable",
+   "voice": "none",
+   "city": "St. Petersburg club in a pro-sports market",
+   "stewardship": "Zalupski group since 2025",
+   "terrace": "Ralph's Mob"
+  }
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp",
+  "notes": {
+   "conscience": "Estimate: no racism sanction found; Antiviolencia proposed a fine and closure over club support for the Iraultza 1921 ultras (murals), not for abuse",
+   "voice": "Private SAD; no documented fan influence found",
+   "city": "Vitoria-Gasteiz's football club, 'El Glorioso'; city also lives through Baskonia basketball",
+   "stewardship": "Baskonia-Alavés Group of José Antonio Querejeta, local owner who rebuilt the club",
+   "terrace": "Ultras group Iraultza 1921 (left-wing), loud but small"
+  }
+ },
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp",
+  "notes": {
+   "conscience": "Nothing notable found at San Mamés; Basque-only cantera and community foundation, players targeted away (Williams, Sannadi)",
+   "voice": "Member-owned, members elect the president; not a sports corporation",
+   "city": "Bilbao and Basque identity are bound to the club",
+   "stewardship": "Members (president Jon Uriarte); president cannot invest own money",
+   "terrace": "San Mamés is loud and committed; ultras group Herri Norte known in Spain, not a world-famous end"
+  }
+ },
+ {
+  "espn_id": "1068",
+  "name": "Atlético Madrid",
+  "league": "esp",
+  "notes": {
+   "conscience": "racism fines and Vinícius effigy convictions",
+   "voice": "no fan voice; contested 1990s SAD conversion",
+   "city": "Madrid's working-class counterweight to Real",
+   "stewardship": "Apollo private equity majority since 2026; Riyadh Air (Saudi state) sponsor",
+   "terrace": "Frente Atlético drives the noise but has far-right roots"
+  }
+ },
+ {
+  "espn_id": "83",
+  "name": "Barcelona",
+  "league": "esp",
+  "notes": {
+   "conscience": "Catalan, UNICEF history, La Masia; Nazi-salute fines",
+   "voice": "member-owned, socis elect president",
+   "city": "Catalan identity, 'Més que un club'",
+   "stewardship": "member-owned but sold future TV rights, heavy debt, Super League to 2026",
+   "terrace": "Grada d'Animació, but Camp Nou crowds touristy"
+  }
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp",
+  "notes": {
+   "conscience": "Celtarras left-wing; first woman president (Marián Mouriño); nothing notable found on sanctions",
+   "voice": "Mouriño family holds 67.9%; fans have little formal say",
+   "city": "Vigo's only big club, an industrial port city with strong Galician identity",
+   "stewardship": "Carlos Mouriño (Spanish-Mexican businessman) since 2006; long-term, academy-first under Giráldez",
+   "terrace": "Celtarras (left-wing Galician ultras) plus wider Marea Celeste support; known in Spain"
+  }
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp",
+  "notes": {
+   "conscience": "2026: police seized weapons from Riazor Blues, anti-violence commission classed them violent and proposed closing Riazor; 2014 death of a fan in a brawl",
+   "voice": "Bank owns 99%; fans organised in ~200 peñas with no real power",
+   "city": "A Coruña's soul; 25,000 season tickets even in the third tier",
+   "stewardship": "Abanca (bank controlled by Juan Carlos Escotet) owns 99%; rescued and funds the club",
+   "terrace": "Riazor Blues: big, loud, left-wing ultras group, famous across Spain"
+  }
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "Private owner; no documented fan power (estimate)",
+   "city": "Elche's only professional club; a mid-sized working city (estimate)",
+   "stewardship": "Christian Bragarnik, Argentine football agent; agent-owner conflict of interest",
+   "terrace": "Organised home end known locally (estimate)"
+  }
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp",
+  "notes": {
+   "conscience": "Feb 2025 match halted for racist abuse of Sannadi; Espanyol fan convicted in 2025 for abusing Williams (2020)",
+   "voice": "No fan ownership or documented influence",
+   "city": "Barcelona's second club, moved to suburban Cornellà-El Prat in 2009",
+   "stewardship": "Velocity Sports Partners (Alan Pace, US investment, Burnley owner) since Oct 2025; multi-club link",
+   "terrace": "Curva end; historic far-right Brigadas Blanquiazules; known locally"
+  }
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp",
+  "notes": {
+   "conscience": "RFEF ordered a three-match partial stand closure (April 2024) for racist abuse of Sevilla's Acuña and Sánchez Flores",
+   "voice": "Owner-run; 18 peñas and 12,000 socios with no real say",
+   "city": "Suburban town club (founded 1983) south of Madrid; many locals follow Real or Atlético",
+   "stewardship": "Ángel Torres, local businessman, owner and president since 2002",
+   "terrace": "Small ultras group (Comandos Azules); quiet home ends"
+  }
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp",
+  "notes": {
+   "conscience": "Nothing notable found; ordinary community work (estimate)",
+   "voice": "S.A.D. with shares largely held by the club foundation and small shareholders after 2010s rescue (estimate)",
+   "city": "Valencia's second club, rooted in Orriols/Camins al Grau; lives in Valencia CF's shadow",
+   "stewardship": "President Pablo Sánchez; foundation/small-shareholder model, no outside investor found (estimate)",
+   "terrace": "Organised home end known locally, not beyond Spain (estimate)"
+  }
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp",
+  "notes": {
+   "conscience": "Nothing notable found; estimate",
+   "voice": "Estimate: fan protests against Al Thani; club run by a court administrator, not fans",
+   "city": "Málaga's main club, strong local following through lower divisions",
+   "stewardship": "Sheikh Abdullah Al Thani (private investor) barred by a judge since 2020; court administrator José María Muñoz; 2026 arrest warrant over club funds",
+   "terrace": "Estimate: organised ultras section, known locally"
+  }
+ }
+]

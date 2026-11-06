@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "435",
+  "name": "Olympiacos",
+  "league": "uel",
+  "notes": {
+   "conscience": "Police officer killed by a flare at an Olympiacos v Panathinaikos volleyball match (Dec 2023); 142 fans on trial for criminal organisation and violence (2025)",
+   "voice": "No supporter ownership or documented influence",
+   "city": "Piraeus's club, seen as the port's working-class, anti-establishment side v Athens",
+   "stewardship": "Evangelos Marinakis, shipping magnate; multi-club with Nottingham Forest and Rio Ave; on trial (2025) for allegedly backing a violent fan group",
+   "terrace": "Gate 7 ultras, famous across Europe for intimidating atmospheres"
+  }
+ },
+ {
+  "espn_id": "617",
+  "name": "Omonia Nicosia",
+  "league": "uel",
+  "notes": {
+   "conscience": "Founded by left-wing players expelled from APOEL; left/working-class identity; nothing notable sanctioned found",
+   "voice": "Members voted in 2018 to hand football to a private company; fan control ended",
+   "city": "Nicosia's working-class, left-leaning 'people's club', sharing the city with APOEL",
+   "stewardship": "Stavros Papastavrou, US-based Cypriot businessman, owns the football company since 2018",
+   "terrace": "Main ultras Gate 9 quit the football team in 2018 to found PAC Omonia 29M; remaining support still sizeable"
+  }
+ },
+ {
+  "espn_id": "2790",
+  "name": "RB Salzburg",
+  "league": "uel",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "None; 2005 fan protests over colours and name ignored, fans left",
+   "city": "Red Bull rebrand of Austria Salzburg; stadium in suburban Wals-Siezenheim; weak local bond",
+   "stewardship": "Red Bull GmbH; part of the Red Bull multi-club network with RB Leipzig",
+   "terrace": "Small ultras scene; traditional fans left in 2005 to form SV Austria Salzburg"
+  }
+ },
+ {
+  "espn_id": "3746",
+  "name": "SK Sturm Graz",
+  "league": "uel",
+  "notes": {
+   "conscience": "Nothing notable found; no UEFA fan sanctions found 2024-25 (estimate)",
+   "voice": "Member club, 20,400 members; the association owns 100% of the pro company",
+   "city": "Graz's bigger club, sharing the city with Grazer AK",
+   "stewardship": "Member-owned; president Christian Jauk",
+   "terrace": "Nordkurve groups Jewels Sturm and Brigata Graz (1994); loud, known in Austria"
+  }
+ },
+ {
+  "espn_id": "433",
+  "name": "Sparta Prague",
+  "league": "uel",
+  "notes": {
+   "conscience": "Racist abuse of Tchouaméni (2021, UEFA charge and crowd ban); fans' Nazi salutes in Olomouc May 2025 (club issued lifetime bans)",
+   "voice": "No fan ownership or documented influence",
+   "city": "Shares Prague with Slavia; one of the two big city clubs",
+   "stewardship": "J&T Credit Investments 60%, Daniel Křetínský 40%; billionaire ownership",
+   "terrace": "Letenští ultras; loud, known in Czech football"
+  }
+ },
+ {
+  "espn_id": "21615",
+  "name": "Torreense",
+  "league": "uel",
+  "notes": {
+   "conscience": "Nothing notable found; little documented inclusion work (estimate)",
+   "voice": "The club bought back majority control of its SAD (about 86%) from a Chinese investor",
+   "city": "Main club of Torres Vedras, a small town of ~80,000; founded 1917",
+   "stewardship": "Club (members' association) holds the majority of its SAD; no outside owner found",
+   "terrace": "No organised singing end documented (estimate)"
+  }
+ },
+ {
+  "espn_id": "5807",
+  "name": "Union St.-Gilloise",
+  "league": "uel",
+  "notes": {
+   "conscience": "'Anti-fascist Unionist for Life' unofficial motto; progressive, anti-racist support; nothing notable sanctioned found",
+   "voice": "Privately owned; no formal supporter power found (estimate)",
+   "city": "Neighbourhood club of Saint-Gilles/Forest and the Marolles in Brussels, sharing the city with Anderlecht",
+   "stewardship": "Alex Muzio majority owner and chairman since 2023 (Tony Bloom's co-investor; Bloom had majority 2018-23); analytics-led model",
+   "terrace": "Union Bhoys on the all-standing Tribune Est; atmosphere widely praised in Belgium"
+  }
+ },
+ {
+  "espn_id": "11706",
+  "name": "Viktoria Plzen",
+  "league": "uel",
+  "notes": {
+   "conscience": "UEFA fined EUR 15,000 plus a suspended partial closure for a 'We need to fight the Turks' banner v Fenerbahce (Nov 2025).",
+   "voice": "Privately owned; no documented supporter influence.",
+   "city": "Plzen's club and identity, a working brewing and industrial city.",
+   "stewardship": "FCVP GmbH (Austrian investors Martin Dellenbach and Raphael Landthaler) majority since 2023; Adolf Sadek minority and chairman.",
+   "terrace": "Organised home end, loud on European nights; not famous beyond Czechia."
+  }
+ },
+ {
+  "espn_id": "7853",
+  "name": "AGF",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "Listed company with many small shareholders; no documented fan control (estimate).",
+   "city": "Aarhus's main club, Denmark's second city; a 40-year title wait followed closely.",
+   "stewardship": "Listed AGF A/S; 2025 placement brought in local investors incl. Systematic Holding (Michael Holm, Aarhus).",
+   "terrace": "Big, loyal following ('De Hvide'); official fan club honoured with the retired No. 12."
+  }
+ },
+ {
+  "espn_id": "139",
+  "name": "Ajax Amsterdam",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Repeated UEFA fines for crowd disturbances incl. objects thrown at the Bernabeu (2025-26) and F-Side linked to rioting",
+   "voice": "Members' association Vereniging AFC Ajax holds about 73% of the listed company",
+   "city": "Amsterdam's club and the Netherlands' most supported",
+   "stewardship": "Members' association majority, listed on Euronext; NN Group 5%",
+   "terrace": "F-Side (1976) and VAK410 stand all match; 94,000-member supporters club"
+  }
+ },
+ {
+  "espn_id": "20710",
+  "name": "Borac Banja Luka",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Fans repeatedly glorify war criminal Ratko Mladic (2025-26 chants, 2026 Lesinari banner); RFE/RL reports a UEFA fine for racist fan behaviour; victims' groups filed a UEFA complaint (Sept 2026).",
+   "voice": "No documented supporter role in decisions (estimate).",
+   "city": "Banja Luka's main club and a symbol of the city and Republika Srpska.",
+   "stewardship": "President Zvjezdan Misimovic; depends on city and regional public funding (estimate, ownership unclear; not a sovereign state owner).",
+   "terrace": "Lesinari (Vultures, founded 1987), oldest organised group in Bosanska Krajina, loud north stand."
+  }
+ },
+ {
+  "espn_id": "2994",
+  "name": "Braga",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "Member club holds about 37% of the listed SAD; members elect president",
+   "city": "Braga's main club; 'Arsenalistas' are the city's identity",
+   "stewardship": "minority stake 29.6% held by QSI (the PSG owner's investment arm); majority with the club and private investors; not majority state-owned",
+   "terrace": "Organised ultras (Red Boys), modest numbers (estimate)"
+  }
+ },
+ {
+  "espn_id": "10834",
+  "name": "CSKA Sofia",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA fined EUR 50,000 plus ticket ban in July 2026 for fans' Nazi salutes at Derry City; bananas thrown at Black players 2022",
+   "voice": "Privately owned; no formal supporter power found",
+   "city": "Sofia's army club, sharing the capital with Levski",
+   "stewardship": "Walter Papazki took control Dec 2025 after Fond Sport (Grisha Ganchev era) handed him its shares; brand dispute with CSKA 1948",
+   "terrace": "Sector G ultras (1990); one of Bulgaria's two biggest followings"
+  }
+ },
+ {
+  "espn_id": "8089",
+  "name": "CSU Craiova",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA 2025: fines for pyrotechnics and throwing objects onto the pitch (v Sarajevo) and an offensive choreography; 2019 UEFA racism charge and closed doors after a referee was hit.",
+   "voice": "Owned by Mihai Rotaru; no fan control.",
+   "city": "Oltenia's club and identity, but split with rival claimant FC U Craiova 1948.",
+   "stewardship": "Mihai Rotaru (65%), local businessman and owner since the 2013 refoundation.",
+   "terrace": "Peluza Nord ultras (Sezione Ultra 2000, Utopia); one of Romania's biggest followings."
+  }
+ },
+ {
+  "espn_id": "21943",
+  "name": "Egnatia",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA fined the club EUR 10,000 with a suspended closure for fans' discriminatory chants v Borac Banja Luka (2024 Champions League qualifier).",
+   "voice": "No supporter role found.",
+   "city": "The only club of the small town of Rrogozhine, which part-owns it.",
+   "stewardship": "Italian-based construction firms Demrozi Costruzioni and Foglia Engineering (37.5% each) plus Rrogozhine municipality (25%); president Agim Demrozi.",
+   "terrace": "Small home following; no known organised group (estimate)."
+  }
+ },
+ {
+  "espn_id": "909",
+  "name": "F.C. København",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA fines (EUR 79,000) and a Sektion 12 closure for pyrotechnics; no racism sanction found; hooligan groups exist.",
+   "voice": "Owned by listed Parken Sport & Entertainment; fan club of 20,000+ but no fan control.",
+   "city": "Copenhagen's biggest club (1992 merger), sharing the capital area with Brøndby and others.",
+   "stewardship": "Parken Sport & Entertainment, listed; Danish investors incl. Lars Seier Christensen's Seier Capital (2020 data).",
+   "terrace": "Sektion 12 on the B stand, called Northern Europe's biggest active stand; tifos and pyro."
+  }
+ },
+ {
+  "espn_id": "7672",
+  "name": "FC Lugano",
+  "league": "uecl",
+  "notes": {
+   "conscience": "October 2024: Lugano football ultras attacked three young men wearing Ambrì scarves at Rivera; 18 arrested. Club acknowledged violent groups in the curva.",
+   "voice": "Privately owned; no documented fan influence.",
+   "city": "Lugano's football club, but HC Lugano ice hockey is the bigger passion in Ticino.",
+   "stewardship": "Joe Mansueto since 2021, run as a sister club of his Chicago Fire (multi-club).",
+   "terrace": "Curva Nord ultras; small but active."
+  }
+ },
+ {
+  "espn_id": "572",
+  "name": "FC Midtjylland",
+  "league": "uecl",
+  "notes": {
+   "conscience": "2023: two spectators made racist gestures at a South Korean fan in the fan zone; club apologised, no UEFA sanction found. Little visible inclusion work found.",
+   "voice": "Privately owned company; no documented fan say (estimate).",
+   "city": "1999 merger of Herning Fremad and Ikast fS; regional club for central Jutland rather than a city's soul.",
+   "stewardship": "Majority owner Anders Holch Povlsen's HEARTLAND (Bestseller, based nearby in Brande) since 2023; local billionaire, single club.",
+   "terrace": "Black Wolves fan club and Ultras Midtjylland ('Hedens Drenge'); organised but small."
+  }
+ },
+ {
+  "espn_id": "3101",
+  "name": "FC Nordsjælland",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; Right to Dream academy pathways for Ghanaian and Danish youth",
+   "voice": "No fan role; 99% corporate owned",
+   "city": "Suburban Farum club formed by a 2003 merger",
+   "stewardship": "Right to Dream (Mansour Group/ManSports) multi-club with San Diego FC and FC Masar; academy-to-sale model",
+   "terrace": "Small 'Wild Tigers' support"
+  }
+ },
+ {
+  "espn_id": "3024",
+  "name": "FC Thun",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "No documented fan influence (estimate)",
+   "city": "The only top club of Thun and the Bernese Oberland",
+   "stewardship": "Co-owned since 2019 by Pacific Media Group/Chien Lee (multi-club) and The Seelig Group; investors saved club from closure in 2024",
+   "terrace": "Small home fan section (estimate)"
+  }
+ },
+ {
+  "espn_id": "152",
+  "name": "FC Twente",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; estimate",
+   "voice": "No formal supporter ownership found (estimate)",
+   "city": "Enschede's club and the region's 'Trots van het Oosten'",
+   "stewardship": "Club-run, chaired by Dominique Scholten; bankrupt 2003 and KNVB sanctions 2015-16 after mismanagement",
+   "terrace": "Vak P ultras; loud, organised and known in the Netherlands"
+  }
+ },
+ {
+  "espn_id": "489",
+  "name": "Hajduk Split",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA fine and partial closure for discriminatory fan conduct v Vitoria (Aug 2022); 'Kill Serbs' chants previously sanctioned",
+   "voice": "Nas Hajduk members hold 30.6% and elect the supervisory board",
+   "city": "Split lives through Hajduk; about 100,000 members",
+   "stewardship": "City of Split 65.9% plus members 30.6%; locally owned, not for profit",
+   "terrace": "Torcida (1950), Europe's oldest organised supporters' group"
+  }
+ },
+ {
+  "espn_id": "262",
+  "name": "Heart of Midlothian",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; strong community and war-memorial work",
+   "voice": "Foundation of Hearts majority owner since 2021, UK's largest fan-owned club; fans voted 98.5% on Bloom deal",
+   "city": "Big part of west Edinburgh but shares the city with Hibs",
+   "stewardship": "Fan-owned via Foundation of Hearts; Tony Bloom holds 29% non-voting shares (2025)",
+   "terrace": "Loud Gorgie support, known in Scotland, no single famous end"
+  }
+ },
+ {
+  "espn_id": "20025",
+  "name": "Iberia 1999",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "voice": "Owned by a business group; no supporter role.",
+   "city": "Tbilisi district club; Dinamo Tbilisi is the city's main team.",
+   "stewardship": "Iberia Business Group of Tariel Khechikashvili (former sports minister), owner since 2005; private, not state.",
+   "terrace": "No known supporters' group (formerly Saburtalo, a youth-focused club) (estimate)."
+  }
+ }
+]

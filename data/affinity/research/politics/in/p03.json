@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "6077",
+  "name": "Houston Dynamo FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing notable either way",
+   "voice": "No fan power",
+   "city": "Big multi-sport city",
+   "stewardship": "Ted Segal, ordinary private owner",
+   "terrace": "El Batallón and Texian Army; no strong atmosphere reports"
+  }
+ },
+ {
+  "espn_id": "20232",
+  "name": "Inter Miami CF",
+  "league": "mls",
+  "notes": {
+   "conscience": "Suárez spitting ban, Bright racial slur ban",
+   "voice": "No fan power",
+   "city": "Big city, newer franchise",
+   "stewardship": "Mas brothers/Beckham, Ares stake, cap fines",
+   "terrace": "Four groups, but support largely Messi-driven"
+  }
+ },
+ {
+  "espn_id": "187",
+  "name": "LA Galaxy",
+  "league": "mls",
+  "notes": {
+   "conscience": "Club banned fans during ICE protests",
+   "voice": "No fan power",
+   "city": "Big city, suburban Carson",
+   "stewardship": "AEG, ordinary",
+   "terrace": "Galaxians, Angel City Brigade; safe standing"
+  }
+ },
+ {
+  "espn_id": "18966",
+  "name": "LAFC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Community work, nothing defining",
+   "voice": "Supporters' groups consulted but no formal power",
+   "city": "Big-city club sharing LA with the Galaxy",
+   "stewardship": "Large local investor group, conventional",
+   "terrace": "The 3252 in a safe-standing end, among MLS's loudest"
+  }
+ },
+ {
+  "espn_id": "17362",
+  "name": "Minnesota United FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing documented",
+   "voice": "Supporters consulted but no power",
+   "city": "Shares Twin Cities with big US sports",
+   "stewardship": "Local McGuire/Pohlad/Taylor group, private stadium",
+   "terrace": "Wonderwall and Thunderwall drumline, known in MLS"
+  }
+ },
+ {
+  "espn_id": "18986",
+  "name": "Nashville SC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None formal",
+   "city": "Shares city with NFL/NHL",
+   "stewardship": "Local John Ingram",
+   "terrace": "The Roadies (2014), solid"
+  }
+ },
+ {
+  "espn_id": "189",
+  "name": "New England Revolution",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "NFL stadium far from Boston",
+   "stewardship": "Kraft Group, criticised as neglectful",
+   "terrace": "Midnight Riders and The Rebellion"
+  }
+ },
+ {
+  "espn_id": "17606",
+  "name": "New York City FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "MLS-confirmed slur incident 2024, no action",
+   "voice": "None",
+   "city": "Shares NYC with Red Bulls; little local bond",
+   "stewardship": "City Football Group (Abu Dhabi state)",
+   "terrace": "The Third Rail"
+  }
+ },
+ {
+  "espn_id": "12011",
+  "name": "Orlando City SC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Pulse remembrance and Pride work",
+   "voice": "None",
+   "city": "Shares Orlando; strong local base",
+   "stewardship": "Wilf family, stable",
+   "terrace": "The Wall in safe standing"
+  }
+ },
+ {
+  "espn_id": "10739",
+  "name": "Philadelphia Union",
+  "league": "mls",
+  "notes": {
+   "conscience": "Anti-discrimination code; Tanner suspension",
+   "voice": "Sons of Ben founded club, consulted",
+   "city": "Shares big sports city",
+   "stewardship": "Jay Sugarman, local",
+   "terrace": "Sons of Ben (2007) pre-dated club"
+  }
+ },
+ {
+  "espn_id": "9723",
+  "name": "Portland Timbers",
+  "league": "mls",
+  "notes": {
+   "conscience": "107IST charity, anti-fascism",
+   "voice": "Timbers Army forced Iron Front reversal and executive firings",
+   "city": "Portland's soul ('Soccer City USA')",
+   "stewardship": "Merritt Paulson, criticised over Thorns scandal",
+   "terrace": "Timbers Army, famous beyond MLS"
+  }
+ },
+ {
+  "espn_id": "4771",
+  "name": "Real Salt Lake",
+  "league": "mls",
+  "notes": {
+   "conscience": "ex-owner Hansen sold after 2020 racist-language allegations; nothing defining since",
+   "voice": "no supporter governance",
+   "city": "Utah's MLS team, competes with Jazz and college sport",
+   "stewardship": "local Miller family control since 2025",
+   "terrace": "La Barra Real / Section 26, known locally"
+  }
+ },
+ {
+  "espn_id": "190",
+  "name": "Red Bull New York",
+  "league": "mls",
+  "notes": {
+   "conscience": "standard MLS community work",
+   "voice": "no fan voice, 2023 supporter walkout",
+   "city": "Harrison NJ, a third club in a huge market named after a drink",
+   "stewardship": "Red Bull GmbH multi-club secondary club",
+   "terrace": "South Ward groups (Empire Supporters Club, Viking Army); Garden State Ultras banned 2021"
+  }
+ },
+ {
+  "espn_id": "22529",
+  "name": "San Diego FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "'Aqui No' campaign after homophobic chant; Right to Dream academy",
+   "voice": "none",
+   "city": "new club the city embraced, no NFL rival",
+   "stewardship": "Mansour with Sycuan, secondary in Right to Dream multi-club network",
+   "terrace": "Frontera SD groups with 3,000 safe-standing seats"
+  }
+ },
+ {
+  "espn_id": "191",
+  "name": "San Jose Earthquakes",
+  "league": "mls",
+  "notes": {
+   "conscience": "nothing defining",
+   "voice": "none",
+   "city": "Bay Area club behind bigger sports",
+   "stewardship": "Fisher (A's relocation) owner, club for sale since 2025",
+   "terrace": "1906 Ultras and San Jose Ultras, known in MLS"
+  }
+ },
+ {
+  "espn_id": "9726",
+  "name": "Seattle Sounders FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "ECS anti-fascist stance, players' activism",
+   "voice": "Alliance Council of season-ticket holders votes on GM",
+   "city": "loved, shares a sports-mad city with NFL/MLB",
+   "stewardship": "local Hanauer-led owners; tribal casino sleeve sponsor",
+   "terrace": "Emerald City Supporters, March to the Match, famous in MLS"
+  }
+ },
+ {
+  "espn_id": "186",
+  "name": "Sporting Kansas City",
+  "league": "mls",
+  "notes": {
+   "conscience": "nothing defining",
+   "voice": "none",
+   "city": "KC's soccer team behind Chiefs/Royals",
+   "stewardship": "local Mallouk 80% since 2026",
+   "terrace": "The Cauldron, known across MLS"
+  }
+ },
+ {
+  "espn_id": "21812",
+  "name": "St. Louis CITY SC",
+  "league": "mls",
+  "notes": {
+   "conscience": "BLM and trans-rights banners restricted 2026 despite protests; female-majority ownership",
+   "voice": "club restricted supporter banners 2026",
+   "city": "St. Louis soccer city, behind the Cardinals",
+   "stewardship": "local Taylor family and Kindle, privately built stadium",
+   "terrace": "St. Louligans and standing section with tifo rigging"
+  }
+ },
+ {
+  "espn_id": "7318",
+  "name": "Toronto FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "MLSE Foundation work",
+   "voice": "none",
+   "city": "big-city afterthought behind Leafs/Raptors",
+   "stewardship": "Rogers telecom corporate owner",
+   "terrace": "Red Patch Boys, known in MLS; Inebriati stripped 2018"
+  }
+ },
+ {
+  "espn_id": "9727",
+  "name": "Vancouver Whitecaps",
+  "league": "mls",
+  "notes": {
+   "conscience": "criticised handling of women's coach misconduct",
+   "voice": "2019 walkout, no power",
+   "city": "Canucks city",
+   "stewardship": "owners selling, 2026 bid to move to Las Vegas",
+   "terrace": "Southsiders, known in MLS"
+  }
+ },
+ {
+  "espn_id": "21422",
+  "name": "Angel City FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "founded on equity, 10% sponsorship value to local causes",
+   "voice": "community-founder model, no fan power",
+   "city": "loved in LA but one of many teams in a huge city",
+   "stewardship": "Iger/Bay since 2024, invested; salary-cap fine 2024",
+   "terrace": "organised supporters' section among the NWSL's loudest"
+  }
+ },
+ {
+  "espn_id": "22187",
+  "name": "Bay FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "founded by four ex-USWNT players around equity",
+   "voice": "no fan power",
+   "city": "Bay Area club sharing PayPal Park",
+   "stewardship": "Sixth Street investment firm majority, also owns Sunderland Women stake",
+   "terrace": "supporters' section still forming"
+  }
+ },
+ {
+  "espn_id": "131562",
+  "name": "Boston Legacy FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "women-led ownership, contested public-park stadium rebuild",
+   "voice": "none; 'BOS Nation' branding withdrawn after backlash",
+   "city": "first season; no home in Boston until 2028",
+   "stewardship": "local women-led group, long-term stadium investment",
+   "terrace": "new, supporters still organising"
+  }
+ },
+ {
+  "espn_id": "15360",
+  "name": "Chicago Stars FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "LGBTQ+-advocate owner Ricketts, but Dames abuse history",
+   "voice": "no fan power",
+   "city": "lowest NWSL crowds (4,517) in a big city",
+   "stewardship": "Ricketts group since 2023, investing, no stadium",
+   "terrace": "Chicago Local 134, long-running but small"
+  }
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "268",
+  "name": "Borussia Mönchengladbach",
+  "league": "bl",
+  "notes": {
+   "conscience": "visible work (estimate)",
+   "voice": "member-run e.V.",
+   "city": "Gladbach identity, the 'Fohlen'",
+   "stewardship": "member-run, no investor",
+   "terrace": "big, loyal Nordkurve"
+  }
+ },
+ {
+  "espn_id": "125",
+  "name": "Eintracht Frankfurt",
+  "league": "bl",
+  "notes": {
+   "conscience": "Public anti-AfD stance; offset by racist and queerphobic fan incidents and disorder",
+   "voice": "Members' e.V. holds majority under 50+1",
+   "city": "The city's main club, though Frankfurt is a finance hub",
+   "stewardship": "Member-controlled, stable",
+   "terrace": "Nordwestkurve choreographies; ~30,000 travelled to Camp Nou (2022)"
+  }
+ },
+ {
+  "espn_id": "3841",
+  "name": "FC Augsburg",
+  "league": "bl",
+  "notes": {
+   "conscience": "Nothing notable either way",
+   "voice": "50+1 applies, but investor-held pro arm",
+   "city": "City's only top club",
+   "stewardship": "Blitzer's Bolt (multi-club) ~45%",
+   "terrace": "Steady crowds, little distinct atmosphere"
+  }
+ },
+ {
+  "espn_id": "122",
+  "name": "FC Cologne",
+  "league": "bl",
+  "notes": {
+   "conscience": "visible anti-racism and diversity work; heavy pyro fines and 2022 Nice clash weigh against (estimate)",
+   "voice": "member club (150,000+ members) electing the board, no investor",
+   "city": "Cologne's main club and a civic institution (carnival ties), but in a big, varied city",
+   "stewardship": "pro arm fully held by the e.V., no outside investor",
+   "terrace": "Südkurve with Wilde Horde ultras, loud and known across Germany"
+  }
+ },
+ {
+  "espn_id": "127",
+  "name": "Hamburg SV",
+  "league": "bl",
+  "notes": {
+   "conscience": "Plan International charity sleeve; solid",
+   "voice": "e.V. holds ~75%",
+   "city": "Shares Hamburg with St. Pauli",
+   "stewardship": "Member-controlled; boardroom instability",
+   "terrace": "Nordtribüne, large and loud"
+  }
+ },
+ {
+  "espn_id": "2950",
+  "name": "Mainz",
+  "league": "bl",
+  "notes": {
+   "conscience": "Climate-neutral, social and fan-project work",
+   "voice": "Member-run e.V., 50+1",
+   "city": "City's club; carnival identity",
+   "stewardship": "Member-run, no investor",
+   "terrace": "Q-Block led by Ultraszene Mainz, known in Bundesliga"
+  }
+ },
+ {
+  "espn_id": "11420",
+  "name": "RB Leipzig",
+  "league": "bl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "Closed membership",
+   "city": "Marketing vehicle",
+   "stewardship": "Red Bull GmbH 99%, multi-club",
+   "terrace": "Little ultra culture"
+  }
+ },
+ {
+  "espn_id": "126",
+  "name": "SC Freiburg",
+  "league": "bl",
+  "notes": {
+   "conscience": "social and sustainability focus, Streich's anti-racism stance, no betting/arms sponsors",
+   "voice": "e.V., member-owned, no investor",
+   "city": "the city's club and identity, green university city",
+   "stewardship": "member-run, stable, long-term coaches",
+   "terrace": "Nordkurve, organised but not famous"
+  }
+ },
+ {
+  "espn_id": "3307",
+  "name": "SC Paderborn 07",
+  "league": "bl",
+  "notes": {
+   "conscience": "nothing notable found",
+   "voice": "e.V. under 50+1",
+   "city": "the town's club",
+   "stewardship": "member club, past reliance on late president Finke, recent money trouble",
+   "terrace": "small organised section"
+  }
+ },
+ {
+  "espn_id": "10388",
+  "name": "SV Elversberg",
+  "league": "bl",
+  "notes": {
+   "conscience": "nothing found either way (estimate)",
+   "voice": "member club under 50+1, but patron-driven",
+   "city": "village club in Spiesen-Elversberg",
+   "stewardship": "rise funded by the local Holzer family's Ursapharm",
+   "terrace": "no notable organised section"
+  }
+ },
+ {
+  "espn_id": "133",
+  "name": "Schalke 04",
+  "league": "bl",
+  "notes": {
+   "conscience": "'Schalker gegen Rassismus', dropped Gazprom 2022",
+   "voice": "e.V., member-controlled",
+   "city": "Gelsenkirchen mining town lives through it",
+   "stewardship": "member-owned but EUR 162m debt",
+   "terrace": "Nordkurve, famous across Europe"
+  }
+ },
+ {
+  "espn_id": "7911",
+  "name": "TSG Hoffenheim",
+  "league": "bl",
+  "notes": {
+   "conscience": "Hopp-funded social projects",
+   "voice": "50+1 restored 2024 but 2025-26 Hopp/Wittmann power struggle drew fan protests",
+   "city": "village club playing in Sinsheim",
+   "stewardship": "patron-built, governance turmoil",
+   "terrace": "small organised section"
+  }
+ },
+ {
+  "espn_id": "134",
+  "name": "VfB Stuttgart",
+  "league": "bl",
+  "notes": {
+   "conscience": "made Karazor captain during rape investigation",
+   "voice": "e.V. majority; fans ended Winamax shirt deal early",
+   "city": "Stuttgart's club in an industrial city",
+   "stewardship": "member majority, Mercedes and Porsche stakes",
+   "terrace": "Cannstatter Kurve, known across Germany"
+  }
+ },
+ {
+  "espn_id": "137",
+  "name": "Werder Bremen",
+  "league": "bl",
+  "notes": {
+   "conscience": "defining anti-discrimination, anti-fascist record of club and fans",
+   "voice": "e.V. holds majority under 50+1, members elect board",
+   "city": "the city's identity and main team in Hanseatic Bremen",
+   "stewardship": "members' club plus local no-dividend business alliance",
+   "terrace": "Ostkurve with anti-racist ultra groups, known across Germany"
+  }
+ },
+ {
+  "espn_id": "18418",
+  "name": "Atlanta United FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "nothing notable found (estimate)",
+   "voice": "no fan governance found",
+   "city": "loved in a big pro-sports city",
+   "stewardship": "local owner Arthur Blank, invested",
+   "terrace": "Terminus Legion, Footie Mob; well known in MLS"
+  }
+ },
+ {
+  "espn_id": "20906",
+  "name": "Austin FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "4ATX foundation community work (estimate)",
+   "voice": "no fan governance found",
+   "city": "Austin's only major-league team, every match sold out",
+   "stewardship": "Precourt tried to move the Columbus Crew",
+   "terrace": "Los Verdes, Austin Anthem, La Murga band"
+  }
+ },
+ {
+  "espn_id": "9720",
+  "name": "CF Montréal",
+  "league": "mls",
+  "notes": {
+   "conscience": "antisemitic abuse 2026",
+   "voice": "rebrand imposed; badge partly restored",
+   "city": "hockey city",
+   "stewardship": "Saputo local, also Bologna",
+   "terrace": "fragmented, ultras banned"
+  }
+ },
+ {
+  "espn_id": "21300",
+  "name": "Charlotte FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "nothing notable (estimate)",
+   "voice": "none",
+   "city": "big NFL city",
+   "stewardship": "Tepper",
+   "terrace": "Royal Family"
+  }
+ },
+ {
+  "espn_id": "182",
+  "name": "Chicago Fire FC",
+  "league": "mls",
+  "notes": {
+   "conscience": "Section 8 anti-discrimination; Foundation",
+   "voice": "fan backlash reversed rebrand",
+   "city": "big-city afterthought",
+   "stewardship": "Mansueto building stadium",
+   "terrace": "Section 8 Chicago"
+  }
+ },
+ {
+  "espn_id": "184",
+  "name": "Colorado Rapids",
+  "league": "mls",
+  "notes": {
+   "conscience": "nothing notable (estimate)",
+   "voice": "none",
+   "city": "suburban",
+   "stewardship": "KSE minor holding",
+   "terrace": "Centennial 38"
+  }
+ },
+ {
+  "espn_id": "183",
+  "name": "Columbus Crew",
+  "league": "mls",
+  "notes": {
+   "conscience": "Community work but no defining inclusion identity (estimate)",
+   "voice": "#SaveTheCrew fan campaign (2017-18) kept the club in Columbus; no formal fan power now",
+   "city": "Crew is Columbus's pro soccer identity but shares a college-football city (Ohio State)",
+   "stewardship": "Local Haslam/Edwards owners bought it to keep it in Columbus and built a stadium",
+   "terrace": "Nordecke is an organised, loud MLS supporters' end, not famous abroad"
+  }
+ },
+ {
+  "espn_id": "193",
+  "name": "D.C. United",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing notable either way",
+   "voice": "No fan power found",
+   "city": "Washington's MLS club, small in a big multi-sport city",
+   "stewardship": "Levien/Kaplan ordinary private owners",
+   "terrace": "La Barra Brava (1995) and Screaming Eagles, among MLS's oldest supporter groups"
+  }
+ },
+ {
+  "espn_id": "18267",
+  "name": "FC Cincinnati",
+  "league": "mls",
+  "notes": {
+   "conscience": "Nothing notable either way",
+   "voice": "No fan power",
+   "city": "Big local following since USL days",
+   "stewardship": "Local Lindner family majority",
+   "terrace": "The Bailey and its march through Over-the-Rhine, known in MLS"
+  }
+ },
+ {
+  "espn_id": "185",
+  "name": "FC Dallas",
+  "league": "mls",
+  "notes": {
+   "conscience": "Girls' academy; nothing defining",
+   "voice": "No fan power",
+   "city": "Suburban Frisco club in a big multi-sport metro",
+   "stewardship": "Hunt family, long-term owners investing in academy and stadium",
+   "terrace": "Modest atmosphere historically"
+  }
+ }
+]

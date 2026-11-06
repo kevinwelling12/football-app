@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found since 2019; Curva named after a fan killed in 2008, estimate",
+   "voice": "Fan-funded refoundation in 2015 (Parma Partecipazioni Calcistiche), since sold to Krause; organised fan clubs",
+   "city": "The city's only major club, tied to its ducal identity",
+   "stewardship": "Krause Group (Kyle Krause, Iowa family business, owner since 2020), long-term investment, no major issues",
+   "terrace": "Boys Parma (1977) in the Curva Nord; fans described as placid"
+  }
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found; estimate",
+   "voice": "Company-run, no fan role",
+   "city": "Town club of 40,000 playing in Reggio Emilia, little local bond beyond Sassuolo",
+   "stewardship": "Mapei S.p.A. (Squinzi family company), corporate patron, stable",
+   "terrace": "Small following, no notable singing end; estimate"
+  }
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found for racism since 2019; protest-related DASPO bans only, estimate",
+   "voice": "Sustained Curva campaigns against Cairo, no formal power; DASPO bans after protests",
+   "city": "Shares Turin with Juventus but claims the city's working-class, local identity",
+   "stewardship": "Urbano Cairo (UT Communication) since 2005; long fan opposition over lack of ambition",
+   "terrace": "Curva Maratona, organised and well known in Italy; repeated protest boycotts"
+  }
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita",
+  "notes": {
+   "conscience": "Racist abuse of Maignan (Jan 2024) led to a stadium closure, cut to partial closures on appeal; ultras attacked a train of Venezia fans (Feb 2025)",
+   "voice": "Fan campaigns on the Friulian eagle on the badge; no formal power",
+   "city": "Main club of Udine and Friuli, Friulian identity",
+   "stewardship": "Pozzo family (Gesapar) since 1986, also owned Watford (multi-club); repeated sale talks with US funds in 2025",
+   "terrace": "Curva Nord ultras, organised but not prominent beyond Serie A; estimate"
+  }
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found since 2019; older far-right banner (2013) by a fringe group; club-led community work, estimate",
+   "voice": "No formal fan power; ownership is a US investor group",
+   "city": "The city's club but Venice's identity is not football; merged with Mestre in 1987",
+   "stewardship": "VFC Newco 2023 LLC, US investors (Leiweke, Bodie, McDonald), raised EUR 100m in 2026",
+   "terrace": "Curva Sud ultras of Venice and Mestre (the 'Unione'); scarf mosaic before matches"
+  }
+ },
+ {
+  "espn_id": "172",
+  "name": "AJ Auxerre",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found on racism or inclusion; 2026 stand closure was for pyrotechnics; estimate.",
+   "voice": "No supporter influence found.",
+   "city": "A small Burgundy town where the club, built by Guy Roux, is the town's identity.",
+   "stewardship": "Chinese businessman James Zhou, owner since 2016; conventional, stable.",
+   "terrace": "Ultras in the OAH stand, partly closed in 2026 for pyrotechnics; known locally."
+  }
+ },
+ {
+  "espn_id": "174",
+  "name": "AS Monaco",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; estimate.",
+   "voice": "No supporter influence.",
+   "city": "Club of a tiny principality with a thin local fan base.",
+   "stewardship": "Russian billionaire Dmitry Rybolovlev (66.67%) since 2011 (oligarch); House of Grimaldi/Principality 33.33%; sale explored since 2024.",
+   "terrace": "Small ultras group; low crowds; estimate."
+  }
+ },
+ {
+  "espn_id": "7868",
+  "name": "Angers",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a mid-sized city; modest bond.",
+   "stewardship": "Chabane family (president Romain Chabane); FIFA transfer bans in 2021 and 2023.",
+   "terrace": "Small organised kop, little known (estimate)."
+  }
+ },
+ {
+  "espn_id": "6997",
+  "name": "Brest",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; scored on community roots (estimate).",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "The only pro club of a working naval port at the tip of Brittany.",
+   "stewardship": "Local owners Denis and Gérard Le Saint (Breton businessmen); president since 2016.",
+   "terrace": "Organised home end at Francis-Le Blé; not famous beyond France (estimate)."
+  }
+ },
+ {
+  "espn_id": "3236",
+  "name": "Le Havre AC",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; no prominent inclusion work found (estimate).",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a working port city; France's oldest professional club.",
+   "stewardship": "Blue Crow Sports Group (Jeff Luhnow), a multi-club investor.",
+   "terrace": "Barbarians Havrais (1993) and KCM 84 groups; known in France."
+  }
+ },
+ {
+  "espn_id": "2697",
+  "name": "Le Mans",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; no visible flagship inclusion work (estimate).",
+   "voice": "No supporter ownership or documented influence found.",
+   "city": "Re-founded after 2013 liquidation; city identity tied mostly to the 24 Hours race.",
+   "stewardship": "Brazilian investment consortium OutField (Pedro Oliveira), with Djokovic, Massa, Courtois among co-investors.",
+   "terrace": "Small ultras presence, not widely known (estimate)."
+  }
+ },
+ {
+  "espn_id": "175",
+  "name": "Lens",
+  "league": "fra",
+  "notes": {
+   "conscience": "Mining-basin community identity",
+   "voice": "No fan power",
+   "city": "Town of 30,000 lives through the club",
+   "stewardship": "Oughourlian multi-club holder",
+   "terrace": "Bollaert famed for atmosphere and loyalty"
+  }
+ },
+ {
+  "espn_id": "166",
+  "name": "Lille",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "No fan power",
+   "city": "City's club",
+   "stewardship": "Merlyn Partners investment fund",
+   "terrace": "Dogues Virage Est ultras"
+  }
+ },
+ {
+  "espn_id": "273",
+  "name": "Lorient",
+  "league": "fra",
+  "notes": {
+   "conscience": "Merlus Ultras capo and a member convicted (2024 season) for attacking Ajaccio fans in town and damaging beIN Sports trucks; stadium bans.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a small Breton port town; strong local following.",
+   "stewardship": "Black Knight Football Club (Bill Foley) sole shareholder since Jan 2026; multi-club group with Bournemouth.",
+   "terrace": "Merlus Ultras lead an organised home end."
+  }
+ },
+ {
+  "espn_id": "167",
+  "name": "Lyon",
+  "league": "fra",
+  "notes": {
+   "conscience": "Fans' Nazi gestures and monkey chants (Marseille 2023), racist abuse reported after the 2025 Bourgoin cup loss, UEFA charge 2018 for Nazi symbols.",
+   "voice": "No formal supporter power; shareholder pressure, not fans, forced Textor out in 2025.",
+   "city": "Main club of France's third city, but a big city that shares attention with other sports.",
+   "stewardship": "Michele Kang bought 87.8% of Eagle Football Group in June 2026 after Textor's debt-laden era and a 2025 DNCG relegation (overturned).",
+   "terrace": "Bad Gones (1987) in the Virage Nord, described as France's largest supporters group."
+  }
+ },
+ {
+  "espn_id": "176",
+  "name": "Marseille",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing sanctioned for racism found; fans stoned Lyon's bus in 2023 (LFP declined to sanction) and rioted at the training ground in 2021; ultras long anti-racist.",
+   "voice": "Supporter groups historically manage virage season tickets; 2021 protests preceded the president's exit.",
+   "city": "OM is the identity of a working port city; highest attendances in France.",
+   "stewardship": "Frank McCourt (95%) since 2016; conventional private owner with heavy losses.",
+   "terrace": "Commando Ultra '84 (France's first ultra group) and South Winners in the Virage Sud; famous across Europe."
+  }
+ },
+ {
+  "espn_id": "2502",
+  "name": "Nice",
+  "league": "fra",
+  "notes": {
+   "conscience": "Racist banners vs Marseille (Jan 2025, LFP case); ultras assaulted players Dec 2025; 2026 crowd trouble closed the stadium to fans for the playoff.",
+   "voice": "Ultras protest against INEOS but have no formal power.",
+   "city": "Only professional club in Nice, with Niçois identity; a tourist city.",
+   "stewardship": "INEOS (Jim Ratcliffe) since 2019, multi-club with a Man United stake; club for sale since 2025.",
+   "terrace": "Populaire Sud ultras, loud and organised; known in France."
+  }
+ },
+ {
+  "espn_id": "6851",
+  "name": "Paris FC",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable sanctioned found; past supporter clashes (2010, 2014) only (estimate).",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Second club in a city dominated by PSG; small, growing base.",
+   "stewardship": "Arnault family (Agache Sport 52.4%), Red Bull 10.6% minority; billionaire- and multi-club-linked.",
+   "terrace": "Ultras Lutetia (2014) is the main group; small."
+  }
+ },
+ {
+  "espn_id": "160",
+  "name": "Paris Saint-Germain",
+  "league": "fra",
+  "notes": {
+   "conscience": "Homophobic chant sanctions, Hakimi case",
+   "voice": "No fan power",
+   "city": "Paris's main club, big-city",
+   "stewardship": "Qatar state",
+   "terrace": "Collectif Ultras Paris at Auteuil"
+  }
+ },
+ {
+  "espn_id": "169",
+  "name": "Stade Rennais",
+  "league": "fra",
+  "notes": {
+   "conscience": "RCK takes anti-fascist and anti-racist positions, FARE network member; homophobic chants vs PSG investigated (outcome not found).",
+   "voice": "No documented supporter role in club decisions found.",
+   "city": "The main club of Rennes and a carrier of Breton identity (Stad Roazhon).",
+   "stewardship": "Pinault family's Artémis since 1998, Breton owners investing long-term; academy focus.",
+   "terrace": "Roazhon Celtic Kop (1991) in the Tribune Mordelles, at every match including in Europe."
+  }
+ },
+ {
+  "espn_id": "180",
+  "name": "Strasbourg",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; fan protests against feeder-club treatment.",
+   "voice": "Supporter groups campaign against BlueCo ('BlueCo Out', joint march with Chelsea fans 2026); no power.",
+   "city": "Strong Alsatian regional identity built around the club.",
+   "stewardship": "BlueCo (Boehly/Clearlake, Chelsea's owners) since 2023; fans call it a Chelsea feeder.",
+   "terrace": "Ultra Boys 90 and Kop Ciel et Blanc in the north-west Kop; known in France."
+  }
+ },
+ {
+  "espn_id": "179",
+  "name": "Toulouse",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; estimate.",
+   "voice": "No supporter influence found.",
+   "city": "Big city where rugby's Stade Toulousain comes first.",
+   "stewardship": "RedBird Capital Partners (85%) since 2020: private equity with a stake in AC Milan.",
+   "terrace": "Indians Tolosa ultras, organised but modest; estimate."
+  }
+ },
+ {
+  "espn_id": "170",
+  "name": "Troyes",
+  "league": "fra",
+  "notes": {
+   "conscience": "Nothing notable found; estimate.",
+   "voice": "No supporter influence found.",
+   "city": "The only professional club of a small Champagne city.",
+   "stewardship": "City Football Group since 2020, majority Abu Dhabi United Group: state; multi-club feeder.",
+   "terrace": "No notable organised end found; estimate."
+  }
+ },
+ {
+  "espn_id": "392",
+  "name": "Birmingham City",
+  "league": "eng2",
+  "notes": {
+   "conscience": "Nothing notable found recently; foundation runs schools programmes (estimate)",
+   "voice": "No supporter ownership or documented fan power",
+   "city": "Shares Birmingham with Aston Villa; strong in east Birmingham",
+   "stewardship": "Knighthead Capital (investment firm, Tom Wagner) ~97%; Tom Brady minority; heavy investment",
+   "terrace": "Tilton Road End, loud and known in England (estimate)"
+  }
+ }
+]

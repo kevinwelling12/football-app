@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "226",
+  "name": "Atlante",
+  "league": "mex",
+  "notes": {
+   "conscience": "Nothing notable found; working-class 'people's team' history (estimate)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Historic 'Equipo del Pueblo' of Mexico City's working class, but moved to Cancún, Zacatepec and back; small following now",
+   "stewardship": "Grupo Dequivamed (chair Emilio Escalante); returned by buying another club's franchise",
+   "terrace": "No notable organised end found after years in Cancún and the second tier (estimate)"
+  }
+ },
+ {
+  "espn_id": "216",
+  "name": "Atlas",
+  "league": "mex",
+  "notes": {
+   "conscience": "Fans were victims in the 2022 Querétaro riot; barra banned two matches in 2024 for flares; first club punished for the homophobic chant (2020)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Guadalajara's older club, sharing the city with Chivas; Clásico Tapatío",
+   "stewardship": "Sold by multi-club Grupo Orlegi to Grupo PRODI (José Miguel Bejos), handover after Clausura 2026",
+   "terrace": "La Barra 51; 'La Fiel' fan base famous in Mexico for loyalty through a 70-year title drought"
+  }
+ },
+ {
+  "espn_id": "15720",
+  "name": "Atlético de San Luis",
+  "league": "mex",
+  "notes": {
+   "conscience": "2025 Berterame racism complaint closed with no case found; nothing else notable found",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "San Luis Potosí's only top-flight club, but a 2013 franchise rebuilt as Atlético Madrid's satellite",
+   "stewardship": "Majority Atlético de Madrid group, itself majority-owned by private equity Apollo Sports Capital (deal Nov 2025); multi-club feeder",
+   "terrace": "No notable organised end found (estimate)"
+  }
+ },
+ {
+  "espn_id": "218",
+  "name": "Cruz Azul",
+  "league": "mex",
+  "notes": {
+   "conscience": "Played a 2021 playoff match behind closed doors for homophobic chants; chants again at Apertura 2025 semifinal",
+   "voice": "Owned by a workers' cooperative whose members elect its leaders; not fans",
+   "city": "Born in the cement town of Jasso, now Mexico City's second club; working-class identity v América",
+   "stewardship": "Cooperativa La Cruz Azul, workers' cement cooperative; ex-president Billy Álvarez fled a 2020 money-laundering warrant",
+   "terrace": "Large organised barra, loud in Mexico; not famous beyond it (estimate)"
+  }
+ },
+ {
+  "espn_id": "17851",
+  "name": "FC Juárez",
+  "league": "mex",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Founded 2015 by local businesspeople to restore football to Ciudad Juárez; the city's only club",
+   "stewardship": "MountainStar Sports Group, majority Alejandra de la Vega (local businesswoman)",
+   "terrace": "El Kartel barra (2002), tied to Atlético Nacional's fans; known locally"
+  }
+ },
+ {
+  "espn_id": "219",
+  "name": "Guadalajara",
+  "league": "mex",
+  "notes": {
+   "conscience": "Racist abuse of Julián Quiñones at the Akron (2024, Concacaf), club investigation; club fined 2023 and barra banned for fan conduct in the final",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Guadalajara's best-supported club, shared with Atlas; also Mexico's national favourite",
+   "stewardship": "Grupo Omnilife-Chivas, Vergara family since 2002 (Amaury Vergara)",
+   "terrace": "Organised barras (three per Wikipedia), loud at Akron; known across Mexico"
+  }
+ },
+ {
+  "espn_id": "228",
+  "name": "León",
+  "league": "mex",
+  "notes": {
+   "conscience": "Barra one-match ban 2022 (reason not checked); nothing else notable found",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "León's one big club; the city of leather lives through La Fiera",
+   "stewardship": "Grupo Pachuca (Jesús Martínez), also owns Pachuca; FIFA removed León from the 2025 Club World Cup for multi-club ownership",
+   "terrace": "Organised barra, loud locally; barra given a one-match ban in 2022 (estimate)"
+  }
+ },
+ {
+  "espn_id": "220",
+  "name": "Monterrey",
+  "league": "mex",
+  "notes": {
+   "conscience": "Barra sanctioned 2022-23 for attending away matches; homophobic chants at 2025 semifinal unpunished; no racism sanction found",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Shares Monterrey with Tigres; Clásico Regio drives the city",
+   "stewardship": "FEMSA, Monterrey-based conglomerate, owner since 1999",
+   "terrace": "La Adicción, one of Mexico's loudest barras; duels with Tigres' Libres y Lokos"
+  }
+ },
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex",
+  "notes": {
+   "conscience": "Fan brawl with Atlas supporters outside Estadio Victoria, home barra given a one-match ban (Jan 2024)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Founded in Mexico City 1923, moved to Aguascalientes 2003; the city's only top-flight club",
+   "stewardship": "NX Football USA LLC (US investors incl. Eva Longoria) 50% with a Mexican partner; Reynolds/McElhenney minority stake, cross-investment with Wrexham",
+   "terrace": "Small home barra; no organised end known beyond the league (estimate)"
+  }
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex",
+  "notes": {
+   "conscience": "Nothing notable found; academy and university programmes (estimate)",
+   "voice": "Privately run by Grupo Pachuca; no fan influence documented",
+   "city": "Founded 1892 by Cornish miners; Tuzos nickname and clock crest tie it to the mining city",
+   "stewardship": "Grupo Pachuca (Martínez family, Jesús Martínez); also owns León, which cost León its 2025 Club World Cup place",
+   "terrace": "Home barra present, not known as a defining end (estimate)"
+  }
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex",
+  "notes": {
+   "conscience": "Nothing notable found; little visible inclusion work (estimate)",
+   "voice": "No fan ownership or documented influence",
+   "city": "Main club of a large city, once shared with Lobos BUAP (sold 2019)",
+   "stewardship": "Grupo Salinas (Ricardo Salinas Pliego), which also held Mazatlán until its 2026 sale",
+   "terrace": "Home barra exists, not prominent (estimate)"
+  }
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex",
+  "notes": {
+   "conscience": "Possible sanction for a banned chant at América by players and fans (Apertura 2024), outcome not found; no violence sanctions found",
+   "voice": "Run by a civil association for UNAM; no member votes, university community ties",
+   "city": "Mexico City's university club, sharing the city with América and Cruz Azul",
+   "stewardship": "Owned by UNAM (autonomous public university), not a commercial asset; cantera-based",
+   "terrace": "La Rebel, a well-known Argentine-style barra behind the goal; La Plus too"
+  }
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex",
+  "notes": {
+   "conscience": "March 2022 Corregidora riot vs Atlas fans (at least 22 injured); stadium closed a year, barras banned three years, owners banned",
+   "voice": "No fan ownership or documented influence",
+   "city": "The city's only club; described as family-supported in the Bajío",
+   "stewardship": "Innovatio Capital (US investors, chairman Marc Spiegel), bought from Grupo Caliente after the forced sale",
+   "terrace": "Resistencia Albiazul chants constantly, but barras were banned for three years after 2022"
+  }
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex",
+  "notes": {
+   "conscience": "Nothing notable found (estimate)",
+   "voice": "No fan ownership or documented influence",
+   "city": "The club of Torreón and the Comarca Lagunera; once ranked fifth most popular in Mexico",
+   "stewardship": "Grupo Orlegi (Alejandro Irarragorri), multi-club: Atlas until its 2026 sale, plus Sporting Gijón",
+   "terrace": "Home barra present, not a famous end (estimate)"
+  }
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex",
+  "notes": {
+   "conscience": "Street brawl between Libres y Lokos and Rayados' La Adicción in San Antonio (2024), no sanction found; nothing else notable",
+   "voice": "Run by CEMEX's Sinergia Deportiva for the university; barras reportedly influence ticketing, no formal fan voice",
+   "city": "Shares industrial Monterrey with Rayados; the Clásico Regio is a major derby",
+   "stewardship": "Operated by cement company CEMEX since 1996 on behalf of UANL",
+   "terrace": "Libres y Lokos (1998), Mexico's largest ultras group; fans often ranked best in Liga MX"
+  }
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex",
+  "notes": {
+   "conscience": "Barra suspended three matches, club fined and warned for a violent incident (April 2024)",
+   "voice": "No fan ownership or documented influence",
+   "city": "Founded 2007; became the border city's team, celebrated in the documentary Club Frontera",
+   "stewardship": "Grupo Caliente (Hank family, betting and casinos); held Querétaro too until its sale",
+   "terrace": "La Masakr3 barra is loud, known regionally (estimate)"
+  }
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex",
+  "notes": {
+   "conscience": "Perra Brava is a registered non-profit opposing stadium violence and doing charity work; nothing notable found against",
+   "voice": "Family-owned; no fan voice documented",
+   "city": "Toluca's club with no local rival; highest stadium occupancy in Liga MX 2023-2025",
+   "stewardship": "Valentín Diez Morodo, family owners since Nemesio Diez; long-term local",
+   "terrace": "Barra Perra Brava (1985) and La Banda del Rojo, continuous chanting"
+  }
+ },
+ {
+  "espn_id": "887",
+  "name": "AEK Athens",
+  "league": "ucl",
+  "notes": {
+   "conscience": "Original 21's anti-fascist identity and refugee roots; OPAP betting sponsor, UEFA crowd sanctions",
+   "voice": "no fan ownership",
+   "city": "refugee (Constantinople) roots and Nea Filadelfeia identity, but Athens is split with Panathinaikos and Olympiacos",
+   "stewardship": "Greek shipping owner Iliopoulos rebuilt the club after 2013 and funded the stadium",
+   "terrace": "Original 21 at Gate 21, among Greece's most intense ultras"
+  }
+ },
+ {
+  "espn_id": "2980",
+  "name": "Bodo/Glimt",
+  "league": "ucl",
+  "notes": {
+   "conscience": "community club; Gaza Red Cross donation",
+   "voice": "member association",
+   "city": "Bodø lives for Glimt; northern Norwegian identity",
+   "stewardship": "member association, no private owner",
+   "terrace": "Den Gule Horde with yellow rattles, known across Europe since UCL runs"
+  }
+ },
+ {
+  "espn_id": "570",
+  "name": "Club Brugge",
+  "league": "ucl",
+  "notes": {
+   "conscience": "antisemitic chants, Nazi salutes",
+   "voice": "none",
+   "city": "Bruges, shares with Cercle",
+   "stewardship": "Verhaeghe",
+   "terrace": "Blue Army"
+  }
+ },
+ {
+  "espn_id": "437",
+  "name": "FC Porto",
+  "league": "ucl",
+  "notes": {
+   "conscience": "Ultras assault at 2023 assembly",
+   "voice": "Members ousted Pinto da Costa 2024",
+   "city": "Northern identity against Lisbon",
+   "stewardship": "Member-controlled SAD",
+   "terrace": "Super Dragões"
+  }
+ },
+ {
+  "espn_id": "436",
+  "name": "Fenerbahce",
+  "league": "ucl",
+  "notes": {
+   "conscience": "Nationalist displays, Greenwood signing, betting-probe captain",
+   "voice": "Members elect the president",
+   "city": "One of Istanbul's big three; Kadıköy identity",
+   "stewardship": "Member club but UEFA fines, transfer ban, churn",
+   "terrace": "Genç Fenerbahçeliler lead one of Europe's loudest supports"
+  }
+ },
+ {
+  "espn_id": "142",
+  "name": "Feyenoord Rotterdam",
+  "league": "ucl",
+  "notes": {
+   "conscience": "Racism fine (Barcelona 2026), antisemitic chanting prosecuted",
+   "voice": "Supporter-investor groups (VAK) in foundation governance",
+   "city": "Rotterdam's working-class people's club",
+   "stewardship": "No single owner, foundation-governed",
+   "terrace": "Het Legioen, huge travelling support"
+  }
+ },
+ {
+  "espn_id": "432",
+  "name": "Galatasaray",
+  "league": "ucl",
+  "notes": {
+   "conscience": "Nationalist displays, betting shirt sponsor, violence",
+   "voice": "Members elect the president",
+   "city": "One of Istanbul's big three",
+   "stewardship": "Member club, debt-heavy spending",
+   "terrace": "ultrAslan; Guinness crowd-noise record"
+  }
+ }
+]

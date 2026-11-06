@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "97",
+  "name": "Osasuna",
+  "league": "esp",
+  "notes": {
+   "conscience": "No recent racism sanction found (club denied 2024 Vinícius claim; antisemitic-chant fine is a decade old); Indar Gorri left-leaning",
+   "voice": "Member-owned, members elect the president; one of four non-SAD clubs",
+   "city": "Pamplona's and Navarre's club, Basque name ('health')",
+   "stewardship": "Members; past 2013 match-fixing case (CAS restored 2023 Conference League place)",
+   "terrace": "Indar Gorri behind the goal, one of Spain's loudest groups"
+  }
+ },
+ {
+  "espn_id": "87",
+  "name": "Racing Santander",
+  "league": "esp",
+  "notes": {
+   "conscience": "2026 anti-violence commission proposed a ground closure (details unconfirmed); nothing racist found",
+   "voice": "Fan pressure during the 2013-14 crisis (president ousted); no formal power since (estimate)",
+   "city": "Santander and Cantabria's only big club; strong regional identity",
+   "stewardship": "Sebastián Ceria, Santander-born businessman; no major issues found",
+   "terrace": "Organised home support known in Spain's lower tiers (estimate)"
+  }
+ },
+ {
+  "espn_id": "101",
+  "name": "Rayo Vallecano",
+  "league": "esp",
+  "notes": {
+   "conscience": "Fans campaign against racism, fascism and homophobia; 2019 'Nazi' chant sanction and 2026 UEFA fireworks fines, nothing racist found",
+   "voice": "No ownership; fan campaigns (Zozulya 2017, protests against owner and stadium neglect) have pressured the club",
+   "city": "The club of Vallecas, a working-class Madrid barrio that identifies with it; shares Madrid with two giants",
+   "stewardship": "Raúl Martín Presa, private owner in long open conflict with fans over neglect of stadium and club",
+   "terrace": "Bukaneros: organised anti-fascist ultras end, known well beyond La Liga"
+  }
+ },
+ {
+  "espn_id": "244",
+  "name": "Real Betis",
+  "league": "esp",
+  "notes": {
+   "conscience": "Forever Green platform, but EUR 242k 2025 fines for intolerant chants and ultra brawls",
+   "voice": "SAD with dispersed small shareholders and active shareholder associations",
+   "city": "huge popular club in Seville, shares city with Sevilla",
+   "stewardship": "local SAD led by Angel Haro, no major owner issues",
+   "terrace": "Gol Sur / Supporters Gol Sur, loud and known in Spain"
+  }
+ },
+ {
+  "espn_id": "86",
+  "name": "Real Madrid",
+  "league": "esp",
+  "notes": {
+   "conscience": "three UEFA discrimination sanctions 2025-26 incl. Nazi salutes; foundation work",
+   "voice": "member-owned (socios), but Perez unopposed since 2013, restrictive election rules",
+   "city": "global brand sharing Madrid with Atletico",
+   "stewardship": "members own it, but Super League push and plan to sell part of a subsidiary",
+   "terrace": "Grada Fans animation stand; Bernabeu not known as a singing ground; Ultras Sur banned 2013"
+  }
+ },
+ {
+  "espn_id": "89",
+  "name": "Real Sociedad",
+  "league": "esp",
+  "notes": {
+   "conscience": "Anti-violence stance since Aitor Zabaleta's killing in 1998; nothing notable found recently",
+   "voice": "S.A.D. with shares widely held by small local shareholders; limited formal fan power",
+   "city": "San Sebastián's club and a pillar of Basque identity; a small, wealthy city",
+   "stewardship": "President Jokin Aperribay; locally held, academy-led long-term model",
+   "terrace": "Organised animation stand at Anoeta; known within Spain"
+  }
+ },
+ {
+  "espn_id": "243",
+  "name": "Sevilla",
+  "league": "esp",
+  "notes": {
+   "conscience": "UEFA fined Sevilla in Dec 2022 for fans' racist abuse of Man City's Rico Lewis (suspended partial closure)",
+   "voice": "Accionistas Unidos minor-shareholder group active in boardroom fights; little real power",
+   "city": "Huge local passion, but shares Seville equally with Real Betis",
+   "stewardship": "Fragmented shareholders (del Nido, Carrión, A-CAP after 777 Partners); sale of ~80% to Five Eleven Capital/Sergio Ramos agreed May 2026",
+   "terrace": "Biris Norte: large, loud ultras end, well known across Spain"
+  }
+ },
+ {
+  "espn_id": "94",
+  "name": "Valencia",
+  "league": "esp",
+  "notes": {
+   "conscience": "May 2023 racist abuse of Vinícius Jr at Mestalla: Mario Kempes stand closed, club fined (reduced on appeal)",
+   "voice": "Fan movement Libertad VCF and boycotts against the owner, no real power",
+   "city": "The main club of Spain's third city, shared with Levante",
+   "stewardship": "Peter Lim (Meriton Holdings) since 2014; heavy losses, long fan protests, son Kiat Lim president",
+   "terrace": "Organised Curva Nord at Mestalla, known in Spain"
+  }
+ },
+ {
+  "espn_id": "102",
+  "name": "Villarreal",
+  "league": "esp",
+  "notes": {
+   "conscience": "no notable inclusion work or record found",
+   "voice": "owner-president model, no fan governance",
+   "city": "town of ~50,000 lives through the club",
+   "stewardship": "Fernando Roig, local industrialist, owner since 1997, long-term",
+   "terrace": "loyal but small, no famous singing end"
+  }
+ },
+ {
+  "espn_id": "103",
+  "name": "AC Milan",
+  "league": "ita",
+  "notes": {
+   "conscience": "Curva Sud leaders (Luca Lucci and others) convicted in 2025 'Doppia Curva' case: criminal association, attempted murder",
+   "voice": "Curva and fan protests against the owners, no formal power",
+   "city": "Shares Milan with Inter; big-city club",
+   "stewardship": "RedBird Capital Partners (private equity), 99.93%",
+   "terrace": "Curva Sud Milano, big choreographies, famous beyond Italy; Fossa dei Leoni was Italy's first ultras group"
+  }
+ },
+ {
+  "espn_id": "104",
+  "name": "AS Roma",
+  "league": "ita",
+  "notes": {
+   "conscience": "missing-children transfer-video campaign; ultra violence (2023, 2025 derby, 2014 Esposito death)",
+   "voice": "no fan governance",
+   "city": "shares Rome with Lazio, the bigger popular club",
+   "stewardship": "Friedkin (US) also owns Everton",
+   "terrace": "Curva Sud, famous worldwide"
+  }
+ },
+ {
+  "espn_id": "105",
+  "name": "Atalanta",
+  "league": "ita",
+  "notes": {
+   "conscience": "May 2023: Curva Nord closed for racist chants at Vlahovic; club and ultras punished several times for violence or racism",
+   "voice": "Club close to its supporters (Festa della Dea), no formal fan power",
+   "city": "Bergamo lives through La Dea; every newborn gets a shirt",
+   "stewardship": "La Dea: Stephen Pagliuca-led US consortium 55%, Percassi family (local, president) 45%",
+   "terrace": "Curva Nord 1907 (Curva Pisani), one of Italy's best-known ultras ends"
+  }
+ },
+ {
+  "espn_id": "107",
+  "name": "Bologna",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found recently (ultras cleared in Kean case); stand dedicated to Árpád Weisz, Jewish coach killed at Auschwitz",
+   "voice": "No documented fan influence on decisions",
+   "city": "Bologna's only big club, strong local identity",
+   "stewardship": "Joey Saputo (BFC 1909 Lux), president since 2014; also owns CF Montréal",
+   "terrace": "Curva Bulgarelli, organised and loud, known in Italy"
+  }
+ },
+ {
+  "espn_id": "2925",
+  "name": "Cagliari",
+  "league": "ita",
+  "notes": {
+   "conscience": "No sanctions since 2019; racist chants at Lukaku, Kean and Matuidi (2017-19) went unpunished",
+   "voice": "No formal fan power; estimate",
+   "city": "Sardinia's club; badge carries the Sardinian flag, nickname Isolani",
+   "stewardship": "Tommaso Giulini (Fluorsid) since 2014, Sardinian industrialist, no major issues",
+   "terrace": "Curva Nord ultras (Sconvolts), organised and loud; estimate"
+  }
+ },
+ {
+  "espn_id": "2572",
+  "name": "Como",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable either way found",
+   "voice": "Hartono-owned since 2019, no fan voice; fan-backed refoundings after 2004/2017 bankruptcies",
+   "city": "Well-loved local club in a small lakeside city, but low crowds",
+   "stewardship": "Billionaire Hartono brothers fund an imported squad; stable but asset-style spending",
+   "terrace": "Small reorganised ultras; crowds now include tourists more than a big terrace"
+  }
+ },
+ {
+  "espn_id": "109",
+  "name": "Fiorentina",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nov 2023: Curva Fiesole closure (suspended) for racist chants at Kean and McKennie and chants at Vlahovic",
+   "voice": "No documented fan influence on decisions",
+   "city": "Florence's club, viola identity across the city",
+   "stewardship": "Commisso family (Mediacom); Rocco died Jan 2026, son Giuseppe president; built Viola Park",
+   "terrace": "Curva Fiesole, famous in Italy for choreographies"
+  }
+ },
+ {
+  "espn_id": "4057",
+  "name": "Frosinone",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found, either sanctions or inclusion work; estimate.",
+   "voice": "No supporter ownership or documented influence found.",
+   "city": "The provincial town's only professional club and focus of Ciociaria identity.",
+   "stewardship": "Local industrialist family Stirpe (Maurizio Stirpe, president since 2003, built the stadium).",
+   "terrace": "Ultras in the Curva Nord (Frusinati and others); lively but known only locally."
+  }
+ },
+ {
+  "espn_id": "3263",
+  "name": "Genoa",
+  "league": "ita",
+  "notes": {
+   "conscience": "Derby violence with Sampdoria (Sept 2024, 50+ injured) led to a closed-doors match and away bans; objects thrown vs Como fined (2024)",
+   "voice": "No formal fan power; estimate",
+   "city": "Shares Genoa with Sampdoria; Italy's oldest club and a deep local bond",
+   "stewardship": "Dan Sucu (Romanian businessman, also owns Rapid Bucharest) since 2024 after 777 Partners",
+   "terrace": "Gradinata Nord, among Italy's most renowned singing ends; number 12 retired for it"
+  }
+ },
+ {
+  "espn_id": "110",
+  "name": "Internazionale",
+  "league": "ita",
+  "notes": {
+   "conscience": "Curva Nord leaders convicted (mafia links); betting sponsor",
+   "voice": "No fan power",
+   "city": "Shares Milan with AC Milan",
+   "stewardship": "Oaktree Capital (credit fund) owns ~99.6%",
+   "terrace": "Curva Nord choreographies and constant noise"
+  }
+ },
+ {
+  "espn_id": "111",
+  "name": "Juventus",
+  "league": "ita",
+  "notes": {
+   "conscience": "April 2023 racist abuse of Lukaku: 171 fans banned (DASPO); stand closure annulled on appeal",
+   "voice": "Listed company controlled by Exor; no fan influence",
+   "city": "Support is national (Italy's most supported club); Turin also has Torino",
+   "stewardship": "Agnelli family through Exor since 1923; Calciopoli and 2023 accounts case (UEFA settlement)",
+   "terrace": "Curva Sud organised but not a defining end"
+  }
+ },
+ {
+  "espn_id": "112",
+  "name": "Lazio",
+  "league": "ita",
+  "notes": {
+   "conscience": "UEFA fine for racism and fascist salutes (2020), antisemitic derby chants (2023), Curva Nord closed for racist chants at Lukaku (2024), Munich fascist salutes (2024), ultras attack on Real Sociedad fans (2025)",
+   "voice": "No formal fan ownership or trust; Curva holds informal sway only",
+   "city": "Shares Rome with Roma, the larger local following",
+   "stewardship": "Claudio Lotito (Lazio Events, 66.7%), long-term private owner, frequent fan protests",
+   "terrace": "Curva Nord, long led by the Irriducibili (disbanded 2019); loud and organised, known across Italy"
+  }
+ },
+ {
+  "espn_id": "113",
+  "name": "Lecce",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found since 2019; no documented inclusion work found, estimate",
+   "voice": "Ultras protests (ticket prices) but no formal fan power",
+   "city": "Only big club of Lecce and the Salento; record 21,726 season tickets in 2024-25",
+   "stewardship": "Saverio Sticchi Damiani, local majority owner and president; Alvin Sariaatmadja minority",
+   "terrace": "Ultras in the Curva Nord, the core of the support, often sold out; known in Serie A"
+  }
+ },
+ {
+  "espn_id": "4007",
+  "name": "Monza",
+  "league": "ita",
+  "notes": {
+   "conscience": "Nothing notable found; estimate",
+   "voice": "Fan clubs united since 2022; no formal power",
+   "city": "Monza's club, in Milan's shadow",
+   "stewardship": "Beckett Layne Ventures, US investment firm (bought from Fininvest 2025-26)",
+   "terrace": "Curva Sud (Gioventu Brianzola, S.A.B.), organised but small"
+  }
+ },
+ {
+  "espn_id": "114",
+  "name": "Napoli",
+  "league": "ita",
+  "notes": {
+   "conscience": "Neapolitan pride against territorial discrimination; fan violence",
+   "voice": "No fan power, owner combative",
+   "city": "Napoli is Naples' identity, a working city",
+   "stewardship": "De Laurentiis, local, prudent, also owns Bari",
+   "terrace": "Curva A/B among Italy's loudest"
+  }
+ }
+]

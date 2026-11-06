@@ -1,0 +1,182 @@
+[
+ {
+  "espn_id": "20703",
+  "name": "Inter D'Escaldes",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "No supporter role found.",
+   "city": "Club of Escaldes-Engordany in Andorra, where football draws very small crowds.",
+   "stewardship": "Private club, backed early by builder Construccions Modernes; chairman Pablo Gomez (estimate).",
+   "terrace": "No organised support beyond a few followers (estimate)."
+  }
+ },
+ {
+  "espn_id": "7922",
+  "name": "Jablonec",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "Privately owned company; no fan influence found.",
+   "city": "Main club of Jablonec nad Nisou (~45,000); limited pull (estimate).",
+   "stewardship": "Businessman Jakub Střeštík bought the majority from Miroslav Pelta, jailed for subsidy fraud, who kept a role in the club.",
+   "terrace": "Small home support; no notable organised group found (estimate)."
+  }
+ },
+ {
+  "espn_id": "3611",
+  "name": "KAA Gent",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; active club foundation; Native American logo criticised",
+   "voice": "No documented fan power",
+   "city": "Ghent's main club, strong local following",
+   "stewardship": "Sam Baro, about 95-97% since 2023 (EUR 30m), conventional private owner",
+   "terrace": "Loud 'Buffalo' home end, known in Belgium"
+  }
+ },
+ {
+  "espn_id": "2528",
+  "name": "Kairat Almaty",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; little visible inclusion work (estimate)",
+   "voice": "No documented fan role in ownership or decisions",
+   "city": "Almaty's main club, nicknamed 'The Nation's Team'",
+   "stewardship": "Private owner Kairat Boranbayev (arrested 2022); city council holds a 30% minority stake since 2015 and funds the club",
+   "terrace": "Supporters' groups exist but little known beyond Kazakhstan (estimate)"
+  }
+ },
+ {
+  "espn_id": "20028",
+  "name": "Kauno Zalgiris",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "voice": "Privately owned; no supporter role found.",
+   "city": "Kaunas's main football club, but the city lives through basketball (Zalgiris BC).",
+   "stewardship": "Local owners: Paulius Motiejunas (70%) and basketball great Mantas Kalnietis (30%, chairman).",
+   "terrace": "A small, newly developing fan base; no known ultras group (estimate)."
+  }
+ },
+ {
+  "espn_id": "8169",
+  "name": "KuPS Kuopio",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "KuPS ry (members' association) holds the league place and leases it to the company; some structure, little documented fan power.",
+   "city": "Kuopio's football club; the city also follows KalPa hockey.",
+   "stewardship": "Main owner Ari Lahti (Finnish investor, FA president), funding the club about a million euros a year since the 2000s.",
+   "terrace": "KPO Crew (2006) at the south end; small."
+  }
+ },
+ {
+  "espn_id": "17856",
+  "name": "Lincoln Red Imps",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; little visible inclusion work (estimate).",
+   "voice": "No documented supporter ownership or influence (estimate).",
+   "city": "Gibraltar's dominant club, but a small territory where football is a minor pastime.",
+   "stewardship": "Run by a club board under president Dylan Viagas; no outside investor reported (estimate).",
+   "terrace": "No known organised supporters' group; crowds often a few hundred."
+  }
+ },
+ {
+  "espn_id": "20301",
+  "name": "Mjällby AIF",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; standard Swedish community work (estimate).",
+   "voice": "Swedish member association under the 51% rule; members elect the board.",
+   "city": "The pride of Hälleviks fishing village (about 800 people) and Sölvesborg; 2025 title squad mostly local-born.",
+   "stewardship": "Member-owned non-profit association; chairman Jan Sjöblom.",
+   "terrace": "Supporters' club Sillastrybarna, with tifo displays; small but organised."
+  }
+ },
+ {
+  "espn_id": "22281",
+  "name": "Pafos",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "voice": "No supporter role.",
+   "city": "Paphos's main club, but a 2014 merger with shallow roots.",
+   "stewardship": "Russian billionaire Sergey Lomakin (Fix Price) with chairman Roman Dubov via Total Sports Investments; part of a loose network with Riga FC.",
+   "terrace": "Small support; no known organised group of note (estimate)."
+  }
+ },
+ {
+  "espn_id": "443",
+  "name": "Panathinaikos",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA found discriminatory conduct, fireworks and missiles v Chelsea (Oct 2024); suspended stadium closure",
+   "voice": "Briefly fan-owned via Panathinaikos Alliance (2012); now owner-run",
+   "city": "One of Greece's most supported clubs; shares Athens with AEK and Olympiacos",
+   "stewardship": "Giannis Alafouzos (Skai TV owner), private, long-term",
+   "terrace": "Gate 13, one of Europe's best-known ultras groups"
+  }
+ },
+ {
+  "espn_id": "2290",
+  "name": "Red Star Belgrade",
+  "league": "uecl",
+  "notes": {
+   "conscience": "UEFA closed-doors order and fine for racist abuse of Ibrahimovic (2021); Mladic support banners (2018); repeated racism sanctions",
+   "voice": "Part of the Crvena zvezda sports society; no fan ownership, politically connected boards",
+   "city": "Serbia's most supported club but shares Belgrade with Partizan",
+   "stewardship": "Run by the Crvena zvezda sports association, long reliant on political patrons and Gazprom sponsorship",
+   "terrace": "Delije, organised since 1989, famous for choreography and flares"
+  }
+ },
+ {
+  "espn_id": "19246",
+  "name": "Riga FC",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; no visible inclusion work (estimate).",
+   "voice": "Privately controlled company (SIA); no supporter role.",
+   "city": "A 2015 creation in a city with several clubs and little football following.",
+   "stewardship": "Linked to Russian billionaire Sergey Lomakin (Fix Price), who also backs Pafos; ownership opaque, chairman Aleksandrs Pronins.",
+   "terrace": "No known supporters' group; modern club (founded 2015) with small crowds (estimate)."
+  }
+ },
+ {
+  "espn_id": "620",
+  "name": "SK Brann",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found; standard community work (estimate).",
+   "voice": "Member association (Norwegian clubs must be member-controlled); members forced an extraordinary general meeting in 2021.",
+   "city": "Bergen's club, 'Bergens Stolthet'; the city's big team with strong public interest.",
+   "stewardship": "Member club with an elected board (chair Arild Mjøs Andersen); no outside owner.",
+   "terrace": "Bataljonen, official supporters' club since 2003, in the Store Stå section; loud and known in Norway."
+  }
+ },
+ {
+  "espn_id": "936",
+  "name": "Sint-Truidense",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Nothing notable found (estimate).",
+   "voice": "Corporate owner; no fan influence found.",
+   "city": "The town's club since 1924; main identity of a small Limburg town (estimate).",
+   "stewardship": "DMM.com (Japanese company) since 2017; run largely as a European stepping stone for Japanese players.",
+   "terrace": "Home support ('De Kanaries') known in Belgium; no notable organised end found (estimate)."
+  }
+ },
+ {
+  "espn_id": "997",
+  "name": "Trabzonspor",
+  "league": "uecl",
+  "notes": {
+   "conscience": "Sanctioned violence: fans invaded the pitch and attacked Fenerbahce players in March 2024 (TFF closed-doors ban, reduced to four matches on appeal); 2016 assistant-referee attack. No racism case found.",
+   "voice": "Members' association: congress elects the president (Ertugrul Dogan, re-elected unopposed Nov 2024); the listed football company is controlled by the association.",
+   "city": "Trabzon's only major club and regional identity; first Anatolian club to break the Istanbul clubs' hold on the title.",
+   "stewardship": "Member club run by elected president Ertugrul Dogan; heavy debt and a 2019-20 UEFA FFP European ban.",
+   "terrace": "Organised supporter groups and big home choreographies; known as one of Turkey's loudest crowds; slogan 'Bize her yer Trabzon'."
+  }
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "espn_id": "131563",
+  "name": "Denver Summit FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "no record yet (estimate)",
+   "voice": "no fan power",
+   "city": "strong early buy-in (63,004 opener)",
+   "stewardship": "local Cohen group, record $110m fee, stadium planned",
+   "terrace": "new supporters' groups, evidence limited"
+  }
+ },
+ {
+  "espn_id": "15364",
+  "name": "Gotham FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Pride and community work visible in NY market",
+   "voice": "no fan power",
+   "city": "New Jersey/NY club among many teams",
+   "stewardship": "Murphys, Lloyd, Manning group; turned club round",
+   "terrace": "Cloud 9 supporters, modest"
+  }
+ },
+ {
+  "espn_id": "17346",
+  "name": "Houston Dash",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "coach Clarkson terminated 2022 (misconduct)",
+   "voice": "no fan power",
+   "city": "Houston's women's team behind Dynamo and big US sports",
+   "stewardship": "Ted Segal with Dynamo, conventional",
+   "terrace": "small supporters' section"
+  }
+ },
+ {
+  "espn_id": "20907",
+  "name": "Kansas City Current",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "community work; 2022 Williams complaint failure",
+   "voice": "club consults supporters, no fan power",
+   "city": "the city embraced it, sell-outs every match",
+   "stewardship": "local Longs/Mahomes, privately funded stadium and training centre",
+   "terrace": "Blue Crew, Surface Tension, The Undertow, sold out"
+  }
+ },
+ {
+  "espn_id": "15366",
+  "name": "North Carolina Courage",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Riley abuse fallout, 2023 NWSL fine",
+   "voice": "no fan power",
+   "city": "Cary suburb, shares market with MLS hopes",
+   "stewardship": "Steve Malik (local), stalled downtown stadium",
+   "terrace": "Uprising supporters, small"
+  }
+ },
+ {
+  "espn_id": "18206",
+  "name": "Orlando Pride",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Pride name and Pulse remembrance; Cromwell fired 2022",
+   "voice": "no fan power",
+   "city": "Orlando shares with Orlando City and US sports",
+   "stewardship": "Wilf family (Vikings) with Orlando City",
+   "terrace": "Ruckus/shared supporters, modest"
+  }
+ },
+ {
+  "espn_id": "15362",
+  "name": "Portland Thorns FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Riveters known for inclusion and activism; Yates-report failures",
+   "voice": "Riveters' campaigns helped force Paulson's sale (2022)",
+   "city": "Portland lives through Thorns and Timbers",
+   "stewardship": "Bhathal family (RAJ Sports) since 2024, stable",
+   "terrace": "Rose City Riveters, famous for tifo beyond the league"
+  }
+ },
+ {
+  "espn_id": "20905",
+  "name": "Racing Louisville FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Holly abuse in Yates report",
+   "voice": "no fan power",
+   "city": "shares city with Louisville City",
+   "stewardship": "Soccer Holdings exploring sale/relocation to Cincinnati",
+   "terrace": "Lavender Legion, small"
+  }
+ },
+ {
+  "espn_id": "21423",
+  "name": "San Diego Wave FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "workplace abuse allegations 2024",
+   "voice": "no fan power",
+   "city": "big early following, now fading",
+   "stewardship": "Leichtman/Levine (PE founders) since 2024",
+   "terrace": "Sirens supporters, known in the NWSL"
+  }
+ },
+ {
+  "espn_id": "15363",
+  "name": "Seattle Reign FC",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "Rapinoe-era activism, Pride; Benstiti abuse 2021",
+   "voice": "no fan power",
+   "city": "Seattle's women's team behind Sounders",
+   "stewardship": "Sounders owners plus Carlyle Group private equity",
+   "terrace": "Royal Guard since 2013, known in the NWSL"
+  }
+ },
+ {
+  "espn_id": "19141",
+  "name": "Utah Royals",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "original club folded after owner Hansen's conduct",
+   "voice": "no fan power",
+   "city": "Salt Lake City club shared with RSL",
+   "stewardship": "Miller family (local) since 2025",
+   "terrace": "small supporters' groups"
+  }
+ },
+ {
+  "espn_id": "15365",
+  "name": "Washington Spirit",
+  "league": "nwsl",
+  "notes": {
+   "conscience": "visible community work; 2021 Burke abuse scandal",
+   "voice": "fans and players forced owner Baldwin out (2021)",
+   "city": "DC's women's team, large following",
+   "stewardship": "Kang multi-club (Kynisca) flagship, heavy investment",
+   "terrace": "Spirit Squadron and Rose Room Collective, known in the NWSL"
+  }
+ },
+ {
+  "espn_id": "19405",
+  "name": "Birmingham Legion FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing notable (estimate)",
+   "voice": "no fan governance",
+   "city": "low local bond",
+   "stewardship": "local business group",
+   "terrace": "Magic City Brigade, small"
+  }
+ },
+ {
+  "espn_id": "131579",
+  "name": "Brooklyn FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "women's team first (estimate)",
+   "voice": "none",
+   "city": "new franchise",
+   "stewardship": "NY family office",
+   "terrace": "new"
+  }
+ },
+ {
+  "espn_id": "9729",
+  "name": "Charleston Battery",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing notable (estimate)",
+   "voice": "none",
+   "city": "modest",
+   "stewardship": "local owner",
+   "terrace": "The Regiment"
+  }
+ },
+ {
+  "espn_id": "17830",
+  "name": "Colorado Springs Switchbacks FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "nothing notable (estimate)",
+   "voice": "none",
+   "city": "downtown",
+   "stewardship": "local owner built stadium",
+   "terrace": "Trailheads"
+  }
+ },
+ {
+  "espn_id": "19179",
+  "name": "Detroit City FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Openly anti-racist, anti-fascist; first US pro-LGBTQ+ match kit (2014)",
+   "voice": "Fans bought investment units ($1m+ in 2020); supporter-driven culture",
+   "city": "Deeply local (Hamtramck), but Detroit's main teams are the big leagues",
+   "stewardship": "Founded and still controlled by five local residents",
+   "terrace": "smoke, chanting, tifo, famous in US lower leagues"
+  }
+ },
+ {
+  "espn_id": "19407",
+  "name": "El Paso Locomotive FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable found",
+   "voice": "No fan power",
+   "city": "Well liked locally but a young franchise",
+   "stewardship": "Local MountainStar group",
+   "terrace": "Supporters exist but no noted section"
+  }
+ },
+ {
+  "espn_id": "18446",
+  "name": "FC Tulsa",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable found",
+   "voice": "No fan power",
+   "city": "Young franchise in a baseball park",
+   "stewardship": "Local Craft family",
+   "terrace": "83UNITED official supporters; small"
+  }
+ },
+ {
+  "espn_id": "19411",
+  "name": "Hartford Athletic",
+  "league": "usl",
+  "notes": {
+   "conscience": "Players walked off over alleged slur (2025)",
+   "voice": "No fan power",
+   "city": "City's club, small crowds",
+   "stewardship": "Local Hartford Sports Group",
+   "terrace": "The Bonanza and Raza Brava"
+  }
+ },
+ {
+  "espn_id": "17360",
+  "name": "Indy Eleven",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "No fan power",
+   "city": "Indianapolis's soccer club",
+   "stewardship": "Ozdemir; stadium plans stalled",
+   "terrace": "Brickyard Battalion (2,000+ members)"
+  }
+ },
+ {
+  "espn_id": "18987",
+  "name": "Las Vegas Lights FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "No fan power",
+   "city": "Little local bond",
+   "stewardship": "Bautista group; no home ground for 2027",
+   "terrace": "BLVD Locals; small"
+  }
+ },
+ {
+  "espn_id": "21822",
+  "name": "Lexington",
+  "league": "usl",
+  "notes": {
+   "conscience": "Pro women's team",
+   "voice": "No fan power",
+   "city": "Young club",
+   "stewardship": "Local owners built stadium",
+   "terrace": "Railbirds supporters; small"
+  }
+ },
+ {
+  "espn_id": "19410",
+  "name": "Loudoun United FC",
+  "league": "usl",
+  "notes": {
+   "conscience": "Nothing notable",
+   "voice": "None",
+   "city": "Exurban reserve-side origin, weak bond",
+   "stewardship": "Attain Sports majority, D.C. United minority",
+   "terrace": "Loudoun Stampede, tiny"
+  }
+ }
+]
