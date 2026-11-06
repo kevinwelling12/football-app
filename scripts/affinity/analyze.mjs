@@ -20,8 +20,10 @@ const answered = answered0;
 say(`# Affinity picks: ${raw.length} total, ${answered.length} answered, ${skipped.length} can't say\n`);
 
 // 1. how well the model predicts picks it hasn't seen (10-fold), and what it learned
-const RV = JSON.parse(fs.readFileSync('data/affinity/rivals.json', 'utf8'));
-const ctx = { league: LEAGUE, rivals: new Set(Object.entries(RV).filter(([k]) => k !== '_note').flatMap(([, v]) => Object.keys(v.rivals))) };
+// as in the page (2026-11-06): no rivals, fame = Elo standing in the league
+const STANDING = {};
+for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl', 'uel', 'uecl']) { const ts = JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams.sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (STANDING[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
+const ctx = { league: LEAGUE, rivals: new Set(), standing: STANDING };
 const all = raw.filter(p => traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: winOf(p) }));
 let ok = 0, tot = 0;
 for (let k = 0; k < 10; k++) {
@@ -36,7 +38,11 @@ for (const [f, b] of Object.entries(model.beta).sort((a, b) => Math.abs(b[1]) - 
 const adj = Object.entries(model.u).filter(([, v]) => Math.abs(v) > 0.3).sort((a, b) => b[1] - a[1]);
 say(`- Clubs your picks rate above their traits: ${adj.filter(x => x[1] > 0).slice(0, 8).map(([id, v]) => `${traits[id].name} +${v.toFixed(1)}`).join(', ') || 'none'}`);
 say(`- ...and below: ${adj.filter(x => x[1] < 0).reverse().slice(0, 8).map(([id, v]) => `${traits[id].name} ${v.toFixed(1)}`).join(', ') || 'none'}\n`);
-const full = { w: null };
+const top = Object.keys(traits).filter(id => LEAGUE[id] && !FAVS.includes(id)).sort((a, b) => model.affinity(b) - model.affinity(a));
+say(`## Top 15 by Affinity\n${top.slice(0, 15).map((id, i) => `${i + 1}. ${traits[id].name} ${Math.round(model.affinity(id))}`).join('\n')}\n`);
+say(`## Bottom 10\n${top.slice(-10).reverse().map(id => `${traits[id].name} ${Math.round(model.affinity(id))}`).join(', ')}\n`);
+const ties = raw.filter(p => p.pick === 'no strong opinion').length;
+say(`- No strong opinion: ${ties} of ${raw.length}\n`);
 
 // 3. consistency: triads where A>B, B>C, C>A
 const beats = new Map(); for (const p of answered) beats.set(`${p.win}>${p.win === p.a ? p.b : p.a}`, 1);
