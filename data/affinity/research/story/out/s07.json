@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita",
+  "comeback": 9,
+  "punch": 4,
+  "why": {
+   "comeback": "Bankrupt 2015 (EUR 218m debts), refounded in Serie D with fans holding 25%; three straight promotions to Serie A by 2018; relegated 2021, back 2024.",
+   "punch": "Krause investment since 2020; 16th in 2024-25 and 13th in 2025-26, about what the money buys."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parma_Calcio_1913"
+  ]
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita",
+  "comeback": 2,
+  "punch": 6,
+  "why": {
+   "comeback": "Steady rise from amateur levels under Mapei; one relegation (2024) followed by an immediate Serie B title.",
+   "punch": "Small-town club, 6th in 2016 and 8th twice under De Zerbi, strong player sales; relegated 2024, 11th in 2025-26 on a mid budget."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/U.S._Sassuolo_Calcio"
+  ]
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita",
+  "comeback": 6,
+  "punch": 4,
+  "why": {
+   "comeback": "Defined by the 1949 Superga disaster; bankrupt in 2005 and refounded in Serie B, promoted 2006 and again 2012 after another relegation.",
+   "punch": "Mid-table (9th-12th) for five seasons on a mid budget; long fan protests over lack of ambition under Cairo."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torino_FC"
+  ]
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita",
+  "comeback": 2,
+  "punch": 6,
+  "why": {
+   "comeback": "Points deduction and relegation in 1986-87 are distant; in Serie A without a break since 1995-96.",
+   "punch": "Pozzo scouting network long sold well; last five seasons lower mid-table survival (10th in 2025-26) on a lower-half budget."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Udinese_Calcio"
+  ]
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita",
+  "comeback": 8,
+  "punch": 4,
+  "why": {
+   "comeback": "Bankrupt three times (2005, 2009, 2015), refounded in Serie D in 2009 and 2015; climbed to Serie A in 2021 and won Serie B in 2026.",
+   "punch": "Yo-yo since 2021: relegated from Serie A in 2022 and 2025; spends at the top of Serie B, promoted on that money."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venezia_FC"
+  ]
+ },
+ {
+  "espn_id": "172",
+  "name": "AJ Auxerre",
+  "league": "fra",
+  "comeback": 6,
+  "punch": 6,
+  "why": {
+   "comeback": "Double winners 1996, relegated 2012 after 32 top-flight seasons; ten years in Ligue 2, back 2022, down 2023, Ligue 2 champions 2024.",
+   "punch": "Small budget; stayed up in Ligue 1 in 2024-25 and 2025-26 (15th). Estimate on budget rank."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AJ_Auxerre"
+  ]
+ },
+ {
+  "espn_id": "174",
+  "name": "AS Monaco",
+  "league": "fra",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "Relegated 2011 and bottom of Ligue 2 when Rybolovlev bought the club; promoted 2013, champions 2017.",
+   "punch": "Large budget plus tax advantage; 3rd 2021, 2nd 2024, 7th 2026; strong sales model but results match resources."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AS_Monaco_FC"
+  ]
+ },
+ {
+  "espn_id": "7868",
+  "name": "Angers",
+  "league": "fra",
+  "comeback": 2,
+  "punch": 5,
+  "why": {
+   "comeback": "Ordinary ups and downs: promoted 2015, relegated 2023, back in 2024.",
+   "punch": "One of the smaller budgets, lower mid-table (13th in 2025-26); two FIFA transfer bans (2021, 2023)."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angers_SCO"
+  ]
+ },
+ {
+  "espn_id": "6997",
+  "name": "Brest",
+  "league": "fra",
+  "comeback": 6,
+  "punch": 9,
+  "why": {
+   "comeback": "Liquidated in 1991 and dropped to amateur football; climbed back to Ligue 2 in 2004, Ligue 1 in 2010 and 2019.",
+   "punch": "One of Ligue 1's smallest budgets, 3rd in 2023-24 and a Champions League knockout play-off in 2025."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Brestois_29"
+  ]
+ },
+ {
+  "espn_id": "3236",
+  "name": "Le Havre AC",
+  "league": "fra",
+  "comeback": 3,
+  "punch": 6,
+  "why": {
+   "comeback": "France's oldest club spent 2009-2023 in Ligue 2 before winning it in 2023; no near-death episode found.",
+   "punch": "Among the smallest Ligue 1 budgets, has stayed up three seasons running (14th in 2025-26); known academy. Estimate on budget."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Havre_AC"
+  ]
+ },
+ {
+  "espn_id": "2697",
+  "name": "Le Mans",
+  "league": "fra",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "Liquidated in 2013 and restarted in the regional amateur league; climbed back to Ligue 2 in 2019 and 2025 and to Ligue 1 in 2026.",
+   "punch": "Two promotions in two seasons (2025, 2026); new OutField investors since 2025. Budget rank is an estimate."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Mans_FC"
+  ]
+ },
+ {
+  "espn_id": "175",
+  "name": "Lens",
+  "league": "fra",
+  "comeback": 7,
+  "punch": 8,
+  "why": {
+   "comeback": "Relegated 2008 and 2011; 2014 promotion annulled by the DNCG in 2015; five more years in Ligue 2 before returning in 2020.",
+   "punch": "Mid-sized budget, 2nd in 2023 and 2026 and the 2026 Coupe de France, with a clear coaching identity."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Lens"
+  ]
+ },
+ {
+  "espn_id": "166",
+  "name": "Lille",
+  "league": "fra",
+  "comeback": 4,
+  "punch": 8,
+  "why": {
+   "comeback": "Near relegation in 2018 and an owner debt crisis around 2020 (lender took control); won the title in 2021 regardless.",
+   "punch": "Ligue 1 title 2021 and regular Europe on a budget far below PSG's; CIES ranks its transfer balance among the world's best."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lille_OSC"
+  ]
+ },
+ {
+  "espn_id": "273",
+  "name": "Lorient",
+  "league": "fra",
+  "comeback": 3,
+  "punch": 5,
+  "why": {
+   "comeback": "Bankrupt in 1978 (fans kept the name) and 1990, both distant; recent history is relegations (2017, 2024) and quick returns.",
+   "punch": "Small budget, yo-yo between Ligue 1 and Ligue 2; 10th in 2025-26 after promotion."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Lorient"
+  ]
+ },
+ {
+  "espn_id": "167",
+  "name": "Lyon",
+  "league": "fra",
+  "comeback": 6,
+  "punch": 3,
+  "why": {
+   "comeback": "Seven straight titles to 2008, then decline; Textor's debts led to a DNCG relegation in June 2025, overturned on appeal; Kang bought the club out of administration in 2026.",
+   "punch": "High budget but 6th, 6th and 4th in recent seasons; debt and ownership turmoil."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_Lyonnais"
+  ]
+ },
+ {
+  "espn_id": "176",
+  "name": "Marseille",
+  "league": "fra",
+  "comeback": 4,
+  "punch": 3,
+  "why": {
+   "comeback": "Stripped of the 1993 title and relegated in 1994 over match fixing, back in 1996; no deep crisis since.",
+   "punch": "Second-largest revenue in France with heavy losses; 2nd twice, no trophy since 2012."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_de_Marseille"
+  ]
+ },
+ {
+  "espn_id": "2502",
+  "name": "Nice",
+  "league": "fra",
+  "comeback": 3,
+  "punch": 2,
+  "why": {
+   "comeback": "Administratively relegated by the DNCG in 2002, reversed on appeal; otherwise ordinary ups and downs.",
+   "punch": "INEOS spending since 2019; 5th in 2024, then 16th and a relegation play-off in 2026; club for sale."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OGC_Nice"
+  ]
+ },
+ {
+  "espn_id": "6851",
+  "name": "Paris FC",
+  "league": "fra",
+  "comeback": 5,
+  "punch": 4,
+  "why": {
+   "comeback": "Long decline after the 1972 split from PSG, decades in the lower and amateur leagues; promoted to Ligue 1 in 2025 for the first time since 1979.",
+   "punch": "Arnault-family money since 2024; 11th in the first Ligue 1 season, about what the budget buys."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_FC"
+  ]
+ },
+ {
+  "espn_id": "160",
+  "name": "Paris Saint-Germain",
+  "league": "fra",
+  "comeback": 1,
+  "punch": 1,
+  "why": {
+   "comeback": "Financial trouble and a near relegation in 2008 before the 2011 Qatar takeover; nothing that defines the club now.",
+   "punch": "By far the largest budget in France; Champions League 2025 and 2026 bought with that money."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC"
+  ]
+ },
+ {
+  "espn_id": "169",
+  "name": "Stade Rennais",
+  "league": "fra",
+  "comeback": 1,
+  "punch": 3,
+  "why": {
+   "comeback": "Near bankruptcy in 1978 is distant; stable under Pinault since 1998.",
+   "punch": "Top-five budget in France with a strong academy; 4th twice, then 10th and 12th, 6th in 2025-26."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Rennais_FC"
+  ]
+ },
+ {
+  "espn_id": "180",
+  "name": "Strasbourg",
+  "league": "fra",
+  "comeback": 9,
+  "punch": 5,
+  "why": {
+   "comeback": "Bankrupt in 2011 and restarted in the fifth tier; four promotions to return to Ligue 1 in 2017, now in Europe.",
+   "punch": "BlueCo's heavy spending on young players since 2023; 7th in 2025 and a Conference League semi-final in 2026."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace"
+  ]
+ },
+ {
+  "espn_id": "179",
+  "name": "Toulouse",
+  "league": "fra",
+  "comeback": 5,
+  "punch": 7,
+  "why": {
+   "comeback": "Bankrupt in 2001 and sent to the third tier; relegated again in 2020, Ligue 2 champions in 2022.",
+   "punch": "RedBird's data-led model on a modest budget: Coupe de France 2023, Europa League 2023-24, mid-table since."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toulouse_FC"
+  ]
+ },
+ {
+  "espn_id": "170",
+  "name": "Troyes",
+  "league": "fra",
+  "comeback": 3,
+  "punch": 2,
+  "why": {
+   "comeback": "Bankruptcies and refounding in the 1970s-80s are distant; recent yo-yo, double relegation in 2024, Ligue 2 champions 2026.",
+   "punch": "City Football Group backing since 2020, yet relegated in 2023 and down to the third tier in 2024."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ES_Troyes_AC"
+  ]
+ },
+ {
+  "espn_id": "392",
+  "name": "Birmingham City",
+  "league": "eng2",
+  "comeback": 6,
+  "punch": 2,
+  "why": {
+   "comeback": "Administration in 1992, owner arrested in 2011 and receivership, 9-point deduction in 2019, relegated to League One in 2024; promoted back as champions in 2025.",
+   "punch": "Knighthead's record League One spending to go up; 10th in the 2025-26 Championship."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Birmingham_City_F.C."
+  ]
+ }
+]

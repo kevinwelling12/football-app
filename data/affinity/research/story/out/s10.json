@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "4411",
+  "name": "LASK Linz",
+  "league": "ucl",
+  "comeback": 7.5,
+  "punch": 6,
+  "why": {
+   "comeback": "1995 bankruptcy and 1997 merger; 2012 licence loss to third tier, near shutdown 2013; fans' consortium took over, back up 2017, Europe, 2026 double",
+   "punch": "Austrian double 2025-26 and regular Europe on a budget well below Salzburg's (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/LASK"
+  ]
+ },
+ {
+  "espn_id": "148",
+  "name": "PSV Eindhoven",
+  "league": "ucl",
+  "comeback": 3,
+  "punch": 5.5,
+  "why": {
+   "comeback": "2008-11 deficits; sold ground to the municipality (EUR 48.4m) and borrowed to stay afloat; titles again from 2015",
+   "punch": "Three titles 2024-26 and two cups on the second-biggest Dutch budget: about what its money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PSV_Eindhoven"
+  ]
+ },
+ {
+  "espn_id": "21922",
+  "name": "Sabah FK",
+  "league": "ucl",
+  "comeback": 0.5,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2017; too new for a story",
+   "punch": "First title and two cups 2025-26 with owner funding; little sign of a lean model (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sabah_FK"
+  ]
+ },
+ {
+  "espn_id": "493",
+  "name": "Shakhtar Donetsk",
+  "league": "ucl",
+  "comeback": 7,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Exiled from Donetsk since 2014 (Lviv, Kharkiv, Kyiv), European home games abroad since 2022, academy moved to Split; still won titles 2023, 2024, 2026",
+   "punch": "Ukraine's richest club winning as expected; strong sell-on model (Willian, Fernandinho, Mkhitaryan)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "494",
+  "name": "Slavia Prague",
+  "league": "ucl",
+  "comeback": 5.5,
+  "punch": 5.5,
+  "why": {
+   "comeback": "2010-11 debt crisis (unpaid wages, fan protest), 13th in 2013-14; new owners, titles from 2017 incl. 2025 and 2026",
+   "punch": "Czech top budget; titles and Europa League quarter-finals, roughly in line with spending"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SK_Slavia_Prague"
+  ]
+ },
+ {
+  "espn_id": "521",
+  "name": "Slovan Bratislava",
+  "league": "ucl",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "Financial trouble and relegation 2004, back 2005; ten years in exile at Pasienky 2009-19 until new Tehelne pole",
+   "punch": "Slovakia's biggest budget dominating at home; Champions League league phase 2024-25"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C5%A0K_Slovan_Bratislava"
+  ]
+ },
+ {
+  "espn_id": "2250",
+  "name": "Sporting CP",
+  "league": "ucl",
+  "comeback": 7,
+  "punch": 7.5,
+  "why": {
+   "comeback": "Debts over EUR 276m by 2011, 7th in 2012-13 (lowest ever), 2018 academy attack and nine players leaving, 19-year title drought; restructured and champions 2021, 2024, 2025",
+   "punch": "Third budget in Portugal behind Benfica and Porto, three titles in five seasons, coach-led (Amorim) and big sales"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sporting_CP"
+  ]
+ },
+ {
+  "espn_id": "510",
+  "name": "Viking FK",
+  "league": "ucl",
+  "comeback": 7,
+  "punch": 7,
+  "why": {
+   "comeback": "Relegated 2017 and near bankruptcy 2018, bank refinanced the debt; promoted 2018, cup 2019, first title in 34 years 2025, Champions League",
+   "punch": "2025 title ahead of Bodo/Glimt and regular top four without a top budget (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viking_FK"
+  ]
+ },
+ {
+  "espn_id": "140",
+  "name": "AZ Alkmaar",
+  "league": "uel",
+  "comeback": 4,
+  "punch": 7.5,
+  "why": {
+   "comeback": "Relegated 1988; owner's DSB Bank collapsed 2009 after the title, stadium roof collapse 2019 (estimate: from memory, not in page read)",
+   "punch": "Fifth-ish Dutch budget, steady top five, Conference League semi 2023, cups 2026, academy sales (Koopmeiners, Stengs)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AZ_Alkmaar"
+  ]
+ },
+ {
+  "espn_id": "441",
+  "name": "Anderlecht",
+  "league": "uel",
+  "comeback": 4.5,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Fall from European glory: 8th in 2019-20 and no Europe for the first time in 55 years, 11th in 2022-23; partial recovery (2nd 2024)",
+   "punch": "No title since 2017 on one of Belgium's biggest budgets; overtaken by lower-budget Union"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/R.S.C._Anderlecht"
+  ]
+ },
+ {
+  "espn_id": "20024",
+  "name": "Ararat-Armenia",
+  "league": "uel",
+  "comeback": 0.5,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2017; too new for a story",
+   "punch": "Billionaire-backed, among Armenia's best funded; titles 2019, 2020, 2026, about what money says (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Ararat-Armenia"
+  ]
+ },
+ {
+  "espn_id": "1929",
+  "name": "Benfica",
+  "league": "uel",
+  "comeback": 4,
+  "punch": 4,
+  "why": {
+   "comeback": "Debt crisis late 1990s (unpaid wages, taxes), 6th in 2000-01, title drought 1994-2005; recovered under Vieira",
+   "punch": "Portugal's biggest budget, one title in five seasons (2023); strong academy sales offset"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.L._Benfica"
+  ]
+ },
+ {
+  "espn_id": "1895",
+  "name": "Besiktas",
+  "league": "uel",
+  "comeback": 4.5,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Financial restructuring and UEFA ban 2013, stadium exile 2013-16; titles 2016 and 2017; heavy debt remains",
+   "punch": "Big-three budget; 2021 double, then 6th, 3rd, 4th, 4th with constant coaching changes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_J.K."
+  ]
+ },
+ {
+  "espn_id": "256",
+  "name": "Celtic",
+  "league": "uel",
+  "comeback": 5.5,
+  "punch": 5,
+  "why": {
+   "comeback": "1994 minutes from bankruptcy, McCann rescue, 1994-95 at Hampden; rebuilt Celtic Park, title 1998 and dominance since",
+   "punch": "Joint-top Scottish budget with Rangers; titles as expected, prudent finances"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Celtic_F.C."
+  ]
+ },
+ {
+  "espn_id": "597",
+  "name": "Dinamo Zagreb",
+  "league": "uel",
+  "comeback": 3.5,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Renamed Croatia Zagreb 1993-2000 against fans' will; Mamic corruption convictions 2018-21",
+   "punch": "Croatia's biggest budget winning near every title; elite academy sales (Modric and others)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/GNK_Dinamo_Zagreb"
+  ]
+ },
+ {
+  "espn_id": "622",
+  "name": "Ferencvaros",
+  "league": "uel",
+  "comeback": 6,
+  "punch": 4.5,
+  "why": {
+   "comeback": "Licence withdrawn 2006 over finances, three seasons in the second tier, back 2009; dominant from 2019",
+   "punch": "Hungary's best-funded club with state-party links; titles as expected"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferencv%C3%A1rosi_TC"
+  ]
+ },
+ {
+  "espn_id": "13083",
+  "name": "Hapoel Be'er",
+  "league": "uel",
+  "comeback": 6.5,
+  "punch": 6,
+  "why": {
+   "comeback": "Financial collapse and relegation 2004-05; Barkat bought it 2007, promoted 2009, titles 2016-18 and 2026",
+   "punch": "Titles and Europa League groups behind the Maccabi clubs' budgets (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hapoel_Be%27er_Sheva_F.C."
+  ]
+ },
+ {
+  "espn_id": "11505",
+  "name": "Jagiellonia Bialystok",
+  "league": "uel",
+  "comeback": 5,
+  "punch": 8,
+  "why": {
+   "comeback": "Fell to the fourth tier in the 1990s, back up 2007; 10-point deduction 2009 (corruption)",
+   "punch": "First title 2023-24 then 3rd and 3rd, Conference League quarter-final 2025, on a mid budget and loan-led recruitment (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jagiellonia_Bia%C5%82ystok"
+  ]
+ },
+ {
+  "espn_id": "2990",
+  "name": "Lech Poznan",
+  "league": "uel",
+  "comeback": 4,
+  "punch": 6.5,
+  "why": {
+   "comeback": "1993 financial crisis, relegated 2000 and near third tier, promoted 2002",
+   "punch": "Titles 2022, 2025, 2026 and Conference League quarter-final 2023; second budget behind Legia, academy sales"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lech_Pozna%C5%84"
+  ]
+ },
+ {
+  "espn_id": "490",
+  "name": "Levski Sofia",
+  "league": "uel",
+  "comeback": 8,
+  "punch": 7,
+  "why": {
+   "comeback": "'Practically bankrupt' 2017, debt over BGN 30m, no funding 2020; fans raised BGN 2.6m, austerity under Sirakov, cup 2022 and first title since 2009 in 2026",
+   "punch": "2026 title over far richer Ludogorets after cost-cutting and homegrown signings (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PFC_Levski_Sofia"
+  ]
+ },
+ {
+  "espn_id": "987",
+  "name": "Lillestrom",
+  "league": "uel",
+  "comeback": 5,
+  "punch": 4.5,
+  "why": {
+   "comeback": "Financial strain 2009-13, relegated 2019 and 2024; back up each time, unbeaten 2025 with cup",
+   "punch": "4th, 4th, 6th, relegated, promoted: about what a mid budget buys"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lillestr%C3%B8m_SK"
+  ]
+ },
+ {
+  "espn_id": "147",
+  "name": "NEC Nijmegen",
+  "league": "uel",
+  "comeback": 5.5,
+  "punch": 7,
+  "why": {
+   "comeback": "1987 bankruptcy (creditors waived 80%), yo-yo years, relegated 2014 and 2017; promoted 2021, 3rd in 2026 (best ever)",
+   "punch": "Best-ever 3rd and two cup finals on a mid-lower Eredivisie budget (estimate on budget)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NEC_Nijmegen"
+  ]
+ },
+ {
+  "espn_id": "3362",
+  "name": "NK Celje",
+  "league": "uel",
+  "comeback": 2,
+  "punch": 7,
+  "why": {
+   "comeback": "Relegated 1979 and regional years; no modern crisis found (estimate)",
+   "punch": "Titles 2024 and 2026, Conference League quarter-final 2025; investor-backed but below Olimpija's budget (estimate)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NK_Celje"
+  ]
+ },
+ {
+  "espn_id": "1010",
+  "name": "OFI Crete",
+  "league": "uel",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "EUR 12m debts, withdrew from pro football 2015 and refounded in the amateur third tier; back in the Super League 2018, Europe 2020, Cup 2026 over PAOK",
+   "punch": "Mid-table on a mid budget plus 2026 Cup and Super Cup"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OFI_Crete_F.C."
+  ]
+ }
+]

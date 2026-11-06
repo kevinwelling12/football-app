@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "17832",
+  "name": "Louisville City FC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2014 when Orlando City's USL team moved to Louisville; no folding, exile or collapse since; co-founder died 2018",
+   "punch": "USL titles 2017-18, 1st overall 2024 and 2025, finals 2022; own stadium and academy; payroll unknown, estimate upper-USL budget run well"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louisville_City_FC"
+  ]
+ },
+ {
+  "espn_id": "18159",
+  "name": "Miami FC",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 1,
+  "why": {
+   "comeback": "NASL cancelled 2018 season; club survived via NPSL and NISA, bought into USL 2020; no recovery since (3-2-29 in 2024)",
+   "punch": "Bottom-half since 2023, last in 2024 with 11 points; crowds about 1,000; no clear plan (budget unknown, estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miami_FC"
+  ]
+ },
+ {
+  "espn_id": "21370",
+  "name": "Monterey Bay",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 2,
+  "why": {
+   "comeback": "Founded 2021 from the Fresno FC franchise that folded in 2019 without a stadium; too new for a story",
+   "punch": "11th in the West three seasons running (2023-25), refunded season tickets 2025; budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monterey_Bay_FC"
+  ]
+ },
+ {
+  "espn_id": "19408",
+  "name": "New Mexico United",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Founded 2018; stadium vote lost 2021, new stadium approved 2024; no serious adversity",
+   "punch": "1st in the West 2024, conference final 2025 while playing in a baseball park; budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Mexico_United"
+  ]
+ },
+ {
+  "espn_id": "20687",
+  "name": "Oakland Roots",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 3,
+  "why": {
+   "comeback": "Founded 2018; homeless for years (Laney field problems 2021, Hayward 2023-24, Coliseum 2025, leaving after 2026), still seeking a permanent site",
+   "punch": "Missed playoffs 2023, 2025, 2026; one win in first 13 in 2021; community crowdfunding raised $2.4m in 2023; budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
+  ]
+ },
+ {
+  "espn_id": "18455",
+  "name": "Orange County SC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 5,
+  "why": {
+   "comeback": "LA Blues sold and rebranded 2016; stadium dispute with Galaxy II 2022; last in West 2022 then 2nd 2023: ordinary ups and downs",
+   "punch": "USL title 2021, then mixed (13th, 2nd, 6th, 7th in West); budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orange_County_SC"
+  ]
+ },
+ {
+  "espn_id": "17850",
+  "name": "Phoenix Rising FC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2014 replacing a folded club; venue moves 2014-23 and rebrand 2016, no defining adversity",
+   "punch": "1st overall 2021, USL title 2023 from 6th, otherwise 5th-10th West; large celebrity ownership group, budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoenix_Rising_FC"
+  ]
+ },
+ {
+  "espn_id": "17827",
+  "name": "Pittsburgh Riverhounds",
+  "league": "usl",
+  "comeback": 7,
+  "punch": 7,
+  "why": {
+   "comeback": "Dropped a tier 2004 amid financial problems, sat out 2007, Chapter 11 bankruptcy 2014 over stadium debt; Shallenberger rebuilt it, Players' Shield 2023, first USL title 2025",
+   "punch": "Shield 2023 and title 2025 from a 5,000-seat stadium with an academy-led model; budget unknown, estimate modest"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "22164",
+  "name": "Rhode Island FC",
+  "league": "usl",
+  "comeback": 0,
+  "punch": 5,
+  "why": {
+   "comeback": "First season 2024; only stadium delays (played at Bryant 2024); too new for a story",
+   "punch": "USL final in debut 2024, conference final 2025, quarter-final 2026; budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhode_Island_FC"
+  ]
+ },
+ {
+  "espn_id": "17828",
+  "name": "Sacramento Republic FC",
+  "league": "usl",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "MLS place collapsed 2021 when Burkle withdrew, stadium plan stalled, first missed playoffs 2021; back with Open Cup final 2022, 1st West 2023, Wilton Rancheria-led Railyards stadium deal 2024",
+   "punch": "Playoffs every year since 2022, 1st West 2023, USL Cup final 2025, no league title; budget unknown, estimate upper-USL (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sacramento_Republic_FC"
+  ]
+ },
+ {
+  "espn_id": "18265",
+  "name": "San Antonio FC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 5,
+  "why": {
+   "comeback": "Founded 2016 by Spurs Sports with a city-bought stadium; no serious adversity",
+   "punch": "USL title 2022 (77 pts), then 4th, 9th, 6th, 6th; Spurs backing, budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Antonio_FC"
+  ]
+ },
+ {
+  "espn_id": "131578",
+  "name": "Sporting JAX",
+  "league": "usl",
+  "comeback": 0,
+  "punch": 2,
+  "why": {
+   "comeback": "Announced 2022, men's team began 2026; too new for a story",
+   "punch": "Last in the East in debut 2026 season; CEO left March 2026; budget unknown (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sporting_JAX"
+  ]
+ },
+ {
+  "espn_id": "17361",
+  "name": "Tampa Bay Rowdies",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 5,
+  "why": {
+   "comeback": "Phoenix club (2008) of the original Rowdies folded 1993; trademark fight forced the FC Tampa Bay name 2010-11, venue disputes, league switches; titles 2012 and 2020",
+   "punch": "NASL title 2012, co-champions 2020, finals 2021, 10th East 2025, 1st East 2026; Rays-owned, budget estimate upper-USL"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tampa_Bay_Rowdies"
+  ]
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "Piterman left the club deep in debt 2007, third tier 2009-13; Querejeta rescued it, back in La Liga 2016, Copa final 2017, relegated 2022 and straight back 2023",
+   "punch": "Stays up with one of La Liga's smaller budgets (10th, 15th, 14th since 2023); Copa final 2017 (budget rank estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Alavés"
+  ]
+ },
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp",
+  "comeback": 2,
+  "punch": 8,
+  "why": {
+   "comeback": "Never relegated; near-relegation 2006-07 and a trophy drought 1984-2015 are the low points",
+   "punch": "Basque-only squad; Copa 2024, top-eight finishes, Champions League 2025; mid-upper budget"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Athletic_Bilbao"
+  ]
+ },
+ {
+  "espn_id": "1068",
+  "name": "Atlético Madrid",
+  "league": "esp",
+  "comeback": 4,
+  "punch": 5,
+  "why": {
+   "comeback": "Gil era misuse of funds, relegated 2000, two seasons in Segunda; back 2002 and became a title winner under Simeone",
+   "punch": "La Liga 2021, steady 3rd-4th since; third-largest budget in Spain, results about match spend"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlético_Madrid"
+  ]
+ },
+ {
+  "espn_id": "83",
+  "name": "Barcelona",
+  "league": "esp",
+  "comeback": 4,
+  "punch": 4,
+  "why": {
+   "comeback": "Financial crisis 2021 (heavy debt, Messi's exit, sold future TV rights) while staying top; league titles again 2023, 2025, 2026 (page section not read; estimate from known record)",
+   "punch": "La Liga titles with La Masia players under spending limits, but one of the world's biggest wage bills; estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Barcelona"
+  ]
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp",
+  "comeback": 6,
+  "punch": 7,
+  "why": {
+   "comeback": "Relegated 2004 and 2007, fought relegation to the third tier and bankruptcy risk; back in La Liga 2012, Europa semi-final 2017, 7th and 6th in 2025-26",
+   "punch": "Academy-first under Giráldez: 7th, 6th and a Europa quarter-final on a mid-low budget (budget rank estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
+  ]
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp",
+  "comeback": 9,
+  "punch": 4,
+  "why": {
+   "comeback": "La Liga champions 2000, relegated 2011, 2013, 2018, third tier 2020-24 with 25,000 season tickets; back in La Liga 2026",
+   "punch": "Abanca-funded; four seasons to leave the third tier with the division's biggest budget and crowds, then promoted 2026 (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_de_La_Coruña"
+  ]
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp",
+  "comeback": 5,
+  "punch": 4,
+  "why": {
+   "comeback": "Relegated 2015 for excess debt, third tier 2017; back in La Liga 2020, down 2023, up 2025",
+   "punch": "Yo-yo club (17th, 13th, 20th, promoted 2025, 15th); agent owner Bragarnik; about what its money says (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elche_CF"
+  ]
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp",
+  "comeback": 6,
+  "punch": 3,
+  "why": {
+   "comeback": "Debt forced the sale of Sarria (demolished 1997), 12 years at Montjuic, own ground at Cornella 2009; relegated 2020 and 2023, back each time",
+   "punch": "Two relegations in four seasons despite Chen's investment; 11th in 2025-26; new owners 2025 (estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RCD_Espanyol"
+  ]
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp",
+  "comeback": 4,
+  "punch": 7,
+  "why": {
+   "comeback": "Predecessor liquidated 1982, near collapse 1997 and unpaid wages 2002; rose to La Liga 2004, relegated 2016, back 2017",
+   "punch": "In La Liga since 2017 on one of its smallest budgets; 7th and Conference League 2025-26 (budget rank estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Getafe_CF"
+  ]
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp",
+  "comeback": 6,
+  "punch": 5,
+  "why": {
+   "comeback": "Late-2000s debts over EUR18m to unpaid players, relegated 2005 and 2008; Europa League 2012; relegated 2016 and 2022, back 2017 and 2025",
+   "punch": "Sixth in 2012 on a tiny budget; recent yo-yo (relegated 2022, promoted 2025, 16th) about what its money says"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levante_UD"
+  ]
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp",
+  "comeback": 9,
+  "punch": 6,
+  "why": {
+   "comeback": "Al Thani boom then UEFA ban 2013, relegated 2018, owner removed by a court 2020, third tier 2023; back up 2024 and to La Liga 2026",
+   "punch": "Two promotions in three years under a court administrator with tight finances (budget estimate)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Málaga_CF"
+  ]
+ }
+]
