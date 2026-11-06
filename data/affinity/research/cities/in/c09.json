@@ -1,0 +1,244 @@
+[
+ {
+  "city_key": "2790",
+  "clubs": [
+   "RB Salzburg"
+  ],
+  "ll": [
+   47.82,
+   13
+  ]
+ },
+ {
+  "city_key": "118",
+  "clubs": [
+   "Udinese"
+  ],
+  "ll": [
+   46.08,
+   13.2
+  ]
+ },
+ {
+  "city_key": "4057",
+  "clubs": [
+   "Frosinone"
+  ],
+  "ll": [
+   41.63,
+   13.32
+  ]
+ },
+ {
+  "city_key": "11706",
+  "clubs": [
+   "Viktoria Plzen"
+  ],
+  "ll": [
+   49.75,
+   13.39
+  ]
+ },
+ {
+  "city_key": "598",
+  "clubs": [
+   "1. FC Union Berlin"
+  ],
+  "ll": [
+   52.46,
+   13.57
+  ]
+ },
+ {
+  "city_key": "114",
+  "clubs": [
+   "Napoli"
+  ],
+  "ll": [
+   40.83,
+   14.19
+  ]
+ },
+ {
+  "city_key": "4411",
+  "clubs": [
+   "LASK Linz"
+  ],
+  "ll": [
+   48.29,
+   14.28
+  ]
+ },
+ {
+  "city_key": "2980",
+  "clubs": [
+   "Bodo/Glimt"
+  ],
+  "ll": [
+   67.28,
+   14.39
+  ]
+ },
+ {
+  "city_key": "494",
+  "clubs": [
+   "Sparta Prague",
+   "Slavia Prague"
+  ],
+  "ll": [
+   50.1,
+   14.42
+  ]
+ },
+ {
+  "city_key": "20301",
+  "clubs": [
+   "Mjällby AIF"
+  ],
+  "ll": [
+   56.01,
+   14.7
+  ]
+ },
+ {
+  "city_key": "7922",
+  "clubs": [
+   "Jablonec"
+  ],
+  "ll": [
+   50.73,
+   15.18
+  ]
+ },
+ {
+  "city_key": "3362",
+  "clubs": [
+   "NK Celje"
+  ],
+  "ll": [
+   46.24,
+   15.27
+  ]
+ },
+ {
+  "city_key": "3746",
+  "clubs": [
+   "SK Sturm Graz"
+  ],
+  "ll": [
+   47.05,
+   15.46
+  ]
+ },
+ {
+  "city_key": "597",
+  "clubs": [
+   "Dinamo Zagreb"
+  ],
+  "ll": [
+   45.82,
+   16.02
+  ]
+ },
+ {
+  "city_key": "489",
+  "clubs": [
+   "Hajduk Split"
+  ],
+  "ll": [
+   43.52,
+   16.43
+  ]
+ },
+ {
+  "city_key": "2990",
+  "clubs": [
+   "Lech Poznan"
+  ],
+  "ll": [
+   52.4,
+   16.86
+  ]
+ },
+ {
+  "city_key": "521",
+  "clubs": [
+   "Slovan Bratislava"
+  ],
+  "ll": [
+   48.16,
+   17.14
+  ]
+ },
+ {
+  "city_key": "20710",
+  "clubs": [
+   "Borac Banja Luka"
+  ],
+  "ll": [
+   44.77,
+   17.19
+  ]
+ },
+ {
+  "city_key": "113",
+  "clubs": [
+   "Lecce"
+  ],
+  "ll": [
+   40.37,
+   18.21
+  ]
+ },
+ {
+  "city_key": "622",
+  "clubs": [
+   "Ferencvaros"
+  ],
+  "ll": [
+   47.48,
+   19.08
+  ]
+ },
+ {
+  "city_key": "21943",
+  "clubs": [
+   "Egnatia"
+  ],
+  "ll": [
+   41.08,
+   19.67
+  ]
+ },
+ {
+  "city_key": "2290",
+  "clubs": [
+   "Red Star Belgrade"
+  ],
+  "ll": [
+   44.78,
+   20.46
+  ]
+ },
+ {
+  "city_key": "11505",
+  "clubs": [
+   "Jagiellonia Bialystok"
+  ],
+  "ll": [
+   53.11,
+   23.15
+  ]
+ },
+ {
+  "city_key": "10834",
+  "clubs": [
+   "Levski Sofia",
+   "CSKA Sofia"
+  ],
+  "ll": [
+   42.7,
+   23.36
+  ]
+ }
+]

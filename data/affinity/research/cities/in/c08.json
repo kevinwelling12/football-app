@@ -1,0 +1,244 @@
+[
+ {
+  "city_key": "7911",
+  "clubs": [
+   "TSG Hoffenheim"
+  ],
+  "ll": [
+   49.24,
+   8.89
+  ]
+ },
+ {
+  "city_key": "572",
+  "clubs": [
+   "FC Midtjylland"
+  ],
+  "ll": [
+   56.12,
+   8.95
+  ]
+ },
+ {
+  "city_key": "3263",
+  "clubs": [
+   "Genoa"
+  ],
+  "ll": [
+   44.42,
+   8.95
+  ]
+ },
+ {
+  "city_key": "7672",
+  "clubs": [
+   "FC Lugano"
+  ],
+  "ll": [
+   46.02,
+   8.96
+  ]
+ },
+ {
+  "city_key": "2572",
+  "clubs": [
+   "Como"
+  ],
+  "ll": [
+   45.81,
+   9.07
+  ]
+ },
+ {
+  "city_key": "110",
+  "clubs": [
+   "AC Milan",
+   "Internazionale"
+  ],
+  "ll": [
+   45.48,
+   9.12
+  ]
+ },
+ {
+  "city_key": "2925",
+  "clubs": [
+   "Cagliari"
+  ],
+  "ll": [
+   39.2,
+   9.14
+  ]
+ },
+ {
+  "city_key": "134",
+  "clubs": [
+   "VfB Stuttgart"
+  ],
+  "ll": [
+   48.79,
+   9.23
+  ]
+ },
+ {
+  "city_key": "4007",
+  "clubs": [
+   "Monza"
+  ],
+  "ll": [
+   45.58,
+   9.31
+  ]
+ },
+ {
+  "city_key": "105",
+  "clubs": [
+   "Atalanta"
+  ],
+  "ll": [
+   45.71,
+   9.68
+  ]
+ },
+ {
+  "city_key": "127",
+  "clubs": [
+   "Hamburg SV"
+  ],
+  "ll": [
+   53.59,
+   9.9
+  ]
+ },
+ {
+  "city_key": "7853",
+  "clubs": [
+   "AGF"
+  ],
+  "ll": [
+   56.19,
+   10.21
+  ]
+ },
+ {
+  "city_key": "115",
+  "clubs": [
+   "Parma"
+  ],
+  "ll": [
+   44.79,
+   10.34
+  ]
+ },
+ {
+  "city_key": "3997",
+  "clubs": [
+   "Sassuolo"
+  ],
+  "ll": [
+   44.71,
+   10.65
+  ]
+ },
+ {
+  "city_key": "3841",
+  "clubs": [
+   "FC Augsburg"
+  ],
+  "ll": [
+   48.32,
+   10.89
+  ]
+ },
+ {
+  "city_key": "987",
+  "clubs": [
+   "Lillestrom"
+  ],
+  "ll": [
+   59.96,
+   11.05
+  ]
+ },
+ {
+  "city_key": "109",
+  "clubs": [
+   "Fiorentina"
+  ],
+  "ll": [
+   43.78,
+   11.28
+  ]
+ },
+ {
+  "city_key": "107",
+  "clubs": [
+   "Bologna"
+  ],
+  "ll": [
+   44.49,
+   11.31
+  ]
+ },
+ {
+  "city_key": "132",
+  "clubs": [
+   "Bayern Munich"
+  ],
+  "ll": [
+   48.22,
+   11.62
+  ]
+ },
+ {
+  "city_key": "11420",
+  "clubs": [
+   "RB Leipzig"
+  ],
+  "ll": [
+   51.35,
+   12.35
+  ]
+ },
+ {
+  "city_key": "3101",
+  "clubs": [
+   "FC Nordsjælland"
+  ],
+  "ll": [
+   55.82,
+   12.36
+  ]
+ },
+ {
+  "city_key": "17530",
+  "clubs": [
+   "Venezia"
+  ],
+  "ll": [
+   45.43,
+   12.36
+  ]
+ },
+ {
+  "city_key": "112",
+  "clubs": [
+   "AS Roma",
+   "Lazio"
+  ],
+  "ll": [
+   41.93,
+   12.45
+  ]
+ },
+ {
+  "city_key": "909",
+  "clubs": [
+   "F.C. København"
+  ],
+  "ll": [
+   55.7,
+   12.57
+  ]
+ }
+]

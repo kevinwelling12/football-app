@@ -1,0 +1,245 @@
+[
+ {
+  "city_key": "365",
+  "clubs": [
+   "Blackburn Rovers"
+  ],
+  "ll": [
+   53.73,
+   -2.49
+  ]
+ },
+ {
+  "city_key": "382",
+  "clubs": [
+   "Manchester United",
+   "Manchester City"
+  ],
+  "ll": [
+   53.46,
+   -2.29
+  ]
+ },
+ {
+  "city_key": "379",
+  "clubs": [
+   "Burnley"
+  ],
+  "ll": [
+   53.79,
+   -2.23
+  ]
+ },
+ {
+  "city_key": "336",
+  "clubs": [
+   "Stoke City"
+  ],
+  "ll": [
+   52.99,
+   -2.18
+  ]
+ },
+ {
+  "city_key": "380",
+  "clubs": [
+   "Wolverhampton Wanderers"
+  ],
+  "ll": [
+   52.59,
+   -2.13
+  ]
+ },
+ {
+  "city_key": "89",
+  "clubs": [
+   "Real Sociedad"
+  ],
+  "ll": [
+   43.3,
+   -1.97
+  ]
+ },
+ {
+  "city_key": "392",
+  "clubs": [
+   "Aston Villa",
+   "West Bromwich Albion",
+   "Birmingham City"
+  ],
+  "ll": [
+   52.51,
+   -1.88
+  ]
+ },
+ {
+  "city_key": "349",
+  "clubs": [
+   "AFC Bournemouth"
+  ],
+  "ll": [
+   50.74,
+   -1.84
+  ]
+ },
+ {
+  "city_key": "169",
+  "clubs": [
+   "Stade Rennais"
+  ],
+  "ll": [
+   48.11,
+   -1.71
+  ]
+ },
+ {
+  "city_key": "97",
+  "clubs": [
+   "Osasuna"
+  ],
+  "ll": [
+   42.8,
+   -1.64
+  ]
+ },
+ {
+  "city_key": "361",
+  "clubs": [
+   "Newcastle United"
+  ],
+  "ll": [
+   54.98,
+   -1.62
+  ]
+ },
+ {
+  "city_key": "357",
+  "clubs": [
+   "Leeds United"
+  ],
+  "ll": [
+   53.78,
+   -1.57
+  ]
+ },
+ {
+  "city_key": "388",
+  "clubs": [
+   "Coventry City"
+  ],
+  "ll": [
+   52.45,
+   -1.5
+  ]
+ },
+ {
+  "city_key": "398",
+  "clubs": [
+   "Sheffield United"
+  ],
+  "ll": [
+   53.37,
+   -1.47
+  ]
+ },
+ {
+  "city_key": "374",
+  "clubs": [
+   "Derby County"
+  ],
+  "ll": [
+   52.92,
+   -1.45
+  ]
+ },
+ {
+  "city_key": "366",
+  "clubs": [
+   "Sunderland"
+  ],
+  "ll": [
+   54.91,
+   -1.39
+  ]
+ },
+ {
+  "city_key": "376",
+  "clubs": [
+   "Southampton"
+  ],
+  "ll": [
+   50.91,
+   -1.39
+  ]
+ },
+ {
+  "city_key": "369",
+  "clubs": [
+   "Middlesbrough"
+  ],
+  "ll": [
+   54.58,
+   -1.22
+  ]
+ },
+ {
+  "city_key": "393",
+  "clubs": [
+   "Nottingham Forest"
+  ],
+  "ll": [
+   52.94,
+   -1.13
+  ]
+ },
+ {
+  "city_key": "385",
+  "clubs": [
+   "Portsmouth"
+  ],
+  "ll": [
+   50.8,
+   -1.06
+  ]
+ },
+ {
+  "city_key": "3751",
+  "clubs": [
+   "Elche"
+  ],
+  "ll": [
+   38.27,
+   -0.66
+  ]
+ },
+ {
+  "city_key": "314",
+  "clubs": [
+   "Lincoln City"
+  ],
+  "ll": [
+   53.22,
+   -0.54
+  ]
+ },
+ {
+  "city_key": "7868",
+  "clubs": [
+   "Angers"
+  ],
+  "ll": [
+   47.46,
+   -0.53
+  ]
+ },
+ {
+  "city_key": "395",
+  "clubs": [
+   "Watford"
+  ],
+  "ll": [
+   51.65,
+   -0.4
+  ]
+ }
+]

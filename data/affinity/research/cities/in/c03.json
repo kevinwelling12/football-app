@@ -1,0 +1,246 @@
+[
+ {
+  "city_key": "18418",
+  "clubs": [
+   "Atlanta United FC"
+  ],
+  "ll": [
+   33.76,
+   -84.4
+  ]
+ },
+ {
+  "city_key": "21822",
+  "clubs": [
+   "Lexington"
+  ],
+  "ll": [
+   37.99,
+   -84.4
+  ]
+ },
+ {
+  "city_key": "19179",
+  "clubs": [
+   "Detroit City FC"
+  ],
+  "ll": [
+   42.4,
+   -83.06
+  ]
+ },
+ {
+  "city_key": "183",
+  "clubs": [
+   "Columbus Crew"
+  ],
+  "ll": [
+   39.97,
+   -83.02
+  ]
+ },
+ {
+  "city_key": "17361",
+  "clubs": [
+   "Tampa Bay Rowdies"
+  ],
+  "ll": [
+   27.77,
+   -82.63
+  ]
+ },
+ {
+  "city_key": "131578",
+  "clubs": [
+   "Sporting JAX"
+  ],
+  "ll": [
+   30.27,
+   -81.51
+  ]
+ },
+ {
+  "city_key": "18206",
+  "clubs": [
+   "Orlando City SC",
+   "Orlando Pride"
+  ],
+  "ll": [
+   28.54,
+   -81.39
+  ]
+ },
+ {
+  "city_key": "21300",
+  "clubs": [
+   "Charlotte FC"
+  ],
+  "ll": [
+   35.23,
+   -80.85
+  ]
+ },
+ {
+  "city_key": "18159",
+  "clubs": [
+   "Miami FC"
+  ],
+  "ll": [
+   25.75,
+   -80.38
+  ]
+ },
+ {
+  "city_key": "20232",
+  "clubs": [
+   "Inter Miami CF"
+  ],
+  "ll": [
+   25.79,
+   -80.26
+  ]
+ },
+ {
+  "city_key": "17827",
+  "clubs": [
+   "Pittsburgh Riverhounds"
+  ],
+  "ll": [
+   40.44,
+   -80.01
+  ]
+ },
+ {
+  "city_key": "9729",
+  "clubs": [
+   "Charleston Battery"
+  ],
+  "ll": [
+   32.79,
+   -79.9
+  ]
+ },
+ {
+  "city_key": "7318",
+  "clubs": [
+   "Toronto FC"
+  ],
+  "ll": [
+   43.63,
+   -79.42
+  ]
+ },
+ {
+  "city_key": "15366",
+  "clubs": [
+   "North Carolina Courage"
+  ],
+  "ll": [
+   35.79,
+   -78.75
+  ]
+ },
+ {
+  "city_key": "19410",
+  "clubs": [
+   "Loudoun United FC"
+  ],
+  "ll": [
+   39.04,
+   -77.5
+  ]
+ },
+ {
+  "city_key": "15365",
+  "clubs": [
+   "D.C. United",
+   "Washington Spirit"
+  ],
+  "ll": [
+   38.87,
+   -77.01
+  ]
+ },
+ {
+  "city_key": "10739",
+  "clubs": [
+   "Philadelphia Union"
+  ],
+  "ll": [
+   39.83,
+   -75.38
+  ]
+ },
+ {
+  "city_key": "15364",
+  "clubs": [
+   "Red Bull New York",
+   "Gotham FC"
+  ],
+  "ll": [
+   40.74,
+   -74.15
+  ]
+ },
+ {
+  "city_key": "131579",
+  "clubs": [
+   "Brooklyn FC"
+  ],
+  "ll": [
+   40.57,
+   -73.98
+  ]
+ },
+ {
+  "city_key": "17606",
+  "clubs": [
+   "New York City FC"
+  ],
+  "ll": [
+   40.83,
+   -73.93
+  ]
+ },
+ {
+  "city_key": "9720",
+  "clubs": [
+   "CF Montréal"
+  ],
+  "ll": [
+   45.56,
+   -73.55
+  ]
+ },
+ {
+  "city_key": "19411",
+  "clubs": [
+   "Hartford Athletic"
+  ],
+  "ll": [
+   41.76,
+   -72.66
+  ]
+ },
+ {
+  "city_key": "22164",
+  "clubs": [
+   "Rhode Island FC"
+  ],
+  "ll": [
+   41.88,
+   -71.38
+  ]
+ },
+ {
+  "city_key": "131562",
+  "clubs": [
+   "New England Revolution",
+   "Boston Legacy FC"
+  ],
+  "ll": [
+   42.09,
+   -71.26
+  ]
+ }
+]

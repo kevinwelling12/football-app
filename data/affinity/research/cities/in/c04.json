@@ -1,0 +1,248 @@
+[
+ {
+  "city_key": "21615",
+  "clubs": [
+   "Torreense"
+  ],
+  "ll": [
+   39.09,
+   -9.26
+  ]
+ },
+ {
+  "city_key": "2250",
+  "clubs": [
+   "Benfica",
+   "Sporting CP"
+  ],
+  "ll": [
+   38.75,
+   -9.18
+  ]
+ },
+ {
+  "city_key": "85",
+  "clubs": [
+   "Celta Vigo"
+  ],
+  "ll": [
+   42.21,
+   -8.74
+  ]
+ },
+ {
+  "city_key": "437",
+  "clubs": [
+   "FC Porto"
+  ],
+  "ll": [
+   41.16,
+   -8.58
+  ]
+ },
+ {
+  "city_key": "2994",
+  "clubs": [
+   "Braga"
+  ],
+  "ll": [
+   41.56,
+   -8.43
+  ]
+ },
+ {
+  "city_key": "90",
+  "clubs": [
+   "Deportivo"
+  ],
+  "ll": [
+   43.37,
+   -8.42
+  ]
+ },
+ {
+  "city_key": "244",
+  "clubs": [
+   "Sevilla",
+   "Real Betis"
+  ],
+  "ll": [
+   37.38,
+   -5.97
+  ]
+ },
+ {
+  "city_key": "17856",
+  "clubs": [
+   "Lincoln Red Imps"
+  ],
+  "ll": [
+   36.15,
+   -5.35
+  ]
+ },
+ {
+  "city_key": "6997",
+  "clubs": [
+   "Brest"
+  ],
+  "ll": [
+   48.4,
+   -4.46
+  ]
+ },
+ {
+  "city_key": "99",
+  "clubs": [
+   "Málaga"
+  ],
+  "ll": [
+   36.73,
+   -4.43
+  ]
+ },
+ {
+  "city_key": "256",
+  "clubs": [
+   "Celtic"
+  ],
+  "ll": [
+   55.85,
+   -4.21
+  ]
+ },
+ {
+  "city_key": "318",
+  "clubs": [
+   "Swansea City"
+  ],
+  "ll": [
+   51.64,
+   -3.93
+  ]
+ },
+ {
+  "city_key": "87",
+  "clubs": [
+   "Racing Santander"
+  ],
+  "ll": [
+   43.48,
+   -3.79
+  ]
+ },
+ {
+  "city_key": "2922",
+  "clubs": [
+   "Real Madrid",
+   "Rayo Vallecano",
+   "Atlético Madrid",
+   "Getafe"
+  ],
+  "ll": [
+   40.45,
+   -3.69
+  ]
+ },
+ {
+  "city_key": "273",
+  "clubs": [
+   "Lorient"
+  ],
+  "ll": [
+   47.75,
+   -3.37
+  ]
+ },
+ {
+  "city_key": "262",
+  "clubs": [
+   "Heart of Midlothian"
+  ],
+  "ll": [
+   55.94,
+   -3.23
+  ]
+ },
+ {
+  "city_key": "347",
+  "clubs": [
+   "Cardiff City"
+  ],
+  "ll": [
+   51.47,
+   -3.2
+  ]
+ },
+ {
+  "city_key": "352",
+  "clubs": [
+   "Wrexham"
+  ],
+  "ll": [
+   53.05,
+   -3
+  ]
+ },
+ {
+  "city_key": "368",
+  "clubs": [
+   "Liverpool",
+   "Everton"
+  ],
+  "ll": [
+   53.43,
+   -2.96
+  ]
+ },
+ {
+  "city_key": "93",
+  "clubs": [
+   "Athletic Club"
+  ],
+  "ll": [
+   43.26,
+   -2.95
+  ]
+ },
+ {
+  "city_key": "96",
+  "clubs": [
+   "Alavés"
+  ],
+  "ll": [
+   42.84,
+   -2.69
+  ]
+ },
+ {
+  "city_key": "394",
+  "clubs": [
+   "Preston North End"
+  ],
+  "ll": [
+   53.77,
+   -2.69
+  ]
+ },
+ {
+  "city_key": "333",
+  "clubs": [
+   "Bristol City"
+  ],
+  "ll": [
+   51.44,
+   -2.62
+  ]
+ },
+ {
+  "city_key": "358",
+  "clubs": [
+   "Bolton Wanderers"
+  ],
+  "ll": [
+   53.58,
+   -2.54
+  ]
+ }
+]

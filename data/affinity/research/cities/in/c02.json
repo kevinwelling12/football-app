@@ -1,0 +1,248 @@
+[
+ {
+  "city_key": "228",
+  "clubs": [
+   "León"
+  ],
+  "ll": [
+   21.12,
+   -101.66
+  ]
+ },
+ {
+  "city_key": "15720",
+  "clubs": [
+   "Atlético de San Luis"
+  ],
+  "ll": [
+   22.12,
+   -100.95
+  ]
+ },
+ {
+  "city_key": "222",
+  "clubs": [
+   "Querétaro"
+  ],
+  "ll": [
+   20.58,
+   -100.37
+  ]
+ },
+ {
+  "city_key": "232",
+  "clubs": [
+   "Monterrey",
+   "Tigres UANL"
+  ],
+  "ll": [
+   25.67,
+   -100.24
+  ]
+ },
+ {
+  "city_key": "223",
+  "clubs": [
+   "Toluca"
+  ],
+  "ll": [
+   19.29,
+   -99.67
+  ]
+ },
+ {
+  "city_key": "233",
+  "clubs": [
+   "Cruz Azul",
+   "Atlante",
+   "América",
+   "Pumas UNAM"
+  ],
+  "ll": [
+   19.3,
+   -99.15
+  ]
+ },
+ {
+  "city_key": "234",
+  "clubs": [
+   "Pachuca"
+  ],
+  "ll": [
+   20.1,
+   -98.76
+  ]
+ },
+ {
+  "city_key": "18265",
+  "clubs": [
+   "San Antonio FC"
+  ],
+  "ll": [
+   29.59,
+   -98.39
+  ]
+ },
+ {
+  "city_key": "231",
+  "clubs": [
+   "Puebla"
+  ],
+  "ll": [
+   19.08,
+   -98.16
+  ]
+ },
+ {
+  "city_key": "20906",
+  "clubs": [
+   "Austin FC"
+  ],
+  "ll": [
+   30.39,
+   -97.72
+  ]
+ },
+ {
+  "city_key": "185",
+  "clubs": [
+   "FC Dallas"
+  ],
+  "ll": [
+   33.15,
+   -96.84
+  ]
+ },
+ {
+  "city_key": "18446",
+  "clubs": [
+   "FC Tulsa"
+  ],
+  "ll": [
+   36.16,
+   -95.99
+  ]
+ },
+ {
+  "city_key": "17346",
+  "clubs": [
+   "Houston Dynamo FC",
+   "Houston Dash"
+  ],
+  "ll": [
+   29.75,
+   -95.35
+  ]
+ },
+ {
+  "city_key": "186",
+  "clubs": [
+   "Sporting Kansas City"
+  ],
+  "ll": [
+   39.12,
+   -94.82
+  ]
+ },
+ {
+  "city_key": "20907",
+  "clubs": [
+   "Kansas City Current"
+  ],
+  "ll": [
+   39.11,
+   -94.59
+  ]
+ },
+ {
+  "city_key": "17362",
+  "clubs": [
+   "Minnesota United FC"
+  ],
+  "ll": [
+   44.95,
+   -93.17
+  ]
+ },
+ {
+  "city_key": "21812",
+  "clubs": [
+   "St. Louis CITY SC"
+  ],
+  "ll": [
+   38.63,
+   -90.21
+  ]
+ },
+ {
+  "city_key": "15360",
+  "clubs": [
+   "Chicago Stars FC"
+  ],
+  "ll": [
+   42.06,
+   -87.67
+  ]
+ },
+ {
+  "city_key": "182",
+  "clubs": [
+   "Chicago Fire FC"
+  ],
+  "ll": [
+   41.86,
+   -87.62
+  ]
+ },
+ {
+  "city_key": "19405",
+  "clubs": [
+   "Birmingham Legion FC"
+  ],
+  "ll": [
+   33.52,
+   -86.81
+  ]
+ },
+ {
+  "city_key": "18986",
+  "clubs": [
+   "Nashville SC"
+  ],
+  "ll": [
+   36.13,
+   -86.77
+  ]
+ },
+ {
+  "city_key": "17360",
+  "clubs": [
+   "Indy Eleven"
+  ],
+  "ll": [
+   39.78,
+   -86.17
+  ]
+ },
+ {
+  "city_key": "20905",
+  "clubs": [
+   "Louisville City FC",
+   "Racing Louisville FC"
+  ],
+  "ll": [
+   38.26,
+   -85.73
+  ]
+ },
+ {
+  "city_key": "18267",
+  "clubs": [
+   "FC Cincinnati"
+  ],
+  "ll": [
+   39.11,
+   -84.52
+  ]
+ }
+]

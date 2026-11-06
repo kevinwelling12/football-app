@@ -1,0 +1,175 @@
+[
+ {
+  "city_key": "435",
+  "clubs": [
+   "Olympiacos"
+  ],
+  "ll": [
+   37.95,
+   23.66
+  ]
+ },
+ {
+  "city_key": "887",
+  "clubs": [
+   "Panathinaikos",
+   "AEK Athens"
+  ],
+  "ll": [
+   38.04,
+   23.79
+  ]
+ },
+ {
+  "city_key": "8089",
+  "clubs": [
+   "CSU Craiova"
+  ],
+  "ll": [
+   44.32,
+   23.81
+  ]
+ },
+ {
+  "city_key": "20028",
+  "clubs": [
+   "Kauno Zalgiris"
+  ],
+  "ll": [
+   54.9,
+   23.94
+  ]
+ },
+ {
+  "city_key": "493",
+  "clubs": [
+   "Shakhtar Donetsk"
+  ],
+  "ll": [
+   49.78,
+   24.03
+  ]
+ },
+ {
+  "city_key": "19246",
+  "clubs": [
+   "Riga FC"
+  ],
+  "ll": [
+   56.96,
+   24.11
+  ]
+ },
+ {
+  "city_key": "1010",
+  "clubs": [
+   "OFI Crete"
+  ],
+  "ll": [
+   35.33,
+   25.1
+  ]
+ },
+ {
+  "city_key": "8169",
+  "clubs": [
+   "KuPS Kuopio"
+  ],
+  "ll": [
+   62.9,
+   27.69
+  ]
+ },
+ {
+  "city_key": "1895",
+  "clubs": [
+   "Galatasaray",
+   "Fenerbahce",
+   "Besiktas"
+  ],
+  "ll": [
+   41.1,
+   28.99
+  ]
+ },
+ {
+  "city_key": "22281",
+  "clubs": [
+   "Pafos"
+  ],
+  "ll": [
+   34.77,
+   32.43
+  ]
+ },
+ {
+  "city_key": "617",
+  "clubs": [
+   "Omonia Nicosia"
+  ],
+  "ll": [
+   35.13,
+   33.33
+  ]
+ },
+ {
+  "city_key": "13083",
+  "clubs": [
+   "Hapoel Be'er"
+  ],
+  "ll": [
+   31.27,
+   34.78
+  ]
+ },
+ {
+  "city_key": "997",
+  "clubs": [
+   "Trabzonspor"
+  ],
+  "ll": [
+   41,
+   39.65
+  ]
+ },
+ {
+  "city_key": "20024",
+  "clubs": [
+   "Ararat-Armenia"
+  ],
+  "ll": [
+   40.22,
+   44.57
+  ]
+ },
+ {
+  "city_key": "20025",
+  "clubs": [
+   "Iberia 1999"
+  ],
+  "ll": [
+   41.72,
+   44.75
+  ]
+ },
+ {
+  "city_key": "21922",
+  "clubs": [
+   "Sabah FK"
+  ],
+  "ll": [
+   40.49,
+   49.75
+  ]
+ },
+ {
+  "city_key": "2528",
+  "clubs": [
+   "Kairat Almaty"
+  ],
+  "ll": [
+   43.24,
+   76.92
+  ]
+ }
+]

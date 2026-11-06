@@ -1,0 +1,243 @@
+[
+ {
+  "city_key": "167",
+  "clubs": [
+   "Lyon"
+  ],
+  "ll": [
+   45.77,
+   4.98
+  ]
+ },
+ {
+  "city_key": "936",
+  "clubs": [
+   "Sint-Truidense"
+  ],
+  "ll": [
+   50.81,
+   5.17
+  ]
+ },
+ {
+  "city_key": "620",
+  "clubs": [
+   "SK Brann"
+  ],
+  "ll": [
+   60.37,
+   5.36
+  ]
+ },
+ {
+  "city_key": "176",
+  "clubs": [
+   "Marseille"
+  ],
+  "ll": [
+   43.27,
+   5.4
+  ]
+ },
+ {
+  "city_key": "148",
+  "clubs": [
+   "PSV Eindhoven"
+  ],
+  "ll": [
+   51.44,
+   5.47
+  ]
+ },
+ {
+  "city_key": "510",
+  "clubs": [
+   "Viking FK"
+  ],
+  "ll": [
+   58.92,
+   5.73
+  ]
+ },
+ {
+  "city_key": "147",
+  "clubs": [
+   "NEC Nijmegen"
+  ],
+  "ll": [
+   51.82,
+   5.84
+  ]
+ },
+ {
+  "city_key": "268",
+  "clubs": [
+   "Borussia Mönchengladbach"
+  ],
+  "ll": [
+   51.17,
+   6.39
+  ]
+ },
+ {
+  "city_key": "152",
+  "clubs": [
+   "FC Twente"
+  ],
+  "ll": [
+   52.24,
+   6.84
+  ]
+ },
+ {
+  "city_key": "122",
+  "clubs": [
+   "FC Cologne"
+  ],
+  "ll": [
+   50.93,
+   6.87
+  ]
+ },
+ {
+  "city_key": "131",
+  "clubs": [
+   "Bayer Leverkusen"
+  ],
+  "ll": [
+   51.04,
+   7
+  ]
+ },
+ {
+  "city_key": "133",
+  "clubs": [
+   "Schalke 04"
+  ],
+  "ll": [
+   51.55,
+   7.07
+  ]
+ },
+ {
+  "city_key": "10388",
+  "clubs": [
+   "SV Elversberg"
+  ],
+  "ll": [
+   49.32,
+   7.13
+  ]
+ },
+ {
+  "city_key": "2502",
+  "clubs": [
+   "Nice"
+  ],
+  "ll": [
+   43.71,
+   7.19
+  ]
+ },
+ {
+  "city_key": "174",
+  "clubs": [
+   "AS Monaco"
+  ],
+  "ll": [
+   43.73,
+   7.42
+  ]
+ },
+ {
+  "city_key": "124",
+  "clubs": [
+   "Borussia Dortmund"
+  ],
+  "ll": [
+   51.49,
+   7.45
+  ]
+ },
+ {
+  "city_key": "3024",
+  "clubs": [
+   "FC Thun"
+  ],
+  "ll": [
+   46.74,
+   7.63
+  ]
+ },
+ {
+  "city_key": "239",
+  "clubs": [
+   "Juventus",
+   "Torino"
+  ],
+  "ll": [
+   45.11,
+   7.64
+  ]
+ },
+ {
+  "city_key": "180",
+  "clubs": [
+   "Strasbourg"
+  ],
+  "ll": [
+   48.56,
+   7.76
+  ]
+ },
+ {
+  "city_key": "126",
+  "clubs": [
+   "SC Freiburg"
+  ],
+  "ll": [
+   48.02,
+   7.83
+  ]
+ },
+ {
+  "city_key": "2950",
+  "clubs": [
+   "Mainz"
+  ],
+  "ll": [
+   49.98,
+   8.22
+  ]
+ },
+ {
+  "city_key": "125",
+  "clubs": [
+   "Eintracht Frankfurt"
+  ],
+  "ll": [
+   50.07,
+   8.65
+  ]
+ },
+ {
+  "city_key": "3307",
+  "clubs": [
+   "SC Paderborn 07"
+  ],
+  "ll": [
+   51.73,
+   8.71
+  ]
+ },
+ {
+  "city_key": "137",
+  "clubs": [
+   "Werder Bremen"
+  ],
+  "ll": [
+   53.07,
+   8.84
+  ]
+ }
+]

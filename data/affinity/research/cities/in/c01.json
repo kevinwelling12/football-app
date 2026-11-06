@@ -1,0 +1,249 @@
+[
+ {
+  "city_key": "9727",
+  "clubs": [
+   "Vancouver Whitecaps"
+  ],
+  "ll": [
+   49.28,
+   -123.11
+  ]
+ },
+ {
+  "city_key": "15362",
+  "clubs": [
+   "Portland Timbers",
+   "Portland Thorns FC"
+  ],
+  "ll": [
+   45.52,
+   -122.69
+  ]
+ },
+ {
+  "city_key": "15363",
+  "clubs": [
+   "Seattle Sounders FC",
+   "Seattle Reign FC"
+  ],
+  "ll": [
+   47.6,
+   -122.33
+  ]
+ },
+ {
+  "city_key": "20687",
+  "clubs": [
+   "Oakland Roots"
+  ],
+  "ll": [
+   37.75,
+   -122.2
+  ]
+ },
+ {
+  "city_key": "22187",
+  "clubs": [
+   "San Jose Earthquakes",
+   "Bay FC"
+  ],
+  "ll": [
+   37.35,
+   -121.93
+  ]
+ },
+ {
+  "city_key": "21370",
+  "clubs": [
+   "Monterey Bay"
+  ],
+  "ll": [
+   36.65,
+   -121.8
+  ]
+ },
+ {
+  "city_key": "17828",
+  "clubs": [
+   "Sacramento Republic FC"
+  ],
+  "ll": [
+   38.57,
+   -121.43
+  ]
+ },
+ {
+  "city_key": "21422",
+  "clubs": [
+   "LAFC",
+   "Angel City FC"
+  ],
+  "ll": [
+   34.01,
+   -118.28
+  ]
+ },
+ {
+  "city_key": "187",
+  "clubs": [
+   "LA Galaxy"
+  ],
+  "ll": [
+   33.86,
+   -118.26
+  ]
+ },
+ {
+  "city_key": "18455",
+  "clubs": [
+   "Orange County SC"
+  ],
+  "ll": [
+   33.67,
+   -117.73
+  ]
+ },
+ {
+  "city_key": "22529",
+  "clubs": [
+   "San Diego Wave FC",
+   "San Diego FC"
+  ],
+  "ll": [
+   32.78,
+   -117.12
+  ]
+ },
+ {
+  "city_key": "10125",
+  "clubs": [
+   "Tijuana"
+  ],
+  "ll": [
+   32.51,
+   -117.01
+  ]
+ },
+ {
+  "city_key": "18987",
+  "clubs": [
+   "Las Vegas Lights FC"
+  ],
+  "ll": [
+   36.18,
+   -115.14
+  ]
+ },
+ {
+  "city_key": "17850",
+  "clubs": [
+   "Phoenix Rising FC"
+  ],
+  "ll": [
+   33.45,
+   -111.99
+  ]
+ },
+ {
+  "city_key": "19141",
+  "clubs": [
+   "Real Salt Lake",
+   "Utah Royals"
+  ],
+  "ll": [
+   40.58,
+   -111.89
+  ]
+ },
+ {
+  "city_key": "19408",
+  "clubs": [
+   "New Mexico United"
+  ],
+  "ll": [
+   35.07,
+   -106.63
+  ]
+ },
+ {
+  "city_key": "19407",
+  "clubs": [
+   "FC Juárez",
+   "El Paso Locomotive FC"
+  ],
+  "ll": [
+   31.73,
+   -106.45
+  ]
+ },
+ {
+  "city_key": "184",
+  "clubs": [
+   "Colorado Rapids"
+  ],
+  "ll": [
+   39.81,
+   -104.89
+  ]
+ },
+ {
+  "city_key": "131563",
+  "clubs": [
+   "Denver Summit FC"
+  ],
+  "ll": [
+   39.57,
+   -104.85
+  ]
+ },
+ {
+  "city_key": "17830",
+  "clubs": [
+   "Colorado Springs Switchbacks FC"
+  ],
+  "ll": [
+   38.83,
+   -104.83
+  ]
+ },
+ {
+  "city_key": "219",
+  "clubs": [
+   "Guadalajara"
+  ],
+  "ll": [
+   20.68,
+   -103.46
+  ]
+ },
+ {
+  "city_key": "225",
+  "clubs": [
+   "Santos"
+  ],
+  "ll": [
+   25.53,
+   -103.37
+  ]
+ },
+ {
+  "city_key": "216",
+  "clubs": [
+   "Atlas"
+  ],
+  "ll": [
+   20.71,
+   -103.33
+  ]
+ },
+ {
+  "city_key": "229",
+  "clubs": [
+   "Necaxa"
+  ],
+  "ll": [
+   21.88,
+   -102.28
+  ]
+ }
+]
