@@ -1,0 +1,318 @@
+[
+ {
+  "espn_id": "17832",
+  "name": "Louisville City FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; The Coopers (2013) are known for support, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Louisville_City_FC"
+  ]
+ },
+ {
+  "espn_id": "18159",
+  "name": "Miami FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; tiny support (Dade Brigade)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Miami_FC"
+  ]
+ },
+ {
+  "espn_id": "21370",
+  "name": "Monterey Bay",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monterey_Bay_FC"
+  ]
+ },
+ {
+  "espn_id": "19408",
+  "name": "New Mexico United",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; statewide identity and community foundation work only"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Mexico_United"
+  ]
+ },
+ {
+  "espn_id": "20687",
+  "name": "Oakland Roots",
+  "league": "usl",
+  "lean": 8,
+  "why": {
+   "lean": "club positions: modelled on FC St. Pauli; first US pro club in Common Goal (2020); Justice Match and Roots Justice Fund for racial and gender justice (2020); 'Justice First, Always' shirt with St. Pauli"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
+  ]
+ },
+ {
+  "espn_id": "18455",
+  "name": "Orange County SC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orange_County_SC"
+  ]
+ },
+ {
+  "espn_id": "17850",
+  "name": "Phoenix Rising FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 2020 Flemmings homophobic slur was one player, not a supporter culture"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoenix_Rising_FC"
+  ]
+ },
+ {
+  "espn_id": "17827",
+  "name": "Pittsburgh Riverhounds",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Steel Army (2007) known for support, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
+  ]
+ },
+ {
+  "espn_id": "22164",
+  "name": "Rhode Island FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rhode_Island_FC"
+  ]
+ },
+ {
+  "espn_id": "17828",
+  "name": "Sacramento Republic FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Wilton Rancheria tribal ownership and TBB stadium lobbying are not a left-right position"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sacramento_Republic_FC"
+  ]
+ },
+ {
+  "espn_id": "18265",
+  "name": "San Antonio FC",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; crest salutes the city's military history (2016), not a political stance"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Antonio_FC"
+  ]
+ },
+ {
+  "espn_id": "131578",
+  "name": "Sporting JAX",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; new club, no established supporter group (estimate)"
+  },
+  "confidence": "low",
+  "sources": []
+ },
+ {
+  "espn_id": "17361",
+  "name": "Tampa Bay Rowdies",
+  "league": "usl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tampa_Bay_Rowdies"
+  ]
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp",
+  "lean": 6.5,
+  "why": {
+   "lean": "ultras Iraultza 1921 ('revolution' in Basque), described as left-wing; on the Antiviolencia list since 2017-18 and murals fined (2025); Basque setting; small group, politics thinly documented (estimate)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Alavés"
+  ]
+ },
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp",
+  "lean": 7,
+  "why": {
+   "lean": "Basque identity (Basque-only policy since 1911, ikurriña 1976), placed on the left in Spain; ultras Herri Norte Taldea (1982) left-abertzale and anti-fascist; the club itself takes no party line"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Athletic_Bilbao",
+   "https://es.wikipedia.org/wiki/Herri_Norte_Taldea"
+  ]
+ },
+ {
+  "espn_id": "1068",
+  "name": "Atlético Madrid",
+  "league": "esp",
+  "lean": 3,
+  "why": {
+   "lean": "Frente Atlético (1982, ~2,500), named after the Falangist Frente de la Juventud, described as far-right; members convicted over the 1998 Zabaleta killing, involved in the 2014 Jimmy death; expelled 2014 but still in the south end; wider fanbase mixed"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlético_Madrid",
+   "https://es.wikipedia.org/wiki/Frente_Atlético"
+  ]
+ },
+ {
+  "espn_id": "83",
+  "name": "Barcelona",
+  "league": "esp",
+  "lean": 6.5,
+  "why": {
+   "lean": "Catalan identity ('Més que un club'; president Sunyol killed by Falangists 1936; anti-Franco symbol), usually placed left of centre in Spain; 2017 statement backing the Catalan majority's will on the referendum; far-right Boixos Nois banned 2003"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Barcelona",
+   "https://en.wikipedia.org/wiki/Boixos_Nois"
+  ]
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp",
+  "lean": 7,
+  "why": {
+   "lean": "Celtarras (1987) Galician independentist and anti-fascist ultras; blocked the hiring of Salva Ballesta as assistant coach (2013) over his politics; Galician identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
+  ]
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp",
+  "lean": 7.5,
+  "why": {
+   "lean": "Riazor Blues (1987), the best-known supporters' group, Galician nationalist, anti-fascist and far-left (moved from early far-right symbols); member Jimmy killed by Frente Atlético 2014; Galician city name adopted 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_de_A_Coruña",
+   "https://es.wikipedia.org/wiki/Riazor_Blues"
+  ]
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp",
+  "lean": 4,
+  "why": {
+   "lean": "ultras Jove Elx (1982) listed as far-right on Spanish Wikipedia; little further detail found (estimate)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Elche_CF",
+   "https://es.wikipedia.org/wiki/Jove_Elx"
+  ]
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp",
+  "lean": 3,
+  "why": {
+   "lean": "historic Spanish-unionist identity against Catalan nationalism (1918 onward; fans believed mostly against independence); far-right Brigadas Blanquiazules (1985, up to 1,500) officially ended 2010; club says it stays out of politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RCD_Espanyol",
+   "https://es.wikipedia.org/wiki/Brigadas_Blanquiazules"
+  ]
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; small ultras group Comandos Azules, politics undocumented; 2024 racist-abuse stand closure not a documented political culture"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Getafe_CF"
+  ]
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; working-class Orriols roots but no documented supporter politics (estimate)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Levante_UD"
+  ]
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp",
+  "lean": 3.5,
+  "why": {
+   "lean": "main ultras Frente Bokerón described in Spanish press (2024) as far-right, friends with Lazio ultras, linked to Málaga 1487; the group calls itself apolitical (2019)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Málaga_CF"
+  ]
+ }
+]
