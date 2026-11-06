@@ -50,7 +50,7 @@ web/affinity.js v4 (2026-11-07): logistic model fitted in the page to Kevin's "w
 (state.affPicks; only those since settings.affSince / app.js AFF_CLEAR count; Settings > Start Affinity over).
 Model features (affinity.js MODEL, PARTS, FLAGS; chosen by backtest, scripts/affinity/groupings.mjs): Atmosphere (singing
 end, ground), Fan power (voice, stewardship), Story (comeback, punch), The city's club, High-energy football, Contender
-(counts only when negative, an underdog lean), City vibe and Big, glitzy city (the club's city profile, traits cityp,
+(set aside like fame since 2026-11-07: Kevin minds front-running picks, not contention), City vibe and Big, glitzy city (the club's city profile, traits cityp,
 research/cities, merge_cities.py), flags State ownership, Racism or fan-culture record, Franchise (feeder/brand or moved/
 manufactured, set by hand). Every weight starts at 0, either sign. Fitted but not counted: league familiarity and fame
 (Elo standing). Plus a per-club adjustment and a per-city one (clubs within 10 km, affinity.js cityGroups). His clubs

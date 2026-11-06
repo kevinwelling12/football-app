@@ -944,7 +944,7 @@ function viewClubs() {
     <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
-  const fs = [...AF.MODEL, ...AF.FLAGS].filter(f => !(f === 'contender' && beta[f] >= 0)); // an underdog lean counts, a pull toward winners doesn't
+  const fs = [...AF.MODEL, ...AF.FLAGS].filter(f => !AF.GLORY.includes(f)); // success is set aside, never counted // an underdog lean counts, a pull toward winners doesn't
   const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
   const mx = Math.max(1e-9, ...fs.map(f => Math.abs(beta[f])));
   const fam = AF.FAMILIAR.filter(f => beta[f] < -0.2).sort((x, y) => beta[x] - beta[y]).map(f => AF.LABEL[f]);
@@ -952,7 +952,7 @@ function viewClubs() {
   html += `<div class="section"><h2>Affinity</h2><span class="aside">${AFn.n ? `learned from ${AFn.n} of your picks` : 'no picks yet'}</span></div>
     <div class="card"><div class="pad"><div class="small muted" style="margin-bottom:6px">Pulls you toward a club</div>${pull.map(bar).join('')}
       <div class="small muted" style="margin:12px 0 6px">Pushes you away</div>${push.map(bar).join('')}
-      <p class="tiny faint" style="margin:12px 0 0">Kept out of Affinity: big clubs and a pull toward winners (${['fame', 'contender'].map(f => `${AF.LABEL[f].toLowerCase()} ${fmtSigned(beta[f])}`).join(', ')} in your picks; a lean away from winners does count) and how well you know a league${fam.length ? ` (Premier League most; ${esc(fam.join(', '))} less)` : ''}. They're fitted so they can't leak into the traits, but fame and glory don't count as liking a club.</p></div>
+      <p class="tiny faint" style="margin:12px 0 0">Set aside: success and fame (contender ${fmtSigned(beta.contender)}, big club ${fmtSigned(beta.fame)} in your picks) and how well you know a league${fam.length ? ` (Premier League most; ${esc(fam.join(', '))} less)` : ''}. The model measures how much they sway your picks and takes that out, so a club neither gains nor loses Affinity for winning or being famous.</p></div>
       <div class="btns" style="padding:0 16px 14px"><button class="btn primary" data-act="quiz">${AFn.n ? 'Answer more' : 'Tune it to you'} · which would you rather support?</button></div></div>`;
   const aff = [], seen3 = new Set(), mine = [];
   for (const k of HOME_ORDER) D[k]?.teams.forEach((t, i) => {
@@ -965,7 +965,7 @@ function viewClubs() {
   // the top 30, and your clubs wherever they rank
   const shown = aff.map((r, n) => [r, n]).filter(([r, n]) => n < 30 || fav.has(r[2].id));
   html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${shown.map(([r, n], j) => (j && n !== shown[j - 1][1] + 1 ? '<tr><td colspan="3" class="faint tiny" style="text-align:center">…</td></tr>' : '') + row(r, n)).join('')}</table></div>
-    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: eight groups of researched traits (atmosphere, fan power, story, the city's club, style, an underdog lean, the city's vibe, a big glitzy city) and three red flags (state ownership, a racism or fan-culture record, a feeder, brand or moved franchise) start at zero, and your answers decide what each is worth and which way. On top: a small adjustment per club and one per city, shared by every club there. With no picks every club is 50. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
+    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: seven groups of researched traits (atmosphere, fan power, story, the city's club, style, the city's vibe, a big glitzy city) and three red flags (state ownership, a racism or fan-culture record, a feeder, brand or moved franchise) start at zero, and your answers decide what each is worth and which way. Success and fame are measured and set aside. On top: a small adjustment per club and one per city, shared by every club there. With no picks every club is 50. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
   // clubs you said you don't know enough about yet: a reading list, newest first; they come back into the quiz once
   // you say you know them
   const todo = AF.unknownClubs(affPicks(), store.get().settings?.affKnown || {}).map(id => [id, clubTeam(id)]).filter(([id]) => TRAITS[id]);
@@ -1224,7 +1224,7 @@ function clubBody(k, i, page = false) {
     const tr = TRAITS[t.id], r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
     html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(f => shortText(t.id, f)).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
       <div class="kv3">${AF.MODEL.map(g => {
-        const b = A.model.beta[g], word = g === 'contender' && b >= 0 ? 'not counted' : b > 0.15 ? 'counts' : b < -0.15 ? 'against' : 'little';
+        const b = A.model.beta[g], word = AF.GLORY.includes(g) ? 'set aside' : b > 0.15 ? 'counts' : b < -0.15 ? 'against' : 'little';
         const parts = AF.PARTS[g].map(k => k.startsWith('cityp.') ? [AF.LABEL[k.slice(6)], tr.cityp?.[k.slice(6)], ''] : [AF.LABEL[k], tr[k], tr.why?.[k] || '']);
         const detail = g === 'cityvibe' || g === 'bigcity' ? `${esc(tr.cityp?.city || '')}: ${parts.map(([n, v]) => `${esc(n.toLowerCase())} ${v ?? '–'}`).join(', ')}`
           : parts.length > 1 ? parts.map(([n, v, w]) => `${esc(n)} ${v ?? 0}${w ? `: ${esc(w)}` : ''}`).join(' · ') : esc(parts[0][2]);

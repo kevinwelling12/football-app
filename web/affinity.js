@@ -27,9 +27,10 @@ export const MODEL = ['atmosphere', 'fanpower', 'story', 'city', 'intensity', 'c
 // franchise (2026-11-07): feeder or brand club (c.feeder) or a moved or manufactured franchise (c.manufactured), set by hand
 export const FLAGS = ['stateOwner', 'incidents', 'franchise'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
-// Glory and fame (Kevin, 2026-11-06: "not just popular clubs", no glory hunting): winning (contender) and being a big
-// club (Elo standing in its league) are fitted like league familiarity; contender counts only when it comes out
-// negative (an underdog lean), fame never.
+// Success and fame (Kevin, 2026-11-06: no glory hunting; 2026-11-07: "I don't have a problem with being in contention,
+// rather the appearance of picking a club based on its front-running status"): winning (contender) and being a big
+// club (Elo standing in its league) are fitted like league familiarity, so the sway they have on his picks is measured
+// and set aside. Neither counts for or against a club.
 export const GLORY = ['contender', 'fame'];
 export const FEATURES = [...MODEL, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
@@ -155,7 +156,7 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGro
 
 // Kevin, 2026-11-06: nothing pre-established. Every weight starts at 0 and may go either way, so what a trait is worth,
 // and in which direction, comes from his picks alone (PRIOR, PULL and PUSH are kept for reference and the players).
-const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true, negOnly: FEATURES.map(f => f === 'contender') };
+const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true };
 // Answers (win): a club's id = that one; '=' = no strong opinion; '?<id>' = not familiar enough with that club, '??' =
 // with either (2026-11-06); null = can't say (before then). Clubs he doesn't know yet go on a list to look into and
 // aren't asked about until he says he knows them (ctx.known: {id: time}).
