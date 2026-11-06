@@ -109,13 +109,18 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1
       if (!X[id]) return { good: [], bad: [], picks: 0 };
       const parts = names.map((f, j) => [f, FAMj[j] ? 0 : beta[j] * (X[id][j] - mean[j])]).filter(([, v]) => Math.abs(v) > 0.08);
       // the absence of a red flag isn't a reason to like someone, so flags only appear as minuses
-      return { good: parts.filter(p => p[1] > 0 && !spec.flags.includes(p[0])).sort((a, b) => b[1] - a[1]).slice(0, 3).map(p => p[0]),
-        bad: parts.filter(p => p[1] < 0 && !(spec.plusOnly || []).includes(p[0])).sort((a, b) => a[1] - b[1]).slice(0, 2).map(p => p[0]), picks: u[id] };
+      // a trait you've turned out to dislike (negative weight) is a reason against the clubs that have it ('+trait'),
+      // and lacking it isn't a strength worth naming
+      const neg = j => spec.free && beta[names.indexOf(j)] < 0 && !spec.flags.includes(j);
+      return { good: parts.filter(p => p[1] > 0 && !spec.flags.includes(p[0]) && !neg(p[0])).sort((a, b) => b[1] - a[1]).slice(0, 3).map(p => p[0]),
+        bad: parts.filter(p => p[1] < 0 && !(spec.plusOnly || []).includes(p[0])).sort((a, b) => a[1] - b[1]).slice(0, 2).map(p => (neg(p[0]) ? '+' + p[0] : p[0])), picks: u[id] };
     },
   };
 }
 
-const CLUB_SPEC = { names: FEATURES, pull: PULL, push: PUSH, fam: FAM, flags: FLAGS, prior: FEATURES.map(f => PRIOR[f]) };
+// Kevin, 2026-11-06: nothing pre-established. Every weight starts at 0 and may go either way, so what a trait is worth,
+// and in which direction, comes from his picks alone (PRIOR, PULL and PUSH are kept for reference and the players).
+const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true };
 // traits: {id: {...}}; picks: [{a, b, win}] (win null = can't say). Returns the fitted model.
 export function fit(traits, ctx, picks, opts = {}) {
   const X = Object.fromEntries(Object.keys(traits).map(id => [id, features(id, traits[id], ctx)]));

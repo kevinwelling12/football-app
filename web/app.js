@@ -187,8 +187,11 @@ async function pollLive() {
 // Reference = your followed clubs; weights start from the factor shares and move with your picks.
 // The picks Affinity learns from: those since "Start over" (settings.affSince; earlier ones stay stored, so it can be
 // undone and sync, which only ever adds, can't bring them back), the newest per pair of clubs.
+// Kevin, 2026-11-06: "clear everything": picks before AFF_CLEAR don't count unless he brings them back (affFloor 0).
+const AFF_CLEAR = 1793985177000;
+const affSince = () => { const st = store.get().settings || {}; return Math.max(st.affSince || 0, st.affFloor ?? AFF_CLEAR); };
 function affPicks() {
-  const since = store.get().settings?.affSince || 0, m = new Map();
+  const since = affSince(), m = new Map();
   for (const p of store.get().affPicks || []) if ((p.t || 0) >= since) { const k = [p.a, p.b].sort().join('|'); if (!m.has(k) || (p.t || 0) >= (m.get(k).t || 0)) m.set(k, p); }
   return [...m.values()];
 }
@@ -196,7 +199,7 @@ function affPicks() {
 // aren't asked about, and being a rival of one of them no longer counts against a club.
 function affinity() {
   const favs = favIds(), picks = affPicks().filter(p => !favs.has(p.a) && !favs.has(p.b));
-  const key = JSON.stringify([[...favs].sort(), store.get().settings?.affSince || 0, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
+  const key = JSON.stringify([[...favs].sort(), affSince(), picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
   const rivals = new Set();
@@ -212,7 +215,7 @@ const reasonsOf = id => (TRAITS[id] ? affinity().model.reasons(id) : { good: [],
 const lc = t => AF.LABEL[t][0].toLowerCase() + AF.LABEL[t].slice(1);
 // whose rival a club is ("Liverpool's rival")
 const rivalOf = id => Object.entries(RIVALS).filter(([k, v]) => k !== '_note' && v.rivals?.[id]).map(([, v]) => v.club.replace(/ FC$/, ''));
-const shortText = (id, f) => (f === 'rival' ? `${rivalOf(id).join(' and ') || 'your club'}'s rival` : AF.SHORT[f]);
+const shortText = (id, f) => (f[0] === '+' ? lc(f.slice(1)) : f === 'rival' ? `${rivalOf(id).join(' and ') || 'your club'}'s rival` : AF.SHORT[f]);
 // One line of reasons: strengths, what your picks say beyond the traits, then the biggest thing against it
 function whyLine(id) {
   const r = reasonsOf(id), adj = affinity().model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(lc);
@@ -934,7 +937,8 @@ function viewClubs() {
     <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
-  const pull = AF.TRAITS.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = AF.FLAGS.filter(f => f !== 'rival' && beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
+  const fs = [...AF.TRAITS, ...AF.FLAGS].filter(f => f !== 'rival');
+  const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
   const mx = Math.max(...[...AF.TRAITS, ...AF.FLAGS].map(f => Math.abs(beta[f])));
   const fam = AF.FAMILIAR.filter(f => beta[f] < -0.2).sort((x, y) => beta[x] - beta[y]).map(f => AF.LABEL[f]);
   const bar = f => `<div style="display:grid;grid-template-columns:1fr 90px;align-items:center;gap:10px;margin:5px 0"><span class="small">${AF.LABEL[f]}</span><span style="height:6px;border-radius:3px;background:var(--card2)"><i style="display:block;height:100%;width:${Math.round(Math.abs(beta[f]) / mx * 100)}%;border-radius:3px;background:${beta[f] > 0 ? 'var(--good)' : 'var(--bad)'}"></i></span></div>`;
@@ -954,7 +958,7 @@ function viewClubs() {
   // the top 30, and your clubs wherever they rank
   const shown = aff.map((r, n) => [r, n]).filter(([r, n]) => n < 30 || fav.has(r[2].id));
   html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${shown.map(([r, n], j) => (j && n !== shown[j - 1][1] + 1 ? '<tr><td colspan="3" class="faint tiny" style="text-align:center">…</td></tr>' : '') + row(r, n)).join('')}</table></div>
-    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks: researched traits that can only pull a club toward you, two things that can only push it away (state ownership, a racism or fan-culture record), plus a small adjustment per club from your own answers. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
+    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: every researched trait (and state ownership, a racism or fan-culture record) starts at zero and your answers decide what it's worth and which way, plus a small adjustment per club. With no picks every club is 50. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
   return html;
 }
 const fmtSigned = x => (x >= 0 ? '+' : '−') + Math.abs(x).toFixed(2);
@@ -1203,7 +1207,7 @@ function clubBody(k, i, page = false) {
   if (TRAITS[t.id]) {
     const tr = AF.withGeo(TRAITS[t.id]), r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
     html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(f => shortText(t.id, f)).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
-      <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${A.model.beta[k] > 0.15 ? 'counts' : 'little'}</div>`).join('')}</div></div>`;
+      <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${A.model.beta[k] > 0.15 ? 'counts' : A.model.beta[k] < -0.15 ? 'against' : 'little'}</div>`).join('')}</div></div>`;
   }
   if (Object.keys(PLAYERS).length) {
     const P = playerAffinity(), ps = Object.entries(PLAYERS).filter(([, p]) => p.clubs.some(c => c[1] === t.id)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]);
@@ -1216,7 +1220,9 @@ function quizSheet() {
   sheetCtx = { type: 'quiz' };
   const ids = [...new Set(ORDER.flatMap(k => (D[k]?.teams || []).map(t => t.id)))].filter(id => TRAITS[id]);
   const A = affinity(), picks = affPicks();
-  const focus = AF.focusPairs(A.model, ids, A.ctx, picks, favIds());
+  // settle the top ten only once there is a top ten to settle: before that every answer reshuffles it, and the quiz
+  // kept circling the same few clubs
+  const focus = picks.length >= 150 ? AF.focusPairs(A.model, ids, A.ctx, picks, favIds()) : [];
   const pair = focus[0] || AF.nextPair(A.model, ids, A.ctx, picks, favIds());
   const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
@@ -1239,12 +1245,12 @@ function settingsSheet(keep = false) {
       <div class="field"><span>Account</span><span class="muted small">${u ? esc(u.email) : cfg ? 'Not signed in: saved on this device only' : 'Cloud sync not set up'}</span></div>
       ${u ? `<div class="field"><span>Status</span><span class="small" style="color:${st === 'synced' ? 'var(--good)' : st === 'error' ? 'var(--bad)' : 'var(--muted)'}">${st}${dg.seen ? ` · checked ${new Date(dg.seen).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })}` : ''}</span></div>
       ${dg.error ? `<div class="field"><span class="small" style="color:var(--bad)">${esc(dg.error)}</span></div>` : ''}` : ''}
-      <div class="field"><span>Affinity picks</span><span class="muted small">${store.get().settings?.affSince ? `${affPicks().length} since ${new Date(store.get().settings.affSince).toLocaleDateString([], { month: 'short', day: 'numeric' })} · ` : ''}this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
+      <div class="field"><span>Affinity picks</span><span class="muted small">${affSince() ? `${affPicks().length} since ${new Date(affSince()).toLocaleDateString([], { month: 'short', day: 'numeric' })} · ` : ''}this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
       <div class="field"><span>Player picks</span><span class="muted small">this device ${(store.get().playerPicks || []).length}${dg.cloudPlayerPicks != null ? ` · cloud ${dg.cloudPlayerPicks}` : ''}</span></div>
       <div class="field"><span>Score entries</span><span class="muted small">this device ${n}${dg.cloudEntries != null ? ` · cloud ${dg.cloudEntries}` : ''}</span></div>
       ${affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="copypicks">Copy my club picks (to share for analysis)</button></div>' : ''}
       ${affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="aff-reset">Start Affinity over</button></div>' : ''}
-      ${store.get().settings?.affSince && (store.get().affPicks || []).length > affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="aff-undo">Bring back my earlier club picks</button></div>' : ''}
+      ${affSince() && (store.get().affPicks || []).length > affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="aff-undo">Bring back my earlier club picks</button></div>' : ''}
       ${(store.get().playerPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks" data-which="players">Copy my player picks</button></div>' : ''}
       ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
@@ -1377,7 +1383,7 @@ document.addEventListener('click', e => {
   if (t.dataset.act === 'syncnow') { store.syncNow().then(() => sheetCtx?.type === 'settings' && settingsSheet()); return; }
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
   if (t.dataset.act === 'aff-reset' && confirm(`Start Affinity over? Your ${affPicks().length} club picks stop counting and the comparisons start fresh. They stay stored, so you can bring them back here.`)) { store.set(s => { s.settings = { ...(s.settings || {}), affSince: Date.now() }; }); settingsSheet(true); render(); return; }
-  if (t.dataset.act === 'aff-undo') { store.set(s => { s.settings = { ...(s.settings || {}), affSince: 0 }; }); settingsSheet(true); render(); return; }
+  if (t.dataset.act === 'aff-undo') { store.set(s => { s.settings = { ...(s.settings || {}), affSince: 0, affFloor: 0 }; }); settingsSheet(true); render(); return; }
   if (t.dataset.act === 'clear-entries' && confirm('Clear every score you entered?')) { store.set(s => { s.entries = {}; }); closeSheet(); render(); }
 });
 $('#scrim').addEventListener('click', closeSheet);

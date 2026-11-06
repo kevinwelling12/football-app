@@ -47,7 +47,7 @@ once a match starts (`pk`), so the Picks record is honest; picks for matches bef
 
 ## Affinity (docs/affinity.md)
 web/affinity.js v3: logistic model fitted in the page to Kevin's "which would you rather support?" picks (state.affPicks; only those since settings.affSince count, Settings > Start Affinity over, app.js affPicks):
-traits can only pull, only state ownership / racism or fan-culture record push (since 2026-11-06 Affinity stands on its own: his clubs aren't asked about, picks with them don't count, rivalry with them (data/affinity/rivals.json) no longer pushes),
+since 2026-11-06 nothing is pre-set: every weight starts at 0 and may go either way (CLUB_SPEC free; picks before app.js AFF_CLEAR don't count; the top-ten round robin waits for 150 picks) (also since 2026-11-06 Affinity stands on its own: his clubs aren't asked about, picks with them don't count, rivalry with them (data/affinity/rivals.json) no longer pushes),
 league familiarity (by domestic league; UCL, UEL, UECL only for clubs from leagues not shown) fitted but excluded from Affinity, small per-club adjustments. 82% of 1,978 held-out picks (2026-10-16; v1: 53%). His clubs are scored on traits alone (never in the picks) and ranked with the rest. Analyse new picks with
 scripts/affinity/analyze.mjs (Settings > Copy my club picks).
 Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
