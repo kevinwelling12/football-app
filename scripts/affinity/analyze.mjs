@@ -23,8 +23,11 @@ say(`# Affinity picks: ${raw.length} total, ${answered.length} answered, ${skipp
 // as in the page (2026-11-06): no rivals, fame = Elo standing in the league
 const STANDING = {};
 for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl', 'uel', 'uecl']) { const ts = JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams.sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (STANDING[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
-const ctx = { league: LEAGUE, rivals: new Set(), standing: STANDING };
-const all = raw.filter(p => traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: winOf(p) }));
+const LOVE = [[32.72, -117.16], [45.52, -122.68], [47.61, -122.33]]; // San Diego, Portland, Seattle (app.js LOVE_CITIES)
+const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
+const love = new Set(process.env.NO_EXTRA ? [] : Object.entries(traits).filter(([, c]) => c.ll && LOVE.some(ll => km(ll, c.ll) < 60)).map(([id]) => id));
+const ctx = { league: LEAGUE, rivals: new Set(process.env.NO_EXTRA ? [] : ['9726']), love, standing: STANDING };
+const all = raw.filter(p => traits[p.ida] && traits[p.idb] && !FAVS.includes(p.ida) && !FAVS.includes(p.idb)).map(p => ({ a: p.ida, b: p.idb, win: winOf(p) }));
 let ok = 0, tot = 0;
 for (let k = 0; k < 10; k++) {
   const m = AF.fit(traits, ctx, all.filter((p, i) => !(p.win === p.a || p.win === p.b) || i % 10 !== k));

@@ -1582,7 +1582,8 @@
    "women": "Women's team in Frauen-Bundesliga",
    "intensity": "Red Bull pressing",
    "comeback": "Founded by Red Bull in 2009 and rose steadily; no serious adversity",
-   "punch": "Red Bull money and one of the top Bundesliga budgets; DFB-Pokal 2022 and 2023 and a 2020 Champions League semi-final, about what that money buys, with large sale profits"
+   "punch": "Red Bull money and one of the top Bundesliga budgets; DFB-Pokal 2022 and 2023 and a 2020 Champions League semi-final, about what that money buys, with large sale profits",
+   "feeder": "Red Bull GmbH club, named for the brand"
   },
   "state": false,
   "comeback": 0,
@@ -1593,7 +1594,8 @@
     "https://en.wikipedia.org/wiki/RB_Leipzig"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "83": {
   "name": "Barcelona",
@@ -3055,7 +3057,8 @@
    "women": "no women's team (Gotham FC independent)",
    "intensity": "Red Bull gegenpressing identity",
    "comeback": "MetroStars 'curse' and worst MLS record 1999, worst again 2009; 15 straight playoffs from 2010, missed 2025; distant lows.",
-   "punch": "9th payroll (2025); 15-year playoff streak and 2024 MLS Cup final with a set pressing model, but no MLS Cup and 10th in the East 2025."
+   "punch": "9th payroll (2025); 15-year playoff streak and 2024 MLS Cup final with a set pressing model, but no MLS Cup and 10th in the East 2025.",
+   "feeder": "Red Bull GmbH club, named for the brand"
   },
   "state": false,
   "comeback": 3,
@@ -3067,7 +3070,8 @@
     "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "191": {
   "name": "San Jose Earthquakes",
@@ -3612,7 +3616,8 @@
    "women": "No women's team",
    "intensity": "CFG positional play with press",
    "comeback": "No home of its own since 2015, matches spread across baseball and out-of-state grounds; MLS Cup 2021; own stadium due 2027 (owner-funded, not a fan fight).",
-   "punch": "Low payroll (24th, 2025) yet MLS Cup 2021, conference finals 2022 and 2025; CFG backing and $20m+ transfer spend 2024 temper it."
+   "punch": "Low payroll (24th, 2025) yet MLS Cup 2021, conference finals 2022 and 2025; CFG backing and $20m+ transfer spend 2024 temper it.",
+   "feeder": "City Football Group satellite (Man City's group)"
   },
   "state": true,
   "comeback": 3,
@@ -3624,7 +3629,8 @@
     "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "18267": {
   "name": "FC Cincinnati",
@@ -3995,7 +4001,8 @@
    "women": "no women's team (Wave separate)",
    "intensity": "Varas's attacking possession",
    "comeback": "Founded 2023, first season 2025: too new.",
-   "punch": "10th payroll (2025) yet 1st in the West with an expansion-record 63 pts and a West final; one full season only."
+   "punch": "10th payroll (2025) yet 1st in the West with an expansion-record 63 pts and a West final; one full season only.",
+   "feeder": "secondary club in the Right to Dream network"
   },
   "state": false,
   "comeback": 0,
@@ -4007,7 +4014,8 @@
     "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "15360": {
   "name": "Chicago Stars FC",
@@ -7325,7 +7333,8 @@
    "women": "Troyes AC Féminine, lower divisions.",
    "intensity": "Won Ligue 2 in 2025-26; style not documented; estimate.",
    "comeback": "Bankruptcies and refounding in the 1970s-80s are distant; recent yo-yo, double relegation in 2024, Ligue 2 champions 2026.",
-   "punch": "City Football Group backing since 2020, yet relegated in 2023 and down to the third tier in 2024."
+   "punch": "City Football Group backing since 2020, yet relegated in 2023 and down to the third tier in 2024.",
+   "feeder": "City Football Group feeder"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -7341,7 +7350,8 @@
     "https://en.wikipedia.org/wiki/ES_Troyes_AC"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "172": {
   "name": "AJ Auxerre",
@@ -7561,7 +7571,8 @@
    "women": "Première Ligue side, 7th in 2025-26.",
    "intensity": "Young, front-foot pressing side under Rosenior; estimate.",
    "comeback": "Bankrupt in 2011 and restarted in the fifth tier; four promotions to return to Ligue 1 in 2017, now in Europe.",
-   "punch": "BlueCo's heavy spending on young players since 2023; 7th in 2025 and a Conference League semi-final in 2026."
+   "punch": "BlueCo's heavy spending on young players since 2023; 7th in 2025 and a Conference League semi-final in 2026.",
+   "feeder": "BlueCo (Chelsea's owners); fans call it a Chelsea feeder"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -7578,7 +7589,8 @@
     "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "2502": {
   "name": "Nice",
@@ -7703,7 +7715,8 @@
    "women": "Women's side outside the top tier (estimate).",
    "intensity": "Mixed, possession-leaning promoted side (estimate).",
    "comeback": "Bankrupt in 1978 (fans kept the name) and 1990, both distant; recent history is relegations (2017, 2024) and quick returns.",
-   "punch": "Small budget, yo-yo between Ligue 1 and Ligue 2; 10th in 2025-26 after promotion."
+   "punch": "Small budget, yo-yo between Ligue 1 and Ligue 2; 10th in 2025-26 after promotion.",
+   "feeder": "Black Knight group's second club after Bournemouth"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -7720,7 +7733,8 @@
     "https://en.wikipedia.org/wiki/FC_Lorient"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "3236": {
   "name": "Le Havre AC",
@@ -9222,7 +9236,8 @@
    "women": "Atlético San Luis Femenil in Liga MX Femenil, no titles",
    "intensity": "Possession, front-foot football under Domènec Torrent (estimate)",
    "comeback": "Founded 2013 after San Luis FC moved to Chiapas, left the city without a club; promoted 2019; estimate",
-   "punch": "Low budget feeder of Atlético Madrid; semi-final Apertura 2023, mostly lower half (14th Clausura 2026); estimate"
+   "punch": "Low budget feeder of Atlético Madrid; semi-final Apertura 2023, mostly lower half (14th Clausura 2026); estimate",
+   "feeder": "Atlético Madrid's Mexican satellite"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -9240,7 +9255,8 @@
     "https://en.wikipedia.org/wiki/Atlético_San_Luis"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "218": {
   "name": "Cruz Azul",
@@ -10468,7 +10484,8 @@
    "women": "No women's team found (estimate)",
    "intensity": "Red Bull high-press, high-tempo identity; Danny Röhl coach",
    "comeback": "No serious adversity since the 2005 Red Bull takeover; ten straight titles 2014-23",
-   "punch": "About four times Sturm's turnover; strong sales model, but titles 2022-23 then 2nd, 2nd, 3rd since 2024"
+   "punch": "About four times Sturm's turnover; strong sales model, but titles 2022-23 then 2nd, 2nd, 3rd since 2024",
+   "feeder": "Red Bull GmbH club, named for the brand"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -10485,7 +10502,8 @@
     "https://www.salzburg24.at/sport/fussball/bundesliga/red-bull-salzburg-mit-deutlicher-umsatz-steigerung-art-271519"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "2990": {
   "name": "Lech Poznan",
@@ -12177,7 +12195,8 @@
    "women": "FC Lugano Femminile in the Swiss top flight (estimate).",
    "intensity": "Attacking, mid-tempo side in recent seasons (estimate).",
    "comeback": "Bankrupt and removed from the league 2003, refounded 2004, eleven years in the second tier; promoted 2015, Swiss Cup 2022",
-   "punch": "Mansueto-funded since 2021; cup 2022, runners-up 2024, about what money says (estimate)"
+   "punch": "Mansueto-funded since 2021; cup 2022, runners-up 2024, about what money says (estimate)",
+   "feeder": "run as a sister club of Chicago Fire"
   },
   "researched": "clubs-2026-10",
   "confidence": "medium",
@@ -12194,7 +12213,8 @@
     "https://en.wikipedia.org/wiki/FC_Lugano"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "feeder": true
  },
  "7853": {
   "name": "AGF",

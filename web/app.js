@@ -195,6 +195,13 @@ function affPicks() {
   for (const p of store.get().affPicks || []) if ((p.t || 0) >= since) { const k = [p.a, p.b].sort().join('|'); if (!m.has(k) || (p.t || 0) >= (m.get(k).t || 0)) m.set(k, p); }
   return [...m.values()];
 }
+// Cities Kevin loves (2026-11-07; "location, location, location" for San Diego FC): every club within 60 km gets the
+// "A city you love" feature, fitted from his picks like any trait
+const LOVE_CITIES = { 'San Diego': [32.72, -117.16], Portland: [45.52, -122.68], Seattle: [47.61, -122.33] };
+function loveIds() {
+  const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
+  return new Set(Object.entries(TRAITS).filter(([, c]) => c.ll && Object.values(LOVE_CITIES).some(ll => km(ll, c.ll) < 60)).map(([id]) => id));
+}
 // Kevin, 2026-11-06: Affinity stands on its own. His clubs are left out of it: picks that involve one don't count, they
 // aren't asked about, and being a rival of one of them no longer counts against a club.
 function affinity() {
@@ -202,11 +209,13 @@ function affinity() {
   const key = JSON.stringify([[...favs].sort(), affSince(), store.get().settings?.affKnown || {}, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
-  const rivals = new Set();
+  // the one rivalry kept (Kevin, 2026-11-07): the Sounders are the Timbers' rival, so Seattle's pull goes to the Reign
+  const rivals = new Set(favs.has('9723') ? ['9726'] : []);
+  const love = loveIds();
   // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
   const standing = {};
   for (const k of HOME_ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
-  const ctx = { league, rivals, standing, known: store.get().settings?.affKnown || {} }, model = AF.fit(TRAITS, ctx, picks);
+  const ctx = { league, rivals, love, standing, known: store.get().settings?.affKnown || {} }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
 // every club is scored, Kevin's too (2026-11-06): his are never in the picks, so theirs comes from traits alone
@@ -937,7 +946,7 @@ function viewClubs() {
     <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
-  const fs = [...AF.TRAITS, ...AF.FLAGS].filter(f => f !== 'rival' && f !== 'fame' && !(f === 'contender' && beta[f] >= 0)); // an underdog lean counts, a pull toward winners doesn't
+  const fs = [...AF.TRAITS, ...AF.PERSONAL, ...AF.FLAGS].filter(f => f !== 'fame' && !(f === 'contender' && beta[f] >= 0)); // an underdog lean counts, a pull toward winners doesn't
   const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
   const mx = Math.max(1e-9, ...fs.map(f => Math.abs(beta[f])));
   const fam = AF.FAMILIAR.filter(f => beta[f] < -0.2).sort((x, y) => beta[x] - beta[y]).map(f => AF.LABEL[f]);
