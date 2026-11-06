@@ -1,0 +1,370 @@
+[
+ {
+  "espn_id": "226",
+  "name": "Atlante",
+  "league": "mex",
+  "comeback": 5.5,
+  "punch": 3,
+  "why": {
+   "comeback": "Relegated 2014 after repeated relocations (Querétaro, Cancún 2007, Zacatepec 2024); 12 years in the second tier, back in 2026 by buying Mazatlán's franchise",
+   "punch": "Three Liga de Expansión titles (2021-24), but returned by purchase, not on the pitch; estimate on budget"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlante_F.C."
+  ]
+ },
+ {
+  "espn_id": "216",
+  "name": "Atlas",
+  "league": "mex",
+  "comeback": 4,
+  "punch": 7,
+  "why": {
+   "comeback": "70 years without a league title (1951-2021), then back-to-back titles 2021-22; earlier relegations distant",
+   "punch": "Titles Apertura 2021 and Clausura 2022 with a squad valued in the league's lower group (Transfermarkt 2025); mid-table since"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlas_F.C.",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "15720",
+  "name": "Atlético de San Luis",
+  "league": "mex",
+  "comeback": 3,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2013 after San Luis FC moved to Chiapas, left the city without a club; promoted 2019; estimate",
+   "punch": "Low budget feeder of Atlético Madrid; semi-final Apertura 2023, mostly lower half (14th Clausura 2026); estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlético_San_Luis"
+  ]
+ },
+ {
+  "espn_id": "218",
+  "name": "Cruz Azul",
+  "league": "mex",
+  "comeback": 6,
+  "punch": 5,
+  "why": {
+   "comeback": "23-year title drought (1997-2021) with lost finals ('cruzazulear'), president fled a 2020 warrant, homeless 2018-26 (Azteca, Ciudad de los Deportes, CU, Puebla); titles 2021 and 2026, CONCACAF 2025",
+   "punch": "One of the two most valuable squads; titles 2021 and 2026, CONCACAF 2025: about what its money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cruz_Azul",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "17851",
+  "name": "FC Juárez",
+  "league": "mex",
+  "comeback": 3,
+  "punch": 3.5,
+  "why": {
+   "comeback": "City lost Indios (2011, finances and insecurity); club founded 2015 to restore football, bought Lobos BUAP's place 2019",
+   "punch": "Among the league's cheapest squads; one Liguilla (Apertura 2025), record eight straight losses Apertura 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Juárez",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "219",
+  "name": "Guadalajara",
+  "league": "mex",
+  "comeback": 3,
+  "punch": 3,
+  "why": {
+   "comeback": "Financial trouble late 1980s, debt-laden promoter until the Vergara purchase 2002; relegation-table scare 2015; mediocrity 2018-22",
+   "punch": "Most valuable club (Forbes 2020) with a Mexican-only policy; one title (2017) since 2006, semis Clausura 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.D._Guadalajara"
+  ]
+ },
+ {
+  "espn_id": "228",
+  "name": "León",
+  "league": "mex",
+  "comeback": 7,
+  "punch": 6,
+  "why": {
+   "comeback": "Five-time champions relegated 2002, lost three promotion finals, ten years in the second tier; promoted 2012 and won titles 2013, 2014, 2020",
+   "punch": "Titles 2020 and CONCACAF 2023 on a mid budget, but shares Grupo Pachuca's resources (Club World Cup exclusion 2025); estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_León"
+  ]
+ },
+ {
+  "espn_id": "220",
+  "name": "Monterrey",
+  "league": "mex",
+  "comeback": 3,
+  "punch": 2,
+  "why": {
+   "comeback": "Financial problems and relegation escapes 1996 and 1999 before FEMSA ownership from 1999",
+   "punch": "One of the most expensive squads (Ramos, Canales, Martial); one final 2022-26, missed playoffs Clausura 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.F._Monterrey",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex",
+  "comeback": 5,
+  "punch": 4,
+  "why": {
+   "comeback": "1990s champions moved from Mexico City to Aguascalientes 2003, relegated 2009 and 2011, back 2016; US investors since 2021",
+   "punch": "Modest budget, Copa MX 2018; mostly lower half (15th Clausura 2026)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Necaxa"
+  ]
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex",
+  "comeback": 4,
+  "punch": 7,
+  "why": {
+   "comeback": "Dissolved 1922 and 1952, relegated 1973, 1993, 1997; promoted 1998 and became a title-winning club; the rise is older than 30 years",
+   "punch": "Academy and sales-led model on a mid budget: Apertura 2022, CONCACAF 2024, Intercontinental Cup final 2024"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.F._Pachuca"
+  ]
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex",
+  "comeback": 4,
+  "punch": 4,
+  "why": {
+   "comeback": "Owner expelled 1993, relegated 1999 and 2005, back 2007; brand and crest disputes to 2018; no title since 1990",
+   "punch": "Low budget; occasional overachievement but 17th in Clausura 2026; estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Puebla",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex",
+  "comeback": 1.5,
+  "punch": 6,
+  "why": {
+   "comeback": "Never relegated; no league title since 2011",
+   "punch": "University club with a cantera and a smaller budget than América and Cruz Azul; finals 2020 and Clausura 2026, CONCACAF final 2022; estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Universidad_Nacional"
+  ]
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex",
+  "comeback": 4.5,
+  "punch": 4,
+  "why": {
+   "comeback": "Kept up 2013 by a bought franchise, owner fraud case put the club under government administration 2014, 2022 riot forced a sale; Copa MX 2016",
+   "punch": "Among the cheapest squads; Liga final 2015, lower half since (11th Clausura 2026)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Querétaro_F.C.",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex",
+  "comeback": 2.5,
+  "punch": 3,
+  "why": {
+   "comeback": "Club put up for sale 2004 amid owner Ahumada's legal case; otherwise steady, now bottom (18th Clausura 2026)",
+   "punch": "Orlegi's academy model won 2015 and 2018 titles; last place Clausura 2026; estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santos_Laguna"
+  ]
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex",
+  "comeback": 5,
+  "punch": 3.5,
+  "why": {
+   "comeback": "Relegated 1996 despite making the playoffs, taken over by CEMEX trust, back 1997; titles from 2011",
+   "punch": "Among the biggest budgets (Gignac); titles 2019 and 2023, CONCACAF 2020: what its money says or less"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tigres_UANL",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex",
+  "comeback": 1,
+  "punch": 3.5,
+  "why": {
+   "comeback": "Founded 2007, no serious adversity; title 2012",
+   "punch": "Mid budget; nothing since the 2012 title (9th Clausura 2026); estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Tijuana"
+  ]
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex",
+  "comeback": 1.5,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Never relegated; 15-year title drought 2010-25, paid a relegation fine 2022",
+   "punch": "About €92m over three years from 2022 and a top-five squad value; won 2025 Clausura and Apertura, CONCACAF and Leagues Cup 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Toluca_F.C.",
+   "https://www.telemundo.com/deportes/futbol-estelar-liga-mx/los-millones-mandan-equipos-mas-caros-dominan-el-apertura-2025-rcna235026"
+  ]
+ },
+ {
+  "espn_id": "887",
+  "name": "AEK Athens",
+  "league": "ucl",
+  "comeback": 9,
+  "punch": 6,
+  "why": {
+   "comeback": "Lost Nikos Goumas Stadium (demolished 2004), relegated 2013 amid financial collapse and self-relegated to the third tier; fans' union took the majority, back 2015, own stadium 2022, champions 2018, 2023, 2026",
+   "punch": "Champions 2023 and 2026 against richer Olympiacos and PAO, funded by owner Iliopoulos; estimate on budget"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AEK_Athens_F.C."
+  ]
+ },
+ {
+  "espn_id": "2980",
+  "name": "Bodo/Glimt",
+  "league": "ucl",
+  "comeback": 6,
+  "punch": 10,
+  "why": {
+   "comeback": "Relegated 2005, 2009 and 2016, financial trouble with the licence threatened; back 2017 and four titles 2020-24",
+   "punch": "Small-town budget: four Norwegian titles, EL semi-final 2025, beat Inter in the CL 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Bodø/Glimt"
+  ]
+ },
+ {
+  "espn_id": "570",
+  "name": "Club Brugge",
+  "league": "ucl",
+  "comeback": 1.5,
+  "punch": 6,
+  "why": {
+   "comeback": "Steady; 11 years without a title to 2016, stadium plans blocked since 2007",
+   "punch": "Belgium's biggest budget, titles as expected; CL knockouts 2023 and 2025, Conference League semi 2024"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Brugge_KV"
+  ]
+ },
+ {
+  "espn_id": "437",
+  "name": "FC Porto",
+  "league": "ucl",
+  "comeback": 2.5,
+  "punch": 6.5,
+  "why": {
+   "comeback": "Steady on the pitch; Villas-Boas elected 2024 against Pinto da Costa amid financial strain; estimate",
+   "punch": "Player-sale model on a smaller budget than Benfica; titles 2022 and 2026, cups 2022-24"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Porto"
+  ]
+ },
+ {
+  "espn_id": "436",
+  "name": "Fenerbahce",
+  "league": "ucl",
+  "comeback": 3.5,
+  "punch": 1.5,
+  "why": {
+   "comeback": "2011 match-fixing scandal and two-year UEFA ban; no league title since 2014",
+   "punch": "High spending (Mourinho, Džeko, Özil) and one of Turkey's richest; runners-up 2024 and 2026, no title"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fenerbahçe_S.K._(football)"
+  ]
+ },
+ {
+  "espn_id": "142",
+  "name": "Feyenoord Rotterdam",
+  "league": "ucl",
+  "comeback": 6.5,
+  "punch": 7,
+  "why": {
+   "comeback": "Finances 'appalling' 2006-11, fans' VVF capital injection 2011; 18-year drought ended 2017; title 2023, Conference League final 2022",
+   "punch": "Budget below Ajax and PSV; titles 2017 and 2023, Conference League final 2022, CL knockouts 2025; estimate on budget"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Feyenoord"
+  ]
+ },
+ {
+  "espn_id": "432",
+  "name": "Galatasaray",
+  "league": "ucl",
+  "comeback": 2.5,
+  "punch": 3.5,
+  "why": {
+   "comeback": "Debts and a UEFA FFP ban (2016); otherwise steady at the top; estimate",
+   "punch": "Debt-funded big spending (Osimhen); four straight titles 2023-26, what its money says"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)"
+  ]
+ }
+]
