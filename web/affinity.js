@@ -97,7 +97,7 @@ const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLA
 // Pull weights stay >= 0, push weights <= 0; fam (familiarity) is fitted but left out of the score.
 // group (optional): {id: key}. Items sharing a key also share an adjustment learned from the picks (clubs: the city,
 // 2026-11-07, Kevin: "the city I love thing needs to be more autonomous"), so picking San Diego FC lifts the Wave too.
-export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGroup = 2, iters = 1200, group = null } = {}) {
+export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGroup = 2, iters = 1200, group = null, items = true } = {}) {
   const ids = Object.keys(X), names = spec.names;
   const b0 = spec.prior.slice(), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0])), ug = {};
   const G = id => (group ? group[id] : undefined), gv = id => { const k = G(id); return k == null ? 0 : ug[k] || 0; };
@@ -125,7 +125,7 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGro
       // a trait can only pull you toward a club or player; flags only push away
       if (spec.pull[j]) beta[j] = Math.max(0, beta[j]); else if (spec.push[j]) beta[j] = Math.min(0, beta[j]);
     }
-    for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaItem * u[id]) / n;
+    if (items) for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaItem * u[id]) / n; // items: false = no per-item adjustment
     for (const k in gg) ug[k] = (ug[k] || 0) - 0.3 * (gg[k] + lambdaGroup * (ug[k] || 0)) / n;
   }
   // familiarity is fitted but not part of Affinity; a negOnly feature counts only when its weight came out negative

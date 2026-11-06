@@ -146,7 +146,7 @@ function score(m, test) {
   return [ll, ok, test.length];
 }
 function run(v) {
-  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2, group: CITY });
+  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2, group: CITY, items: !process.env.NOITEM });
   const add = (acc, r) => r.map((x, i) => (acc[i] || 0) + x);
   let a = [], b = [];
   for (let k = 0; k < 10; k++) a = add(a, score(fit(picks.filter((p, i) => !decisive(p) || i % 10 !== k)), picks.filter((p, i) => decisive(p) && i % 10 === k)));
