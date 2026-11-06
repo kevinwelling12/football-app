@@ -60,12 +60,14 @@ kept in traits.json (incl. rituals, women, inclusion, lean, geography) and shown
 Quiz answers: a club, "No strong opinion" ('=', half a pick each way), "Don't know enough about" one or either ('?<id>',
 '??': Clubs > Explore > To look into, settings.affKnown); one league at a time (chips); the top-ten round robin waits for
 150 decisive picks. Analyse picks with scripts/affinity/analyze.mjs (Settings > Copy my club picks).
-Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
-club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),
-"who would you rather your son look up to?" picks (state.playerPicks); Clubs page > Players. scripts/affinity/analyze_players.mjs.
-Serious wrongdoing = harm to people; uncharged allegations aren't coded; minor offences are lesser (docs/affinity.md).
-Character is also split into Sportsmanship, Speaks out, Community, Humility (all 2,340 players:
-data/affinity/research/char, scripts/affinity/merge_char.py); American is a pull.
+Players: web/players.js v2 (2026-11-07, Kevin's choices; backtest scripts/affinity/pgroupings.mjs): groups Character (CH,
+SP, VO, CO, HU), Team player, Loyalty (can only count for), Class on the pitch (greatness, joy to watch, legacy), Clubs you
+like (club Affinity of his clubs, not his own clubs: "played for your club" dropped), American; flags Wrongdoing,
+Money or disloyal moves; familiarity set aside (still playing, women's game, big clubs, league of current/last club).
+Nothing pre-set; the per-player adjustment stays (traits alone predict ~55%). Picks before app.js PCLEAR don't count
+(Settings brings them back). Quiz: the club quiz's answers (=, ?id, ??), Players to look into (settings.pKnown), league
+chips, variety. 2,340 researched players (data/affinity/players.json, research/BRIEF.md, merge_research.py, char split
+merge_char.py). Serious wrongdoing = harm to people; uncharged allegations aren't coded (docs/affinity.md).
 
 ## Match importance, match of the day/week
 sim.js records, for every remaining match, each side's zone (and title/cup) chances given home win / draw / away win.

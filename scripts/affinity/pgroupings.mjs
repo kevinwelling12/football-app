@@ -27,7 +27,15 @@ const picks = JSON.parse(fs.readFileSync(process.argv[2], 'utf8')).map(p => ({ a
 
 // raw per-player values, from players.js pfeatures (0-1 traits, links, flags, familiarity)
 const B = {};
-for (const [id, p] of Object.entries(P)) { const x = PL.pfeatures(p, clubAff, favs); B[id] = Object.fromEntries(PL.PFEATURES.map((f, j) => [f, x[j]])); }
+// raw per-player values (independent of the live model's grouping)
+const TDEF = { SP: 6, VO: 5, CO: 5.5, HU: 6 };
+for (const [id, p] of Object.entries(P)) {
+  const r = Object.fromEntries(PL.PTRAITS.map(k => [k, (p.t[k] ?? TDEF[k] ?? 5) / 10]));
+  let tot = 0, mine = 0, lw = 0, l = 0;
+  for (const c of p.clubs) { const s = Math.max(0.5, (c[3] ?? 2026) - (c[2] ?? 2026)); tot += s; if (c[1] && favs.has(c[1])) { mine += s; continue; } const a = c[1] ? clubAff(c[1]) : null; if (a != null) { l += s * (a - 50) / 50; lw += s; } }
+  B[id] = { ...r, myClub: tot ? mine / tot : 0, clubs: lw ? (l / lw) * Math.min(1, lw / Math.max(tot, 1)) : 0, usa: p.nat === 'USA' ? 1 : 0,
+    serious: p.f.serious || 0, lesser: p.f.lesser || 0, money: p.f.money || 0, moves: p.f.moves || 0, active: p.act ? 1 : 0, women: p.g === 'W' ? 1 : 0 };
+}
 const mean = (...xs) => xs.reduce((a, b) => a + b, 0) / xs.length;
 // familiarity controls (fitted, not counted): how big his clubs were (seasons-weighted Elo standing of the clubs he
 // played for), and the league of his current or last club (EPL as the base)
@@ -41,7 +49,7 @@ for (const [id, p] of Object.entries(P)) {
 const FAMF = process.env.FAME ? ['active', 'women', 'fame', ...LGS.map(l => 'lg_' + l)] : ['active', 'women'];
 
 const VARIANTS = {
-  'all 17 features, nothing pre-set': { feats: Object.fromEntries(PL.PFEATURES.filter(f => !FAMF.includes(f)).map(f => [f, b => b[f]])) },
+  'all 17 features, nothing pre-set': { feats: Object.fromEntries(['CH','SP','VO','CO','HU','WK','LO','AB','ST','LE','myClub','clubs','usa','serious','lesser','money','moves'].map(f => [f, b => b[f]])) },
   'A: 8 groups': { feats: {
     character: b => mean(b.CH, b.SP, b.VO, b.CO, b.HU), team: b => b.WK, loyalty: b => b.LO, class: b => mean(b.AB, b.ST, b.LE),
     myClub: b => b.myClub, clubs: b => b.clubs, usa: b => b.usa,
@@ -81,7 +89,7 @@ const only = process.argv.slice(4).filter(a => !a.startsWith('--'));
 console.log(`${picks.filter(decisive).length} decisive player picks. Log loss / accuracy (lower is better)\n`);
 console.log('variant'.padEnd(52), 'n'.padStart(3), '  picks'.padEnd(16), 'players'.padEnd(16), 'time');
 const show = (name, n, r) => { console.log(name.padEnd(52), String(n).padStart(3), ' ', f(r.picks).padEnd(16), f(r.players).padEnd(16), f(r.time)); if (process.argv.includes('--weights')) console.log('   ', Object.entries(r.m.beta).map(([k, x]) => `${k} ${x.toFixed(2)}`).join(', ')); };
-if (!only.length || only.some(o => 'live'.startsWith(o))) show('live (pre-set weights, sign locks, per-player adj.)', PL.PFEATURES.length, run(ps => PL.fitPlayers(P, clubAff, favs, ps)));
+if (!only.length || only.some(o => 'live'.startsWith(o))) show('live v2 (groups, loyalty only for, familiarity set aside)', PL.PFEATURES.length, run(ps => PL.fitPlayers(P, id => (favs.has(id) ? null : clubAff(id)), favs, ps, { league: LEAGUE, standing: STANDING })));
 for (const [name, v] of Object.entries(VARIANTS)) {
   if (only.length && !only.some(o => name.startsWith(o))) continue;
   const { X, spec } = build(v);

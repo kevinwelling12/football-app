@@ -7,50 +7,63 @@
 // Pushes (weights <= 0): serious wrongdoing, lesser offences, money/sportswashing moves, disloyal moves.
 // Familiarity (fitted, left out of the score): still playing, women's game.
 // Fitted on "which player would you rather your son look up to?" picks with the shared engine (affinity.js fitPairs).
-import { fitPairs } from './affinity.js';
+import { fitPairs, unknownClubs } from './affinity.js';
 
-// SP, VO, CO, HU split Character into its parts (2026-10-15, researched for the players Kevin has answered on so far;
-// others get the brief's low-information values until researched)
+// Researched traits (shown on each player's sheet). SP, VO, CO, HU split Character into its parts (2026-10-15).
 export const PTRAITS = ['CH', 'SP', 'VO', 'CO', 'HU', 'WK', 'LO', 'AB', 'ST', 'LE'];
 const TDEFAULT = { SP: 6, VO: 5, CO: 5.5, HU: 6 };
-export const PLINKS = ['myClub', 'clubs', 'usa'];
-export const PFLAGS = ['serious', 'lesser', 'money', 'moves'];
-export const PFAMILIAR = ['active', 'women'];
-export const PFEATURES = [...PTRAITS, ...PLINKS, ...PFLAGS, ...PFAMILIAR];
-export const PLABEL = { CH: 'Character', SP: 'Sportsmanship', VO: 'Speaks out', CO: 'Community', HU: 'Humility', usa: 'American', WK: 'Team player', LO: 'Loyalty', AB: 'Greatness', ST: 'Joy to watch', LE: 'Legacy',
-  myClub: 'Played for your club', clubs: 'Clubs you like', serious: 'Serious wrongdoing', lesser: 'Lesser offences',
-  money: 'Money or sportswashing move', moves: 'Forced a move or joined a rival', active: 'Still playing', women: "Women's game" };
-export const PSHORT = { CH: 'character questions', SP: 'gamesmanship', VO: 'no public stands', CO: 'little community work', HU: 'ego', usa: '', WK: 'not a team player', LO: 'moved around', AB: 'a modest talent', ST: 'functional style',
-  LE: 'little legacy', myClub: '', clubs: 'clubs you dislike', serious: 'serious wrongdoing', lesser: 'lesser offences',
-  money: 'money or sportswashing move', moves: 'forced a move or joined a rival' };
-const PRIOR = { CH: 1, SP: 0.3, VO: 0.3, CO: 0.3, HU: 0.3, usa: 0, WK: 0.6, LO: 0.5, AB: 0.5, ST: 0.3, LE: 0.4, myClub: 1, clubs: 0.5, serious: -2.5, lesser: -1, money: -1.5, moves: -0.5, active: 0, women: 0 };
+
+// v2 (2026-11-07, Kevin's choices, backtested with scripts/affinity/pgroupings.mjs on his 1,024 decisive picks):
+// grouped features, every weight from 0 with either sign except Loyalty (it can only count for a player), no
+// "played for your club" link, and familiarity controls (still playing, women's game, how big his clubs were, the
+// league of his current or last club) fitted but left out of the score. Unlike clubs, the per-player adjustment
+// stays: traits alone predict little more than half of his player picks.
+export const PGROUPS = ['character', 'team', 'loyalty', 'class', 'clubs', 'usa'];
+export const PPARTS = { character: ['CH', 'SP', 'VO', 'CO', 'HU'], team: ['WK'], loyalty: ['LO'], class: ['AB', 'ST', 'LE'] };
+export const PFLAGS = ['wrongdoing', 'moneymoves'];
+const PLG = ['bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'other'];
+export const PFAMILIAR = ['active', 'women', 'fame', ...PLG.map(l => 'plg_' + l)];
+export const PFEATURES = [...PGROUPS, ...PFLAGS, ...PFAMILIAR];
+export const PLABEL = { CH: 'Character', SP: 'Sportsmanship', VO: 'Speaks out', CO: 'Community', HU: 'Humility', WK: 'Team player', LO: 'Loyalty', AB: 'Greatness', ST: 'Joy to watch', LE: 'Legacy',
+  character: 'Character', team: 'Team player', loyalty: 'Loyalty', class: 'Class on the pitch', clubs: 'Clubs you like', usa: 'American',
+  wrongdoing: 'Wrongdoing', moneymoves: 'Money or disloyal moves', active: 'Still playing', women: "Women's game", fame: 'Big clubs' };
+export const PSHORT = { character: 'character questions', team: 'not a team player', loyalty: 'moved around', class: 'a modest talent', clubs: 'clubs you dislike', usa: '',
+  wrongdoing: 'wrongdoing on record', moneymoves: 'a money or disloyal move' };
 const NOW = 2026;
 const SPEC = {
   names: PFEATURES,
-  pull: PFEATURES.map(f => PTRAITS.includes(f) || PLINKS.includes(f)),
-  push: PFEATURES.map(f => PFLAGS.includes(f)),
+  pull: PFEATURES.map(f => f === 'loyalty'),
+  push: PFEATURES.map(() => false),
   fam: PFEATURES.map(f => PFAMILIAR.includes(f)),
   flags: PFLAGS,
-  plusOnly: ['myClub', 'usa'], // not having played for your clubs (or not being American) isn't a reason against anyone
-  prior: PFEATURES.map(f => PRIOR[f]),
+  plusOnly: ['usa'], // not being American isn't a reason against anyone
+  prior: PFEATURES.map(() => 0),
+  free: true,
 };
 
 const seasons = c => Math.max(0.5, (c[3] ?? NOW) - (c[2] ?? NOW));
-// clubAff(espnId) -> 0..100 or null; favs: Set of your clubs' ESPN ids
-export function pfeatures(p, clubAff, favs) {
-  let tot = 0, mine = 0, linkW = 0, link = 0;
+// clubAff(espnId) -> 0..100 or null (his own clubs give null: who a player played for doesn't count, 2026-11-07);
+// ctx: {league: {espnId: key}, standing: {espnId: 0..1}} from the club model
+export function pfeatures(p, clubAff, favs, ctx = {}) {
+  const t = k => (p.t[k] ?? TDEFAULT[k] ?? 5) / 10, mean = ks => ks.reduce((s, k) => s + t(k), 0) / ks.length;
+  let tot = 0, linkW = 0, link = 0, fw = 0, fs = 0;
   for (const c of p.clubs) {
     const s = seasons(c); tot += s;
-    if (c[1] && favs.has(c[1])) { mine += s; continue; }
-    const a = c[1] ? clubAff(c[1]) : null;
+    const a = c[1] && !favs.has(c[1]) ? clubAff(c[1]) : null;
     if (a != null) { link += s * (a - 50) / 50; linkW += s; }
+    const st = c[1] ? ctx.standing?.[c[1]] : null; if (st != null) { fw += s; fs += s * st; }
   }
-  return [...PTRAITS.map(t => (p.t[t] ?? TDEFAULT[t] ?? 5) / 10), tot ? mine / tot : 0, linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0, p.nat === 'USA' ? 1 : 0,
-    ...PFLAGS.map(f => p.f[f] || 0), p.act ? 1 : 0, p.g === 'W' ? 1 : 0];
+  const last = [...p.clubs].reverse().find(c => c[1] && ctx.league?.[c[1]]), lg = last ? ctx.league[last[1]] : 'other';
+  return [mean(PPARTS.character), mean(PPARTS.team), mean(PPARTS.loyalty), mean(PPARTS.class),
+    linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0, p.nat === 'USA' ? 1 : 0,
+    Math.max(p.f.serious || 0, (p.f.lesser || 0) * 0.5), Math.max(p.f.money || 0, p.f.moves || 0),
+    p.act ? 1 : 0, p.g === 'W' ? 1 : 0, fw ? fs / fw : 0.3, ...PLG.map(l => (lg === l || (l === 'other' && ![...PLG, 'epl'].includes(lg)) ? 1 : 0))];
 }
+// a group's value 0-10 for the sheet
+export const pgroupValue = (p, g) => 10 * PPARTS[g].reduce((s, k) => s + (p.t[k] ?? TDEFAULT[k] ?? 5) / 10, 0) / PPARTS[g].length;
 
-export function fitPlayers(players, clubAff, favs, picks) {
-  const X = Object.fromEntries(Object.entries(players).map(([id, p]) => [id, pfeatures(p, clubAff, favs)]));
+export function fitPlayers(players, clubAff, favs, picks, ctx = {}) {
+  const X = Object.fromEntries(Object.entries(players).map(([id, p]) => [id, pfeatures(p, clubAff, favs, ctx)]));
   return fitPairs(X, SPEC, picks);
 }
 
@@ -74,29 +87,40 @@ export function knownPrior(p, favs) {
   return p.clubs.some(c => c[1] && favs.has(c[1])) ? Math.min(0.95, base + 0.3) : base;
 }
 const tier = p => (!p.act ? 'r' : (p.t.AB ?? 5) >= 8 ? 'a' : (p.t.AB ?? 5) >= 7 ? 'b' : (p.t.AB ?? 5) >= 6 ? 'c' : 'd');
-export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf = () => null, rnd = Math.random) {
+// opts: {lg: one league's active players only (by current club), known: {id: time} players he says he knows now}
+export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf = () => null, rnd = Math.random, opts = {}) {
   const asked = new Set(picks.map(p => [p.a, p.b].sort().join('|')));
+  // answers (2026-11-07): a player's id, '=' no strong opinion, '?<id>' / '??' don't know him / either, null (older) can't say
+  const unsureOf = (p, id) => !p.win || p.win === '??' || p.win === '?' + id;
+  const curLg = id => { const c = [...players[id].clubs].reverse().find(c => c[3] == null && c[1]); return c ? leagueOf(c[1]) : null; };
+  const recent = new Set(picks.slice().sort((x, y) => (y.t || 0) - (x.t || 0)).slice(0, 10).flatMap(p => [p.a, p.b]));
   const cell = id => `${pgroup(players[id], favs, leagueOf)}:${tier(players[id])}`;
   const seen = {}, skips = {}, gn = {}, gs = {}, answered = {}, chosen = new Set(), unknown = new Set();
   for (const p of picks) {
-    if (p.win) { chosen.add(p.win); for (const id of [p.a, p.b]) answered[id] = (answered[id] || 0) + 1; }
+    if (p.win === p.a || p.win === p.b) chosen.add(p.win);
+    for (const id of [p.a, p.b]) if (!unsureOf(p, id)) answered[id] = (answered[id] || 0) + 1;
     for (const id of [p.a, p.b]) {
-      seen[id] = (seen[id] || 0) + 1; if (!p.win) skips[id] = (skips[id] || 0) + 1;
+      seen[id] = (seen[id] || 0) + 1; if (unsureOf(p, id)) skips[id] = (skips[id] || 0) + 1;
       if (!players[id]) continue;
-      const g = cell(id); gn[g] = (gn[g] || 0) + 1; if (!p.win) gs[g] = (gs[g] || 0) + 1;
+      const g = cell(id); gn[g] = (gn[g] || 0) + 1; if (unsureOf(p, id)) gs[g] = (gs[g] || 0) + 1;
     }
   }
   // known: picked at least once, or answered on three times (losing a pair can just mean he picked the one he knew)
   const known = new Set(Object.keys(answered).filter(id => chosen.has(id) || answered[id] >= 3));
   // a skip next to a player he knows is down to the other one
   for (const p of picks) if (!p.win) { if (known.has(p.a) && !known.has(p.b)) unknown.add(p.b); if (known.has(p.b) && !known.has(p.a)) unknown.add(p.a); }
+  // players he said he doesn't know, until he says he does
+  for (const id of unknownClubs(picks, opts.known || {})) unknown.add(id);
+  for (const id in opts.known || {}) if (!unknownClubs(picks, opts.known).includes(id)) unknown.delete(id);
   // answer rate per group and level (e.g. Bundesliga stars vs Bundesliga squad players), starting from the prior and
   // moved by his answers and skips
   const answerRate = id => { const g = cell(id), k = 20; return ((gn[g] || 0) - (gs[g] || 0) + k * knownPrior(players[id], favs)) / ((gn[g] || 0) + k); };
-  const pool = Object.keys(players).filter(id => !unknown.has(id) && (known.has(id) || (skips[id] || 0) < 2));
+  const pool = Object.keys(players).filter(id => !unknown.has(id) && (known.has(id) || (skips[id] || 0) < 2 + (opts.known?.[id] ? 2 : 0))
+    && (!opts.lg || (players[id].act && curLg(id) === opts.lg)));
   // players he has answered on come back (in new pairings); everyone else by how likely he is to know them, sharpened
   // so the pairs lean hard toward names he can answer
-  const weight = id => (known.has(id) ? 1 / (1 + (seen[id] || 0) / 10) : answerRate(id) ** 4 * (skips[id] ? 0.3 : 1));
+  // variety (2026-11-07): a player from the last ten pairs is rested
+  const weight = id => (known.has(id) ? 1 / (1 + (seen[id] || 0) / 4) : answerRate(id) ** 4 * (skips[id] ? 0.3 : 1)) * (recent.has(id) ? 0.05 : 1);
   // first player drawn by weight, then the closest-to-call partner among a sample of the same game. One pair in four
   // tries someone new next to a player he knows, so a skip says who he didn't know.
   const sampler = ids => { const W = ids.map(weight), tot = W.reduce((s, w) => s + w, 0);
@@ -105,17 +129,20 @@ export function nextPlayerPair(model, players, picks, favs = new Set(), leagueOf
   const all = sampler(pool), fromKnown = sampler(knownIds), fromNew = sampler(newIds);
   const explore = knownIds.length < 20 || rnd() < 0.25;
   const drawA = knownIds.length < 20 ? all : fromKnown, drawB = knownIds.length < 20 ? all : explore ? fromNew : fromKnown;
-  let best = null;
-  for (let tries = 0; tries < 20 && !best; tries++) {
-    const a = drawA(); let bs = -1;
+  if (!pool.length) return null;
+  // the partner is drawn in proportion to how close the pair is (always taking the closest kept repeating names)
+  for (let tries = 0; tries < 20; tries++) {
+    const a = drawA(), cand = []; let tot = 0;
     for (let n = 0; n < 60; n++) {
       const b = drawB();
-      if (a === b || players[a].g !== players[b].g || asked.has([a, b].sort().join('|'))) continue;
-      const s = (0.4 + 1 - Math.abs(model.predict(a, b) - 0.5) * 2) * (0.7 + 0.3 * rnd());
-      if (s > bs) { bs = s; best = [a, b]; }
+      if (!a || !b || a === b || players[a].g !== players[b].g || asked.has([a, b].sort().join('|'))) continue;
+      const s = 0.4 + 1 - Math.abs(model.predict(a, b) - 0.5) * 2; cand.push([s, b]); tot += s;
     }
+    if (!cand.length) continue;
+    let x = rnd() * tot; for (const [s, b] of cand) { x -= s; if (x <= 0) return [a, b]; }
+    return [a, cand.at(-1)[1]];
   }
-  return best;
+  return null;
 }
 
 // Short facts for the quiz card

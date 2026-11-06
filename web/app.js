@@ -13,7 +13,7 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg'), sub: localGet('sub') || 'table', club: null };
-const ui = { pklg: localGet('pklg') || 'all', qlg: localGet('qlg') || '', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
+const ui = { pklg: localGet('pklg') || 'all', qlg: localGet('qlg') || '', pqlg: localGet('pqlg') || '', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
 const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
@@ -234,20 +234,29 @@ function whyLine(id) {
 }
 
 // ------------------------------------------------------------------ Player Affinity (web/players.js)
+// Player picks before PCLEAR don't count (2026-11-07, Kevin: start fresh); Settings can bring them back (pFloor 0)
+const PCLEAR = 0;
+const pSince = () => { const st = store.get().settings || {}; return Math.max(st.pSince || 0, st.pFloor ?? PCLEAR); };
+function pPicks() {
+  const since = pSince(), m = new Map();
+  for (const p of store.get().playerPicks || []) if ((p.t || 0) >= since) { const k = [p.a, p.b].sort().join('|'); if (!m.has(k) || (p.t || 0) >= (m.get(k).t || 0)) m.set(k, p); }
+  return [...m.values()];
+}
 function playerAffinity() {
-  const picks = store.get().playerPicks || [], A = affinity();
-  const key = JSON.stringify([A.key, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(PLAYERS).length]);
+  const picks = pPicks(), A = affinity();
+  const key = JSON.stringify([A.key, pSince(), picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(PLAYERS).length]);
   if (PAFF?.key === key) return PAFF;
-  const favs = favIds(), model = PL.fitPlayers(PLAYERS, id => (favs.has(id) ? null : A.model.affinity(id)), favs, picks);
+  const favs = favIds(), model = PL.fitPlayers(PLAYERS, id => A.model.affinity(id), favs, picks, A.ctx);
   return (PAFF = { key, model, n: model.n });
 }
 const plc = f => PL.PLABEL[f][0].toLowerCase() + PL.PLABEL[f].slice(1);
+const pShort = f => (f[0] === '+' ? plc(f.slice(1)) : PL.PSHORT[f]);
 function pWhyLine(id) {
   const P = playerAffinity(), r = P.model.reasons(id), adj = P.model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(plc);
   if (adj > 0.3) parts.push('you often pick him'.replace('him', PLAYERS[id].g === 'W' ? 'her' : 'him'));
   else if (adj < -0.3) parts.push('you rarely pick him'.replace('him', PLAYERS[id].g === 'W' ? 'her' : 'him'));
   const bad = r.bad[0];
-  return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${PL.PSHORT[bad]}` : ''].filter(Boolean).join(', ');
+  return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${pShort(bad)}` : ''].filter(Boolean).join(', ');
 }
 // a club in a player's career, with its crest when it's one of ours
 // the club a player is most associated with: most seasons among clubs we have
@@ -1057,7 +1066,8 @@ function matchSheet(k, id) {
 function viewPlayers() {
   if (!Object.keys(PLAYERS).length || !Object.keys(TRAITS).length) return '<div class="spinner">Loading…</div>';
   const P = playerAffinity(), beta = P.model.beta;
-  const pull = [...PL.PTRAITS, ...PL.PLINKS].filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = PL.PFLAGS.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
+  const fs = [...PL.PGROUPS, ...PL.PFLAGS];
+  const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
   const mx = Math.max(...[...pull, ...push].map(f => Math.abs(beta[f])), 0.01);
   const bar = f => `<div style="display:grid;grid-template-columns:1fr 90px;align-items:center;gap:10px;margin:5px 0"><span class="small">${PL.PLABEL[f]}</span><span style="height:6px;border-radius:3px;background:var(--card2)"><i style="display:block;height:100%;width:${Math.round(Math.abs(beta[f]) / mx * 100)}%;border-radius:3px;background:${beta[f] > 0 ? 'var(--good)' : 'var(--bad)'}"></i></span></div>`;
   let html = `<div class="section"><h2>Player Affinity</h2><span class="aside">${P.n ? `learned from ${P.n} of your picks` : 'no picks yet'}</span></div>
@@ -1078,19 +1088,29 @@ function viewPlayers() {
     const ct = mainClub(p);
     return `<tr class="click" data-player="${id}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${ct ? crest(ct[2]) : '<span class="crest"></span>'}<span>${esc(p.n)} <span class="faint tiny">${esc(p.cur || (p.act ? '' : 'retired'))}</span><br><span class="muted tiny">${esc(pWhyLine(id))}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`;
   }).join('')}</table></div>
-    <p class="note">${Object.keys(PLAYERS).length} researched players (your clubs' squads, today's elite, all-time greats and the women's game). Affinity is the chance you'd pick a player over a typical one: ten researched traits, being American, playing for your clubs and clubs you like, minus documented wrongdoing, learned from your picks. Whether a player is still playing or in the women's game is fitted but left out.</p>`;
+    <p class="note">${Object.keys(PLAYERS).length} researched players (your clubs' squads, today's elite, all-time greats and the women's game). Affinity is the chance you'd pick a player over a typical one, learned from your picks: character, team player, loyalty (it can only count for a player), class on the pitch, the clubs he played for that you like and being American, minus wrongdoing and money or disloyal moves, plus what your picks say about each player. Every weight starts at zero. Familiarity is fitted but left out: still playing, the women's game, how big his clubs were and his league. Who played for your clubs doesn't count.</p>`;
+  // players you said you don't know enough about
+  const todo = AF.unknownClubs(pPicks(), store.get().settings?.pKnown || {}).filter(id => PLAYERS[id]);
+  if (todo.length) html += `<div class="section"><h2>Players to look into</h2><span class="aside">${todo.length}</span></div>
+    <div class="card">${todo.map(id => { const p = PLAYERS[id], ct = mainClub(p); return `<div class="lookinto click" data-player="${id}">
+      <div class="cl">${ct ? crest(ct[2]) : ''}<span><b>${esc(p.n)}</b> <span class="faint tiny">${esc([p.nat, p.cur || (p.act ? '' : 'retired')].filter(Boolean).join(' · '))}</span></span></div>
+      <div class="qfacts">${PL.pfacts(p).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</div>
+      <div class="btns" style="padding:0"><button class="btn quiet" data-act="p-known" data-id="${id}">I know ${p.g === 'W' ? 'her' : 'him'} now</button></div></div>`; }).join('')}</div>
+    <p class="note">Players you said you don't know enough about. They're left out of the comparisons until you tap "I know them now".</p>`;
   return html;
 }
 
 function playerSheet(id) {
   const p = PLAYERS[id]; if (!p) return;
   sheetCtx = { type: 'player', id };
-  const P = playerAffinity(), r = P.model.reasons(id), adj = P.model.u[id] || 0, v = P.model.affinity(id);
+  const P = playerAffinity(), r = P.model.reasons(id), adj = P.model.u[id] || 0, v = P.model.affinity(id); // reasons may hold '+group'
   const him = p.g === 'W' ? 'her' : 'him';
   let html = `<div class="head"><div style="font-size:19px;font-weight:700">${esc(p.n)}</div><div class="small muted">${[p.nat, p.pos, p.cur || (p.act ? '' : 'Retired'), p.born ? 'born ' + p.born : ''].filter(Boolean).map(esc).join(' · ')}</div></div>
     <div class="kv"><div>Affinity</div><div>${Math.round(v)}</div><div></div><div class="muted small">of 100</div></div>`;
-  html += `<div class="block"><h4>Why</h4><p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(plc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against: ' : 'Against: '}${r.bad.map(f => PL.PSHORT[f]).join(', ')}` : ''}${r.good.length || r.bad.length ? '.' : ''}${Math.abs(adj) > 0.15 ? ` Your picks rate ${him} ${adj > 0 ? 'higher' : 'lower'} than the traits alone.` : ''}</p>
-    <div class="kv3">${PL.PTRAITS.filter(k => p.t[k] != null).map(k => `<div>${PL.PLABEL[k]}${p.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(p.why[k])}</div>` : ''}</div><div>${(p.t[k] ?? 0).toFixed(1).replace('.0', '')}</div><div class="muted small">${P.model.beta[k] > 0.15 ? 'counts' : 'little'}</div>`).join('')}</div></div>`;
+  html += `<div class="block"><h4>Why</h4><p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(plc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against: ' : 'Against: '}${r.bad.map(pShort).join(', ')}` : ''}${r.good.length || r.bad.length ? '.' : ''}${Math.abs(adj) > 0.15 ? ` Your picks rate ${him} ${adj > 0 ? 'higher' : 'lower'} than the traits alone.` : ''}</p>
+    <div class="kv3">${Object.keys(PL.PPARTS).map(g => { const b = P.model.beta[g], word = b > 0.15 ? 'counts' : b < -0.15 ? 'against' : 'little';
+      const detail = PL.PPARTS[g].map(k => `${PL.PLABEL[k]} ${p.t[k] ?? '–'}${PL.PPARTS[g].length === 1 && p.why?.[k] ? `: ${p.why[k]}` : ''}`).join(' · ');
+      return `<div>${PL.PLABEL[g]}<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(detail)}</div></div><div>${PL.pgroupValue(p, g).toFixed(0)}</div><div class="muted small">${word}</div>`; }).join('')}</div></div>`;
   html += `<div class="block"><h4>Career</h4><div class="kv3">${p.clubs.map(c => { const ct = c[1] ? clubTeam(c[1]) : null; return `<div style="display:flex;align-items:center;gap:8px;color:var(--fg)">${ct ? crest(ct[2]) : ''}${esc(c[0])}</div><div style="font-weight:400" class="muted">${c[2] ?? ''}–${c[3] ?? ''}</div><div class="muted small">${ct && favIds().has(c[1]) ? 'your club' : ct && affOf(c[1]) != null ? 'Affinity ' + Math.round(affOf(c[1])) : ''}</div>`; }).join('')}</div></div>`;
   if (p.honours) html += `<div class="block"><h4>Honours</h4><p class="note" style="margin:0 18px">${esc(p.honours)}</p></div>`;
   if (p.causes?.length) html += `<div class="block"><h4>Causes</h4><p class="note" style="margin:0 18px">${p.causes.map(esc).join('<br>')}</p></div>`;
@@ -1100,16 +1120,22 @@ function playerSheet(id) {
 
 function playerQuizSheet() {
   sheetCtx = { type: 'pquiz' };
-  const P = playerAffinity(), picks = store.get().playerPicks || [];
-  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds(), id => clubTeam(id)?.[0]);
-  if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
+  const P = playerAffinity(), picks = pPicks();
+  // one league at a time (by the player's current club), like the club quiz
+  const QLG = [['', 'All'], ['epl', 'Premier League'], ['bl', 'Bundesliga'], ['mls', 'MLS'], ['nwsl', 'NWSL'], ['usl', 'USL']];
+  const qchips = `<div class="qlg">${QLG.map(([k, n]) => `<button class="chip${(ui.pqlg || '') === k ? ' on' : ''}" data-act="pqlg" data-lg="${k}">${n}</button>`).join('')}</div>`;
+  const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds(), id => clubTeam(id)?.[0], Math.random, { lg: ui.pqlg || null, known: store.get().settings?.pKnown || {} });
+  if (!pair) { openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Who would you rather your son look up to?</div>${qchips}</div><div class="empty">No more pairs to ask${ui.pqlg ? ' in this league' : ''}.</div>`); return; }
   sheetCtx.pair = pair; sheetCtx.at = Date.now();
+  const shortName = id => PLAYERS[id].n.split(' ').slice(-1)[0];
   const side = id => { const p = PLAYERS[id], ct = mainClub(p);
-    return `<button style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
+    return `<button style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" class="btn qside" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${PL.pfacts(p).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
-  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Who would you rather your son look up to?</div><div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
+  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Who would you rather your son look up to?</div>${qchips}<div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
-    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-pquiz="skip">Can't say</button><button class="btn quiet" data-pquiz="done">Done</button></div>`);
+    <div class="btns"><button class="btn" style="flex:1" data-pquiz="=">No strong opinion</button></div>
+    <div class="qunsure"><span class="tiny faint">Don't know enough about</span><div class="btns"><button class="btn quiet" data-pquiz="?${pair[0]}">${esc(shortName(pair[0]))}</button><button class="btn quiet" data-pquiz="?${pair[1]}">${esc(shortName(pair[1]))}</button><button class="btn quiet" data-pquiz="??">Either</button></div></div>
+    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-pquiz="done">Done</button></div>`);
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
@@ -1278,12 +1304,13 @@ function settingsSheet(keep = false) {
       ${u ? `<div class="field"><span>Status</span><span class="small" style="color:${st === 'synced' ? 'var(--good)' : st === 'error' ? 'var(--bad)' : 'var(--muted)'}">${st}${dg.seen ? ` · checked ${new Date(dg.seen).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', second: '2-digit' })}` : ''}</span></div>
       ${dg.error ? `<div class="field"><span class="small" style="color:var(--bad)">${esc(dg.error)}</span></div>` : ''}` : ''}
       <div class="field"><span>Affinity picks</span><span class="muted small">${affSince() ? `${affPicks().length} since ${new Date(affSince()).toLocaleDateString([], { month: 'short', day: 'numeric' })} · ` : ''}this device ${(store.get().affPicks || []).length}${dg.cloudPicks != null ? ` · cloud ${dg.cloudPicks}` : ''}</span></div>
-      <div class="field"><span>Player picks</span><span class="muted small">this device ${(store.get().playerPicks || []).length}${dg.cloudPlayerPicks != null ? ` · cloud ${dg.cloudPlayerPicks}` : ''}</span></div>
+      <div class="field"><span>Player picks</span><span class="muted small">${pSince() ? `${pPicks().length} since ${new Date(pSince()).toLocaleDateString([], { month: 'short', day: 'numeric' })} · ` : ''}this device ${(store.get().playerPicks || []).length}${dg.cloudPlayerPicks != null ? ` · cloud ${dg.cloudPlayerPicks}` : ''}</span></div>
       <div class="field"><span>Score entries</span><span class="muted small">this device ${n}${dg.cloudEntries != null ? ` · cloud ${dg.cloudEntries}` : ''}</span></div>
       ${affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="copypicks">Copy my club picks (to share for analysis)</button></div>' : ''}
       ${affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="aff-reset">Start Affinity over</button></div>' : ''}
       ${affSince() && (store.get().affPicks || []).length > affPicks().length ? '<div class="btns"><button class="btn quiet" data-act="aff-undo">Bring back my earlier club picks</button></div>' : ''}
-      ${(store.get().playerPicks || []).length ? '<div class="btns"><button class="btn quiet" data-act="copypicks" data-which="players">Copy my player picks</button></div>' : ''}
+      ${pPicks().length ? '<div class="btns"><button class="btn quiet" data-act="copypicks" data-which="players">Copy my player picks</button></div>' : ''}
+      ${pSince() && (store.get().playerPicks || []).length > pPicks().length ? '<div class="btns"><button class="btn quiet" data-act="p-undo">Bring back my earlier player picks</button></div>' : ''}
       ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
     <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
@@ -1369,7 +1396,7 @@ document.addEventListener('click', e => {
     if (q === 'done') { closeSheet(); render(); return; }
     if (Date.now() - (sheetCtx.at || 0) < 350) return;
     const [a, b] = sheetCtx.pair;
-    store.set(s => { (s.playerPicks || (s.playerPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
+    store.set(s => { (s.playerPicks || (s.playerPicks = [])).push({ a, b, win: q, t: Date.now() }); });
     ui.qinfo = false; playerQuizSheet(); return;
   }
   if (t.dataset.more) { ui.more[t.dataset.more] = !ui.more[t.dataset.more]; render(); return; }
@@ -1407,7 +1434,7 @@ document.addEventListener('click', e => {
   if (t.dataset.act === 'copypicks') {
     const name = id => TRAITS[id]?.name || id;
     const pname = id => PLAYERS[id]?.n || id, players = t.dataset.which === 'players';
-    const nm = players ? pname : name, src = players ? store.get().playerPicks : affPicks();
+    const nm = players ? pname : name, src = players ? pPicks() : affPicks();
     const said = w => (!w ? "can't say" : w === '=' ? 'no strong opinion' : w === '??' ? "don't know either" : w[0] === '?' ? `don't know ${nm(w.slice(1))}` : nm(w));
     const rows = (src || []).map(p => ({ a: nm(p.a), b: nm(p.b), pick: said(p.win), ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
     const txt = JSON.stringify(rows);
@@ -1420,6 +1447,9 @@ document.addEventListener('click', e => {
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
   if (t.dataset.act === 'aff-reset' && confirm(`Start Affinity over? Your ${affPicks().length} club picks stop counting and the comparisons start fresh. They stay stored, so you can bring them back here.`)) { store.set(s => { s.settings = { ...(s.settings || {}), affSince: Date.now() }; }); settingsSheet(true); render(); return; }
   if (t.dataset.act === 'aff-undo') { store.set(s => { s.settings = { ...(s.settings || {}), affSince: 0, affFloor: 0 }; }); settingsSheet(true); render(); return; }
+  if (t.dataset.act === 'pqlg') { ui.pqlg = t.dataset.lg; localSet('pqlg', ui.pqlg); playerQuizSheet(); return; }
+  if (t.dataset.act === 'p-known') { const id = t.dataset.id; store.set(s => { s.settings = { ...(s.settings || {}), pKnown: { ...(s.settings?.pKnown || {}), [id]: Date.now() } }; }); return; }
+  if (t.dataset.act === 'p-undo') { store.set(s => { s.settings = { ...(s.settings || {}), pSince: 0, pFloor: 0 }; }); settingsSheet(true); render(); return; }
   if (t.dataset.act === 'qlg') { ui.qlg = t.dataset.lg; localSet('qlg', ui.qlg); quizSheet(); return; }
   if (t.dataset.act === 'aff-known') { const id = t.dataset.id; store.set(s => { s.settings = { ...(s.settings || {}), affKnown: { ...(s.settings?.affKnown || {}), [id]: Date.now() } }; }); return; }
   if (t.dataset.act === 'clear-entries' && confirm('Clear every score you entered?')) { store.set(s => { s.entries = {}; }); closeSheet(); render(); }
