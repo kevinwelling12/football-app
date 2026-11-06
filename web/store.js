@@ -19,6 +19,16 @@ function load() {
 function persist() { try { localStorage.setItem(LS, JSON.stringify(state)); } catch { /* private mode */ } }
 const emit = () => listeners.forEach(f => f(state));
 const pairKey = p => [p.a, p.b].sort().join('|');
+// In the cloud a pick is one string under its pair ("winner|time"; v3, 2026-11-06). As a map of four fields each pick
+// cost Firestore eight index entries, and at ~4,000 picks the document passed its 40,000 limit: every write was refused
+// ("too many index entries") and new picks vanished. The old map fields (affPicks, playerPicks) are read, then removed.
+const CF = { affPicks: 'affP', playerPicks: 'plP' };
+const enc = p => `${p.win ?? ''}|${p.t || 0}`;
+const dec = (k, v) => { const [a, b] = k.split('|'), [w, t] = String(v).split('|'); return { a, b, win: w || null, t: +t || 0 }; };
+const compact = arr => Object.fromEntries((arr || []).map(p => [pairKey(p), enc(p)]));
+const newer = (x, y) => (!x ? y : !y ? x : (y.t || 0) >= (x.t || 0) ? y : x);
+// the newest pick per pair from the old map field and the compact one
+const readPicks = (old, cmp) => { const m = new Map(); for (const p of Object.values(old || {})) m.set(pairKey(p), newer(m.get(pairKey(p)), p)); for (const [k, v] of Object.entries(cmp || {})) { const p = dec(k, v); m.set(k, newer(m.get(k), p)); } return [...m.values()]; };
 const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
 
 export const store = {
@@ -48,18 +58,18 @@ function delta(a, b) {
     const d = diffMap(a.entries?.[lg], b.entries?.[lg]); if (Object.keys(d).length) ent[lg] = d;
   }
   if (Object.keys(ent).length) out.entries = ent;
-  const toMap = arr => Object.fromEntries((arr || []).map(p => [pairKey(p), p]));
-  for (const [f, x, y] of [['affPicks', toMap(a.affPicks), toMap(b.affPicks)], ['playerPicks', toMap(a.playerPicks), toMap(b.playerPicks)], ['picks', a.picks, b.picks], ['motw', a.motw, b.motw]]) {
+  for (const [f, x, y] of [[CF.affPicks, compact(a.affPicks), compact(b.affPicks)], [CF.playerPicks, compact(a.playerPicks), compact(b.playerPicks)], ['picks', a.picks, b.picks], ['motw', a.motw, b.motw]]) {
     const d = diffMap(x, y); if (Object.keys(d).length) out[f] = d;
   }
   if (!same(a.favs, b.favs)) out.favs = { ids: b.favs };
   if (!same(a.settings, b.settings)) out.settings = b.settings || {};
-  if (Object.keys(out).length) out.v = 2;
+  if (Object.keys(out).length) out.v = 3;
   return out;
 }
 
-const toCloud = s => ({ v: 2, entries: s.entries || {}, affPicks: Object.fromEntries((s.affPicks || []).map(p => [pairKey(p), p])),
-  playerPicks: Object.fromEntries((s.playerPicks || []).map(p => [pairKey(p), p])),
+// drop: remove the old map fields in the same write (only with merge)
+const toCloud = (s, drop) => ({ v: 3, entries: s.entries || {}, affP: compact(s.affPicks), plP: compact(s.playerPicks),
+  ...(drop ? { affPicks: firebase.firestore.FieldValue.delete(), playerPicks: firebase.firestore.FieldValue.delete() } : {}),
   picks: s.picks || {}, motw: s.motw || {}, favs: { ids: s.favs }, settings: s.settings || {} });
 function fromCloud(d) {
   if (typeof d.entries === 'string') { // first version stored JSON strings
@@ -67,7 +77,7 @@ function fromCloud(d) {
     return { entries: j(d.entries, {}), favs: j(d.favs, null), picks: j(d.picks, {}), settings: j(d.settings, {}), motw: j(d.motw, {}), affPicks: j(d.affPicks, []) };
   }
   return { entries: d.entries || {}, favs: d.favs?.ids ?? null, picks: d.picks || {}, settings: d.settings || {}, motw: d.motw || {},
-    affPicks: Object.values(d.affPicks || {}), playerPicks: Object.values(d.playerPicks || {}) };
+    affPicks: readPicks(d.affPicks, d.affP), playerPicks: readPicks(d.playerPicks, d.plP) };
 }
 
 // Combine this device's copy with the cloud's at sign-in: newest per entry / pick, union of locks.
@@ -84,7 +94,7 @@ function merge(local, remote) {
 }
 
 const hasFirebase = () => typeof firebase !== 'undefined' && window.FIREBASE_CONFIG;
-let unsub = null, ref = null;
+let unsub = null, ref = null, resent = 0;
 const fail = e => { status = 'error'; diag.error = `${e.code || ''} ${e.message || e}`.trim(); console.warn(e); emit(); };
 
 // Read the server copy, combine it with this device's, write the result back. Additive (merge: true never removes
@@ -97,7 +107,7 @@ async function syncNow() {
     state = snap.exists ? merge(state, fromCloud(snap.data())) : { ...state };
     persist();
     if (snap.exists && typeof snap.data().entries === 'string') await ref.set(toCloud(state)); // convert the first-version layout
-    else await ref.set(toCloud(state), { merge: true });
+    else await ref.set(toCloud(state, snap.exists && (snap.data().affPicks || snap.data().playerPicks)), { merge: true });
     cloud = ref; status = 'synced'; emit();
   } catch (e) { fail(e); }
 }
@@ -118,7 +128,16 @@ export async function initSync() {
     unsub = ref.onSnapshot({ includeMetadataChanges: true }, s => {
       if (!s.exists) return;
       const r = fromCloud(s.data());
+      // picks only ever get added: keep any this device has that the cloud copy lacks (a write that failed or hasn't
+      // landed yet), instead of letting the snapshot drop them, and send them again (at most every 20 s)
+      const lost = {};
+      for (const f of ['affPicks', 'playerPicks']) {
+        const have = new Map(r[f].map(p => [pairKey(p), p]));
+        for (const p of state[f] || []) { const q = have.get(pairKey(p)); if (!q || (p.t || 0) > (q.t || 0)) { have.set(pairKey(p), p); (lost[CF[f]] ||= {})[pairKey(p)] = enc(p); } }
+        r[f] = [...have.values()];
+      }
       state = { ...blank(), ...r, updated: Date.now() };
+      if (Object.keys(lost).length && !s.metadata.hasPendingWrites && Date.now() - resent > 20e3) { resent = Date.now(); cloud?.set({ v: 3, ...lost }, { merge: true }).catch(fail); }
       if (!s.metadata.fromCache) { diag.seen = Date.now(); diag.cloudPicks = r.affPicks.length; diag.cloudPlayerPicks = r.playerPicks.length; diag.cloudEntries = countEntries(r.entries); }
       status = s.metadata.hasPendingWrites ? 'syncing' : 'synced';
       persist(); emit();

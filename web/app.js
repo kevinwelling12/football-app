@@ -1086,7 +1086,7 @@ function playerQuizSheet() {
   const P = playerAffinity(), picks = store.get().playerPicks || [];
   const pair = PL.nextPlayerPair(P.model, PLAYERS, picks, favIds(), id => clubTeam(id)?.[0]);
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
-  sheetCtx.pair = pair;
+  sheetCtx.pair = pair; sheetCtx.at = Date.now();
   const side = id => { const p = PLAYERS[id], ct = mainClub(p);
     return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${PL.pfacts(p).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
@@ -1226,7 +1226,7 @@ function quizSheet() {
   const pair = focus[0] || AF.nextPair(A.model, ids, A.ctx, picks, favIds());
   const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
-  sheetCtx.pair = pair;
+  sheetCtx.pair = pair; sheetCtx.at = Date.now();
   const side = id => { const [k, t] = team(id); return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
   openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${focus.length ? `Settling your top ten · ${focus.length} left` : `${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}`}.</div></div>
@@ -1326,6 +1326,8 @@ document.addEventListener('click', e => {
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
     if (q === 'done') { closeSheet(); render(); return; }
+    // a second tap right after the first would answer the next pair without seeing it
+    if (Date.now() - (sheetCtx.at || 0) < 350) return;
     const [a, b] = sheetCtx.pair;
     store.set(s => { (s.affPicks || (s.affPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
     ui.qinfo = false; quizSheet(); return;
@@ -1333,6 +1335,7 @@ document.addEventListener('click', e => {
   if (t.dataset.pquiz) {
     const q = t.dataset.pquiz;
     if (q === 'done') { closeSheet(); render(); return; }
+    if (Date.now() - (sheetCtx.at || 0) < 350) return;
     const [a, b] = sheetCtx.pair;
     store.set(s => { (s.playerPicks || (s.playerPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
     ui.qinfo = false; playerQuizSheet(); return;
