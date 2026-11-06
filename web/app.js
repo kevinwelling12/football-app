@@ -13,7 +13,7 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg'), sub: localGet('sub') || 'table', club: null };
-const ui = { pklg: localGet('pklg') || 'all', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
+const ui = { pklg: localGet('pklg') || 'all', qlg: localGet('qlg') || '', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
 const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
@@ -1227,20 +1227,24 @@ function clubBody(k, i, page = false) {
 
 function quizSheet() {
   sheetCtx = { type: 'quiz' };
-  const ids = [...new Set(ORDER.flatMap(k => (D[k]?.teams || []).map(t => t.id)))].filter(id => TRAITS[id]);
   const A = affinity(), picks = affPicks();
+  // one league at a time if he likes (Kevin, 2026-11-07: Premier League only, the league he knows best; what the
+  // traits are worth there applies everywhere): a club counts for its domestic league
+  const QLG = [['', 'All'], ['epl', 'Premier League'], ['bl', 'Bundesliga'], ['mls', 'MLS'], ['nwsl', 'NWSL'], ['usl', 'USL']];
+  const ids = [...new Set(ORDER.flatMap(k => (D[k]?.teams || []).map(t => t.id)))].filter(id => TRAITS[id] && (!ui.qlg || A.ctx.league[id] === ui.qlg));
+  const qchips = `<div class="qlg">${QLG.map(([k, n]) => `<button class="chip${ui.qlg === k ? ' on' : ''}" data-act="qlg" data-lg="${k}">${n}</button>`).join('')}</div>`;
   // settle the top ten only once there is a top ten to settle: before that every answer reshuffles it, and the quiz
   // kept circling the same few clubs
   const decisive = picks.filter(p => p.win === p.a || p.win === p.b).length;
   const focus = decisive >= 150 ? AF.focusPairs(A.model, ids, A.ctx, picks, favIds()) : [];
   const pair = focus[0] || AF.nextPair(A.model, ids, A.ctx, picks, favIds());
   const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
-  if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
+  if (!pair) { openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div>${qchips}</div><div class="empty">${ui.qlg ? `Every ${esc(QLG.find(x => x[0] === ui.qlg)[1])} pair is answered, or its clubs are on your list to look into.` : 'No more pairs to ask.'}</div>`); return; }
   sheetCtx.pair = pair; sheetCtx.at = Date.now();
   const short = id => team(id)[1].s || team(id)[1].n;
   const side = id => { const [k, t] = team(id); return `<button class="btn qside" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
-  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${focus.length ? `Settling your top ten · ${focus.length} left` : `${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}`}.</div></div>
+  openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div>${qchips}<div class="small muted">Gut feeling. ${focus.length ? `Settling your top ten · ${focus.length} left` : `${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}`}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
     <div class="btns"><button class="btn" style="flex:1" data-quiz="=">No strong opinion</button></div>
     <div class="qunsure"><span class="tiny faint">Don't know enough about</span><div class="btns"><button class="btn quiet" data-quiz="?${pair[0]}">${esc(short(pair[0]))}</button><button class="btn quiet" data-quiz="?${pair[1]}">${esc(short(pair[1]))}</button><button class="btn quiet" data-quiz="??">Either</button></div></div>
@@ -1401,6 +1405,7 @@ document.addEventListener('click', e => {
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
   if (t.dataset.act === 'aff-reset' && confirm(`Start Affinity over? Your ${affPicks().length} club picks stop counting and the comparisons start fresh. They stay stored, so you can bring them back here.`)) { store.set(s => { s.settings = { ...(s.settings || {}), affSince: Date.now() }; }); settingsSheet(true); render(); return; }
   if (t.dataset.act === 'aff-undo') { store.set(s => { s.settings = { ...(s.settings || {}), affSince: 0, affFloor: 0 }; }); settingsSheet(true); render(); return; }
+  if (t.dataset.act === 'qlg') { ui.qlg = t.dataset.lg; localSet('qlg', ui.qlg); quizSheet(); return; }
   if (t.dataset.act === 'aff-known') { const id = t.dataset.id; store.set(s => { s.settings = { ...(s.settings || {}), affKnown: { ...(s.settings?.affKnown || {}), [id]: Date.now() } }; }); return; }
   if (t.dataset.act === 'clear-entries' && confirm('Clear every score you entered?')) { store.set(s => { s.entries = {}; }); closeSheet(); render(); }
 });
