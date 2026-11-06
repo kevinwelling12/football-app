@@ -96,6 +96,18 @@ const VARIANTS = {
       c_progressive: b => b.c_progressive, c_outdoors: b => b.c_outdoors, c_indie: b => b.c_indie, c_industrial: b => b.c_industrial,
       c_glitz: b => b.c_glitz, c_size: b => b.c_size, c_climate: b => b.c_climate },
   },
+  'E+vibe: E plus one city-vibe score': {
+    feats: { atmosphere: b => mean(b.terrace, b.ground), city: b => b.city, fanpower: b => mean(b.voice, b.stewardship),
+      story: b => mean(b.comeback, b.punch), style: b => b.intensity, contender: b => b.contender,
+      state: b => b.state, incidents: b => b.incidents, franchise: b => Math.max(b.feeder, b.manufactured),
+      vibe: b => mean(b.c_progressive, b.c_outdoors, b.c_indie, b.c_climate, 1 - b.c_glitz, 1 - b.c_size) },
+  },
+  'E+2city: E plus city vibe and city glitz/size': {
+    feats: { atmosphere: b => mean(b.terrace, b.ground), city: b => b.city, fanpower: b => mean(b.voice, b.stewardship),
+      story: b => mean(b.comeback, b.punch), style: b => b.intensity, contender: b => b.contender,
+      state: b => b.state, incidents: b => b.incidents, franchise: b => Math.max(b.feeder, b.manufactured),
+      vibe: b => mean(b.c_progressive, b.c_outdoors, b.c_indie, b.c_climate), bigglitz: b => mean(b.c_glitz, b.c_size) },
+  },
   'current+city: current plus the city profile': {
     feats: { terrace: b => b.terrace, rituals: b => b.rituals, city: b => b.city, ground: b => b.ground, conscience: b => b.conscience, voice: b => b.voice,
       stewardship: b => b.stewardship, women: b => b.women, geography: b => b.geography, contender: b => b.contender, intensity: b => b.intensity,

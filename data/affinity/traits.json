@@ -48,6 +48,17 @@
     "https://en.wikipedia.org/wiki/Hull_City_A.F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Hull",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "331": {
@@ -99,6 +110,17 @@
     "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Brighton",
+   "country": "England",
+   "progressive": 10,
+   "outdoors": 8,
+   "indie": 10,
+   "industrial": 2,
+   "glitz": 4,
+   "size": 4,
+   "climate": 6.5
   }
  },
  "337": {
@@ -150,6 +172,17 @@
     "https://en.wikipedia.org/wiki/Brentford_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "349": {
@@ -201,6 +234,17 @@
     "https://en.wikipedia.org/wiki/AFC_Bournemouth"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bournemouth",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 8,
+   "indie": 4,
+   "industrial": 1,
+   "glitz": 4,
+   "size": 3.5,
+   "climate": 6
   }
  },
  "357": {
@@ -253,6 +297,17 @@
     "https://en.wikipedia.org/wiki/Leeds_United_Service_Crew"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Leeds",
+   "country": "England",
+   "progressive": 6.5,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 6,
+   "climate": 3.5
   }
  },
  "359": {
@@ -304,6 +359,17 @@
     "https://en.wikipedia.org/wiki/Arsenal_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "360": {
@@ -355,6 +421,17 @@
     "https://en.wikipedia.org/wiki/Manchester_United_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Manchester",
+   "country": "England",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 7,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 7,
+   "climate": 3
   }
  },
  "361": {
@@ -406,6 +483,17 @@
     "https://en.wikipedia.org/wiki/Newcastle_United_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Newcastle upon Tyne",
+   "country": "England",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 5,
+   "climate": 3
   }
  },
  "362": {
@@ -457,6 +545,17 @@
     "https://en.wikipedia.org/wiki/Aston_Villa_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Birmingham",
+   "country": "England",
+   "progressive": 6,
+   "outdoors": 3,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 7,
+   "climate": 4
   }
  },
  "363": {
@@ -509,6 +608,17 @@
     "https://en.wikipedia.org/wiki/Chelsea_Headhunters"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "364": {
@@ -562,6 +672,17 @@
     "https://en.wikipedia.org/wiki/Coverage_of_the_Hillsborough_disaster_by_The_Sun"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Liverpool",
+   "country": "England",
+   "progressive": 9,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 10,
+   "glitz": 3,
+   "size": 5,
+   "climate": 4
   }
  },
  "366": {
@@ -613,6 +734,17 @@
     "https://en.wikipedia.org/wiki/Sunderland_A.F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sunderland",
+   "country": "England",
+   "progressive": 3.5,
+   "outdoors": 5,
+   "indie": 2.5,
+   "industrial": 9.5,
+   "glitz": 0.5,
+   "size": 3.5,
+   "climate": 3
   }
  },
  "367": {
@@ -664,6 +796,17 @@
     "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "368": {
@@ -716,6 +859,17 @@
     "https://en.wikipedia.org/wiki/Coverage_of_the_Hillsborough_disaster_by_The_Sun"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Liverpool",
+   "country": "England",
+   "progressive": 9,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 10,
+   "glitz": 3,
+   "size": 5,
+   "climate": 4
   }
  },
  "370": {
@@ -767,6 +921,17 @@
     "https://en.wikipedia.org/wiki/Fulham_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "373": {
@@ -818,6 +983,17 @@
     "https://en.wikipedia.org/wiki/Ipswich_Town_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Ipswich",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 6,
+   "glitz": 1,
+   "size": 3,
+   "climate": 5.5
   }
  },
  "382": {
@@ -869,6 +1045,17 @@
     "https://en.wikipedia.org/wiki/Manchester_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Manchester",
+   "country": "England",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 7,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 7,
+   "climate": 3
   }
  },
  "384": {
@@ -921,6 +1108,17 @@
     "https://en.wikipedia.org/wiki/Holmesdale_Fanatics"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Croydon (south London)",
+   "country": "England",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 10,
+   "climate": 5
   }
  },
  "388": {
@@ -972,6 +1170,17 @@
     "https://en.wikipedia.org/wiki/Coventry_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Coventry",
+   "country": "England",
+   "progressive": 5.5,
+   "outdoors": 3,
+   "indie": 4,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 3.5,
+   "climate": 4
   }
  },
  "393": {
@@ -1023,6 +1232,17 @@
     "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Nottingham",
+   "country": "England",
+   "progressive": 6.5,
+   "outdoors": 4,
+   "indie": 6.5,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 4.5,
+   "climate": 4
   }
  },
  "122": {
@@ -1074,6 +1294,17 @@
     "https://en.wikipedia.org/wiki/1._FC_Köln"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Cologne",
+   "country": "Germany",
+   "progressive": 9,
+   "outdoors": 5,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 6,
+   "climate": 5
   }
  },
  "124": {
@@ -1125,6 +1356,17 @@
     "https://en.wikipedia.org/wiki/Borussia_Dortmund"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Dortmund",
+   "country": "Germany",
+   "progressive": 6,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 5,
+   "climate": 4
   }
  },
  "125": {
@@ -1178,6 +1420,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Frankfurt",
+   "country": "Germany",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 6,
+   "size": 7,
+   "climate": 5
   }
  },
  "126": {
@@ -1229,6 +1482,17 @@
     "https://en.wikipedia.org/wiki/SC_Freiburg"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Freiburg",
+   "country": "Germany",
+   "progressive": 10,
+   "outdoors": 9,
+   "indie": 7,
+   "industrial": 1,
+   "glitz": 1,
+   "size": 3,
+   "climate": 7
   }
  },
  "127": {
@@ -1280,6 +1544,17 @@
     "https://en.wikipedia.org/wiki/Hamburger_SV"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Hamburg",
+   "country": "Germany",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 8,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 7,
+   "climate": 3
   }
  },
  "131": {
@@ -1331,6 +1606,17 @@
     "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Leverkusen",
+   "country": "Germany",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 2,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 3,
+   "climate": 5
   }
  },
  "132": {
@@ -1382,6 +1668,17 @@
     "https://en.wikipedia.org/wiki/FC_Bayern_Munich"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Munich",
+   "country": "Germany",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 4,
+   "glitz": 8,
+   "size": 7,
+   "climate": 5
   }
  },
  "133": {
@@ -1434,6 +1731,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Gelsenkirchen",
+   "country": "Germany",
+   "progressive": 4,
+   "outdoors": 3,
+   "indie": 2,
+   "industrial": 10,
+   "glitz": 0,
+   "size": 3,
+   "climate": 4
   }
  },
  "134": {
@@ -1485,6 +1793,17 @@
     "https://en.wikipedia.org/wiki/VfB_Stuttgart"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Stuttgart",
+   "country": "Germany",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 6,
+   "climate": 5
   }
  },
  "137": {
@@ -1537,6 +1856,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bremen",
+   "country": "Germany",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "268": {
@@ -1589,6 +1919,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mönchengladbach",
+   "country": "Germany",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "598": {
@@ -1640,6 +1981,17 @@
     "https://en.wikipedia.org/wiki/1._FC_Union_Berlin"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Berlin (Kopenick)",
+   "country": "Germany",
+   "progressive": 9,
+   "outdoors": 7,
+   "indie": 10,
+   "industrial": 6,
+   "glitz": 4,
+   "size": 8,
+   "climate": 4
   }
  },
  "2950": {
@@ -1692,6 +2044,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mainz",
+   "country": "Germany",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 3,
+   "climate": 6
   }
  },
  "3307": {
@@ -1743,6 +2106,17 @@
     "https://en.wikipedia.org/wiki/SC_Paderborn_07"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Paderborn",
+   "country": "Germany",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "3841": {
@@ -1795,6 +2169,17 @@
     "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Augsburg",
+   "country": "Germany",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 3,
+   "climate": 4
   }
  },
  "7911": {
@@ -1846,6 +2231,17 @@
     "https://en.wikipedia.org/wiki/TSG_Hoffenheim"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sinsheim (Heidelberg area)",
+   "country": "Germany",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 2,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 1,
+   "climate": 5
   }
  },
  "10388": {
@@ -1897,6 +2293,17 @@
     "https://en.wikipedia.org/wiki/SV_Elversberg"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Spiesen-Elversberg (Saarland)",
+   "country": "Germany",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 2,
+   "industrial": 7,
+   "glitz": 0,
+   "size": 1,
+   "climate": 5
   }
  },
  "11420": {
@@ -1952,6 +2359,17 @@
     "https://en.wikipedia.org/wiki/RB_Leipzig"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Leipzig",
+   "country": "Germany",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 9,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "83": {
@@ -2004,6 +2422,17 @@
     "https://en.wikipedia.org/wiki/Boixos_Nois"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Barcelona",
+   "country": "Spain",
+   "progressive": 10,
+   "outdoors": 8,
+   "indie": 9,
+   "industrial": 6,
+   "glitz": 7,
+   "size": 8,
+   "climate": 9
   }
  },
  "86": {
@@ -2057,6 +2486,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Madrid",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 7,
+   "size": 8,
+   "climate": 6
   }
  },
  "102": {
@@ -2108,6 +2548,17 @@
     "https://en.wikipedia.org/wiki/Villarreal_CF"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Villarreal",
+   "country": "Spain",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 1.5,
+   "climate": 8.5
   }
  },
  "104": {
@@ -2159,6 +2610,17 @@
     "https://en.wikipedia.org/wiki/AS_Roma"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Rome",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 2,
+   "glitz": 7,
+   "size": 8,
+   "climate": 8
   }
  },
  "110": {
@@ -2212,6 +2674,17 @@
     "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Milan",
+   "country": "Italy",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 9,
+   "size": 8,
+   "climate": 5
   }
  },
  "114": {
@@ -2263,6 +2736,17 @@
     "https://en.wikipedia.org/wiki/SSC_Napoli"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Naples",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 7,
+   "climate": 9
   }
  },
  "142": {
@@ -2314,6 +2798,17 @@
     "https://en.wikipedia.org/wiki/Feyenoord"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Rotterdam",
+   "country": "Netherlands",
+   "progressive": 6.5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 10,
+   "glitz": 3,
+   "size": 6,
+   "climate": 5
   }
  },
  "148": {
@@ -2365,6 +2860,17 @@
     "https://en.wikipedia.org/wiki/PSV_Eindhoven"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Eindhoven",
+   "country": "Netherlands",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 3,
+   "climate": 4
   }
  },
  "160": {
@@ -2417,6 +2923,17 @@
     "https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC_supporters"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Paris",
+   "country": "France",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 7.5,
+   "industrial": 3,
+   "glitz": 9.5,
+   "size": 10,
+   "climate": 5.5
   }
  },
  "166": {
@@ -2468,6 +2985,17 @@
     "https://en.wikipedia.org/wiki/Lille_OSC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lille",
+   "country": "France",
+   "progressive": 7.5,
+   "outdoors": 3.5,
+   "indie": 7,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 5.5,
+   "climate": 4
   }
  },
  "175": {
@@ -2519,6 +3047,17 @@
     "https://en.wikipedia.org/wiki/RC_Lens"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lens",
+   "country": "France",
+   "progressive": 5,
+   "outdoors": 3,
+   "indie": 2.5,
+   "industrial": 10,
+   "glitz": 0,
+   "size": 2.5,
+   "climate": 4
   }
  },
  "244": {
@@ -2571,6 +3110,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Seville",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 4,
+   "size": 5,
+   "climate": 7
   }
  },
  "432": {
@@ -2623,6 +3173,17 @@
     "https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Istanbul",
+   "country": "Turkey",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 6
   }
  },
  "436": {
@@ -2674,6 +3235,17 @@
     "https://en.wikipedia.org/wiki/Fenerbah%C3%A7e_S.K._(football)"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Istanbul",
+   "country": "Turkey",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 6
   }
  },
  "437": {
@@ -2725,6 +3297,17 @@
     "https://en.wikipedia.org/wiki/FC_Porto"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Porto",
+   "country": "Portugal",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 6,
+   "glitz": 3,
+   "size": 5,
+   "climate": 7
   }
  },
  "493": {
@@ -2776,6 +3359,17 @@
     "https://en.wikipedia.org/wiki/FC_Shakhtar_Donetsk"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lviv (Shakhtar Donetsk in exile)",
+   "country": "Ukraine",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 4,
+   "climate": 3
   }
  },
  "494": {
@@ -2827,6 +3421,17 @@
     "https://en.wikipedia.org/wiki/SK_Slavia_Prague"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Prague",
+   "country": "Czech Republic",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 5,
+   "climate": 4
   }
  },
  "510": {
@@ -2878,6 +3483,17 @@
     "https://en.wikipedia.org/wiki/Viking_FK"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Stavanger",
+   "country": "Norway",
+   "progressive": 6,
+   "outdoors": 9,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 3,
+   "climate": 3
   }
  },
  "521": {
@@ -2929,6 +3545,17 @@
     "https://en.wikipedia.org/wiki/%C5%A0K_Slovan_Bratislava"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 3,
+   "climate": 5
   }
  },
  "570": {
@@ -2980,6 +3607,17 @@
     "https://en.wikipedia.org/wiki/Club_Brugge_KV"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bruges",
+   "country": "Belgium",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 3,
+   "glitz": 3,
+   "size": 2,
+   "climate": 5
   }
  },
  "887": {
@@ -3032,6 +3670,17 @@
     "https://en.wikipedia.org/wiki/AEK_Athens_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Athens",
+   "country": "Greece",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 8,
+   "climate": 9
   }
  },
  "1068": {
@@ -3084,6 +3733,17 @@
     "https://es.wikipedia.org/wiki/Frente_Atlético"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Madrid",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 7,
+   "size": 8,
+   "climate": 6
   }
  },
  "2250": {
@@ -3135,6 +3795,17 @@
     "https://en.wikipedia.org/wiki/Sporting_CP"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lisbon",
+   "country": "Portugal",
+   "progressive": 7,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 6.5,
+   "climate": 9
   }
  },
  "2572": {
@@ -3186,6 +3857,17 @@
     "https://en.wikipedia.org/wiki/Como_1907"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Como",
+   "country": "Italy",
+   "progressive": 4,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 4,
+   "glitz": 8,
+   "size": 2,
+   "climate": 6
   }
  },
  "2980": {
@@ -3237,6 +3919,17 @@
     "https://en.wikipedia.org/wiki/FK_Bod%C3%B8/Glimt"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bodo",
+   "country": "Norway",
+   "progressive": 7,
+   "outdoors": 10,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 0,
+   "size": 1,
+   "climate": 1
   }
  },
  "4411": {
@@ -3288,6 +3981,17 @@
     "https://en.wikipedia.org/wiki/LASK"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Linz",
+   "country": "Austria",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "21922": {
@@ -3339,6 +4043,17 @@
     "https://en.wikipedia.org/wiki/Sabah_FK"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Baku",
+   "country": "Azerbaijan",
+   "progressive": 2,
+   "outdoors": 3,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 7,
+   "size": 5,
+   "climate": 5
   }
  },
  "182": {
@@ -3390,6 +4105,17 @@
     "https://en.wikipedia.org/wiki/Chicago_Fire_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Chicago",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 8,
+   "glitz": 6,
+   "size": 8,
+   "climate": 3
   }
  },
  "183": {
@@ -3441,6 +4167,17 @@
     "https://en.wikipedia.org/wiki/Columbus_Crew"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Columbus",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 5,
+   "climate": 4
   }
  },
  "184": {
@@ -3492,6 +4229,17 @@
     "https://en.wikipedia.org/wiki/Colorado_Rapids"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Commerce City (Denver area)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 6.5,
+   "climate": 7
   }
  },
  "185": {
@@ -3543,6 +4291,17 @@
     "https://en.wikipedia.org/wiki/FC_Dallas"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Frisco (Dallas area)",
+   "country": "USA",
+   "progressive": 3,
+   "outdoors": 2,
+   "indie": 1,
+   "industrial": 1,
+   "glitz": 5,
+   "size": 7,
+   "climate": 4
   }
  },
  "186": {
@@ -3595,6 +4354,17 @@
     "https://en.wikipedia.org/wiki/Sporting_Kansas_City"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Kansas City, Kansas",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 6,
+   "glitz": 1,
+   "size": 6,
+   "climate": 3
   }
  },
  "187": {
@@ -3649,6 +4419,17 @@
     "https://lavocedinewyork.com/en/sports/2025/07/20/mls-fans-increasingly-at-odds-with-teams-staying-silent-on-immigration-crackdown/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Carson (Los Angeles area)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 10,
+   "climate": 9
   }
  },
  "189": {
@@ -3701,6 +4482,17 @@
     "https://en.wikipedia.org/wiki/New_England_Revolution"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Foxborough (Boston area)",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 7,
+   "climate": 4
   }
  },
  "190": {
@@ -3755,6 +4547,17 @@
     "https://en.wikipedia.org/wiki/Red_Bull_New_York"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Harrison (New York area)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 2,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 6,
+   "size": 10,
+   "climate": 5
   }
  },
  "191": {
@@ -3807,6 +4610,17 @@
     "https://en.wikipedia.org/wiki/San_Jose_Earthquakes"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Jose",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 5,
+   "size": 7,
+   "climate": 9
   }
  },
  "193": {
@@ -3858,6 +4672,17 @@
     "https://en.wikipedia.org/wiki/D.C._United"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Washington, D.C.",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 1,
+   "glitz": 6,
+   "size": 8,
+   "climate": 5
   }
  },
  "4771": {
@@ -3910,6 +4735,17 @@
     "https://en.wikipedia.org/wiki/Real_Salt_Lake"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sandy (Salt Lake City area)",
+   "country": "USA",
+   "progressive": 3,
+   "outdoors": 10,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "6077": {
@@ -3964,6 +4800,17 @@
     "https://en.wikipedia.org/wiki/Houston_Dynamo_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Houston",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 2,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 8,
+   "climate": 3
   }
  },
  "7318": {
@@ -4016,6 +4863,17 @@
     "https://en.wikipedia.org/wiki/Toronto_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Toronto",
+   "country": "Canada",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 6,
+   "size": 8,
+   "climate": 4
   }
  },
  "9720": {
@@ -4067,6 +4925,17 @@
     "https://en.wikipedia.org/wiki/CF_Montréal"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Montréal",
+   "country": "Canada",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 9,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 7,
+   "climate": 3
   }
  },
  "9723": {
@@ -4119,6 +4988,17 @@
     "https://en.wikipedia.org/wiki/Timbers_Army"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Portland",
+   "country": "USA",
+   "progressive": 10,
+   "outdoors": 10,
+   "indie": 10,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "9726": {
@@ -4172,6 +5052,17 @@
     "https://en.wikipedia.org/wiki/Emerald_City_Supporters"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Seattle",
+   "country": "USA",
+   "progressive": 10,
+   "outdoors": 10,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 7,
+   "climate": 5
   }
  },
  "9727": {
@@ -4224,6 +5115,17 @@
     "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Vancouver",
+   "country": "Canada",
+   "progressive": 9,
+   "outdoors": 10,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 6.5,
+   "climate": 6
   }
  },
  "10739": {
@@ -4276,6 +5178,17 @@
     "https://en.wikipedia.org/wiki/Philadelphia_Union"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Chester (Philadelphia area)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 2,
+   "size": 8,
+   "climate": 5
   }
  },
  "12011": {
@@ -4328,6 +5241,17 @@
     "https://en.wikipedia.org/wiki/Orlando_City_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Orlando",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 1,
+   "glitz": 5,
+   "size": 6,
+   "climate": 6
   }
  },
  "17362": {
@@ -4382,6 +5306,17 @@
     "https://www.brainerddispatch.com/sports/pro/why-minnesota-united-didnt-say-more-about-local-ice-raids"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Saint Paul (Minneapolis area)",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 6,
+   "climate": 2
   }
  },
  "17606": {
@@ -4438,6 +5373,17 @@
     "https://en.wikipedia.org/wiki/New_York_City_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "New York City (Bronx)",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 2,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 10,
+   "size": 10,
+   "climate": 5
   }
  },
  "18267": {
@@ -4489,6 +5435,17 @@
     "https://en.wikipedia.org/wiki/FC_Cincinnati"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Cincinnati",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 6,
+   "climate": 4
   }
  },
  "18418": {
@@ -4540,6 +5497,17 @@
     "https://en.wikipedia.org/wiki/Atlanta_United_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Atlanta",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 6,
+   "size": 7,
+   "climate": 6
   }
  },
  "18966": {
@@ -4596,6 +5564,17 @@
     "https://cronkitenews.azpbs.org/2025/07/22/la-galaxy-fans-boycott-ice-raids/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Los Angeles",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 10,
+   "size": 10,
+   "climate": 9
   }
  },
  "18986": {
@@ -4648,6 +5627,17 @@
     "https://en.wikipedia.org/wiki/Nashville_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Nashville",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 2,
+   "glitz": 5,
+   "size": 6,
+   "climate": 5
   }
  },
  "20232": {
@@ -4700,6 +5690,17 @@
     "https://en.wikipedia.org/wiki/Inter_Miami_CF"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Miami",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 5,
+   "industrial": 2,
+   "glitz": 10,
+   "size": 8,
+   "climate": 7
   }
  },
  "20906": {
@@ -4751,6 +5752,17 @@
     "https://en.wikipedia.org/wiki/Austin_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Austin",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 7,
+   "indie": 10,
+   "industrial": 1,
+   "glitz": 4,
+   "size": 6,
+   "climate": 5
   }
  },
  "21300": {
@@ -4802,6 +5814,17 @@
     "https://en.wikipedia.org/wiki/Charlotte_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Charlotte",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 6,
+   "climate": 6
   }
  },
  "21812": {
@@ -4855,6 +5878,17 @@
     "https://www.stlpr.org/sports/2026-02-16/st-louis-city-sc-black-lives-matter-trans-pride-flag-restrictions"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "St. Louis",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 6,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 6,
+   "climate": 4
   }
  },
  "22529": {
@@ -4909,6 +5943,17 @@
     "https://en.wikipedia.org/wiki/San_Diego_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Diego",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 10,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 6,
+   "climate": 10
   }
  },
  "15360": {
@@ -4961,6 +6006,17 @@
     "https://www.cbssports.com/soccer/news/angel-citys-immigrant-city-shirts-explained-how-the-l-a-team-is-speaking-out-against-ongoing-ice-raids"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Evanston (Chicago area)",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 1,
+   "glitz": 4,
+   "size": 8,
+   "climate": 3
   }
  },
  "15362": {
@@ -5013,6 +6069,17 @@
     "https://en.wikipedia.org/wiki/Rose_City_Riveters"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Portland",
+   "country": "USA",
+   "progressive": 10,
+   "outdoors": 10,
+   "indie": 10,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "15363": {
@@ -5066,6 +6133,17 @@
     "https://www.lgbtqnation.com/2016/09/opposing-team-prevents-lesbian-soccer-star-kneeling-national-anthem/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Seattle",
+   "country": "USA",
+   "progressive": 10,
+   "outdoors": 10,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 7,
+   "climate": 5
   }
  },
  "15364": {
@@ -5117,6 +6195,17 @@
     "https://en.wikipedia.org/wiki/NJ/NY_Gotham_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Harrison (New York area)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 2,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 6,
+   "size": 10,
+   "climate": 5
   }
  },
  "15365": {
@@ -5169,6 +6258,17 @@
     "https://www.si.com/soccer/2016/09/08/seattle-reign-washington-spirit-owner-national-anthem-megan-rapinoe-protest-1"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Washington, D.C.",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 1,
+   "glitz": 6,
+   "size": 8,
+   "climate": 5
   }
  },
  "15366": {
@@ -5221,6 +6321,17 @@
     "https://en.wikipedia.org/wiki/Portland_Thorns_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Cary (Raleigh area)",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 1,
+   "glitz": 3,
+   "size": 5,
+   "climate": 7
   }
  },
  "17346": {
@@ -5272,6 +6383,17 @@
     "https://en.wikipedia.org/wiki/Houston_Dash"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Houston",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 2,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 5,
+   "size": 8,
+   "climate": 3
   }
  },
  "18206": {
@@ -5323,6 +6445,17 @@
     "https://en.wikipedia.org/wiki/Orlando_Pride"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Orlando",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 1,
+   "glitz": 5,
+   "size": 6,
+   "climate": 6
   }
  },
  "19141": {
@@ -5374,6 +6507,17 @@
     "https://en.wikipedia.org/wiki/Utah_Royals"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sandy (Salt Lake City area)",
+   "country": "USA",
+   "progressive": 3,
+   "outdoors": 10,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "20905": {
@@ -5425,6 +6569,17 @@
     "https://en.wikipedia.org/wiki/Racing_Louisville_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Louisville",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 3,
+   "size": 5,
+   "climate": 4
   }
  },
  "20907": {
@@ -5476,6 +6631,17 @@
     "https://en.wikipedia.org/wiki/Kansas_City_Current"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Kansas City",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 4,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 6,
+   "climate": 3
   }
  },
  "21422": {
@@ -5528,6 +6694,17 @@
     "https://www.cbssports.com/soccer/news/angel-citys-immigrant-city-shirts-explained-how-the-l-a-team-is-speaking-out-against-ongoing-ice-raids"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Los Angeles",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 10,
+   "size": 10,
+   "climate": 9
   }
  },
  "21423": {
@@ -5579,6 +6756,17 @@
     "https://en.wikipedia.org/wiki/San_Diego_Wave_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Diego",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 10,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 6,
+   "climate": 10
   }
  },
  "22187": {
@@ -5630,6 +6818,17 @@
     "https://en.wikipedia.org/wiki/Bay_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Jose",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 5,
+   "size": 7,
+   "climate": 9
   }
  },
  "131562": {
@@ -5681,6 +6880,17 @@
     "https://en.wikipedia.org/wiki/Boston_Legacy_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Foxborough (Boston area)",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 7,
+   "climate": 4
   }
  },
  "131563": {
@@ -5732,6 +6942,17 @@
     "https://en.wikipedia.org/wiki/Denver_Summit_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Denver area (south suburbs)",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 4,
+   "size": 6.5,
+   "climate": 7
   }
  },
  "9729": {
@@ -5783,6 +7004,17 @@
     "https://en.wikipedia.org/wiki/Charleston_Battery"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Charleston",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 8,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 3,
+   "climate": 7
   }
  },
  "17360": {
@@ -5834,6 +7066,17 @@
     "https://en.wikipedia.org/wiki/Indy_Eleven"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Indianapolis",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 3,
+   "indie": 4,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 6,
+   "climate": 3
   }
  },
  "17361": {
@@ -5885,6 +7128,17 @@
     "https://en.wikipedia.org/wiki/Tampa_Bay_Rowdies"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "St. Petersburg (Tampa Bay)",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 7,
+   "industrial": 2,
+   "glitz": 4,
+   "size": 6,
+   "climate": 7
   }
  },
  "17827": {
@@ -5936,6 +7190,17 @@
     "https://en.wikipedia.org/wiki/Pittsburgh_Riverhounds_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Pittsburgh",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 10,
+   "glitz": 1,
+   "size": 5,
+   "climate": 4
   }
  },
  "17828": {
@@ -5987,6 +7252,17 @@
     "https://en.wikipedia.org/wiki/Sacramento_Republic_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sacramento",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 7,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 5.5,
+   "climate": 7
   }
  },
  "17830": {
@@ -6038,6 +7314,17 @@
     "https://en.wikipedia.org/wiki/Colorado_Springs_Switchbacks_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Colorado Springs",
+   "country": "USA",
+   "progressive": 3,
+   "outdoors": 10,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 2,
+   "size": 3.5,
+   "climate": 6
   }
  },
  "17832": {
@@ -6089,6 +7376,17 @@
     "https://en.wikipedia.org/wiki/Louisville_City_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Louisville",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 3,
+   "size": 5,
+   "climate": 4
   }
  },
  "17850": {
@@ -6140,6 +7438,17 @@
     "https://en.wikipedia.org/wiki/Phoenix_Rising_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Phoenix",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 7,
+   "climate": 3
   }
  },
  "18159": {
@@ -6191,6 +7500,17 @@
     "https://en.wikipedia.org/wiki/Miami_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Miami (FIU, west Miami-Dade)",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 7,
+   "size": 8,
+   "climate": 7
   }
  },
  "18265": {
@@ -6242,6 +7562,17 @@
     "https://en.wikipedia.org/wiki/San_Antonio_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Antonio",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 6,
+   "climate": 4
   }
  },
  "18446": {
@@ -6293,6 +7624,17 @@
     "https://en.wikipedia.org/wiki/FC_Tulsa"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Tulsa",
+   "country": "USA",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "18455": {
@@ -6344,6 +7686,17 @@
     "https://en.wikipedia.org/wiki/Orange_County_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Irvine (Orange County)",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 2,
+   "industrial": 1,
+   "glitz": 7,
+   "size": 7,
+   "climate": 9
   }
  },
  "18987": {
@@ -6395,6 +7748,17 @@
     "https://en.wikipedia.org/wiki/Las_Vegas_Lights_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Las Vegas",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 2,
+   "glitz": 9,
+   "size": 6,
+   "climate": 3
   }
  },
  "19179": {
@@ -6448,6 +7812,17 @@
     "https://morningstaronline.co.uk/article/don%E2%80%99t-forget-motor-city"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Hamtramck (Detroit)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 7,
+   "industrial": 10,
+   "glitz": 2,
+   "size": 6,
+   "climate": 3
   }
  },
  "19405": {
@@ -6499,6 +7874,17 @@
     "https://en.wikipedia.org/wiki/Birmingham_Legion_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Birmingham, Alabama",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 4,
+   "climate": 5
   }
  },
  "19407": {
@@ -6550,6 +7936,17 @@
     "https://en.wikipedia.org/wiki/El_Paso_Locomotive_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Ciudad Juárez / El Paso",
+   "country": "Mexico / USA",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 8,
+   "glitz": 2,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "19408": {
@@ -6601,6 +7998,17 @@
     "https://en.wikipedia.org/wiki/New_Mexico_United"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Albuquerque",
+   "country": "USA",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 4.5,
+   "climate": 7
   }
  },
  "19410": {
@@ -6652,6 +8060,17 @@
     "https://en.wikipedia.org/wiki/Loudoun_United_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Leesburg (Loudoun County, DC area)",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 1,
+   "glitz": 5,
+   "size": 3,
+   "climate": 5
   }
  },
  "19411": {
@@ -6703,6 +8122,17 @@
     "https://en.wikipedia.org/wiki/Hartford_Athletic"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Hartford",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 4,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "20687": {
@@ -6754,6 +8184,17 @@
     "https://en.wikipedia.org/wiki/Oakland_Roots_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Oakland",
+   "country": "USA",
+   "progressive": 10,
+   "outdoors": 7,
+   "indie": 8,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 7,
+   "climate": 8
   }
  },
  "21370": {
@@ -6805,6 +8246,17 @@
     "https://en.wikipedia.org/wiki/Monterey_Bay_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Seaside (Monterey)",
+   "country": "USA",
+   "progressive": 7,
+   "outdoors": 10,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 2,
+   "climate": 8
   }
  },
  "21822": {
@@ -6856,6 +8308,17 @@
     "https://en.wikipedia.org/wiki/Lexington_SC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lexington",
+   "country": "USA",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 2,
+   "glitz": 3,
+   "size": 3,
+   "climate": 5
   }
  },
  "22164": {
@@ -6907,6 +8370,17 @@
     "https://en.wikipedia.org/wiki/Rhode_Island_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Pawtucket (Providence area)",
+   "country": "USA",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "131578": {
@@ -6956,6 +8430,17 @@
    "confidence": "low",
    "sources": [],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Jacksonville",
+   "country": "USA",
+   "progressive": 4,
+   "outdoors": 7,
+   "indie": 4,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 5,
+   "climate": 7
   }
  },
  "131579": {
@@ -7008,6 +8493,17 @@
     "https://en.wikipedia.org/wiki/Brooklyn_FC_(women)"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Brooklyn (Coney Island)",
+   "country": "USA",
+   "progressive": 9,
+   "outdoors": 4,
+   "indie": 9,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 10,
+   "climate": 5
   }
  },
  "101": {
@@ -7066,6 +8562,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Madrid",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 7,
+   "size": 8,
+   "climate": 6
   }
  },
  "1538": {
@@ -7123,6 +8630,17 @@
     "https://en.wikipedia.org/wiki/Levante_UD"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Valencia",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 6.5,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 5.5,
+   "climate": 9
   }
  },
  "243": {
@@ -7181,6 +8699,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Seville",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 4,
+   "size": 5,
+   "climate": 7
   }
  },
  "2922": {
@@ -7238,6 +8767,17 @@
     "https://en.wikipedia.org/wiki/Getafe_CF"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Madrid",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 7,
+   "size": 8,
+   "climate": 6
   }
  },
  "3751": {
@@ -7295,6 +8835,17 @@
     "https://es.wikipedia.org/wiki/Jove_Elx"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Elche",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 3,
+   "climate": 9
   }
  },
  "85": {
@@ -7351,6 +8902,17 @@
     "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Vigo",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 2,
+   "size": 3,
+   "climate": 6
   }
  },
  "87": {
@@ -7407,6 +8969,17 @@
     "https://en.wikipedia.org/wiki/Racing_de_Santander"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Santander",
+   "country": "Spain",
+   "progressive": 4,
+   "outdoors": 8,
+   "indie": 4,
+   "industrial": 4,
+   "glitz": 4,
+   "size": 2.5,
+   "climate": 6
   }
  },
  "88": {
@@ -7466,6 +9039,17 @@
     "https://es.wikipedia.org/wiki/Brigadas_Blanquiazules"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Barcelona",
+   "country": "Spain",
+   "progressive": 10,
+   "outdoors": 8,
+   "indie": 9,
+   "industrial": 6,
+   "glitz": 7,
+   "size": 8,
+   "climate": 9
   }
  },
  "89": {
@@ -7524,6 +9108,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Sebastián",
+   "country": "Spain",
+   "progressive": 7,
+   "outdoors": 9.5,
+   "indie": 6,
+   "industrial": 2,
+   "glitz": 6,
+   "size": 3,
+   "climate": 6
   }
  },
  "90": {
@@ -7582,6 +9177,17 @@
     "https://es.wikipedia.org/wiki/Riazor_Blues"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "A Coruña",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 3,
+   "climate": 6
   }
  },
  "93": {
@@ -7640,6 +9246,17 @@
     "https://es.wikipedia.org/wiki/Herri_Norte_Taldea"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bilbao",
+   "country": "Spain",
+   "progressive": 7,
+   "outdoors": 7,
+   "indie": 6,
+   "industrial": 10,
+   "glitz": 3,
+   "size": 4.5,
+   "climate": 5
   }
  },
  "94": {
@@ -7698,6 +9315,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Valencia",
+   "country": "Spain",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 6.5,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 5.5,
+   "climate": 9
   }
  },
  "96": {
@@ -7755,6 +9383,17 @@
     "https://en.wikipedia.org/wiki/Deportivo_Alavés"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Vitoria-Gasteiz",
+   "country": "Spain",
+   "progressive": 7,
+   "outdoors": 7,
+   "indie": 5,
+   "industrial": 6,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "97": {
@@ -7813,6 +9452,17 @@
     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Pamplona",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 3,
+   "climate": 5
   }
  },
  "99": {
@@ -7869,6 +9519,17 @@
     "https://en.wikipedia.org/wiki/Málaga_CF"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Málaga",
+   "country": "Spain",
+   "progressive": 5,
+   "outdoors": 8,
+   "indie": 6,
+   "industrial": 2,
+   "glitz": 6,
+   "size": 4.5,
+   "climate": 10
   }
  },
  "103": {
@@ -7927,6 +9588,17 @@
     "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Milan",
+   "country": "Italy",
+   "progressive": 7,
+   "outdoors": 3,
+   "indie": 6,
+   "industrial": 6,
+   "glitz": 9,
+   "size": 8,
+   "climate": 5
   }
  },
  "105": {
@@ -7983,6 +9655,17 @@
     "https://en.wikipedia.org/wiki/Atalanta_BC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bergamo",
+   "country": "Italy",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 3,
+   "climate": 5
   }
  },
  "107": {
@@ -8041,6 +9724,17 @@
     "https://www.calciomercato.com/notizie/rapporto-sulle-tifoserie-politicizzate/777901"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bologna",
+   "country": "Italy",
+   "progressive": 9,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 3,
+   "climate": 5
   }
  },
  "109": {
@@ -8097,6 +9791,17 @@
     "https://en.wikipedia.org/wiki/ACF_Fiorentina"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Florence",
+   "country": "Italy",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 2,
+   "glitz": 6,
+   "size": 3,
+   "climate": 6
   }
  },
  "111": {
@@ -8155,6 +9860,17 @@
     "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Turin",
+   "country": "Italy",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 5,
+   "size": 6,
+   "climate": 5
   }
  },
  "112": {
@@ -8213,6 +9929,17 @@
     "https://libcom.org/library/ultra-movement-political-influences"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Rome",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 2,
+   "glitz": 7,
+   "size": 8,
+   "climate": 8
   }
  },
  "113": {
@@ -8270,6 +9997,17 @@
     "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lecce",
+   "country": "Italy",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 6,
+   "industrial": 1,
+   "glitz": 3,
+   "size": 2,
+   "climate": 9
   }
  },
  "115": {
@@ -8327,6 +10065,17 @@
     "https://en.wikipedia.org/wiki/Parma_Calcio_1913"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Parma",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 4,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 2,
+   "climate": 5
   }
  },
  "118": {
@@ -8383,6 +10132,17 @@
     "https://en.wikipedia.org/wiki/Udinese_Calcio"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Udine",
+   "country": "Italy",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 2,
+   "climate": 6
   }
  },
  "17530": {
@@ -8439,6 +10199,17 @@
     "https://en.wikipedia.org/wiki/Venezia_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Venice",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 2,
+   "climate": 6
   }
  },
  "239": {
@@ -8495,6 +10266,17 @@
     "https://en.wikipedia.org/wiki/Torino_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Turin",
+   "country": "Italy",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 9,
+   "glitz": 5,
+   "size": 6,
+   "climate": 5
   }
  },
  "2925": {
@@ -8552,6 +10334,17 @@
     "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Cagliari",
+   "country": "Italy",
+   "progressive": 5,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 3,
+   "climate": 9
   }
  },
  "3263": {
@@ -8609,6 +10402,17 @@
     "https://en.wikipedia.org/wiki/Genoa_CFC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Genoa",
+   "country": "Italy",
+   "progressive": 6,
+   "outdoors": 7,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 4,
+   "climate": 8
   }
  },
  "3997": {
@@ -8666,6 +10470,17 @@
     "https://en.wikipedia.org/wiki/US_Sassuolo_Calcio"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Reggio Emilia (for Sassuolo)",
+   "country": "Italy",
+   "progressive": 7,
+   "outdoors": 4,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 3,
+   "climate": 5
   }
  },
  "4007": {
@@ -8722,6 +10537,17 @@
     "https://en.wikipedia.org/wiki/AC_Monza"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Monza",
+   "country": "Italy",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 6,
+   "glitz": 5,
+   "size": 3,
+   "climate": 5
   }
  },
  "4057": {
@@ -8778,6 +10604,17 @@
     "https://en.wikipedia.org/wiki/Frosinone_Calcio"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Frosinone",
+   "country": "Italy",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 2,
+   "industrial": 5,
+   "glitz": 1,
+   "size": 1.5,
+   "climate": 7
   }
  },
  "167": {
@@ -8835,6 +10672,17 @@
     "https://en.wikipedia.org/wiki/Olympique_Lyonnais"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lyon",
+   "country": "France",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 6,
+   "climate": 6
   }
  },
  "169": {
@@ -8891,6 +10739,17 @@
     "https://en.wikipedia.org/wiki/Stade_Rennais_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Rennes",
+   "country": "France",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 4,
+   "climate": 5
   }
  },
  "170": {
@@ -8949,6 +10808,17 @@
     "https://en.wikipedia.org/wiki/ES_Troyes_AC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Troyes",
+   "country": "France",
+   "progressive": 4.5,
+   "outdoors": 4.5,
+   "indie": 3.5,
+   "industrial": 6,
+   "glitz": 1,
+   "size": 2,
+   "climate": 5
   }
  },
  "172": {
@@ -9005,6 +10875,17 @@
     "https://en.wikipedia.org/wiki/AJ_Auxerre"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Auxerre",
+   "country": "France",
+   "progressive": 4.5,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 1.5,
+   "climate": 5
   }
  },
  "174": {
@@ -9061,6 +10942,17 @@
     "https://en.wikipedia.org/wiki/AS_Monaco_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Monaco",
+   "country": "Monaco",
+   "progressive": 3,
+   "outdoors": 7,
+   "indie": 1,
+   "industrial": 0,
+   "glitz": 10,
+   "size": 1,
+   "climate": 10
   }
  },
  "176": {
@@ -9119,6 +11011,17 @@
     "https://www.ilpost.it/2021/08/24/nizza-marsiglia-ultras/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Marseille",
+   "country": "France",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 7,
+   "industrial": 8,
+   "glitz": 3,
+   "size": 6,
+   "climate": 9
   }
  },
  "179": {
@@ -9175,6 +11078,17 @@
     "https://en.wikipedia.org/wiki/Toulouse_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Toulouse",
+   "country": "France",
+   "progressive": 7,
+   "outdoors": 6.5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 5.5,
+   "climate": 7.5
   }
  },
  "180": {
@@ -9234,6 +11148,17 @@
     "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Strasbourg",
+   "country": "France",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 3,
+   "glitz": 3,
+   "size": 4,
+   "climate": 4
   }
  },
  "2502": {
@@ -9291,6 +11216,17 @@
     "https://www.ilpost.it/2021/08/24/nizza-marsiglia-ultras/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Nice",
+   "country": "France",
+   "progressive": 3,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 1,
+   "glitz": 8,
+   "size": 5,
+   "climate": 10
   }
  },
  "2697": {
@@ -9347,6 +11283,17 @@
     "https://en.wikipedia.org/wiki/Le_Mans_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Le Mans",
+   "country": "France",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 6,
+   "glitz": 2,
+   "size": 3,
+   "climate": 5.5
   }
  },
  "273": {
@@ -9406,6 +11353,17 @@
     "https://en.wikipedia.org/wiki/FC_Lorient"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lorient",
+   "country": "France",
+   "progressive": 7,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 2,
+   "climate": 5
   }
  },
  "3236": {
@@ -9462,6 +11420,17 @@
     "https://en.wikipedia.org/wiki/Le_Havre_AC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Le Havre",
+   "country": "France",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4.5
   }
  },
  "6851": {
@@ -9518,6 +11487,17 @@
     "https://en.wikipedia.org/wiki/Paris_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Paris",
+   "country": "France",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 7.5,
+   "industrial": 3,
+   "glitz": 9.5,
+   "size": 10,
+   "climate": 5.5
   }
  },
  "6997": {
@@ -9574,6 +11554,17 @@
     "https://en.wikipedia.org/wiki/Stade_Brestois_29"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Brest",
+   "country": "France",
+   "progressive": 7,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 2.5,
+   "climate": 5
   }
  },
  "7868": {
@@ -9630,6 +11621,17 @@
     "https://en.wikipedia.org/wiki/Angers_SCO"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Angers",
+   "country": "France",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 2,
+   "size": 3,
+   "climate": 6
   }
  },
  "314": {
@@ -9686,6 +11688,17 @@
     "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lincoln",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 4.5,
+   "indie": 4,
+   "industrial": 5,
+   "glitz": 1,
+   "size": 2,
+   "climate": 4.5
   }
  },
  "318": {
@@ -9742,6 +11755,17 @@
     "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Swansea",
+   "country": "Wales",
+   "progressive": 6,
+   "outdoors": 8,
+   "indie": 5,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "333": {
@@ -9799,6 +11823,17 @@
     "https://en.wikipedia.org/wiki/Bristol_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bristol",
+   "country": "England",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 9,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 4,
+   "climate": 5
   }
  },
  "334": {
@@ -9855,6 +11890,17 @@
     "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "336": {
@@ -9911,6 +11957,17 @@
     "https://en.wikipedia.org/wiki/Stoke_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Stoke-on-Trent",
+   "country": "England",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 2,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 3.5,
+   "climate": 4
   }
  },
  "347": {
@@ -9967,6 +12024,17 @@
     "https://en.wikipedia.org/wiki/Cardiff_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Cardiff",
+   "country": "Wales",
+   "progressive": 7,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 3.5,
+   "climate": 4
   }
  },
  "352": {
@@ -10023,6 +12091,17 @@
     "https://en.wikipedia.org/wiki/Wrexham_A.F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Wrexham",
+   "country": "Wales",
+   "progressive": 4,
+   "outdoors": 7,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 1.5,
+   "climate": 4
   }
  },
  "358": {
@@ -10079,6 +12158,17 @@
     "https://en.wikipedia.org/wiki/Bolton_Wanderers_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bolton",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 3,
+   "climate": 3
   }
  },
  "365": {
@@ -10135,6 +12225,17 @@
     "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Blackburn",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 2,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 2.5,
+   "climate": 3
   }
  },
  "369": {
@@ -10191,6 +12292,17 @@
     "https://en.wikipedia.org/wiki/Middlesbrough_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Middlesbrough",
+   "country": "England",
+   "progressive": 3.5,
+   "outdoors": 5,
+   "indie": 2.5,
+   "industrial": 10,
+   "glitz": 0.5,
+   "size": 4,
+   "climate": 3
   }
  },
  "371": {
@@ -10247,6 +12359,17 @@
     "https://en.wikipedia.org/wiki/West_Ham_United_F.C._supporters"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "372": {
@@ -10303,6 +12426,17 @@
     "https://en.wikipedia.org/wiki/Charlton_Athletic_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "374": {
@@ -10359,6 +12493,17 @@
     "https://en.wikipedia.org/wiki/Derby_County_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Derby",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 8,
+   "glitz": 1,
+   "size": 3.5,
+   "climate": 4
   }
  },
  "376": {
@@ -10416,6 +12561,17 @@
     "https://en.wikipedia.org/wiki/Southampton_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Southampton",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 4,
+   "climate": 5.5
   }
  },
  "379": {
@@ -10473,6 +12629,17 @@
     "https://en.wikipedia.org/wiki/Burnley_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Burnley",
+   "country": "England",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 2,
+   "industrial": 9,
+   "glitz": 0.5,
+   "size": 2,
+   "climate": 3
   }
  },
  "380": {
@@ -10530,6 +12697,17 @@
     "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Wolverhampton",
+   "country": "England",
+   "progressive": 4,
+   "outdoors": 3,
+   "indie": 3,
+   "industrial": 9,
+   "glitz": 1.5,
+   "size": 3.5,
+   "climate": 4
   }
  },
  "381": {
@@ -10586,6 +12764,17 @@
     "https://en.wikipedia.org/wiki/Norwich_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Norwich",
+   "country": "England",
+   "progressive": 7.5,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 3,
+   "climate": 5.5
   }
  },
  "383": {
@@ -10643,6 +12832,17 @@
     "https://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Birmingham",
+   "country": "England",
+   "progressive": 6,
+   "outdoors": 3,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 7,
+   "climate": 4
   }
  },
  "385": {
@@ -10699,6 +12899,17 @@
     "https://en.wikipedia.org/wiki/Portsmouth_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Portsmouth",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 1.5,
+   "size": 4,
+   "climate": 5.5
   }
  },
  "391": {
@@ -10757,6 +12968,17 @@
     "https://en.wikipedia.org/wiki/Millwall_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "London",
+   "country": "England",
+   "progressive": 8,
+   "outdoors": 4,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 9,
+   "size": 10,
+   "climate": 5
   }
  },
  "392": {
@@ -10813,6 +13035,17 @@
     "https://en.wikipedia.org/wiki/Birmingham_City_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Birmingham",
+   "country": "England",
+   "progressive": 6,
+   "outdoors": 3,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 7,
+   "climate": 4
   }
  },
  "394": {
@@ -10870,6 +13103,17 @@
     "https://en.wikipedia.org/wiki/Preston_North_End_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Preston",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 2.5,
+   "climate": 4
   }
  },
  "395": {
@@ -10927,6 +13171,17 @@
     "https://en.wikipedia.org/wiki/Watford_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Watford",
+   "country": "England",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 2.5,
+   "industrial": 3,
+   "glitz": 3,
+   "size": 3,
+   "climate": 5
   }
  },
  "398": {
@@ -10984,6 +13239,17 @@
     "https://en.wikipedia.org/wiki/Sheffield_United_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sheffield",
+   "country": "England",
+   "progressive": 7.5,
+   "outdoors": 8,
+   "indie": 7,
+   "industrial": 10,
+   "glitz": 1,
+   "size": 4.5,
+   "climate": 3.5
   }
  },
  "227": {
@@ -11042,6 +13308,17 @@
     "https://en.wikipedia.org/wiki/Club_Am%C3%A9rica"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 7
   }
  },
  "226": {
@@ -11098,6 +13375,17 @@
     "https://en.wikipedia.org/wiki/Atlante_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 7
   }
  },
  "216": {
@@ -11156,6 +13444,17 @@
     "https://en.wikipedia.org/wiki/Atlas_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Guadalajara",
+   "country": "Mexico",
+   "progressive": 5,
+   "outdoors": 4,
+   "indie": 7,
+   "industrial": 6,
+   "glitz": 4,
+   "size": 7,
+   "climate": 9
   }
  },
  "15720": {
@@ -11216,6 +13515,17 @@
     "https://en.wikipedia.org/wiki/Atl%C3%A9tico_San_Luis"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "San Luis Potosí",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 4,
+   "climate": 7
   }
  },
  "218": {
@@ -11275,6 +13585,17 @@
     "https://en.wikipedia.org/wiki/Cruz_Azul"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 7
   }
  },
  "17851": {
@@ -11332,6 +13653,17 @@
     "https://en.wikipedia.org/wiki/FC_Ju%C3%A1rez"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Ciudad Juárez / El Paso",
+   "country": "Mexico / USA",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 4,
+   "industrial": 8,
+   "glitz": 2,
+   "size": 5.5,
+   "climate": 5
   }
  },
  "219": {
@@ -11391,6 +13723,17 @@
     "https://en.wikipedia.org/wiki/C.D._Guadalajara"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Zapopan (Guadalajara)",
+   "country": "Mexico",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 7,
+   "climate": 9
   }
  },
  "228": {
@@ -11448,6 +13791,17 @@
     "https://en.wikipedia.org/wiki/Club_Le%C3%B3n"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "León",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 5,
+   "climate": 8
   }
  },
  "220": {
@@ -11507,6 +13861,17 @@
     "https://en.wikipedia.org/wiki/C.F._Monterrey"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Monterrey",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 7,
+   "indie": 4,
+   "industrial": 9,
+   "glitz": 7,
+   "size": 7,
+   "climate": 3
   }
  },
  "229": {
@@ -11563,6 +13928,17 @@
     "https://en.wikipedia.org/wiki/Club_Necaxa"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Aguascalientes",
+   "country": "Mexico",
+   "progressive": 2,
+   "outdoors": 4,
+   "indie": 4,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 4,
+   "climate": 7
   }
  },
  "234": {
@@ -11619,6 +13995,17 @@
     "https://en.wikipedia.org/wiki/C.F._Pachuca"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Pachuca",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 3,
+   "climate": 5
   }
  },
  "231": {
@@ -11676,6 +14063,17 @@
     "https://en.wikipedia.org/wiki/Club_Puebla"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Puebla",
+   "country": "Mexico",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 7,
+   "glitz": 3,
+   "size": 6,
+   "climate": 7
   }
  },
  "233": {
@@ -11732,6 +14130,17 @@
     "https://en.wikipedia.org/wiki/Club_Universidad_Nacional"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "progressive": 8,
+   "outdoors": 3,
+   "indie": 8,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 7
   }
  },
  "222": {
@@ -11789,6 +14198,17 @@
     "https://en.wikipedia.org/wiki/Quer%C3%A9taro_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Querétaro",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 4,
+   "size": 5,
+   "climate": 8
   }
  },
  "225": {
@@ -11845,6 +14265,17 @@
     "https://en.wikipedia.org/wiki/Santos_Laguna"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Torreón",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 3,
+   "industrial": 8,
+   "glitz": 2,
+   "size": 4.5,
+   "climate": 4
   }
  },
  "232": {
@@ -11902,6 +14333,17 @@
     "https://en.wikipedia.org/wiki/Tigres_UANL"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Monterrey",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 7,
+   "indie": 4,
+   "industrial": 9,
+   "glitz": 7,
+   "size": 7,
+   "climate": 3
   }
  },
  "10125": {
@@ -11958,6 +14400,17 @@
     "https://en.wikipedia.org/wiki/Club_Tijuana"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Tijuana",
+   "country": "Mexico",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 8,
+   "glitz": 3,
+   "size": 5.5,
+   "climate": 9
   }
  },
  "223": {
@@ -12015,6 +14468,17 @@
     "https://en.wikipedia.org/wiki/Deportivo_Toluca_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Toluca",
+   "country": "Mexico",
+   "progressive": 3,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 5,
+   "climate": 5
   }
  },
  "1010": {
@@ -12071,6 +14535,17 @@
     "https://en.wikipedia.org/wiki/OFI_Crete_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Heraklion",
+   "country": "Greece",
+   "progressive": 5,
+   "outdoors": 8,
+   "indie": 4,
+   "industrial": 3,
+   "glitz": 3,
+   "size": 3,
+   "climate": 9
   }
  },
  "11505": {
@@ -12128,6 +14603,17 @@
     "https://en.wikipedia.org/wiki/Jagiellonia_Bia%C5%82ystok"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bialystok",
+   "country": "Poland",
+   "progressive": 3,
+   "outdoors": 7,
+   "indie": 3,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 3,
+   "climate": 2
   }
  },
  "11706": {
@@ -12187,6 +14673,17 @@
     "https://global.espn.com/football/story/_/id/37428926/viktoria-plzen-jablonec-fined-fans-anti-islam-signs"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Plzen",
+   "country": "Czech Republic",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 9,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "13083": {
@@ -12244,6 +14741,17 @@
     "https://en.wikipedia.org/wiki/Hapoel_Be'er_Sheva_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Be'er Sheva",
+   "country": "Israel",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 3,
+   "industrial": 5,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "140": {
@@ -12301,6 +14809,17 @@
     "https://en.wikipedia.org/wiki/AZ_Alkmaar"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Alkmaar",
+   "country": "Netherlands",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 2,
+   "climate": 5
   }
  },
  "147": {
@@ -12358,6 +14877,17 @@
     "https://en.wikipedia.org/wiki/NEC_Nijmegen"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Nijmegen",
+   "country": "Netherlands",
+   "progressive": 9,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "1895": {
@@ -12414,6 +14944,17 @@
     "https://en.wikipedia.org/wiki/%C3%87ar%C5%9F%C4%B1_(supporter_group)"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Istanbul",
+   "country": "Turkey",
+   "progressive": 5,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 7,
+   "size": 10,
+   "climate": 6
   }
  },
  "1929": {
@@ -12471,6 +15012,17 @@
     "https://en.wikipedia.org/wiki/S.L._Benfica"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lisbon",
+   "country": "Portugal",
+   "progressive": 7,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 6.5,
+   "climate": 9
   }
  },
  "20024": {
@@ -12527,6 +15079,17 @@
     "https://en.wikipedia.org/wiki/FC_Ararat-Armenia"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Yerevan",
+   "country": "Armenia",
+   "progressive": 4,
+   "outdoors": 4,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 4,
+   "size": 4,
+   "climate": 4
   }
  },
  "21615": {
@@ -12583,6 +15146,17 @@
     "https://en.wikipedia.org/wiki/S.C.U._Torreense"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Torres Vedras",
+   "country": "Portugal",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 1.5,
+   "climate": 8
   }
  },
  "256": {
@@ -12640,6 +15214,17 @@
     "https://en.wikipedia.org/wiki/Green_Brigade"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Glasgow",
+   "country": "Scotland",
+   "progressive": 8,
+   "outdoors": 5,
+   "indie": 8,
+   "industrial": 10,
+   "glitz": 2,
+   "size": 5,
+   "climate": 3
   }
  },
  "2790": {
@@ -12699,6 +15284,17 @@
     "https://en.wikipedia.org/wiki/FC_Red_Bull_Salzburg"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Salzburg",
+   "country": "Austria",
+   "progressive": 5,
+   "outdoors": 9,
+   "indie": 5,
+   "industrial": 1,
+   "glitz": 6,
+   "size": 3,
+   "climate": 4
   }
  },
  "2990": {
@@ -12755,6 +15351,17 @@
     "https://en.wikipedia.org/wiki/Lech_Pozna%C5%84"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Poznan",
+   "country": "Poland",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 6,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 4,
+   "climate": 4
   }
  },
  "3362": {
@@ -12811,6 +15418,17 @@
     "https://en.wikipedia.org/wiki/NK_Celje"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Celje",
+   "country": "Slovenia",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 1,
+   "climate": 5
   }
  },
  "3746": {
@@ -12870,6 +15488,17 @@
     "https://en.wikipedia.org/wiki/SK_Sturm_Graz"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Graz",
+   "country": "Austria",
+   "progressive": 8,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 3,
+   "climate": 5
   }
  },
  "433": {
@@ -12926,6 +15555,17 @@
     "https://en.wikipedia.org/wiki/AC_Sparta_Prague"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Prague",
+   "country": "Czech Republic",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 5,
+   "climate": 4
   }
  },
  "435": {
@@ -12983,6 +15623,17 @@
     "https://en.wikipedia.org/wiki/Gate_7_(supporter_group)"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Piraeus (Athens area)",
+   "country": "Greece",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 4,
+   "industrial": 9,
+   "glitz": 3,
+   "size": 8,
+   "climate": 9
   }
  },
  "441": {
@@ -13039,6 +15690,17 @@
     "https://en.wikipedia.org/wiki/R.S.C._Anderlecht"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Brussels",
+   "country": "Belgium",
+   "progressive": 8,
+   "outdoors": 4.5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 6.5,
+   "climate": 4.5
   }
  },
  "490": {
@@ -13096,6 +15758,17 @@
     "https://en.wikipedia.org/wiki/PFC_Levski_Sofia"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sofia",
+   "country": "Bulgaria",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 4,
+   "size": 4,
+   "climate": 5
   }
  },
  "5807": {
@@ -13153,6 +15826,17 @@
     "https://en.wikipedia.org/wiki/Royale_Union_Saint-Gilloise"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Brussels",
+   "country": "Belgium",
+   "progressive": 8,
+   "outdoors": 4.5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 6.5,
+   "climate": 4.5
   }
  },
  "597": {
@@ -13209,6 +15893,17 @@
     "https://en.wikipedia.org/wiki/Bad_Blue_Boys"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Zagreb",
+   "country": "Croatia",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 3,
+   "size": 4,
+   "climate": 5
   }
  },
  "617": {
@@ -13265,6 +15960,17 @@
     "https://en.wikipedia.org/wiki/AC_Omonia"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Nicosia",
+   "country": "Cyprus",
+   "progressive": 5,
+   "outdoors": 3,
+   "indie": 5,
+   "industrial": 2,
+   "glitz": 3,
+   "size": 3,
+   "climate": 6
   }
  },
  "622": {
@@ -13321,6 +16027,17 @@
     "https://en.wikipedia.org/wiki/Ferencv%C3%A1rosi_TC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Budapest",
+   "country": "Hungary",
+   "progressive": 7,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 6,
+   "glitz": 4,
+   "size": 5,
+   "climate": 5
   }
  },
  "987": {
@@ -13378,6 +16095,17 @@
     "https://en.wikipedia.org/wiki/Lillestr%C3%B8m_SK"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lillestrøm (Oslo area)",
+   "country": "Norway",
+   "progressive": 7,
+   "outdoors": 8,
+   "indie": 3,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 2,
+   "climate": 2
   }
  },
  "10834": {
@@ -13435,6 +16163,17 @@
     "https://en.wikipedia.org/wiki/PFC_CSKA_Sofia"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sofia",
+   "country": "Bulgaria",
+   "progressive": 5,
+   "outdoors": 7,
+   "indie": 6,
+   "industrial": 4,
+   "glitz": 4,
+   "size": 4,
+   "climate": 5
   }
  },
  "139": {
@@ -13492,6 +16231,17 @@
     "https://en.wikipedia.org/wiki/AFC_Ajax"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "progressive": 10,
+   "outdoors": 5,
+   "indie": 9,
+   "industrial": 4,
+   "glitz": 6,
+   "size": 7,
+   "climate": 5
   }
  },
  "152": {
@@ -13549,6 +16299,17 @@
     "https://en.wikipedia.org/wiki/FC_Twente"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Enschede",
+   "country": "Netherlands",
+   "progressive": 6,
+   "outdoors": 5,
+   "indie": 5,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 3,
+   "climate": 4
   }
  },
  "17856": {
@@ -13605,6 +16366,17 @@
     "https://en.wikipedia.org/wiki/Lincoln_Red_Imps_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Gibraltar",
+   "country": "Gibraltar",
+   "progressive": 4,
+   "outdoors": 7,
+   "indie": 2,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 1,
+   "climate": 9
   }
  },
  "19246": {
@@ -13661,6 +16433,17 @@
     "https://en.wikipedia.org/wiki/Riga_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Riga",
+   "country": "Latvia",
+   "progressive": 5,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 5,
+   "glitz": 3,
+   "size": 4,
+   "climate": 2
   }
  },
  "20025": {
@@ -13717,6 +16500,17 @@
     "https://en.wikipedia.org/wiki/FC_Iberia_1999"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Tbilisi",
+   "country": "Georgia",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 8,
+   "industrial": 3,
+   "glitz": 4,
+   "size": 4,
+   "climate": 6
   }
  },
  "20028": {
@@ -13773,6 +16567,17 @@
     "https://en.wikipedia.org/wiki/FK_Kauno_%C5%BDalgiris"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Kaunas",
+   "country": "Lithuania",
+   "progressive": 4,
+   "outdoors": 6,
+   "indie": 6,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 3,
+   "climate": 2
   }
  },
  "20301": {
@@ -13830,6 +16635,17 @@
     "https://en.wikipedia.org/wiki/Mj%C3%A4llby_AIF"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Hallevik (Solvesborg)",
+   "country": "Sweden",
+   "progressive": 5,
+   "outdoors": 9,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 0,
+   "size": 1,
+   "climate": 4
   }
  },
  "20703": {
@@ -13886,6 +16702,17 @@
     "https://en.wikipedia.org/wiki/Inter_Club_d%27Escaldes"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Escaldes-Engordany (Andorra)",
+   "country": "Andorra",
+   "progressive": 4,
+   "outdoors": 9.5,
+   "indie": 2,
+   "industrial": 0.5,
+   "glitz": 5,
+   "size": 1,
+   "climate": 4
   }
  },
  "20710": {
@@ -13944,6 +16771,17 @@
     "https://balkanstories.net/2026/08/31/only-vultures-and-the-holy-care/"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Banja Luka",
+   "country": "Bosnia and Herzegovina",
+   "progressive": 2,
+   "outdoors": 7,
+   "indie": 3,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 2,
+   "climate": 5
   }
  },
  "21943": {
@@ -14000,6 +16838,17 @@
     "https://en.wikipedia.org/wiki/KF_Egnatia"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Rrogozhine",
+   "country": "Albania",
+   "progressive": 3,
+   "outdoors": 6,
+   "indie": 2,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 1,
+   "climate": 8
   }
  },
  "22281": {
@@ -14056,6 +16905,17 @@
     "https://en.wikipedia.org/wiki/Pafos_FC"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Paphos",
+   "country": "Cyprus",
+   "progressive": 4,
+   "outdoors": 8,
+   "indie": 3,
+   "industrial": 1,
+   "glitz": 5,
+   "size": 1,
+   "climate": 9
   }
  },
  "2290": {
@@ -14113,6 +16973,17 @@
     "https://en.wikipedia.org/wiki/Red_Star_Belgrade"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Belgrade",
+   "country": "Serbia",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 5,
+   "climate": 5
   }
  },
  "2528": {
@@ -14169,6 +17040,17 @@
     "https://en.wikipedia.org/wiki/FC_Kairat"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Almaty",
+   "country": "Kazakhstan",
+   "progressive": 3,
+   "outdoors": 9,
+   "indie": 5,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 5,
+   "climate": 3
   }
  },
  "262": {
@@ -14226,6 +17108,17 @@
     "https://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Edinburgh",
+   "country": "Scotland",
+   "progressive": 8,
+   "outdoors": 7,
+   "indie": 8,
+   "industrial": 3,
+   "glitz": 5,
+   "size": 3.5,
+   "climate": 3
   }
  },
  "2994": {
@@ -14282,6 +17175,17 @@
     "https://en.wikipedia.org/wiki/S.C._Braga"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Braga",
+   "country": "Portugal",
+   "progressive": 4,
+   "outdoors": 7,
+   "indie": 4,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 3,
+   "climate": 7
   }
  },
  "3024": {
@@ -14339,6 +17243,17 @@
     "https://en.wikipedia.org/wiki/FC_Thun"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Thun",
+   "country": "Switzerland",
+   "progressive": 4,
+   "outdoors": 10,
+   "indie": 4,
+   "industrial": 2,
+   "glitz": 3,
+   "size": 1,
+   "climate": 5
   }
  },
  "3101": {
@@ -14395,6 +17310,17 @@
     "https://en.wikipedia.org/wiki/FC_Nordsj%C3%A6lland"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Farum (Copenhagen area)",
+   "country": "Denmark",
+   "progressive": 6,
+   "outdoors": 7,
+   "indie": 2,
+   "industrial": 2,
+   "glitz": 3,
+   "size": 1,
+   "climate": 3
   }
  },
  "3611": {
@@ -14451,6 +17377,17 @@
     "https://en.wikipedia.org/wiki/K.A.A._Gent"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Ghent",
+   "country": "Belgium",
+   "progressive": 9,
+   "outdoors": 5,
+   "indie": 8.5,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 3.5,
+   "climate": 5
   }
  },
  "443": {
@@ -14508,6 +17445,17 @@
     "https://en.wikipedia.org/wiki/Panathinaikos_F.C."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Athens",
+   "country": "Greece",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 8,
+   "climate": 9
   }
  },
  "489": {
@@ -14564,6 +17512,17 @@
     "https://en.wikipedia.org/wiki/HNK_Hajduk_Split"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Split",
+   "country": "Croatia",
+   "progressive": 4,
+   "outdoors": 9,
+   "indie": 5,
+   "industrial": 5,
+   "glitz": 5,
+   "size": 3,
+   "climate": 9
   }
  },
  "572": {
@@ -14621,6 +17580,17 @@
     "https://en.wikipedia.org/wiki/FC_Midtjylland"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Herning",
+   "country": "Denmark",
+   "progressive": 6,
+   "outdoors": 6,
+   "indie": 3,
+   "industrial": 6,
+   "glitz": 1,
+   "size": 1,
+   "climate": 3
   }
  },
  "620": {
@@ -14680,6 +17650,17 @@
     "https://en.wikipedia.org/wiki/SK_Brann"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Bergen",
+   "country": "Norway",
+   "progressive": 8,
+   "outdoors": 10,
+   "indie": 7,
+   "industrial": 5,
+   "glitz": 2,
+   "size": 3,
+   "climate": 2
   }
  },
  "7672": {
@@ -14739,6 +17720,17 @@
     "https://en.wikipedia.org/wiki/FC_Lugano"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Lugano",
+   "country": "Switzerland",
+   "progressive": 4,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 1,
+   "glitz": 7,
+   "size": 2,
+   "climate": 7
   }
  },
  "7853": {
@@ -14796,6 +17788,17 @@
     "https://en.wikipedia.org/wiki/Aarhus_Gymnastikforening"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Aarhus",
+   "country": "Denmark",
+   "progressive": 8,
+   "outdoors": 7,
+   "indie": 7,
+   "industrial": 4,
+   "glitz": 2,
+   "size": 3,
+   "climate": 3
   }
  },
  "7922": {
@@ -14853,6 +17856,17 @@
     "https://en.wikipedia.org/wiki/FK_Jablonec"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Jablonec nad Nisou",
+   "country": "Czech Republic",
+   "progressive": 4,
+   "outdoors": 8,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 1,
+   "size": 1,
+   "climate": 3
   }
  },
  "8089": {
@@ -14911,6 +17925,17 @@
     "https://en.wikipedia.org/wiki/CS_Universitatea_Craiova"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Craiova",
+   "country": "Romania",
+   "progressive": 3,
+   "outdoors": 4,
+   "indie": 3,
+   "industrial": 7,
+   "glitz": 2,
+   "size": 3,
+   "climate": 5
   }
  },
  "8169": {
@@ -14968,6 +17993,17 @@
     "https://en.wikipedia.org/wiki/Kuopion_Palloseura"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Kuopio",
+   "country": "Finland",
+   "progressive": 6,
+   "outdoors": 9,
+   "indie": 4,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 2,
+   "climate": 1
   }
  },
  "909": {
@@ -15027,6 +18063,17 @@
     "https://en.wikipedia.org/wiki/F.C._Copenhagen"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "progressive": 9,
+   "outdoors": 7,
+   "indie": 8,
+   "industrial": 4,
+   "glitz": 5,
+   "size": 5,
+   "climate": 3
   }
  },
  "936": {
@@ -15083,6 +18130,17 @@
     "https://en.wikipedia.org/wiki/Sint-Truidense_V.V."
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Sint-Truiden",
+   "country": "Belgium",
+   "progressive": 4,
+   "outdoors": 5,
+   "indie": 3,
+   "industrial": 3,
+   "glitz": 1,
+   "size": 1,
+   "climate": 4
   }
  },
  "997": {
@@ -15139,6 +18197,17 @@
     "https://en.wikipedia.org/wiki/Trabzonspor"
    ],
    "researched": "politics-2026-11"
+  },
+  "cityp": {
+   "city": "Trabzon",
+   "country": "Turkey",
+   "progressive": 1,
+   "outdoors": 8,
+   "indie": 3,
+   "industrial": 4,
+   "glitz": 1,
+   "size": 3,
+   "climate": 5
   }
  }
 }
