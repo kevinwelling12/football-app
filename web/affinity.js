@@ -87,9 +87,12 @@ const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLA
 // Shared engine (clubs and players): regularised logistic regression on "which would you rather" picks.
 // X: {id: feature vector}; spec: {names, pull, push, fam (bool arrays), flags (names never shown as a plus), prior (array)}.
 // Pull weights stay >= 0, push weights <= 0; fam (familiarity) is fitted but left out of the score.
-export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1200 } = {}) {
+// group (optional): {id: key}. Items sharing a key also share an adjustment learned from the picks (clubs: the city,
+// 2026-11-07, Kevin: "the city I love thing needs to be more autonomous"), so picking San Diego FC lifts the Wave too.
+export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGroup = 2, iters = 1200, group = null } = {}) {
   const ids = Object.keys(X), names = spec.names;
-  const b0 = spec.prior.slice(), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0]));
+  const b0 = spec.prior.slice(), beta = b0.slice(), u = Object.fromEntries(ids.map(id => [id, 0])), ug = {};
+  const G = id => (group ? group[id] : undefined), gv = id => { const k = G(id); return k == null ? 0 : ug[k] || 0; };
   // a pick counts fully; "no strong opinion" (win '=') counts as half a pick each way, which pulls the two together
   const used = [];
   for (const p of picks) {
@@ -99,13 +102,15 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1
   }
   const n = Math.max(1, Math.sqrt(used.length));
   for (let it = 0; it < (used.length ? iters : 0); it++) {
-    const g = beta.map((b, j) => lambda * (b - b0[j])), gu = {};
+    const g = beta.map((b, j) => lambda * (b - b0[j])), gu = {}, gg = {};
     for (const p of used) {
-      const xw = X[p.w], xl = X[p.l]; let z = u[p.w] - u[p.l];
+      const xw = X[p.w], xl = X[p.l]; let z = u[p.w] - u[p.l] + gv(p.w) - gv(p.l);
       for (let j = 0; j < beta.length; j++) z += beta[j] * (xw[j] - xl[j]);
       const e = (1 - sig(z)) * p.k;
       for (let j = 0; j < beta.length; j++) g[j] -= e * (xw[j] - xl[j]);
       gu[p.w] = (gu[p.w] || 0) - e; gu[p.l] = (gu[p.l] || 0) + e;
+      const kw = G(p.w), kl = G(p.l);
+      if (kw !== kl) { if (kw != null) gg[kw] = (gg[kw] || 0) - e; if (kl != null) gg[kl] = (gg[kl] || 0) + e; }
     }
     for (let j = 0; j < beta.length; j++) {
       beta[j] -= 0.3 * g[j] / n;
@@ -113,16 +118,17 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1
       if (spec.pull[j]) beta[j] = Math.max(0, beta[j]); else if (spec.push[j]) beta[j] = Math.min(0, beta[j]);
     }
     for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaItem * u[id]) / n;
+    for (const k in gg) ug[k] = (ug[k] || 0) - 0.3 * (gg[k] + lambdaGroup * (ug[k] || 0)) / n;
   }
   // familiarity is fitted but not part of Affinity; a negOnly feature counts only when its weight came out negative
   // (contender: an underdog lean is liking, a pull toward winners is glory hunting)
   const FAMj = spec.fam.map((f, j) => f && !(spec.negOnly?.[j] && beta[j] < 0));
   const traitPart = id => X[id].reduce((s, v, j) => s + (FAMj[j] ? 0 : v * beta[j]), 0);
-  const raw = Object.fromEntries(ids.map(id => [id, traitPart(id) + u[id]]));
+  const raw = Object.fromEntries(ids.map(id => [id, traitPart(id) + u[id] + gv(id)]));
   const sorted = Object.values(raw).sort((a, b) => a - b), mid = sorted[sorted.length >> 1] ?? 0;
   const mean = names.map((_, j) => ids.reduce((s, id) => s + X[id][j], 0) / ids.length);
   return {
-    beta: Object.fromEntries(names.map((f, j) => [f, beta[j]])), u, raw, n: used.length,
+    beta: Object.fromEntries(names.map((f, j) => [f, beta[j]])), u, ug, cityOf: G, cityAdj: gv, raw, n: used.length,
     affinity: id => (raw[id] == null ? null : 100 * sig(raw[id] - mid)),
     // P(you'd pull for a over b), from Affinity alone
     prefer: (a, b) => sig(raw[a] - raw[b]),
@@ -157,7 +163,17 @@ export function unknownClubs(picks, known = {}) {
 // traits: {id: {...}}; picks: [{a, b, win}]. Returns the fitted model.
 export function fit(traits, ctx, picks, opts = {}) {
   const X = Object.fromEntries(Object.keys(traits).map(id => [id, features(id, traits[id], ctx)]));
-  return fitPairs(X, CLUB_SPEC, picks, { lambdaItem: opts.lambdaClub ?? 2, ...opts });
+  return fitPairs(X, CLUB_SPEC, picks, { lambdaItem: opts.lambdaClub ?? 2, group: ctx.city || null, ...opts });
+}
+
+// Cities: clubs whose grounds are within 10 km of each other share a city key (union of near pairs), e.g. San Diego FC
+// and the Wave, the Sounders and the Reign, every London club. Keyed by the first id in the group.
+export function cityGroups(traits, ids) {
+  const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
+  const xs = ids.filter(id => traits[id]?.ll), parent = Object.fromEntries(xs.map(id => [id, id]));
+  const find = x => (parent[x] === x ? x : (parent[x] = find(parent[x])));
+  for (let i = 0; i < xs.length; i++) for (let j = i + 1; j < xs.length; j++) if (km(traits[xs[i]].ll, traits[xs[j]].ll) < 10) parent[find(xs[i])] = find(xs[j]);
+  return Object.fromEntries(xs.map(id => [id, find(id)]));
 }
 
 // Next pair to ask about: usually two clubs from the same league. Prefers clubs you're likely to know (big clubs,

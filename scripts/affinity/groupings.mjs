@@ -38,6 +38,9 @@ const base = id => {
 };
 const B = Object.fromEntries(Object.keys(traits).filter(id => LEAGUE[id]).map(id => [id, base(id)]));
 const mean = (...xs) => xs.reduce((a, b) => a + b, 0) / xs.length;
+// CITY=1: a shared adjustment per city (affinity.js cityGroups); NOLOVE=1: drop the named-cities feature
+const CITY = process.env.CITY ? AF.cityGroups(traits, Object.keys(traits).filter(id => !id.startsWith('_'))) : null;
+if (process.env.NOLOVE) for (const id in B) B[id].love = 0;
 const FAM = ['bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'uel', 'uecl'];
 
 // a variant: named features (f => value from b), which are flags, and which are negOnly
@@ -103,7 +106,7 @@ function score(m, test) {
   return [ll, ok, test.length];
 }
 function run(v) {
-  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2 });
+  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2, group: CITY });
   const add = (acc, r) => r.map((x, i) => (acc[i] || 0) + x);
   let a = [], b = [];
   for (let k = 0; k < 10; k++) a = add(a, score(fit(picks.filter((p, i) => !decisive(p) || i % 10 !== k)), picks.filter((p, i) => decisive(p) && i % 10 === k)));

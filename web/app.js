@@ -195,13 +195,10 @@ function affPicks() {
   for (const p of store.get().affPicks || []) if ((p.t || 0) >= since) { const k = [p.a, p.b].sort().join('|'); if (!m.has(k) || (p.t || 0) >= (m.get(k).t || 0)) m.set(k, p); }
   return [...m.values()];
 }
-// Cities Kevin loves (2026-11-07; "location, location, location" for San Diego FC): every club within 60 km gets the
-// "A city you love" feature, fitted from his picks like any trait
-const LOVE_CITIES = { 'San Diego': [32.72, -117.16], Portland: [45.52, -122.68], Seattle: [47.61, -122.33], Austin: [30.27, -97.74] }; // Austin: "by far the best city in Texas"
-function loveIds() {
-  const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
-  return new Set(Object.entries(TRAITS).filter(([, c]) => c.ll && Object.values(LOVE_CITIES).some(ll => km(ll, c.ll) < 60)).map(([id]) => id));
-}
+// Cities (2026-11-07, Kevin: "more autonomous, not just the cities I named"): clubs within 10 km share a city
+// adjustment the model learns from his picks (affinity.js cityGroups), replacing the hand-made list of loved cities
+let CITY = null, CITY_N = 0;
+function cityOf() { const n = Object.keys(TRAITS).length; if (!CITY || CITY_N !== n) { CITY = AF.cityGroups(TRAITS, Object.keys(TRAITS).filter(id => !id.startsWith('_'))); CITY_N = n; } return CITY; }
 // Kevin, 2026-11-06: Affinity stands on its own. His clubs are left out of it: picks that involve one don't count, they
 // aren't asked about, and being a rival of one of them no longer counts against a club.
 function affinity() {
@@ -211,11 +208,10 @@ function affinity() {
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
   // no rivalry factor (Kevin, 2026-11-07: "I don't like having a rivalry factor"); the Sounders' own adjustment carries it
   const rivals = new Set();
-  const love = loveIds();
   // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
   const standing = {};
   for (const k of HOME_ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
-  const ctx = { league, rivals, love, standing, known: store.get().settings?.affKnown || {} }, model = AF.fit(TRAITS, ctx, picks);
+  const ctx = { league, rivals, love: new Set(), city: cityOf(), standing, known: store.get().settings?.affKnown || {} }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
 // every club is scored, Kevin's too (2026-11-06): his are never in the picks, so theirs comes from traits alone
@@ -224,12 +220,14 @@ const reasonsOf = id => (TRAITS[id] ? affinity().model.reasons(id) : { good: [],
 const lc = t => AF.LABEL[t][0].toLowerCase() + AF.LABEL[t].slice(1);
 // whose rival a club is ("Liverpool's rival")
 const rivalOf = id => Object.entries(RIVALS).filter(([k, v]) => k !== '_note' && v.rivals?.[id]).map(([, v]) => v.club.replace(/ FC$/, ''));
-const shortText = (id, f) => (f[0] === '+' ? lc(f.slice(1)) : f === 'rival' ? `${rivalOf(id).join(' and ') || 'your club'}'s rival` : AF.SHORT[f]);
+const shortText = (id, f) => (f === 'city' ? 'a city your picks don\'t like' : f[0] === '+' ? lc(f.slice(1)) : f === 'rival' ? `${rivalOf(id).join(' and ') || 'your club'}'s rival` : AF.SHORT[f]);
 // One line of reasons: strengths, what your picks say beyond the traits, then the biggest thing against it
 function whyLine(id) {
   const r = reasonsOf(id), adj = affinity().model.u[id] || 0, parts = r.good.slice(0, Math.abs(adj) > 0.3 ? 1 : 2).map(lc);
   if (adj > 0.3) parts.push('you often pick them'); else if (adj < -0.3) parts.push('you rarely pick them');
-  const bad = r.bad[0];
+  const cadj = affinity().model.cityAdj(id);
+  if (cadj > 0.3 && parts.length < 3) parts.push('a city your picks like');
+  const bad = cadj < -0.3 && !r.bad.length ? 'city' : r.bad[0];
   // "but" only when there's something before it to contrast with
   return [parts.join(', '), bad ? `${parts.length ? 'but ' : ''}${shortText(id, bad)}` : ''].filter(Boolean).join(', ');
 }

@@ -26,7 +26,7 @@ for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2',
 const LOVE = [[32.72, -117.16], [45.52, -122.68], [47.61, -122.33], [30.27, -97.74]]; // San Diego, Portland, Seattle, Austin (app.js LOVE_CITIES)
 const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2; return 12742 * Math.asin(Math.sqrt(h)); };
 const love = new Set(process.env.NO_EXTRA ? [] : Object.entries(traits).filter(([, c]) => c.ll && LOVE.some(ll => km(ll, c.ll) < 60)).map(([id]) => id));
-const ctx = { league: LEAGUE, rivals: new Set(), love, standing: STANDING };
+const ctx = { league: LEAGUE, rivals: new Set(), love: new Set(), city: AF.cityGroups(traits, Object.keys(traits).filter(id => !id.startsWith('_'))), standing: STANDING };
 const all = raw.filter(p => traits[p.ida] && traits[p.idb] && !FAVS.includes(p.ida) && !FAVS.includes(p.idb)).map(p => ({ a: p.ida, b: p.idb, win: winOf(p) }));
 let ok = 0, tot = 0;
 for (let k = 0; k < 10; k++) {
