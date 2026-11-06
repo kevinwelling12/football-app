@@ -1,0 +1,336 @@
+[
+ {
+  "espn_id": "97",
+  "name": "Osasuna",
+  "league": "esp",
+  "lean": 7.5,
+  "why": {
+   "lean": "Indar Gorri, the main ultras group, listed as left-wing, abertzale (Basque nationalist left) and anti-fascist (Publico 2014); Basque nationalism here sits on the Spanish left; 2021 club homage to members repressed after the 1936 coup"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CA_Osasuna",
+   "https://www.publico.es/politica/ultras-del-futbol-hermanan-combatir.html",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "87",
+  "name": "Racing Santander",
+  "league": "esp",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racing_de_Santander"
+  ]
+ },
+ {
+  "espn_id": "101",
+  "name": "Rayo Vallecano",
+  "league": "esp",
+  "lean": 10,
+  "why": {
+   "lean": "Bukaneros: anti-fascist, republican, communist/anarchist ultras; Republican flags, 'No pasaran', 2014 eviction solidarity, 2017 Zozulya protest; working-class leftist Vallecas identity"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rayo_Vallecano",
+   "https://www.publico.es/politica/ultras-del-futbol-hermanan-combatir.html",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "244",
+  "name": "Real Betis",
+  "league": "esp",
+  "lean": 4,
+  "why": {
+   "lean": "Supporters Gol Sur reported to have moved from 1980s Andalusian nationalism to the far right (fan-site listing); 2022 street call against Morocco fans; wider support popular and mixed; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Betis",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "86",
+  "name": "Real Madrid",
+  "league": "esp",
+  "lean": 3.5,
+  "why": {
+   "lean": "Ultras Sur: extreme right, Spanish nationalist, allied with Lazio's Irriducibili, banned by Perez in 2013-14; Franco-era image as 'team of the regime'; 2025-26 UEFA sanctions incl. Nazi salutes; mainstream support mixed"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Madrid_CF",
+   "https://www.publico.es/politica/ultras-del-futbol-hermanan-combatir.html",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "89",
+  "name": "Real Sociedad",
+  "league": "esp",
+  "lean": 6.5,
+  "why": {
+   "lean": "Basque identity club; ultras (Team Mujika) listed among nationalist groups; Basque nationalism usually placed centre-left to left in Spain; little detail found, estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Sociedad",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "243",
+  "name": "Sevilla",
+  "league": "esp",
+  "lean": 6.5,
+  "why": {
+   "lean": "Biris Norte, the main ultras end, described as far-left, anti-racist and anti-capitalist with Andalusian nationalist symbols (Publico 2014); 2022 UEFA racism fine (Rico Lewis); wider support mixed"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sevilla_FC",
+   "https://www.publico.es/politica/ultras-del-futbol-hermanan-combatir.html",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "94",
+  "name": "Valencia",
+  "league": "esp",
+  "lean": 3,
+  "why": {
+   "lean": "Yomus, the historic Mestalla ultras group, moved from Valencian left-nationalism to the far right; members prosecuted for attacking 9 d'Octubre marchers in 2017, neo-Nazi symbols; group dissolved, club distanced itself"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valencia_CF",
+   "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/"
+  ]
+ },
+ {
+  "espn_id": "102",
+  "name": "Villarreal",
+  "league": "esp",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villarreal_CF"
+  ]
+ },
+ {
+  "espn_id": "103",
+  "name": "AC Milan",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "working-class origins and media long linked the curva to the left; that image faded under Berlusconi; Curva Sud leader Lucci appeared with Salvini; ultras have no fixed politics (mixed)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Milan",
+   "https://libcom.org/library/ultra-movement-political-influences",
+   "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
+  ]
+ },
+ {
+  "espn_id": "104",
+  "name": "AS Roma",
+  "league": "ita",
+  "lean": 3.5,
+  "why": {
+   "lean": "traditional left-leaning image (vs Lazio), but since the mid-1990s the Curva Sud is controlled by right-wing groups incl. the neo-fascist Boys; Fedayn apolitical"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AS_Roma"
+  ]
+ },
+ {
+  "espn_id": "105",
+  "name": "Atalanta",
+  "league": "ita",
+  "lean": 6.5,
+  "why": {
+   "lean": "Curva Nord historically leftist, now apolitical; Forever Atalanta (Curva Sud) still leftist; twinnings with Ternana and Eintracht Frankfurt rooted in shared left politics; far-left vs far-right rivalry with Lazio"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atalanta_BC"
+  ]
+ },
+ {
+  "espn_id": "107",
+  "name": "Bologna",
+  "league": "ita",
+  "lean": 6,
+  "why": {
+   "lean": "historically left-wing ultras in red Emilia, hostile to Verona's right-wing curva; a 2017 Interior Ministry report lists Bologna among 'mixed' curve; stand named for Arpad Weisz"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bologna_FC_1909",
+   "https://libcom.org/library/ultra-movement-political-influences",
+   "https://www.calciomercato.com/notizie/rapporto-sulle-tifoserie-politicizzate/777901"
+  ]
+ },
+ {
+  "espn_id": "2925",
+  "name": "Cagliari",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found (Sconvolts' politics not documented; Sardinian identity is regional, not left-right)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cagliari_Calcio",
+   "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
+  ]
+ },
+ {
+  "espn_id": "2572",
+  "name": "Como",
+  "league": "ita",
+  "lean": 3,
+  "why": {
+   "lean": "after 2002 the Curva Como groups were 'all united by a far-right ideological matrix'; ultras reorganised in 2019 (Maledetta Gioventu); current crowds smaller"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Como_1907"
+  ]
+ },
+ {
+  "espn_id": "109",
+  "name": "Fiorentina",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; curva described elsewhere as once left-leaning, now less political; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ACF_Fiorentina"
+  ]
+ },
+ {
+  "espn_id": "4057",
+  "name": "Frosinone",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 1906 statute barred political activity"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frosinone_Calcio"
+  ]
+ },
+ {
+  "espn_id": "3263",
+  "name": "Genoa",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found (Gradinata Nord's politics not documented; friendship with Napoli)"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Genoa_CFC"
+  ]
+ },
+ {
+  "espn_id": "110",
+  "name": "Internazionale",
+  "league": "ita",
+  "lean": 3.5,
+  "why": {
+   "lean": "Boys founded by MSI members (libcom); Irriducibili right-wing and tied to Lazio; Inter named in 2015 Interior Ministry note on neo-Nazi groups; Wikipedia calls Boys San apolitical and has a small left group (Imbastisci)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inter_Milan",
+   "https://libcom.org/library/ultra-movement-political-influences",
+   "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
+  ]
+ },
+ {
+  "espn_id": "111",
+  "name": "Juventus",
+  "league": "ita",
+  "lean": 4,
+  "why": {
+   "lean": "first ultras groups (1970s) were left-wing; later curva seen as right-leaning and named in 2015 Interior Ministry note on neo-Nazi groups in Turin; national fanbase mixed; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Juventus_FC",
+   "https://en.wikipedia.org/wiki/Juventus_FC_ultras",
+   "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
+  ]
+ },
+ {
+  "espn_id": "112",
+  "name": "Lazio",
+  "league": "ita",
+  "lean": 0,
+  "why": {
+   "lean": "Irriducibili far-right identity ('the most right-wing club in Europe'), Di Canio salute 2005, Anne Frank images 2017, UEFA fascist-salute fine 2020, antisemitic chants 2023"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SS_Lazio",
+   "https://libcom.org/library/ultra-movement-political-influences"
+  ]
+ },
+ {
+  "espn_id": "113",
+  "name": "Lecce",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found (Lecce named only as a city in a 2015 far-right groups map, not tied to the curva); estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Lecce",
+   "https://www.panorama.it/sport/calcio/ultras-italia-mappa-politica-censimento"
+  ]
+ },
+ {
+  "espn_id": "4007",
+  "name": "Monza",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AC_Monza"
+  ]
+ },
+ {
+  "espn_id": "114",
+  "name": "Napoli",
+  "league": "ita",
+  "lean": 5.5,
+  "why": {
+   "lean": "curva seen as broadly neutral or left-leaning; Neapolitan identity against northern 'territorial discrimination' chants; no defining political group documented; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SSC_Napoli"
+  ]
+ }
+]
