@@ -1,0 +1,382 @@
+[
+ {
+  "espn_id": "6077",
+  "name": "Houston Dynamo FC",
+  "league": "mls",
+  "comeback": 3,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Last in the West 2020-22 with fans calling for new owners; Segal bought it 2021, Open Cup and West final 2023.",
+   "punch": "27th of 30 payroll (2025); 2023 Open Cup and West final, missed playoffs 2025."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Houston_Dynamo_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "20232",
+  "name": "Inter Miami CF",
+  "league": "mls",
+  "comeback": 1,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Founded 2020; last in the East 2023 before Messi; no real adversity beyond 2021 rule-breach fines.",
+   "punch": "Highest MLS payroll by far ($47m, 2025); 2024 Shield and 2025 MLS Cup bought with spending; cap fines 2021."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Inter_Miami_CF",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "187",
+  "name": "LA Galaxy",
+  "league": "mls",
+  "comeback": 5,
+  "punch": 3,
+  "why": {
+   "comeback": "Fall from five-title club: wooden spoon 2017, sanctions and 'not a serious club' 2023; back to MLS Cup 2024, then 14th in the West 2025.",
+   "punch": "5th-highest payroll (2025); 2024 MLS Cup but 26th overall 2025 and misses 2017-21."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/LA_Galaxy",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "18966",
+  "name": "LAFC",
+  "league": "mls",
+  "comeback": 1,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2018; only a missed-playoff 2021 before titles in 2022.",
+   "punch": "Top-six payroll and big signings (Son, $26.5m 2025); Shields 2019/2022, MLS Cup 2022, Open Cup 2024, finals 2023: strong results for strong money."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Los_Angeles_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "17362",
+  "name": "Minnesota United FC",
+  "league": "mls",
+  "comeback": 4,
+  "punch": 7,
+  "why": {
+   "comeback": "Club had to find an owner by Oct 2012 to keep its NASL place; McGuire bought it, rose to MLS 2017.",
+   "punch": "26th of 30 payroll (2025) yet club-record 58 pts 2025 and playoffs in four of five seasons; no trophy."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Minnesota_United_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "18986",
+  "name": "Nashville SC",
+  "league": "mls",
+  "comeback": 1,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2018 (MLS 2020); stadium lawsuit 2019 only.",
+   "punch": "8th-highest payroll (2025); 2025 Open Cup, Shield race 2026, but 2024 13th in the East and repeated first-round exits."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nashville_SC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "189",
+  "name": "New England Revolution",
+  "league": "mls",
+  "comeback": 2,
+  "punch": 4,
+  "why": {
+   "comeback": "Five lost finals, worst season 2011 and owners called neglectful (2014); recoveries 2014 final and 2021 Shield; nothing defining.",
+   "punch": "Mid payroll (16th, 2025); 2021 Shield but 11th in the East 2025."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_England_Revolution",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "17606",
+  "name": "New York City FC",
+  "league": "mls",
+  "comeback": 3,
+  "punch": 7,
+  "why": {
+   "comeback": "No home of its own since 2015, matches spread across baseball and out-of-state grounds; MLS Cup 2021; own stadium due 2027 (owner-funded, not a fan fight).",
+   "punch": "Low payroll (24th, 2025) yet MLS Cup 2021, conference finals 2022 and 2025; CFG backing and $20m+ transfer spend 2024 temper it."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_York_City_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "12011",
+  "name": "Orlando City SC",
+  "league": "mls",
+  "comeback": 2,
+  "punch": 6.5,
+  "why": {
+   "comeback": "USL club moved from Austin 2010; five years without MLS playoffs 2015-19; nothing defining.",
+   "punch": "19th payroll (2025); Open Cup 2022, club-best 2nd 2023, East final 2024; poor start 2026 and coach left."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orlando_City_SC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "10739",
+  "name": "Philadelphia Union",
+  "league": "mls",
+  "comeback": 1.5,
+  "punch": 9,
+  "why": {
+   "comeback": "Slow early years (two playoffs in seven seasons); no serious adversity; 2026 slump.",
+   "punch": "29th of 30 payroll (2025) yet Shields 2020 and 2025, MLS Cup final 2022; academy sold Aaronson, McKenzie; poor 2026 start."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philadelphia_Union",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "9723",
+  "name": "Portland Timbers",
+  "league": "mls",
+  "comeback": 4,
+  "punch": 3.5,
+  "why": {
+   "comeback": "Earlier Timbers folded 1990; 2021-22 abuse scandal, Timbers Army protests forced executive firings 2022; on-field decline since.",
+   "punch": "11th payroll (2025); MLS Cup final 2021, then missed or play-in exits 2022-25 and coach fired 2026."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portland_Timbers",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "4771",
+  "name": "Real Salt Lake",
+  "league": "mls",
+  "comeback": 4,
+  "punch": 6.5,
+  "why": {
+   "comeback": "Owner Hansen forced to sell 2020 after racist remarks; 2021 season with no owner, reached West final; new owners 2022, Miller family 2025.",
+   "punch": "28th of 30 payroll (2025), small market; West final 2021 and regular playoff berths since; no trophy."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Real_Salt_Lake",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "190",
+  "name": "Red Bull New York",
+  "league": "mls",
+  "comeback": 3,
+  "punch": 5,
+  "why": {
+   "comeback": "MetroStars 'curse' and worst MLS record 1999, worst again 2009; 15 straight playoffs from 2010, missed 2025; distant lows.",
+   "punch": "9th payroll (2025); 15-year playoff streak and 2024 MLS Cup final with a set pressing model, but no MLS Cup and 10th in the East 2025."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_York_Red_Bulls",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "22529",
+  "name": "San Diego FC",
+  "league": "mls",
+  "comeback": 0,
+  "punch": 7,
+  "why": {
+   "comeback": "Founded 2023, first season 2025: too new.",
+   "punch": "10th payroll (2025) yet 1st in the West with an expansion-record 63 pts and a West final; one full season only."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Diego_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "191",
+  "name": "San Jose Earthquakes",
+  "league": "mls",
+  "comeback": 6,
+  "punch": 3,
+  "why": {
+   "comeback": "Team moved to Houston 2005, two-year hiatus, refounded 2008, own stadium 2015; last in MLS 2024, owner Fisher selling since 2025.",
+   "punch": "17th payroll (2025); last overall 2024, missed playoffs 2025; strong 2026 start after a Werner signing."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "9726",
+  "name": "Seattle Sounders FC",
+  "league": "mls",
+  "comeback": 1,
+  "punch": 7,
+  "why": {
+   "comeback": "No serious adversity since joining MLS 2009; 2022 first playoff miss.",
+   "punch": "14th payroll (2025); CONCACAF Champions League 2022, Leagues Cup 2025, deep runs most years."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seattle_Sounders_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "186",
+  "name": "Sporting Kansas City",
+  "league": "mls",
+  "comeback": 3,
+  "punch": 2.5,
+  "why": {
+   "comeback": "2008-10 stadium plan scrapped, played in a baseball park; rebranded with own stadium 2011, MLS Cup 2013; slide to 15th in the West 2025.",
+   "punch": "15th payroll (2025) but 28 pts and 15th in the West 2025, long decline from 2013-17 peak."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sporting_Kansas_City",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "21812",
+  "name": "St. Louis CITY SC",
+  "league": "mls",
+  "comeback": 0,
+  "punch": 4.5,
+  "why": {
+   "comeback": "First season 2023: too new.",
+   "punch": "13th payroll (2025); 1st in the West 2023, then 12th and 13th, 2026 Open Cup."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Louis_City_SC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "7318",
+  "name": "Toronto FC",
+  "league": "mls",
+  "comeback": 3.5,
+  "punch": 0.5,
+  "why": {
+   "comeback": "Eight years without playoffs 2007-14, treble 2017, then fall to bottom-five finishes 2021-25 with no recovery yet.",
+   "punch": "2nd-highest payroll (2025, $34m with Insigne, Bernardeschi) and 22nd-29th overall 2021-25."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toronto_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "9727",
+  "name": "Vancouver Whitecaps",
+  "league": "mls",
+  "comeback": 7.5,
+  "punch": 9,
+  "why": {
+   "comeback": "Owners selling since Dec 2024, formal bid to move to Las Vegas 2026, BC Place lease ends May 2027; 'Save the Caps' protests; from last in the West 2019 to MLS Cup final 2025.",
+   "punch": "21st payroll (2025) yet 63 pts, MLS Cup final and Champions Cup final 2025, Canadian Championships 2022-25."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+   "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
+  ]
+ },
+ {
+  "espn_id": "21422",
+  "name": "Angel City FC",
+  "league": "nwsl",
+  "comeback": 0,
+  "punch": 1,
+  "why": {
+   "comeback": "Founded 2020, first season 2022: too new.",
+   "punch": "Richest NWSL club (revenue ~$31m 2023, $250m valuation) yet one playoff berth, 2024 salary-cap breach and points deduction, four coaches."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angel_City_FC"
+  ]
+ },
+ {
+  "espn_id": "22187",
+  "name": "Bay FC",
+  "league": "nwsl",
+  "comeback": 0,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Founded 2023, first season 2024: too new.",
+   "punch": "Record expansion fee and ~$125m planned investment, record transfer 2024; 7th 2024, 13th of 14 2025 (2026 unclear, estimate)."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bay_FC"
+  ]
+ },
+ {
+  "espn_id": "131562",
+  "name": "Boston Legacy FC",
+  "league": "nwsl",
+  "comeback": 0,
+  "punch": 3,
+  "why": {
+   "comeback": "First season 2026: too new.",
+   "punch": "Inaugural 2026, lost first five matches; too early to judge (estimate)."
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boston_Legacy_FC"
+  ]
+ },
+ {
+  "espn_id": "15360",
+  "name": "Chicago Stars FC",
+  "league": "nwsl",
+  "comeback": 4,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Left WPS for lack of funds 2010; Dames abuse scandal 2021, $1.5m fine and forced sale 2023, ground moves; recovery not yet (14th 2025).",
+   "punch": "NWSL final 2021, then 12th 2023, 14th 2025 and five wins 2026 despite new owners' investment."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chicago_Stars_FC"
+  ]
+ }
+]
