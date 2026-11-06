@@ -199,14 +199,14 @@ function affPicks() {
 // aren't asked about, and being a rival of one of them no longer counts against a club.
 function affinity() {
   const favs = favIds(), picks = affPicks().filter(p => !favs.has(p.a) && !favs.has(p.b));
-  const key = JSON.stringify([[...favs].sort(), affSince(), picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
+  const key = JSON.stringify([[...favs].sort(), affSince(), store.get().settings?.affKnown || {}, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
   const rivals = new Set();
   // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
   const standing = {};
   for (const k of HOME_ORDER) { const ts = [...(D[k]?.teams || [])].sort((a, b) => (b.elo || 0) - (a.elo || 0)); ts.forEach((t, i) => (standing[t.id] ??= 1 - i / Math.max(1, ts.length - 1))); }
-  const ctx = { league, rivals, standing }, model = AF.fit(TRAITS, ctx, picks);
+  const ctx = { league, rivals, standing, known: store.get().settings?.affKnown || {} }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
 // every club is scored, Kevin's too (2026-11-06): his are never in the picks, so theirs comes from traits alone
@@ -959,6 +959,15 @@ function viewClubs() {
   const shown = aff.map((r, n) => [r, n]).filter(([r, n]) => n < 30 || fav.has(r[2].id));
   html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${shown.map(([r, n], j) => (j && n !== shown[j - 1][1] + 1 ? '<tr><td colspan="3" class="faint tiny" style="text-align:center">…</td></tr>' : '') + row(r, n)).join('')}</table></div>
     <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: every researched trait (and state ownership, a racism or fan-culture record) starts at zero and your answers decide what it's worth and which way, plus a small adjustment per club. With no picks every club is 50. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
+  // clubs you said you don't know enough about yet: a reading list, newest first; they come back into the quiz once
+  // you say you know them
+  const todo = AF.unknownClubs(affPicks(), store.get().settings?.affKnown || {}).map(id => [id, clubTeam(id)]).filter(([id]) => TRAITS[id]);
+  if (todo.length) html += `<div class="section"><h2>To look into</h2><span class="aside">${todo.length} club${todo.length > 1 ? 's' : ''}</span></div>
+    <div class="card">${todo.map(([id, ct]) => `<div class="lookinto${ct ? ' click' : ''}"${ct ? ` data-club="${ct[0]}:${ct[1]}"` : ''}>
+      <div class="cl">${ct ? crest(ct[2]) : ''}<span><b>${esc(ct ? ct[2].n : TRAITS[id].name)}</b> <span class="faint tiny">${ct ? LEAGUES[ct[0]].tag : ''}</span></span></div>
+      <div class="qfacts">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</div>
+      <div class="btns" style="padding:0"><button class="btn quiet" data-act="aff-known" data-id="${id}">I know them now</button></div></div>`).join('')}</div>
+    <p class="note">Clubs you said you don't know enough about. They're left out of the comparisons until you tap "I know them now". Tap a club for its page.</p>`;
   return html;
 }
 const fmtSigned = x => (x >= 0 ? '+' : '−') + Math.abs(x).toFixed(2);
@@ -1088,7 +1097,7 @@ function playerQuizSheet() {
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair; sheetCtx.at = Date.now();
   const side = id => { const p = PLAYERS[id], ct = mainClub(p);
-    return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
+    return `<button style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-pquiz="${id}">${ct ? crest(ct[2], 'lg') : '<span class="crest lg"></span>'}<span>${esc(p.n)}</span><span class="tiny faint">${esc([p.nat, p.act ? (p.cur || '') : 'retired'].filter(Boolean).join(' · '))}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${PL.pfacts(p).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
   openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Who would you rather your son look up to?</div><div class="small muted">Gut feeling. ${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
@@ -1227,11 +1236,14 @@ function quizSheet() {
   const team = id => { for (const k of HOME_ORDER) { const t = D[k]?.teams.find(x => x.id === id); if (t) return [k, t]; } return [null, { id, s: TRAITS[id].name }]; };
   if (!pair) { openSheet('<div class="empty">No more pairs to ask.</div>'); return; }
   sheetCtx.pair = pair; sheetCtx.at = Date.now();
-  const side = id => { const [k, t] = team(id); return `<button class="btn" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
+  const short = id => team(id)[1].s || team(id)[1].n;
+  const side = id => { const [k, t] = team(id); return `<button class="btn qside" style="display:grid;justify-items:center;align-content:start;gap:8px;padding:16px 10px" data-quiz="${id}">${crest(t, 'lg')}<span>${esc(t.n || t.s)}</span><span class="tiny faint">${k ? LEAGUES[k].name : ''}</span>
     <span class="qfacts" style="gap:5px;text-align:left;font-weight:400;margin-top:4px">${AF.facts(TRAITS[id]).map(([h, v]) => `<span class="tiny"><b class="faint">${h}</b> <span class="muted">${esc(v)}</span></span>`).join('')}</span></button>`; };
   openSheet(`<div class="head"><div style="font-size:19px;font-weight:700">Which would you rather support?</div><div class="small muted">Gut feeling. ${focus.length ? `Settling your top ten · ${focus.length} left` : `${picks.length} answered${picks.length < 20 ? ' · about 20 is enough to start' : ''}`}.</div></div>
     <div class="btns" style="display:grid;grid-template-columns:1fr 1fr">${side(pair[0])}${side(pair[1])}</div>
-    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-quiz="skip">Can't say</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
+    <div class="btns"><button class="btn" style="flex:1" data-quiz="=">No strong opinion</button></div>
+    <div class="qunsure"><span class="tiny faint">Don't know enough about</span><div class="btns"><button class="btn quiet" data-quiz="?${pair[0]}">${esc(short(pair[0]))}</button><button class="btn quiet" data-quiz="?${pair[1]}">${esc(short(pair[1]))}</button><button class="btn quiet" data-quiz="??">Either</button></div></div>
+    <div class="btns"><button class="btn quiet" data-act="qinfo">${ui.qinfo ? 'Hide details' : 'Details'}</button><button class="btn quiet" data-quiz="done">Done</button></div>`);
   $('#sheet').classList.toggle('qopen', !!ui.qinfo);
 }
 
@@ -1329,7 +1341,7 @@ document.addEventListener('click', e => {
     // a second tap right after the first would answer the next pair without seeing it
     if (Date.now() - (sheetCtx.at || 0) < 350) return;
     const [a, b] = sheetCtx.pair;
-    store.set(s => { (s.affPicks || (s.affPicks = [])).push({ a, b, win: q === 'skip' ? null : q, t: Date.now() }); });
+    store.set(s => { (s.affPicks || (s.affPicks = [])).push({ a, b, win: q, t: Date.now() }); });
     ui.qinfo = false; quizSheet(); return;
   }
   if (t.dataset.pquiz) {
@@ -1376,7 +1388,8 @@ document.addEventListener('click', e => {
     const name = id => TRAITS[id]?.name || id;
     const pname = id => PLAYERS[id]?.n || id, players = t.dataset.which === 'players';
     const nm = players ? pname : name, src = players ? store.get().playerPicks : affPicks();
-    const rows = (src || []).map(p => ({ a: nm(p.a), b: nm(p.b), pick: p.win ? nm(p.win) : "can't say", ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
+    const said = w => (!w ? "can't say" : w === '=' ? 'no strong opinion' : w === '??' ? "don't know either" : w[0] === '?' ? `don't know ${nm(w.slice(1))}` : nm(w));
+    const rows = (src || []).map(p => ({ a: nm(p.a), b: nm(p.b), pick: said(p.win), ida: p.a, idb: p.b, t: new Date(p.t).toISOString() }));
     const txt = JSON.stringify(rows);
     (navigator.clipboard?.writeText(txt) || Promise.reject()).then(() => { t.textContent = `Copied ${rows.length} picks`; })
       .catch(() => openSheet(`<div class="head"><b>Your picks</b><div class="small muted">Select all and copy.</div></div><textarea style="width:calc(100% - 36px);margin:0 18px;height:50vh;background:var(--card2);color:var(--fg);border:0;border-radius:10px;padding:10px;font:12px ui-monospace,monospace">${esc(txt)}</textarea>`));
@@ -1387,6 +1400,7 @@ document.addEventListener('click', e => {
   if (t.dataset.act === 'signout') { signOut(); closeSheet(); return; }
   if (t.dataset.act === 'aff-reset' && confirm(`Start Affinity over? Your ${affPicks().length} club picks stop counting and the comparisons start fresh. They stay stored, so you can bring them back here.`)) { store.set(s => { s.settings = { ...(s.settings || {}), affSince: Date.now() }; }); settingsSheet(true); render(); return; }
   if (t.dataset.act === 'aff-undo') { store.set(s => { s.settings = { ...(s.settings || {}), affSince: 0, affFloor: 0 }; }); settingsSheet(true); render(); return; }
+  if (t.dataset.act === 'aff-known') { const id = t.dataset.id; store.set(s => { s.settings = { ...(s.settings || {}), affKnown: { ...(s.settings?.affKnown || {}), [id]: Date.now() } }; }); return; }
   if (t.dataset.act === 'clear-entries' && confirm('Clear every score you entered?')) { store.set(s => { s.entries = {}; }); closeSheet(); render(); }
 });
 $('#scrim').addEventListener('click', closeSheet);

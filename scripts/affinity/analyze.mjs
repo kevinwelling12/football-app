@@ -8,8 +8,10 @@ const raw = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
 const FAVS = ['364', '124', '17828', '9723', '15362'];
 const LEAGUE = {};
 for (const k of ['epl', 'bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'ucl', 'uel', 'uecl']) for (const t of JSON.parse(fs.readFileSync(`web/data/${k}.json`, 'utf8')).teams) LEAGUE[t.id] ??= k;
-const answered0 = raw.filter(p => p.pick !== "can't say" && traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: p.pick === traits[p.ida].name ? p.ida : p.idb, t: p.t }));
-const skipped = raw.filter(p => p.pick === "can't say");
+// "pick" is a club's name, "no strong opinion", "don't know <club>", "don't know either" or "can't say" (older picks)
+const winOf = p => (p.pick === traits[p.ida]?.name ? p.ida : p.pick === traits[p.idb]?.name ? p.idb : p.pick === 'no strong opinion' ? '=' : null);
+const answered0 = raw.filter(p => traits[p.ida] && traits[p.idb] && (winOf(p) === p.ida || winOf(p) === p.idb)).map(p => ({ a: p.ida, b: p.idb, win: winOf(p), t: p.t }));
+const skipped = raw.filter(p => p.pick === "can't say" || p.pick.startsWith("don't know"));
 const out = [];
 const say = (...x) => out.push(x.join(' '));
 const pct = x => `${Math.round(x * 100)}%`;
@@ -20,11 +22,11 @@ say(`# Affinity picks: ${raw.length} total, ${answered.length} answered, ${skipp
 // 1. how well the model predicts picks it hasn't seen (10-fold), and what it learned
 const RV = JSON.parse(fs.readFileSync('data/affinity/rivals.json', 'utf8'));
 const ctx = { league: LEAGUE, rivals: new Set(Object.entries(RV).filter(([k]) => k !== '_note').flatMap(([, v]) => Object.keys(v.rivals))) };
-const all = raw.filter(p => traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: p.pick === "can't say" ? null : p.pick === traits[p.ida].name ? p.ida : p.idb }));
+const all = raw.filter(p => traits[p.ida] && traits[p.idb]).map(p => ({ a: p.ida, b: p.idb, win: winOf(p) }));
 let ok = 0, tot = 0;
 for (let k = 0; k < 10; k++) {
-  const m = AF.fit(traits, ctx, all.filter((p, i) => !p.win || i % 10 !== k));
-  for (const p of all.filter((p, i) => p.win && i % 10 === k)) { tot++; if (m.predict(p.win, p.win === p.a ? p.b : p.a) > 0.5) ok++; }
+  const m = AF.fit(traits, ctx, all.filter((p, i) => !(p.win === p.a || p.win === p.b) || i % 10 !== k));
+  for (const p of all.filter((p, i) => (p.win === p.a || p.win === p.b) && i % 10 === k)) { tot++; if (m.predict(p.win, p.win === p.a ? p.b : p.a) > 0.5) ok++; }
 }
 const model = AF.fit(traits, ctx, all);
 say(`## How well it predicts your picks`);
