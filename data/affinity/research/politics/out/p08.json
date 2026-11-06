@@ -1,0 +1,314 @@
+[
+ {
+  "espn_id": "365",
+  "name": "Blackburn Rovers",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; supporter activity is Venky's Out ownership protests (2010s-2026), not political"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C."
+  ]
+ },
+ {
+  "espn_id": "358",
+  "name": "Bolton Wanderers",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; supporters' association (1992) and 2021 crowd trouble v Wigan, neither political"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolton_Wanderers_F.C."
+  ]
+ },
+ {
+  "espn_id": "333",
+  "name": "Bristol City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Wedlock Stand ultras' flags not described as political"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bristol_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "379",
+  "name": "Burnley",
+  "league": "eng2",
+  "lean": 4.5,
+  "why": {
+   "lean": "'White Lives Matter Burnley' plane banner over the Etihad (June 2020) after players knelt, condemned by the club with promised lifetime bans; otherwise no organised political culture, so only a small lean"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burnley_F.C."
+  ]
+ },
+ {
+  "espn_id": "347",
+  "name": "Cardiff City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "Welsh national identity central to support ('Men of Harlech', a 1926 general-strike miners' song) but not placed on the left-right axis; fan protests (2012-15) were over the rebrand; no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cardiff_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "372",
+  "name": "Charlton Athletic",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "Valley Party (1990, 11% in Greenwich council election) was a single-issue campaign to return to The Valley; inclusion work alone not counted; no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlton_Athletic_F.C."
+  ]
+ },
+ {
+  "espn_id": "374",
+  "name": "Derby County",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derby_County_F.C."
+  ]
+ },
+ {
+  "espn_id": "314",
+  "name": "Lincoln City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 2025 FA chanting fines are sanctions coded elsewhere, not an organised political culture"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "369",
+  "name": "Middlesbrough",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "club backed the 2009 'Save Our Steel' Teesside jobs campaign, a local industry cause rather than a political identity; no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Middlesbrough_F.C."
+  ]
+ },
+ {
+  "espn_id": "391",
+  "name": "Millwall",
+  "league": "eng2",
+  "lean": 3.5,
+  "why": {
+   "lean": "section of the crowd booed players taking the knee (Dec 2020, condemned by the club, FA, Kick It Out); long hooligan reputation; estimate, with no organised far-right group documented on Wikipedia"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Millwall_F.C."
+  ]
+ },
+ {
+  "espn_id": "381",
+  "name": "Norwich City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; owners' and celebrity fans' personal politics don't count"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Norwich_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "385",
+  "name": "Portsmouth",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; naval and military traditions (Montgomery, red socks memorial) are not a political position"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portsmouth_F.C."
+  ]
+ },
+ {
+  "espn_id": "394",
+  "name": "Preston North End",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_North_End_F.C."
+  ]
+ },
+ {
+  "espn_id": "334",
+  "name": "Queens Park Rangers",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
+  ]
+ },
+ {
+  "espn_id": "398",
+  "name": "Sheffield United",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 1980s miners' strike flavour to the Forest rivalry is uncited"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheffield_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "376",
+  "name": "Southampton",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southampton_F.C."
+  ]
+ },
+ {
+  "espn_id": "336",
+  "name": "Stoke City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Naughty Forty firm (1970s-2000s) has no stated politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stoke_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "318",
+  "name": "Swansea City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Supporters' Trust (2001) is a governance role, not a political identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "395",
+  "name": "Watford",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Watford_F.C."
+  ]
+ },
+ {
+  "espn_id": "383",
+  "name": "West Bromwich Albion",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Punjabi and LGBT supporter groups and 1970s Black players' legacy are inclusion, not a political identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C."
+  ]
+ },
+ {
+  "espn_id": "371",
+  "name": "West Ham United",
+  "league": "eng2",
+  "lean": 3.5,
+  "why": {
+   "lean": "National Front leafleting and NF-branded merchandise at Upton Park (1977); YouGov found fans lean right (2014); a supporters'-board member and a youth coach linked to the DFLA (2018); anti-racist campaigns too, so a mixed but right-leaning picture"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Ham_United_F.C._supporters"
+  ]
+ },
+ {
+  "espn_id": "380",
+  "name": "Wolverhampton Wanderers",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; estimate, fan-culture section not fully read"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C."
+  ]
+ },
+ {
+  "espn_id": "352",
+  "name": "Wrexham",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "Welsh roots on the badge, Gresford disaster remembrance and UN Football for the Goals (2025) are identity and civic work, not a left-right position; no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wrexham_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "227",
+  "name": "América",
+  "league": "mex",
+  "lean": 4,
+  "why": {
+   "lean": "seen across Mexico as the establishment, wealthy club through Televisa ownership (since 1959), cast against 'working-class' Cruz Azul and 'intellectual' UNAM; no partisan positions or barra politics documented; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Am%C3%A9rica"
+  ]
+ }
+]
