@@ -1583,7 +1583,8 @@
    "intensity": "Red Bull pressing",
    "comeback": "Founded by Red Bull in 2009 and rose steadily; no serious adversity",
    "punch": "Red Bull money and one of the top Bundesliga budgets; DFB-Pokal 2022 and 2023 and a 2020 Champions League semi-final, about what that money buys, with large sale profits",
-   "feeder": "Red Bull GmbH club, named for the brand"
+   "feeder": "Red Bull GmbH club, named for the brand",
+   "manufactured": "bought SSV Markranstädt's league place in 2009 to start a Red Bull club"
   },
   "state": false,
   "comeback": 0,
@@ -1595,7 +1596,8 @@
    ],
    "researched": "story-2026-11"
   },
-  "feeder": true
+  "feeder": true,
+  "manufactured": true
  },
  "83": {
   "name": "Barcelona",
@@ -3230,7 +3232,8 @@
    "women": "Shares owner with Houston Dash (NWSL)",
    "intensity": "Average intensity",
    "comeback": "Last in the West 2020-22 with fans calling for new owners; Segal bought it 2021, Open Cup and West final 2023.",
-   "punch": "27th of 30 payroll (2025); 2023 Open Cup and West final, missed playoffs 2025."
+   "punch": "27th of 30 payroll (2025); 2023 Open Cup and West final, missed playoffs 2025.",
+   "manufactured": "moved from San Jose in 2006: the Earthquakes' players and staff became Houston"
   },
   "state": false,
   "comeback": 3,
@@ -3242,7 +3245,8 @@
     "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "manufactured": true
  },
  "7318": {
   "name": "Toronto FC",
@@ -3617,7 +3621,8 @@
    "intensity": "CFG positional play with press",
    "comeback": "No home of its own since 2015, matches spread across baseball and out-of-state grounds; MLS Cup 2021; own stadium due 2027 (owner-funded, not a fan fight).",
    "punch": "Low payroll (24th, 2025) yet MLS Cup 2021, conference finals 2022 and 2025; CFG backing and $20m+ transfer spend 2024 temper it.",
-   "feeder": "City Football Group satellite (Man City's group)"
+   "feeder": "City Football Group satellite (Man City's group)",
+   "manufactured": "MLS's second New York club (2015), added to a market Red Bull New York already had"
   },
   "state": true,
   "comeback": 3,
@@ -3630,7 +3635,8 @@
    ],
    "researched": "story-2026-11"
   },
-  "feeder": true
+  "feeder": true,
+  "manufactured": true
  },
  "18267": {
   "name": "FC Cincinnati",
@@ -3745,7 +3751,8 @@
    "women": "No women's team (minority stake in Angel City)",
    "intensity": "Cherundolo-era intensity; coach vacant since Sept 2026",
    "comeback": "Founded 2018; only a missed-playoff 2021 before titles in 2022.",
-   "punch": "Top-six payroll and big signings (Son, $26.5m 2025); Shields 2019/2022, MLS Cup 2022, Open Cup 2024, finals 2023: strong results for strong money."
+   "punch": "Top-six payroll and big signings (Son, $26.5m 2025); Shields 2019/2022, MLS Cup 2022, Open Cup 2024, finals 2023: strong results for strong money.",
+   "manufactured": "MLS's second LA club (2018), added to a market the Galaxy already had"
   },
   "state": false,
   "comeback": 1,
@@ -3757,7 +3764,8 @@
     "https://www.hudsonriverblue.com/points-per-million-ranking-every-mls-club-by-table-position-vs-payroll/"
    ],
    "researched": "story-2026-11"
-  }
+  },
+  "manufactured": true
  },
  "18986": {
   "name": "Nashville SC",

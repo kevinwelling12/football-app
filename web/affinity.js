@@ -15,7 +15,9 @@ export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'vo
 // feeder (2026-11-07, Kevin: "the ownership situations in NY are the bigger drag"): a club named for its corporate
 // owner or run as a secondary club in a multi-club group (Red Bull, City Football Group's satellites, BlueCo's
 // Strasbourg); set by hand in traits.json
-export const FLAGS = ['stateOwner', 'incidents', 'rival', 'feeder'];
+// manufactured (2026-11-07, Kevin): took another city's club (Houston: "stealing a team"), or a franchise added to a
+// city that already had one ("an unnecessary second club"); set by hand in traits.json
+export const FLAGS = ['stateOwner', 'incidents', 'rival', 'feeder', 'manufactured'];
 // love: a club in a city Kevin loves (ctx.love, a Set of ids; app.js LOVE_CITIES). Not researched, so not in TRAITS.
 export const PERSONAL = ['love'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
@@ -27,7 +29,7 @@ export const FEATURES = [...TRAITS, ...PERSONAL, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
   geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', comeback: 'Comeback story', punch: 'Punches above its weight', intensity: 'High-energy football',
-  stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club', feeder: 'Feeder or brand club', love: 'A city you love',
+  stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club', feeder: 'Feeder or brand club', manufactured: 'Moved or manufactured franchise', love: 'A city you love',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
   lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
   lg_uel: 'Other Europa League', lg_uecl: 'Other Conference League' };
@@ -35,7 +37,7 @@ export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo
 export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
   conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
   geography: 'far away', contender: 'rarely contends', comeback: 'no comeback story', punch: 'does what its money says', intensity: 'a cautious style',
-  stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival', feeder: 'a feeder or brand club', love: 'a city you love' };
+  stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival', feeder: 'a feeder or brand club', manufactured: 'a moved or manufactured franchise', love: 'a city you love' };
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
   geography: 0.3, contender: 0, intensity: 0.3, stateOwner: -2, incidents: -1, rival: -1, lg_bl: 0, lg_ucl: 0, lg_mls: 0, lg_nwsl: 0, lg_usl: 0,
@@ -73,6 +75,7 @@ export function features(id, c, ctx) {
     (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
     ctx.rivals.has(id) ? 1 : 0,
     c.feeder ? 1 : 0,
+    c.manufactured ? 1 : 0,
     ...FAMILIAR.map(f => (lg === f.slice(3) ? 1 : 0)),
     ctx.standing?.[id] ?? 0.5];
 }
