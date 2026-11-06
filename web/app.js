@@ -188,7 +188,7 @@ async function pollLive() {
 // The picks Affinity learns from: those since "Start over" (settings.affSince; earlier ones stay stored, so it can be
 // undone and sync, which only ever adds, can't bring them back), the newest per pair of clubs.
 // Kevin, 2026-11-06: "clear everything": picks before AFF_CLEAR don't count unless he brings them back (affFloor 0).
-const AFF_CLEAR = 1793985177000;
+const AFF_CLEAR = 1793985424000;
 const affSince = () => { const st = store.get().settings || {}; return Math.max(st.affSince || 0, st.affFloor ?? AFF_CLEAR); };
 function affPicks() {
   const since = affSince(), m = new Map();
