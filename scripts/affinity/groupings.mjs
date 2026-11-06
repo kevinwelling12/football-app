@@ -31,6 +31,7 @@ const base = id => {
     terrace: v('terrace'), rituals: v('rituals'), city: v('city'), ground: v('ground'), conscience: v('conscience'), voice: v('voice'),
     stewardship: v('stewardship'), women: v('women'), geography: v('geography'), contender: v('contender'), intensity: v('intensity'),
     comeback: v('comeback'), punch: v('punch'), lean: v('lean'),
+    ...Object.fromEntries(['progressive', 'outdoors', 'indie', 'industrial', 'glitz', 'size', 'climate'].map(k => ['c_' + k, (c.cityp?.[k] ?? 5) / 10])),
     love: c.ll && LOVE.some(ll => km(ll, c.ll) < 60) ? 1 : 0,
     state: c.state ? 1 : 0, incidents: (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
     rival: 0, /* no rivalry factor since 2026-11-07 */ feeder: c.feeder ? 1 : 0, manufactured: c.manufactured ? 1 : 0,
@@ -87,6 +88,21 @@ const VARIANTS = {
     feats: { atmosphere: b => mean(b.terrace, b.ground), fanpower: b => mean(b.voice, b.stewardship, b.city),
       story: b => mean(b.comeback, b.punch), style: b => b.intensity, contender: b => b.contender, love: b => b.love,
       ownership: b => Math.max(b.state, b.feeder, b.manufactured), incidents: b => b.incidents, rival: b => b.rival },
+  },
+  'E+city: E plus the city profile': {
+    feats: { atmosphere: b => mean(b.terrace, b.ground), city: b => b.city, fanpower: b => mean(b.voice, b.stewardship),
+      story: b => mean(b.comeback, b.punch), style: b => b.intensity, contender: b => b.contender,
+      state: b => b.state, incidents: b => b.incidents, franchise: b => Math.max(b.feeder, b.manufactured),
+      c_progressive: b => b.c_progressive, c_outdoors: b => b.c_outdoors, c_indie: b => b.c_indie, c_industrial: b => b.c_industrial,
+      c_glitz: b => b.c_glitz, c_size: b => b.c_size, c_climate: b => b.c_climate },
+  },
+  'current+city: current plus the city profile': {
+    feats: { terrace: b => b.terrace, rituals: b => b.rituals, city: b => b.city, ground: b => b.ground, conscience: b => b.conscience, voice: b => b.voice,
+      stewardship: b => b.stewardship, women: b => b.women, geography: b => b.geography, contender: b => b.contender, intensity: b => b.intensity,
+      comeback: b => b.comeback, punch: b => b.punch, lean: b => b.lean,
+      state: b => b.state, incidents: b => b.incidents, feeder: b => b.feeder, manufactured: b => b.manufactured,
+      c_progressive: b => b.c_progressive, c_outdoors: b => b.c_outdoors, c_indie: b => b.c_indie, c_industrial: b => b.c_industrial,
+      c_glitz: b => b.c_glitz, c_size: b => b.c_size, c_climate: b => b.c_climate },
   },
 };
 

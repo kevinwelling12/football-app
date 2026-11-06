@@ -944,7 +944,7 @@ function viewClubs() {
     <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
-  const fs = [...AF.TRAITS, ...AF.PERSONAL, ...AF.FLAGS].filter(f => f !== 'fame' && !(f === 'contender' && beta[f] >= 0)); // an underdog lean counts, a pull toward winners doesn't
+  const fs = [...AF.TRAITS, ...AF.CITYF, ...AF.PERSONAL, ...AF.FLAGS].filter(f => f !== 'fame' && !(f === 'contender' && beta[f] >= 0)); // an underdog lean counts, a pull toward winners doesn't
   const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
   const mx = Math.max(1e-9, ...fs.map(f => Math.abs(beta[f])));
   const fam = AF.FAMILIAR.filter(f => beta[f] < -0.2).sort((x, y) => beta[x] - beta[y]).map(f => AF.LABEL[f]);
