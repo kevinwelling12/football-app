@@ -937,15 +937,15 @@ function viewClubs() {
     <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
   // affinity
   const AFn = affinity(), beta = AFn.model.beta;
-  const fs = [...AF.TRAITS, ...AF.FLAGS].filter(f => f !== 'rival');
+  const fs = [...AF.TRAITS, ...AF.FLAGS].filter(f => f !== 'rival' && !AF.GLORY.includes(f));
   const pull = fs.filter(f => beta[f] > 0.1).sort((x, y) => beta[y] - beta[x]), push = fs.filter(f => beta[f] < -0.1).sort((x, y) => beta[x] - beta[y]);
-  const mx = Math.max(...[...AF.TRAITS, ...AF.FLAGS].map(f => Math.abs(beta[f])));
+  const mx = Math.max(1e-9, ...fs.map(f => Math.abs(beta[f])));
   const fam = AF.FAMILIAR.filter(f => beta[f] < -0.2).sort((x, y) => beta[x] - beta[y]).map(f => AF.LABEL[f]);
   const bar = f => `<div style="display:grid;grid-template-columns:1fr 90px;align-items:center;gap:10px;margin:5px 0"><span class="small">${AF.LABEL[f]}</span><span style="height:6px;border-radius:3px;background:var(--card2)"><i style="display:block;height:100%;width:${Math.round(Math.abs(beta[f]) / mx * 100)}%;border-radius:3px;background:${beta[f] > 0 ? 'var(--good)' : 'var(--bad)'}"></i></span></div>`;
   html += `<div class="section"><h2>Affinity</h2><span class="aside">${AFn.n ? `learned from ${AFn.n} of your picks` : 'no picks yet'}</span></div>
     <div class="card"><div class="pad"><div class="small muted" style="margin-bottom:6px">Pulls you toward a club</div>${pull.map(bar).join('')}
       <div class="small muted" style="margin:12px 0 6px">Pushes you away</div>${push.map(bar).join('')}
-      ${fam.length ? `<p class="tiny faint" style="margin:12px 0 0">Kept out of Affinity: you pick clubs you know more often (Premier League most; ${esc(fam.join(', '))} less). That's familiarity, not liking, so it doesn't count.</p>` : ''}</div>
+      <p class="tiny faint" style="margin:12px 0 0">Kept out of Affinity: big clubs and winning (${['fame', 'contender'].map(f => `${AF.LABEL[f].toLowerCase()} ${fmtSigned(beta[f])}`).join(', ')} in your picks) and how well you know a league${fam.length ? ` (Premier League most; ${esc(fam.join(', '))} less)` : ''}. They're fitted so they can't leak into the traits, but fame and glory don't count as liking a club.</p></div>
       <div class="btns" style="padding:0 16px 14px"><button class="btn primary" data-act="quiz">${AFn.n ? 'Answer more' : 'Tune it to you'} · which would you rather support?</button></div></div>`;
   const aff = [], seen3 = new Set(), mine = [];
   for (const k of HOME_ORDER) D[k]?.teams.forEach((t, i) => {
@@ -1207,7 +1207,7 @@ function clubBody(k, i, page = false) {
   if (TRAITS[t.id]) {
     const tr = AF.withGeo(TRAITS[t.id]), r = reasonsOf(t.id), A = affinity(), adj = A.model.u[t.id] || 0;
     html += `<div class="block"><h4>Affinity: why</h4>${r.good.length || r.bad.length ? `<p class="note" style="margin:0 18px 8px">${r.good.length ? `Strong on ${r.good.map(lc).join(', ')}` : ''}${r.bad.length ? `${r.good.length ? '; against it: ' : 'Against it: '}${r.bad.map(f => shortText(t.id, f)).join(', ')}` : ''}.${Math.abs(adj) > 0.15 ? ` Your picks rate it ${adj > 0 ? 'higher' : 'lower'} than its traits alone.` : ''}</p>` : ''}
-      <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${A.model.beta[k] > 0.15 ? 'counts' : A.model.beta[k] < -0.15 ? 'against' : 'little'}</div>`).join('')}</div></div>`;
+      <div class="kv3">${AF.TRAITS.map(k => `<div>${AF.LABEL[k]}${tr.why?.[k] ? `<div class="tiny faint" style="margin-top:2px;white-space:normal">${esc(tr.why[k])}</div>` : ''}</div><div>${(tr[k] ?? 0).toFixed(k === 'geography' ? 1 : 0)}</div><div class="muted small">${AF.GLORY.includes(k) ? 'not counted' : A.model.beta[k] > 0.15 ? 'counts' : A.model.beta[k] < -0.15 ? 'against' : 'little'}</div>`).join('')}</div></div>`;
   }
   if (Object.keys(PLAYERS).length) {
     const P = playerAffinity(), ps = Object.entries(PLAYERS).filter(([, p]) => p.clubs.some(c => c[1] === t.id)).map(([id, p]) => [id, p, P.model.affinity(id)]).sort((a, b) => b[2] - a[2]);

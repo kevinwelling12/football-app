@@ -13,10 +13,14 @@
 export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity'];
 export const FLAGS = ['stateOwner', 'incidents', 'rival'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
-export const FEATURES = [...TRAITS, ...FLAGS, ...FAMILIAR];
+// Glory and fame (Kevin, 2026-11-06: "not just popular clubs", no glory hunting): winning (the contender trait) and
+// being a big club (its Elo standing in its league) are fitted like league familiarity, so picks of famous, winning
+// clubs are explained by fame and success, and neither counts toward Affinity.
+export const GLORY = ['contender', 'fame'];
+export const FEATURES = [...TRAITS, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
-  geography: 'Near Sacramento', contender: 'Contender', intensity: 'High-energy football',
+  geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', intensity: 'High-energy football',
   stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
   lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
@@ -29,7 +33,7 @@ export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals',
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
   geography: 0.3, contender: 0, intensity: 0.3, stateOwner: -2, incidents: -1, rival: -1, lg_bl: 0, lg_ucl: 0, lg_mls: 0, lg_nwsl: 0, lg_usl: 0,
-  lg_esp: 0, lg_ita: 0, lg_fra: 0, lg_eng2: 0, lg_mex: 0, lg_uel: 0, lg_uecl: 0 };
+  lg_esp: 0, lg_ita: 0, lg_fra: 0, lg_eng2: 0, lg_mex: 0, lg_uel: 0, lg_uecl: 0, fame: 0 };
 // State ownership: an explicit flag in traits.json (majority owner is a state or sovereign fund). Word-matching the owner note
 // caught sponsors (Atlético's Saudi airline), state grants (Sabah) and negations ("not state").
 const isState = c => (c.state != null ? !!c.state : /\bstate\b|PIF|Qatar|Abu Dhabi|Saudi|sovereign/i.test(c.why?.stewardship || ''));
@@ -61,11 +65,12 @@ export function features(id, c, ctx) {
     isState(c) ? 1 : 0,
     (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
     ctx.rivals.has(id) ? 1 : 0,
-    ...FAMILIAR.map(f => (lg === f.slice(3) ? 1 : 0))];
+    ...FAMILIAR.map(f => (lg === f.slice(3) ? 1 : 0)),
+    ctx.standing?.[id] ?? 0.5];
 }
 
 const sig = z => 1 / (1 + Math.exp(-z));
-const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLAGS.includes(f)), FAM = FEATURES.map(f => FAMILIAR.includes(f));
+const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLAGS.includes(f)), FAM = FEATURES.map(f => FAMILIAR.includes(f) || GLORY.includes(f));
 
 // Shared engine (clubs and players): regularised logistic regression on "which would you rather" picks.
 // X: {id: feature vector}; spec: {names, pull, push, fam (bool arrays), flags (names never shown as a plus), prior (array)}.
@@ -153,7 +158,7 @@ export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const pool = ids.filter(id => !favs.has(id) && (skips[id] || 0) < 2);
   // big clubs first: the top of a league by Elo counts fully, the bottom a fifth (UCL visitors from smaller leagues
   // sit low in the Champions League file)
-  const weight = id => (rate(ctx.league[id]) * (0.2 + 0.8 * (ctx.standing?.[id] ?? 0.5))) ** 3 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 15);
+  const weight = id => (rate(ctx.league[id]) * (0.5 + 0.5 * (ctx.standing?.[id] ?? 0.5))) ** 3 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 15);
   // Mostly within a league (Kevin, 2026-10-13: a USL club against a Bundesliga club is hard to call). Same-league picks
   // teach the trait weights without league differences in the way, and the weights then apply across leagues.
   const byLeague = {};
