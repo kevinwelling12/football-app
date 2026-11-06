@@ -1,0 +1,317 @@
+[
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Boys Parma (1977) have no documented politics on Wikipedia; twinned with Empoli and Sampdoria"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Parma_Calcio_1913"
+  ]
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; small company-run club with no notable organised end"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/US_Sassuolo_Calcio"
+  ]
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita",
+  "lean": 6,
+  "why": {
+   "lean": "Some fan groups openly showed left-wing sympathies in the early ultra years (1970s), with political banners and fights with fascist groups; working-class, anti-Juventus identity; no clear current stance from the Curva Maratona; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torino_FC"
+  ]
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; the main thread is Friulian regional identity (fans want the Friulian eagle on the shirt, protests over the regional emblem in 2008), which is not clearly placed left or right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Udinese_Calcio"
+  ]
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita",
+  "lean": 5,
+  "why": {
+   "lean": "Mixed: Ultras Unione led an anti-racism action in the Curva Sud (2000), but a xenophobic banner was seized from Vecchi Ultras members linked to Veneto Fronte Skinheads (2013); no current dominant identity; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Venezia_FC"
+  ]
+ },
+ {
+  "espn_id": "172",
+  "name": "AJ Auxerre",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AJ_Auxerre"
+  ]
+ },
+ {
+  "espn_id": "174",
+  "name": "AS Monaco",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; small ultras group, thin local support"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AS_Monaco_FC"
+  ]
+ },
+ {
+  "espn_id": "7868",
+  "name": "Angers",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Angers_SCO"
+  ]
+ },
+ {
+  "espn_id": "6997",
+  "name": "Brest",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Breton identity (Breton motto, 1983 'Armorique' name) without a documented left-right position"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Brestois_29"
+  ]
+ },
+ {
+  "espn_id": "3236",
+  "name": "Le Havre AC",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Barbarians Havrais (1993) have no documented politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Havre_AC"
+  ]
+ },
+ {
+  "espn_id": "2697",
+  "name": "Le Mans",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Mans_FC"
+  ]
+ },
+ {
+  "espn_id": "175",
+  "name": "Lens",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; strong mining and working-class community identity (red for 'the blood of the miners', 1924) but no documented political stance by the supporter groups"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Lens"
+  ]
+ },
+ {
+  "espn_id": "166",
+  "name": "Lille",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Dogues Virage Est have no documented politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lille_OSC"
+  ]
+ },
+ {
+  "espn_id": "273",
+  "name": "Lorient",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Breton identity; the 2024 Merlus Ultras convictions were for violence, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Lorient"
+  ]
+ },
+ {
+  "espn_id": "167",
+  "name": "Lyon",
+  "league": "fra",
+  "lean": 2,
+  "why": {
+   "lean": "Well-documented far-right strand in the Virage Nord: Bad Gones' early Celtic-cross imagery (1987), Cosa Nostra Lyon dissolved (2010), Mezza Lyon neo-Nazi graffiti (2011), UEFA charge over Nazi symbols and salutes (2018), Nazi gestures at the Marseille match (2023)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_Lyonnais"
+  ]
+ },
+ {
+  "espn_id": "176",
+  "name": "Marseille",
+  "league": "fra",
+  "lean": 8,
+  "why": {
+   "lean": "Commando Ultra 84 and South Winners are openly left-wing, anti-racist and anti-fascist ('Marseille contre le racisme' banner, Che Guevara imagery, orange colour from a 1989 anti-PSG-skinhead trip); a large fan base of North African origin"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympique_de_Marseille",
+   "https://www.ilpost.it/2021/08/24/nizza-marsiglia-ultras/"
+  ]
+ },
+ {
+  "espn_id": "2502",
+  "name": "Nice",
+  "league": "fra",
+  "lean": 2,
+  "why": {
+   "lean": "Ultras Populaire Sud (2013, successor to Brigade Sud Nice, dissolved 2010) are described as right-wing, with leaders linked to Génération Identitaire; they joined Inter's far-right curva in clashes (2014, 2015, 2018); racist banners vs Marseille (2025)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OGC_Nice",
+   "https://www.ilpost.it/2021/08/24/nizza-marsiglia-ultras/"
+  ]
+ },
+ {
+  "espn_id": "6851",
+  "name": "Paris FC",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Ultras Lutetia (2014) have no documented politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_FC"
+  ]
+ },
+ {
+  "espn_id": "160",
+  "name": "Paris Saint-Germain",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "Mixed: Kop of Boulogne had far-right groups (Pitbull Kop, Headhunters 1989-92; Milice Paris, GUD links mid-2000s), Virage Auteuil a multiracial, anti-racist identity (1991 on); after Plan Leproux (2010) the club let back only the multiethnic Collectif Ultras Paris (2016), which now holds both ends (2025-26)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C.",
+   "https://en.wikipedia.org/wiki/Paris_Saint-Germain_FC_supporters"
+  ]
+ },
+ {
+  "espn_id": "169",
+  "name": "Stade Rennais",
+  "league": "fra",
+  "lean": 7,
+  "why": {
+   "lean": "Roazhon Celtic Kop (1991) regularly shows anti-fascism, belongs to the RSRA anti-racist network and Fare, and opposes 'football business'; Breton identity (Gwenn-ha-du, 1994-95), which in France is not clearly left or right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stade_Rennais_F.C."
+  ]
+ },
+ {
+  "espn_id": "180",
+  "name": "Strasbourg",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Alsatian, working-class roots (1906, 1930s) and protests against owners (1980, BlueCo 2026), but no documented left-right stance"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace"
+  ]
+ },
+ {
+  "espn_id": "179",
+  "name": "Toulouse",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Indians Tolosa have no documented politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toulouse_FC"
+  ]
+ },
+ {
+  "espn_id": "170",
+  "name": "Troyes",
+  "league": "fra",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/ES_Troyes_AC"
+  ]
+ },
+ {
+  "espn_id": "392",
+  "name": "Birmingham City",
+  "league": "eng2",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; the Zulu Warriors firm was unusual for its multiracial membership when many firms had right-wing links, which is not a political identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Birmingham_City_F.C."
+  ]
+ }
+]
