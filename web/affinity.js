@@ -158,22 +158,29 @@ export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   const pool = ids.filter(id => !favs.has(id) && (skips[id] || 0) < 2);
   // big clubs first: the top of a league by Elo counts fully, the bottom a fifth (UCL visitors from smaller leagues
   // sit low in the Champions League file)
-  const weight = id => (rate(ctx.league[id]) * (0.5 + 0.5 * (ctx.standing?.[id] ?? 0.5))) ** 3 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 15);
+  // Variety (Kevin, 2026-11-06: "lots of repeats"): a club from the last ten pairs is rested, and each time a club has
+  // been asked costs it a quarter of its weight, so the quiz moves through the clubs instead of circling the big ones.
+  const recent = new Set(picks.slice().sort((x, y) => (y.t || 0) - (x.t || 0)).slice(0, 10).flatMap(p => [p.a, p.b]));
+  const weight = id => (rate(ctx.league[id]) * (0.5 + 0.5 * (ctx.standing?.[id] ?? 0.5))) ** 2 * (skips[id] ? 0.3 : 1) / (1 + (seen[id] || 0) / 4) * (recent.has(id) ? 0.02 : 1);
   // Mostly within a league (Kevin, 2026-10-13: a USL club against a Bundesliga club is hard to call). Same-league picks
   // teach the trait weights without league differences in the way, and the weights then apply across leagues.
   const byLeague = {};
   for (const id of pool) (byLeague[ctx.league[id]] ||= []).push(id);
   const same = rnd() < 0.85;
-  let best = null, bestS = -1;
+  // draw a pair in proportion to its score (always taking the best one asked about the same few clubs every time)
+  const cand = []; let tot = 0;
   for (let n = 0; n < 1500; n++) {
     const a = pool[(rnd() * pool.length) | 0], from = same ? byLeague[ctx.league[a]] || pool : pool;
     const b = from[(rnd() * from.length) | 0];
     if (!a || a === b || asked.has([a, b].sort().join('|'))) continue;
     const close = 1 - Math.abs(model.predict(a, b) - 0.5) * 2; // 1 = a coin flip for the model
-    const s = weight(a) * weight(b) * (0.4 + close) * (0.7 + 0.3 * rnd());
-    if (s > bestS) { bestS = s; best = [a, b]; }
+    const s = weight(a) * weight(b) * (0.4 + close);
+    cand.push([s, a, b]); tot += s;
   }
-  return best;
+  if (!cand.length) return null;
+  let x = rnd() * tot;
+  for (const [s, a, b] of cand) { x -= s; if (x <= 0) return [a, b]; }
+  return cand.at(-1).slice(1);
 }
 
 // Three short facts for the quiz card, from the research notes.
