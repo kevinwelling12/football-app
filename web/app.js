@@ -209,8 +209,8 @@ function affinity() {
   const key = JSON.stringify([[...favs].sort(), affSince(), store.get().settings?.affKnown || {}, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
-  // the one rivalry kept (Kevin, 2026-11-07): the Sounders are the Timbers' rival, so Seattle's pull goes to the Reign
-  const rivals = new Set(favs.has('9723') ? ['9726'] : []);
+  // no rivalry factor (Kevin, 2026-11-07: "I don't like having a rivalry factor"); the Sounders' own adjustment carries it
+  const rivals = new Set();
   const love = loveIds();
   // each club's standing in its league by Elo (1 = top), for picking clubs Kevin is likely to know
   const standing = {};

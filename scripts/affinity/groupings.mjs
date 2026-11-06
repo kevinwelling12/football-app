@@ -33,7 +33,7 @@ const base = id => {
     comeback: v('comeback'), punch: v('punch'), lean: v('lean'),
     love: c.ll && LOVE.some(ll => km(ll, c.ll) < 60) ? 1 : 0,
     state: c.state ? 1 : 0, incidents: (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
-    rival: id === '9726' ? 1 : 0, feeder: c.feeder ? 1 : 0, manufactured: c.manufactured ? 1 : 0,
+    rival: 0, /* no rivalry factor since 2026-11-07 */ feeder: c.feeder ? 1 : 0, manufactured: c.manufactured ? 1 : 0,
   };
 };
 const B = Object.fromEntries(Object.keys(traits).filter(id => LEAGUE[id]).map(id => [id, base(id)]));
