@@ -21,9 +21,11 @@ export const CITY_PARTS = ['progressive', 'outdoors', 'indie', 'industrial', 'gl
 // once the rest were in, each fitted near zero. Plus two learned adjustments: one per club, one per city (cityGroups).
 // PARTS: what each group is the mean of (cityp.* = the club's city profile); flags are 0/1.
 export const PARTS = { atmosphere: ['terrace', 'ground'], fanpower: ['voice', 'stewardship'], story: ['comeback', 'punch'],
-  city: ['city'], intensity: ['intensity'], contender: ['contender'],
+  city: ['city'], contender: ['contender'],
   cityvibe: ['cityp.progressive', 'cityp.outdoors', 'cityp.indie', 'cityp.climate'], bigcity: ['cityp.glitz', 'cityp.size'] };
-export const MODEL = ['atmosphere', 'fanpower', 'story', 'city', 'intensity', 'contender', 'cityvibe', 'bigcity'];
+// High-energy football dropped 2026-11-07 (Kevin: playing style ebbs and flows with managers and players; the backtest
+// was as good or better without it, its pull having come mostly from Red Bull and state clubs the flags already cover)
+export const MODEL = ['atmosphere', 'fanpower', 'story', 'city', 'contender', 'cityvibe', 'bigcity'];
 // franchise (2026-11-07): feeder or brand club (c.feeder) or a moved or manufactured franchise (c.manufactured), set by hand
 export const FLAGS = ['stateOwner', 'incidents', 'franchise'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
