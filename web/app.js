@@ -202,7 +202,8 @@ function cityOf() { const n = Object.keys(TRAITS).length; if (!CITY || CITY_N !=
 // Kevin, 2026-11-06: Affinity stands on its own. His clubs are left out of it: picks that involve one don't count, they
 // aren't asked about, and being a rival of one of them no longer counts against a club.
 function affinity() {
-  const favs = favIds(), picks = affPicks().filter(p => !favs.has(p.a) && !favs.has(p.b));
+  // picks with his clubs count too (2026-11-07): with no per-club adjustment they only teach traits and cities
+  const favs = favIds(), picks = affPicks();
   const key = JSON.stringify([[...favs].sort(), affSince(), store.get().settings?.affKnown || {}, picks.length, picks.reduce((m, p) => Math.max(m, p.t || 0), 0), Object.keys(TRAITS).length, Object.keys(RIVALS).length]);
   if (AFF?.key === key) return AFF;
   const league = {}; for (const k of HOME_ORDER) for (const t of D[k]?.teams || []) league[t.id] ??= k;
@@ -965,7 +966,7 @@ function viewClubs() {
   // the top 30, and your clubs wherever they rank
   const shown = aff.map((r, n) => [r, n]).filter(([r, n]) => n < 30 || fav.has(r[2].id));
   html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${shown.map(([r, n], j) => (j && n !== shown[j - 1][1] + 1 ? '<tr><td colspan="3" class="faint tiny" style="text-align:center">…</td></tr>' : '') + row(r, n)).join('')}</table></div>
-    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: six groups of researched traits (atmosphere, fan power, story, the city's club, the city's vibe, a big glitzy city) and three red flags (state ownership, a racism or fan-culture record, a feeder, brand or moved franchise) start at zero, and your answers decide what each is worth and which way. Success and fame are measured and set aside. On top: a small adjustment per club and one per city, shared by every club there. With no picks every club is 50. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
+    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks alone: six groups of researched traits (atmosphere, fan power, story, the city's club, the city's vibe, a big glitzy city) and three red flags (state ownership, a racism or fan-culture record, a feeder, brand or moved franchise) start at zero, and your answers decide what each is worth and which way. Success and fame are measured and set aside. On top: an adjustment per city, learned from your picks and shared by every club there. There's no adjustment per club: every club is scored the same way, from its traits and its city, so a club's own record in your picks only teaches the model what you like. With no picks every club is 50. Your clubs are never asked about, but picks you made with them still count, and adding or removing a club changes nothing.</p>`;
   // clubs you said you don't know enough about yet: a reading list, newest first; they come back into the quiz once
   // you say you know them
   const todo = AF.unknownClubs(affPicks(), store.get().settings?.affKnown || {}).map(id => [id, clubTeam(id)]).filter(([id]) => TRAITS[id]);

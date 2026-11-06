@@ -21,7 +21,7 @@ const km = (a, b) => { const r = x => x * Math.PI / 180, h = Math.sin(r(b[0] - a
 const NOTHING = /nothing (notable|found)|estimate/i;
 const winOf = p => (p.pick === p.a ? p.ida : p.pick === p.b ? p.idb : p.pick === 'no strong opinion' ? '=' : null);
 const picks = raw.map(p => ({ a: p.ida, b: p.idb, win: winOf(p), t: p.t }))
-  .filter(p => traits[p.a] && traits[p.b] && LEAGUE[p.a] && LEAGUE[p.b] && !FAVS.has(p.a) && !FAVS.has(p.b))
+  .filter(p => traits[p.a] && traits[p.b] && LEAGUE[p.a] && LEAGUE[p.b] && !(process.env.NOFAVS && (FAVS.has(p.a) || FAVS.has(p.b))))
   .sort((x, y) => String(x.t).localeCompare(String(y.t)));
 
 // raw per-club values (0-1)
@@ -146,7 +146,7 @@ function score(m, test) {
   return [ll, ok, test.length];
 }
 function run(v) {
-  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2, group: CITY, items: !process.env.NOITEM });
+  const { X, spec } = build(v), fit = ps => AF.fitPairs(X, spec, ps, { lambdaItem: 2, group: CITY, items: !!process.env.ITEMS });
   const add = (acc, r) => r.map((x, i) => (acc[i] || 0) + x);
   let a = [], b = [];
   for (let k = 0; k < 10; k++) a = add(a, score(fit(picks.filter((p, i) => !decisive(p) || i % 10 !== k)), picks.filter((p, i) => decisive(p) && i % 10 === k)));

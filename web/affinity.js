@@ -171,7 +171,9 @@ export function unknownClubs(picks, known = {}) {
 // traits: {id: {...}}; picks: [{a, b, win}]. Returns the fitted model.
 export function fit(traits, ctx, picks, opts = {}) {
   const X = Object.fromEntries(Object.keys(traits).map(id => [id, features(id, traits[id], ctx)]));
-  return fitPairs(X, CLUB_SPEC, picks, { lambdaItem: opts.lambdaClub ?? 2, group: ctx.city || null, ...opts });
+  // no per-club adjustment (2026-11-07, Kevin: rely on the inferred traits): every club, his own included, is scored the
+  // same way, traits plus its city's learned adjustment, so starring a club changes nothing
+  return fitPairs(X, CLUB_SPEC, picks, { group: ctx.city || null, items: false, ...opts });
 }
 
 // Cities: clubs whose grounds are within 10 km of each other share a city key (union of near pairs), e.g. San Diego FC

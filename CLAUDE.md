@@ -53,8 +53,9 @@ end, ground), Fan power (voice, stewardship), Story (comeback, punch), The city'
 (set aside like fame since 2026-11-07: Kevin minds front-running picks, not contention), City vibe and Big, glitzy city (the club's city profile, traits cityp,
 research/cities, merge_cities.py), flags State ownership, Racism or fan-culture record, Franchise (feeder/brand or moved/
 manufactured, set by hand). Every weight starts at 0, either sign. Fitted but not counted: league familiarity and fame
-(Elo standing). Plus a per-club adjustment and a per-city one (clubs within 10 km, affinity.js cityGroups). His clubs
-are never asked about, picks with them don't count, they're scored on traits alone. No rivalry factor. Researched traits
+(Elo standing). Plus a per-city adjustment (clubs within 10 km, affinity.js cityGroups); no per-club adjustment since 2026-11-07
+(Kevin: rely on the inferred traits; fit items: false). His clubs are never asked about, but picks with them count, and
+every club is scored the same way, so starring a club changes nothing. No rivalry factor. Researched traits
 kept in traits.json (incl. rituals, women, inclusion, lean, geography) and shown under each group on the club breakdown.
 Quiz answers: a club, "No strong opinion" ('=', half a pick each way), "Don't know enough about" one or either ('?<id>',
 '??': Clubs > Explore > To look into, settings.affKnown); one league at a time (chips); the top-ten round robin waits for
