@@ -235,7 +235,7 @@ function whyLine(id) {
 
 // ------------------------------------------------------------------ Player Affinity (web/players.js)
 // Player picks before PCLEAR don't count (2026-11-07, Kevin: start fresh); Settings can bring them back (pFloor 0)
-const PCLEAR = 0;
+const PCLEAR = 1794007458000;
 const pSince = () => { const st = store.get().settings || {}; return Math.max(st.pSince || 0, st.pFloor ?? PCLEAR); };
 function pPicks() {
   const since = pSince(), m = new Map();
