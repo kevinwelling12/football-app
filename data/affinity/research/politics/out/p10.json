@@ -1,0 +1,314 @@
+[
+ {
+  "espn_id": "4411",
+  "name": "LASK Linz",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Wikipedia covers the 1997 FC Linz merger anger and the 2013 'Friends of LASK' takeover, nothing political. The 2023 Boateng signing protest concerned conduct, not a left-right stance."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/LASK"
+  ]
+ },
+ {
+  "espn_id": "148",
+  "name": "PSV Eindhoven",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; the fans' 'boeren' chant and the North Brabant flag are regional pride against Amsterdam, not a left-right position."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PSV_Eindhoven"
+  ]
+ },
+ {
+  "espn_id": "21922",
+  "name": "Sabah FK",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; club founded 2017, no organised support or club positions documented (estimate)."
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sabah_FK"
+  ]
+ },
+ {
+  "espn_id": "493",
+  "name": "Shakhtar Donetsk",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found as a club; exiled since 2014, players declined 'Glory to the Ukrainian Army' shirts (described as an anti-war gesture), some ex-figures backed the DPR; owner Akhmetov's politics are personal."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Shakhtar_Donetsk"
+  ]
+ },
+ {
+  "espn_id": "494",
+  "name": "Slavia Prague",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Tribuna Sever says it rejects promoting any politics at the stadium and condemned the anti-Kamara sign (2021); sanctions are for disorder and individual racism; the 'Jewish club' tag comes from Sparta fans."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SK_Slavia_Prague"
+  ]
+ },
+ {
+  "espn_id": "521",
+  "name": "Slovan Bratislava",
+  "league": "ucl",
+  "lean": 3,
+  "why": {
+   "lean": "UEFA racism sanctions for supporters 2019 (v Wolves, closed doors) and 2022 (Sector C ultras closed, v Ferencvaros); vice president Kmotrik Jr. convicted over a Nazi-style salute (2019); far-right label not confirmed in sources read."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C5%A0K_Slovan_Bratislava"
+  ]
+ },
+ {
+  "espn_id": "2250",
+  "name": "Sporting CP",
+  "league": "ucl",
+  "lean": 4,
+  "why": {
+   "lean": "A 2024 ISCTE thesis finds a significant far-right presence in some Portuguese ultras; Grupo 1143 (neo-Nazi, Hammerskins ties, 37 arrests Jan 2026) began as a Juventude Leonina dissident group (2003), which Juve Leo disowns; the club itself takes no position."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sporting_CP"
+  ]
+ },
+ {
+  "espn_id": "510",
+  "name": "Viking FK",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Vikinghordene and Bla Brigade 99 have no documented politics."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Viking_FK"
+  ]
+ },
+ {
+  "espn_id": "140",
+  "name": "AZ Alkmaar",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; the 2023 attack on West Ham players' families was violence, not politics."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AZ_Alkmaar"
+  ]
+ },
+ {
+  "espn_id": "441",
+  "name": "Anderlecht",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; supporters drawn from across Belgium, no political groups or club positions documented (estimate)."
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/R.S.C._Anderlecht"
+  ]
+ },
+ {
+  "espn_id": "20024",
+  "name": "Ararat-Armenia",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; owner-run since 2018 (Karapetyan), no supporter groups or positions documented."
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Ararat-Armenia"
+  ]
+ },
+ {
+  "espn_id": "1929",
+  "name": "Benfica",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; seen as Portugal's popular, working-class club, the 1936 'vermelhos' censorship was a naming matter; No Name Boys known for violence, not politics."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/S.L._Benfica"
+  ]
+ },
+ {
+  "espn_id": "1895",
+  "name": "Besiktas",
+  "league": "uel",
+  "lean": 8,
+  "why": {
+   "lean": "Carsi (1982), 'Carsi, her seye karsi!', listed among left-wing sports movements, Greenpeace anti-nuclear campaign, prominent in the 2013 Gezi protests; members' views are mixed per Wikipedia, so not the top band."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C3%87ar%C5%9F%C4%B1_(supporter_group)"
+  ]
+ },
+ {
+  "espn_id": "256",
+  "name": "Celtic",
+  "league": "uel",
+  "lean": 10,
+  "why": {
+   "lean": "Irish republican and left identity of the support; Green Brigade Palestine banners (2012, 2016, 2023, 2025), anti-poppy protest 2010, BLM; UEFA political-banner fines; club suspended ~250 members 2023."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_Brigade"
+  ]
+ },
+ {
+  "espn_id": "597",
+  "name": "Dinamo Zagreb",
+  "league": "uel",
+  "lean": 2,
+  "why": {
+   "lean": "Bad Blue Boys described as Croatian nationalist, backed Tudjman 1990; Greater Croatia graffiti, Hitler/Pavelic graffiti found in 2018 raid, Ustasa song chanted 2023 (HNS fine EUR 17,000); also pro-Ukraine banners 2022."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bad_Blue_Boys"
+  ]
+ },
+ {
+  "espn_id": "622",
+  "name": "Ferencvaros",
+  "league": "uel",
+  "lean": 1.5,
+  "why": {
+   "lean": "Long right-wing nationalist tradition (1930s-40s, 1944 Jaross); Green Monsters neo-fascist chants, far-right symbolism in the 1990s, 2006 MTV siege; president Kubatov a Fidesz official since 2011, club security blocked an opposition MP 2016; UEFA racism sanctions 2004, 2014."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ferencv%C3%A1rosi_TC"
+  ]
+ },
+ {
+  "espn_id": "13083",
+  "name": "Hapoel Be'er",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Hapoel (workers') roots, but UltraSouth (2014) states political neutrality ('Ultras no politica')."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hapoel_Be'er_Sheva_F.C."
+  ]
+ },
+ {
+  "espn_id": "11505",
+  "name": "Jagiellonia Bialystok",
+  "league": "uel",
+  "lean": 4.5,
+  "why": {
+   "lean": "Estimate: official fan body Children of Bialystok does charity work, no politics documented; one UEFA racism fine (2025 v Novi Pazar) by part of the support."
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jagiellonia_Bia%C5%82ystok"
+  ]
+ },
+ {
+  "espn_id": "2990",
+  "name": "Lech Poznan",
+  "league": "uel",
+  "lean": 2,
+  "why": {
+   "lean": "Academic studies and media describe the ultras as right-wing nationalist; anti-Lithuanian banner 2013, 'Stop Islamization' and anti-refugee boycott 2015, banner against the mayor's LGBTQ support 2017, 'Kosovo is Serbia' 2025; repeated UEFA racism sanctions."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lech_Pozna%C5%84"
+  ]
+ },
+ {
+  "espn_id": "490",
+  "name": "Levski Sofia",
+  "league": "uel",
+  "lean": 3,
+  "why": {
+   "lean": "Ultras' banners 'Death for the refugees' (2015), anti-Bosnian banners v Sarajevo (UEFA EUR 30,000, 2015), 'Say Yes To Racism' (2016), ethnic and political chants v Shkupi (UEFA EUR 40,000, 2023); long friendship with Lazio ultras."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/PFC_Levski_Sofia"
+  ]
+ },
+ {
+  "espn_id": "987",
+  "name": "Lillestrom",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Kanarifansen (1992, 5,000+ members) has no documented politics."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lillestr%C3%B8m_SK"
+  ]
+ },
+ {
+  "espn_id": "147",
+  "name": "NEC Nijmegen",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; working-class roots and a 'workers' city' framing of the Vitesse derby, but no political groups or positions."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NEC_Nijmegen"
+  ]
+ },
+ {
+  "espn_id": "3362",
+  "name": "NK Celje",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; small Celjski Grofje 1992 group, no positions documented."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NK_Celje"
+  ]
+ },
+ {
+  "espn_id": "1010",
+  "name": "OFI Crete",
+  "league": "uel",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Cretan regional identity, PAOK friendship (1987), no political groups or incidents documented."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/OFI_Crete_F.C."
+  ]
+ }
+]
