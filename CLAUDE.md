@@ -46,10 +46,19 @@ blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-
 once a match starts (`pk`), so the Picks record is honest; picks for matches before the app existed are walk-forward (`pk.wf`).
 
 ## Affinity (docs/affinity.md)
-web/affinity.js v3: logistic model fitted in the page to Kevin's "which would you rather support?" picks (state.affPicks; only those since settings.affSince count, Settings > Start Affinity over, app.js affPicks):
-since 2026-11-06 nothing is pre-set: every weight starts at 0 and may go either way (CLUB_SPEC free; picks before app.js AFF_CLEAR don't count; the top-ten round robin waits for 150 picks) (also since 2026-11-06 Affinity stands on its own: his clubs aren't asked about, picks with them don't count, rivalry with them (data/affinity/rivals.json) no longer pushes),
-glory (contender trait) and fame (Elo standing in its league; affinity.js GLORY) fitted but excluded like familiarity (Kevin: no glory hunting), league familiarity (by domestic league; UCL, UEL, UECL only for clubs from leagues not shown) fitted but excluded from Affinity, small per-club adjustments. Traits Comeback story and Punches above its weight since 2026-11-06 (data/affinity/research/story, scripts/affinity/merge_story.py; Kevin: Villa, Brighton, Columbus, Vancouver, the Kings). Contender counts only when negative (an underdog lean). Since 2026-11-07: Left-leaning culture (lean, research/politics, merge_politics.py), a learned city adjustment shared by clubs within 10 km (affinity.js cityGroups, fitPairs group; replaced the named list of loved cities), no rivalry factor (Kevin, 2026-11-07), flags Feeder or brand club and Moved or manufactured franchise (set by hand in traits.json). Answers (2026-11-06): a club, "No strong opinion" (win '=', half a pick each way), "Don't know enough about" one or either ('?<id>', '??': the club goes on Clubs > Explore > To look into and out of the quiz until "I know them now", settings.affKnown). 82% of 1,978 held-out picks (2026-10-16; v1: 53%). His clubs are scored on traits alone (never in the picks) and ranked with the rest. Analyse new picks with
-scripts/affinity/analyze.mjs (Settings > Copy my club picks).
+web/affinity.js v4 (2026-11-07): logistic model fitted in the page to Kevin's "which would you rather support?" picks
+(state.affPicks; only those since settings.affSince / app.js AFF_CLEAR count; Settings > Start Affinity over).
+Model features (affinity.js MODEL, PARTS, FLAGS; chosen by backtest, scripts/affinity/groupings.mjs): Atmosphere (singing
+end, ground), Fan power (voice, stewardship), Story (comeback, punch), The city's club, High-energy football, Contender
+(counts only when negative, an underdog lean), City vibe and Big, glitzy city (the club's city profile, traits cityp,
+research/cities, merge_cities.py), flags State ownership, Racism or fan-culture record, Franchise (feeder/brand or moved/
+manufactured, set by hand). Every weight starts at 0, either sign. Fitted but not counted: league familiarity and fame
+(Elo standing). Plus a per-club adjustment and a per-city one (clubs within 10 km, affinity.js cityGroups). His clubs
+are never asked about, picks with them don't count, they're scored on traits alone. No rivalry factor. Researched traits
+kept in traits.json (incl. rituals, women, inclusion, lean, geography) and shown under each group on the club breakdown.
+Quiz answers: a club, "No strong opinion" ('=', half a pick each way), "Don't know enough about" one or either ('?<id>',
+'??': Clubs > Explore > To look into, settings.affKnown); one league at a time (chips); the top-ten round robin waits for
+150 decisive picks. Analyse picks with scripts/affinity/analyze.mjs (Settings > Copy my club picks).
 Players: web/players.js, same engine, 2,340 researched players (data/affinity/players.json: 463 from the old app + every
 club's current regulars, researched against data/affinity/research/BRIEF.md and merged by scripts/affinity/merge_research.py),
 "who would you rather your son look up to?" picks (state.playerPicks); Clubs page > Players. scripts/affinity/analyze_players.mjs.

@@ -10,38 +10,41 @@
 // Affinity = 100 x logistic(raw - the median club's raw): the chance you'd pick the club over a typical one.
 // 500 picks, 10-fold: 77.8% predicted (v2 with "ownership below 3" and "inclusion below 3": 74.4%).
 
-// comeback and punch since 2026-11-06 (research/story/BRIEF.md): Kevin's pull toward Villa, Brighton, Columbus, Vancouver
-// lean since 2026-11-07 (research/politics/BRIEF.md): the club's and its supporters' political culture, 0 right to 10 left
+// Researched club traits (data/affinity/traits.json), shown on each club's breakdown. comeback and punch since 2026-11-06
+// (research/story), lean since 2026-11-07 (research/politics); the city profile (cityp) since 2026-11-07 (research/cities).
 export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity', 'comeback', 'punch', 'lean'];
-// feeder (2026-11-07, Kevin: "the ownership situations in NY are the bigger drag"): a club named for its corporate
-// owner or run as a secondary club in a multi-club group (Red Bull, City Football Group's satellites, BlueCo's
-// Strasbourg); set by hand in traits.json
-// manufactured (2026-11-07, Kevin): took another city's club (Houston: "stealing a team"), or a franchise added to a
-// city that already had one ("an unnecessary second club"); set by hand in traits.json
-export const FLAGS = ['stateOwner', 'incidents', 'rival', 'feeder', 'manufactured'];
-// love: a club in a city Kevin loves (ctx.love, a Set of ids; app.js LOVE_CITIES). Not researched, so not in TRAITS.
-export const PERSONAL = ['love'];
+export const CITY_PARTS = ['progressive', 'outdoors', 'indie', 'industrial', 'glitz', 'size', 'climate'];
+
+// v4 (2026-11-07, Kevin: "fewer categories, combining things that are closely related"): the model works on 11 grouped
+// features, chosen by backtest on his 679 answers (scripts/affinity/groupings.mjs: best at rating clubs he hasn't
+// judged, and tied for best over time). Rituals, women's side, inclusion, political lean and distance dropped out:
+// once the rest were in, each fitted near zero. Plus two learned adjustments: one per club, one per city (cityGroups).
+// PARTS: what each group is the mean of (cityp.* = the club's city profile); flags are 0/1.
+export const PARTS = { atmosphere: ['terrace', 'ground'], fanpower: ['voice', 'stewardship'], story: ['comeback', 'punch'],
+  city: ['city'], intensity: ['intensity'], contender: ['contender'],
+  cityvibe: ['cityp.progressive', 'cityp.outdoors', 'cityp.indie', 'cityp.climate'], bigcity: ['cityp.glitz', 'cityp.size'] };
+export const MODEL = ['atmosphere', 'fanpower', 'story', 'city', 'intensity', 'contender', 'cityvibe', 'bigcity'];
+// franchise (2026-11-07): feeder or brand club (c.feeder) or a moved or manufactured franchise (c.manufactured), set by hand
+export const FLAGS = ['stateOwner', 'incidents', 'franchise'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
-// Glory and fame (Kevin, 2026-11-06: "not just popular clubs", no glory hunting): winning (the contender trait) and
-// being a big club (its Elo standing in its league) are fitted like league familiarity, so picks of famous, winning
-// clubs are explained by fame and success, and neither counts toward Affinity.
+// Glory and fame (Kevin, 2026-11-06: "not just popular clubs", no glory hunting): winning (contender) and being a big
+// club (Elo standing in its league) are fitted like league familiarity; contender counts only when it comes out
+// negative (an underdog lean), fame never.
 export const GLORY = ['contender', 'fame'];
-// City profile (2026-11-07, Kevin: "it should also look at similarities between cities"; research/cities/BRIEF.md):
-// the club's city scored 0-10, so a liking for Seattle carries to cities like it. Unknown = 5.
-export const CITYF = ['c_progressive', 'c_outdoors', 'c_indie', 'c_industrial', 'c_glitz', 'c_size', 'c_climate'];
-export const FEATURES = [...TRAITS, ...CITYF, ...PERSONAL, ...FLAGS, ...FAMILIAR, 'fame'];
+export const FEATURES = [...MODEL, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
   geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', comeback: 'Comeback story', punch: 'Punches above its weight', lean: 'Left-leaning culture', intensity: 'High-energy football',
-  stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club', c_progressive: 'Progressive city', c_outdoors: 'Outdoorsy city', c_indie: 'Independent, creative city', c_industrial: 'Industrial, working city', c_glitz: 'Glitzy city', c_size: 'Big city', c_climate: 'Mild, sunny city', feeder: 'Feeder or brand club', manufactured: 'Moved or manufactured franchise', love: 'A city you love',
+  atmosphere: 'Atmosphere', fanpower: 'Fan power', story: 'Story', cityvibe: 'City vibe', bigcity: 'Big, glitzy city',
+  stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', franchise: 'Feeder, brand or moved franchise',
+  progressive: 'Progressive', outdoors: 'Outdoorsy', indie: 'Independent, creative', industrial: 'Industrial roots', glitz: 'Glitz', size: 'Size', climate: 'Mild, sunny',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
   lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
   lg_uel: 'Other Europa League', lg_uecl: 'Other Conference League' };
-// how to say a shortfall (a trait below the typical club's, costing Affinity) or a flag that applies
-export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
-  conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
-  geography: 'far away', contender: 'rarely contends', comeback: 'no comeback story', punch: 'does what its money says', lean: 'a right-leaning culture', intensity: 'a cautious style',
-  stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival', c_progressive: 'a conservative city', c_outdoors: 'far from the outdoors', c_indie: 'a city without much indie culture', c_industrial: 'no working-city roots', c_glitz: 'an unpretentious city', c_size: 'a small city', c_climate: 'a harsh climate', feeder: 'a feeder or brand club', manufactured: 'a moved or manufactured franchise', love: 'a city you love' };
+// how to say a shortfall (a feature below the typical club's, costing Affinity) or a flag that applies
+export const SHORT = { atmosphere: 'a quiet atmosphere', fanpower: 'fans have little say', story: 'not much of a story', city: "not the city's main club",
+  intensity: 'a cautious style', contender: 'rarely contends', cityvibe: 'not your kind of city', bigcity: 'a small, modest city',
+  stateOwner: 'state-owned', incidents: 'racism or fan-culture record', franchise: 'a feeder, brand or moved franchise' };
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
   geography: 0.3, contender: 0, intensity: 0.3, stateOwner: -2, incidents: -1, rival: -1, lg_bl: 0, lg_ucl: 0, lg_mls: 0, lg_nwsl: 0, lg_usl: 0,
@@ -71,19 +74,17 @@ export const withGeo = c => (c.geography != null ? c : { ...c, geography: geogra
 // State ownership is read from the ownership note; a racism or fan-culture record = inclusion below 3 where the research
 // found something (a low score that only means "nothing notable" doesn't count).
 export function features(id, c, ctx) {
-  c = withGeo(c);
   const lg = ctx.league[id];
-  return [...TRAITS.map(t => (c[t] ?? (t === 'lean' ? 5 : 0)) / 10), // lean unknown = no clear politics (5), not far right
-    ...CITYF.map(f => (c.cityp?.[f.slice(2)] ?? 5) / 10),
-    ctx.love?.has(id) ? 1 : 0,
+  const val = k => (k.startsWith('cityp.') ? c.cityp?.[k.slice(6)] ?? 5 : c[k] ?? 0) / 10;
+  return [...MODEL.map(g => PARTS[g].reduce((s, k) => s + val(k), 0) / PARTS[g].length),
     isState(c) ? 1 : 0,
     (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
-    ctx.rivals.has(id) ? 1 : 0,
-    c.feeder ? 1 : 0,
-    c.manufactured ? 1 : 0,
+    c.feeder || c.manufactured ? 1 : 0,
     ...FAMILIAR.map(f => (lg === f.slice(3) ? 1 : 0)),
     ctx.standing?.[id] ?? 0.5];
 }
+// a group's value for a club, 0-10 (for the breakdown)
+export const groupValue = (c, g) => 10 * PARTS[g].reduce((s, k) => s + (k.startsWith('cityp.') ? c.cityp?.[k.slice(6)] ?? 5 : c[k] ?? 0) / 10, 0) / PARTS[g].length;
 
 const sig = z => 1 / (1 + Math.exp(-z));
 const PULL = FEATURES.map(f => TRAITS.includes(f)), PUSH = FEATURES.map(f => FLAGS.includes(f)), FAM = FEATURES.map(f => FAMILIAR.includes(f) || GLORY.includes(f));
@@ -154,7 +155,7 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, lambdaGro
 
 // Kevin, 2026-11-06: nothing pre-established. Every weight starts at 0 and may go either way, so what a trait is worth,
 // and in which direction, comes from his picks alone (PRIOR, PULL and PUSH are kept for reference and the players).
-const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true, negOnly: FEATURES.map(f => f === 'contender'), plusOnly: ['love'] };
+const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true, negOnly: FEATURES.map(f => f === 'contender') };
 // Answers (win): a club's id = that one; '=' = no strong opinion; '?<id>' = not familiar enough with that club, '??' =
 // with either (2026-11-06); null = can't say (before then). Clubs he doesn't know yet go on a list to look into and
 // aren't asked about until he says he knows them (ctx.known: {id: time}).
