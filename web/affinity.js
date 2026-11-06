@@ -11,7 +11,8 @@
 // 500 picks, 10-fold: 77.8% predicted (v2 with "ownership below 3" and "inclusion below 3": 74.4%).
 
 // comeback and punch since 2026-11-06 (research/story/BRIEF.md): Kevin's pull toward Villa, Brighton, Columbus, Vancouver
-export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity', 'comeback', 'punch'];
+// lean since 2026-11-07 (research/politics/BRIEF.md): the club's and its supporters' political culture, 0 right to 10 left
+export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity', 'comeback', 'punch', 'lean'];
 // feeder (2026-11-07, Kevin: "the ownership situations in NY are the bigger drag"): a club named for its corporate
 // owner or run as a secondary club in a multi-club group (Red Bull, City Football Group's satellites, BlueCo's
 // Strasbourg); set by hand in traits.json
@@ -28,7 +29,7 @@ export const GLORY = ['contender', 'fame'];
 export const FEATURES = [...TRAITS, ...PERSONAL, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
-  geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', comeback: 'Comeback story', punch: 'Punches above its weight', intensity: 'High-energy football',
+  geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', comeback: 'Comeback story', punch: 'Punches above its weight', lean: 'Left-leaning culture', intensity: 'High-energy football',
   stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club', feeder: 'Feeder or brand club', manufactured: 'Moved or manufactured franchise', love: 'A city you love',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
   lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
@@ -36,7 +37,7 @@ export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo
 // how to say a shortfall (a trait below the typical club's, costing Affinity) or a flag that applies
 export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
   conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
-  geography: 'far away', contender: 'rarely contends', comeback: 'no comeback story', punch: 'does what its money says', intensity: 'a cautious style',
+  geography: 'far away', contender: 'rarely contends', comeback: 'no comeback story', punch: 'does what its money says', lean: 'a right-leaning culture', intensity: 'a cautious style',
   stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival', feeder: 'a feeder or brand club', manufactured: 'a moved or manufactured franchise', love: 'a city you love' };
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
@@ -69,7 +70,7 @@ export const withGeo = c => (c.geography != null ? c : { ...c, geography: geogra
 export function features(id, c, ctx) {
   c = withGeo(c);
   const lg = ctx.league[id];
-  return [...TRAITS.map(t => (c[t] ?? 0) / 10),
+  return [...TRAITS.map(t => (c[t] ?? (t === 'lean' ? 5 : 0)) / 10), // lean unknown = no clear politics (5), not far right
     ctx.love?.has(id) ? 1 : 0,
     isState(c) ? 1 : 0,
     (c.conscience ?? 5) < 3 && !NOTHING.test(c.why?.conscience || '') ? 1 : 0,
