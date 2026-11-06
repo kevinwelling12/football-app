@@ -206,8 +206,8 @@ function affinity() {
   const ctx = { league, rivals, standing }, model = AF.fit(TRAITS, ctx, picks);
   return (AFF = { key, ctx, model, n: model.n });
 }
-// your own clubs aren't scored: they're yours
-const affOf = id => (TRAITS[id] && !favIds().has(id) ? affinity().model.affinity(id) : null);
+// every club is scored, Kevin's too (2026-11-06): his are never in the picks, so theirs comes from traits alone
+const affOf = id => (TRAITS[id] ? affinity().model.affinity(id) : null);
 const reasonsOf = id => (TRAITS[id] ? affinity().model.reasons(id) : { good: [], bad: [] });
 const lc = t => AF.LABEL[t][0].toLowerCase() + AF.LABEL[t].slice(1);
 // whose rival a club is ("Liverpool's rival")
@@ -307,7 +307,7 @@ function watchList() {
     const mine = fav.has(H.id) || fav.has(A.id);
     // absolute, so leagues compare: a 25-point swing in a play-off race is about 0.4 (full marks)
     const moves = Math.min(1, favImp(f) / 0.4);
-    const af = [H, A].map(t => (fav.has(t.id) ? 100 : affOf(t.id) ?? 50)), hi = Math.max(...af), lo = Math.min(...af);
+    const af = [H, A].map(t => affOf(t.id) ?? 50), hi = Math.max(...af), lo = Math.min(...af);
     // total: two clubs you like; difference: a club you like against one you don't
     const affSum = (hi + lo) / 200, affGap = (hi - lo) / 100;
     // stakes 0-1, not rounded: the match's importance against the biggest remaining match in that competition
@@ -753,17 +753,17 @@ function featureCard(title, x) {
 
 const blendLabel = L => `the betting line where there is one (${Math.round(L.P.mktW * 100)}% market)`;
 
-// Every club in the league by Affinity; your clubs first (they aren't scored)
+// Every club in the league by Affinity (your clubs ranked with the rest, on traits alone)
 function viewLeagueAffinity(k) {
   const L = D[k], fav = favIds(), A = affinity();
   if (!Object.keys(TRAITS).length) return '<div class="spinner">Loading…</div>';
   const mine = [], rest = [], none = [];
-  L.teams.forEach((t, i) => { if (!TRAITS[t.id]) none.push([i, t]); else if (fav.has(t.id)) mine.push([i, t, null]); else rest.push([i, t, affOf(t.id)]); });
+  L.teams.forEach((t, i) => { if (!TRAITS[t.id]) none.push([i, t]); else rest.push([i, t, affOf(t.id)]); });
   rest.sort((a, b) => b[2] - a[2]);
   const row = ([i, t, v], n) => {
-    const why = v == null ? 'your club' : whyLine(t.id);
+    const why = (fav.has(t.id) ? 'your club · traits only · ' : '') + whyLine(t.id);
     const grp = LEAGUES[k].groups && t.g ? ` <span class="faint tiny">${esc(t.g.replace(/ern$/, ''))}</span>` : '';
-    return `<tr class="click${v == null ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${v == null ? '★' : mine.length + n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)}${grp}<br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${v == null ? '' : Math.round(v)}</td></tr>`;
+    return `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)}${grp}<br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`;
   };
   let html = `<div class="section"><h2>Affinity</h2><span class="aside">${A.n ? `learned from ${A.n} of your picks` : 'no picks yet'}</span></div>
     <div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${mine.map(r => row(r, 0)).join('')}${rest.map(row).join('')}</table></div>`;
@@ -946,13 +946,15 @@ function viewClubs() {
   const aff = [], seen3 = new Set(), mine = [];
   for (const k of HOME_ORDER) D[k]?.teams.forEach((t, i) => {
     if (seen3.has(t.id) || !TRAITS[t.id]) return; seen3.add(t.id);
-    if (fav.has(t.id)) mine.push([k, i, t]); else aff.push([k, i, t, affOf(t.id)]);
+    aff.push([k, i, t, affOf(t.id)]);
   });
   aff.sort((a, b) => b[3] - a[3]);
-  const row = ([k, i, t, v], n) => { const why = v == null ? 'your club' : whyLine(t.id);
-    return `<tr class="click${v == null ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${v == null ? '★' : mine.length + n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)} <span class="faint tiny">${LEAGUES[k].tag}</span><br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${v == null ? '' : Math.round(v)}</td></tr>`; };
-  html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${mine.map(r => row([...r, null], 0)).join('')}${aff.slice(0, 30).map(row).join('')}</table></div>
-    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks: researched traits that can only pull a club toward you, two things that can only push it away (state ownership, a racism or fan-culture record), plus a small adjustment per club from your own answers. It stands on its own: your clubs aren't scored or asked about, picks involving them don't count, and rivalry with them doesn't count against a club.</p>`;
+  const row = ([k, i, t, v], n) => { const why = (fav.has(t.id) ? 'your club · traits only · ' : '') + whyLine(t.id);
+    return `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.n)} <span class="faint tiny">${LEAGUES[k].tag}</span><br><span class="muted tiny">${esc(why)}</span></span></div></td><td class="pts">${Math.round(v)}</td></tr>`; };
+  // the top 30, and your clubs wherever they rank
+  const shown = aff.map((r, n) => [r, n]).filter(([r, n]) => n < 30 || fav.has(r[2].id));
+  html += `<div class="card" style="margin-top:10px"><table><tr><th>#</th><th class="club">Club</th><th>Affinity</th></tr>${shown.map(([r, n], j) => (j && n !== shown[j - 1][1] + 1 ? '<tr><td colspan="3" class="faint tiny" style="text-align:center">…</td></tr>' : '') + row(r, n)).join('')}</table></div>
+    <p class="note">Affinity is the chance you'd pick a club over a typical one, learned from your picks: researched traits that can only pull a club toward you, two things that can only push it away (state ownership, a racism or fan-culture record), plus a small adjustment per club from your own answers. It stands on its own: your clubs are never asked about and picks involving them don't count, so their score comes from traits alone; rivalry with them doesn't count against a club.</p>`;
   return html;
 }
 const fmtSigned = x => (x >= 0 ? '+' : '−') + Math.abs(x).toFixed(2);
@@ -1177,7 +1179,7 @@ function clubBody(k, i, page = false) {
   const stats = `<div class="block"><h4>Strength</h4><div class="kv"><div>Elo</div><div>${t.elo}</div><div></div><div></div>
     <div>Attack</div><div>${(avg * t.A).toFixed(2)}</div><div></div><div class="muted small">goals / match</div>
     <div>Defence</div><div>${(avg * t.D).toFixed(2)}</div><div></div><div class="muted small">conceded</div>
-    ${TRAITS[t.id] ? `<div>Affinity</div><div>${affOf(t.id) == null ? '★' : Math.round(affOf(t.id))}</div><div></div><div class="muted small">${affOf(t.id) == null ? 'your club' : 'of 100'}</div>` : ''}
+    ${TRAITS[t.id] ? `<div>Affinity</div><div>${Math.round(affOf(t.id))}</div><div></div><div class="muted small">of 100${favIds().has(t.id) ? ', traits only' : ''}</div>` : ''}
     <div>Form</div><div style="grid-column:span 3;text-align:right;padding-right:18px">${(st.form || []).slice(-5).join(' ') || '–'}</div></div></div>`;
   html += stakesBlock(t.id);
   const comps = compsOf(t.id, k);
