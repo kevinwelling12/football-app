@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "365",
+  "name": "Blackburn Rovers",
+  "league": "eng2",
+  "comeback": 5.5,
+  "punch": 4.5,
+  "why": {
+   "comeback": "PL champions 1995; relegated 2012 and to League One 2017, back 2018; Venky's-era decline, survived on final day 2024, 20th in 2025-26",
+   "punch": "Low-investment Venky's years: 7th-8th in 2022-23 and 2021-22, then relegation fights; about what the budget says or a little under"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Blackburn_Rovers_F.C."
+  ]
+ },
+ {
+  "espn_id": "358",
+  "name": "Bolton Wanderers",
+  "league": "eng2",
+  "comeback": 7.5,
+  "punch": 5,
+  "why": {
+   "comeback": "Administration 2019, -12 points, near expulsion before the August 2019 rescue, League Two 2020; promoted 2021 and back to the Championship via the 2026 play-offs",
+   "punch": "League One play-offs 2023, 2024, 2026 and EFL Trophy 2023 on one of League One's larger budgets: about what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolton_Wanderers_F.C."
+  ]
+ },
+ {
+  "espn_id": "333",
+  "name": "Bristol City",
+  "league": "eng2",
+  "comeback": 3,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Bankruptcy and three straight relegations 1980-82 (Ashton Gate Eight); long ago, ordinary ups and downs since",
+   "punch": "Owner-funded losses; mid-table Championship, play-offs 2025 under Manning; academy sales such as Alex Scott (GBP 25m, 2023)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bristol_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "379",
+  "name": "Burnley",
+  "league": "eng2",
+  "comeback": 6,
+  "punch": 5,
+  "why": {
+   "comeback": "Nearly dropped out of the Football League in 1987 (Orient game); climbed from the fourth tier (1992) to the PL and Europe (2018)",
+   "punch": "Last 5 seasons a yo-yo: Championship titles 2023 and 100 points 2025 on parachute money, PL relegations 2022, 2024, 2026 (22 pts); Dyche-era overachievement is older"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Burnley_F.C."
+  ]
+ },
+ {
+  "espn_id": "347",
+  "name": "Cardiff City",
+  "league": "eng2",
+  "comeback": 4.5,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Fans' protests reversed Tan's 2012 red rebrand (blue back 2015); relegated to League One 2025, promoted back 2026",
+   "punch": "Owner-funded heavy losses (GBP 29m operating loss 2021-22), transfer embargoes and constant manager churn; relegated 2025"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cardiff_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "372",
+  "name": "Charlton Athletic",
+  "league": "eng2",
+  "comeback": 8,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Lost The Valley 1985, seven years in exile at Selhurst Park and Upton Park; fans' Valley Party won the return in 1992, PL by 1998; later fell to 16th in League One (2024) amid owner chaos, promoted 2025",
+   "punch": "Promoted 2025 and stayed up in 2026 on a modest budget, but four owners in four years: about what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlton_Athletic_F.C."
+  ]
+ },
+ {
+  "espn_id": "374",
+  "name": "Derby County",
+  "league": "eng2",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "Administration 2021, 21 points deducted, relegated to League One 2022; local owner Clowes bought club and stadium out of administration, promoted 2024 with record points, 8th in 2025-26",
+   "punch": "Rebuilt after administration under spending limits; promoted 2024 and 8th in the Championship 2026: a little above its means"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Derby_County_F.C."
+  ]
+ },
+ {
+  "espn_id": "314",
+  "name": "Lincoln City",
+  "league": "eng2",
+  "comeback": 7,
+  "punch": 7.5,
+  "why": {
+   "comeback": "Administration 2002, dropped out of the Football League 2011; back 2017 (FA Cup quarter-final as a non-League side), League Two title 2019, League One title 2026, first second-tier season in 65 years",
+   "punch": "League One champions 2026 (103 pts) with only about GBP 2m loss; data-led recruitment and set pieces, local long-term owners"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lincoln_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "369",
+  "name": "Middlesbrough",
+  "league": "eng2",
+  "comeback": 6.5,
+  "punch": 5,
+  "why": {
+   "comeback": "Wound up in 1986 with the gates padlocked; Gibson's consortium saved it with minutes to spare; League Cup 2004, UEFA Cup final 2006",
+   "punch": "Regular play-off side (2023, 2026 final) on a Gibson-funded upper-Championship budget: about what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Middlesbrough_F.C."
+  ]
+ },
+ {
+  "espn_id": "391",
+  "name": "Millwall",
+  "league": "eng2",
+  "comeback": 4.5,
+  "punch": 6.5,
+  "why": {
+   "comeback": "Relegated 1990 and 1996, brief administration in the 1990s; community fight against the council's planned compulsory purchase of land around The Den (2016-17, estimate from memory)",
+   "punch": "Modest Championship budget yet top half most years; 3rd in 2025-26 with a club-record 83 points"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Millwall_F.C."
+  ]
+ },
+ {
+  "espn_id": "381",
+  "name": "Norwich City",
+  "league": "eng2",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "Third in the first PL season and beat Bayern 1993; relegated to League One 2009, back-to-back promotions to the PL by 2011; record six PL relegations since",
+   "punch": "Self-funded model: Championship titles 2019 and 2021 with parachute money, PL relegations; mid-table recently with manager churn"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Norwich_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "385",
+  "name": "Portsmouth",
+  "league": "eng2",
+  "comeback": 9,
+  "punch": 5,
+  "why": {
+   "comeback": "FA Cup 2008, then administrations 2010 and 2012, -29 points in total, fell to League Two 2013 and nearly out of the League 2014; fans' trust bought and saved the club, debt-free 2014, back to the Championship 2024",
+   "punch": "League One title 2024 and Championship survival on a lower-half budget under Mousinho: about what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portsmouth_F.C."
+  ]
+ },
+ {
+  "espn_id": "394",
+  "name": "Preston North End",
+  "league": "eng2",
+  "comeback": 4.5,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Applied for re-election 1986 under threat of closure; HMRC winding-up threat 2010, relegated 2011; Hemmings rescue and back in the Championship since 2015",
+   "punch": "Steady mid-table Championship (best 7th) on a below-average budget, no parachutes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Preston_North_End_F.C."
+  ]
+ },
+ {
+  "espn_id": "334",
+  "name": "Queens Park Rangers",
+  "league": "eng2",
+  "comeback": 3.5,
+  "punch": 3,
+  "why": {
+   "comeback": "Administration 2001 and third tier, back 2004; spending-led PL spells 2011-13 and 2014-15, then a decade in the Championship",
+   "punch": "Earlier overspending and an FFP penalty; last 5 seasons 11th to 18th with frequent manager changes"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
+  ]
+ },
+ {
+  "espn_id": "398",
+  "name": "Sheffield United",
+  "league": "eng2",
+  "comeback": 5.5,
+  "punch": 5,
+  "why": {
+   "comeback": "Six seasons in League One (2011-17), rose to 9th in the PL 2020; relegations 2021 and 2024; 2026 winding-up petition over money owed to the former owner, points deduction possible",
+   "punch": "Promotion 2023 while financially troubled and play-off final 2025 were above means; PL 2024 record 104 conceded, ownership turmoil"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sheffield_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "376",
+  "name": "Southampton",
+  "league": "eng2",
+  "comeback": 7,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Administration 2009, -10 points, League One; Liebherr rescue and back-to-back promotions to the PL by 2012, 11 PL seasons; relegated 2023 and 2025, expelled from the 2026 play-off final (spying) and -4 for 2026-27",
+   "punch": "Last 5 seasons: two PL relegations (2025 the earliest ever) under Sport Republic spending, then a self-inflicted play-off expulsion"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southampton_F.C."
+  ]
+ },
+ {
+  "espn_id": "336",
+  "name": "Stoke City",
+  "league": "eng2",
+  "comeback": 3,
+  "punch": 2.5,
+  "why": {
+   "comeback": "Third tier in the 1990s, ten PL seasons 2008-18; ordinary decline since, nothing that defines the club",
+   "punch": "Large Coates-funded budget with parachutes, yet 14th-17th in the Championship for most of the last 5 seasons"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stoke_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "318",
+  "name": "Swansea City",
+  "league": "eng2",
+  "comeback": 9,
+  "punch": 5,
+  "why": {
+   "comeback": "Sold for GBP 1 twice in 2001, supporters' protests and trust saved the club; survived relegation out of the League on the last day 2003; rose to the PL 2011 and won the League Cup 2013",
+   "punch": "Mid-table Championship (around 11th) since 2022 on a mid budget with manager churn: about what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "395",
+  "name": "Watford",
+  "league": "eng2",
+  "comeback": 3,
+  "punch": 3,
+  "why": {
+   "comeback": "ITV Digital crisis 2002 and near-administration 2011 survived; ordinary yo-yo since",
+   "punch": "Pozzo multi-club model with constant coach churn; lower-half Championship since 2022 despite parachute money"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Watford_F.C."
+  ]
+ },
+ {
+  "espn_id": "383",
+  "name": "West Bromwich Albion",
+  "league": "eng2",
+  "comeback": 3,
+  "punch": 4.5,
+  "why": {
+   "comeback": "Yo-yo club; debt-laden Chinese ownership era and a 2026 PSR deduction with a narrow escape",
+   "punch": "Play-off semi 2024 under Corberan on a constrained budget, then a near-relegation and PSR breach in 2025-26"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C."
+  ]
+ },
+ {
+  "espn_id": "371",
+  "name": "West Ham United",
+  "league": "eng2",
+  "comeback": 3.5,
+  "punch": 2,
+  "why": {
+   "comeback": "Owners' collapse 2009-10, relegated 2011 and back 2012; left the Boleyn Ground 2016; relegated again 2026",
+   "punch": "High PL wage bill and heavy transfer spending: Conference League 2023, then decline and relegation 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/West_Ham_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "380",
+  "name": "Wolverhampton Wanderers",
+  "league": "eng2",
+  "comeback": 5.5,
+  "punch": 3,
+  "why": {
+   "comeback": "Receivership and near liquidation in the 1980s, four relegations to the Fourth Division 1986; Hayward rebuilt Molineux, back to the top flight; relegated 2026",
+   "punch": "Fosun spending: 7th twice and a Europa League QF (2019-20) are older; last 5 seasons slid from 10th to relegation in 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C."
+  ]
+ },
+ {
+  "espn_id": "352",
+  "name": "Wrexham",
+  "league": "eng2",
+  "comeback": 9.5,
+  "punch": 4,
+  "why": {
+   "comeback": "Administration 2004, -10 points, owner tried to take the Racecourse (courts kept it, 2005-06); out of the League 2008, fans' trust owned it 2011-21; three straight promotions 2023-25, 7th in the Championship 2026",
+   "punch": "Three promotions and 7th in 2026, but with record turnover and big spending for each division: success bought, not punched"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wrexham_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "227",
+  "name": "América",
+  "league": "mex",
+  "comeback": 0.5,
+  "punch": 5.5,
+  "why": {
+   "comeback": "Never relegated; title gaps (2005-13, 2018-23) are the only lows",
+   "punch": "Liga MX's biggest-money club: three straight titles 2023-24 and CONCACAF titles, about what the budget says"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_América"
+  ]
+ }
+]
