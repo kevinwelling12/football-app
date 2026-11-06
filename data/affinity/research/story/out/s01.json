@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "349",
+  "name": "AFC Bournemouth",
+  "league": "epl",
+  "comeback": 9,
+  "punch": 8,
+  "why": {
+   "comeback": "Administration 1997 and 2008, 10- and 17-point deductions, near closure in League Two 2008-09; rose to the Premier League 2015 and first European place 2026.",
+   "punch": "Small 11,000 ground and low PL revenue; 9th 2024-25 (record points), 6th 2025-26 under Iraola; big sales, though spending rose under Black Knight."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AFC_Bournemouth"
+  ]
+ },
+ {
+  "espn_id": "359",
+  "name": "Arsenal",
+  "league": "epl",
+  "comeback": 1,
+  "punch": 5,
+  "why": {
+   "comeback": "Ordinary dips (8th 2019-20 and 2020-21, 2021 Super League U-turn); no serious adversity.",
+   "punch": "Top-four wage bill and heavy spending; three 2nd places then the 2025-26 title and a UCL final: about what the money says."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arsenal_F.C."
+  ]
+ },
+ {
+  "espn_id": "362",
+  "name": "Aston Villa",
+  "league": "epl",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "1982 European champions, relegated 2016 after 29 years, three Championship seasons; back 2019, UCL 2024-25, Europa League 2026.",
+   "punch": "Emery's coaching: 4th 2023-24, UCL quarter-final, Europa League 2026, but on a high wage bill with UEFA squad-cost breaches."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aston_Villa_F.C."
+  ]
+ },
+ {
+  "espn_id": "337",
+  "name": "Brentford",
+  "league": "epl",
+  "comeback": 7,
+  "punch": 9,
+  "why": {
+   "comeback": "Near dissolution 1967, administration narrowly avoided 2002, supporters' trust Bees United ran it, League Two 2007-09; Benham's climb to the PL 2021.",
+   "punch": "Data-led recruitment on one of the PL's smallest budgets: 13th, 9th, 16th, 10th, 9th since 2021, big profits on sales."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brentford_F.C."
+  ]
+ },
+ {
+  "espn_id": "331",
+  "name": "Brighton & Hove Albion",
+  "league": "epl",
+  "comeback": 10,
+  "punch": 10,
+  "why": {
+   "comeback": "Saved on the last day 1997, Goldstone sold, exile at Gillingham then Withdean; fans' campaign won Falmer 2011; Europe 2023-24.",
+   "punch": "Data-led recruitment, top-half and Europe on a mid budget, large profits on sales; 6th 2022-23, 8th 2024-25 and 2025-26."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C."
+  ]
+ },
+ {
+  "espn_id": "363",
+  "name": "Chelsea",
+  "league": "epl",
+  "comeback": 2,
+  "punch": 2,
+  "why": {
+   "comeback": "Near bankruptcy and eviction threat in the 1970s-80s (distant); 2022 sanctions forced a sale but the club was never at risk.",
+   "punch": "Record spending under BlueCo since 2022; Conference League and Club World Cup 2025, but 12th 2022-23 and manager churn."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chelsea_F.C."
+  ]
+ },
+ {
+  "espn_id": "388",
+  "name": "Coventry City",
+  "league": "epl",
+  "comeback": 9,
+  "punch": 7,
+  "why": {
+   "comeback": "Sisu era: exiled to Northampton 2013-14 and Birmingham 2019-21, League Two 2017; back via promotions 2018, 2020, Championship title and PL 2026, stadium reunited 2025.",
+   "punch": "Robins took a low-budget squad from League Two to a play-off final 2023; Championship title 2026 under Lampard with more money."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coventry_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "384",
+  "name": "Crystal Palace",
+  "league": "epl",
+  "comeback": 9,
+  "punch": 8,
+  "why": {
+   "comeback": "Administration 1999 and 2010 (10-point deduction, near liquidation); four fans bought the club and Selhurst Park; FA Cup 2025, Conference League 2026.",
+   "punch": "Mid-to-low PL wage bill; FA Cup 2025, Community Shield and Conference League 2026 through recruitment and sales; 15th in 2025-26."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crystal_Palace_F.C."
+  ]
+ },
+ {
+  "espn_id": "368",
+  "name": "Everton",
+  "league": "epl",
+  "comeback": 6,
+  "punch": 2,
+  "why": {
+   "comeback": "Former champions in decline; points deductions 2023-24 for £372m losses, failed 777 sale, relegation fights; Friedkin takeover 2024 and new stadium 2025.",
+   "punch": "Heavy Moshiri spending brought relegation fights and PSR breaches; mid-table under Moyes since 2025."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Everton_F.C."
+  ]
+ },
+ {
+  "espn_id": "370",
+  "name": "Fulham",
+  "league": "epl",
+  "comeback": 6,
+  "punch": 5,
+  "why": {
+   "comeback": "Near closure 1987, fourth tier 1994-97 ('lowest ebb'), ground fears 2002; Al-Fayed rise, then three PL relegations to 2021 and promotion back.",
+   "punch": "Mid-table PL on a mid budget under Silva: club-record points 2024-25, 11th 2025-26."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fulham_F.C."
+  ]
+ },
+ {
+  "espn_id": "306",
+  "name": "Hull City",
+  "league": "epl",
+  "comeback": 7,
+  "punch": 5,
+  "why": {
+   "comeback": "Receivership 1980s, winding-up orders 1990s, locked out of Boothferry Park 2000, fourth tier; up to the PL 2008, relegated to League One 2020, back up 2021 and to the PL 2026.",
+   "punch": "Promoted via the 2026 play-offs; estimate: modest Championship budget under Ilicali with high churn."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hull_City_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "373",
+  "name": "Ipswich Town",
+  "league": "epl",
+  "comeback": 8,
+  "punch": 6,
+  "why": {
+   "comeback": "1962 champions, 1981 UEFA Cup; administration 2002-03, League One 2019-23; back-to-back promotions to the PL 2024, relegated 2025, promoted again 2026.",
+   "punch": "Back-to-back promotions under McKenna with smart recruitment, then spent heavily and went down in 2025; parachute-funded return 2026."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ipswich_Town_F.C."
+  ]
+ },
+ {
+  "espn_id": "357",
+  "name": "Leeds United",
+  "league": "epl",
+  "comeback": 9,
+  "punch": 5,
+  "why": {
+   "comeback": "Debt collapse 2002-07, ground sold, administration 2007, 25 points deducted, three years in League One; back to the PL 2020, again 2025, stayed up 2025-26.",
+   "punch": "Promoted 2025 with parachute money and a high Championship wage bill; 14th 2025-26: about what the money says."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leeds_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "364",
+  "name": "Liverpool",
+  "league": "epl",
+  "comeback": 4,
+  "punch": 6,
+  "why": {
+   "comeback": "30-year title drought and the 2010 Hicks-Gillett debt crisis, which forced a court-ordered sale to FSG; titles 2020 and 2025.",
+   "punch": "Under FSG, titles 2020 and 2025 and UCL 2019 with a top-four wage bill below City's; 5th 2025-26 after record spending."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liverpool_F.C."
+  ]
+ },
+ {
+  "espn_id": "382",
+  "name": "Manchester City",
+  "league": "epl",
+  "comeback": 4,
+  "punch": 4,
+  "why": {
+   "comeback": "Third tier 1998, the lowest point in its history, then back to the top flight by 2000 and 2002 (now defined by wealth).",
+   "punch": "State-funded top budget: four straight titles and the 2023 treble, but under 115 charges; winning on the most money is not punching above."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "360",
+  "name": "Manchester United",
+  "league": "epl",
+  "comeback": 3,
+  "punch": 1,
+  "why": {
+   "comeback": "Long decline since 2013 under leveraged Glazer debt: 8th 2023-24, 15th 2024-25; 3rd 2025-26.",
+   "punch": "One of the biggest wage bills and transfer spends; no title since 2013, 15th 2024-25."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "361",
+  "name": "Newcastle United",
+  "league": "epl",
+  "comeback": 5,
+  "punch": 6,
+  "why": {
+   "comeback": "Near third tier 1992, relegated 2009 and 2016 under Ashley, bounced back both times; PIF takeover 2021, League Cup 2025.",
+   "punch": "Howe got UCL 2023 and 2025 and the 2025 League Cup within PSR limits on a mid-high wage bill; 12th 2025-26."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newcastle_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "393",
+  "name": "Nottingham Forest",
+  "league": "epl",
+  "comeback": 8,
+  "punch": 5,
+  "why": {
+   "comeback": "European champions 1979 and 1980; out of the top flight 1999-2022, incl. third tier from 2005; back via the 2022 play-offs, Europe 2025-26.",
+   "punch": "Heavy spending and many signings since 2022, a PSR points deduction 2024; 7th 2024-25, Europa League semi-final but 16th 2025-26."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C."
+  ]
+ },
+ {
+  "espn_id": "366",
+  "name": "Sunderland",
+  "league": "epl",
+  "comeback": 8,
+  "punch": 7,
+  "why": {
+   "comeback": "Six-time champions; back-to-back relegations 2017-18, four seasons in League One; promoted 2022 and to the PL 2025, 7th and Europe 2025-26.",
+   "punch": "Young, cheaply built squad won promotion in 2025, then ~€115m spent; 7th in 2025-26 beat a promoted club's budget."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunderland_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "367",
+  "name": "Tottenham Hotspur",
+  "league": "epl",
+  "comeback": 1,
+  "punch": 1,
+  "why": {
+   "comeback": "No relegation since 1977; 1991 debt led to the Sugar-Venables takeover; recent struggles are on-pitch (17th 2024-25 and 2025-26).",
+   "punch": "Ninth-highest revenue in the world (2024-25); 17th twice despite the 2025 Europa League."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C."
+  ]
+ },
+ {
+  "espn_id": "598",
+  "name": "1. FC Union Berlin",
+  "league": "bl",
+  "comeback": 8,
+  "punch": 10,
+  "why": {
+   "comeback": "Licence refusals 1993 and 1994, near collapse 1997, insolvency fights; fans rebuilt their stadium 2008; Bundesliga 2019, Champions League 2023.",
+   "punch": "Europe 2021-23 and the Champions League 2023 on one of the Bundesliga's smallest budgets; 11th 2025-26."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/1._FC_Union_Berlin"
+  ]
+ },
+ {
+  "espn_id": "131",
+  "name": "Bayer Leverkusen",
+  "league": "bl",
+  "comeback": 1,
+  "punch": 7,
+  "why": {
+   "comeback": "Near relegation 1996 and runners-up tag; no serious adversity under Bayer ownership.",
+   "punch": "Unbeaten double 2024 and 2nd 2025 on a wage bill well below Bayern's, with big profits on sales (Wirtz, Frimpong); company-funded."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen"
+  ]
+ },
+ {
+  "espn_id": "132",
+  "name": "Bayern Munich",
+  "league": "bl",
+  "comeback": 0,
+  "punch": 4,
+  "why": {
+   "comeback": "Near bankruptcy in the 1950s (distant); steady at the top since.",
+   "punch": "By far the Bundesliga's largest revenue (EUR978m 2024-25); titles 2025 and 2026: about what the money says."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Bayern_Munich"
+  ]
+ },
+ {
+  "espn_id": "124",
+  "name": "Borussia Dortmund",
+  "league": "bl",
+  "comeback": 6,
+  "punch": 5,
+  "why": {
+   "comeback": "Near bankruptcy 2005 (shares down over 80%, players took 20% pay cuts); Watzke's rebuild and Klopp's titles 2011 and 2012.",
+   "punch": "Second-biggest Bundesliga revenue; talent-development and sales model with UCL finals 2013 and 2024, but no title since 2012."
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Borussia_Dortmund"
+  ]
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "espn_id": "131563",
+  "name": "Denver Summit FC",
+  "league": "nwsl",
+  "comeback": 0,
+  "punch": 5,
+  "why": {
+   "comeback": "Founded 2025 (first season 2026); stadium delayed to ~2029, too new for a story",
+   "punch": "Record $110m expansion fee and big signings; 10th of 14 in its inaugural 2026 season"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denver_Summit_FC"
+  ]
+ },
+ {
+  "espn_id": "15364",
+  "name": "Gotham FC",
+  "league": "nwsl",
+  "comeback": 5,
+  "punch": 6,
+  "why": {
+   "comeback": "Last in 2018 (23-game winless run, semi-pro conditions) and again in 2022; new owners turned it round to titles 2023 and 2025",
+   "punch": "Champions 2023, 2025, CONCACAF W 2025, Shield 2026 under a hard cap, but with heavy owner investment and star signings"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/NJ/NY_Gotham_FC"
+  ]
+ },
+ {
+  "espn_id": "17346",
+  "name": "Houston Dash",
+  "league": "nwsl",
+  "comeback": 1,
+  "punch": 2,
+  "why": {
+   "comeback": "Coach Clarkson misconduct case 2022 and coaching churn; no existential crisis",
+   "punch": "Wealthy Segal ownership; one playoff run 2021-25, 14th in 2024, coach fired 2026"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Houston_Dash"
+  ]
+ },
+ {
+  "espn_id": "20907",
+  "name": "Kansas City Current",
+  "league": "nwsl",
+  "comeback": 3,
+  "punch": 4,
+  "why": {
+   "comeback": "City lost FC Kansas City (2017) and the club began from the folded Utah Royals' assets (2020); last in 2021, rebuilt fast",
+   "punch": "Record 2025 Shield and 2024 semi-final, but on the league's biggest investment (privately funded $117m stadium, $52m facilities)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kansas_City_Current"
+  ]
+ },
+ {
+  "espn_id": "15366",
+  "name": "North Carolina Courage",
+  "league": "nwsl",
+  "comeback": 3,
+  "punch": 5,
+  "why": {
+   "comeback": "Relocated Flash (2017); Riley abuse scandal 2021 ended a dynasty (champions 2018-19), mid-table since",
+   "punch": "Three Challenge Cups 2022-23 and a record $1.25m sale (Shaw 2025) in a small suburban market; league results have slipped to mid-table"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/North_Carolina_Courage"
+  ]
+ },
+ {
+  "espn_id": "18206",
+  "name": "Orlando Pride",
+  "league": "nwsl",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "Last in 2019, Cromwell abuse firing 2022; new owners and GM rebuilt it to the 2024 Shield and Championship double",
+   "punch": "Wilf owners raised investment from 2023; 2024 double, 2025 semi, then 11th in 2026: roughly what the money says"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Orlando_Pride"
+  ]
+ },
+ {
+  "espn_id": "15362",
+  "name": "Portland Thorns FC",
+  "league": "nwsl",
+  "comeback": 5,
+  "punch": 5,
+  "why": {
+   "comeback": "Riley cover-up and Yates report (2022) pushed owner Paulson to sell under fan pressure; new owners from 2024, team stayed competitive",
+   "punch": "Champions 2022, Shield 2021, top crowds and revenues; results about in line with resources"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portland_Thorns_FC"
+  ]
+ },
+ {
+  "espn_id": "20905",
+  "name": "Racing Louisville FC",
+  "league": "nwsl",
+  "comeback": 3,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2021; coach Holly abuse case 2021; low crowds and reported 2026 sale and relocation talks (search results) by FC Cincinnati's owners, little visible fan fight",
+   "punch": "Small market and lowest attendance; first playoff run 2025 (coach of the year), bottom again in 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Racing_Louisville_FC"
+  ]
+ },
+ {
+  "espn_id": "21423",
+  "name": "San Diego Wave FC",
+  "league": "nwsl",
+  "comeback": 1,
+  "punch": 5,
+  "why": {
+   "comeback": "Founded 2022, too new; 2024 workplace lawsuits and coaching churn",
+   "punch": "Shield in its second season (2023), Challenge Cup 2024, then 10th and 6th: about what its money says"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Diego_Wave_FC"
+  ]
+ },
+ {
+  "espn_id": "15363",
+  "name": "Seattle Reign FC",
+  "league": "nwsl",
+  "comeback": 4,
+  "punch": 5,
+  "why": {
+   "comeback": "Played in exile in Tacoma 2019-21, returned to Seattle 2022; sale uncertainty 2024 (13th) before Sounders/Carlyle bought it, 5th in 2025",
+   "punch": "Shields 2014, 2015, 2022 and a 2023 final; mid-table since 2024"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seattle_Reign_FC"
+  ]
+ },
+ {
+  "espn_id": "19141",
+  "name": "Utah Royals",
+  "league": "nwsl",
+  "comeback": 5,
+  "punch": 3,
+  "why": {
+   "comeback": "Folded in 2020 after owner Hansen's scandal; identity revived by new owners in 2024, still bottom-half",
+   "punch": "Low expansion fee, 11th and 12th in 2024-25, no clear plan yet"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Utah_Royals"
+  ]
+ },
+ {
+  "espn_id": "15365",
+  "name": "Washington Spirit",
+  "league": "nwsl",
+  "comeback": 5,
+  "punch": 4,
+  "why": {
+   "comeback": "Coach Burke abuse case 2021; players and fans pushed owner Baldwin to sell; Kang took over 2022 (11th), finals 2024 and 2025",
+   "punch": "Champions 2021, finals 2024-25, but on the league's heaviest investment (Kang, record Rodman deal)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Washington_Spirit"
+  ]
+ },
+ {
+  "espn_id": "19405",
+  "name": "Birmingham Legion FC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 3,
+  "why": {
+   "comeback": "Founded 2019; ended Alabama stadium lease 2021, otherwise ordinary decline",
+   "punch": "Good 2021-22, then slide to 12th East in 2025 and poor 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Birmingham_Legion_FC"
+  ]
+ },
+ {
+  "espn_id": "131579",
+  "name": "Brooklyn FC",
+  "league": "usl",
+  "comeback": 0,
+  "punch": 3,
+  "why": {
+   "comeback": "First season 2026 after repeated delays, too new for a story",
+   "punch": "Multi-club North Sixth Group owners; 12th of 13 in its first season"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brooklyn_FC_(2026)"
+  ]
+ },
+ {
+  "espn_id": "9729",
+  "name": "Charleston Battery",
+  "league": "usl",
+  "comeback": 5,
+  "punch": 7,
+  "why": {
+   "comeback": "Oldest continuous US pro club; dropped a division (2010), ownership changes, left its own stadium (2019), worst season 2022, then a record 34-point turnaround to the 2023 final",
+   "punch": "2023 final and 2nd in 2024-25 with crowds of ~3,000-4,000 (budget estimate: modest)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charleston_Battery"
+  ]
+ },
+ {
+  "espn_id": "17830",
+  "name": "Colorado Springs Switchbacks FC",
+  "league": "usl",
+  "comeback": 2,
+  "punch": 6,
+  "why": {
+   "comeback": "Struggled 2017-20 in a growing league; owner-built downtown stadium 2021; no deep crisis",
+   "punch": "2024 USL Championship title from a small market; otherwise mid-table (8th West 2025); budget estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colorado_Springs_Switchbacks_FC"
+  ]
+ },
+ {
+  "espn_id": "19179",
+  "name": "Detroit City FC",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2012 by five residents; fans funded Keyworth's restoration (2016) and $1m in units (2020) to climb from the NPSL to the USL Championship; losses of $9.6m since and stadium delayed",
+   "punch": "Playoffs most seasons since 2022 and 3rd East 2026 as a supporter-funded club, though running losses"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Detroit_City_FC"
+  ]
+ },
+ {
+  "espn_id": "19407",
+  "name": "El Paso Locomotive FC",
+  "league": "usl",
+  "comeback": 2,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2019; 2024 slump (12th) then 1st in the West 2026; ordinary ups and downs",
+   "punch": "Conference finals 2019-20, 1st West 2026 in a smaller market, uneven years between; budget estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/El_Paso_Locomotive_FC"
+  ]
+ },
+ {
+  "espn_id": "18446",
+  "name": "FC Tulsa",
+  "league": "usl",
+  "comeback": 2,
+  "punch": 6,
+  "why": {
+   "comeback": "Rebranded 2020 after local owners bought it; four poor seasons 2021-24 before 2025 Western title",
+   "punch": "2025 Western Conference champions in a baseball park with ~4,000 crowds; budget estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Tulsa"
+  ]
+ },
+ {
+  "espn_id": "19411",
+  "name": "Hartford Athletic",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 6,
+  "why": {
+   "comeback": "Founded 2019; last in the league in 2023, then USL Cup 2025 and a 2026 Cup final",
+   "punch": "Small crowds; first trophy 2025 and back-to-back cup finals under Burke; budget estimate"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hartford_Athletic"
+  ]
+ },
+ {
+  "espn_id": "17360",
+  "name": "Indy Eleven",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 4,
+  "why": {
+   "comeback": "Survived the NASL's collapse (moved to USL 2018); failed MLS bids and the Eleven Park stadium deal in doubt since 2024",
+   "punch": "Mostly mid-table, 2024 U.S. Open Cup semi-final; does about what its money says"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indy_Eleven"
+  ]
+ },
+ {
+  "espn_id": "18987",
+  "name": "Las Vegas Lights FC",
+  "league": "usl",
+  "comeback": 3,
+  "punch": 3,
+  "why": {
+   "comeback": "City sold Cashman Field (2025); 2026 is its last season there with no 2027 home; little fan fight",
+   "punch": "Bottom of the table most years (3-21-10 in 2023); 2024 semi-final the exception"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Las_Vegas_Lights_FC"
+  ]
+ },
+ {
+  "espn_id": "21822",
+  "name": "Lexington",
+  "league": "usl",
+  "comeback": 0,
+  "punch": 4,
+  "why": {
+   "comeback": "Founded 2023, too new; local owners built its own stadium 2024",
+   "punch": "9th in USL1 twice and 9th West in its first USLC season; mid-table 2026"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lexington_SC"
+  ]
+ },
+ {
+  "espn_id": "19410",
+  "name": "Loudoun United FC",
+  "league": "usl",
+  "comeback": 1,
+  "punch": 4,
+  "why": {
+   "comeback": "Ex-D.C. United reserve side sold to Attain in 2023; no real adversity",
+   "punch": "Bottom of the East 2021-24, 6th in 2025 on small crowds and budget; estimate"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Loudoun_United_FC"
+  ]
+ }
+]
