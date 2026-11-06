@@ -1,0 +1,320 @@
+[
+ {
+  "espn_id": "349",
+  "name": "AFC Bournemouth",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/AFC_Bournemouth"
+  ]
+ },
+ {
+  "espn_id": "359",
+  "name": "Arsenal",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arsenal_F.C."
+  ]
+ },
+ {
+  "espn_id": "362",
+  "name": "Aston Villa",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 1970s-80s hooligan firms were about violence, not politics; the anti-Traveller banner fine was one incident"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aston_Villa_F.C."
+  ]
+ },
+ {
+  "espn_id": "337",
+  "name": "Brentford",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found (Bees United is a fan-ownership trust, not a political group)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brentford_F.C."
+  ]
+ },
+ {
+  "espn_id": "331",
+  "name": "Brighton & Hove Albion",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; LGBTQ+ inclusion and the 2017 Kick It Out Israel coexistence launch count as inclusion work, not a political identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C."
+  ]
+ },
+ {
+  "espn_id": "363",
+  "name": "Chelsea",
+  "league": "epl",
+  "lean": 3.5,
+  "why": {
+   "lean": "Chelsea Headhunters firm had documented links to the National Front, Combat 18 and loyalist groups (1970s-80s); Nazi-symbol flag at Vidi 2018; a firm, not the main support; club runs a high-profile anti-antisemitism campaign (2018 on)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+   "https://en.wikipedia.org/wiki/Chelsea_Headhunters"
+  ]
+ },
+ {
+  "espn_id": "388",
+  "name": "Coventry City",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; fan boycotts (2013-14, Sixfields) were against owners SISU, not political"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Coventry_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "384",
+  "name": "Crystal Palace",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Holmesdale Fanatics (2005-2026) made current-affairs banners (e.g. against the Saudi Newcastle takeover, 2021) aimed at football governance rather than a left or right stance"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Crystal_Palace_F.C.",
+   "https://en.wikipedia.org/wiki/Holmesdale_Fanatics"
+  ]
+ },
+ {
+  "espn_id": "368",
+  "name": "Everton",
+  "league": "epl",
+  "lean": 6,
+  "why": {
+   "lean": "shares the Merseyside boycott of The Sun after Hillsborough; club banned the paper from all its sites in 2017 after fan petitions; less documented left identity than Liverpool"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Everton_F.C.",
+   "https://en.wikipedia.org/wiki/Coverage_of_the_Hillsborough_disaster_by_The_Sun"
+  ]
+ },
+ {
+  "espn_id": "370",
+  "name": "Fulham",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fulham_F.C."
+  ]
+ },
+ {
+  "espn_id": "306",
+  "name": "Hull City",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found (a famous Labour-MP fan, John Prescott, is personal, not club culture)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hull_City_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "373",
+  "name": "Ipswich Town",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ipswich_Town_F.C."
+  ]
+ },
+ {
+  "espn_id": "357",
+  "name": "Leeds United",
+  "league": "epl",
+  "lean": 4.5,
+  "why": {
+   "lean": "National Front sold Bulldog and recruited at Elland Road in the 1980s; countered by Leeds Fans United Against Racism and Fascism (1987, Marching Altogether fanzine); today mixed, no clear identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leeds_United_F.C.",
+   "https://en.wikipedia.org/wiki/Leeds_United_Service_Crew"
+  ]
+ },
+ {
+  "espn_id": "364",
+  "name": "Liverpool",
+  "league": "epl",
+  "lean": 8,
+  "why": {
+   "lean": "Sun boycott since 1989 and club ban on the paper (2017); Spirit of Shankly supporters' union (2008) campaigns with trade unions and Labour figures; socialist-city, 'Scouse not English' culture (brief's reference point)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+   "https://en.wikipedia.org/wiki/Spirit_of_Shankly",
+   "https://en.wikipedia.org/wiki/Coverage_of_the_Hillsborough_disaster_by_The_Sun"
+  ]
+ },
+ {
+  "espn_id": "382",
+  "name": "Manchester City",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear left-right identity found; Abu Dhabi state ownership (2008) and sportswashing criticism are about the owner, not the support's politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_City_F.C."
+  ]
+ },
+ {
+  "espn_id": "360",
+  "name": "Manchester United",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; anti-Glazer protests (2005 on, 2021) are about ownership, not left or right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "361",
+  "name": "Newcastle United",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; fans split over the 2021 Saudi PIF takeover (large majority in favour, a small Newcastle Fans Against Sportswashing group against)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newcastle_United_F.C."
+  ]
+ },
+ {
+  "espn_id": "393",
+  "name": "Nottingham Forest",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C."
+  ]
+ },
+ {
+  "espn_id": "366",
+  "name": "Sunderland",
+  "league": "epl",
+  "lean": 6,
+  "why": {
+   "lean": "a 2014 YouGov poll found Sunderland supporters leaned left; fans sometimes sing 'The Red Flag'; no organised political group"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sunderland_A.F.C."
+  ]
+ },
+ {
+  "espn_id": "367",
+  "name": "Tottenham Hotspur",
+  "league": "epl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear left-right identity found; historic Jewish following and the contested 'Yid Army' self-label (from c.1980) are identity, not a political lean"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C."
+  ]
+ },
+ {
+  "espn_id": "598",
+  "name": "1. FC Union Berlin",
+  "league": "bl",
+  "lean": 8,
+  "why": {
+   "lean": "brief's reference point: non-conformist, anti-commercial fan culture (member-built stadium 2008, silent protests against RB Leipzig 2014, 2019); leading ultras seen as left-leaning, though press notes a mixed wider support"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/1._FC_Union_Berlin"
+  ]
+ },
+ {
+  "espn_id": "131",
+  "name": "Bayer Leverkusen",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; roots in a socialist workers' sports club (Germania Wiesdorf, banned by the Nazis) are historical"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen"
+  ]
+ },
+ {
+  "espn_id": "132",
+  "name": "Bayern Munich",
+  "league": "bl",
+  "lean": 6,
+  "why": {
+   "lean": "ultras (Schickeria) take stands against right-wing extremism, racism and homophobia, DFB Julius Hirsch Award 2014; Kurt Landauer heritage; club otherwise seen as Bavarian establishment"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Bayern_Munich"
+  ]
+ },
+ {
+  "espn_id": "124",
+  "name": "Borussia Dortmund",
+  "league": "bl",
+  "lean": 6,
+  "why": {
+   "lean": "politicised but divided: far-right Borussenfront (1980s-2000s) and Northside hooligans (2018 intimidation of ultras) against progressive ultras (The Unity); club statutes reject far-right extremism, Holocaust remembrance trips and over EUR 1m to Yad Vashem etc."
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Borussia_Dortmund"
+  ]
+ }
+]

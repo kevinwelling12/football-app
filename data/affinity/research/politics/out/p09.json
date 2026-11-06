@@ -1,0 +1,316 @@
+[
+ {
+  "espn_id": "226",
+  "name": "Atlante",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; historic working-class 'Equipo del Pueblo' (1920s-50s) is a class image, not a political stance"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlante_F.C."
+  ]
+ },
+ {
+  "espn_id": "216",
+  "name": "Atlas",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; La Barra 51 known for loyalty and 2022 Querétaro riot, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlas_F.C."
+  ]
+ },
+ {
+  "espn_id": "15720",
+  "name": "Atlético de San Luis",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; 2013 franchise, Atlético Madrid satellite"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atl%C3%A9tico_San_Luis"
+  ]
+ },
+ {
+  "espn_id": "218",
+  "name": "Cruz Azul",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; owned by a workers' cement cooperative (since 1934) with a working-class image, but no political positions by club or barra"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cruz_Azul"
+  ]
+ },
+ {
+  "espn_id": "17851",
+  "name": "FC Juárez",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; El Kartel's 'Paz y Fútbol' banners are anti-violence, not left-right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Ju%C3%A1rez"
+  ]
+ },
+ {
+  "espn_id": "219",
+  "name": "Guadalajara",
+  "league": "mex",
+  "lean": 4.5,
+  "why": {
+   "lean": "Club ideology tied to Mexican nationalism through its Mexican-only signing policy (since early 1900s), criticised as discriminatory (Chivas USA); in Mexico nationalism is not clearly right-coded, so only slightly below centre"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.D._Guadalajara"
+  ]
+ },
+ {
+  "espn_id": "228",
+  "name": "León",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Le%C3%B3n"
+  ]
+ },
+ {
+  "espn_id": "220",
+  "name": "Monterrey",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; La Adicción known for the Clásico Regio rivalry, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.F._Monterrey"
+  ]
+ },
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; electricians' (Luz y Fuerza) origins and 1950 union co-ownership are history, no current political culture"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Necaxa"
+  ]
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/C.F._Pachuca"
+  ]
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; owner Salinas Pliego's own politics are not taken up by the club"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Puebla"
+  ]
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; university-owned club, but La Rebel and La Plus show no documented political stance (patriotic flag displays only)"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Universidad_Nacional"
+  ]
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Resistencia Albiazul known for chanting and the 2022 riot, not politics"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quer%C3%A9taro_F.C."
+  ]
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Santos_Laguna"
+  ]
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Libres y Lokos (1998) are Mexico's largest ultras but apolitical as documented"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tigres_UANL"
+  ]
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Tijuana"
+  ]
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found; Perra Brava campaigns against stadium violence, not a political position"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Deportivo_Toluca_F.C."
+  ]
+ },
+ {
+  "espn_id": "887",
+  "name": "AEK Athens",
+  "league": "ucl",
+  "lean": 8.5,
+  "why": {
+   "lean": "Original 21 widely known as left-wing and anti-fascist: anti-Golden Dawn statements (2012), 'Throw Nazis out of football' (2018), anti-war and pro-Palestine banners; club founded by Constantinople refugees (1924)"
+  },
+  "confidence": "high",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Original_21",
+   "https://en.wikipedia.org/wiki/AEK_Athens_F.C."
+  ]
+ },
+ {
+  "espn_id": "2980",
+  "name": "Bodo/Glimt",
+  "league": "ucl",
+  "lean": 6.5,
+  "why": {
+   "lean": "Club took a position: donated Maccabi Tel Aviv match proceeds to Gaza aid twice (2024, Jan 2025) with a board statement on 'violations of international law'; supporters themselves not a political end"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FK_Bod%C3%B8/Glimt"
+  ]
+ },
+ {
+  "espn_id": "570",
+  "name": "Club Brugge",
+  "league": "ucl",
+  "lean": 3.5,
+  "why": {
+   "lean": "Organised far-right gestures in part of the away support: Kühnen salutes answering Standard's anti-racism display (Aug 2024, 34 banned), salutes at the 2024 Super Cup and May 2026; club condemns and bans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Brugge_KV"
+  ]
+ },
+ {
+  "espn_id": "437",
+  "name": "FC Porto",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found on the left-right axis; identity is northern regional pride against Lisbon (Invicta), not party-political"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Porto"
+  ]
+ },
+ {
+  "espn_id": "436",
+  "name": "Fenerbahce",
+  "league": "ucl",
+  "lean": 5.5,
+  "why": {
+   "lean": "Mixed: Kemalist/republican identity ('Cumhuriyet', Atatürk banners, 2023 Riyadh Super Cup walkout), which in Turkey sits centre-left secular-nationalist; fans led 'Government resign' chants after the Feb 2023 earthquake and joined Gezi 2013; also nationalist displays"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fenerbah%C3%A7e_S.K._(football)"
+  ]
+ },
+ {
+  "espn_id": "142",
+  "name": "Feyenoord Rotterdam",
+  "league": "ucl",
+  "lean": 4.5,
+  "why": {
+   "lean": "Working-class 'people's club' with no stated politics; recurring antisemitic chanting aimed at Ajax (e.g. 'Hamas, Hamas' outside De Kuip, April 2023, prosecutor inquiry) is rivalry-driven rather than an organised right-wing identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Feyenoord"
+  ]
+ },
+ {
+  "espn_id": "432",
+  "name": "Galatasaray",
+  "league": "ucl",
+  "lean": 5,
+  "why": {
+   "lean": "Mixed: ultrAslan styles itself 'independent'; joined Istanbul United at Gezi (2013) and anti-government chants (2023), 'Stop the genocide' banner, but also nationalist displays; 2026 split after leader's Öcalan slogans"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/UltrAslan",
+   "https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)"
+  ]
+ }
+]
