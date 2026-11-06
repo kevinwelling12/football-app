@@ -22,6 +22,7 @@ for path, kw in [('data/affinity/traits.json', {'indent': 1}), ('web/data/traits
     for key, p in prof.items():
         for name in rows_in.get(key, {}).get('clubs', []):
             for i in by_name.get(name, []):
+                if T[i].get('cityp', {}).get('manual'): continue  # set by hand (Sacramento), kept
                 T[i]['cityp'] = {k: (int(v) if isinstance(v, float) and v == int(v) else v) for k, v in p.items()}; n += 1
     json.dump(T, open(ROOT / path, 'w'), ensure_ascii=False, **kw)
     left = [c['name'] for k, c in T.items() if not k.startswith('_') and 'cityp' not in c]
