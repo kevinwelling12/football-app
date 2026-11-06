@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "97",
+  "name": "Osasuna",
+  "league": "esp",
+  "notes": {
+   "contender": "Copa del Rey final 2023, 7th that season; 17th in 2025-26, never won a major trophy",
+   "stewardship": "Members; past 2013 match-fixing case (CAS restored 2023 Conference League place)",
+   "voice": "Member-owned, members elect the president; one of four non-SAD clubs",
+   "city": "Pamplona's and Navarre's club, Basque name ('health')"
+  }
+ },
+ {
+  "espn_id": "87",
+  "name": "Racing Santander",
+  "league": "esp",
+  "notes": {
+   "contender": "Promoted as Segunda champions 2026; third tier in 2021-22",
+   "stewardship": "Sebastián Ceria, Santander-born businessman; no major issues found",
+   "voice": "Fan pressure during the 2013-14 crisis (president ousted); no formal power since (estimate)",
+   "city": "Santander and Cantabria's only big club; strong regional identity"
+  }
+ },
+ {
+  "espn_id": "101",
+  "name": "Rayo Vallecano",
+  "league": "esp",
+  "notes": {
+   "contender": "8th and 8th in La Liga 2024-26; 2026 Conference League runners-up",
+   "stewardship": "Raúl Martín Presa, private owner in long open conflict with fans over neglect of stadium and club",
+   "voice": "No ownership; fan campaigns (Zozulya 2017, protests against owner and stadium neglect) have pressured the club",
+   "city": "The club of Vallecas, a working-class Madrid barrio that identifies with it; shares Madrid with two giants"
+  }
+ },
+ {
+  "espn_id": "244",
+  "name": "Real Betis",
+  "league": "esp",
+  "notes": {
+   "contender": "Copa 2022, Conference League final 2025, regular Europe",
+   "stewardship": "local SAD led by Angel Haro, no major owner issues",
+   "voice": "SAD with dispersed small shareholders and active shareholder associations",
+   "city": "huge popular club in Seville, shares city with Sevilla"
+  }
+ },
+ {
+  "espn_id": "86",
+  "name": "Real Madrid",
+  "league": "esp",
+  "notes": {
+   "contender": "36 league titles, 17 European Cups",
+   "stewardship": "members own it, but Super League push and plan to sell part of a subsidiary",
+   "voice": "member-owned (socios), but Perez unopposed since 2013, restrictive election rules",
+   "city": "global brand sharing Madrid with Atletico"
+  }
+ },
+ {
+  "espn_id": "89",
+  "name": "Real Sociedad",
+  "league": "esp",
+  "notes": {
+   "contender": "Copa del Rey 2020 and 2026; Champions League 2023-24; 10th in 2025-26",
+   "stewardship": "President Jokin Aperribay; locally held, academy-led long-term model",
+   "voice": "S.A.D. with shares widely held by small local shareholders; limited formal fan power",
+   "city": "San Sebastián's club and a pillar of Basque identity; a small, wealthy city"
+  }
+ },
+ {
+  "espn_id": "243",
+  "name": "Sevilla",
+  "league": "esp",
+  "notes": {
+   "contender": "Record seven Europa Leagues (latest 2023), but 13th in 2025-26 and recent relegation fights",
+   "stewardship": "Fragmented shareholders (del Nido, Carrión, A-CAP after 777 Partners); sale of ~80% to Five Eleven Capital/Sergio Ramos agreed May 2026",
+   "voice": "Accionistas Unidos minor-shareholder group active in boardroom fights; little real power",
+   "city": "Huge local passion, but shares Seville equally with Real Betis"
+  }
+ },
+ {
+  "espn_id": "94",
+  "name": "Valencia",
+  "league": "esp",
+  "notes": {
+   "contender": "Copa del Rey 2019, final 2022; mid-table since (9th in 2025-26)",
+   "stewardship": "Peter Lim (Meriton Holdings) since 2014; heavy losses, long fan protests, son Kiat Lim president",
+   "voice": "Fan movement Libertad VCF and boycotts against the owner, no real power",
+   "city": "The main club of Spain's third city, shared with Levante"
+  }
+ },
+ {
+  "espn_id": "102",
+  "name": "Villarreal",
+  "league": "esp",
+  "notes": {
+   "contender": "2021 Europa League, UCL semis 2006/2022, regular top-five",
+   "stewardship": "Fernando Roig, local industrialist, owner since 1997, long-term",
+   "voice": "owner-president model, no fan governance",
+   "city": "town of ~50,000 lives through the club"
+  }
+ },
+ {
+  "espn_id": "103",
+  "name": "AC Milan",
+  "league": "ita",
+  "notes": {
+   "contender": "Scudetto 2022, Supercoppa 2025; 8th 2024-25, 5th 2025-26",
+   "stewardship": "RedBird Capital Partners (private equity), 99.93%",
+   "voice": "Curva and fan protests against the owners, no formal power",
+   "city": "Shares Milan with Inter; big-city club"
+  }
+ },
+ {
+  "espn_id": "104",
+  "name": "AS Roma",
+  "league": "ita",
+  "notes": {
+   "contender": "Conference League 2022, Europa final 2023, no league title since 2001",
+   "stewardship": "Friedkin (US) also owns Everton",
+   "voice": "no fan governance",
+   "city": "shares Rome with Lazio, the bigger popular club"
+  }
+ },
+ {
+  "espn_id": "105",
+  "name": "Atalanta",
+  "league": "ita",
+  "notes": {
+   "contender": "Europa League 2024, regular Champions League; 7th in 2025-26",
+   "stewardship": "La Dea: Stephen Pagliuca-led US consortium 55%, Percassi family (local, president) 45%",
+   "voice": "Club close to its supporters (Festa della Dea), no formal fan power",
+   "city": "Bergamo lives through La Dea; every newborn gets a shirt"
+  }
+ },
+ {
+  "espn_id": "107",
+  "name": "Bologna",
+  "league": "ita",
+  "notes": {
+   "contender": "Coppa Italia 2025, Champions League 2024-25; 8th in 2025-26",
+   "stewardship": "Joey Saputo (BFC 1909 Lux), president since 2014; also owns CF Montréal",
+   "voice": "No documented fan influence on decisions",
+   "city": "Bologna's only big club, strong local identity"
+  }
+ },
+ {
+  "espn_id": "2925",
+  "name": "Cagliari",
+  "league": "ita",
+  "notes": {
+   "contender": "Relegated 2022, back 2023; 14th-16th since; 1970 title is far back",
+   "stewardship": "Tommaso Giulini (Fluorsid) since 2014, Sardinian industrialist, no major issues",
+   "voice": "No formal fan power; estimate",
+   "city": "Sardinia's club; badge carries the Sardinian flag, nickname Isolani"
+  }
+ },
+ {
+  "espn_id": "2572",
+  "name": "Como",
+  "league": "ita",
+  "notes": {
+   "contender": "4th in Serie A 2025-26, first UCL qualification; no major honours",
+   "stewardship": "Billionaire Hartono brothers fund an imported squad; stable but asset-style spending",
+   "voice": "Hartono-owned since 2019, no fan voice; fan-backed refoundings after 2004/2017 bankruptcies",
+   "city": "Well-loved local club in a small lakeside city, but low crowds"
+  }
+ },
+ {
+  "espn_id": "109",
+  "name": "Fiorentina",
+  "league": "ita",
+  "notes": {
+   "contender": "Conference League finals 2023 and 2024; 15th in 2025-26",
+   "stewardship": "Commisso family (Mediacom); Rocco died Jan 2026, son Giuseppe president; built Viola Park",
+   "voice": "No documented fan influence on decisions",
+   "city": "Florence's club, viola identity across the city"
+  }
+ },
+ {
+  "espn_id": "4057",
+  "name": "Frosinone",
+  "league": "ita",
+  "notes": {
+   "contender": "Promoted as Serie B runners-up 2025-26; relegated from Serie A after one season in 2024.",
+   "stewardship": "Local industrialist family Stirpe (Maurizio Stirpe, president since 2003, built the stadium).",
+   "voice": "No supporter ownership or documented influence found.",
+   "city": "The provincial town's only professional club and focus of Ciociaria identity."
+  }
+ },
+ {
+  "espn_id": "3263",
+  "name": "Genoa",
+  "league": "ita",
+  "notes": {
+   "contender": "Relegated 2022, back 2023; 16th in 2025-26; last title 1924",
+   "stewardship": "Dan Sucu (Romanian businessman, also owns Rapid Bucharest) since 2024 after 777 Partners",
+   "voice": "No formal fan power; estimate",
+   "city": "Shares Genoa with Sampdoria; Italy's oldest club and a deep local bond"
+  }
+ },
+ {
+  "espn_id": "110",
+  "name": "Internazionale",
+  "league": "ita",
+  "notes": {
+   "contender": "Title contender, two UCL finals in 3 years",
+   "stewardship": "Oaktree Capital (credit fund) owns ~99.6%",
+   "voice": "No fan power",
+   "city": "Shares Milan with AC Milan"
+  }
+ },
+ {
+  "espn_id": "111",
+  "name": "Juventus",
+  "league": "ita",
+  "notes": {
+   "contender": "Nine straight titles 2012-20, Coppa Italia 2024; 6th in 2025-26",
+   "stewardship": "Agnelli family through Exor since 1923; Calciopoli and 2023 accounts case (UEFA settlement)",
+   "voice": "Listed company controlled by Exor; no fan influence",
+   "city": "Support is national (Italy's most supported club); Turin also has Torino"
+  }
+ },
+ {
+  "espn_id": "112",
+  "name": "Lazio",
+  "league": "ita",
+  "notes": {
+   "contender": "Coppa Italia 2013 and 2019, Supercoppa 2017 and 2019, Serie A runners-up 2023; 9th in 2025-26",
+   "stewardship": "Claudio Lotito (Lazio Events, 66.7%), long-term private owner, frequent fan protests",
+   "voice": "No formal fan ownership or trust; Curva holds informal sway only",
+   "city": "Shares Rome with Roma, the larger local following"
+  }
+ },
+ {
+  "espn_id": "113",
+  "name": "Lecce",
+  "league": "ita",
+  "notes": {
+   "contender": "Serie B champions 2022; 17th in Serie A in 2024-25 and 2025-26",
+   "stewardship": "Saverio Sticchi Damiani, local majority owner and president; Alvin Sariaatmadja minority",
+   "voice": "Ultras protests (ticket prices) but no formal fan power",
+   "city": "Only big club of Lecce and the Salento; record 21,726 season tickets in 2024-25"
+  }
+ },
+ {
+  "espn_id": "4007",
+  "name": "Monza",
+  "league": "ita",
+  "notes": {
+   "contender": "Relegated 2025, promoted via play-offs 2026",
+   "stewardship": "Beckett Layne Ventures, US investment firm (bought from Fininvest 2025-26)",
+   "voice": "Fan clubs united since 2022; no formal power",
+   "city": "Monza's club, in Milan's shadow"
+  }
+ },
+ {
+  "espn_id": "114",
+  "name": "Napoli",
+  "league": "ita",
+  "notes": {
+   "contender": "Scudetti 2023 and 2025",
+   "stewardship": "De Laurentiis, local, prudent, also owns Bari",
+   "voice": "No fan power, owner combative",
+   "city": "Napoli is Naples' identity, a working city"
+  }
+ }
+]

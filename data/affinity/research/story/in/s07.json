@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "115",
+  "name": "Parma",
+  "league": "ita",
+  "notes": {
+   "contender": "Promoted 2024; 16th in 2024-25, 13th in 2025-26; European honours are from the 1990s",
+   "stewardship": "Krause Group (Kyle Krause, Iowa family business, owner since 2020), long-term investment, no major issues",
+   "voice": "Fan-funded refoundation in 2015 (Parma Partecipazioni Calcistiche), since sold to Krause; organised fan clubs",
+   "city": "The city's only major club, tied to its ducal identity"
+  }
+ },
+ {
+  "espn_id": "3997",
+  "name": "Sassuolo",
+  "league": "ita",
+  "notes": {
+   "contender": "Relegated 2024, Serie B champions 2025, 11th in 2025-26",
+   "stewardship": "Mapei S.p.A. (Squinzi family company), corporate patron, stable",
+   "voice": "Company-run, no fan role",
+   "city": "Town club of 40,000 playing in Reggio Emilia, little local bond beyond Sassuolo"
+  }
+ },
+ {
+  "espn_id": "239",
+  "name": "Torino",
+  "league": "ita",
+  "notes": {
+   "contender": "Last title 1976, last cup 1993; 11th in 2024-25, 12th in 2025-26",
+   "stewardship": "Urbano Cairo (UT Communication) since 2005; long fan opposition over lack of ambition",
+   "voice": "Sustained Curva campaigns against Cairo, no formal power; DASPO bans after protests",
+   "city": "Shares Turin with Juventus but claims the city's working-class, local identity"
+  }
+ },
+ {
+  "espn_id": "118",
+  "name": "Udinese",
+  "league": "ita",
+  "notes": {
+   "contender": "Long run in Serie A, mid- to lower-table; 10th in 2025-26",
+   "stewardship": "Pozzo family (Gesapar) since 1986, also owned Watford (multi-club); repeated sale talks with US funds in 2025",
+   "voice": "Fan campaigns on the Friulian eagle on the badge; no formal power",
+   "city": "Main club of Udine and Friuli, Friulian identity"
+  }
+ },
+ {
+  "espn_id": "17530",
+  "name": "Venezia",
+  "league": "ita",
+  "notes": {
+   "contender": "Relegated 2025, Serie B champions 2025-26",
+   "stewardship": "VFC Newco 2023 LLC, US investors (Leiweke, Bodie, McDonald), raised EUR 100m in 2026",
+   "voice": "No formal fan power; ownership is a US investor group",
+   "city": "The city's club but Venice's identity is not football; merged with Mestre in 1987"
+  }
+ },
+ {
+  "espn_id": "172",
+  "name": "AJ Auxerre",
+  "league": "fra",
+  "notes": {
+   "contender": "Last honours 2005 (Coupe de France); 15th in Ligue 1 2025-26.",
+   "stewardship": "Chinese businessman James Zhou, owner since 2016; conventional, stable.",
+   "voice": "No supporter influence found.",
+   "city": "A small Burgundy town where the club, built by Guy Roux, is the town's identity."
+  }
+ },
+ {
+  "espn_id": "174",
+  "name": "AS Monaco",
+  "league": "fra",
+  "notes": {
+   "contender": "Ligue 1 champions 2017, 2nd in 2024, 3rd in 2021, UCL regulars; 7th in 2025-26.",
+   "stewardship": "Russian billionaire Dmitry Rybolovlev (66.67%) since 2011 (oligarch); House of Grimaldi/Principality 33.33%; sale explored since 2024.",
+   "voice": "No supporter influence.",
+   "city": "Club of a tiny principality with a thin local fan base."
+  }
+ },
+ {
+  "espn_id": "7868",
+  "name": "Angers",
+  "league": "fra",
+  "notes": {
+   "contender": "13th in 2025-26; relegated 2023, no major honours (Coupe de France finalist 2017).",
+   "stewardship": "Chabane family (president Romain Chabane); FIFA transfer bans in 2021 and 2023.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a mid-sized city; modest bond."
+  }
+ },
+ {
+  "espn_id": "6997",
+  "name": "Brest",
+  "league": "fra",
+  "notes": {
+   "contender": "3rd in 2023-24 and Champions League 2024-25, then 9th and 12th.",
+   "stewardship": "Local owners Denis and Gérard Le Saint (Breton businessmen); president since 2016.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "The only pro club of a working naval port at the tip of Brittany."
+  }
+ },
+ {
+  "espn_id": "3236",
+  "name": "Le Havre AC",
+  "league": "fra",
+  "notes": {
+   "contender": "14th in Ligue 1 2025-26; last major honour Coupe de France 1959.",
+   "stewardship": "Blue Crow Sports Group (Jeff Luhnow), a multi-club investor.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a working port city; France's oldest professional club."
+  }
+ },
+ {
+  "espn_id": "2697",
+  "name": "Le Mans",
+  "league": "fra",
+  "notes": {
+   "contender": "Promoted to Ligue 1 in May 2026 after 17 years away; no major honours.",
+   "stewardship": "Brazilian investment consortium OutField (Pedro Oliveira), with Djokovic, Massa, Courtois among co-investors.",
+   "voice": "No supporter ownership or documented influence found.",
+   "city": "Re-founded after 2013 liquidation; city identity tied mostly to the 24 Hours race."
+  }
+ },
+ {
+  "espn_id": "175",
+  "name": "Lens",
+  "league": "fra",
+  "notes": {
+   "contender": "2nd in Ligue 1, Coupe de France 2026",
+   "stewardship": "Oughourlian multi-club holder",
+   "voice": "No fan power",
+   "city": "Town of 30,000 lives through the club"
+  }
+ },
+ {
+  "espn_id": "166",
+  "name": "Lille",
+  "league": "fra",
+  "notes": {
+   "contender": "2021 champions, regular Europe",
+   "stewardship": "Merlyn Partners investment fund",
+   "voice": "No fan power",
+   "city": "City's club"
+  }
+ },
+ {
+  "espn_id": "273",
+  "name": "Lorient",
+  "league": "fra",
+  "notes": {
+   "contender": "10th in Ligue 1 2025-26 after Ligue 2 title; Coupe de France 2002.",
+   "stewardship": "Black Knight Football Club (Bill Foley) sole shareholder since Jan 2026; multi-club group with Bournemouth.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Main club of a small Breton port town; strong local following."
+  }
+ },
+ {
+  "espn_id": "167",
+  "name": "Lyon",
+  "league": "fra",
+  "notes": {
+   "contender": "Seven straight titles to 2008, Coupe de France 2012, UCL semi 2020; 4th in 2025-26.",
+   "stewardship": "Michele Kang bought 87.8% of Eagle Football Group in June 2026 after Textor's debt-laden era and a 2025 DNCG relegation (overturned).",
+   "voice": "No formal supporter power; shareholder pressure, not fans, forced Textor out in 2025.",
+   "city": "Main club of France's third city, but a big city that shares attention with other sports."
+  }
+ },
+ {
+  "espn_id": "176",
+  "name": "Marseille",
+  "league": "fra",
+  "notes": {
+   "contender": "Ligue 1 2010, three Coupes de la Ligue, Europa League final 2018, 2nd in 2022; 5th in 2025-26.",
+   "stewardship": "Frank McCourt (95%) since 2016; conventional private owner with heavy losses.",
+   "voice": "Supporter groups historically manage virage season tickets; 2021 protests preceded the president's exit.",
+   "city": "OM is the identity of a working port city; highest attendances in France."
+  }
+ },
+ {
+  "espn_id": "2502",
+  "name": "Nice",
+  "league": "fra",
+  "notes": {
+   "contender": "5th in 2024, cup finals 2022 and 2026; 16th in 2025-26, survived playoff 4-1 vs Saint-Étienne.",
+   "stewardship": "INEOS (Jim Ratcliffe) since 2019, multi-club with a Man United stake; club for sale since 2025.",
+   "voice": "Ultras protest against INEOS but have no formal power.",
+   "city": "Only professional club in Nice, with Niçois identity; a tourist city."
+  }
+ },
+ {
+  "espn_id": "6851",
+  "name": "Paris FC",
+  "league": "fra",
+  "notes": {
+   "contender": "11th in 2025-26, first top-flight season since 1979; no major honours.",
+   "stewardship": "Arnault family (Agache Sport 52.4%), Red Bull 10.6% minority; billionaire- and multi-club-linked.",
+   "voice": "No supporter ownership or documented influence.",
+   "city": "Second club in a city dominated by PSG; small, growing base."
+  }
+ },
+ {
+  "espn_id": "160",
+  "name": "Paris Saint-Germain",
+  "league": "fra",
+  "notes": {
+   "contender": "2025 and 2026 UCL",
+   "stewardship": "Qatar state",
+   "voice": "No fan power",
+   "city": "Paris's main club, big-city"
+  }
+ },
+ {
+  "espn_id": "169",
+  "name": "Stade Rennais",
+  "league": "fra",
+  "notes": {
+   "contender": "Coupe de France 2019, 3rd in 2020, regular in Europe; 6th in 2025-26.",
+   "stewardship": "Pinault family's Artémis since 1998, Breton owners investing long-term; academy focus.",
+   "voice": "No documented supporter role in club decisions found.",
+   "city": "The main club of Rennes and a carrier of Breton identity (Stad Roazhon)."
+  }
+ },
+ {
+  "espn_id": "180",
+  "name": "Strasbourg",
+  "league": "fra",
+  "notes": {
+   "contender": "Coupe de la Ligue 2019, 7th in 2025, Conference League semi-final 2026.",
+   "stewardship": "BlueCo (Boehly/Clearlake, Chelsea's owners) since 2023; fans call it a Chelsea feeder.",
+   "voice": "Supporter groups campaign against BlueCo ('BlueCo Out', joint march with Chelsea fans 2026); no power.",
+   "city": "Strong Alsatian regional identity built around the club."
+  }
+ },
+ {
+  "espn_id": "179",
+  "name": "Toulouse",
+  "league": "fra",
+  "notes": {
+   "contender": "Coupe de France 2023 (first major trophy), Europa League 2023-24; 9th in 2025-26.",
+   "stewardship": "RedBird Capital Partners (85%) since 2020: private equity with a stake in AC Milan.",
+   "voice": "No supporter influence found.",
+   "city": "Big city where rugby's Stade Toulousain comes first."
+  }
+ },
+ {
+  "espn_id": "170",
+  "name": "Troyes",
+  "league": "fra",
+  "notes": {
+   "contender": "Yo-yo club: double relegation to 2024, Ligue 2 champions 2025-26, back in Ligue 1.",
+   "stewardship": "City Football Group since 2020, majority Abu Dhabi United Group: state; multi-club feeder.",
+   "voice": "No supporter influence found.",
+   "city": "The only professional club of a small Champagne city."
+  }
+ },
+ {
+  "espn_id": "392",
+  "name": "Birmingham City",
+  "league": "eng2",
+  "notes": {
+   "contender": "League One champions 2025 with record points; League Cup 2011",
+   "stewardship": "Knighthead Capital (investment firm, Tom Wagner) ~97%; Tom Brady minority; heavy investment",
+   "voice": "No supporter ownership or documented fan power",
+   "city": "Shares Birmingham with Aston Villa; strong in east Birmingham"
+  }
+ }
+]

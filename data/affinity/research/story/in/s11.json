@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "435",
+  "name": "Olympiacos",
+  "league": "uel",
+  "notes": {
+   "contender": "Conference League 2024; double 2024-25; 2nd in 2025-26",
+   "stewardship": "Evangelos Marinakis, shipping magnate; multi-club with Nottingham Forest and Rio Ave; on trial (2025) for allegedly backing a violent fan group",
+   "voice": "No supporter ownership or documented influence",
+   "city": "Piraeus's club, seen as the port's working-class, anti-establishment side v Athens"
+  }
+ },
+ {
+  "espn_id": "617",
+  "name": "Omonia Nicosia",
+  "league": "uel",
+  "notes": {
+   "contender": "2025-26 Cypriot champions (22nd title), 2021 title, cups 2022 and 2023",
+   "stewardship": "Stavros Papastavrou, US-based Cypriot businessman, owns the football company since 2018",
+   "voice": "Members voted in 2018 to hand football to a private company; fan control ended",
+   "city": "Nicosia's working-class, left-leaning 'people's club', sharing the city with APOEL"
+  }
+ },
+ {
+  "espn_id": "2790",
+  "name": "RB Salzburg",
+  "league": "uel",
+  "notes": {
+   "contender": "17 titles, 10 in a row to 2023; 2nd in 2024 and 2025 behind Sturm, 3rd in 2025-26",
+   "stewardship": "Red Bull GmbH; part of the Red Bull multi-club network with RB Leipzig",
+   "voice": "None; 2005 fan protests over colours and name ignored, fans left",
+   "city": "Red Bull rebrand of Austria Salzburg; stadium in suburban Wals-Siezenheim; weak local bond"
+  }
+ },
+ {
+  "espn_id": "3746",
+  "name": "SK Sturm Graz",
+  "league": "uel",
+  "notes": {
+   "contender": "Austrian champions 2024 and 2025, runners-up 2025-26",
+   "stewardship": "Member-owned; president Christian Jauk",
+   "voice": "Member club, 20,400 members; the association owns 100% of the pro company",
+   "city": "Graz's bigger club, sharing the city with Grazer AK"
+  }
+ },
+ {
+  "espn_id": "433",
+  "name": "Sparta Prague",
+  "league": "uel",
+  "notes": {
+   "contender": "Czech champions 2023 and 2024; 2nd in 2025-26; 38 titles",
+   "stewardship": "J&T Credit Investments 60%, Daniel Křetínský 40%; billionaire ownership",
+   "voice": "No fan ownership or documented influence",
+   "city": "Shares Prague with Slavia; one of the two big city clubs"
+  }
+ },
+ {
+  "espn_id": "21615",
+  "name": "Torreense",
+  "league": "uel",
+  "notes": {
+   "contender": "Liga Portugal 2: 3rd in 2025-26, lost promotion play-off; won the 2025-26 Taça de Portugal 2-1 v Sporting",
+   "stewardship": "Club (members' association) holds the majority of its SAD; no outside owner found",
+   "voice": "The club bought back majority control of its SAD (about 86%) from a Chinese investor",
+   "city": "Main club of Torres Vedras, a small town of ~80,000; founded 1917"
+  }
+ },
+ {
+  "espn_id": "5807",
+  "name": "Union St.-Gilloise",
+  "league": "uel",
+  "notes": {
+   "contender": "2024-25 Belgian champions (first in 90 years), cups 2024 and 2026, 2025-26 runners-up",
+   "stewardship": "Alex Muzio majority owner and chairman since 2023 (Tony Bloom's co-investor; Bloom had majority 2018-23); analytics-led model",
+   "voice": "Privately owned; no formal supporter power found (estimate)",
+   "city": "Neighbourhood club of Saint-Gilles/Forest and the Marolles in Brussels, sharing the city with Anderlecht"
+  }
+ },
+ {
+  "espn_id": "11706",
+  "name": "Viktoria Plzen",
+  "league": "uel",
+  "notes": {
+   "contender": "Six Czech titles (last 2021-22); 2nd 2024-25, 3rd 2025-26; regular group-stage club.",
+   "stewardship": "FCVP GmbH (Austrian investors Martin Dellenbach and Raphael Landthaler) majority since 2023; Adolf Sadek minority and chairman.",
+   "voice": "Privately owned; no documented supporter influence.",
+   "city": "Plzen's club and identity, a working brewing and industrial city."
+  }
+ },
+ {
+  "espn_id": "7853",
+  "name": "AGF",
+  "league": "uecl",
+  "notes": {
+   "contender": "Superliga champions 2025-26 (first since 1986); bronze 2020 and 2023; cup finals 2016 and 2024.",
+   "stewardship": "Listed AGF A/S; 2025 placement brought in local investors incl. Systematic Holding (Michael Holm, Aarhus).",
+   "voice": "Listed company with many small shareholders; no documented fan control (estimate).",
+   "city": "Aarhus's main club, Denmark's second city; a 40-year title wait followed closely."
+  }
+ },
+ {
+  "espn_id": "139",
+  "name": "Ajax Amsterdam",
+  "league": "uecl",
+  "notes": {
+   "contender": "36 titles, 2022 last; 2nd 2024-25, 5th 2025-26",
+   "stewardship": "Members' association majority, listed on Euronext; NN Group 5%",
+   "voice": "Members' association Vereniging AFC Ajax holds about 73% of the listed company",
+   "city": "Amsterdam's club and the Netherlands' most supported"
+  }
+ },
+ {
+  "espn_id": "20710",
+  "name": "Borac Banja Luka",
+  "league": "uecl",
+  "notes": {
+   "contender": "Bosnian champions 2011, 2021, 2024, 2026; Conference League last 16 in 2024-25.",
+   "stewardship": "President Zvjezdan Misimovic; depends on city and regional public funding (estimate, ownership unclear; not a sovereign state owner).",
+   "voice": "No documented supporter role in decisions (estimate).",
+   "city": "Banja Luka's main club and a symbol of the city and Republika Srpska."
+  }
+ },
+ {
+  "espn_id": "2994",
+  "name": "Braga",
+  "league": "uecl",
+  "notes": {
+   "contender": "Regular 3rd-4th; Taca de Portugal 2016, 2021; League Cup 2020, 2024",
+   "stewardship": "minority stake 29.6% held by QSI (the PSG owner's investment arm); majority with the club and private investors; not majority state-owned",
+   "voice": "Member club holds about 37% of the listed SAD; members elect president",
+   "city": "Braga's main club; 'Arsenalistas' are the city's identity"
+  }
+ },
+ {
+  "espn_id": "10834",
+  "name": "CSKA Sofia",
+  "league": "uecl",
+  "notes": {
+   "contender": "4th in 2025-26, 2026 cup and supercup; last title 2008",
+   "stewardship": "Walter Papazki took control Dec 2025 after Fond Sport (Grisha Ganchev era) handed him its shares; brand dispute with CSKA 1948",
+   "voice": "Privately owned; no formal supporter power found",
+   "city": "Sofia's army club, sharing the capital with Levski"
+  }
+ },
+ {
+  "espn_id": "8089",
+  "name": "CSU Craiova",
+  "league": "uecl",
+  "notes": {
+   "contender": "Liga I and cup double 2025-26 (first title since 1991); Supercup 2026; 2nd in 2020.",
+   "stewardship": "Mihai Rotaru (65%), local businessman and owner since the 2013 refoundation.",
+   "voice": "Owned by Mihai Rotaru; no fan control.",
+   "city": "Oltenia's club and identity, but split with rival claimant FC U Craiova 1948."
+  }
+ },
+ {
+  "espn_id": "21943",
+  "name": "Egnatia",
+  "league": "uecl",
+  "notes": {
+   "contender": "Albanian champions 2024, 2025, 2026; Albanian Cup 2023, 2024.",
+   "stewardship": "Italian-based construction firms Demrozi Costruzioni and Foglia Engineering (37.5% each) plus Rrogozhine municipality (25%); president Agim Demrozi.",
+   "voice": "No supporter role found.",
+   "city": "The only club of the small town of Rrogozhine, which part-owns it."
+  }
+ },
+ {
+  "espn_id": "909",
+  "name": "F.C. København",
+  "league": "uecl",
+  "notes": {
+   "contender": "Eight Superliga titles since 2011 (latest 2025) and six cups; regular in Europe.",
+   "stewardship": "Parken Sport & Entertainment, listed; Danish investors incl. Lars Seier Christensen's Seier Capital (2020 data).",
+   "voice": "Owned by listed Parken Sport & Entertainment; fan club of 20,000+ but no fan control.",
+   "city": "Copenhagen's biggest club (1992 merger), sharing the capital area with Brøndby and others."
+  }
+ },
+ {
+  "espn_id": "7672",
+  "name": "FC Lugano",
+  "league": "uecl",
+  "notes": {
+   "contender": "Swiss Cup 2022; Super League runners-up 2024; cup finals 2023 and 2024.",
+   "stewardship": "Joe Mansueto since 2021, run as a sister club of his Chicago Fire (multi-club).",
+   "voice": "Privately owned; no documented fan influence.",
+   "city": "Lugano's football club, but HC Lugano ice hockey is the bigger passion in Ticino."
+  }
+ },
+ {
+  "espn_id": "572",
+  "name": "FC Midtjylland",
+  "league": "uecl",
+  "notes": {
+   "contender": "Superliga champions 2015, 2018, 2020, 2024; runners-up 2025 and 2026; cups 2019, 2022, 2026.",
+   "stewardship": "Majority owner Anders Holch Povlsen's HEARTLAND (Bestseller, based nearby in Brande) since 2023; local billionaire, single club.",
+   "voice": "Privately owned company; no documented fan say (estimate).",
+   "city": "1999 merger of Herning Fremad and Ikast fS; regional club for central Jutland rather than a city's soul."
+  }
+ },
+ {
+  "espn_id": "3101",
+  "name": "FC Nordsjælland",
+  "league": "uecl",
+  "notes": {
+   "contender": "Danish champions 2012, runners-up 2023, 3rd 2025-26",
+   "stewardship": "Right to Dream (Mansour Group/ManSports) multi-club with San Diego FC and FC Masar; academy-to-sale model",
+   "voice": "No fan role; 99% corporate owned",
+   "city": "Suburban Farum club formed by a 2003 merger"
+  }
+ },
+ {
+  "espn_id": "3024",
+  "name": "FC Thun",
+  "league": "uecl",
+  "notes": {
+   "contender": "Swiss champions 2025-26, the first top-flight title, a year after promotion",
+   "stewardship": "Co-owned since 2019 by Pacific Media Group/Chien Lee (multi-club) and The Seelig Group; investors saved club from closure in 2024",
+   "voice": "No documented fan influence (estimate)",
+   "city": "The only top club of Thun and the Bernese Oberland"
+  }
+ },
+ {
+  "espn_id": "152",
+  "name": "FC Twente",
+  "league": "uecl",
+  "notes": {
+   "contender": "Champions 2010; 3rd 2023-24, 6th 2024-25, 4th 2025-26",
+   "stewardship": "Club-run, chaired by Dominique Scholten; bankrupt 2003 and KNVB sanctions 2015-16 after mismanagement",
+   "voice": "No formal supporter ownership found (estimate)",
+   "city": "Enschede's club and the region's 'Trots van het Oosten'"
+  }
+ },
+ {
+  "espn_id": "489",
+  "name": "Hajduk Split",
+  "league": "uecl",
+  "notes": {
+   "contender": "Croatian Cup 2022, 2023; repeatedly 2nd-3rd but no league title since 2005",
+   "stewardship": "City of Split 65.9% plus members 30.6%; locally owned, not for profit",
+   "voice": "Nas Hajduk members hold 30.6% and elect the supervisory board",
+   "city": "Split lives through Hajduk; about 100,000 members"
+  }
+ },
+ {
+  "espn_id": "262",
+  "name": "Heart of Midlothian",
+  "league": "uecl",
+  "notes": {
+   "contender": "2025-26 runners-up after losing final-day title decider at Celtic; Scottish Cup 2012",
+   "stewardship": "Fan-owned via Foundation of Hearts; Tony Bloom holds 29% non-voting shares (2025)",
+   "voice": "Foundation of Hearts majority owner since 2021, UK's largest fan-owned club; fans voted 98.5% on Bloom deal",
+   "city": "Big part of west Edinburgh but shares the city with Hibs"
+  }
+ },
+ {
+  "espn_id": "20025",
+  "name": "Iberia 1999",
+  "league": "uecl",
+  "notes": {
+   "contender": "Georgian champions 2018, 2024, 2025; three Georgian Cups.",
+   "stewardship": "Iberia Business Group of Tariel Khechikashvili (former sports minister), owner since 2005; private, not state.",
+   "voice": "Owned by a business group; no supporter role.",
+   "city": "Tbilisi district club; Dinamo Tbilisi is the city's main team."
+  }
+ }
+]

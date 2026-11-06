@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "268",
+  "name": "Borussia Mönchengladbach",
+  "league": "bl",
+  "notes": {
+   "contender": "bottom, coach sacked Sep 2026",
+   "stewardship": "member-run, no investor",
+   "voice": "member-run e.V.",
+   "city": "Gladbach identity, the 'Fohlen'"
+  }
+ },
+ {
+  "espn_id": "125",
+  "name": "Eintracht Frankfurt",
+  "league": "bl",
+  "notes": {
+   "contender": "Europa League 2022, DFB-Pokal 2018; regular Europe",
+   "stewardship": "Member-controlled, stable",
+   "voice": "Members' e.V. holds majority under 50+1",
+   "city": "The city's main club, though Frankfurt is a finance hub"
+  }
+ },
+ {
+  "espn_id": "3841",
+  "name": "FC Augsburg",
+  "league": "bl",
+  "notes": {
+   "contender": "Mid-table survival club",
+   "stewardship": "Blitzer's Bolt (multi-club) ~45%",
+   "voice": "50+1 applies, but investor-held pro arm",
+   "city": "City's only top club"
+  }
+ },
+ {
+  "espn_id": "122",
+  "name": "FC Cologne",
+  "league": "bl",
+  "notes": {
+   "contender": "promoted 2025, survival level; last honours 1978",
+   "stewardship": "pro arm fully held by the e.V., no outside investor",
+   "voice": "member club (150,000+ members) electing the board, no investor",
+   "city": "Cologne's main club and a civic institution (carnival ties), but in a big, varied city"
+  }
+ },
+ {
+  "espn_id": "127",
+  "name": "Hamburg SV",
+  "league": "bl",
+  "notes": {
+   "contender": "Promoted 2025, survival level",
+   "stewardship": "Member-controlled; boardroom instability",
+   "voice": "e.V. holds ~75%",
+   "city": "Shares Hamburg with St. Pauli"
+  }
+ },
+ {
+  "espn_id": "2950",
+  "name": "Mainz",
+  "league": "bl",
+  "notes": {
+   "contender": "No major honours; 6th 2024-25, Conference League 2025-26",
+   "stewardship": "Member-run, no investor",
+   "voice": "Member-run e.V., 50+1",
+   "city": "City's club; carnival identity"
+  }
+ },
+ {
+  "espn_id": "11420",
+  "name": "RB Leipzig",
+  "league": "bl",
+  "notes": {
+   "contender": "DFB-Pokal 2022, 2023",
+   "stewardship": "Red Bull GmbH 99%, multi-club",
+   "voice": "Closed membership",
+   "city": "Marketing vehicle"
+  }
+ },
+ {
+  "espn_id": "126",
+  "name": "SC Freiburg",
+  "league": "bl",
+  "notes": {
+   "contender": "Europa League final 2026, DFB-Pokal final 2022",
+   "stewardship": "member-run, stable, long-term coaches",
+   "voice": "e.V., member-owned, no investor",
+   "city": "the city's club and identity, green university city"
+  }
+ },
+ {
+  "espn_id": "3307",
+  "name": "SC Paderborn 07",
+  "league": "bl",
+  "notes": {
+   "contender": "promoted 2026 via play-off, relegation candidate",
+   "stewardship": "member club, past reliance on late president Finke, recent money trouble",
+   "voice": "e.V. under 50+1",
+   "city": "the town's club"
+  }
+ },
+ {
+  "espn_id": "10388",
+  "name": "SV Elversberg",
+  "league": "bl",
+  "notes": {
+   "contender": "promoted 2026 (runners-up), first Bundesliga season",
+   "stewardship": "rise funded by the local Holzer family's Ursapharm",
+   "voice": "member club under 50+1, but patron-driven",
+   "city": "village club in Spiesen-Elversberg"
+  }
+ },
+ {
+  "espn_id": "133",
+  "name": "Schalke 04",
+  "league": "bl",
+  "notes": {
+   "contender": "2. Bundesliga champions 2026, newly promoted; no major honour in 15 years bar 2011 Pokal",
+   "stewardship": "member-owned but EUR 162m debt",
+   "voice": "e.V., member-controlled",
+   "city": "Gelsenkirchen mining town lives through it"
+  }
+ },
+ {
+  "espn_id": "7911",
+  "name": "TSG Hoffenheim",
+  "league": "bl",
+  "notes": {
+   "contender": "5th in 2025-26, Europa League",
+   "stewardship": "patron-built, governance turmoil",
+   "voice": "50+1 restored 2024 but 2025-26 Hopp/Wittmann power struggle drew fan protests",
+   "city": "village club playing in Sinsheim"
+  }
+ },
+ {
+  "espn_id": "134",
+  "name": "VfB Stuttgart",
+  "league": "bl",
+  "notes": {
+   "contender": "2nd 2024, DFB-Pokal 2025",
+   "stewardship": "member majority, Mercedes and Porsche stakes",
+   "voice": "e.V. majority; fans ended Winamax shirt deal early",
+   "city": "Stuttgart's club in an industrial city"
+  }
+ },
+ {
+  "espn_id": "137",
+  "name": "Werder Bremen",
+  "league": "bl",
+  "notes": {
+   "contender": "no trophy since 2009 DFB-Pokal, mid-table now",
+   "stewardship": "members' club plus local no-dividend business alliance",
+   "voice": "e.V. holds majority under 50+1, members elect board",
+   "city": "the city's identity and main team in Hanseatic Bremen"
+  }
+ },
+ {
+  "espn_id": "18418",
+  "name": "Atlanta United FC",
+  "league": "mls",
+  "notes": {
+   "contender": "MLS Cup 2018, weak recent seasons",
+   "stewardship": "local owner Arthur Blank, invested",
+   "voice": "no fan governance found",
+   "city": "loved in a big pro-sports city"
+  }
+ },
+ {
+  "espn_id": "20906",
+  "name": "Austin FC",
+  "league": "mls",
+  "notes": {
+   "contender": "2022 West final; mid-table since",
+   "stewardship": "Precourt tried to move the Columbus Crew",
+   "voice": "no fan governance found",
+   "city": "Austin's only major-league team, every match sold out"
+  }
+ },
+ {
+  "espn_id": "9720",
+  "name": "CF Montréal",
+  "league": "mls",
+  "notes": {
+   "contender": "29th of 30",
+   "stewardship": "Saputo local, also Bologna",
+   "voice": "rebrand imposed; badge partly restored",
+   "city": "hockey city"
+  }
+ },
+ {
+  "espn_id": "21300",
+  "name": "Charlotte FC",
+  "league": "mls",
+  "notes": {
+   "contender": "best season 2025",
+   "stewardship": "Tepper",
+   "voice": "none",
+   "city": "big NFL city"
+  }
+ },
+ {
+  "espn_id": "182",
+  "name": "Chicago Fire FC",
+  "league": "mls",
+  "notes": {
+   "contender": "playoffs 2025",
+   "stewardship": "Mansueto building stadium",
+   "voice": "fan backlash reversed rebrand",
+   "city": "big-city afterthought"
+  }
+ },
+ {
+  "espn_id": "184",
+  "name": "Colorado Rapids",
+  "league": "mls",
+  "notes": {
+   "contender": "2010 MLS Cup",
+   "stewardship": "KSE minor holding",
+   "voice": "none",
+   "city": "suburban"
+  }
+ },
+ {
+  "espn_id": "183",
+  "name": "Columbus Crew",
+  "league": "mls",
+  "notes": {
+   "contender": "MLS Cups 2020 and 2023, 2024 Leagues Cup, 2024 CCC final",
+   "stewardship": "Local Haslam/Edwards owners bought it to keep it in Columbus and built a stadium",
+   "voice": "#SaveTheCrew fan campaign (2017-18) kept the club in Columbus; no formal fan power now",
+   "city": "Crew is Columbus's pro soccer identity but shares a college-football city (Ohio State)"
+  }
+ },
+ {
+  "espn_id": "193",
+  "name": "D.C. United",
+  "league": "mls",
+  "notes": {
+   "contender": "Long run of poor results; four MLS Cups long ago",
+   "stewardship": "Levien/Kaplan ordinary private owners",
+   "voice": "No fan power found",
+   "city": "Washington's MLS club, small in a big multi-sport city"
+  }
+ },
+ {
+  "espn_id": "18267",
+  "name": "FC Cincinnati",
+  "league": "mls",
+  "notes": {
+   "contender": "2023 Supporters' Shield; regular contender",
+   "stewardship": "Local Lindner family majority",
+   "voice": "No fan power",
+   "city": "Big local following since USL days"
+  }
+ },
+ {
+  "espn_id": "185",
+  "name": "FC Dallas",
+  "league": "mls",
+  "notes": {
+   "contender": "2nd West in Sept 2026; last trophy 2016",
+   "stewardship": "Hunt family, long-term owners investing in academy and stadium",
+   "voice": "No fan power",
+   "city": "Suburban Frisco club in a big multi-sport metro"
+  }
+ }
+]

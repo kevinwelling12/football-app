@@ -1,0 +1,167 @@
+[
+ {
+  "espn_id": "20703",
+  "name": "Inter D'Escaldes",
+  "league": "uecl",
+  "notes": {
+   "contender": "Five Andorran titles (incl. 2025, 2026) and three cups since 2020; first Andorran club in a European league phase.",
+   "stewardship": "Private club, backed early by builder Construccions Modernes; chairman Pablo Gomez (estimate).",
+   "voice": "No supporter role found.",
+   "city": "Club of Escaldes-Engordany in Andorra, where football draws very small crowds."
+  }
+ },
+ {
+  "espn_id": "7922",
+  "name": "Jablonec",
+  "league": "uecl",
+  "notes": {
+   "contender": "5th in 2024-25 and 2025-26, cup finals 2018 and 2026; 3rd in 2018 and 2021; last trophy 2013.",
+   "stewardship": "Businessman Jakub Střeštík bought the majority from Miroslav Pelta, jailed for subsidy fraud, who kept a role in the club.",
+   "voice": "Privately owned company; no fan influence found.",
+   "city": "Main club of Jablonec nad Nisou (~45,000); limited pull (estimate)."
+  }
+ },
+ {
+  "espn_id": "3611",
+  "name": "KAA Gent",
+  "league": "uecl",
+  "notes": {
+   "contender": "Belgian champions 2015, cup 2022, 5th in 2025-26",
+   "stewardship": "Sam Baro, about 95-97% since 2023 (EUR 30m), conventional private owner",
+   "voice": "No documented fan power",
+   "city": "Ghent's main club, strong local following"
+  }
+ },
+ {
+  "espn_id": "2528",
+  "name": "Kairat Almaty",
+  "league": "uecl",
+  "notes": {
+   "contender": "Kazakh champions 2020, 2024, 2025; cups 2015-2021; first UCL league phase 2025-26",
+   "stewardship": "Private owner Kairat Boranbayev (arrested 2022); city council holds a 30% minority stake since 2015 and funds the club",
+   "voice": "No documented fan role in ownership or decisions",
+   "city": "Almaty's main club, nicknamed 'The Nation's Team'"
+  }
+ },
+ {
+  "espn_id": "20028",
+  "name": "Kauno Zalgiris",
+  "league": "uecl",
+  "notes": {
+   "contender": "First Lithuanian title 2025; LFF Cup 2026; regular top three since 2020.",
+   "stewardship": "Local owners: Paulius Motiejunas (70%) and basketball great Mantas Kalnietis (30%, chairman).",
+   "voice": "Privately owned; no supporter role found.",
+   "city": "Kaunas's main football club, but the city lives through basketball (Zalgiris BC)."
+  }
+ },
+ {
+  "espn_id": "8169",
+  "name": "KuPS Kuopio",
+  "league": "uecl",
+  "notes": {
+   "contender": "Veikkausliiga champions 2019, 2024, 2025; cups 2021, 2022, 2024; Conference League knockout round 2025-26.",
+   "stewardship": "Main owner Ari Lahti (Finnish investor, FA president), funding the club about a million euros a year since the 2000s.",
+   "voice": "KuPS ry (members' association) holds the league place and leases it to the company; some structure, little documented fan power.",
+   "city": "Kuopio's football club; the city also follows KalPa hockey."
+  }
+ },
+ {
+  "espn_id": "17856",
+  "name": "Lincoln Red Imps",
+  "league": "uecl",
+  "notes": {
+   "contender": "30 Gibraltar titles incl. six straight (2021-2026); Rock Cup 2026.",
+   "stewardship": "Run by a club board under president Dylan Viagas; no outside investor reported (estimate).",
+   "voice": "No documented supporter ownership or influence (estimate).",
+   "city": "Gibraltar's dominant club, but a small territory where football is a minor pastime."
+  }
+ },
+ {
+  "espn_id": "20301",
+  "name": "Mjällby AIF",
+  "league": "uecl",
+  "notes": {
+   "contender": "First Allsvenskan title 2025 and Svenska Cupen 2025-26; before that a mid-table club.",
+   "stewardship": "Member-owned non-profit association; chairman Jan Sjöblom.",
+   "voice": "Swedish member association under the 51% rule; members elect the board.",
+   "city": "The pride of Hälleviks fishing village (about 800 people) and Sölvesborg; 2025 title squad mostly local-born."
+  }
+ },
+ {
+  "espn_id": "22281",
+  "name": "Pafos",
+  "league": "uecl",
+  "notes": {
+   "contender": "Cypriot champions 2025, cups 2024 and 2026; Champions League league phase 2025-26.",
+   "stewardship": "Russian billionaire Sergey Lomakin (Fix Price) with chairman Roman Dubov via Total Sports Investments; part of a loose network with Riga FC.",
+   "voice": "No supporter role.",
+   "city": "Paphos's main club, but a 2014 merger with shallow roots."
+  }
+ },
+ {
+  "espn_id": "443",
+  "name": "Panathinaikos",
+  "league": "uecl",
+  "notes": {
+   "contender": "Greek Cup 2014, 2022, 2024; 1st in 2022-23 regular season, 2nd 2024-25",
+   "stewardship": "Giannis Alafouzos (Skai TV owner), private, long-term",
+   "voice": "Briefly fan-owned via Panathinaikos Alliance (2012); now owner-run",
+   "city": "One of Greece's most supported clubs; shares Athens with AEK and Olympiacos"
+  }
+ },
+ {
+  "espn_id": "2290",
+  "name": "Red Star Belgrade",
+  "league": "uecl",
+  "notes": {
+   "contender": "Ten Serbian titles 2016-2026, six straight doubles, UCL group stages",
+   "stewardship": "Run by the Crvena zvezda sports association, long reliant on political patrons and Gazprom sponsorship",
+   "voice": "Part of the Crvena zvezda sports society; no fan ownership, politically connected boards",
+   "city": "Serbia's most supported club but shares Belgrade with Partizan"
+  }
+ },
+ {
+  "espn_id": "19246",
+  "name": "Riga FC",
+  "league": "uecl",
+  "notes": {
+   "contender": "Latvian champions 2018-20 and 2025, runners-up 2022-24; Cup 2018, 2023.",
+   "stewardship": "Linked to Russian billionaire Sergey Lomakin (Fix Price), who also backs Pafos; ownership opaque, chairman Aleksandrs Pronins.",
+   "voice": "Privately controlled company (SIA); no supporter role.",
+   "city": "A 2015 creation in a city with several clubs and little football following."
+  }
+ },
+ {
+  "espn_id": "620",
+  "name": "SK Brann",
+  "league": "uecl",
+  "notes": {
+   "contender": "Eliteserien runners-up 2016, 2023, 2024, 4th 2025; cup 2022, final 2026; first Europa League league phase 2025.",
+   "stewardship": "Member club with an elected board (chair Arild Mjøs Andersen); no outside owner.",
+   "voice": "Member association (Norwegian clubs must be member-controlled); members forced an extraordinary general meeting in 2021.",
+   "city": "Bergen's club, 'Bergens Stolthet'; the city's big team with strong public interest."
+  }
+ },
+ {
+  "espn_id": "936",
+  "name": "Sint-Truidense",
+  "league": "uecl",
+  "notes": {
+   "contender": "3rd in the 2025-26 Pro League; mostly mid-to-low table before; no major honours.",
+   "stewardship": "DMM.com (Japanese company) since 2017; run largely as a European stepping stone for Japanese players.",
+   "voice": "Corporate owner; no fan influence found.",
+   "city": "The town's club since 1924; main identity of a small Limburg town (estimate)."
+  }
+ },
+ {
+  "espn_id": "997",
+  "name": "Trabzonspor",
+  "league": "uecl",
+  "notes": {
+   "contender": "Super Lig champions 2021-22 (7 titles), Turkish Cup 2025-26 (10 total); 3rd in 2023-24 and 2025-26.",
+   "stewardship": "Member club run by elected president Ertugrul Dogan; heavy debt and a 2019-20 UEFA FFP European ban.",
+   "voice": "Members' association: congress elects the president (Ertugrul Dogan, re-elected unopposed Nov 2024); the listed football company is controlled by the association.",
+   "city": "Trabzon's only major club and regional identity; first Anatolian club to break the Istanbul clubs' hold on the title."
+  }
+ }
+]

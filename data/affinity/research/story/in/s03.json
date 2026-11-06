@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "6077",
+  "name": "Houston Dynamo FC",
+  "league": "mls",
+  "notes": {
+   "contender": "2023 Open Cup",
+   "stewardship": "Ted Segal, ordinary private owner",
+   "voice": "No fan power",
+   "city": "Big multi-sport city"
+  }
+ },
+ {
+  "espn_id": "20232",
+  "name": "Inter Miami CF",
+  "league": "mls",
+  "notes": {
+   "contender": "2025 MLS Cup, 2024 Shield",
+   "stewardship": "Mas brothers/Beckham, Ares stake, cap fines",
+   "voice": "No fan power",
+   "city": "Big city, newer franchise"
+  }
+ },
+ {
+  "espn_id": "187",
+  "name": "LA Galaxy",
+  "league": "mls",
+  "notes": {
+   "contender": "2024 MLS Cup, collapse 2025",
+   "stewardship": "AEG, ordinary",
+   "voice": "No fan power",
+   "city": "Big city, suburban Carson"
+  }
+ },
+ {
+  "espn_id": "18966",
+  "name": "LAFC",
+  "league": "mls",
+  "notes": {
+   "contender": "2022 MLS Cup, 2019/2022 Shields, 2024 Open Cup",
+   "stewardship": "Large local investor group, conventional",
+   "voice": "Supporters' groups consulted but no formal power",
+   "city": "Big-city club sharing LA with the Galaxy"
+  }
+ },
+ {
+  "espn_id": "17362",
+  "name": "Minnesota United FC",
+  "league": "mls",
+  "notes": {
+   "contender": "Club-record 58 pts; no trophy",
+   "stewardship": "Local McGuire/Pohlad/Taylor group, private stadium",
+   "voice": "Supporters consulted but no power",
+   "city": "Shares Twin Cities with big US sports"
+  }
+ },
+ {
+  "espn_id": "18986",
+  "name": "Nashville SC",
+  "league": "mls",
+  "notes": {
+   "contender": "2025 Open Cup, Shield race 2026",
+   "stewardship": "Local John Ingram",
+   "voice": "None formal",
+   "city": "Shares city with NFL/NHL"
+  }
+ },
+ {
+  "espn_id": "189",
+  "name": "New England Revolution",
+  "league": "mls",
+  "notes": {
+   "contender": "Five lost MLS Cup finals; 2021 Shield",
+   "stewardship": "Kraft Group, criticised as neglectful",
+   "voice": "None",
+   "city": "NFL stadium far from Boston"
+  }
+ },
+ {
+  "espn_id": "17606",
+  "name": "New York City FC",
+  "league": "mls",
+  "notes": {
+   "contender": "2021 MLS Cup",
+   "stewardship": "City Football Group (Abu Dhabi state)",
+   "voice": "None",
+   "city": "Shares NYC with Red Bulls; little local bond"
+  }
+ },
+ {
+  "espn_id": "12011",
+  "name": "Orlando City SC",
+  "league": "mls",
+  "notes": {
+   "contender": "2022 Open Cup",
+   "stewardship": "Wilf family, stable",
+   "voice": "None",
+   "city": "Shares Orlando; strong local base"
+  }
+ },
+ {
+  "espn_id": "10739",
+  "name": "Philadelphia Union",
+  "league": "mls",
+  "notes": {
+   "contender": "2020 and 2025 Shields",
+   "stewardship": "Jay Sugarman, local",
+   "voice": "Sons of Ben founded club, consulted",
+   "city": "Shares big sports city"
+  }
+ },
+ {
+  "espn_id": "9723",
+  "name": "Portland Timbers",
+  "league": "mls",
+  "notes": {
+   "contender": "2015 MLS Cup, finals 2018, 2021",
+   "stewardship": "Merritt Paulson, criticised over Thorns scandal",
+   "voice": "Timbers Army forced Iron Front reversal and executive firings",
+   "city": "Portland's soul ('Soccer City USA')"
+  }
+ },
+ {
+  "espn_id": "4771",
+  "name": "Real Salt Lake",
+  "league": "mls",
+  "notes": {
+   "contender": "2009 MLS Cup, mostly playoff-level",
+   "stewardship": "local Miller family control since 2025",
+   "voice": "no supporter governance",
+   "city": "Utah's MLS team, competes with Jazz and college sport"
+  }
+ },
+ {
+  "espn_id": "190",
+  "name": "Red Bull New York",
+  "league": "mls",
+  "notes": {
+   "contender": "3 Supporters' Shields, 2024 MLS Cup final",
+   "stewardship": "Red Bull GmbH multi-club secondary club",
+   "voice": "no fan voice, 2023 supporter walkout",
+   "city": "Harrison NJ, a third club in a huge market named after a drink"
+  }
+ },
+ {
+  "espn_id": "22529",
+  "name": "San Diego FC",
+  "league": "mls",
+  "notes": {
+   "contender": "1st in the West 2025, conference final",
+   "stewardship": "Mansour with Sycuan, secondary in Right to Dream multi-club network",
+   "voice": "none",
+   "city": "new club the city embraced, no NFL rival"
+  }
+ },
+ {
+  "espn_id": "191",
+  "name": "San Jose Earthquakes",
+  "league": "mls",
+  "notes": {
+   "contender": "2 MLS Cups long ago, recent mostly non-contending",
+   "stewardship": "Fisher (A's relocation) owner, club for sale since 2025",
+   "voice": "none",
+   "city": "Bay Area club behind bigger sports"
+  }
+ },
+ {
+  "espn_id": "9726",
+  "name": "Seattle Sounders FC",
+  "league": "mls",
+  "notes": {
+   "contender": "MLS Cup 2016/2019, CCL 2022, Leagues Cup 2025",
+   "stewardship": "local Hanauer-led owners; tribal casino sleeve sponsor",
+   "voice": "Alliance Council of season-ticket holders votes on GM",
+   "city": "loved, shares a sports-mad city with NFL/MLB"
+  }
+ },
+ {
+  "espn_id": "186",
+  "name": "Sporting Kansas City",
+  "league": "mls",
+  "notes": {
+   "contender": "MLS Cup 2013, poor recent seasons",
+   "stewardship": "local Mallouk 80% since 2026",
+   "voice": "none",
+   "city": "KC's soccer team behind Chiefs/Royals"
+  }
+ },
+ {
+  "espn_id": "21812",
+  "name": "St. Louis CITY SC",
+  "league": "mls",
+  "notes": {
+   "contender": "1st West 2023, declined since",
+   "stewardship": "local Taylor family and Kindle, privately built stadium",
+   "voice": "club restricted supporter banners 2026",
+   "city": "St. Louis soccer city, behind the Cardinals"
+  }
+ },
+ {
+  "espn_id": "7318",
+  "name": "Toronto FC",
+  "league": "mls",
+  "notes": {
+   "contender": "2017 treble, poor since",
+   "stewardship": "Rogers telecom corporate owner",
+   "voice": "none",
+   "city": "big-city afterthought behind Leafs/Raptors"
+  }
+ },
+ {
+  "espn_id": "9727",
+  "name": "Vancouver Whitecaps",
+  "league": "mls",
+  "notes": {
+   "contender": "2025 MLS Cup final, Canadian Championships",
+   "stewardship": "owners selling, 2026 bid to move to Las Vegas",
+   "voice": "2019 walkout, no power",
+   "city": "Canucks city"
+  }
+ },
+ {
+  "espn_id": "21422",
+  "name": "Angel City FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "no trophies, coach churn",
+   "stewardship": "Iger/Bay since 2024, invested; salary-cap fine 2024",
+   "voice": "community-founder model, no fan power",
+   "city": "loved in LA but one of many teams in a huge city"
+  }
+ },
+ {
+  "espn_id": "22187",
+  "name": "Bay FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "young club, playoffs 2024, no honours",
+   "stewardship": "Sixth Street investment firm majority, also owns Sunderland Women stake",
+   "voice": "no fan power",
+   "city": "Bay Area club sharing PayPal Park"
+  }
+ },
+ {
+  "espn_id": "131562",
+  "name": "Boston Legacy FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "inaugural 2026 season, no success",
+   "stewardship": "local women-led group, long-term stadium investment",
+   "voice": "none; 'BOS Nation' branding withdrawn after backlash",
+   "city": "first season; no home in Boston until 2028"
+  }
+ },
+ {
+  "espn_id": "15360",
+  "name": "Chicago Stars FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "finalists 2019, 2021; bottom half since",
+   "stewardship": "Ricketts group since 2023, investing, no stadium",
+   "voice": "no fan power",
+   "city": "lowest NWSL crowds (4,517) in a big city"
+  }
+ }
+]

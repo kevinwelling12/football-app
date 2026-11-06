@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "17832",
+  "name": "Louisville City FC",
+  "league": "usl",
+  "notes": {
+   "contender": "USL titles 2017, 2018; Players' Shields 2024, 2025",
+   "stewardship": "Local owner Soccer Holdings built the stadium",
+   "voice": "Supporters' group influential but no formal power",
+   "city": "Louisville's main club, strong local pride"
+  }
+ },
+ {
+  "espn_id": "18159",
+  "name": "Miami FC",
+  "league": "usl",
+  "notes": {
+   "contender": "Bottom of USL 2024",
+   "stewardship": "Riccardo Silva, private",
+   "voice": "None",
+   "city": "No local bond, lowest crowds in USL"
+  }
+ },
+ {
+  "espn_id": "21370",
+  "name": "Monterey Bay",
+  "league": "usl",
+  "notes": {
+   "contender": "Bottom of the West",
+   "stewardship": "Regional businessman Ray Beshoff",
+   "voice": "None",
+   "city": "Regional club, modest bond"
+  }
+ },
+ {
+  "espn_id": "19408",
+  "name": "New Mexico United",
+  "league": "usl",
+  "notes": {
+   "contender": "Consistent West contender, no title",
+   "stewardship": "Local owner Peter Trevisani",
+   "voice": "None",
+   "city": "Statewide identity"
+  }
+ },
+ {
+  "espn_id": "20687",
+  "name": "Oakland Roots",
+  "league": "usl",
+  "notes": {
+   "contender": "11th West",
+   "stewardship": "Founders and community investors",
+   "voice": "Community investor structure",
+   "city": "Oakland identity and pride"
+  }
+ },
+ {
+  "espn_id": "18455",
+  "name": "Orange County SC",
+  "league": "usl",
+  "notes": {
+   "contender": "2021 USL title",
+   "stewardship": "James Keston, stable",
+   "voice": "None",
+   "city": "Weak local bond"
+  }
+ },
+ {
+  "espn_id": "17850",
+  "name": "Phoenix Rising FC",
+  "league": "usl",
+  "notes": {
+   "contender": "2023 USL title",
+   "stewardship": "Pablo Prichard",
+   "voice": "None",
+   "city": "Weak bond"
+  }
+ },
+ {
+  "espn_id": "17827",
+  "name": "Pittsburgh Riverhounds",
+  "league": "usl",
+  "notes": {
+   "contender": "2025 USL title",
+   "stewardship": "Tuffy Shallenberger, local",
+   "voice": "None",
+   "city": "Small Pittsburgh bond"
+  }
+ },
+ {
+  "espn_id": "22164",
+  "name": "Rhode Island FC",
+  "league": "usl",
+  "notes": {
+   "contender": "reached USL Championship final 2024 in first season",
+   "stewardship": "local owners Brett Johnson and ex-player Michael Parkhurst",
+   "voice": "none documented",
+   "city": "the state's pro soccer club, new but popular"
+  }
+ },
+ {
+  "espn_id": "17828",
+  "name": "Sacramento Republic FC",
+  "league": "usl",
+  "notes": {
+   "contender": "2014 USL Pro title, 2022 US Open Cup final, regular playoffs",
+   "stewardship": "Wilton Rancheria majority, privately financed Railyards stadium 2028",
+   "voice": "TBB lobbied city council for the stadium and the MLS bid; no ownership stake or documented formal club consultation",
+   "city": "the city's soccer club, beloved but behind the Kings"
+  }
+ },
+ {
+  "espn_id": "18265",
+  "name": "San Antonio FC",
+  "league": "usl",
+  "notes": {
+   "contender": "2022 USL Championship champions, regular contender",
+   "stewardship": "Spurs Sports & Entertainment, stable",
+   "voice": "none",
+   "city": "Spurs city, the club a secondary attraction"
+  }
+ },
+ {
+  "espn_id": "131578",
+  "name": "Sporting JAX",
+  "league": "usl",
+  "notes": {
+   "contender": "last in the East in debut 2026 season",
+   "stewardship": "local owners Caplin, Tebow, Taylor",
+   "voice": "none",
+   "city": "new club in an NFL city"
+  }
+ },
+ {
+  "espn_id": "17361",
+  "name": "Tampa Bay Rowdies",
+  "league": "usl",
+  "notes": {
+   "contender": "1st East 2026",
+   "stewardship": "Zalupski group since 2025",
+   "voice": "none",
+   "city": "St. Petersburg club in a pro-sports market"
+  }
+ },
+ {
+  "espn_id": "96",
+  "name": "Alavés",
+  "league": "esp",
+  "notes": {
+   "contender": "Promoted 2023, 10th/15th/14th since; UEFA Cup final 2001 is the peak",
+   "stewardship": "Baskonia-Alavés Group of José Antonio Querejeta, local owner who rebuilt the club",
+   "voice": "Private SAD; no documented fan influence found",
+   "city": "Vitoria-Gasteiz's football club, 'El Glorioso'; city also lives through Baskonia basketball"
+  }
+ },
+ {
+  "espn_id": "93",
+  "name": "Athletic Club",
+  "league": "esp",
+  "notes": {
+   "contender": "Copa del Rey 2024, Supercopas 2015 and 2021, Europa League final 2012; 12th in 2025-26",
+   "stewardship": "Members (president Jon Uriarte); president cannot invest own money",
+   "voice": "Member-owned, members elect the president; not a sports corporation",
+   "city": "Bilbao and Basque identity are bound to the club"
+  }
+ },
+ {
+  "espn_id": "1068",
+  "name": "Atlético Madrid",
+  "league": "esp",
+  "notes": {
+   "contender": "2021 La Liga, perennial top three",
+   "stewardship": "Apollo private equity majority since 2026; Riyadh Air (Saudi state) sponsor",
+   "voice": "no fan voice; contested 1990s SAD conversion",
+   "city": "Madrid's working-class counterweight to Real"
+  }
+ },
+ {
+  "espn_id": "83",
+  "name": "Barcelona",
+  "league": "esp",
+  "notes": {
+   "contender": "perennial champion",
+   "stewardship": "member-owned but sold future TV rights, heavy debt, Super League to 2026",
+   "voice": "member-owned, socis elect president",
+   "city": "Catalan identity, 'Més que un club'"
+  }
+ },
+ {
+  "espn_id": "85",
+  "name": "Celta Vigo",
+  "league": "esp",
+  "notes": {
+   "contender": "7th then 6th; Europa League quarter-final 2026",
+   "stewardship": "Carlos Mouriño (Spanish-Mexican businessman) since 2006; long-term, academy-first under Giráldez",
+   "voice": "Mouriño family holds 67.9%; fans have little formal say",
+   "city": "Vigo's only big club, an industrial port city with strong Galician identity"
+  }
+ },
+ {
+  "espn_id": "90",
+  "name": "Deportivo",
+  "league": "esp",
+  "notes": {
+   "contender": "Promoted to La Liga 2026 after seasons in the third tier; 2000 league title is historic",
+   "stewardship": "Abanca (bank controlled by Juan Carlos Escotet) owns 99%; rescued and funds the club",
+   "voice": "Bank owns 99%; fans organised in ~200 peñas with no real power",
+   "city": "A Coruña's soul; 25,000 season tickets even in the third tier"
+  }
+ },
+ {
+  "espn_id": "3751",
+  "name": "Elche",
+  "league": "esp",
+  "notes": {
+   "contender": "15th in 2025-26 after promotion; relegated 2023",
+   "stewardship": "Christian Bragarnik, Argentine football agent; agent-owner conflict of interest",
+   "voice": "Private owner; no documented fan power (estimate)",
+   "city": "Elche's only professional club; a mid-sized working city (estimate)"
+  }
+ },
+ {
+  "espn_id": "88",
+  "name": "Espanyol",
+  "league": "esp",
+  "notes": {
+   "contender": "11th in 2025-26; relegated 2020 and 2023",
+   "stewardship": "Velocity Sports Partners (Alan Pace, US investment, Burnley owner) since Oct 2025; multi-club link",
+   "voice": "No fan ownership or documented influence",
+   "city": "Barcelona's second club, moved to suburban Cornellà-El Prat in 2009"
+  }
+ },
+ {
+  "espn_id": "2922",
+  "name": "Getafe",
+  "league": "esp",
+  "notes": {
+   "contender": "7th in 2025-26 (Conference League); otherwise mid-to-low table; 2007 and 2008 Copa finalists",
+   "stewardship": "Ángel Torres, local businessman, owner and president since 2002",
+   "voice": "Owner-run; 18 peñas and 12,000 socios with no real say",
+   "city": "Suburban town club (founded 1983) south of Madrid; many locals follow Real or Atlético"
+  }
+ },
+ {
+  "espn_id": "1538",
+  "name": "Levante",
+  "league": "esp",
+  "notes": {
+   "contender": "16th in La Liga 2025-26 after promotion as Segunda champions 2025",
+   "stewardship": "President Pablo Sánchez; foundation/small-shareholder model, no outside investor found (estimate)",
+   "voice": "S.A.D. with shares largely held by the club foundation and small shareholders after 2010s rescue (estimate)",
+   "city": "Valencia's second club, rooted in Orriols/Camins al Grau; lives in Valencia CF's shadow"
+  }
+ },
+ {
+  "espn_id": "99",
+  "name": "Málaga",
+  "league": "esp",
+  "notes": {
+   "contender": "Promoted to La Liga 2026 via play-offs; CL quarter-final 2013 is the peak",
+   "stewardship": "Sheikh Abdullah Al Thani (private investor) barred by a judge since 2020; court administrator José María Muñoz; 2026 arrest warrant over club funds",
+   "voice": "Estimate: fan protests against Al Thani; club run by a court administrator, not fans",
+   "city": "Málaga's main club, strong local following through lower divisions"
+  }
+ }
+]

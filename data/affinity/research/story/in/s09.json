@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "226",
+  "name": "Atlante",
+  "league": "mex",
+  "notes": {
+   "contender": "Back in Liga MX in 2026 by buying Mazatlán's franchise after 12 years in the second tier; last title Apertura 2007",
+   "stewardship": "Grupo Dequivamed (chair Emilio Escalante); returned by buying another club's franchise",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Historic 'Equipo del Pueblo' of Mexico City's working class, but moved to Cancún, Zacatepec and back; small following now"
+  }
+ },
+ {
+  "espn_id": "216",
+  "name": "Atlas",
+  "league": "mex",
+  "notes": {
+   "contender": "Back-to-back titles Apertura 2021 and Clausura 2022, Copa MX 2013; mid-table since",
+   "stewardship": "Sold by multi-club Grupo Orlegi to Grupo PRODI (José Miguel Bejos), handover after Clausura 2026",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Guadalajara's older club, sharing the city with Chivas; Clásico Tapatío"
+  }
+ },
+ {
+  "espn_id": "15720",
+  "name": "Atlético de San Luis",
+  "league": "mex",
+  "notes": {
+   "contender": "Promoted 2019; usually lower half, occasional Liguilla",
+   "stewardship": "Majority Atlético de Madrid group, itself majority-owned by private equity Apollo Sports Capital (deal Nov 2025); multi-club feeder",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "San Luis Potosí's only top-flight club, but a 2013 franchise rebuilt as Atlético Madrid's satellite"
+  }
+ },
+ {
+  "espn_id": "218",
+  "name": "Cruz Azul",
+  "league": "mex",
+  "notes": {
+   "contender": "Titles 2021 and 2026, CONCACAF 2014 and 2025, Copa MX 2013 and 2018",
+   "stewardship": "Cooperativa La Cruz Azul, workers' cement cooperative; ex-president Billy Álvarez fled a 2020 money-laundering warrant",
+   "voice": "Owned by a workers' cooperative whose members elect its leaders; not fans",
+   "city": "Born in the cement town of Jasso, now Mexico City's second club; working-class identity v América"
+  }
+ },
+ {
+  "espn_id": "17851",
+  "name": "FC Juárez",
+  "league": "mex",
+  "notes": {
+   "contender": "No top-flight honours; usually lower half; Copa MX runners-up 2019",
+   "stewardship": "MountainStar Sports Group, majority Alejandra de la Vega (local businesswoman)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Founded 2015 by local businesspeople to restore football to Ciudad Juárez; the city's only club"
+  }
+ },
+ {
+  "espn_id": "219",
+  "name": "Guadalajara",
+  "league": "mex",
+  "notes": {
+   "contender": "12 league titles; Clausura 2017, CONCACAF 2018, Copa MX 2017; finalists 2023",
+   "stewardship": "Grupo Omnilife-Chivas, Vergara family since 2002 (Amaury Vergara)",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Guadalajara's best-supported club, shared with Atlas; also Mexico's national favourite"
+  }
+ },
+ {
+  "espn_id": "228",
+  "name": "León",
+  "league": "mex",
+  "notes": {
+   "contender": "Titles 2013, 2014, 2020; CONCACAF Champions Cup 2023",
+   "stewardship": "Grupo Pachuca (Jesús Martínez), also owns Pachuca; FIFA removed León from the 2025 Club World Cup for multi-club ownership",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "León's one big club; the city of leather lives through La Fiera"
+  }
+ },
+ {
+  "espn_id": "220",
+  "name": "Monterrey",
+  "league": "mex",
+  "notes": {
+   "contender": "Five CONCACAF titles (2011, 2012, 2013, 2019, 2021), league 2019; big budgets",
+   "stewardship": "FEMSA, Monterrey-based conglomerate, owner since 1999",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Shares Monterrey with Tigres; Clásico Regio drives the city"
+  }
+ },
+ {
+  "espn_id": "229",
+  "name": "Necaxa",
+  "league": "mex",
+  "notes": {
+   "contender": "Three league titles (1990s), Copa MX 2018; 15th in Clausura 2026",
+   "stewardship": "NX Football USA LLC (US investors incl. Eva Longoria) 50% with a Mexican partner; Reynolds/McElhenney minority stake, cross-investment with Wrexham",
+   "voice": "No supporter ownership or documented fan influence",
+   "city": "Founded in Mexico City 1923, moved to Aguascalientes 2003; the city's only top-flight club"
+  }
+ },
+ {
+  "espn_id": "234",
+  "name": "Pachuca",
+  "league": "mex",
+  "notes": {
+   "contender": "Liga MX Apertura 2022, CONCACAF Champions Cup 2024, Intercontinental Cup final 2024; semi-finals Clausura 2026",
+   "stewardship": "Grupo Pachuca (Martínez family, Jesús Martínez); also owns León, which cost León its 2025 Club World Cup place",
+   "voice": "Privately run by Grupo Pachuca; no fan influence documented",
+   "city": "Founded 1892 by Cornish miners; Tuzos nickname and clock crest tie it to the mining city"
+  }
+ },
+ {
+  "espn_id": "231",
+  "name": "Puebla",
+  "league": "mex",
+  "notes": {
+   "contender": "League titles 1983 and 1990, Copa MX 2015; 17th in Clausura 2026",
+   "stewardship": "Grupo Salinas (Ricardo Salinas Pliego), which also held Mazatlán until its 2026 sale",
+   "voice": "No fan ownership or documented influence",
+   "city": "Main club of a large city, once shared with Lobos BUAP (sold 2019)"
+  }
+ },
+ {
+  "espn_id": "233",
+  "name": "Pumas UNAM",
+  "league": "mex",
+  "notes": {
+   "contender": "Seven league titles (last 2011); top of the Clausura 2026 table, lost the final to Cruz Azul",
+   "stewardship": "Owned by UNAM (autonomous public university), not a commercial asset; cantera-based",
+   "voice": "Run by a civil association for UNAM; no member votes, university community ties",
+   "city": "Mexico City's university club, sharing the city with América and Cruz Azul"
+  }
+ },
+ {
+  "espn_id": "222",
+  "name": "Querétaro",
+  "league": "mex",
+  "notes": {
+   "contender": "No league title; Copa MX 2016; 11th in Clausura 2026",
+   "stewardship": "Innovatio Capital (US investors, chairman Marc Spiegel), bought from Grupo Caliente after the forced sale",
+   "voice": "No fan ownership or documented influence",
+   "city": "The city's only club; described as family-supported in the Bajío"
+  }
+ },
+ {
+  "espn_id": "225",
+  "name": "Santos",
+  "league": "mex",
+  "notes": {
+   "contender": "Six league titles, last Clausura 2018; 18th in Clausura 2026",
+   "stewardship": "Grupo Orlegi (Alejandro Irarragorri), multi-club: Atlas until its 2026 sale, plus Sporting Gijón",
+   "voice": "No fan ownership or documented influence",
+   "city": "The club of Torreón and the Comarca Lagunera; once ranked fifth most popular in Mexico"
+  }
+ },
+ {
+  "espn_id": "232",
+  "name": "Tigres UANL",
+  "league": "mex",
+  "notes": {
+   "contender": "Five league titles 2011-2023, CONCACAF CL 2020; finals Apertura 2025 and CONCACAF Champions Cup 2026",
+   "stewardship": "Operated by cement company CEMEX since 1996 on behalf of UANL",
+   "voice": "Run by CEMEX's Sinergia Deportiva for the university; barras reportedly influence ticketing, no formal fan voice",
+   "city": "Shares industrial Monterrey with Rayados; the Clásico Regio is a major derby"
+  }
+ },
+ {
+  "espn_id": "10125",
+  "name": "Tijuana",
+  "league": "mex",
+  "notes": {
+   "contender": "League title Apertura 2012, nothing since; 9th in Clausura 2026",
+   "stewardship": "Grupo Caliente (Hank family, betting and casinos); held Querétaro too until its sale",
+   "voice": "No fan ownership or documented influence",
+   "city": "Founded 2007; became the border city's team, celebrated in the documentary Club Frontera"
+  }
+ },
+ {
+  "espn_id": "223",
+  "name": "Toluca",
+  "league": "mex",
+  "notes": {
+   "contender": "Liga MX Clausura and Apertura 2025, CONCACAF Champions Cup 2026, Leagues Cup 2026; 12 titles",
+   "stewardship": "Valentín Diez Morodo, family owners since Nemesio Diez; long-term local",
+   "voice": "Family-owned; no fan voice documented",
+   "city": "Toluca's club with no local rival; highest stadium occupancy in Liga MX 2023-2025"
+  }
+ },
+ {
+  "espn_id": "887",
+  "name": "AEK Athens",
+  "league": "ucl",
+  "notes": {
+   "contender": "Greek champions 2023 and 2026",
+   "stewardship": "Greek shipping owner Iliopoulos rebuilt the club after 2013 and funded the stadium",
+   "voice": "no fan ownership",
+   "city": "refugee (Constantinople) roots and Nea Filadelfeia identity, but Athens is split with Panathinaikos and Olympiacos"
+  }
+ },
+ {
+  "espn_id": "2980",
+  "name": "Bodo/Glimt",
+  "league": "ucl",
+  "notes": {
+   "contender": "four Norwegian titles 2020-24, 2025 EL semi",
+   "stewardship": "member association, no private owner",
+   "voice": "member association",
+   "city": "Bodø lives for Glimt; northern Norwegian identity"
+  }
+ },
+ {
+  "espn_id": "570",
+  "name": "Club Brugge",
+  "league": "ucl",
+  "notes": {
+   "contender": "perennial champion",
+   "stewardship": "Verhaeghe",
+   "voice": "none",
+   "city": "Bruges, shares with Cercle"
+  }
+ },
+ {
+  "espn_id": "437",
+  "name": "FC Porto",
+  "league": "ucl",
+  "notes": {
+   "contender": "European Cup 1987, UCL 2004",
+   "stewardship": "Member-controlled SAD",
+   "voice": "Members ousted Pinto da Costa 2024",
+   "city": "Northern identity against Lisbon"
+  }
+ },
+ {
+  "espn_id": "436",
+  "name": "Fenerbahce",
+  "league": "ucl",
+  "notes": {
+   "contender": "Title contender every year",
+   "stewardship": "Member club but UEFA fines, transfer ban, churn",
+   "voice": "Members elect the president",
+   "city": "One of Istanbul's big three; Kadıköy identity"
+  }
+ },
+ {
+  "espn_id": "142",
+  "name": "Feyenoord Rotterdam",
+  "league": "ucl",
+  "notes": {
+   "contender": "2023 champions, regular top-two",
+   "stewardship": "No single owner, foundation-governed",
+   "voice": "Supporter-investor groups (VAK) in foundation governance",
+   "city": "Rotterdam's working-class people's club"
+  }
+ },
+ {
+  "espn_id": "432",
+  "name": "Galatasaray",
+  "league": "ucl",
+  "notes": {
+   "contender": "Turkey's most successful club, recent titles",
+   "stewardship": "Member club, debt-heavy spending",
+   "voice": "Members elect the president",
+   "city": "One of Istanbul's big three"
+  }
+ }
+]

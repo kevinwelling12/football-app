@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "4411",
+  "name": "LASK Linz",
+  "league": "ucl",
+  "notes": {
+   "contender": "2025-26 Austrian double",
+   "stewardship": "Local entrepreneurs consortium",
+   "voice": "No fan power",
+   "city": "Linz's main club, shares with Blau-Weiss"
+  }
+ },
+ {
+  "espn_id": "148",
+  "name": "PSV Eindhoven",
+  "league": "ucl",
+  "notes": {
+   "contender": "Three straight titles 2024-26",
+   "stewardship": "Foundation-owned, regional sponsors",
+   "voice": "Foundation and members' club, no private owner",
+   "city": "Eindhoven's club, Philips city"
+  }
+ },
+ {
+  "espn_id": "21922",
+  "name": "Sabah FK",
+  "league": "ucl",
+  "notes": {
+   "contender": "Azerbaijan champions 2025-26, cups 2025 and 2026, first UCL league phase",
+   "stewardship": "businessman Huseynov's Bridge Group; AZN 5m presidential grant 2026 in an authoritarian state",
+   "voice": "none",
+   "city": "founded 2017 in suburban Baku, little local bond"
+  }
+ },
+ {
+  "espn_id": "493",
+  "name": "Shakhtar Donetsk",
+  "league": "ucl",
+  "notes": {
+   "contender": "perennial Ukrainian champion/contender",
+   "stewardship": "oligarch Akhmetov since 1996",
+   "voice": "none",
+   "city": "exiled from Donetsk since 2014"
+  }
+ },
+ {
+  "espn_id": "494",
+  "name": "Slavia Prague",
+  "league": "ucl",
+  "notes": {
+   "contender": "Czech champions recently, perennial contender",
+   "stewardship": "local billionaire Tykac since 2023",
+   "voice": "none",
+   "city": "shares Prague with Sparta"
+  }
+ },
+ {
+  "espn_id": "521",
+  "name": "Slovan Bratislava",
+  "league": "ucl",
+  "notes": {
+   "contender": "dominant Slovak champion",
+   "stewardship": "local businessman Kmotrik",
+   "voice": "none",
+   "city": "capital's main club"
+  }
+ },
+ {
+  "espn_id": "2250",
+  "name": "Sporting CP",
+  "league": "ucl",
+  "notes": {
+   "contender": "Portuguese champions 2024 and 2025",
+   "stewardship": "member-controlled",
+   "voice": "members own 88% of the SAD and elect the president",
+   "city": "shares Lisbon with Benfica"
+  }
+ },
+ {
+  "espn_id": "510",
+  "name": "Viking FK",
+  "league": "ucl",
+  "notes": {
+   "contender": "Norwegian champions 2025",
+   "stewardship": "member-run, local sponsors",
+   "voice": "member-run association",
+   "city": "Stavanger's club"
+  }
+ },
+ {
+  "espn_id": "140",
+  "name": "AZ Alkmaar",
+  "league": "uel",
+  "notes": {
+   "contender": "Regular top-five side; 2nd 2020, KNVB Cup 2026 and Johan Cruyff Shield 2026; 7th in 2025-26.",
+   "stewardship": "AZ Holding B.V.; shareholders not identified in sources (estimate); stable, academy-led model.",
+   "voice": "Privately held via AZ Holding B.V.; no documented supporter power.",
+   "city": "Alkmaar's club and the region's top-flight team."
+  }
+ },
+ {
+  "espn_id": "441",
+  "name": "Anderlecht",
+  "league": "uel",
+  "notes": {
+   "contender": "34 titles but last in 2017; 2nd 2024, cup finals 2025 and 2026 lost, 4th 2025-26",
+   "stewardship": "Marc Coucke, Belgian businessman, since 2018",
+   "voice": "No fan ownership or documented influence",
+   "city": "Brussels' biggest club, but most supporters come from across Belgium; shares the city with Union"
+  }
+ },
+ {
+  "espn_id": "20024",
+  "name": "Ararat-Armenia",
+  "league": "uel",
+  "notes": {
+   "contender": "Armenian champions 2019, 2020 and 2025-26, Cup 2024; top three almost every season.",
+   "stewardship": "Samvel Karapetyan, Russian-Armenian billionaire (Tashir group), owner since 2018: oligarch ownership.",
+   "voice": "Owner-run; no supporter influence.",
+   "city": "Founded 2017; one of several Yerevan clubs, little local bond."
+  }
+ },
+ {
+  "espn_id": "1929",
+  "name": "Benfica",
+  "league": "uel",
+  "notes": {
+   "contender": "38 titles, last 2022-23; perennial contender; 3rd in 2025-26.",
+   "stewardship": "Club (members) controls Benfica SAD; listed company with minority shareholders.",
+   "voice": "Member club: socios elect the president (Rui Costa); 2025 statutes reformed voting and term limits.",
+   "city": "Lisbon's and Portugal's biggest club; shares Lisbon with Sporting."
+  }
+ },
+ {
+  "espn_id": "1895",
+  "name": "Besiktas",
+  "league": "uel",
+  "notes": {
+   "contender": "Super Lig and Cup double 2020-21, Cup 2024, Super Cups 2021 and 2024; 4th 2024-25 and 2025-26.",
+   "stewardship": "Member-run multi-sport club since 1903; heavy debt is the main issue.",
+   "voice": "Member association; members' congress elects the president (Serdal Adali).",
+   "city": "The Besiktas district's identity; shares Istanbul with Fenerbahce and Galatasaray."
+  }
+ },
+ {
+  "espn_id": "256",
+  "name": "Celtic",
+  "league": "uel",
+  "notes": {
+   "contender": "Scottish Premiership champions 2025 and 2025-26; perennial champion",
+   "stewardship": "Celtic PLC (stock-listed); largest shareholder Dermot Desmond (estimate); conventional, financially prudent",
+   "voice": "Celtic PLC, listed; fans hold shares but no control; club suspended ~250 Green Brigade season tickets in 2023",
+   "city": "Shares Glasgow with Rangers; identity of the city's Irish-Catholic community and East End"
+  }
+ },
+ {
+  "espn_id": "597",
+  "name": "Dinamo Zagreb",
+  "league": "uel",
+  "notes": {
+   "contender": "2025-26 double; titles 2023, 2024, 2026 and near-annual champions",
+   "stewardship": "Members' association, no shares; Zvonimir Boban president; Zdravko Mamic convicted of corruption (2018)",
+   "voice": "Non-profit members' association with one member one vote, but long captured by the Mamic era; supporter group Zajedno za Dinamo campaigned against it",
+   "city": "Zagreb's main club and Croatia's most supported"
+  }
+ },
+ {
+  "espn_id": "622",
+  "name": "Ferencvaros",
+  "league": "uel",
+  "notes": {
+   "contender": "36 league titles incl. a long run to 2024-25; 2nd in 2025-26, 2026 cup",
+   "stewardship": "President Gabor Kubatov, Fidesz politician, since 2011; club closely tied to the governing party",
+   "voice": "Run by a president; fans' 2014-16 boycott over scanners ended in talks, little formal influence",
+   "city": "Budapest's most popular club, rooted in the 9th district"
+  }
+ },
+ {
+  "espn_id": "13083",
+  "name": "Hapoel Be'er",
+  "league": "uel",
+  "notes": {
+   "contender": "Israeli champions 2025-26 (also 2016-18), State Cup 2020; perennial contender.",
+   "stewardship": "Alona Barkat, owner since 2007; long-term private owner.",
+   "voice": "Privately owned; no documented supporter influence.",
+   "city": "Be'er Sheva's main club and the Negev's team ('the Reds from the South')."
+  }
+ },
+ {
+  "espn_id": "11505",
+  "name": "Jagiellonia Bialystok",
+  "league": "uel",
+  "notes": {
+   "contender": "First Ekstraklasa title 2023-24, then 3rd and 3rd; Conference League quarter-final 2025.",
+   "stewardship": "Estimate; owner not identified in sources opened (chairman post vacant); no reported issues.",
+   "voice": "Estimate; no documented supporter ownership or formal fan power found.",
+   "city": "Only major club of Bialystok and the Podlasie region; colours from the city crest."
+  }
+ },
+ {
+  "espn_id": "2990",
+  "name": "Lech Poznan",
+  "league": "uel",
+  "notes": {
+   "contender": "Ekstraklasa champions 2024-25 and 2025-26; ten titles",
+   "stewardship": "Rutkowski family (Piotr two-thirds, Maja one-third), local long-term owners",
+   "voice": "No supporter ownership; ultras boycotts but no formal say (estimate)",
+   "city": "Kolejorz, Poznań's main club with railway roots; the city lives through it"
+  }
+ },
+ {
+  "espn_id": "490",
+  "name": "Levski Sofia",
+  "league": "uel",
+  "notes": {
+   "contender": "2025-26 Bulgarian champions (27th title), 2022 cup; Bulgaria's second-most decorated club",
+   "stewardship": "Investment banker Atanas Bostandjiev (Gemcorp) took majority control Apr 2026 from ex-player Nasko Sirakov",
+   "voice": "Fan association 'Levski for the Levskars' holds 10%; fans raised 2.6m BGN in 2020 to save the club",
+   "city": "Sofia's 'blue' half, sharing the capital with CSKA; national following"
+  }
+ },
+ {
+  "espn_id": "987",
+  "name": "Lillestrom",
+  "league": "uel",
+  "notes": {
+   "contender": "Relegated 2024, unbeaten 1. divisjon and Norwegian Cup 2025, 5th in 2026",
+   "stewardship": "Member club with local investors; no outside owner found",
+   "voice": "Norwegian member club (sports associations keep majority control; estimate)",
+   "city": "The town of Lillestrom's club; 'Kanarifugla' are central to local identity"
+  }
+ },
+ {
+  "espn_id": "147",
+  "name": "NEC Nijmegen",
+  "league": "uel",
+  "notes": {
+   "contender": "3rd in 2025-26 (best ever); cup finals 2024 and 2026 lost; otherwise mid-table.",
+   "stewardship": "Investor Marcel Boekhoorn the main financier; shares in a foundation (estimate on current structure).",
+   "voice": "Estimate; 2021 restructuring placed shares in a foundation, documented fan power limited.",
+   "city": "Nijmegen's only professional club; strong local bond."
+  }
+ },
+ {
+  "espn_id": "3362",
+  "name": "NK Celje",
+  "league": "uel",
+  "notes": {
+   "contender": "PrvaLiga champions 2020, 2024, 2026; Slovenian Cup 2025; Conference League quarter-final 2025",
+   "stewardship": "Sport Invest d.o.o. holds 74%; Russian investor group around Maxim Demin, president Valeriy Kolotilo",
+   "voice": "Association holds 26% of the operating company; no real fan influence",
+   "city": "Celje's only top-flight club; modest following (league average ~2,000 in 2023-24)"
+  }
+ },
+ {
+  "espn_id": "1010",
+  "name": "OFI Crete",
+  "league": "uel",
+  "notes": {
+   "contender": "Mid-table (7th-12th since 2020); won the 2026 Greek Cup over PAOK and the 2026 Super Cup.",
+   "stewardship": "Michael Bousis (Greek-American businessman), majority owner and president since 2018-20.",
+   "voice": "Privately owned; no documented supporter influence.",
+   "city": "Heraklion's main club, Cretan identity; shares the city with Ergotelis."
+  }
+ }
+]

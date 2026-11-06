@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "131563",
+  "name": "Denver Summit FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "inaugural 2026, Lindsey Heaps signing",
+   "stewardship": "local Cohen group, record $110m fee, stadium planned",
+   "voice": "no fan power",
+   "city": "strong early buy-in (63,004 opener)"
+  }
+ },
+ {
+  "espn_id": "15364",
+  "name": "Gotham FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "NWSL champions 2023 and 2025, CONCACAF W 2025",
+   "stewardship": "Murphys, Lloyd, Manning group; turned club round",
+   "voice": "no fan power",
+   "city": "New Jersey/NY club among many teams"
+  }
+ },
+ {
+  "espn_id": "17346",
+  "name": "Houston Dash",
+  "league": "nwsl",
+  "notes": {
+   "contender": "2020 Challenge Cup only",
+   "stewardship": "Ted Segal with Dynamo, conventional",
+   "voice": "no fan power",
+   "city": "Houston's women's team behind Dynamo and big US sports"
+  }
+ },
+ {
+  "espn_id": "20907",
+  "name": "Kansas City Current",
+  "league": "nwsl",
+  "notes": {
+   "contender": "record 2025 Shield, perennial contender",
+   "stewardship": "local Longs/Mahomes, privately funded stadium and training centre",
+   "voice": "club consults supporters, no fan power",
+   "city": "the city embraced it, sell-outs every match"
+  }
+ },
+ {
+  "espn_id": "15366",
+  "name": "North Carolina Courage",
+  "league": "nwsl",
+  "notes": {
+   "contender": "2018-19 champions, Challenge Cups 2022-23",
+   "stewardship": "Steve Malik (local), stalled downtown stadium",
+   "voice": "no fan power",
+   "city": "Cary suburb, shares market with MLS hopes"
+  }
+ },
+ {
+  "espn_id": "18206",
+  "name": "Orlando Pride",
+  "league": "nwsl",
+  "notes": {
+   "contender": "2024 Shield and Championship double",
+   "stewardship": "Wilf family (Vikings) with Orlando City",
+   "voice": "no fan power",
+   "city": "Orlando shares with Orlando City and US sports"
+  }
+ },
+ {
+  "espn_id": "15362",
+  "name": "Portland Thorns FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "NWSL champions 2013, 2017, 2022, Shields 2016, 2021",
+   "stewardship": "Bhathal family (RAJ Sports) since 2024, stable",
+   "voice": "Riveters' campaigns helped force Paulson's sale (2022)",
+   "city": "Portland lives through Thorns and Timbers"
+  }
+ },
+ {
+  "espn_id": "20905",
+  "name": "Racing Louisville FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "no honours, bottom of 2026 table mid-season",
+   "stewardship": "Soccer Holdings exploring sale/relocation to Cincinnati",
+   "voice": "no fan power",
+   "city": "shares city with Louisville City"
+  }
+ },
+ {
+  "espn_id": "21423",
+  "name": "San Diego Wave FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "2023 Shield, 2024 Challenge Cup",
+   "stewardship": "Leichtman/Levine (PE founders) since 2024",
+   "voice": "no fan power",
+   "city": "big early following, now fading"
+  }
+ },
+ {
+  "espn_id": "15363",
+  "name": "Seattle Reign FC",
+  "league": "nwsl",
+  "notes": {
+   "contender": "Shields 2014, 2015, 2022, finals; mid now",
+   "stewardship": "Sounders owners plus Carlyle Group private equity",
+   "voice": "no fan power",
+   "city": "Seattle's women's team behind Sounders"
+  }
+ },
+ {
+  "espn_id": "19141",
+  "name": "Utah Royals",
+  "league": "nwsl",
+  "notes": {
+   "contender": "revived 2024, bottom-half",
+   "stewardship": "Miller family (local) since 2025",
+   "voice": "no fan power",
+   "city": "Salt Lake City club shared with RSL"
+  }
+ },
+ {
+  "espn_id": "15365",
+  "name": "Washington Spirit",
+  "league": "nwsl",
+  "notes": {
+   "contender": "2021 champions, finalists 2024-25, 2025 Challenge Cup",
+   "stewardship": "Kang multi-club (Kynisca) flagship, heavy investment",
+   "voice": "fans and players forced owner Baldwin out (2021)",
+   "city": "DC's women's team, large following"
+  }
+ },
+ {
+  "espn_id": "19405",
+  "name": "Birmingham Legion FC",
+  "league": "usl",
+  "notes": {
+   "contender": "poor results",
+   "stewardship": "local business group",
+   "voice": "no fan governance",
+   "city": "low local bond"
+  }
+ },
+ {
+  "espn_id": "131579",
+  "name": "Brooklyn FC",
+  "league": "usl",
+  "notes": {
+   "contender": "12th of 13",
+   "stewardship": "NY family office",
+   "voice": "none",
+   "city": "new franchise"
+  }
+ },
+ {
+  "espn_id": "9729",
+  "name": "Charleston Battery",
+  "league": "usl",
+  "notes": {
+   "contender": "2023 final, 2nd East",
+   "stewardship": "local owner",
+   "voice": "none",
+   "city": "modest"
+  }
+ },
+ {
+  "espn_id": "17830",
+  "name": "Colorado Springs Switchbacks FC",
+  "league": "usl",
+  "notes": {
+   "contender": "2024 title",
+   "stewardship": "local owner built stadium",
+   "voice": "none",
+   "city": "downtown"
+  }
+ },
+ {
+  "espn_id": "19179",
+  "name": "Detroit City FC",
+  "league": "usl",
+  "notes": {
+   "contender": "3rd East in USL Championship 2026",
+   "stewardship": "Founded and still controlled by five local residents",
+   "voice": "Fans bought investment units ($1m+ in 2020); supporter-driven culture",
+   "city": "Deeply local (Hamtramck), but Detroit's main teams are the big leagues"
+  }
+ },
+ {
+  "espn_id": "19407",
+  "name": "El Paso Locomotive FC",
+  "league": "usl",
+  "notes": {
+   "contender": "1st in USL West 2026",
+   "stewardship": "Local MountainStar group",
+   "voice": "No fan power",
+   "city": "Well liked locally but a young franchise"
+  }
+ },
+ {
+  "espn_id": "18446",
+  "name": "FC Tulsa",
+  "league": "usl",
+  "notes": {
+   "contender": "2025 Western Conference champions",
+   "stewardship": "Local Craft family",
+   "voice": "No fan power",
+   "city": "Young franchise in a baseball park"
+  }
+ },
+ {
+  "espn_id": "19411",
+  "name": "Hartford Athletic",
+  "league": "usl",
+  "notes": {
+   "contender": "2025 USL Cup winners",
+   "stewardship": "Local Hartford Sports Group",
+   "voice": "No fan power",
+   "city": "City's club, small crowds"
+  }
+ },
+ {
+  "espn_id": "17360",
+  "name": "Indy Eleven",
+  "league": "usl",
+  "notes": {
+   "contender": "Mid-table",
+   "stewardship": "Ozdemir; stadium plans stalled",
+   "voice": "No fan power",
+   "city": "Indianapolis's soccer club"
+  }
+ },
+ {
+  "espn_id": "18987",
+  "name": "Las Vegas Lights FC",
+  "league": "usl",
+  "notes": {
+   "contender": "Bottom-half",
+   "stewardship": "Bautista group; no home ground for 2027",
+   "voice": "No fan power",
+   "city": "Little local bond"
+  }
+ },
+ {
+  "espn_id": "21822",
+  "name": "Lexington",
+  "league": "usl",
+  "notes": {
+   "contender": "Mid-table",
+   "stewardship": "Local owners built stadium",
+   "voice": "No fan power",
+   "city": "Young club"
+  }
+ },
+ {
+  "espn_id": "19410",
+  "name": "Loudoun United FC",
+  "league": "usl",
+  "notes": {
+   "contender": "Never won anything",
+   "stewardship": "Attain Sports majority, D.C. United minority",
+   "voice": "None",
+   "city": "Exurban reserve-side origin, weak bond"
+  }
+ }
+]

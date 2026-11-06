@@ -1,0 +1,266 @@
+[
+ {
+  "espn_id": "349",
+  "name": "AFC Bournemouth",
+  "league": "epl",
+  "notes": {
+   "contender": "first European qualification 2026",
+   "stewardship": "Black Knight multi-club hub",
+   "voice": "no fan ownership",
+   "city": "town's club"
+  }
+ },
+ {
+  "espn_id": "359",
+  "name": "Arsenal",
+  "league": "epl",
+  "notes": {
+   "contender": "2025-26 Premier League champions, 2026 UCL finalists",
+   "stewardship": "Kroenke KSE (also owns Colorado Rapids), Super League signatory 2021",
+   "voice": "Supporters' Trust and fan advisory board, little real power",
+   "city": "big London club among many; strong north-London following"
+  }
+ },
+ {
+  "espn_id": "362",
+  "name": "Aston Villa",
+  "league": "epl",
+  "notes": {
+   "contender": "2025-26 Europa League winners, UCL 2024-25",
+   "stewardship": "V Sports (Sawiris, Edens) plus US fund Atairos; UEFA squad-cost breaches",
+   "voice": "ticket price protests 2024-25 did not change policy",
+   "city": "Birmingham's biggest club but shares the city with Blues"
+  }
+ },
+ {
+  "espn_id": "337",
+  "name": "Brentford",
+  "league": "epl",
+  "notes": {
+   "contender": "mid-table Premier League",
+   "stewardship": "lifelong-fan owner Benham, sustainable",
+   "voice": "Bees United keeps a board seat",
+   "city": "west-London local club"
+  }
+ },
+ {
+  "espn_id": "331",
+  "name": "Brighton & Hove Albion",
+  "league": "epl",
+  "notes": {
+   "contender": "European football 2023-24",
+   "stewardship": "local fan owner Bloom, minority stakes elsewhere",
+   "voice": "fan campaign won Falmer",
+   "city": "fans fought 14 years for a home"
+  }
+ },
+ {
+  "espn_id": "363",
+  "name": "Chelsea",
+  "league": "epl",
+  "notes": {
+   "contender": "Club World Cup 2025",
+   "stewardship": "Clearlake private equity",
+   "voice": "Chelsea Pitch Owners hold the freehold",
+   "city": "one of many London clubs"
+  }
+ },
+ {
+  "espn_id": "388",
+  "name": "Coventry City",
+  "league": "epl",
+  "notes": {
+   "contender": "1987 FA Cup; promoted to the Premier League 2026, newcomers",
+   "stewardship": "Local owner Doug King reunited club and stadium (2025)",
+   "voice": "No fan board seat; fans' long protests against SISU did not give them formal power",
+   "city": "Coventry's main club, a working city that stayed loyal through exiles and League Two"
+  }
+ },
+ {
+  "espn_id": "384",
+  "name": "Crystal Palace",
+  "league": "epl",
+  "notes": {
+   "contender": "FA Cup 2025 and Conference League 2026",
+   "stewardship": "US investors (Johnson, Harris/Blitzer) exploring a sale; Parish 10%",
+   "voice": "Fan groups campaign on prices; no formal power",
+   "city": "South London club, loved locally but one of many London clubs"
+  }
+ },
+ {
+  "espn_id": "368",
+  "name": "Everton",
+  "league": "epl",
+  "notes": {
+   "contender": "Relegation fights, now mid-table",
+   "stewardship": "Friedkin Group (also Roma) since 2024; Stake.com sponsor",
+   "voice": "No formal fan power; supporters' groups protested Moshiri era",
+   "city": "'The People's Club', shares Liverpool with Liverpool"
+  }
+ },
+ {
+  "espn_id": "370",
+  "name": "Fulham",
+  "league": "epl",
+  "notes": {
+   "contender": "Mid-table Premier League",
+   "stewardship": "Shahid Khan, stable, no other clubs",
+   "voice": "No fan power",
+   "city": "One of many London clubs"
+  }
+ },
+ {
+  "espn_id": "306",
+  "name": "Hull City",
+  "league": "epl",
+  "notes": {
+   "contender": "Promoted via play-offs 2026",
+   "stewardship": "Owner Ilicali, high churn",
+   "voice": "No fan power",
+   "city": "City's club but rugby league is big"
+  }
+ },
+ {
+  "espn_id": "373",
+  "name": "Ipswich Town",
+  "league": "epl",
+  "notes": {
+   "contender": "Up-and-down 2024-26",
+   "stewardship": "US pension/private equity (Gamechanger 20, Bright Path)",
+   "voice": "No fan board seat found",
+   "city": "Suffolk's club, one-club region"
+  }
+ },
+ {
+  "espn_id": "357",
+  "name": "Leeds United",
+  "league": "epl",
+  "notes": {
+   "contender": "Promoted 2025, survival level",
+   "stewardship": "49ers Enterprises, Rangers stake",
+   "voice": "Supporters' Trust consulted",
+   "city": "One-club city"
+  }
+ },
+ {
+  "espn_id": "364",
+  "name": "Liverpool",
+  "league": "epl",
+  "notes": {
+   "contender": "20 titles, 2019 UCL, 2020 and 2025 titles",
+   "stewardship": "Fenway Sports Group (US) plus 1892 Holdings; well run but Super League 2021",
+   "voice": "Spirit of Shankly and supporters' board reversed a multi-year price rise (2026)",
+   "city": "Club is Liverpool's soul (shares city with Everton)"
+  }
+ },
+ {
+  "espn_id": "382",
+  "name": "Manchester City",
+  "league": "epl",
+  "notes": {
+   "contender": "Ten titles, 2023 treble",
+   "stewardship": "Abu Dhabi state via City Football Group, 114 charges",
+   "voice": "No fan power",
+   "city": "Shares Manchester; historic local base"
+  }
+ },
+ {
+  "espn_id": "360",
+  "name": "Manchester United",
+  "league": "epl",
+  "notes": {
+   "contender": "2024 FA Cup, 2023 League Cup; no title since 2013",
+   "stewardship": "Glazer leveraged buyout, ~£1bn debt; INEOS 29%",
+   "voice": "Fan protests (The 1958) changed little; no formal power",
+   "city": "Shares Manchester; global over local"
+  }
+ },
+ {
+  "espn_id": "361",
+  "name": "Newcastle United",
+  "league": "epl",
+  "notes": {
+   "contender": "2025 League Cup; UCL 2023-24",
+   "stewardship": "Saudi PIF 85%",
+   "voice": "No fan power",
+   "city": "Club is the city's soul, working city"
+  }
+ },
+ {
+  "espn_id": "393",
+  "name": "Nottingham Forest",
+  "league": "epl",
+  "notes": {
+   "contender": "Europa League semi-final 2025-26",
+   "stewardship": "Marinakis multi-club",
+   "voice": "No fan power",
+   "city": "Shares city with Notts County"
+  }
+ },
+ {
+  "espn_id": "366",
+  "name": "Sunderland",
+  "league": "epl",
+  "notes": {
+   "contender": "back in the Premier League since 2025",
+   "stewardship": "Louis-Dreyfus and Sartori, sale explored 2026",
+   "voice": "none",
+   "city": "working city lives through the club"
+  }
+ },
+ {
+  "espn_id": "367",
+  "name": "Tottenham Hotspur",
+  "league": "epl",
+  "notes": {
+   "contender": "Europa League 2025, PL bottom half",
+   "stewardship": "ENIC (Lewis trust), high ticket prices",
+   "voice": "Supporters' Trust campaigns; Super League exit within two days",
+   "city": "north London club in a huge city"
+  }
+ },
+ {
+  "espn_id": "598",
+  "name": "1. FC Union Berlin",
+  "league": "bl",
+  "notes": {
+   "contender": "Champions League 2023, now Bundesliga lower-mid",
+   "stewardship": "member-owned, fan-built",
+   "voice": "e.V., fans hold stadium shares, rebuilt it themselves 2008",
+   "city": "East Berlin/Koepenick identity, shares Berlin with Hertha"
+  }
+ },
+ {
+  "espn_id": "131",
+  "name": "Bayer Leverkusen",
+  "league": "bl",
+  "notes": {
+   "contender": "2024 unbeaten double",
+   "stewardship": "wholly owned by Bayer AG",
+   "voice": "no member control (50+1 exemption)",
+   "city": "Bayer works club in a company town"
+  }
+ },
+ {
+  "espn_id": "132",
+  "name": "Bayern Munich",
+  "league": "bl",
+  "notes": {
+   "contender": "perennial champion",
+   "stewardship": "member-majority with corporate minorities",
+   "voice": "e.V. majority; fan protests ended Qatar and Rwanda deals",
+   "city": "Munich's big club, shares the city with 1860"
+  }
+ },
+ {
+  "espn_id": "124",
+  "name": "Borussia Dortmund",
+  "league": "bl",
+  "notes": {
+   "contender": "2013 and 2024 UCL finals; last league title 2012",
+   "stewardship": "member-controlled; Rheinmetall deal",
+   "voice": "e.V. controls (50+1); members voted against Rheinmetall (non-binding)",
+   "city": "the city's soul; working Ruhr city"
+  }
+ }
+]

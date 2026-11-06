@@ -10,7 +10,8 @@
 // Affinity = 100 x logistic(raw - the median club's raw): the chance you'd pick the club over a typical one.
 // 500 picks, 10-fold: 77.8% predicted (v2 with "ownership below 3" and "inclusion below 3": 74.4%).
 
-export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity'];
+// comeback and punch since 2026-11-06 (research/story/BRIEF.md): Kevin's pull toward Villa, Brighton, Columbus, Vancouver
+export const TRAITS = ['terrace', 'rituals', 'city', 'ground', 'conscience', 'voice', 'stewardship', 'women', 'geography', 'contender', 'intensity', 'comeback', 'punch'];
 export const FLAGS = ['stateOwner', 'incidents', 'rival'];
 export const FAMILIAR = ['lg_bl', 'lg_ucl', 'lg_mls', 'lg_nwsl', 'lg_usl', 'lg_esp', 'lg_ita', 'lg_fra', 'lg_eng2', 'lg_mex', 'lg_uel', 'lg_uecl']; // relative to the Premier League
 // Glory and fame (Kevin, 2026-11-06: "not just popular clubs", no glory hunting): winning (the contender trait) and
@@ -20,7 +21,7 @@ export const GLORY = ['contender', 'fame'];
 export const FEATURES = [...TRAITS, ...FLAGS, ...FAMILIAR, 'fame'];
 export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo', city: "The city's club", ground: 'Great home ground',
   conscience: 'Inclusive fan culture', voice: 'Fans have a say', stewardship: 'Run for the club', women: "Women's side",
-  geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', intensity: 'High-energy football',
+  geography: 'Near Sacramento', contender: 'Contender', fame: 'Big club', comeback: 'Comeback story', punch: 'Punches above its weight', intensity: 'High-energy football',
   stateOwner: 'State ownership', incidents: 'Racism or fan-culture record', rival: 'Rival of your club',
   lg_bl: 'Bundesliga', lg_ucl: 'Other Champions League', lg_mls: 'MLS', lg_nwsl: 'NWSL', lg_usl: 'USL',
   lg_esp: 'La Liga', lg_ita: 'Serie A', lg_fra: 'Ligue 1', lg_eng2: 'Championship', lg_mex: 'Liga MX',
@@ -28,7 +29,7 @@ export const LABEL = { terrace: 'Iconic singing end', rituals: 'Rituals and tifo
 // how to say a shortfall (a trait below the typical club's, costing Affinity) or a flag that applies
 export const SHORT = { terrace: 'no famous singing end', rituals: 'few rituals', city: "not the city's main club", ground: 'an ordinary ground',
   conscience: 'little inclusion work', voice: 'fans have little say', stewardship: 'run as a business', women: 'no strong women\'s side',
-  geography: 'far away', contender: 'rarely contends', intensity: 'a cautious style',
+  geography: 'far away', contender: 'rarely contends', comeback: 'no comeback story', punch: 'does what its money says', intensity: 'a cautious style',
   stateOwner: 'state-owned', incidents: 'racism or fan-culture record', rival: 'rival' };
 // starting weights (per full 0-10 range of a trait, or per flag) before any picks
 const PRIOR = { terrace: 0.3, rituals: 0.3, city: 0.3, ground: 0.3, conscience: 0.4, voice: 0.3, stewardship: 0.4, women: 0.1,
@@ -102,8 +103,9 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1
     }
     for (const id in gu) u[id] -= 0.3 * (gu[id] + lambdaItem * u[id]) / n;
   }
-  const FAMj = spec.fam;
-  // familiarity is fitted but not part of Affinity
+  // familiarity is fitted but not part of Affinity; a negOnly feature counts only when its weight came out negative
+  // (contender: an underdog lean is liking, a pull toward winners is glory hunting)
+  const FAMj = spec.fam.map((f, j) => f && !(spec.negOnly?.[j] && beta[j] < 0));
   const traitPart = id => X[id].reduce((s, v, j) => s + (FAMj[j] ? 0 : v * beta[j]), 0);
   const raw = Object.fromEntries(ids.map(id => [id, traitPart(id) + u[id]]));
   const sorted = Object.values(raw).sort((a, b) => a - b), mid = sorted[sorted.length >> 1] ?? 0;
@@ -131,7 +133,7 @@ export function fitPairs(X, spec, picks, { lambda = 1, lambdaItem = 2, iters = 1
 
 // Kevin, 2026-11-06: nothing pre-established. Every weight starts at 0 and may go either way, so what a trait is worth,
 // and in which direction, comes from his picks alone (PRIOR, PULL and PUSH are kept for reference and the players).
-const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true };
+const CLUB_SPEC = { names: FEATURES, pull: FEATURES.map(() => false), push: FEATURES.map(() => false), fam: FAM, flags: FLAGS, prior: FEATURES.map(() => 0), free: true, negOnly: FEATURES.map(f => f === 'contender') };
 // Answers (win): a club's id = that one; '=' = no strong opinion; '?<id>' = not familiar enough with that club, '??' =
 // with either (2026-11-06); null = can't say (before then). Clubs he doesn't know yet go on a list to look into and
 // aren't asked about until he says he knows them (ctx.known: {id: time}).
@@ -172,7 +174,7 @@ export function nextPair(model, ids, ctx, picks, favs, rnd = Math.random) {
   // answer rate per league, starting from KNOWN and moved by his answers and skips
   const ln = {}, ls = {};
   for (const p of picks) for (const id of [p.a, p.b]) { const l = ctx.league[id]; ln[l] = (ln[l] || 0) + 1; if (unsureOf(p, id)) ls[l] = (ls[l] || 0) + 1; }
-  const rate = l => ((ln[l] || 0) - (ls[l] || 0) + 30 * (KNOWN[l] ?? 0.5)) / ((ln[l] || 0) + 30);
+  const rate = l => ((ln[l] || 0) - (ls[l] || 0) + 8 * (KNOWN[l] ?? 0.5)) / ((ln[l] || 0) + 8); // a few "don't know"s move it
   const unknown = new Set(unknownClubs(picks, ctx.known));
   const pool = ids.filter(id => !favs.has(id) && !unknown.has(id) && (skips[id] || 0) < 2 + (ctx.known?.[id] ? 2 : 0));
   // big clubs first: the top of a league by Elo counts fully, the bottom a fifth (UCL visitors from smaller leagues
