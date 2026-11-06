@@ -1,0 +1,321 @@
+[
+ {
+  "espn_id": "268",
+  "name": "Borussia Mönchengladbach",
+  "league": "bl",
+  "lean": 6,
+  "why": {
+   "lean": "Club told taz (2018) that backing Gladbach and voting AfD is 'a contradiction'; no political supporter identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Borussia_Mönchengladbach",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "125",
+  "name": "Eintracht Frankfurt",
+  "league": "bl",
+  "lean": 6.5,
+  "why": {
+   "lean": "President Peter Fischer said AfD voters cannot be members (Dec 2017), backed by members' meeting 2018; fan scene itself mixed, with racist and queerphobic incidents"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eintracht_Frankfurt",
+   "https://www.thelocal.de/20180129/eintracht-frankfurt-hope-to-start-movement-by-banning-afd-members-from-club",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "3841",
+  "name": "FC Augsburg",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; president only said in 2018 a motion to exclude a local AfD chairman could be examined"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Augsburg",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "122",
+  "name": "FC Cologne",
+  "league": "bl",
+  "lean": 5.5,
+  "why": {
+   "lean": "Estimate: anti-racism and diversity work typical of member clubs; Wikipedia and searches found no documented political identity of the Südkurve"
+  },
+  "confidence": "low",
+  "sources": [
+   "https://en.wikipedia.org/wiki/1._FC_Köln"
+  ]
+ },
+ {
+  "espn_id": "127",
+  "name": "Hamburg SV",
+  "league": "bl",
+  "lean": 4.5,
+  "why": {
+   "lean": "Mixed: 1980s 'Die Löwen' fan club tied to skinheads and right-wing radicalism (members killed a Werder fan, 1982); 'No Surrender' tifo v Celtic 2009, Rangers partnership 2021; also gay fan club since 2006; little current political identity"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamburger_SV"
+  ]
+ },
+ {
+  "espn_id": "2950",
+  "name": "Mainz",
+  "league": "bl",
+  "lean": 6,
+  "why": {
+   "lean": "Club ran a newspaper ad mocking the AfD on the day of a Gauland rally in Mainz (2018); no documented political ultra identity; 2023 El Ghazi dismissal over Gaza post is not left-right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/1._FSV_Mainz_05",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "11420",
+  "name": "RB Leipzig",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; 2015 refugee donations and fan refugee match are inclusion work; little ultra culture"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/RB_Leipzig"
+  ]
+ },
+ {
+  "espn_id": "126",
+  "name": "SC Freiburg",
+  "league": "bl",
+  "lean": 6.5,
+  "why": {
+   "lean": "Coach Christian Streich (2011-2024) repeatedly spoke against the AfD and far right, urging fans to join 2024 demonstrations; club has a left-leaning image in a green university city; fan groups' own politics less documented"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SC_Freiburg"
+  ]
+ },
+ {
+  "espn_id": "3307",
+  "name": "SC Paderborn 07",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SC_Paderborn_07"
+  ]
+ },
+ {
+  "espn_id": "10388",
+  "name": "SV Elversberg",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SV_Elversberg"
+  ]
+ },
+ {
+  "espn_id": "133",
+  "name": "Schalke 04",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; 'Schalker gegen Rassismus' is inclusion work; chairman Tönnies's 2019 racist remark was personal (he left 2020); Gazprom deal dropped 2022"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Schalke_04",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "7911",
+  "name": "TSG Hoffenheim",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; fan protests about Hopp (2020, 2025-26) concern ownership, not left-right"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/TSG_Hoffenheim"
+  ]
+ },
+ {
+  "espn_id": "134",
+  "name": "VfB Stuttgart",
+  "league": "bl",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/VfB_Stuttgart"
+  ]
+ },
+ {
+  "espn_id": "137",
+  "name": "Werder Bremen",
+  "league": "bl",
+  "lean": 7.5,
+  "why": {
+   "lean": "Ultra groups (Ultras Werder, Wanderers) in anti-fascist, anti-racist tradition pushed right-wing hooligans (Standarte, NS HB) out of the Ostkurve in the 2000s, attacked by Nazi hooligans 2017; president Hess-Grunewald: backing Werder and voting AfD is a contradiction (2018); friendships with St. Pauli, Hapoel Jerusalem"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SV_Werder_Bremen",
+   "https://www.taz.de/Fussballvereine-gegen-die-AfD/!5536434"
+  ]
+ },
+ {
+  "espn_id": "18418",
+  "name": "Atlanta United FC",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; LGBTQ+ (All Stripes) and Latino (La 12) supporter groups are identity and inclusion, not political positions"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atlanta_United_FC"
+  ]
+ },
+ {
+  "espn_id": "20906",
+  "name": "Austin FC",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Austin_FC"
+  ]
+ },
+ {
+  "espn_id": "9720",
+  "name": "CF Montréal",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Ultras Montréal (2002) banned 2021 over conduct and the rebrand fight, not politics; no source ties them to a left or right stance"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CF_Montréal"
+  ]
+ },
+ {
+  "espn_id": "21300",
+  "name": "Charlotte FC",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charlotte_FC"
+  ]
+ },
+ {
+  "espn_id": "182",
+  "name": "Chicago Fire FC",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Section 8 Chicago's anti-discrimination policy is inclusion work"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chicago_Fire_FC"
+  ]
+ },
+ {
+  "espn_id": "184",
+  "name": "Colorado Rapids",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colorado_Rapids"
+  ]
+ },
+ {
+  "espn_id": "183",
+  "name": "Columbus Crew",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "No clear political identity found; Nordecke activism (#SaveTheCrew 2017-18, 2021 rebrand reversal) was about relocation and branding"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Columbus_Crew"
+  ]
+ },
+ {
+  "espn_id": "193",
+  "name": "D.C. United",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/D.C._United"
+  ]
+ },
+ {
+  "espn_id": "18267",
+  "name": "FC Cincinnati",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Cincinnati"
+  ]
+ },
+ {
+  "espn_id": "185",
+  "name": "FC Dallas",
+  "league": "mls",
+  "lean": 5,
+  "why": {
+   "lean": "no clear political identity found"
+  },
+  "confidence": "medium",
+  "sources": [
+   "https://en.wikipedia.org/wiki/FC_Dallas"
+  ]
+ }
+]
