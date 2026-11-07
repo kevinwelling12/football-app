@@ -22,11 +22,13 @@ export const PGROUPS = ['character', 'team', 'loyalty', 'class', 'clubs', 'usa']
 export const PPARTS = { character: ['CH', 'SP', 'VO', 'CO', 'HU'], team: ['WK'], loyalty: ['LO'], class: ['AB', 'ST', 'LE'] };
 export const PFLAGS = ['wrongdoing', 'moneymoves'];
 const PLG = ['bl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'other'];
-export const PFAMILIAR = ['active', 'women', 'fame', ...PLG.map(l => 'plg_' + l)];
+// yourclub (2026-11-07): played for one of his clubs. A control only, never counted (his rule: who a player played
+// for adds nothing), so "Clubs you like" isn't confounded by his clubs' players who came from clubs he rates low.
+export const PFAMILIAR = ['active', 'women', 'fame', 'yourclub', ...PLG.map(l => 'plg_' + l)];
 export const PFEATURES = [...PGROUPS, ...PFLAGS, ...PFAMILIAR];
 export const PLABEL = { CH: 'Character', SP: 'Sportsmanship', VO: 'Speaks out', CO: 'Community', HU: 'Humility', WK: 'Team player', LO: 'Loyalty', AB: 'Greatness', ST: 'Joy to watch', LE: 'Legacy',
   character: 'Character', team: 'Team player', loyalty: 'Loyalty', class: 'Class on the pitch', clubs: 'Clubs you like', usa: 'American',
-  wrongdoing: 'Wrongdoing', moneymoves: 'Money or disloyal moves', active: 'Still playing', women: "Women's game", fame: 'Big clubs' };
+  wrongdoing: 'Wrongdoing', moneymoves: 'Money or disloyal moves', active: 'Still playing', women: "Women's game", fame: 'Big clubs', yourclub: 'Played for your club' };
 export const PSHORT = { character: 'character questions', team: 'not a team player', loyalty: 'moved around', class: 'a modest talent', clubs: 'clubs you dislike', usa: '',
   wrongdoing: 'wrongdoing on record', moneymoves: 'a money or disloyal move' };
 const NOW = 2026;
@@ -47,6 +49,8 @@ const seasons = c => Math.max(0.5, (c[3] ?? NOW) - (c[2] ?? NOW));
 export function pfeatures(p, clubAff, favs, ctx = {}) {
   const t = k => (p.t[k] ?? TDEFAULT[k] ?? 5) / 10, mean = ks => ks.reduce((s, k) => s + t(k), 0) / ks.length;
   let tot = 0, linkW = 0, link = 0, fw = 0, fs = 0;
+  // the clubs link reads only players with no tie to his clubs (their former clubs were confounded with "one of yours")
+  const mine = p.clubs.some(c => c[1] && favs.has(c[1]));
   for (const c of p.clubs) {
     const s = seasons(c); tot += s;
     const a = c[1] && !favs.has(c[1]) ? clubAff(c[1]) : null;
@@ -55,9 +59,9 @@ export function pfeatures(p, clubAff, favs, ctx = {}) {
   }
   const last = [...p.clubs].reverse().find(c => c[1] && ctx.league?.[c[1]]), lg = last ? ctx.league[last[1]] : 'other';
   return [mean(PPARTS.character), mean(PPARTS.team), mean(PPARTS.loyalty), mean(PPARTS.class),
-    linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0, p.nat === 'USA' ? 1 : 0,
+    !mine && linkW ? (link / linkW) * Math.min(1, linkW / Math.max(tot, 1)) : 0, p.nat === 'USA' ? 1 : 0,
     Math.max(p.f.serious || 0, (p.f.lesser || 0) * 0.5), Math.max(p.f.money || 0, p.f.moves || 0),
-    p.act ? 1 : 0, p.g === 'W' ? 1 : 0, fw ? fs / fw : 0.3, ...PLG.map(l => (lg === l || (l === 'other' && ![...PLG, 'epl'].includes(lg)) ? 1 : 0))];
+    p.act ? 1 : 0, p.g === 'W' ? 1 : 0, fw ? fs / fw : 0.3, mine ? 1 : 0, ...PLG.map(l => (lg === l || (l === 'other' && ![...PLG, 'epl'].includes(lg)) ? 1 : 0))];
 }
 // a group's value 0-10 for the sheet
 export const pgroupValue = (p, g) => 10 * PPARTS[g].reduce((s, k) => s + (p.t[k] ?? TDEFAULT[k] ?? 5) / 10, 0) / PPARTS[g].length;

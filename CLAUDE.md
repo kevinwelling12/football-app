@@ -62,8 +62,9 @@ Quiz answers: a club, "No strong opinion" ('=', half a pick each way), "Don't kn
 150 decisive picks. Analyse picks with scripts/affinity/analyze.mjs (Settings > Copy my club picks).
 Players: web/players.js v2 (2026-11-07, Kevin's choices; backtest scripts/affinity/pgroupings.mjs): groups Character (CH,
 SP, VO, CO, HU), Team player, Loyalty (can only count for), Class on the pitch (greatness, joy to watch, legacy), Clubs you
-like (club Affinity of his clubs, not his own clubs: "played for your club" dropped), American; flags Wrongdoing,
-Money or disloyal moves; familiarity set aside (still playing, women's game, big clubs, league of current/last club).
+like (Affinity of the clubs a player came from; read only for players with no tie to his clubs, since 2026-11-07), American; flags Wrongdoing,
+Money or disloyal moves; familiarity set aside (still playing, women's game, big clubs, league of current/last club, and "played for your club":
+a control so his clubs' players don't skew Clubs you like, never counted).
 Nothing pre-set; the per-player adjustment stays (traits alone predict ~55%). Picks before app.js PCLEAR don't count
 (Settings brings them back). Quiz: the club quiz's answers (=, ?id, ??), Players to look into (settings.pKnown), league
 chips, variety. 2,340 researched players (data/affinity/players.json, research/BRIEF.md, merge_research.py, char split
