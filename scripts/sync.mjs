@@ -109,7 +109,10 @@ async function publish() {
       const SM = tour ? S.matches.filter(m => m.tn === tour) : S.matches;
       // clubs: those with at least 4 matches this season in this competition (any, in a cup)
       const games = {}; for (const m of SM) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
-      const ids = Object.keys(S.teams).filter(id => games[id] >= (ko ? 1 : 4));
+      // ESPN's placeholders for clubs not yet known ("TBD Away" for a wild-card winner) are not clubs: their fixtures
+      // wait until ESPN names the club, and the bracket fills the slot from the simulation meanwhile
+      const placeholder = t => /^(TBD|TBA|Winner|Loser)\b/i.test(t?.n || '');
+      const ids = Object.keys(S.teams).filter(id => games[id] >= (ko ? 1 : 4) && !placeholder(S.teams[id]));
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
       const noTraits = [];
       const teams = ids.map(id => {
