@@ -179,10 +179,6 @@ tr.me td.club span { font-weight: 600; }
 .tri-labels b { color: var(--fg); font-weight: 600; }
 .block { padding: 6px 0 4px; }
 .block > h4 { margin: 14px 18px 8px; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
-.entry { display: flex; align-items: center; justify-content: center; gap: 18px; padding: 8px 18px; }
-.stepper { display: grid; grid-template-columns: 38px 44px 38px; align-items: center; background: var(--card2); border-radius: 12px; }
-.stepper button { height: 40px; font-size: 20px; color: var(--muted); }
-.stepper output { text-align: center; font-size: 22px; font-weight: 700; }
 .btns { display: flex; gap: 8px; padding: 10px 18px 0; flex-wrap: wrap; }
 .btn { flex: 1; padding: 11px 14px; border-radius: 11px; background: var(--card2); font-weight: 600; font-size: 14.5px; text-align: center; }
 .btn.primary { background: var(--fg); color: var(--bg); }
@@ -324,7 +320,7 @@ th { font-size: 12px; }
 .btn { border-radius: 4px; font-family: var(--display); font-weight: 700; font-size: 16px; text-transform: uppercase; letter-spacing: .03em; }
 .btn.primary { background: var(--blue); color: #fff; clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 0 100%); }
 /* numbers that lead: condensed, heavy */
-.score, .vs .mid, .big-num, .stat b, .stepper output, td.pts { font-family: var(--display); font-weight: 700; }
+.score, .vs .mid, .big-num, .stat b, td.pts { font-family: var(--display); font-weight: 700; }
 .score { font-size: 19px; } .vs .mid { font-size: 36px; } .big-num { font-size: 23px; } .stat b { font-size: 26px; }
 /* live: brand red */
 .mtime .live, .live-pill { color: var(--red); } .live-dot { background: var(--red); }

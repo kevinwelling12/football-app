@@ -107,7 +107,8 @@ The match sheet shows the swings as "What's at stake".
 
 ## Working agreements (carried over from the old app)
 - Plain, short replies. Show what changed and the concrete effect (numbers, examples). No hype.
-- Never overwrite results Kevin entered. His entries win over ESPN in the app; disagreements are shown, not resolved.
+- Never overwrite results Kevin entered. Score entry on match sheets was dropped 2026-11-19 (Kevin); entries he already made still
+  win over ESPN's and can be cleared in Settings.
 - Terminology: "Affinity", "Matches" (not Games), "Race", "Scenarios".
 - Design: the MLS brand look since 2026-11-19 (Kevin; MLS Partner Brand Guidelines 2015, styles.css top and "MLS brand layer"):
   navy #001F5B header and tab bar, light blue #00A1DE, red #E2231A, Barlow / Barlow Condensed (web/fonts, OFL; stands in for

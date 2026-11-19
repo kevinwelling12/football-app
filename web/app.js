@@ -1099,18 +1099,6 @@ function matchSheet(k, id) {
       ${fi.swings.map(s => { const x = stakeLine(k, m, s); return `<div>${esc(x.team.s)} · ${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
   }
   if (m.sh) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div><div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div></div></div>`;
-  // your entry
-  const e = entriesFor(k)[id], orig = D[k].byId.get(id);
-  const eh = e?.hs ?? m.hs ?? 0, ea = e?.as ?? m.as ?? 0;
-  if (!isPlayed(orig) || e) {
-    html += `<div class="block"><h4>Enter a score</h4><div class="entry">
-      <div class="stepper" data-side="h"><button data-step="-1">−</button><output>${eh}</output><button data-step="1">+</button></div>
-      <div class="stepper" data-side="a"><button data-step="-1">−</button><output>${ea}</output><button data-step="1">+</button></div></div>
-      <div class="field"><span>Minute (for a match in progress)</span><input type="number" id="e-min" min="1" max="120" value="${e?.live ? e.min : ''}" placeholder="—"></div>
-      <div class="btns"><button class="btn" data-save="live">Save as live</button><button class="btn primary" data-save="ft">Save full time</button></div>
-      ${e ? '<div class="btns"><button class="btn quiet" data-save="clear">Clear my entry</button></div>' : ''}
-      ${e && isPlayed(orig) && (orig.hs !== e.hs || orig.as !== e.as) ? `<p class="note" style="margin:8px 18px">ESPN has ${orig.hs}–${orig.as}. Yours is used until you clear it.</p>` : ''}</div>`;
-  }
   openSheet(html);
 }
 
@@ -1373,8 +1361,8 @@ function settingsSheet(keep = false) {
       ${pSince() && (store.get().playerPicks || []).length > pPicks().length ? '<div class="btns"><button class="btn quiet" data-act="p-undo">Bring back my earlier player picks</button></div>' : ''}
       ${cfg ? `<div class="btns">${u ? '<button class="btn" data-act="syncnow">Sync now</button><button class="btn quiet" data-act="signout">Sign out</button>' : '<button class="btn primary" data-act="signin">Sign in with Google</button>'}</div>` : ''}</div>
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
-    <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
-    ${n ? '<div class="btns"><button class="btn quiet" data-act="clear-entries">Clear all my entries</button></div>' : ''}</div>
+    ${n ? `<div class="field"><span>Scores you entered (still used over ESPN's)</span><span class="muted small">${n}</span></div>
+    <div class="btns"><button class="btn quiet" data-act="clear-entries">Clear all my entries</button></div>` : ''}</div>
     <div class="block"><h4>Model</h4>${ORDER.filter(k => D[k]).map(k => { const M = D[k].model, t = M.test; return `<div class="field"><span>${LEAGUES[k].name}</span><span class="muted small">${t ? `log loss ${t.logloss}` : ''} · market ${Math.round(D[k].P.mktW * 100)}%</span></div>`; }).join('')}
     <p class="note" style="margin:10px 18px">Team strengths come from a Dixon-Coles model fitted on up to ten seasons (recent matches count more; half-life ${D.epl?.model.halfLife ?? '–'} days in Europe), using goals blended with a shots-on-target expected-goals proxy and pulled toward each club's Elo. Where DraftKings or another book has a line, the match odds blend in the market. Figures are from walk-forward backtests since 2021.</p></div>`;
   openSheet(html, { keep });
@@ -1440,7 +1428,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-csub],[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-csub],[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -1472,17 +1460,6 @@ document.addEventListener('click', e => {
   if (t.dataset.tmode) { ui.tableMode = t.dataset.tmode; render(); return; }
   if (t.dataset.week) { const d = +t.dataset.week; if (d === 0) delete ui.week[route.lg]; else ui.week[route.lg] = (ui.week[route.lg] ?? 0) + d; render(); return; }
   if (t.dataset.rlg) { ui.ratingsLg = t.dataset.rlg; render(); return; }
-  if (t.dataset.step) { const o = t.parentElement.querySelector('output'); o.textContent = Math.max(0, Math.min(15, +o.textContent + +t.dataset.step)); return; }
-  if (t.dataset.save && sheetCtx?.type === 'match') {
-    const { k, id } = sheetCtx, kind = t.dataset.save;
-    const hs = +$('#sheet [data-side=h] output').textContent, as = +$('#sheet [data-side=a] output').textContent, min = +$('#e-min')?.value || 45;
-    store.set(s => {
-      const E = s.entries[k] || (s.entries[k] = {});
-      if (kind === 'clear') delete E[id];
-      else E[id] = kind === 'live' ? { hs, as, live: true, min, at: Date.now() } : { hs, as, at: Date.now() };
-    });
-    runSim(k); matchSheet(k, id); return;
-  }
   if (t.dataset.star) {
     const id = t.dataset.star, cur = favIds(), nat = natFavIds();
     store.set(s => {
