@@ -1012,6 +1012,36 @@ function throughOf(k, m) {
   return advance(gridFor(D[k], m), m.lh, m.la, { et: etOf(k, m), carry });
 }
 
+// Best-of-three series (MLS Round One): every game has a winner (level after 90 = penalties, a coin flip here), first
+// to two wins. For match m: the home side's chance to win this game and the series, from the series' other games
+// (results so far, the model's chances for the rest).
+function seriesOf(k, m) {
+  if (!m.series || isPlayed(m)) return null;
+  const x = m.h, y = m.a, L = D[k];
+  const games = matchesOf(k).filter(g => g.series && ((g.h === x && g.a === y) || (g.h === y && g.a === x)) && g.st !== 'canc').sort((a, b) => a.t.localeCompare(b.t));
+  const pX = g => { // chance x wins game g
+    if (isPlayed(g)) { const w = g.so ? (g.so[0] > g.so[1] ? g.h : g.a) : g.hs > g.as ? g.h : g.hs < g.as ? g.a : null; return w === x ? 1 : w === y ? 0 : 0.5; }
+    const p = probsFor(L, g); if (!p) return 0.5;
+    const hx = p.H + p.D / 2; return g.h === x ? hx : 1 - hx;
+  };
+  let st = new Map([['0-0', 1]]), win = 0;
+  for (const g of games) {
+    const q = pX(g), nx = new Map();
+    for (const [key, pr] of st) {
+      const [a, b] = key.split('-').map(Number);
+      for (const [na, nb, pp] of [[a + 1, b, q], [a, b + 1, 1 - q]]) {
+        if (!pp) continue;
+        if (na === 2) { win += pr * pp; continue; }
+        if (nb === 2) continue;
+        const kk = `${na}-${nb}`; nx.set(kk, (nx.get(kk) || 0) + pr * pp);
+      }
+    }
+    st = nx;
+  }
+  for (const pr of st.values()) win += pr / 2; // a game ESPN hasn't listed yet: even
+  return { game: pX(m), series: win, n: games.findIndex(g => g.id === m.id) + 1 };
+}
+
 // ------------------------------------------------------------------ Clubs
 // Clubs tab: a page for one of your clubs (crest chips switch between them; #/clubs opens the one that plays next),
 // then Explore: power ratings and Affinity, or Players
@@ -1115,8 +1145,11 @@ function matchSheet(k, id) {
       <div class="tri"><i class="h" style="width:${p.H * 100}%"></i><i class="d" style="width:${p.D * 100}%"></i><i class="a" style="width:${p.A * 100}%"></i></div>
       <div class="tri-labels"><span><b>${pctTxt(p.H)}</b> ${esc(H.a)}</span><span><b>${pctTxt(p.D)}</b> Draw</span><span><b>${pctTxt(p.A)}</b> ${esc(A.a)}</span></div>`;
     const thr = throughOf(k, m);
-    const thrRow = thr == null ? '' : `<div>To go through</div><div><b>${pctTxt(thr)}</b></div><div></div><div><b>${pctTxt(1 - thr)}</b></div>`;
-    const thrNote = thr == null ? '' : `<p class="note" style="margin:6px 18px 0">To go through: ${etOf(k, m) ? 'level after 90 minutes goes to extra time, then penalties' : 'level after 90 minutes goes straight to penalties'}${m.leg === 2 ? ', on aggregate' : ''}.</p>`;
+    const ser = seriesOf(k, m);
+    const thrRow = ser ? `<div>To win the game</div><div><b>${pctTxt(ser.game)}</b></div><div></div><div><b>${pctTxt(1 - ser.game)}</b></div><div>To win the series</div><div><b>${pctTxt(ser.series)}</b></div><div></div><div><b>${pctTxt(1 - ser.series)}</b></div>`
+      : thr == null ? '' : `<div>To go through</div><div><b>${pctTxt(thr)}</b></div><div></div><div><b>${pctTxt(1 - thr)}</b></div>`;
+    const thrNote = ser ? `<p class="note" style="margin:6px 18px 0">Game ${ser.n || ''} of a best of three: level after 90 minutes goes straight to penalties (even odds here), and the first to two wins goes through.</p>`
+      : thr == null ? '' : `<p class="note" style="margin:6px 18px 0">To go through: ${etOf(k, m) ? 'level after 90 minutes goes to extra time, then penalties' : 'level after 90 minutes goes straight to penalties'}${m.leg === 2 ? ', on aggregate' : ''}.</p>`;
     if (!played && !live && m.lh) {
       const model = outcomes(dcGrid(m.lh, m.la, L.P.rho, L.P.drawK)), mk = m.o ? marketProbs(m.o) : null;
       html += `<div class="kv" style="margin-top:12px"><div class="hd">&nbsp;</div><div class="hd">${esc(H.a)}</div><div class="hd">Draw</div><div class="hd">${esc(A.a)}</div>
@@ -1260,6 +1293,9 @@ function stakesBlock(id) {
   const fi = fixInfo(nm.k, nm.m.id), sw = fi?.swings?.filter(s => (nm.m.h === nm.i) === !s.side) || [];
   const opp = D[nm.k].teams[nm.m.h === nm.i ? nm.m.a : nm.m.h];
   if (!sw.length) { // a knockout: what's at stake is going through
+    const ser = seriesOf(nm.k, nm.m);
+    if (ser) { const me = nm.m.h === nm.i, g = me ? ser.game : 1 - ser.game, sr = me ? ser.series : 1 - ser.series;
+      return `<div class="block"><h4>Round One, game ${ser.n} ${me ? 'vs' : 'at'} ${esc(opp.s)} · ${esc(dayLabel(dayKey(nm.m.t)))}</h4><div class="kv"><div>To win the game</div><div><b>${pctTxt(g)}</b></div><div></div><div class="muted small">penalties if level</div><div>To win the series</div><div><b>${pctTxt(sr)}</b></div><div></div><div class="muted small">best of three</div></div></div>`; }
     const thr = throughOf(nm.k, nm.m); if (thr == null) return ''; // the match itself is first in the schedule below
     const p = nm.m.h === nm.i ? thr : 1 - thr;
     return `<div class="block"><h4>${esc(nm.m.stage ? stageName(nm.m.stage.replace(/^.*---/, '')) : 'Next')} ${nm.m.h === nm.i ? 'vs' : 'at'} ${esc(opp.s)} · ${esc(dayLabel(dayKey(nm.m.t)))}</h4><div class="kv"><div>To go through</div><div><b>${pctTxt(p)}</b></div><div></div><div class="muted small">${etOf(nm.k, nm.m) ? 'extra time, then penalties' : 'penalties if level'}</div></div></div>`;
