@@ -110,7 +110,10 @@ The match sheet shows the swings as "What's at stake".
 - FotMob Predict: a predicted score per match, 90 minutes only; 2 points for the result, +1 for the exact score. Never scrape FotMob (or Opta). After extra time the 90-minute score isn't known: a draw pick gets the result points, no exact bonus (app.js ptsFor).
 - House rules (Picks page, beside FotMob; v2 since 2026-10-20): home win 2, draw 5, away win 6, +3 exact (either win 4 at a neutral venue); engine.js HOUSE, frozen as `pk.hp` with its version `pk.hv` (older picks are worked out again from their frozen chances).
 - Terminology: "Affinity", "Matches" (not Games), "Race", "Scenarios".
-- Design: clean and quiet. Neutral surfaces, a competition's colour only as a small accent, numbers first. Less on screen beats more.
+- Design: the MLS brand look since 2026-11-19 (Kevin; MLS Partner Brand Guidelines 2015, styles.css top and "MLS brand layer"):
+  navy #001F5B header and tab bar, light blue #00A1DE, red #E2231A, Barlow / Barlow Condensed (web/fonts, OFL; stands in for
+  the licensed DIN Next), uppercase condensed headlines, the 45-degree Slash on titles and selected tabs, one cut corner on
+  cards. Still numbers first, a competition's colour only as a small accent, less on screen beats more.
 - Crests: ESPN has a few on white squares (Sacramento Republic, Phoenix, San Antonio); scripts/logos.py clears them. Check new clubs.
 - Clinched/eliminated must be proven, never inferred from simulations (simulations may only rule a proof out).
 - Kevin started following closely with the 2026 World Cup; don't judge clubs or players by whether he's heard of them.

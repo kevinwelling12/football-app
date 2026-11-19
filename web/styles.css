@@ -1,23 +1,38 @@
-/* One quiet theme: neutral surfaces, numbers first, a competition's colour only as a small accent. */
+/* MLS brand theme (2026-11-19, Kevin: "re-style the entire app based around the MLS brand guidelines"; MLS Partner
+   Brand Guidelines v1.0, 2015). Colours: navy PMS 281 #001F5B, light blue PMS 299 #00A1DE, red PMS 485 #E2231A,
+   dark red PMS 188 #79222E, with the secondary palette for status colours. Type: DIN Next Pro in the book (licensed),
+   here Barlow, a DIN-style grotesk under the Open Font License (web/fonts); headlines uppercase, condensed, heavy,
+   tight tracking and solid leading. Graphic system: The Slash (45 degrees, from the crest) marks titles and
+   sections; cards take one 45-degree corner (the book's "corners"). Numbers stay first. */
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 400; font-display: swap; src: url(fonts/Barlow-400.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 500; font-display: swap; src: url(fonts/Barlow-500.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/Barlow-600.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 700; font-display: swap; src: url(fonts/Barlow-700.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 600; font-display: swap; src: url(fonts/BarlowCondensed-600.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 700; font-display: swap; src: url(fonts/BarlowCondensed-700.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Barlow Condensed'; font-style: normal; font-weight: 800; font-display: swap; src: url(fonts/BarlowCondensed-800.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 :root {
   color-scheme: dark light;
-  --bg: #0c0d0f; --card: #16181b; --card2: #1d2024; --line: rgba(255,255,255,.07); --line2: rgba(255,255,255,.12);
-  --fg: #eceef1; --muted: #9097a1; --faint: #5f656e;
-  --good: #3ccf8e; --ok: #5aa9ff; --warn: #f5a524; --bad: #ff5d5d; --gold: #e9b949;
-  --accent: #eceef1; --radius: 14px;
-  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, sans-serif;
+  --navy: #001F5B; --blue: #00A1DE; --red: #E2231A; --wine: #79222E;
+  --bg: #04102A; --card: #0A1B3E; --card2: #11274F; --line: rgba(178,214,237,.10); --line2: rgba(178,214,237,.18);
+  --fg: #F3F6FA; --muted: #9FB0CA; --faint: #5E7196;
+  --good: #72CE9B; --ok: #3DB7E4; --warn: #FFA100; --bad: #F0473F; --gold: #FCD189;
+  --accent: var(--blue); --radius: 6px; --corner: 14px;
+  --font: "Barlow", "DIN Next", "D-DIN", "Roboto Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display: "Barlow Condensed", "DIN Next Condensed", "Roboto Condensed", "Arial Narrow", sans-serif;
   --safe-b: env(safe-area-inset-bottom, 0px);
 }
 @media (prefers-color-scheme: light) {
   :root:not([data-theme="dark"]) {
-    --bg: #f5f5f3; --card: #ffffff; --card2: #f0f0ee; --line: rgba(0,0,0,.07); --line2: rgba(0,0,0,.12);
-    --fg: #15171a; --muted: #6b717a; --faint: #a1a6ad; --accent: #15171a;
-    --good: #1a9d63; --ok: #2f7fe0; --warn: #c97d00; --bad: #e03e3e; --gold: #b8890f;
+    --bg: #EDF1F6; --card: #ffffff; --card2: #E3E9F1; --line: rgba(0,31,91,.09); --line2: rgba(0,31,91,.16);
+    --fg: #001F5B; --muted: #4B5E83; --faint: #93A2BB;
+    --good: #008566; --ok: #005B94; --warn: #B06F00; --bad: #E2231A; --gold: #9E7A00;
+    --accent: var(--blue);
   }
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; overscroll-behavior-y: none; }
-body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.4 var(--font); font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15.5px/1.4 var(--font); font-variant-numeric: tabular-nums; -webkit-font-smoothing: antialiased; min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
 /* the tab bar is sticky, last in the page, not fixed: iOS home-screen apps (iOS 27) sometimes let fixed elements scroll with the page */
 #view { flex: 1 0 auto; width: 100%; box-sizing: border-box; }
 button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
@@ -277,3 +292,55 @@ details.groups[open] > summary::after { content: ' ▴'; }
 .csub button { flex: 1; min-width: 0; padding: 7px 4px; border-radius: 8px; font-size: 13px; font-weight: 500; color: var(--muted); }
 .csub button.on { background: var(--bg); color: var(--fg); }
 .csub button:focus-visible { outline: 2px solid var(--fg); outline-offset: 1px; }
+
+
+/* ================================================================ MLS brand layer */
+/* the header is a navy band in both themes (the book's corporate blue), its own tokens so chips and tabs read on it */
+.top { --fg: #F3F6FA; --muted: #B2D6ED; --faint: #6F86B3; --card: rgba(255,255,255,.08); --card2: rgba(255,255,255,.14); --line: rgba(255,255,255,.12);
+  color: var(--fg); background: linear-gradient(135deg, #001F5B 0 62%, #00276F 62%); backdrop-filter: none; -webkit-backdrop-filter: none; }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .top { box-shadow: 0 1px 0 rgba(0,31,91,.2); } }
+/* titles: uppercase condensed heavy, a red slash in front */
+h1 { font-family: var(--display); font-weight: 800; font-size: 30px; line-height: 1; letter-spacing: -.005em; text-transform: uppercase; display: flex; align-items: center; gap: 10px; }
+h1::before { content: ""; flex: none; width: 7px; height: 26px; background: var(--red); transform: skewX(-45deg) translateX(6px); margin-right: 6px; }
+.section h2 { font-family: var(--display); font-size: 17px; font-weight: 700; letter-spacing: .02em; color: var(--fg); display: flex; align-items: center; gap: 8px; }
+.section h2::before { content: ""; flex: none; width: 4px; height: 14px; background: var(--blue); transform: skewX(-45deg); margin: 0 4px 0 3px; }
+.block > h4, th, .kv .hd, .bhead span { font-family: var(--display); font-weight: 700; letter-spacing: .05em; }
+.block > h4 { font-size: 13.5px; }
+th { font-size: 12px; }
+/* cards: square-ish with one 45-degree corner, the book's "corners" */
+.card, .sheet, .bx { border-radius: var(--radius); }
+.card { clip-path: polygon(0 0, calc(100% - var(--corner)) 0, 100% var(--corner), 100% 100%, 0 100%); }
+.sheet { border-radius: 0; clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 22px, 100% 100%, 0 100%); }
+/* chips: tight corners; the selected one in light blue */
+.chip, .cchip, .jump button { border-radius: 4px; font-weight: 600; }
+.chip.on, .cchip.on { background: var(--blue); color: #fff; }
+.top .chip.on { background: #fff; color: #001F5B; }
+/* sub-tabs on the header: a thick slanted bar under the selected one, in the competition's colour */
+.seg { border-bottom: 0; }
+.seg a { font-family: var(--display); font-weight: 700; font-size: 16px; text-transform: uppercase; letter-spacing: .03em; border-bottom: 0; position: relative; padding-bottom: 11px; }
+.seg a.on::after { content: ""; position: absolute; left: 2px; right: 2px; bottom: 2px; height: 4px; background: var(--accent); transform: skewX(-45deg); }
+/* segmented controls (team tabs, Explore, toggles) */
+.csub, .toggle { border-radius: 4px; }
+.csub button, .toggle button { border-radius: 3px; font-family: var(--display); font-weight: 700; font-size: 14.5px; text-transform: uppercase; letter-spacing: .03em; }
+.csub button.on, .toggle button.on { background: var(--navy); color: #fff; }
+@media (prefers-color-scheme: dark) { .csub button.on, .toggle button.on { background: var(--blue); color: #001F5B; } }
+:root[data-theme="dark"] .csub button.on, :root[data-theme="dark"] .toggle button.on { background: var(--blue); color: #001F5B; }
+/* buttons: light blue, uppercase, one cut corner */
+.btn { border-radius: 4px; font-family: var(--display); font-weight: 700; font-size: 16px; text-transform: uppercase; letter-spacing: .03em; }
+.btn.primary { background: var(--blue); color: #fff; clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 0 100%); }
+/* numbers that lead: condensed, heavy */
+.score, .vs .mid, .big-num, .stat b, .pick .big, .stepper output, td.pts { font-family: var(--display); font-weight: 700; }
+.score { font-size: 19px; } .vs .mid { font-size: 36px; } .big-num { font-size: 23px; } .stat b { font-size: 26px; }
+/* live: brand red */
+.mtime .live, .live-pill { color: var(--red); } .live-dot { background: var(--red); }
+/* chance bars: home in light blue */
+.pbar .h, .tri .h { background: var(--blue); }
+.dist i { background: var(--blue); opacity: .85; }
+/* your clubs' stars and favourite marks stay gold; the table zone marks become slashes */
+td.pos::before { width: 4px; border-radius: 0; transform: skewX(-20deg); }
+/* the tab bar: navy band too, the selected tab light blue with a slash above */
+.tabbar { --faint: #7E93BC; background: #001F5B; border-top: 0; }
+.tabbar a { position: relative; font-family: var(--display); font-weight: 700; font-size: 11.5px; text-transform: uppercase; letter-spacing: .04em; }
+.tabbar a.on { color: #fff; }
+.tabbar a.on::before { content: ""; position: absolute; top: -6px; left: 50%; width: 26px; height: 3px; margin-left: -13px; background: var(--blue); transform: skewX(-45deg); }
+.tabbar a.on svg { color: var(--blue); }

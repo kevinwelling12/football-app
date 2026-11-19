@@ -1,2 +1,2 @@
-{ "name": "Football", "short_name": "Football", "start_url": "./#/today", "display": "standalone", "background_color": "#0c0d0f", "theme_color": "#0c0d0f",
+{ "name": "Football", "short_name": "Football", "start_url": "./#/today", "display": "standalone", "background_color": "#04102A", "theme_color": "#001F5B",
   "icons": [ { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }, { "src": "icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" } ] }

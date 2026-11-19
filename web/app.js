@@ -985,7 +985,7 @@ function housePick(L, m) {
 // Picks are for 90 minutes. After extra time the 90-minute result was a draw but its score isn't in the data, so a
 // draw pick gets the result points and no exact bonus. (MLS best-of-three games and Carabao Cup ties before the final
 // go straight to penalties: their score is the 90-minute score.)
-const etOf = (k, m) => !m.series && (LEAGUES[k].et === 'final' ? m.stage === 'final' : true);
+const etOf = (k, m) => !m.series && !(k === 'mls' && /wild-card/.test(m.stage || '')) && (LEAGUES[k].et === 'final' ? m.stage === 'final' : true); // MLS wild card: straight to penalties
 const at90 = (k, m) => (m.st === 'aet' || (m.st === 'pen' && etOf(k, m)) ? null : [m.hs, m.as]);
 function ptsFor(pick, k, m, S = FOTMOB) {
   if (pick == null || m.hs == null) return null;
