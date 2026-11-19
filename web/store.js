@@ -1,4 +1,4 @@
-// Saved state: your own entries (results, live scores), followed clubs, FotMob picks, match-of-the-week locks,
+// Saved state: your own entries (results, live scores), followed clubs, match-of-the-week locks,
 // Affinity picks and settings. Always kept in localStorage; with Google sign-in it also syncs through Firestore
 // (users/{uid}/app/state; project per docs/firebase-setup.md).
 //

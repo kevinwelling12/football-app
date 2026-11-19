@@ -1,7 +1,7 @@
 // Football: page shell, data, live scores, views. Views are plain template strings rendered into #view.
 import { LEAGUES, ORDER, MAIN, FAVORITES, FAV_NATIONS, CUPS, INTL, ALL } from './leagues.js';
 import { prepare, standings, isPlayed, regular, simulate } from './sim.js';
-import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, pkGrid, advance, FOTMOB, HOUSE, HOUSE_NEUTRAL, W } from './engine.js';
+import { matchGrid, outcomes, liveGrid, marketProbs, grid as dcGrid, advance, W } from './engine.js';
 import { statuses, scenarios as scenFor, describe } from './clinch.js';
 import { parseEvent } from './espn.js';
 import { store, initSync, signIn, signOut } from './store.js';
@@ -13,7 +13,7 @@ const D = {}, SIM = {}, LIVE = {};
 let TRAITS = {}, RIVALS = {}, AFF = null, PLAYERS = {}, PAFF = null;
 const SIMS = 10000;
 let route = { tab: 'today', lg: localGet('lg'), sub: localGet('sub') || 'table', club: null };
-const ui = { pklg: localGet('pklg') || 'all', qlg: localGet('qlg') || '', pqlg: localGet('pqlg') || '', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
+const ui = { qlg: localGet('qlg') || '', pqlg: localGet('pqlg') || '', tableMode: 'now', ratingsLg: 'eur', week: {}, more: {}, tday: null };
 // domestic leagues before the UEFA cups: a club belongs to its own league (Real Madrid is La Liga, Aston Villa the
 // Premier League); a cup only claims clubs from leagues the app doesn't show (Celtic, Benfica)
 const HOME_ORDER = [...ORDER.filter(k => !LEAGUES[k].cup), ...ORDER.filter(k => LEAGUES[k].cup)];
@@ -927,77 +927,9 @@ function describeLines(sc) {
   return lines;
 }
 
-// ------------------------------------------------------------------ Picks
-function viewPicks() {
-  const now = Date.now(), up = [], done = [];
-  for (const k of ALL) if (D[k]) for (const m of matchesOf(k)) {
-    if (m.stage && !m.lh && !m.pk) continue;
-    if (!isPlayed(m) && m.st !== 'canc' && m.st !== 'live' && m.lh && Date.parse(m.t) - now < 8 * 864e5) up.push([k, m]);
-    if (isPlayed(m) && m.pk && !m.mine) done.push([k, m]);
-  }
-  // league filter (remembered): every competition with picks, yours first, then the rest
-  const fav = favIds(), has = k => D[k].teams.some(t => fav.has(t.id));
-  const comps = ALL.filter(k => up.some(x => x[0] === k) || done.some(x => x[0] === k));
-  const sel = comps.includes(ui.pklg) ? ui.pklg : 'all', inLg = k => sel === 'all' || k === sel;
-  const mineC = comps.filter(has), rest = comps.filter(k => !has(k));
-  const chip = k => `<button class="chip ${sel === k ? 'on' : ''}" data-pklg="${k}">${k === 'all' ? 'All' : LEAGUES[k].tag}</button>`;
-  let html = `<nav class="chips" style="padding:4px 0 6px">${chip('all')}${mineC.map(chip).join('')}${mineC.length && rest.length ? '<span class="chip-sep"></span>' : ''}${rest.map(chip).join('')}</nav>`;
-  html += `<div class="section"><h2>Record${sel === 'all' ? '' : ' · ' + esc(LEAGUES[sel].name)}</h2><span class="aside">points a match</span></div>`;
-  // record: each match scored twice, the FotMob pick under FotMob scoring and the House pick under House rules
-  const rec = {}; let P = 0, Q = 0, N = 0, R = 0, X = 0;
-  for (const [k, m] of done) {
-    if (!inLg(k)) continue;
-    const pts = ptsFor(m.pk.pick, k, m); if (pts == null) continue;
-    const hq = ptsFor(housePick(D[k], m), k, m, houseRules(m)) ?? 0, ex = exactHit(m.pk.pick, k, m);
-    const r = rec[k] || (rec[k] = { n: 0, p: 0, q: 0 });
-    r.n++; r.p += pts; r.q += hq; N++; P += pts; Q += hq; R += pts > 0; X += ex;
-  }
-  const per = (x, n) => n ? (x / n).toFixed(2) : '–';
-  html += `<div class="card"><div class="stats four"><div class="stat"><b>${per(P, N)}</b><span>FotMob avg</span></div><div class="stat"><b>${per(Q, N)}</b><span>House avg</span></div><div class="stat"><b>${N ? Math.round(R / N * 100) + '%' : '–'}</b><span>right result</span></div><div class="stat"><b>${N ? Math.round(X / N * 100) + '%' : '–'}</b><span>exact score</span></div></div>
-    ${sel !== 'all' ? `<div class="small muted" style="padding:0 16px 12px">${N} matches</div>` : `<table><tr><th class="club">Per match</th><th>Matches</th><th>FotMob</th><th>House</th></tr>${ALL.filter(k => rec[k]).map(k => `<tr><td class="club">${LEAGUES[k].name}</td><td>${rec[k].n}</td><td class="pts">${per(rec[k].p, rec[k].n)}</td><td class="pts">${per(rec[k].q, rec[k].n)}</td></tr>`).join('')}</table>`}</div>
-    <p class="note">FotMob scoring: 2 for the result, +1 for the exact score. House rules: home win 2, draw 5, away win 6, +3 for the exact score (either win 4 at a neutral venue), so the best pick isn't always the favourite. Picks are for 90 minutes. Each column uses the model's best pick for that scoring, made before the match (picks from before this app existed were worked out from data available at the time, without betting lines). Right result and exact score are for the FotMob pick.</p>`;
-  // upcoming by day
-  const byDay = new Map(); for (const x of up.filter(x => inLg(x[0]))) { const d = dayKey(x[1].t); (byDay.get(d) || byDay.set(d, []).get(d)).push(x); }
-  for (const [d, list] of [...byDay].sort()) {
-    html += `<div class="section"><h2>${dayLabel(d)}</h2></div><div class="card">`;
-    const isMine = ([k, m]) => fav.has(D[k].teams[m.h].id) || fav.has(D[k].teams[m.a].id);
-    const pinned = list.filter(isMine).sort((a, b) => a[1].t.localeCompare(b[1].t));
-    if (pinned.length) html += `<div class="lg-label"><span class="fav">★</span>Your clubs</div>` + pinned.map(([k, m]) => pickRow(k, m)).join('');
-    for (const k of ALL) {
-      const ms = list.filter(x => x[0] === k && !isMine(x)).sort((a, b) => a[1].t.localeCompare(b[1].t)); if (!ms.length) continue;
-      html += lgLabel(k) + ms.map(([, m]) => pickRow(k, m)).join('');
-    }
-    html += '</div>';
-  }
-  if (!byDay.size) html += '<div class="empty">No upcoming matches in the next week.</div>';
-  return html;
-}
-function pickRow(k, m) {
-  const L = D[k], H = L.teams[m.h], A = L.teams[m.a], g = gridFor(L, m), b = bestPick(g), hb = bestPick(g, houseRules(m));
-  const mine = store.get().picks[m.id];
-  return `<button class="pick" data-match="${k}:${m.id}"><div class="mteams"><div class="tm">${crest(H)}<span>${esc(H.s)}</span></div><div class="tm">${crest(A)}<span>${esc(A.s)}</span></div><div class="tiny faint">${fmtTime(m.t)}${m.o ? ' · with betting line' : ''}${mine ? ` · yours ${mine[0]}–${mine[1]}` : ''}</div></div>
-    <div><div class="ev">FotMob</div><div class="big">${b.pick[0]}–${b.pick[1]}</div><div class="ev">${b.ev.toFixed(2)} pts</div></div>
-    <div><div class="ev">House</div><div class="big">${hb.pick[0]}–${hb.pick[1]}</div><div class="ev">${hb.ev.toFixed(2)} pts</div></div></button>`;
-}
-// House rules for a match, and the House pick frozen before kickoff (older frozen predictions only kept the FotMob
-// pick; the House pick is worked out from the same frozen chances)
-const houseRules = m => m.n ? HOUSE_NEUTRAL : HOUSE;
-function housePick(L, m) {
-  if (m.pk.hp && m.pk.hv === HOUSE.v) return m.pk.hp;
-  return m.pk.lh == null ? null : bestPick(pkGrid(m.pk, L.P.rho, L.P.drawK), houseRules(m)).pick;
-}
-// Picks are for 90 minutes. After extra time the 90-minute result was a draw but its score isn't in the data, so a
-// draw pick gets the result points and no exact bonus. (MLS best-of-three games and Carabao Cup ties before the final
-// go straight to penalties: their score is the 90-minute score.)
+// ------------------------------------------------------------------ Knockouts
+// Extra time before penalties? Not in MLS best-of-three games, the MLS wild card or Carabao Cup ties before the final.
 const etOf = (k, m) => !m.series && !(k === 'mls' && /wild-card/.test(m.stage || '')) && (LEAGUES[k].et === 'final' ? m.stage === 'final' : true); // MLS wild card: straight to penalties
-const at90 = (k, m) => (m.st === 'aet' || (m.st === 'pen' && etOf(k, m)) ? null : [m.hs, m.as]);
-function ptsFor(pick, k, m, S = FOTMOB) {
-  if (pick == null || m.hs == null) return null;
-  const s = at90(k, m);
-  return s ? pickPoints(pick, s[0], s[1], S) : pick[0] === pick[1] ? S.D : 0;
-}
-const exactHit = (pick, k, m) => { const s = at90(k, m); return pick != null && !!s && pick[0] === s[0] && pick[1] === s[1]; };
-const ptsCls = (pick, pts, k, m) => exactHit(pick, k, m) ? 'exact' : pts ? 'hit' : 'miss';
 // Knockout tie (domestic cup, or a single-match play-off round: USL, NWSL, MLS past round one): chance the home side
 // goes through. A second leg counts the first; none for a first leg or a best-of-three game.
 const knockout = (k, m) => (LEAGUES[k].intl ? !LEAGUES[k].friendly && !!m.stage : LEAGUES[k].ko) || (!LEAGUES[k].intl && !!m.stage && !m.series && (m.leg === 2 || ['usl', 'nwsl', 'mls'].includes(k)));
@@ -1165,18 +1097,6 @@ function matchSheet(k, id) {
   if (fi?.swings?.length) {
     html += `<div class="block"><h4>What's at stake</h4><div class="kv"><div class="hd"></div><div class="hd">Win</div><div class="hd">Draw</div><div class="hd">Loss</div>
       ${fi.swings.map(s => { const x = stakeLine(k, m, s); return `<div>${esc(x.team.s)} · ${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
-  }
-  // pick
-  if (!played && m.lh && !live) {
-    const g = gridFor(L, m), b = bestPick(g), S = houseRules(m), hb = bestPick(g, S);
-    const opts = x => `<div style="font-weight:700;font-size:18px">${x.pick[0]}–${x.pick[1]}</div><div></div><div class="muted">${x.ev.toFixed(2)} pts</div>
-      ${x.top.slice(1, 3).map(y => `<div class="faint">or</div><div>${y.h}–${y.a}</div><div></div><div class="faint">${y.ev.toFixed(2)} pts</div>`).join('')}`;
-    html += `<div class="block"><h4>Best pick</h4><div class="kv"><div>FotMob</div>${opts(b)}<div>House rules</div>${opts(hb)}</div>
-      <p class="note" style="margin:8px 18px">Expected points. FotMob: 2 × chance of the result + 1 × chance of the exact score. House rules: ${S.H} × chance of a home win, ${S.D} × a draw, ${S.A} × an away win, + ${S.exact} × chance of the exact score.</p></div>`;
-  } else if (played && m.pk) {
-    const pts = ptsFor(m.pk.pick, k, m), hp = housePick(L, m), hq = ptsFor(hp, k, m, houseRules(m));
-    html += `<div class="block"><h4>Pick${m.pk.wf ? ' (worked out after)' : ''}</h4><div class="kv"><div>FotMob</div><div style="font-weight:700">${m.pk.pick[0]}–${m.pk.pick[1]}</div><div></div><div class="${ptsCls(m.pk.pick, pts, k, m)}">${pts} pts</div>
-      ${hp ? `<div>House rules</div><div style="font-weight:700">${hp[0]}–${hp[1]}</div><div></div><div class="${ptsCls(hp, hq, k, m)}">${hq} pts</div>` : ''}</div></div>`;
   }
   if (m.sh) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div><div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div></div></div>`;
   // your entry
@@ -1455,7 +1375,7 @@ function settingsSheet(keep = false) {
     <div class="block"><h4>Data</h4><div class="field"><span>Results, fixtures and odds</span><span class="muted small">ESPN · ${updated ? new Date(updated).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }) : '–'}</span></div>
     <div class="field"><span>Your entered scores</span><span class="muted small">${n}</span></div>
     ${n ? '<div class="btns"><button class="btn quiet" data-act="clear-entries">Clear all my entries</button></div>' : ''}</div>
-    <div class="block"><h4>Model</h4>${ORDER.filter(k => D[k]).map(k => { const M = D[k].model, t = M.test; return `<div class="field"><span>${LEAGUES[k].name}</span><span class="muted small">${t ? `log loss ${t.logloss} · ${t.pts} pts/match` : ''} · market ${Math.round(D[k].P.mktW * 100)}%</span></div>`; }).join('')}
+    <div class="block"><h4>Model</h4>${ORDER.filter(k => D[k]).map(k => { const M = D[k].model, t = M.test; return `<div class="field"><span>${LEAGUES[k].name}</span><span class="muted small">${t ? `log loss ${t.logloss}` : ''} · market ${Math.round(D[k].P.mktW * 100)}%</span></div>`; }).join('')}
     <p class="note" style="margin:10px 18px">Team strengths come from a Dixon-Coles model fitted on up to ten seasons (recent matches count more; half-life ${D.epl?.model.halfLife ?? '–'} days in Europe), using goals blended with a shots-on-target expected-goals proxy and pulled toward each club's Elo. Where DraftKings or another book has a line, the match odds blend in the market. Figures are from walk-forward backtests since 2021.</p></div>`;
   openSheet(html, { keep });
 }
@@ -1463,7 +1383,7 @@ function settingsSheet(keep = false) {
 // ------------------------------------------------------------------ chrome + routing
 function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
-  const tab = ['today', 'league', 'picks', 'clubs', 'explore'].includes(p[0]) ? p[0] : 'today';
+  const tab = ['today', 'league', 'clubs', 'explore'].includes(p[0]) ? p[0] : 'today';
   if (tab === 'clubs') route.club = p[1] || null;
   if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups' || p[1] === 'intl') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
@@ -1474,7 +1394,7 @@ function chrome() {
     const fav = favIds(); route.lg = ORDER.find(k => (D[k]?.teams || []).some(t => fav.has(t.id))) || 'epl';
     route.lgAuto = !Object.keys(D).length; // decided again once the data is in
   }
-  const titles = { today: 'Today', picks: 'Picks', clubs: 'Clubs', explore: 'Explore' };
+  const titles = { today: 'Today', clubs: 'Clubs', explore: 'Explore' };
   const cupsPage = route.tab === 'league' && (route.lg === 'cups' || route.lg === 'intl');
   $('#title').textContent = cupsPage ? (route.lg === 'intl' ? 'Internationals' : 'Cups') : route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
   document.documentElement.style.setProperty('--accent', route.tab === 'league' && !cupsPage ? LEAGUES[route.lg].color : 'var(--fg)');
@@ -1511,7 +1431,7 @@ function render() {
     chrome();
     if (!Object.keys(D).length) { $('#view').innerHTML = '<div class="spinner">Loading…</div>'; return; }
     for (const k of ORDER) if (D[k] && (route.tab !== 'league' || k === route.lg)) runSim(k);
-    const v = route.tab === 'league' ? viewLeague() : route.tab === 'picks' ? viewPicks() : route.tab === 'clubs' ? viewClubs() : route.tab === 'explore' ? viewExplore() : viewToday();
+    const v = route.tab === 'league' ? viewLeague() : route.tab === 'clubs' ? viewClubs() : route.tab === 'explore' ? viewExplore() : viewToday();
     morph($('#view'), v);
     if (sheetCtx?.type === 'club' && !$('#sheet').hidden) clubSheet(sheetCtx.k, sheetCtx.i, true);
     if (sheetCtx?.type === 'settings' && !$('#sheet').hidden) settingsSheet(true);
@@ -1520,7 +1440,7 @@ function render() {
 
 // ------------------------------------------------------------------ events
 document.addEventListener('click', e => {
-  const t = e.target.closest('[data-csub],[data-pklg],[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
+  const t = e.target.closest('[data-csub],[data-jump],[data-tday],[data-more],[data-plg],[data-pquiz],[data-player],[data-ctab],[data-plist],[data-quiz],[data-match],[data-club],[data-tmode],[data-week],[data-rlg],[data-step],[data-save],[data-star],[data-act]');
   if (!t) return;
   if (t.dataset.quiz) {
     const q = t.dataset.quiz;
@@ -1541,7 +1461,6 @@ document.addEventListener('click', e => {
   }
   if (t.dataset.more) { ui.more[t.dataset.more] = !ui.more[t.dataset.more]; render(); return; }
   if (t.dataset.player) { playerSheet(t.dataset.player); return; }
-  if (t.dataset.pklg) { ui.pklg = t.dataset.pklg; localSet('pklg', ui.pklg); render(); return; }
   if (t.dataset.jump) { document.getElementById(t.dataset.jump)?.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
   if (t.dataset.ctab) { ui.ctab = t.dataset.ctab; render(); return; }
   if (t.dataset.csub) { ui.csub = t.dataset.csub; if (sheetCtx?.type === 'club' && t.closest('#sheet')) clubSheet(sheetCtx.k, sheetCtx.i, true); else render(); return; }

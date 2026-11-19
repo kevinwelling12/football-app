@@ -1,4 +1,4 @@
-// Match probabilities: Dixon-Coles scoreline grids, draw calibration, the betting-market blend and FotMob picks.
+// Match probabilities: Dixon-Coles scoreline grids, draw calibration, the betting-market blend.
 // Shared by the page, its simulation worker and the Node scripts (backtests, sync).
 export const KMAX = 10, W = KMAX + 1;
 
@@ -72,35 +72,6 @@ export function matchGrid(m, P) {
   const model = grid(m.lh, m.la, P.rho, P.drawK);
   if (!m.o || !P.mktW) return model;
   return blend(model, marketGrid(m.o, m.lh, m.la, P.rho), P.mktW);
-}
-
-// Scoring rules: points for the right result by outcome (home win, draw, away win), plus a bonus for the exact score.
-// FotMob Predict pays every result 2 and +1 for the exact score. House rules pay the harder calls more: home win 2,
-// draw 5, away win 6, exact +3 (either win 4 at a neutral venue), so the best pick isn't always the favourite.
-// v: the House rules' version; a pick frozen under another version is worked out again from its frozen chances.
-export const FOTMOB = { H: 2, D: 2, A: 2, exact: 1 };
-export const HOUSE = { H: 2, D: 5, A: 6, exact: 3, v: 2 }, HOUSE_NEUTRAL = { H: 4, D: 5, A: 4, exact: 3, v: 2 };
-const res = (h, a) => h > a ? 'H' : h < a ? 'A' : 'D';
-// Best pick = argmax S[result] P(result) + S.exact P(exact).
-export function bestPick(g, S = FOTMOB) {
-  const r = outcomes(g), list = [];
-  for (let h = 0; h <= 6; h++) for (let a = 0; a <= 6; a++) {
-    const p = g[h * W + a], o = res(h, a);
-    list.push({ h, a, p, ev: S[o] * r[o] + S.exact * p });
-  }
-  list.sort((x, y) => y.ev - x.ev);
-  return { pick: [list[0].h, list[0].a], ev: list[0].ev, top: list.slice(0, 4), ...r };
-}
-export function pickPoints(pick, hs, as, S = FOTMOB) {
-  if (pick == null || hs == null) return null;
-  const o = res(hs, as);
-  return res(pick[0], pick[1]) === o ? S[o] + (pick[0] === hs && pick[1] === as ? S.exact : 0) : 0;
-}
-// The grid behind a frozen prediction (pk): rates' grid scaled to the frozen home/draw/away chances
-export function pkGrid(pk, rho = 0, drawK = 1) {
-  const g = grid(pk.lh, pk.la, rho, drawK), r = outcomes(g);
-  for (let h = 0; h <= KMAX; h++) for (let a = 0; a <= KMAX; a++) g[h * W + a] *= h > a ? pk.pH / r.H : h === a ? pk.pD / r.D : pk.pA / r.A;
-  return g;
 }
 
 // A knockout tie: chance the home side goes through. g = this match's grid (the rest of it, when live), carry = goals

@@ -20,8 +20,8 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
-      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS play-offs and the three UEFA cups' knockouts; app.js BRACKET), #/picks, #/clubs/<club-slug>), views, sheets
-      engine.js          scoreline grids (Dixon-Coles), market blend, FotMob pick, live grids, RNG; shared with Node
+      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS play-offs and the three UEFA cups' knockouts; app.js BRACKET), #/clubs/<club-slug>, #/explore), views, sheets
+      engine.js          scoreline grids (Dixon-Coles), market blend, live grids, knockout odds, RNG; shared with Node
       sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups: halves drawn from the seed pairs, 1/2 v 7/8 paths in the quarter-finals, mls, nwsl, usl, efl = Championship promotion, mex)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios
       leagues.js         zones, tiebreakers, playoff formats, colours, ORDER (all thirteen) and MAIN (Kevin's six); `cup` = UEFA cups (a club belongs to its domestic league when shown), default favourites
@@ -49,8 +49,9 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 ## Model (docs/model.md)
 Elo over all history (Europe one pool via UEFA matches; MLS + Liga MX one pool, 'mls', via Leagues Cup and Concacaf Champions Cup), plus attack/defence fitted on time-weighted matches whose targets
 mix goals with a shots-on-target xG proxy, pulled toward the Elo prior. Draw calibration (rho, drawK) per pool. Match grids
-blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-match predictions are frozen in history/
-once a match starts (`pk`), so the Picks record is honest; picks for matches before the app existed are walk-forward (`pk.wf`).
+blend with bookmaker odds (weight chosen by backtest against closing odds). Pre-match chances are frozen in history/
+once a match starts (`pk`: pH/pD/pA, lh/la; walk-forward `pk.wf` for matches before the app existed). No score picks:
+FotMob and House-rules picks were dropped everywhere on 2026-11-19 (Kevin).
 
 ## Affinity (docs/affinity.md)
 web/affinity.js v4 (2026-11-07): logistic model fitted in the page to Kevin's "which would you rather support?" picks
@@ -96,7 +97,7 @@ clubs): Overview (at stake next match, chances per competition, next and last) �
 competitions) · Table (mini tables, finishing position) · About (strength, Affinity, players); the club sheet is the
 same body (clubBody; nationBody for national teams). Explore is its own tab (Ratings incl. national teams, Affinity,
 Players); Leagues chips list his clubs' competitions first, then a divider, and open on the first of
-them until he picks one; long tables offer jump links to his clubs; Picks pins his clubs' matches first each day. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
+them until he picks one; long tables offer jump links to his clubs. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
 Watch list (app.js watchList): the next days with matches in every competition (since 2026-10-22; league level scales quality),
 ranked by a watch score of 100 (weights 2026-10-20): your club playing 40, stakes 15 (not rounded), quality 25 (the weaker
 club's Elo rank within the league × league level, plus closeness), how far the result moves your clubs' chances 10 (absolute, full marks at
@@ -107,8 +108,6 @@ The match sheet shows the swings as "What's at stake".
 ## Working agreements (carried over from the old app)
 - Plain, short replies. Show what changed and the concrete effect (numbers, examples). No hype.
 - Never overwrite results Kevin entered. His entries win over ESPN in the app; disagreements are shown, not resolved.
-- FotMob Predict: a predicted score per match, 90 minutes only; 2 points for the result, +1 for the exact score. Never scrape FotMob (or Opta). After extra time the 90-minute score isn't known: a draw pick gets the result points, no exact bonus (app.js ptsFor).
-- House rules (Picks page, beside FotMob; v2 since 2026-10-20): home win 2, draw 5, away win 6, +3 exact (either win 4 at a neutral venue); engine.js HOUSE, frozen as `pk.hp` with its version `pk.hv` (older picks are worked out again from their frozen chances).
 - Terminology: "Affinity", "Matches" (not Games), "Race", "Scenarios".
 - Design: the MLS brand look since 2026-11-19 (Kevin; MLS Partner Brand Guidelines 2015, styles.css top and "MLS brand layer"):
   navy #001F5B header and tab bar, light blue #00A1DE, red #E2231A, Barlow / Barlow Condensed (web/fonts, OFL; stands in for

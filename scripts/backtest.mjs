@@ -5,7 +5,7 @@ import { loadPool, played, POOLS } from './lib/history.mjs';
 import { Elo, fitShotModel, fitStrength, rates } from './lib/ratings.mjs';
 import { LEAGUES } from './lib/leagues.mjs';
 import { attachOdds } from './lib/fdco.mjs';
-import { grid, outcomes, bestPick, pickPoints, marketGrid, blend } from '../web/engine.js';
+import { grid, outcomes, marketGrid, blend } from '../web/engine.js';
 
 const arg = (n, d) => { const i = process.argv.indexOf('--' + n); return i < 0 ? d : process.argv[i + 1]; };
 const pools = arg('pool') ? [arg('pool')] : Object.keys(POOLS);
@@ -34,7 +34,7 @@ export function walkForward(pool, data, P, { currentOnly = false, from = FROM, o
 
 // Scores predictions with rho, draw scaling and an optional market weight.
 export function score(preds, { rho = -0.08, drawK = 1, mktW = 0, onlyOdds = false } = {}) {
-  let ll = 0, rps = 0, pts = 0, n = 0;
+  let ll = 0, rps = 0, n = 0;
   for (const p of preds) {
     if (onlyOdds && !p.m.co) continue;
     let g = grid(p.lh, p.la, rho, drawK);
@@ -42,9 +42,9 @@ export function score(preds, { rho = -0.08, drawK = 1, mktW = 0, onlyOdds = fals
     const r = outcomes(g), o = Math.sign(p.m.hs - p.m.as);
     ll -= Math.log(o > 0 ? r.H : o === 0 ? r.D : r.A);
     const c1 = r.H - (o > 0 ? 1 : 0), c2 = r.H + r.D - (o >= 0 ? 1 : 0); rps += (c1 * c1 + c2 * c2) / 2;
-    pts += pickPoints(bestPick(g).pick, p.m.hs, p.m.as); n++;
+    n++;
   }
-  return { n, logloss: +(ll / n).toFixed(4), rps: +(rps / n).toFixed(4), pts: +(pts / n).toFixed(3) };
+  return { n, logloss: +(ll / n).toFixed(4), rps: +(rps / n).toFixed(4) };
 }
 
 // Market-only score on the same matches (closing odds), for reference.
