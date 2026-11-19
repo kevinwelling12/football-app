@@ -75,10 +75,12 @@ const ord = n => n + (['th', 'st', 'nd', 'rd'][(n % 100 - 20) % 10] || ['th', 's
 const toneVar = t => ({ gold: 'var(--gold)', good: 'var(--good)', ok: 'var(--ok)', warn: 'var(--warn)', bad: 'var(--bad)' }[t]);
 
 // ------------------------------------------------------------------ data
+// your clubs: the saved list (or the default clubs), plus the USMNT and USWNT unless you unstarred them
+// (settings.natOff). Kept apart from the saved list so a sync from another device can't drop them.
 const favIds = () => {
-  const s = store.get();
-  if (s.favs) return new Set(s.favs);
-  const want = FAVORITES.map(n => n.toLowerCase()), ids = new Set(natFavIds());
+  const s = store.get(), off = new Set(s.settings?.natOff || []), nat = natFavIds().filter(id => !off.has(id));
+  if (s.favs) return new Set([...s.favs, ...nat]);
+  const want = FAVORITES.map(n => n.toLowerCase()), ids = new Set(nat);
   for (const k of ORDER) for (const t of D[k]?.teams || []) if (want.includes(t.n.toLowerCase())) ids.add(t.id);
   return ids;
 };
@@ -88,12 +90,7 @@ function natFavIds() {
   for (const [sex, name] of FAV_NATIONS) for (const k of INTL) if (LEAGUES[k].intl === sex) { const t = D[k]?.teams.find(t => t.n === name); if (t) { ids.push(t.id); break; } }
   return ids;
 }
-// a saved list of clubs (you starred or unstarred one) gets the national teams once, when internationals arrive
-function addNatFavs() {
-  const s = store.get(), ids = natFavIds();
-  if (!s.favs || s.settings?.natFavs || ids.length < FAV_NATIONS.length) return;
-  store.set(x => { x.favs = [...new Set([...x.favs, ...ids])]; x.settings = { ...(x.settings || {}), natFavs: 1 }; });
-}
+
 const entriesFor = k => store.get().entries[k] || {};
 const matchesOf = k => prepare(D[k], entriesFor(k), LIVE[k] || {});
 
@@ -105,7 +102,6 @@ async function loadData() {
     const r = await fetch(`data/${k}.json`, { cache: 'no-cache' });
     if (r.ok) { const L = await r.json(); L.byId = new Map(L.matches.map(m => [m.id, m])); if (LEAGUES[k].intl) for (const t of L.teams) t.nat = LEAGUES[k].intl; D[k] = L; }
   }));
-  addNatFavs();
 }
 
 // grid for an upcoming or live match (blended with the market when there are odds)
@@ -469,7 +465,7 @@ function clubCard(k, i) {
   const lm = lastMatch(t.id);
   let lx = '';
   if (lm) { const { home, opp, gf, ga } = side(lm), r = gf > ga ? 'W' : gf < ga ? 'L' : 'D'; lx = `<span class="res ${r}">${r}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(lm)}`; }
-  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.s || t.n)}</b> ${rules.intl ? '' : `<span class="faint small">${LEAGUES[k].tag}</span> `}<span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
+  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.nat ? clubLabel(t, []) : t.s || t.n)}</b> ${rules.intl ? '' : `<span class="faint small">${LEAGUES[k].tag}</span> `}<span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
     ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
 }
 
@@ -1496,8 +1492,16 @@ document.addEventListener('click', e => {
     runSim(k); matchSheet(k, id); return;
   }
   if (t.dataset.star) {
-    const id = t.dataset.star, cur = favIds();
-    store.set(s => { s.favs = cur.has(id) ? [...cur].filter(x => x !== id) : [...cur, id]; });
+    const id = t.dataset.star, cur = favIds(), nat = natFavIds();
+    store.set(s => {
+      if (nat.includes(id)) { // a default national team: unstarring is remembered apart from the list
+        const off = new Set(s.settings?.natOff || []); cur.has(id) ? off.add(id) : off.delete(id);
+        s.settings = { ...(s.settings || {}), natOff: [...off] };
+        if (!s.favs) s.favs = [...cur].filter(x => !nat.includes(x));
+        return;
+      }
+      s.favs = (cur.has(id) ? [...cur].filter(x => x !== id) : [...cur, id]).filter(x => !nat.includes(x));
+    });
     render(); if (sheetCtx?.type === 'club') clubSheet(sheetCtx.k, sheetCtx.i); return;
   }
   if (t.dataset.act === 'quiz') { ui.qinfo = false; quizSheet(); return; }

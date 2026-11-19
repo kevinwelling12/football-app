@@ -15,7 +15,7 @@ straight to penalties before the final). Internationals since 2026-11-19 (league
 Nations League, UEFA Nations League, friendlies, Concacaf W Championship, Women's World Cup qualifying (UEFA), women's
 friendlies; no league pages: Leagues > Internationals (current round, group tables), Today, team pages (app.js
 nationBody). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns,
-and the USMNT and USWNT (leagues.js FAV_NATIONS, added once to a saved favourites list: settings.natFavs).
+and the USMNT and USWNT (leagues.js FAV_NATIONS: followed unless unstarred, settings.natOff; kept apart from the saved list so a sync can't drop them).
 Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide, dark scheme, no horizontal overflow.
 
 ## Layout
