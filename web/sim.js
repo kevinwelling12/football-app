@@ -165,14 +165,20 @@ function bracket(type, L, r, seeds, pts, matches) {
     mark('csf', qfs); mark('cf', semis); mark('final', finals);
     mark('champ', [single(finals[0], finals[1])]);
   } else if (type === 'mls') {
-    const finals = [], semis = [], r1 = [];
+    // 2026 format (mlssoccer.com, "Audi 2026 MLS Cup Playoffs format"): wild card 8 v 9 at the 8 seed, straight to
+    // penalties; Round One best of three (higher seed hosts games 1 and 3), penalties after every level game; then a
+    // fixed bracket (1/8/9 v 4/5, 2/7 v 3/6), single matches with extra time, then penalties. The higher seed hosts in
+    // the conference rounds; MLS Cup goes to the finalist with the better regular-season record.
+    const finals = [], semis = [], r1 = [], seedOf = new Map();
+    for (const s of seeds) s.forEach((t, n) => seedOf.set(t, n));
+    const bySeed = (x, y) => play(x, y, () => { const [h, a] = seedOf.get(x) <= seedOf.get(y) ? [x, y] : [y, x]; return koMatch(L, r, h, a); });
     for (const s of seeds) {
-      const wc = single(s[7], s[8]);
+      const wc = play(s[7], s[8], () => koMatch(L, r, s[7], s[8], false, L.base, false));
       const ro = [play(s[0], wc, () => bestOf3(L, r, s[0], wc)), play(s[3], s[4], () => bestOf3(L, r, s[3], s[4])),
         play(s[1], s[6], () => bestOf3(L, r, s[1], s[6])), play(s[2], s[5], () => bestOf3(L, r, s[2], s[5]))];
       r1.push(s[0], s[1], s[2], s[3], s[4], s[5], s[6], wc);
-      const sf = [single(ro[0], ro[1]), single(ro[2], ro[3])]; semis.push(...ro);
-      finals.push(single(sf[0], sf[1])); out.cf = (out.cf || []).concat(sf);
+      const sf = [bySeed(ro[0], ro[1]), bySeed(ro[2], ro[3])]; semis.push(...ro);
+      finals.push(bySeed(sf[0], sf[1])); out.cf = (out.cf || []).concat(sf);
     }
     mark('r1', r1); mark('csf', semis); mark('final', finals);
     mark('champ', [single(finals[0], finals[1])]);
