@@ -35,7 +35,8 @@ function patch(a, b) {
     if (!x) { a.appendChild(y); return; }
     if (x.nodeType !== y.nodeType || x.nodeName !== y.nodeName) { a.replaceChild(y, x); return; }
     if (x.nodeType !== 1) { if (x.nodeValue !== y.nodeValue) x.nodeValue = y.nodeValue; return; }
-    const fellBack = x.tagName === 'IMG' && x.dataset.f; // crest that switched to ESPN's copy: leave it alone
+    // a crest retrying or on ESPN's copy: leave it alone, as long as it's still the same club's crest
+    const fellBack = x.tagName === 'IMG' && (x.dataset.f || x.dataset.r) && x.dataset.own === y.getAttribute('data-own');
     if (!fellBack) {
       for (const at of [...x.attributes]) if (!y.hasAttribute(at.name)) x.removeAttribute(at.name);
       for (const at of [...y.attributes]) if (x.getAttribute(at.name) !== at.value) x.setAttribute(at.name, at.value);
@@ -51,8 +52,11 @@ const dark = () => matchMedia('(prefers-color-scheme: dark)').matches;
 function crest(t, cls = '') {
   if (!t) return `<span class="crest ${cls}"></span>`;
   // local copies (scripts/logos.py clears ESPN's white squares); ESPN's resizer if a new club isn't saved yet
-  const v = dark() ? '-d' : '', espn = `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/${dark() ? '500-dark' : '500'}/${t.id}.png&w=80&h=80`;
-  return `<img class="crest ${cls}" src="logos/${t.id}${v}.png" alt="" decoding="async" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${espn}'}else this.style.visibility='hidden'">`;
+  // a failed load (a long list asks for many at once) is tried once more, then ESPN's copy (national teams: the flag
+  // ESPN files under countries/), then hidden
+  const v = dark() ? '-d' : '', own = `logos/${t.id}${v}.png`;
+  const espn = t.nat && t.logo ? t.logo : `https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/${dark() ? '500-dark' : '500'}/${t.id}.png&w=80&h=80`;
+  return `<img class="crest ${cls}" src="${own}" data-own="${own}" alt="" loading="lazy" decoding="async" onerror="const d=this.dataset;if(!d.r){d.r=1;setTimeout(()=>{this.src='${own}?r=1'},1200)}else if(!d.f){d.f=1;this.src='${espn}'}else this.style.visibility='hidden'">`;
 }
 const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
 const fmtTime = t => new Date(t).toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' }).replace(':00', '').replace(' ', ' ');

@@ -73,7 +73,7 @@ def square(im):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    ids, nat = {}, set()
+    ids, nat, flag = {}, set(), {}
     # national teams' flags: never cleared (a flag's white is part of it)
     NAT = {'cnl.json', 'unl.json', 'ifr.json', 'wcc.json', 'wwcq.json', 'wfr.json'}
     for f in sorted(os.listdir(os.path.join(ROOT, 'web', 'data'))):
@@ -86,6 +86,8 @@ def main():
             ids[t['id']] = t['n']
             if f in NAT:
                 nat.add(t['id'])
+                if t.get('logo'):
+                    flag[t['id']] = t['logo']
     cleared, missing = [], []
     for tid, name in sorted(ids.items()):
         for variant, suffix in (('500-dark', '-d'), ('500', '')):
@@ -95,6 +97,8 @@ def main():
             im = fetch(f'https://a.espncdn.com/i/teamlogos/soccer/{variant}/{tid}.png')
             if im is None and variant == '500-dark':
                 im = fetch(f'https://a.espncdn.com/i/teamlogos/soccer/500/{tid}.png')
+            if im is None and tid in flag:  # a national team ESPN files only under countries/
+                im = fetch(flag[tid])
             if im is None:
                 missing.append(name)
                 continue
