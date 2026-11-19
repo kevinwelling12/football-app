@@ -91,9 +91,11 @@ score, last result, the chance in doubt; each opens the club page) · Watch (the
 more that have a reason) · Matches (one day at a time, Today/Tomorrow/next chips; your clubs' matches pinned first;
 quiet leagues folded).
 Navigation is built around his clubs, treated equally (always ordered by next kickoff, app.js myClubs): the Clubs tab
-is a club page (crest chips switch clubs; at stake next match, chances per competition, mini tables, one schedule
-across competitions, strength, Affinity, players; the same body as the club sheet, clubBody) with Explore (ratings,
-Affinity, Players) below; Leagues chips list his clubs' competitions first, then a divider, and open on the first of
+is a club page (crest chips switch clubs) in four tabs since 2026-11-19 (app.js CSUBS, ui.csub, kept while switching
+clubs): Overview (at stake next match, chances per competition, next and last) · Matches (one schedule across
+competitions) · Table (mini tables, finishing position) · About (strength, Affinity, players); the club sheet is the
+same body (clubBody; nationBody for national teams). Explore is its own tab (Ratings incl. national teams, Affinity,
+Players); Leagues chips list his clubs' competitions first, then a divider, and open on the first of
 them until he picks one; long tables offer jump links to his clubs; Picks pins his clubs' matches first each day. Match of the day is the Watch top pick; the Match of the week card stays on each league's Matches tab.
 Watch list (app.js watchList): the next days with matches in every competition (since 2026-10-22; league level scales quality),
 ranked by a watch score of 100 (weights 2026-10-20): your club playing 40, stakes 15 (not rounded), quality 25 (the weaker

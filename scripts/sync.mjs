@@ -152,6 +152,8 @@ async function publish() {
         const [lh, la] = rates(fit, { ...m, lg: bk }, elo.R, P);
         const out = { id: m.id, t: m.t, h: idx[m.h], a: idx[m.a], st: m.st };
         for (const f of ['hs', 'as', 'stage', 'leg', 'series', 'n', 'so', 'sh', 'sot', 'tv', 'clock']) if (m[f] != null) out[f] = m[f];
+        // MLS Round One is best of three (no extra time, every game decided on penalties); ESPN stopped flagging it in 2026
+        if (k === 'mls' && /round-one/.test(m.stage || '')) out.series = 1;
         if (!played(m) && m.st !== 'canc') {
           out.lh = +lh.toFixed(3); out.la = +la.toFixed(3);
           if (m.o) out.o = m.o;
