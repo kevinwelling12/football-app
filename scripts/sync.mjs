@@ -41,8 +41,8 @@ function mergeSeason(prev, next) {
 }
 
 async function fetchAll() {
-  for (const k of Object.keys(LEAGUES)) {
-    const season = currentSeason(k), f = fileOf(k, season), prev = read(f);
+  for (const k of Object.keys(LEAGUES)) for (const season of LEAGUES[k].intl && LEAGUES[k].track ? [currentSeason(k), currentSeason(k) + 1] : [currentSeason(k)]) {
+    const f = fileOf(k, season), prev = read(f);
     try {
       let days;
       if (!LEAGUES[k].track && prev) {
@@ -53,7 +53,7 @@ async function fetchAll() {
       const merged = mergeSeason(prev, next);
       fs.mkdirSync(`history/${k}`, { recursive: true });
       fs.writeFileSync(f, JSON.stringify(merged));
-      report.push(`${k}: ${merged.matches.filter(played).length}/${merged.matches.length} played`);
+      report.push(`${k}${LEAGUES[k].intl ? ' ' + season : ''}: ${merged.matches.filter(played).length}/${merged.matches.length} played`);
     } catch (e) { report.push(`${k}: ERROR ${e.message}`); }
   }
 }
@@ -74,8 +74,8 @@ function mergeFixtures(S, fx) {
 }
 
 // Conference membership (and ESPN's own order, for checking our tiebreakers).
-async function groupsFor(k) {
-  const d = await getJSON(`https://site.api.espn.com/apis/v2/sports/soccer/${LEAGUES[k].espn}/standings?season=${currentSeason(k)}`);
+async function groupsFor(k, season = currentSeason(k)) {
+  const d = await getJSON(`https://site.api.espn.com/apis/v2/sports/soccer/${LEAGUES[k].espn}/standings?season=${season}`);
   const g = {}, rank = {};
   for (const c of d?.children || []) for (const e of c.standings.entries) {
     g[e.team.id] = c.name.replace(/ Conference$/, '');
@@ -96,23 +96,36 @@ async function publish() {
     for (const m of data.matches) if (m.d < now) elo.add(m);
     const sm = fitShotModel(data.matches), fit = fitStrength(data.matches, now, P, elo.R, sm);
     for (const k of POOLS[pl].filter(x => LEAGUES[x].track)) {
-      const season = currentSeason(k), file = fileOf(k, season), S = read(file);
+      const season = currentSeason(k), file = fileOf(k, season), intl = LEAGUES[k].intl;
+      // internationals: last year's, this year's and next year's files together (an edition spans two years)
+      const parts = intl ? [season - 1, season, season + 1].map(y => [fileOf(k, y), read(fileOf(k, y))]).filter(x => x[1]) : null;
+      const S = intl ? (parts.length ? { teams: Object.assign({}, ...parts.map(x => x[1].teams)), matches: parts.flatMap(x => x[1].matches) } : null) : read(file);
       if (!S) continue;
+      // the edition shown: the one of the latest match up to six weeks ahead (friendlies: four months back to six ahead)
+      let ed = null;
+      if (intl) {
+        S.matches.sort((x, y) => x.t.localeCompare(y.t) || x.id.localeCompare(y.id));
+        const soon = new Date(today.getTime() + 42 * 864e5).toISOString();
+        ed = (S.matches.filter(m => m.t <= soon).at(-1) || S.matches[0])?.ed ?? null;
+      }
       mergeFixtures(S, read(`data/fixtures/${k}.json`));
       // if ESPN's standings fail (it sometimes refuses GitHub's runners), keep the conferences already published
       const was = Object.fromEntries((read(`web/data/${k}.json`)?.teams || []).map(t => [t.id, t]));
-      const ko = LEAGUES[k].ko; // domestic cup: no table, every club drawn counts
-      const { g, rank } = ko ? { g: {}, rank: {} } : await groupsFor(k).catch(e => { report.push(`${k}: standings ${e.message}, kept last conferences`); return { g: {}, rank: {} }; });
+      const ko = LEAGUES[k].ko || (LEAGUES[k].intl && LEAGUES[k].kw < 1); // domestic cup or friendlies: no table
+      const { g, rank } = ko ? { g: {}, rank: {} } : await groupsFor(k, intl && ed ? ed : undefined).catch(e => { report.push(`${k}: standings ${e.message}, kept last conferences`); return { g: {}, rank: {} }; });
       for (const id in was) { if (!g[id] && was[id].g) g[id] = was[id].g; if (rank[id] == null && was[id].espnRank != null) rank[id] = was[id].espnRank; }
       // Liga MX: only the current tournament (Apertura or Clausura) is published, so the table is that tournament's
       const tour = LEAGUES[k].split ? currentTournament(S.matches) : null;
-      const SM = tour ? S.matches.filter(m => m.tn === tour) : S.matches;
+      const back = new Date(today.getTime() - 120 * 864e5).toISOString(), ahead = new Date(today.getTime() + 183 * 864e5).toISOString();
+      const SM = tour ? S.matches.filter(m => m.tn === tour)
+        : intl ? S.matches.filter(m => (LEAGUES[k].kw && LEAGUES[k].kw < 1 ? m.t >= back && m.t <= ahead : m.ed === ed))
+        : S.matches;
       // clubs: those with at least 4 matches this season in this competition (any, in a cup)
       const games = {}; for (const m of SM) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
       // ESPN's placeholders for clubs not yet known ("TBD Away" for a wild-card winner) are not clubs: their fixtures
       // wait until ESPN names the club, and the bracket fills the slot from the simulation meanwhile
       const placeholder = t => /^(TBD|TBA|Winner|Loser)\b/i.test(t?.n || '');
-      const ids = Object.keys(S.teams).filter(id => games[id] >= (ko ? 1 : 4) && !placeholder(S.teams[id]));
+      const ids = Object.keys(S.teams).filter(id => games[id] >= (ko || intl ? 1 : 4) && !placeholder(S.teams[id]));
       const idx = Object.fromEntries(ids.map((id, i) => [id, i]));
       const noTraits = [];
       const teams = ids.map(id => {
@@ -122,7 +135,7 @@ async function publish() {
         else noTraits.push(`${t.n} (${id})`);
         return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
       });
-      if (noTraits.length && !ko) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
+      if (noTraits.length && !ko && !intl) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;
       const bk = LEAGUES[k].base || k, base = (fit.base[bk] || [1.5, 1.2]).map(x => +x.toFixed(4));
       const Pm = { rho, drawK, mktW };
@@ -155,8 +168,10 @@ async function publish() {
         if (m.pk) out.pk = m.pk;
         matches.push(out);
       }
-      fs.writeFileSync(file, JSON.stringify(S)); // keeps the frozen predictions
-      const L = { key: k, season, ...(tour ? { tour: tourName(tour) } : {}), updated: index.updated, teams, base, ucl: fit.base.ucl, P: Pm, model: { ...P, shots: sm, test: params[pl]?.byLeague?.[k] }, matches };
+      // keeps the frozen predictions (internationals: each year's file; its match objects were updated in place)
+      if (intl) for (const [f, part] of parts) fs.writeFileSync(f, JSON.stringify(part));
+      else fs.writeFileSync(file, JSON.stringify(S));
+      const L = { key: k, season: intl ? ed ?? season : season, ...(tour ? { tour: tourName(tour) } : {}), updated: index.updated, teams, base, ucl: fit.base.ucl, P: Pm, model: { ...P, shots: sm, test: params[pl]?.byLeague?.[k] }, matches };
       fs.writeFileSync(`web/data/${k}.json`, JSON.stringify(L));
       index.leagues[k] = { teams: teams.length, matches: matches.length, played: matches.filter(m => m.hs != null && m.st !== 'live').length };
       report.push(`${k}: published ${teams.length} clubs, ${matches.length} matches, market weight ${mktW}`);

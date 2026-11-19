@@ -177,10 +177,25 @@ Object.assign(LEAGUES, {
   usoc: cup('U.S. Open Cup', 'Open Cup', 'mls', '#E76F51'),
 });
 export const CUPS = ['flc', 'fac', 'dfb', 'usoc'];
+// International competitions (since 2026-11-19): national teams, no league pages; shown on Today (his teams' matches
+// and finals; the rest fold into "more"), on team pages and on Leagues > Internationals. intl: 'm' men, 'w' women.
+// groups: a group phase with tables (ESPN's groups); friendly: no rounds, no tables. et: extra time in knockout ties.
+const intl = (name, tag, color, sex, o = {}) => ({ name, short: name, tag, region: 'International', ko: true, intl: sex, color, et: true, zones: [], tiebreak: ['pts', 'gd', 'gf'], ...o });
+Object.assign(LEAGUES, {
+  cnl: intl('Concacaf Nations League', 'CNL', '#D62839', 'm', { groups: true }),
+  unl: intl('UEFA Nations League', 'UNL', '#4361EE', 'm', { groups: true, tiebreak: ['pts', 'h2h', 'gd', 'gf'], h2hComplete: true }),
+  ifr: intl('Friendlies', 'Friendly', '#8D99AE', 'm', { friendly: true }),
+  wcc: intl('Concacaf W Championship', 'W Champ', '#C77DFF', 'w'),
+  wwcq: intl("Women's World Cup qualifying, UEFA", 'WWCQ', '#4CC9F0', 'w', { groups: true, tiebreak: ['pts', 'h2h', 'gd', 'gf'], h2hComplete: true }),
+  wfr: intl("Women's friendlies", 'W Friendly', '#ADB5BD', 'w', { friendly: true }),
+});
+export const INTL = ['wcc', 'cnl', 'wwcq', 'unl', 'wfr', 'ifr'];
 export const ORDER = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl', 'esp', 'ita', 'fra', 'eng2', 'mex', 'uel', 'uecl'];
 // every competition with a data file: leagues, each followed by its domestic cups
-export const ALL = ORDER.flatMap(k => [k, ...CUPS.filter(c => LEAGUES[c].base === k)]);
+export const ALL = [...ORDER.flatMap(k => [k, ...CUPS.filter(c => LEAGUES[c].base === k)]), ...INTL];
 // Kevin's own competitions (the rest are shown more quietly on Today)
 export const MAIN = ['epl', 'bl', 'ucl', 'mls', 'nwsl', 'usl'];
 export const FAVORITES = ['Liverpool', 'Borussia Dortmund', 'Sacramento Republic FC', 'Portland Timbers', 'Portland Thorns FC'];
+// national teams followed by default (USMNT, USWNT), found by name in the international data: [competition sex, name]
+export const FAV_NATIONS = [['m', 'United States'], ['w', 'United States']];
 export const zoneScope = z => z.scope || 'all';

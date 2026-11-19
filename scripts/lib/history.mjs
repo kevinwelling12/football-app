@@ -7,6 +7,8 @@ import { LEAGUES, isCup } from './leagues.mjs';
 export const POOLS = {
   eur: Object.keys(LEAGUES).filter(k => LEAGUES[k].euro),
   mls: ['mls', 'mex', 'lcup', 'ccc', 'usoc'], nwsl: ['nwsl'], usl: ['usl'],
+  // national teams: men and women, every competition one pool each (linked by World Cups and friendlies)
+  intl: Object.keys(LEAGUES).filter(k => LEAGUES[k].intl === 'm'), wintl: Object.keys(LEAGUES).filter(k => LEAGUES[k].intl === 'w'),
 };
 export const poolOf = k => Object.keys(POOLS).find(p => POOLS[p].includes(k));
 
@@ -25,7 +27,7 @@ export function loadPool(pool, { through } = {}) {
       const games = {};
       for (const m of s.matches) { games[m.h] = (games[m.h] || 0) + 1; games[m.a] = (games[m.a] || 0) + 1; }
       for (const m of s.matches) {
-        if (!isCup(lg) && (games[m.h] < 4 || games[m.a] < 4)) continue;
+        if (!isCup(lg) && !LEAGUES[lg].intl && (games[m.h] < 4 || games[m.a] < 4)) continue;
         if (through && m.t > through) continue;
         out.push({ ...m, lg, season: s.season, d: dayNum(m.t) });
       }

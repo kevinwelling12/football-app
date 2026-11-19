@@ -1,5 +1,5 @@
 // Football: page shell, data, live scores, views. Views are plain template strings rendered into #view.
-import { LEAGUES, ORDER, MAIN, FAVORITES, CUPS, ALL } from './leagues.js';
+import { LEAGUES, ORDER, MAIN, FAVORITES, FAV_NATIONS, CUPS, INTL, ALL } from './leagues.js';
 import { prepare, standings, isPlayed, regular, simulate } from './sim.js';
 import { matchGrid, bestPick, outcomes, liveGrid, marketProbs, grid as dcGrid, pickPoints, pkGrid, advance, FOTMOB, HOUSE, HOUSE_NEUTRAL, W } from './engine.js';
 import { statuses, scenarios as scenFor, describe } from './clinch.js';
@@ -78,10 +78,22 @@ const toneVar = t => ({ gold: 'var(--gold)', good: 'var(--good)', ok: 'var(--ok)
 const favIds = () => {
   const s = store.get();
   if (s.favs) return new Set(s.favs);
-  const want = FAVORITES.map(n => n.toLowerCase()), ids = new Set();
+  const want = FAVORITES.map(n => n.toLowerCase()), ids = new Set(natFavIds());
   for (const k of ORDER) for (const t of D[k]?.teams || []) if (want.includes(t.n.toLowerCase())) ids.add(t.id);
   return ids;
 };
+// USMNT and USWNT (leagues.js FAV_NATIONS), found by name in the international data
+function natFavIds() {
+  const ids = [];
+  for (const [sex, name] of FAV_NATIONS) for (const k of INTL) if (LEAGUES[k].intl === sex) { const t = D[k]?.teams.find(t => t.n === name); if (t) { ids.push(t.id); break; } }
+  return ids;
+}
+// a saved list of clubs (you starred or unstarred one) gets the national teams once, when internationals arrive
+function addNatFavs() {
+  const s = store.get(), ids = natFavIds();
+  if (!s.favs || s.settings?.natFavs || ids.length < FAV_NATIONS.length) return;
+  store.set(x => { x.favs = [...new Set([...x.favs, ...ids])]; x.settings = { ...(x.settings || {}), natFavs: 1 }; });
+}
 const entriesFor = k => store.get().entries[k] || {};
 const matchesOf = k => prepare(D[k], entriesFor(k), LIVE[k] || {});
 
@@ -91,8 +103,9 @@ async function loadData() {
   fetch('data/players.json', { cache: 'no-cache' }).then(r => r.json()).then(t => { PLAYERS = t; PAFF = null; render(); }).catch(() => {});
   await Promise.all(ALL.map(async k => {
     const r = await fetch(`data/${k}.json`, { cache: 'no-cache' });
-    if (r.ok) { const L = await r.json(); L.byId = new Map(L.matches.map(m => [m.id, m])); D[k] = L; }
+    if (r.ok) { const L = await r.json(); L.byId = new Map(L.matches.map(m => [m.id, m])); if (LEAGUES[k].intl) for (const t of L.teams) t.nat = LEAGUES[k].intl; D[k] = L; }
   }));
+  addNatFavs();
 }
 
 // grid for an upcoming or live match (blended with the market when there are odds)
@@ -151,7 +164,8 @@ function runSim(k) {
 
 // ------------------------------------------------------------------ live scores from ESPN
 const ESPN = { epl: 'eng.1', bl: 'ger.1', ucl: 'uefa.champions', mls: 'usa.1', nwsl: 'usa.nwsl', usl: 'usa.usl.1', esp: 'esp.1', ita: 'ita.1', fra: 'fra.1', eng2: 'eng.2', mex: 'mex.1', uel: 'uefa.europa', uecl: 'uefa.europa.conf',
-  flc: 'eng.league_cup', fac: 'eng.fa', dfb: 'ger.dfb_pokal', usoc: 'usa.open' };
+  flc: 'eng.league_cup', fac: 'eng.fa', dfb: 'ger.dfb_pokal', usoc: 'usa.open',
+  cnl: 'concacaf.nations.league', unl: 'uefa.nations', ifr: 'fifa.friendly', wcc: 'concacaf.womens.championship', wwcq: 'fifa.wworldq.uefa', wfr: 'fifa.friendly.w' };
 async function pollLive() {
   const now = Date.now();
   for (const k of ALL) {
@@ -261,7 +275,7 @@ function pWhyLine(id) {
 // a club in a player's career, with its crest when it's one of ours
 // the club a player is most associated with: most seasons among clubs we have
 function mainClub(p) { let best = null, bs = 0; for (const c of p.clubs) { if (!c[1]) continue; const ct = clubTeam(c[1]), n = (c[3] ?? 2026) - (c[2] ?? 2026); if (ct && n >= bs) { bs = n; best = ct; } } return best; }
-function clubTeam(espnId) { for (const k of HOME_ORDER) { const i = D[k]?.teams.findIndex(t => t.id === espnId); if (i >= 0) return [k, i, D[k].teams[i]]; } return null; }
+function clubTeam(espnId) { for (const k of [...HOME_ORDER, ...INTL]) { const i = D[k]?.teams.findIndex(t => t.id === espnId); if (i >= 0) return [k, i, D[k].teams[i]]; } return null; }
 
 // "Pull for" on a neutral match: the club with clearly more Affinity, and why
 function pullFor(k, m) {
@@ -307,10 +321,11 @@ const lgLabel = k => `<div class="lg-label"><span class="dot" style="background:
 // league's level, and closeness), how far the result moves your clubs' chances 10 (your clubs' own matches too), Affinity 10: 5 for the two
 // clubs' total (two you like) and 5 for the difference (one you like against one you don't).
 // every competition in the app (Kevin, 2026-10-22: the top matches whatever the league); the league's level scales quality
-const WATCH = [...ORDER, ...CUPS];
+const WATCH = [...ORDER, ...CUPS, ...INTL];
 // Kevin's order (2026-10-22): UCL and EPL top, MLS and Bundesliga just behind, then NWSL and USL; the rest my call;
 // Ligue 1 low (no good way to watch it)
-const LEVEL = { ucl: 1, epl: 1, mls: 0.9, bl: 0.9, nwsl: 0.8, usl: 0.75, fac: 0.7, esp: 0.7, flc: 0.65, dfb: 0.65, uel: 0.65, usoc: 0.6, ita: 0.6, eng2: 0.5, uecl: 0.5, mex: 0.45, fra: 0.3 };
+const LEVEL = { ucl: 1, epl: 1, mls: 0.9, bl: 0.9, nwsl: 0.8, usl: 0.75, fac: 0.7, esp: 0.7, flc: 0.65, dfb: 0.65, uel: 0.65, usoc: 0.6, ita: 0.6, eng2: 0.5, uecl: 0.5, mex: 0.45, fra: 0.3,
+  wcc: 0.75, cnl: 0.7, unl: 0.7, wwcq: 0.55, ifr: 0.5, wfr: 0.5 };
 function watchList() {
   const now = Date.now(), fav = favIds(), byDay = new Map();
   for (const k of WATCH) if (D[k]) for (const m of matchesOf(k)) {
@@ -366,7 +381,7 @@ function viewToday() {
   if (live.length) out.push(`<div class="section"><h2><span class="live-dot"></span>Live</h2></div><div class="card row-gap">${live.map(([k, m]) => matchRow(k, m, { showLeague: true })).join('')}</div>`);
   // your clubs, soonest next match first (live counts as now); each card opens the club page
   const mine = myClubs();
-  if (mine.length) out.push(`<div class="section"><h2>Your clubs</h2></div><div class="card row-gap compact-clubs">${mine.map(c => clubCard(c.k, c.i)).join('')}</div>`);
+  if (mine.length) out.push(`<div class="section"><h2>${mine.some(c => LEAGUES[c.k].intl) ? 'Your teams' : 'Your clubs'}</h2></div><div class="card row-gap compact-clubs">${mine.map(c => clubCard(c.k, c.i)).join('')}</div>`);
   out.push(watchGuide());
   // matches: today and the next two match days, one at a time
   const byDay = new Map();
@@ -439,10 +454,10 @@ function nextMatch(id) {
 }
 function clubCard(k, i) {
   const L = D[k], t = L.teams[i], ms = matchesOf(k), rules = LEAGUES[k];
-  const st = standings(L, ms, rules).rows[i];
+  const st = rules.intl ? null : standings(L, ms, rules).rows[i];
   const nm = nextMatch(t.id);
   const hl = headline(k, i);
-  const where = `${ord(st.pos)} · ${st.pts} pts`; // one line on a phone (in a conference: the place in it; the club page names it)
+  const where = st ? `${ord(st.pos)} · ${st.pts} pts` : `${LEAGUES[k].intl === 'w' ? "Women's" : "Men's"} team`; // one line on a phone (in a conference: the place in it; the club page names it)
   const tagOf = x => (x.k !== k ? ` <span class="faint">${LEAGUES[x.k].tag}</span>` : '');
   const side = x => { const { m, i: j } = x, home = m.h === j; return { home, opp: D[x.k].teams[home ? m.a : m.h], gf: home ? m.hs : m.as, ga: home ? m.as : m.hs }; };
   let nx = '';
@@ -454,13 +469,14 @@ function clubCard(k, i) {
   const lm = lastMatch(t.id);
   let lx = '';
   if (lm) { const { home, opp, gf, ga } = side(lm), r = gf > ga ? 'W' : gf < ga ? 'L' : 'D'; lx = `<span class="res ${r}">${r}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(lm)}`; }
-  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.s || t.n)}</b> <span class="faint small">${LEAGUES[k].tag}</span> <span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
+  return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.s || t.n)}</b> ${rules.intl ? '' : `<span class="faint small">${LEAGUES[k].tag}</span> `}<span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
     ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
 }
 
 // ------------------------------------------------------------------ League views
 function viewLeague() {
   if (route.lg === 'cups') return viewCups();
+  if (route.lg === 'intl') return viewIntl();
   const k = route.lg, L = D[k]; if (!L) return '<div class="spinner">Loading…</div>';
   runSim(k);
   if (route.sub === 'matches') return viewMatches(k);
@@ -485,6 +501,60 @@ function viewCups() {
     const won = !next && stage === 'final' && last ? (() => { const w = last.so ? (last.so[0] > last.so[1] ? last.h : last.a) : last.hs > last.as ? last.h : last.a; return `won by ${esc(L.teams[w].s)}`; })() : '';
     return `${head}<span class="aside">${esc(stageName(stage))}${won ? ' · ' + won : ''}</span></div><div class="card row-gap">${round.map(m => matchRow(c, m, { withDay: true })).join('') || '<div class="empty small">None</div>'}</div>`;
   }).join('') + `<p class="note">Your clubs' ties also show on Today and on their club cards; other ties fold into "more". Chances are for 90 minutes; a tie's chance to go through is on its match sheet.</p>`;
+}
+
+// Internationals page: each competition's current round (friendlies: the next ones worth a look), your teams first,
+// and the group tables where there is a group phase
+function groupTables(k) {
+  const L = D[k], rules = LEAGUES[k], st = standings(L, matchesOf(k), rules), fav = favIds();
+  const gs = st.groups.filter(g => g.name && g.idx.some(i => st.rows[i].p));
+  gs.sort((a, b) => b.idx.some(i => fav.has(L.teams[i].id)) - a.idx.some(i => fav.has(L.teams[i].id)) || a.name.localeCompare(b.name));
+  return gs.map(g => `<div class="block"><h4>${esc(g.name)}</h4><table><tr><th>#</th><th class="club">Team</th><th>P</th><th>GD</th><th>Pts</th></tr>${g.idx.map(i => st.rows[i]).sort((a, b) => a.pos - b.pos).map(r => {
+    const t = L.teams[r.i];
+    return `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${r.i}"><td class="pos">${r.pos}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td>${r.p}</td><td>${r.gd > 0 ? '+' : ''}${r.gd}</td><td class="pts">${r.pts}</td></tr>`;
+  }).join('')}</table></div>`).join('');
+}
+function viewIntl() {
+  const fav = favIds(), now = Date.now();
+  const mineIn = k => (D[k]?.teams || []).some(t => fav.has(t.id));
+  const order = [...INTL].sort((a, b) => mineIn(b) - mineIn(a));
+  return order.map(k => {
+    const L = D[k], rules = LEAGUES[k], head = `<div class="section"><h2>${esc(rules.name)}</h2>`;
+    if (!L) return `${head}</div><div class="card"><div class="empty small">No matches published yet.</div></div>`;
+    const ms = matchesOf(k), mine = m => fav.has(L.teams[m.h].id) || fav.has(L.teams[m.a].id);
+    if (rules.friendly) { // the next ten: your teams first, then the strongest pairings
+      const up = ms.filter(m => !isPlayed(m) && m.st !== 'canc' && Date.parse(m.t) > now - 3 * 36e5);
+      const str = m => Math.min(L.teams[m.h].elo, L.teams[m.a].elo);
+      const pick = [...up.filter(mine), ...up.filter(m => !mine(m)).sort((a, b) => str(b) - str(a))].slice(0, 10).sort((a, b) => a.t.localeCompare(b.t));
+      const last = ms.filter(m => isPlayed(m) && mine(m)).slice(-3).reverse();
+      return `${head}<span class="aside">${up.length} coming up</span></div><div class="card row-gap">${pick.map(m => matchRow(k, m, { withDay: true })).join('') || '<div class="empty small">None scheduled</div>'}</div>`
+        + (last.length ? `<div class="card row-gap" style="margin-top:8px">${last.map(m => matchRow(k, m, { withDay: true })).join('')}</div>` : '');
+    }
+    const next = ms.find(m => !isPlayed(m) && m.st !== 'canc'), last = ms.filter(isPlayed).at(-1);
+    // a group phase that's over with nothing scheduled yet: just the tables
+    const stage = (next || last)?.stage, round = !stage && !next ? [] : ms.filter(m => m.stage === stage && (stage || !isPlayed(m) || Date.parse(m.t) > now - 10 * 864e5));
+    round.sort((a, b) => mine(b) - mine(a) || a.t.localeCompare(b.t));
+    const label = stage ? stageName(stage.replace(/^.*---/, '')) : next ? 'Group phase' : 'Groups finished';
+    const tables = rules.groups ? groupTables(k) : '';
+    if (!round.length && tables) return `${head}<span class="aside">${esc(label)}</span></div><div class="card">${tables}</div>`;
+    return `${head}<span class="aside">${esc(label)}</span></div><div class="card row-gap">${round.slice(0, 16).map(m => matchRow(k, m, { withDay: true })).join('') || '<div class="empty small">None</div>'}</div>`
+      + (tables ? `<details class="card groups"${!stage && next ? ' open' : ''}><summary>Group tables</summary>${tables}</details>` : '');
+  }).join('') + `<p class="note">Your teams' matches also show on Today and on their team pages; other matches fold into "more". Chances are for 90 minutes; a knockout tie's chance to go through is on its match sheet. National-team ratings come from every international since 2016 (World Cups, qualifiers, continental cups, Nations Leagues, friendlies), men and women on separate scales.</p>`;
+}
+// A national team: rating, its competitions' groups, its schedule across them
+function nationBody(k, i) {
+  const t = D[k].teams[i], fav = favIds(), b = D[k].base, avg = (b[0] + b[1]) / 2;
+  let html = `<div class="vs" style="grid-template-columns:auto 1fr auto;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">${t.nat === 'w' ? "Women's" : "Men's"} national team · Elo ${t.elo}</div></div><button class="star ${fav.has(t.id) ? 'on' : ''}" data-star="${t.id}" aria-label="Follow">${fav.has(t.id) ? '★' : '☆'}</button></div>`;
+  html += `<div class="block"><h4>Strength</h4><div class="kv"><div>Elo</div><div>${t.elo}</div><div></div><div></div>
+    <div>Attack</div><div>${(avg * t.A).toFixed(2)}</div><div></div><div class="muted small">goals / match</div>
+    <div>Defence</div><div>${(avg * t.D).toFixed(2)}</div><div></div><div class="muted small">conceded</div></div></div>`;
+  html += scheduleOf(t.id, null);
+  for (const c of INTL) {
+    if (!LEAGUES[c].groups || !D[c]) continue;
+    const j = D[c].teams.findIndex(x => x.id === t.id); if (j < 0 || !D[c].teams[j].g) continue;
+    html += miniTable(c, j);
+  }
+  return html;
 }
 
 // ------------------------------------------------------------------ Bracket (USL, NWSL, MLS play-offs; UEFA knockouts)
@@ -914,7 +984,7 @@ const exactHit = (pick, k, m) => { const s = at90(k, m); return pick != null && 
 const ptsCls = (pick, pts, k, m) => exactHit(pick, k, m) ? 'exact' : pts ? 'hit' : 'miss';
 // Knockout tie (domestic cup, or a single-match play-off round: USL, NWSL, MLS past round one): chance the home side
 // goes through. A second leg counts the first; none for a first leg or a best-of-three game.
-const knockout = (k, m) => LEAGUES[k].ko || (!!m.stage && !m.series && (m.leg === 2 || ['usl', 'nwsl', 'mls'].includes(k)));
+const knockout = (k, m) => (LEAGUES[k].intl ? !LEAGUES[k].friendly && !!m.stage : LEAGUES[k].ko) || (!LEAGUES[k].intl && !!m.stage && !m.series && (m.leg === 2 || ['usl', 'nwsl', 'mls'].includes(k)));
 function throughOf(k, m) {
   if (!knockout(k, m) || isPlayed(m) || !m.lh || m.leg === 1) return null;
   let carry = [0, 0];
@@ -1176,9 +1246,10 @@ function myClubs() {
   const at = c => (c.nm ? kickAt(c.nm.m) : Infinity);
   return out.sort((a, b) => at(a) - at(b) || a.t.n.localeCompare(b.t.n));
 }
-const slugOf = t => t.n.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const slugOf = t => (t.nat === 'w' ? 'women-' : '') + t.n.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 // short name, made unique among your clubs (two Portlands: Timbers, Thorns)
 function clubLabel(t, mine) {
+  if (t.nat) return t.n === 'United States' ? (t.nat === 'w' ? 'USWNT' : 'USMNT') : mine.some(c => c.t !== t && c.t.n === t.n) ? `${t.s} ${t.nat === 'w' ? 'W' : 'M'}` : t.s;
   if (mine.filter(c => c.t.s === t.s).length < 2) return t.s;
   return t.n.replace(/\s+FC$/, '').split(' ').slice(1).join(' ') || t.s;
 }
@@ -1215,6 +1286,7 @@ function clubSheet(k, i, keep = false) {
 }
 // Everything about a club: the sheet and the club page (Clubs tab) share it. k = its league (home).
 function clubBody(k, i, page = false) {
+  if (LEAGUES[k].intl) return nationBody(k, i);
   if (LEAGUES[k].ko) { // a club from below the leagues shown: its cup ties only
     const t = D[k].teams[i];
     return `<div class="vs" style="grid-template-columns:auto 1fr;text-align:left;padding:14px 18px">${crest(t, 'lg')}<div><div style="font-size:19px;font-weight:700">${esc(t.n)}</div><div class="small muted">Elo ${t.elo} · from a league not shown here</div></div></div>
@@ -1325,18 +1397,18 @@ function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'picks', 'clubs'].includes(p[0]) ? p[0] : 'today';
   if (tab === 'clubs') route.club = p[1] || null;
-  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups' || p[1] === 'intl') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
   // the Leagues tab opens where you left it; the first time, on the first competition with a club of yours
-  if ((!LEAGUES[route.lg] && route.lg !== 'cups') || route.lgAuto) {
+  if ((!LEAGUES[route.lg] && route.lg !== 'cups' && route.lg !== 'intl') || route.lgAuto) {
     const fav = favIds(); route.lg = ORDER.find(k => (D[k]?.teams || []).some(t => fav.has(t.id))) || 'epl';
     route.lgAuto = !Object.keys(D).length; // decided again once the data is in
   }
   const titles = { today: 'Today', picks: 'Picks', clubs: 'Clubs' };
-  const cupsPage = route.tab === 'league' && route.lg === 'cups';
-  $('#title').textContent = cupsPage ? 'Cups' : route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
+  const cupsPage = route.tab === 'league' && (route.lg === 'cups' || route.lg === 'intl');
+  $('#title').textContent = cupsPage ? (route.lg === 'intl' ? 'Internationals' : 'Cups') : route.tab === 'league' ? LEAGUES[route.lg].name : titles[route.tab];
   document.documentElement.style.setProperty('--accent', route.tab === 'league' && !cupsPage ? LEAGUES[route.lg].color : 'var(--fg)');
   document.querySelectorAll('#tabbar a').forEach(a => a.classList.toggle('on', a.dataset.tab === route.tab));
   $('#tabbar a[data-tab=league]').href = `#/league/${route.lg}/${route.sub}`;
@@ -1345,9 +1417,9 @@ function chrome() {
   if (route.tab === 'league') {
     // your clubs' competitions first (cups too, when one of them is in one), then the rest
     const fav = favIds(), has = k => (D[k]?.teams || []).some(t => fav.has(t.id));
-    const chip = k => k === 'cups' ? `<a class="chip ${cupsPage ? 'on' : ''}" href="#/league/cups">Cups</a>`
+    const chip = k => k === 'cups' || k === 'intl' ? `<a class="chip ${route.lg === k ? 'on' : ''}" href="#/league/${k}">${k === 'cups' ? 'Cups' : 'Internationals'}</a>`
       : `<a class="chip ${k === route.lg ? 'on' : ''}" href="#/league/${k}/${route.sub}"><span class="dot" style="background:${LEAGUES[k].color}"></span>${LEAGUES[k].tag}</a>`;
-    const all = [...ORDER, 'cups'], mineC = all.filter(k => (k === 'cups' ? CUPS.some(has) : has(k))), rest = all.filter(k => !mineC.includes(k));
+    const all = [...ORDER, 'cups', 'intl'], mineC = all.filter(k => (k === 'cups' ? CUPS.some(has) : k === 'intl' ? INTL.some(has) : has(k))), rest = all.filter(k => !mineC.includes(k));
     morph(chips, mineC.map(chip).join('') + (mineC.length && rest.length ? '<span class="chip-sep"></span>' : '') + rest.map(chip).join(''));
     // keep the selected league's chip in view (the row scrolls sideways on a phone)
     const on = chips.querySelector('.chip.on');

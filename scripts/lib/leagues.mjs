@@ -32,10 +32,35 @@ export const LEAGUES = {
   // rating-only, Americas: the matches that put MLS and Liga MX clubs on one scale
   lcup: { espn: 'concacaf.leagues.cup', cup: true, probes: ['0801', '0725', '0901'] },
   ccc:  { espn: 'concacaf.champions', cup: true, probes: ['0315', '0901', '1015', '0215'] },
+  // National teams (since 2026-11-19): intl = men, wintl = women. Fetched a calendar year per request; the season is
+  // the calendar year (history/<k>/<year>.json) and each match keeps ESPN's edition (m.ed: 2026 = the 2026-27 Nations
+  // League). track = shown in the app; the rest only feed the national-team ratings. kw scales the Elo step (friendlies
+  // count less, tournaments more).
+  cnl:  { espn: 'concacaf.nations.league', intl: 'm', track: true, name: 'Concacaf Nations League' },
+  unl:  { espn: 'uefa.nations', intl: 'm', track: true, name: 'UEFA Nations League' },
+  ifr:  { espn: 'fifa.friendly', intl: 'm', track: true, kw: 0.6, name: 'Friendlies' },
+  wc:   { espn: 'fifa.world', intl: 'm', kw: 1.5 }, wcp: { espn: 'fifa.wcq.ply', intl: 'm' },
+  wqe:  { espn: 'fifa.worldq.uefa', intl: 'm' }, wqn: { espn: 'fifa.worldq.concacaf', intl: 'm' },
+  wqs:  { espn: 'fifa.worldq.conmebol', intl: 'm' }, wqa: { espn: 'fifa.worldq.afc', intl: 'm' },
+  wqf:  { espn: 'fifa.worldq.caf', intl: 'm' }, wqo: { espn: 'fifa.worldq.ofc', intl: 'm' },
+  euro: { espn: 'uefa.euro', intl: 'm', kw: 1.25 }, euq: { espn: 'uefa.euroq', intl: 'm' },
+  copa: { espn: 'conmebol.america', intl: 'm', kw: 1.25 }, gold: { espn: 'concacaf.gold', intl: 'm', kw: 1.25 },
+  gldq: { espn: 'concacaf.gold_qual', intl: 'm' }, afcn: { espn: 'caf.nations', intl: 'm', kw: 1.25 },
+  afcq: { espn: 'caf.nations_qual', intl: 'm' }, asia: { espn: 'afc.asian.cup', intl: 'm', kw: 1.25 },
+  asiq: { espn: 'afc.cupq', intl: 'm' },
+  wcc:  { espn: 'concacaf.womens.championship', intl: 'w', track: true, kw: 1.25, name: 'Concacaf W Championship' },
+  wwcq: { espn: 'fifa.wworldq.uefa', intl: 'w', track: true, name: "Women's World Cup qualifying (UEFA)" },
+  wfr:  { espn: 'fifa.friendly.w', intl: 'w', track: true, kw: 0.6, name: "Women's friendlies" },
+  wwc:  { espn: 'fifa.wwc', intl: 'w', kw: 1.5 }, wwcp: { espn: 'fifa.wwcq.ply', intl: 'w' },
+  wshe: { espn: 'fifa.shebelieves', intl: 'w', kw: 0.8 }, woly: { espn: 'fifa.w.olympics', intl: 'w', kw: 1.25 },
+  weur: { espn: 'uefa.weuro', intl: 'w', kw: 1.25 }, wunl: { espn: 'uefa.w.nations', intl: 'w' },
+  wgld: { espn: 'concacaf.w.gold', intl: 'w', kw: 1.25 }, wcpa: { espn: 'conmebol.america.femenina', intl: 'w', kw: 1.25 },
+  wasi: { espn: 'afc.w.asian.cup', intl: 'w', kw: 1.25 }, wafc: { espn: 'caf.w.nations', intl: 'w', kw: 1.25 },
+  wfin: { espn: 'global.w.finalissima', intl: 'w' },
 };
 // cup competitions: clubs from several leagues, few matches each
 export const isCup = k => !!(LEAGUES[k].uefa || LEAGUES[k].cup);
 export const TRACKED = Object.keys(LEAGUES).filter(k => LEAGUES[k].track);
 export const FIRST_SEASON = 2016;
 export const CURRENT_SEASON = { euro: 2026, us: 2026 };
-export const currentSeason = k => (LEAGUES[k].euro || LEAGUES[k].split ? CURRENT_SEASON.euro : CURRENT_SEASON.us);
+export const currentSeason = k => (LEAGUES[k].intl ? new Date().getUTCFullYear() : LEAGUES[k].euro || LEAGUES[k].split ? CURRENT_SEASON.euro : CURRENT_SEASON.us);

@@ -21,7 +21,7 @@ export class Elo {
     for (const t of [m.h, m.a]) {
       if (R[t] == null) R[t] = (ELO_START[m.lg] ?? 1500) - (uefa ? 0 : 30);
       // a new season in a domestic league pulls the club a little toward that league's mean
-      if (!uefa) {
+      if (!uefa && !LEAGUES[m.lg].intl) {
         const tag = `${m.lg}${m.season}`;
         if (this.last[t] != null && this.last[t] !== tag && this.lgOf[t] === m.lg) R[t] = this.carry * R[t] + (1 - this.carry) * this.leagueMean(m.lg);
         this.last[t] = tag; this.lgOf[t] = m.lg;
@@ -31,7 +31,7 @@ export class Elo {
     const dr = R[m.h] - R[m.a] + (m.n ? 0 : this.HFA), we = 1 / (1 + 10 ** (-dr / 400));
     const gd = Math.abs(m.hs - m.as), W = m.hs > m.as ? 1 : m.hs === m.as ? 0.5 : 0;
     const G = gd <= 1 ? 1 : gd === 2 ? 1.5 : (11 + gd) / 8;
-    const d = this.K * G * (uefa && !LEAGUES[m.lg].ko ? 1.25 : 1) * (W - we);
+    const d = this.K * G * (uefa && !LEAGUES[m.lg].ko ? 1.25 : 1) * (LEAGUES[m.lg].kw ?? 1) * (W - we);
     R[m.h] += d; R[m.a] -= d;
   }
 }

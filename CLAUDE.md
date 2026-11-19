@@ -11,7 +11,11 @@ on Today they fold into one "N more" line per day unless he follows a club in th
 Carabao Cup, FA Cup, DFB-Pokal, U.S. Open Cup (leagues.js CUPS, `ko`): no league pages; his clubs' ties (and
 semi-finals, finals) show on Today, club cards and club sheets, the rest fold into "more"; Leagues > Cups lists each
 cup's current round; the match sheet adds "To go through" (engine.js advance: extra time, then penalties; Carabao
-straight to penalties before the final). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns.
+straight to penalties before the final). Internationals since 2026-11-19 (leagues.js INTL, `intl` 'm'/'w', `ko`): Concacaf
+Nations League, UEFA Nations League, friendlies, Concacaf W Championship, Women's World Cup qualifying (UEFA), women's
+friendlies; no league pages: Leagues > Internationals (current round, group tables), Today, team pages (app.js
+nationBody). Kevin's clubs: Liverpool, Borussia Dortmund, Sacramento Republic FC, Portland Timbers, Portland Thorns,
+and the USMNT and USWNT (leagues.js FAV_NATIONS, added once to a saved favourites list: settings.natFavs).
 Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide, dark scheme, no horizontal overflow.
 
 ## Layout
@@ -26,7 +30,10 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
       worker.js          runs sim + proofs + scenarios off the main thread
       data/<k>.json      published per league by scripts/sync.mjs (teams with ratings, matches with model rates, odds, frozen picks)
       logos/             crests (<espnId>-d.png dark, <espnId>.png light), from scripts/logos.py
-    history/<k>/<season>.json   ESPN history, 2016 on, 27 competitions (13 leagues + 4 domestic cups shown, 10 that only feed ratings, incl. Leagues Cup `lcup`, Concacaf Champions Cup `ccc`, League One/Two `eng3`/`eng4`; scripts/lib/leagues.mjs `track`). Cups are fetched a calendar year per request (`dates=YYYY`); a cup tie uses its base league's home/away rates (`base`). Liga MX files hold both tournaments (`tn` 'A2026'/'C2027'); sync publishes only the current one. odds/ = football-data.co.uk CSVs
+    history/<k>/<season>.json   ESPN history, 2016 on. National teams: 34 competitions (men: pool `intl`, women: `wintl`;
+                         World Cups, qualifiers, continental cups, Nations Leagues, friendlies; scripts/lib/leagues.mjs `intl`,
+                         `kw` = Elo step weight), one file per calendar year, `ed` = ESPN edition; sync publishes the current
+                         edition (friendlies: 4 months back to 6 ahead). Clubs: 27 competitions (13 leagues + 4 domestic cups shown, 10 that only feed ratings, incl. Leagues Cup `lcup`, Concacaf Champions Cup `ccc`, League One/Two `eng3`/`eng4`; scripts/lib/leagues.mjs `track`). Cups are fetched a calendar year per request (`dates=YYYY`); a cup tie uses its base league's home/away rates (`base`). Liga MX files hold both tournaments (`tn` 'A2026'/'C2027'); sync publishes only the current one. odds/ = football-data.co.uk CSVs
     model/params.json    tuned parameters + backtest results (scripts/backtest.mjs --tune)
     data/affinity/traits.json  researched Affinity traits per club (ESPN id); the score is computed in the page (docs/affinity.md)
     scripts/             backfill.mjs, sync.mjs, backtest.mjs, logos.py, serve.mjs, lib/

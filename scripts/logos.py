@@ -73,7 +73,9 @@ def square(im):
 
 def main():
     os.makedirs(OUT, exist_ok=True)
-    ids = {}
+    ids, nat = {}, set()
+    # national teams' flags: never cleared (a flag's white is part of it)
+    NAT = {'cnl.json', 'unl.json', 'ifr.json', 'wcc.json', 'wwcq.json', 'wfr.json'}
     for f in sorted(os.listdir(os.path.join(ROOT, 'web', 'data'))):
         if f == 'index.json' or not f.endswith('.json'):
             continue
@@ -82,6 +84,8 @@ def main():
             continue  # traits, rivals, players: not league files
         for t in d['teams']:
             ids[t['id']] = t['n']
+            if f in NAT:
+                nat.add(t['id'])
     cleared, missing = [], []
     for tid, name in sorted(ids.items()):
         for variant, suffix in (('500-dark', '-d'), ('500', '')):
@@ -94,7 +98,7 @@ def main():
             if im is None:
                 missing.append(name)
                 continue
-            if white_square(im):
+            if tid not in nat and white_square(im):
                 im = clear(im)
                 cleared.append(f'{name}{suffix}')
             square(im).save(path, optimize=True)

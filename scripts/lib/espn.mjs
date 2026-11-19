@@ -63,13 +63,14 @@ export { parseEvent, teamRecord };
 // Domestic cups ask for whole calendar years ('2026' answers every match that year; a European season spans two).
 export async function fetchSeason(key, season, { concurrency = 8, days } = {}) {
   const L = LEAGUES[key];
-  days = days || (L.ko ? (L.euro ? [`${season}`, `${season + 1}`] : [`${season}`]) : await seasonDays(key, season));
+  days = days || (L.ko || L.intl ? (L.euro ? [`${season}`, `${season + 1}`] : [`${season}`]) : await seasonDays(key, season));
   const teams = {}, byId = new Map();
   await pool(days, concurrency, async day => {
     const d = await scoreboard(key, day); if (!d) return;
     for (const e of d.events || []) {
-      if (e.season?.year && e.season.year !== season) continue;
+      if (!L.intl && e.season?.year && e.season.year !== season) continue;
       const p = parseEvent(e); if (!p) continue;
+      if (L.intl) { if (!e.date.startsWith(String(season))) continue; if (e.season?.year) p.m.ed = e.season.year; }
       byId.set(p.m.id, p.m);
       for (const t of p.teams) if (!teams[t.id]) teams[t.id] = teamRecord(t);
     }
