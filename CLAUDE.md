@@ -20,7 +20,7 @@ Used mostly on iPhone/iPad Safari in dark mode: check every change at 375px wide
 
 ## Layout
     web/                 the site, deployed as-is (no build step, ES modules, no npm dependencies)
-      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|affinity> (bracket: USL, NWSL, MLS play-offs and the three UEFA cups' knockouts; app.js BRACKET), #/clubs/<club-slug>, #/explore), views, sheets
+      app.js             shell, routing (#/today, #/league/<k>/<matches|table|bracket|odds|scenarios|elo|affinity> (elo: the league's clubs by Elo with the 30-day change, app.js eloTable, shared with Explore > Ratings) (bracket: USL, NWSL, MLS play-offs and the three UEFA cups' knockouts; app.js BRACKET), #/clubs/<club-slug>, #/explore), views, sheets
       engine.js          scoreline grids (Dixon-Coles), market blend, live grids, knockout odds, RNG; shared with Node
       sim.js             tables + tiebreakers, season Monte Carlo, post-season brackets (ucl = all three UEFA cups: halves drawn from the seed pairs, 1/2 v 7/8 paths in the quarter-finals, mls, nwsl, usl, efl = Championship promotion, mex)
       clinch.js          clinched/eliminated proofs (quick bound, then max-flow) and this-round scenarios

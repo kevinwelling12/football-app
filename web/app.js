@@ -484,6 +484,7 @@ function viewLeague() {
   if (route.sub === 'scenarios') return viewScenarios(k);
   if (route.sub === 'bracket' && BRACKET[LEAGUES[k].playoffs?.type]) return viewBracket(k);
   if (route.sub === 'affinity') return viewLeagueAffinity(k);
+  if (route.sub === 'elo') return viewLeagueElo(k);
   return viewTable(k);
 }
 
@@ -1004,19 +1005,31 @@ function viewExplore() {
   html += `<nav class="chips" style="padding:0 0 10px">${Object.keys(POOLS).map(k => `<button class="chip ${sel === k ? 'on' : ''}" data-rlg="${k}">${PN[k]}</button>`).join('')}</nav>`;
   const rows = [], seen2 = new Set();
   for (const k of POOLS[sel]) D[k]?.teams.forEach((t, i) => { if (!seen2.has(t.id)) { seen2.add(t.id); rows.push([k, i, t]); } });
+  html += eloTable(rows, mixed, 50) + `
+    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" (single-league lists, on wider screens) is the model's expected goal difference a match against an average side in that league. "30 days" is the change in Elo points and in places on this list since a month ago.</p>`;
+  return html;
+}
+// An Elo table (Explore > Ratings, and each league's Elo tab): rows [k, i, team], best first, with the 30-day change in
+// Elo points and in places on this list (rating 30 days ago, e30, from the sync; a club with no rating then counts at
+// today's). mixed: several leagues on one scale (a League column instead of Goals ±).
+function eloTable(rows, mixed, max = rows.length) {
+  const fav = favIds();
   // expected goal difference a match against an average side in the club's league (from the attack/defence fit)
   const strength = (k, t) => { const b = D[k].base, avg = (b[0] + b[1]) / 2; return avg * t.A - avg * t.D; };
-  rows.sort((a, b) => b[2].elo - a[2].elo);
-  // 30-day change: Elo points and places in this list (rating 30 days ago, e30, from the sync; a club with no rating then
-  // counts at today's)
+  rows = [...rows].sort((a, b) => b[2].elo - a[2].elo);
   const was = [...rows].sort((a, b) => (b[2].e30 ?? b[2].elo) - (a[2].e30 ?? a[2].elo)), rank30 = new Map(was.map((r, n) => [r[2].id, n]));
   const d30 = (t, n) => {
     const dp = t.e30 == null ? 0 : t.elo - t.e30, dr = rank30.get(t.id) - n;
     return `<td class="d30"><span class="${dp > 0 ? 'up' : dp < 0 ? 'down' : 'faint'}">${dp > 0 ? '+' : dp < 0 ? '−' : ''}${Math.abs(dp)}</span>${dr ? `<span class="move ${dr > 0 ? 'up' : 'down'}">${dr > 0 ? '▲' : '▼'}${Math.abs(dr)}</span>` : '<span class="move faint">–</span>'}</td>`;
   };
-  html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>30 days</th><th${mixed ? '' : ' class="wide"'}>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td>${d30(t, n)}<td class="muted${mixed ? '' : ' wide'}">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
-    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" (single-league lists, on wider screens) is the model's expected goal difference a match against an average side in that league. "30 days" is the change in Elo points and in places on this list since a month ago.</p>`;
-  return html;
+  return `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>30 days</th><th${mixed ? '' : ' class="wide"'}>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, max).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td>${d30(t, n)}<td class="muted${mixed ? '' : ' wide'}">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>`;
+}
+// A league's Elo tab: its clubs on their scale (Europe, MLS and Liga MX share theirs), best first
+function viewLeagueElo(k) {
+  const L = D[k], rows = L.teams.map((t, i) => [k, i, t]).filter(([, , t]) => t.inLeague !== false);
+  const scale = LEAGUES[k].region === 'Europe' ? 'every European club' : ['mls', 'mex'].includes(k) ? 'MLS and Liga MX clubs' : `${LEAGUES[k].short} clubs only`;
+  return `<div class="section"><h2>Elo</h2><span class="aside">${rows.length} clubs</span></div>${eloTable(rows, false)}
+    <p class="note">Elo from ten seasons of ESPN results, on one scale with ${scale}; Explore > Ratings has the whole scale. "30 days" is the change in Elo points and in places in this league since a month ago. "Goals ±" (on wider screens) is the model's expected goal difference against an average side in the league.</p>`;
 }
 function affinityExplore(fav) {
   let html = '';
@@ -1380,7 +1393,7 @@ function parseHash() {
   const p = location.hash.replace(/^#\/?/, '').split('/');
   const tab = ['today', 'league', 'clubs', 'explore'].includes(p[0]) ? p[0] : 'today';
   if (tab === 'clubs') route.club = p[1] || null;
-  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups' || p[1] === 'intl') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
+  if (tab === 'league') { if (LEAGUES[p[1]] && !LEAGUES[p[1]].ko || p[1] === 'cups' || p[1] === 'intl') { route.lg = p[1]; route.lgAuto = false; } if (['matches', 'table', 'odds', 'scenarios', 'elo', 'affinity', 'bracket'].includes(p[2])) route.sub = p[2]; if (route.lg) localSet('lg', route.lg); localSet('sub', route.sub); }
   route.tab = tab;
 }
 function chrome() {
@@ -1413,7 +1426,10 @@ function chrome() {
     }
     const hasBracket = !!BRACKET[LEAGUES[route.lg]?.playoffs?.type];
     if (route.sub === 'bracket' && !hasBracket) route.sub = 'table';
-    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ...(hasBracket ? [['bracket', 'Bracket']] : []), ['odds', 'Race'], ['scenarios', 'Scenarios'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
+    morph(seg, [['matches', 'Matches'], ['table', 'Table'], ...(hasBracket ? [['bracket', 'Bracket']] : []), ['odds', 'Race'], ['scenarios', 'Scenarios'], ['elo', 'Elo'], ['affinity', 'Affinity']].map(([s, n]) => `<a href="#/league/${route.lg}/${s}" class="${route.sub === s ? 'on' : ''}">${n}</a>`).join(''));
+    // keep the selected tab in view (the row scrolls sideways on a phone)
+    const so = seg.querySelector('a.on');
+    if (so) { const a = so.getBoundingClientRect(), c = seg.getBoundingClientRect(); if (a.right > c.right || a.left < c.left) seg.scrollLeft += a.left - c.left - 16; }
   }
   const st = store.status(); $('#sync-dot').className = 'sync-dot' + (st === 'synced' ? ' on' : st === 'error' ? ' err' : '');
 }
