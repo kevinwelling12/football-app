@@ -6,15 +6,16 @@
 // the keys it changed (Firestore merges nested maps). Two devices' changes therefore combine instead of one device's
 // whole copy overwriting the other's. The document as Firestore holds it (with this device's pending writes) is the truth.
 const LS = 'football-app-v1';
-const blank = () => ({ entries: {}, favs: null, picks: {}, settings: {}, motw: {}, affPicks: [], playerPicks: [], updated: 0 });
+const blank = () => ({ entries: {}, favs: null, settings: {}, motw: {}, affPicks: [], playerPicks: [], updated: 0 });
 
 let state = load(), listeners = [], cloud = null, user = null, status = 'local';
 // what Settings shows: last error, when the cloud copy was last seen, and its pick count
 const diag = { error: null, seen: null, cloudPicks: null, cloudEntries: null };
 const countEntries = e => Object.values(e || {}).reduce((n, m) => n + Object.keys(m || {}).length, 0);
 
+// Score picks (FotMob) were dropped on 2026-11-19 (Kevin): the old field is removed here and in the cloud copy.
 function load() {
-  try { return { ...blank(), ...JSON.parse(localStorage.getItem(LS) || '{}') }; } catch { return blank(); }
+  try { const s = { ...blank(), ...JSON.parse(localStorage.getItem(LS) || '{}') }; delete s.picks; return s; } catch { return blank(); }
 }
 function persist() { try { localStorage.setItem(LS, JSON.stringify(state)); } catch { /* private mode */ } }
 const emit = () => listeners.forEach(f => f(state));
@@ -58,7 +59,7 @@ function delta(a, b) {
     const d = diffMap(a.entries?.[lg], b.entries?.[lg]); if (Object.keys(d).length) ent[lg] = d;
   }
   if (Object.keys(ent).length) out.entries = ent;
-  for (const [f, x, y] of [[CF.affPicks, compact(a.affPicks), compact(b.affPicks)], [CF.playerPicks, compact(a.playerPicks), compact(b.playerPicks)], ['picks', a.picks, b.picks], ['motw', a.motw, b.motw]]) {
+  for (const [f, x, y] of [[CF.affPicks, compact(a.affPicks), compact(b.affPicks)], [CF.playerPicks, compact(a.playerPicks), compact(b.playerPicks)], ['motw', a.motw, b.motw]]) {
     const d = diffMap(x, y); if (Object.keys(d).length) out[f] = d;
   }
   if (!same(a.favs, b.favs)) out.favs = { ids: b.favs };
@@ -70,13 +71,13 @@ function delta(a, b) {
 // drop: remove the old map fields in the same write (only with merge)
 const toCloud = (s, drop) => ({ v: 3, entries: s.entries || {}, affP: compact(s.affPicks), plP: compact(s.playerPicks),
   ...(drop ? { affPicks: firebase.firestore.FieldValue.delete(), playerPicks: firebase.firestore.FieldValue.delete() } : {}),
-  picks: s.picks || {}, motw: s.motw || {}, favs: { ids: s.favs }, settings: s.settings || {} });
+  motw: s.motw || {}, favs: { ids: s.favs }, settings: s.settings || {} });
 function fromCloud(d) {
   if (typeof d.entries === 'string') { // first version stored JSON strings
     const j = (x, dflt) => { try { return x ? JSON.parse(x) : dflt; } catch { return dflt; } };
-    return { entries: j(d.entries, {}), favs: j(d.favs, null), picks: j(d.picks, {}), settings: j(d.settings, {}), motw: j(d.motw, {}), affPicks: j(d.affPicks, []) };
+    return { entries: j(d.entries, {}), favs: j(d.favs, null), settings: j(d.settings, {}), motw: j(d.motw, {}), affPicks: j(d.affPicks, []) };
   }
-  return { entries: d.entries || {}, favs: d.favs?.ids ?? null, picks: d.picks || {}, settings: d.settings || {}, motw: d.motw || {},
+  return { entries: d.entries || {}, favs: d.favs?.ids ?? null, settings: d.settings || {}, motw: d.motw || {},
     affPicks: readPicks(d.affPicks, d.affP), playerPicks: readPicks(d.playerPicks, d.plP) };
 }
 
@@ -89,7 +90,7 @@ function merge(local, remote) {
     for (const id of new Set([...Object.keys(L), ...Object.keys(R)])) entries[lg][id] = newest(L[id], R[id]);
   }
   const union = (a = [], b = []) => { const m = new Map(); for (const p of [...a, ...b]) m.set(pairKey(p), newest(m.get(pairKey(p)), p)); return [...m.values()]; };
-  return { ...blank(), entries, affPicks: union(local.affPicks, remote.affPicks), playerPicks: union(local.playerPicks, remote.playerPicks), picks: { ...local.picks, ...remote.picks }, motw: { ...local.motw, ...remote.motw },
+  return { ...blank(), entries, affPicks: union(local.affPicks, remote.affPicks), playerPicks: union(local.playerPicks, remote.playerPicks), motw: { ...local.motw, ...remote.motw },
     favs: remote.favs ?? local.favs, settings: { ...local.settings, ...remote.settings }, updated: Date.now() };
 }
 
@@ -107,7 +108,7 @@ async function syncNow() {
     state = snap.exists ? merge(state, fromCloud(snap.data())) : { ...state };
     persist();
     if (snap.exists && typeof snap.data().entries === 'string') await ref.set(toCloud(state)); // convert the first-version layout
-    else await ref.set(toCloud(state, snap.exists && (snap.data().affPicks || snap.data().playerPicks)), { merge: true });
+    else await ref.set({ ...toCloud(state, snap.exists && (snap.data().affPicks || snap.data().playerPicks)), ...(snap.exists && snap.data().picks ? { picks: firebase.firestore.FieldValue.delete() } : {}) }, { merge: true }); // score picks: dropped 2026-11-19
     cloud = ref; status = 'synced'; emit();
   } catch (e) { fail(e); }
 }
