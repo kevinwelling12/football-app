@@ -1007,8 +1007,15 @@ function viewExplore() {
   // expected goal difference a match against an average side in the club's league (from the attack/defence fit)
   const strength = (k, t) => { const b = D[k].base, avg = (b[0] + b[1]) / 2; return avg * t.A - avg * t.D; };
   rows.sort((a, b) => b[2].elo - a[2].elo);
-  html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td><td class="muted">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
-    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" is the model's expected goal difference a match against an average side in that league.</p>`;
+  // 30-day change: Elo points and places in this list (rating 30 days ago, e30, from the sync; a club with no rating then
+  // counts at today's)
+  const was = [...rows].sort((a, b) => (b[2].e30 ?? b[2].elo) - (a[2].e30 ?? a[2].elo)), rank30 = new Map(was.map((r, n) => [r[2].id, n]));
+  const d30 = (t, n) => {
+    const dp = t.e30 == null ? 0 : t.elo - t.e30, dr = rank30.get(t.id) - n;
+    return `<td class="d30"><span class="${dp > 0 ? 'up' : dp < 0 ? 'down' : 'faint'}">${dp > 0 ? '+' : dp < 0 ? '−' : ''}${Math.abs(dp)}</span>${dr ? `<span class="move ${dr > 0 ? 'up' : 'down'}">${dr > 0 ? '▲' : '▼'}${Math.abs(dr)}</span>` : '<span class="move faint">–</span>'}</td>`;
+  };
+  html += `<div class="card"><table><tr><th>#</th><th class="club">Club</th><th>Elo</th><th>30 days</th><th${mixed ? '' : ' class="wide"'}>${mixed ? 'League' : 'Goals ±'}</th></tr>${rows.slice(0, 50).map(([k, i, t], n) => `<tr class="click${fav.has(t.id) ? ' me' : ''}" data-club="${k}:${i}"><td class="pos">${n + 1}</td><td class="club"><div class="cl">${crest(t)}<span>${esc(t.s)}</span></div></td><td class="pts">${t.elo}</td>${d30(t, n)}<td class="muted${mixed ? '' : ' wide'}">${mixed ? LEAGUES[k].tag : fmtSigned(strength(k, t))}</td></tr>`).join('')}</table></div>
+    <p class="note">Elo is computed here from ten seasons of ESPN results. European clubs share one scale through UEFA matches and promotion (2. Bundesliga and five other leagues feed it too); MLS and Liga MX share one through the Leagues Cup and the Concacaf Champions Cup; NWSL and USL each have their own. "Goals ±" (single-league lists, on wider screens) is the model's expected goal difference a match against an average side in that league. "30 days" is the change in Elo points and in places on this list since a month ago.</p>`;
   return html;
 }
 function affinityExplore(fav) {

@@ -93,7 +93,10 @@ async function publish() {
     const rho = params[pl]?.rho ?? -0.06, drawK = params[pl]?.drawK ?? 1;
     const blends = params[pl]?.blends, mktW = pickMarketWeight(blends);
     const elo = new Elo(), now = dayNum(today.toISOString()) + 0.5;
-    for (const m of data.matches) if (m.d < now) elo.add(m);
+    // ratings 30 days ago too, for the 30-day change in Explore > Ratings (e30)
+    let R30 = null;
+    for (const m of data.matches) { if (m.d >= now) break; if (!R30 && m.d >= now - 30) R30 = { ...elo.R }; elo.add(m); }
+    R30 ||= { ...elo.R };
     const sm = fitShotModel(data.matches), fit = fitStrength(data.matches, now, P, elo.R, sm);
     for (const k of POOLS[pl].filter(x => LEAGUES[x].track)) {
       const season = currentSeason(k), file = fileOf(k, season), intl = LEAGUES[k].intl;
@@ -133,7 +136,7 @@ async function publish() {
         // Affinity is computed in the page from researched traits (data/affinity/traits.json, keyed by ESPN id)
         if (traits[id]) { const { src, ...tr } = traits[id]; pubTraits[id] = tr; }
         else noTraits.push(`${t.n} (${id})`);
-        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
+        return { id, n: t.n, s: t.s, a: t.a, c: t.c, logo: t.logo, g: g[id] || '', elo: Math.round(elo.R[id] ?? 1500), ...(R30[id] != null ? { e30: Math.round(R30[id]) } : {}), A: +A.toFixed(4), D: +D.toFixed(4), espnRank: rank[id] };
       });
       if (noTraits.length && !ko && !intl) report.push(`${k}: no Affinity traits for ${noTraits.length} club(s), research them and add them to data/affinity/traits.json: ${noTraits.join(', ')}`);
       const lg = { ...data.matches.find(m => m.lg === k) }.lg || k;

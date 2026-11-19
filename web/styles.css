@@ -335,3 +335,8 @@ td.pos::before { width: 4px; border-radius: 0; transform: skewX(-20deg); }
 .tabbar a.on { color: #fff; }
 .tabbar a.on::before { content: ""; position: absolute; top: -6px; left: 50%; width: 26px; height: 3px; margin-left: -13px; background: var(--blue); transform: skewX(-45deg); }
 .tabbar a.on svg { color: var(--blue); }
+
+/* Ratings: 30-day change, Elo points then places */
+td.d30 { font-variant-numeric: tabular-nums; font-size: 13px; }
+td.d30 .up { color: var(--good); } td.d30 .down { color: var(--bad); }
+td.d30 .move { display: inline-block; min-width: 28px; text-align: right; margin-left: 6px; }
