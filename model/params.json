@@ -344,5 +344,193 @@
   },
   "from": 2021,
   "at": "2026-10-13T16:31:30.957Z"
+ },
+ "intl": {
+  "P": {
+   "halfLife": 500,
+   "wGoals": 0.7,
+   "k": 2,
+   "gamma": 2.5
+  },
+  "rho": 0.08,
+  "drawK": 1.15,
+  "test": {
+   "n": 2734,
+   "logloss": 0.9221,
+   "rps": 0.1858,
+   "pts": 1.254
+  },
+  "byLeague": {
+   "cnl": {
+    "n": 390,
+    "logloss": 0.8508,
+    "rps": 0.1795,
+    "pts": 1.395
+   },
+   "unl": {
+    "n": 471,
+    "logloss": 0.9193,
+    "rps": 0.1828,
+    "pts": 1.31
+   },
+   "ifr": {
+    "n": 1873,
+    "logloss": 0.9377,
+    "rps": 0.1878,
+    "pts": 1.211
+   }
+  },
+  "oldStyle": {
+   "n": 2734,
+   "logloss": 1.0339,
+   "rps": 0.2205,
+   "pts": 1.087
+  },
+  "market": {
+   "n": 0,
+   "logloss": null,
+   "rps": null,
+   "pts": null
+  },
+  "blends": {
+   "0": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.25": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.5": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.6": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.7": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.8": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.9": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   }
+  },
+  "from": 2021,
+  "at": "2026-11-19T16:28:59.278Z"
+ },
+ "wintl": {
+  "P": {
+   "halfLife": 500,
+   "wGoals": 0,
+   "k": 2,
+   "gamma": 2.5
+  },
+  "rho": 0.08,
+  "drawK": 1,
+  "test": {
+   "n": 1092,
+   "logloss": 0.7837,
+   "rps": 0.1618,
+   "pts": 1.426
+  },
+  "byLeague": {
+   "wcc": {
+    "n": 12,
+    "logloss": 0.5011,
+    "rps": 0.114,
+    "pts": 1.833
+   },
+   "wwcq": {
+    "n": 380,
+    "logloss": 0.5911,
+    "rps": 0.1153,
+    "pts": 1.674
+   },
+   "wfr": {
+    "n": 700,
+    "logloss": 0.8931,
+    "rps": 0.1879,
+    "pts": 1.284
+   }
+  },
+  "oldStyle": {
+   "n": 1092,
+   "logloss": 0.9683,
+   "rps": 0.2166,
+   "pts": 1.204
+  },
+  "market": {
+   "n": 0,
+   "logloss": null,
+   "rps": null,
+   "pts": null
+  },
+  "blends": {
+   "0": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.25": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.5": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.6": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.7": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.8": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   },
+   "0.9": {
+    "n": 0,
+    "logloss": null,
+    "rps": null,
+    "pts": null
+   }
+  },
+  "from": 2021,
+  "at": "2026-11-19T16:31:38.915Z"
  }
 }
