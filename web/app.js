@@ -415,6 +415,14 @@ function quiet(k) { if (MAIN.includes(k)) return false; const fav = favIds(); re
 
 // proven out of the post-season (eliminated from the widest place that goes on): its post-season chances show as –
 // out of the post-season, proven: missed it (clinch proof) or lost a knockout tie already decided
+// The competition's winner once its final is played (proven from the result, not the simulation): USL 'final', NWSL
+// 'playoffs---championship', UEFA 'final', MLS Cup; a conference final ('...---final') doesn't count
+function champion(k) {
+  if (!LEAGUES[k].playoffs) return null;
+  const fin = matchesOf(k).filter(m => m.stage && /^(final|.*championship|mls-cup.*|.*---mls-cup)$/.test(m.stage) && !/conference/.test(m.stage));
+  if (!fin.length || fin.some(m => !isPlayed(m))) return null;
+  const m = fin.at(-1); return tieWinner(k, m.h, m.a);
+}
 function postOut(k, i) {
   const rules = LEAGUES[k], R = SIM[k];
   if (!rules.playoffs) return false;
@@ -470,7 +478,7 @@ function clubCard(k, i) {
   let lx = '';
   if (lm) { const { home, opp, gf, ga } = side(lm), r = gf > ga ? 'W' : gf < ga ? 'L' : 'D'; lx = `<span class="res ${r}">${r}</span> ${gf}–${ga} ${home ? 'vs' : 'at'} ${esc(opp.s)}${tagOf(lm)}`; }
   return `<a class="club-card" href="#/clubs/${slugOf(t)}">${crest(t, 'lg')}<div><div class="cc-top"><b>${esc(t.nat ? clubLabel(t, []) : t.s || t.n)}</b> ${rules.intl ? '' : `<span class="faint small">${LEAGUES[k].tag}</span> `}<span class="meta">${where}</span></div><div class="meta">${nx}</div>${lx ? `<div class="meta faint">${lx}</div>` : ''}</div>
-    ${hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
+    ${champion(k) === i ? `<div><div class="big-num tick">✓</div><div class="tiny muted" style="text-align:right">Champions</div></div>` : hl ? `<div><div class="big-num">${pctTxt(hl.p)}</div><div class="tiny muted" style="text-align:right">${esc(hl.label)}</div></div>` : '<div></div>'}</a>`;
 }
 
 // ------------------------------------------------------------------ League views
@@ -792,7 +800,8 @@ function viewOdds(k) {
       const t = L.teams[i], T = S.teams[i];
       const cells = cols.map(c => {
         const isZone = rules.zones.some(z => z.key === c);
-        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : postOut(k, i) ? 'out' : null;
+        const champ = c === 'champ' ? champion(k) : null;
+        const p = isZone ? T.zone[c] : T.rounds[c] ?? 0, status = isZone ? R.status[c]?.[i] : champ != null ? (champ === i ? 'in' : 'out') : postOut(k, i) ? 'out' : null;
         const z = rules.zones.find(z => z.key === c), tone = z ? toneVar(z.tone) : 'var(--gold)';
         const heat = status ? 0 : p * 0.32;
         return `<td class="pct"><span class="heat" style="background:${tone};opacity:${heat}"></span><b>${pct(p, status)}</b></td>`;
@@ -1299,7 +1308,7 @@ function clubBody(k, i, page = false) {
     const r2 = LEAGUES[k2], T = R2.sim.teams[j], out = postOut(k2, j);
     const chip = (label, v) => `<span class="zc"><b>${v}</b> ${esc(label)}</span>`;
     const zs = r2.zones.map(z => chip(z.tone === 'bad' ? 'Down' : z.short, pct(T.zone[z.key], R2.status[z.key]?.[j]) + (R2.status[z.key]?.[j] ? '' : '%')));
-    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => chip(roundName(r2, r), out ? pct(p, 'out') : pct(p) + '%'));
+    const rs = Object.entries(T.rounds).filter(([r]) => r === 'champ' || r === 'final' || r === 'up').map(([r, p]) => { const ch = champion(k2), st = ch != null && (r === 'champ' || ch === j) ? (ch === j ? 'in' : 'out') : out ? 'out' : null; return chip(roundName(r2, r), st ? pct(p, st) : pct(p) + '%'); });
     const pp = k2 === k ? [chip(`pts (${T.ptsRange[0]}–${T.ptsRange[1]})`, Math.round(T.pts))] : [];
     return `<div class="comp-ch"><div class="small muted">${esc(r2.name)}</div><div class="zcs">${[...zs, ...rs, ...pp].join('')}</div></div>`;
   }).join('');
