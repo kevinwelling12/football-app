@@ -95,7 +95,9 @@ async function publish() {
     const elo = new Elo(), now = dayNum(today.toISOString()) + 0.5;
     // ratings 30 days ago too, for the 30-day change in Explore > Ratings (e30)
     let R30 = null;
-    for (const m of data.matches) { if (m.d >= now) break; if (!R30 && m.d >= now - 30) R30 = { ...elo.R }; elo.add(m); }
+    // each played match's Elo going in and the change it made, for the match sheet (el)
+    const eloOf = new Map();
+    for (const m of data.matches) { if (m.d >= now) break; if (!R30 && m.d >= now - 30) R30 = { ...elo.R }; const e = elo.add(m); if (e) eloOf.set(m.id, e); }
     R30 ||= { ...elo.R };
     const sm = fitShotModel(data.matches), fit = fitStrength(data.matches, now, P, elo.R, sm);
     for (const k of POOLS[pl].filter(x => LEAGUES[x].track)) {
@@ -157,6 +159,7 @@ async function publish() {
         for (const f of ['hs', 'as', 'stage', 'leg', 'series', 'n', 'so', 'sh', 'sot', 'tv', 'clock']) if (m[f] != null) out[f] = m[f];
         // MLS Round One is best of three (no extra time, every game decided on penalties); ESPN stopped flagging it in 2026
         if (k === 'mls' && /round-one/.test(m.stage || '')) out.series = 1;
+        const e = eloOf.get(m.id); if (e && played(m)) out.el = [Math.round(e.rh), Math.round(e.ra), Math.round(e.d)];
         if (!played(m) && m.st !== 'canc') {
           out.lh = +lh.toFixed(3); out.la = +la.toFixed(3);
           if (m.o) out.o = m.o;

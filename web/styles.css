@@ -340,3 +340,6 @@ td.pos::before { width: 4px; border-radius: 0; transform: skewX(-20deg); }
 td.d30 { font-variant-numeric: tabular-nums; font-size: 13px; }
 td.d30 .up { color: var(--good); } td.d30 .down { color: var(--bad); }
 td.d30 .move { display: inline-block; min-width: 28px; text-align: right; margin-left: 6px; }
+
+/* match sheet: Elo change */
+.eup { color: var(--good); font-weight: 600; } .edown { color: var(--bad); font-weight: 600; }

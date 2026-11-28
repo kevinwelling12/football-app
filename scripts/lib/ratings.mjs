@@ -32,7 +32,9 @@ export class Elo {
     const gd = Math.abs(m.hs - m.as), W = m.hs > m.as ? 1 : m.hs === m.as ? 0.5 : 0;
     const G = gd <= 1 ? 1 : gd === 2 ? 1.5 : (11 + gd) / 8;
     const d = this.K * G * (uefa && !LEAGUES[m.lg].ko ? 1.25 : 1) * (LEAGUES[m.lg].kw ?? 1) * (W - we);
+    const before = { rh: R[m.h], ra: R[m.a], d };
     R[m.h] += d; R[m.a] -= d;
+    return before; // ratings going in (after any new-season pull) and the home side's change
   }
 }
 

@@ -1127,7 +1127,11 @@ function matchSheet(k, id) {
     html += `<div class="block"><h4>What's at stake</h4><div class="kv"><div class="hd"></div><div class="hd">Win</div><div class="hd">Draw</div><div class="hd">Loss</div>
       ${fi.swings.map(s => { const x = stakeLine(k, m, s); return `<div>${esc(x.team.s)} · ${esc(x.zone)}</div><div>${pctTxt(x.win)}</div><div class="muted">${x.draw == null ? '–' : pctTxt(x.draw)}</div><div class="muted">${pctTxt(x.loss)}</div>`; }).join('')}</div></div>`;
   }
-  if (m.sh) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div><div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div></div></div>`;
+  // Elo: each side's rating going in and what the result did to it (published by the sync, el = [home, away, home change])
+  const el = played && m.el, dl = x => `<span class="${x > 0 ? 'eup' : x < 0 ? 'edown' : 'faint'}">${x > 0 ? '+' : x < 0 ? '−' : '±'}${Math.abs(x)}</span>`;
+  const eloRows = el ? `<div>Elo before</div><div>${el[0]}</div><div></div><div>${el[1]}</div><div>Elo change</div><div>${dl(el[2])}</div><div></div><div>${dl(-el[2])}</div>` : '';
+  const statRows = m.sh ? `<div>Shots</div><div>${m.sh[0]}</div><div></div><div>${m.sh[1]}</div><div>On target</div><div>${m.sot[0]}</div><div></div><div>${m.sot[1]}</div>` : '';
+  if (eloRows || statRows) html += `<div class="block"><h4>Match stats</h4><div class="kv"><div class="hd"></div><div class="hd">${esc(H.a)}</div><div class="hd"></div><div class="hd">${esc(A.a)}</div>${eloRows}${statRows}</div></div>`;
   openSheet(html);
 }
 
